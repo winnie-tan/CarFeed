@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,20 +11,94 @@
 
     body {
       margin: 0;
-      padding: 24px;
-      font-family: Arial, sans-serif;
       background: #f5f1e8;
       color: #222;
+      font-family: Arial, sans-serif;
     }
 
-    h1 {
-      margin-bottom: 20px;
-      font-size: 32px;
-      line-height: 1.2;
+    .page {
+      width: min(100%, 1440px);
+      margin: 0 auto;
+      padding: 20px 16px 32px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .chip,
+    .search-toggle {
+      border: 1px solid #cfc7b8;
+      background: #fff;
+      color: #222;
+      border-radius: 14px;
+      padding: 12px 16px;
+      font-size: 16px;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    .chip.active {
+      background: #222;
+      border-color: #222;
+      color: #fff;
+    }
+
+    .search-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 46px;
+      height: 46px;
+      padding: 0;
+      flex-shrink: 0;
+    }
+
+    .search-toggle svg {
+      width: 20px;
+      height: 20px;
+      stroke: currentColor;
+      fill: none;
+      stroke-width: 2;
+    }
+
+    .search-panel {
+      display: none;
+      max-width: 360px;
+      margin: 0 0 18px auto;
+    }
+
+    .search-panel.open {
+      display: block;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 13px 14px;
+      border: 1px solid #d8d1c3;
+      border-radius: 14px;
+      font-size: 15px;
+      background: #fff;
+      outline: none;
+    }
+
+    .search-input:focus {
+      border-color: #99907f;
     }
 
     .grid {
-      column-count: 2;
+      column-count: 4;
       column-gap: 18px;
     }
 
@@ -33,22 +107,21 @@
       text-decoration: none;
       display: inline-block;
       width: 100%;
+      margin-bottom: 18px;
+      break-inside: avoid;
     }
 
     .card {
-      break-inside: avoid;
       background: #fff;
       border-radius: 18px;
       overflow: hidden;
-      margin-bottom: 18px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     }
 
     .card img.cover {
       width: 100%;
+      height: auto;
       display: block;
-      aspect-ratio: 16 / 10;
-      object-fit: cover;
       background: #eee;
     }
 
@@ -57,10 +130,10 @@
     }
 
     .title {
-      font-size: 16px;
+      font-size: 15px;
       font-weight: bold;
-      line-height: 1.45;
-      margin-bottom: 14px;
+      line-height: 1.35;
+      margin-bottom: 12px;
       word-break: break-word;
     }
 
@@ -68,7 +141,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
     }
 
     .source {
@@ -80,14 +153,14 @@
     }
 
     .source img.logo {
-      height: 20px;
+      height: 18px;
       width: auto;
       display: block;
       flex-shrink: 0;
     }
 
     .source-name {
-      font-size: 13px;
+      font-size: 12px;
       color: #666;
       white-space: nowrap;
       overflow: hidden;
@@ -97,85 +170,227 @@
     .right-meta {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-shrink: 0;
     }
 
     .date {
-      font-size: 13px;
+      font-size: 12px;
       color: #666;
     }
 
     .heart {
-      font-size: 18px;
+      font-size: 16px;
       line-height: 1;
       color: #222;
     }
 
+    .empty {
+      display: none;
+      text-align: center;
+      color: #666;
+      padding: 24px 12px;
+    }
+
+    .empty.show {
+      display: block;
+    }
+
+    @media (max-width: 1320px) {
+      .grid {
+        column-count: 3;
+      }
+    }
+
+    @media (max-width: 980px) {
+      .grid {
+        column-count: 2;
+      }
+    }
+
     @media (max-width: 768px) {
-      body {
-        padding: 16px;
+      .page {
+        padding: 16px 12px 24px;
       }
 
-      h1 {
-        font-size: 28px;
+      .topbar {
+        align-items: center;
+      }
+
+      .toolbar {
+        gap: 10px;
+      }
+
+      .chip,
+      .search-toggle {
+        font-size: 15px;
+      }
+
+      .chip {
+        padding: 11px 14px;
+      }
+
+      .search-toggle {
+        width: 42px;
+        height: 42px;
+      }
+
+      .search-panel {
+        max-width: none;
       }
 
       .grid {
-        column-count: 1;
+        column-count: 2;
+        column-gap: 12px;
+      }
+
+      .card-link {
+        margin-bottom: 12px;
+      }
+
+      .content {
+        padding: 8px 8px 10px;
       }
 
       .title {
-        font-size: 17px;
+        font-size: 12px;
+        line-height: 1.25;
+        margin-bottom: 8px;
+      }
+
+      .source img.logo {
+        height: 14px;
+      }
+
+      .source-name,
+      .date {
+        font-size: 10px;
+      }
+
+      .heart {
+        font-size: 13px;
       }
     }
   </style>
 </head>
 <body>
-  <h1>CarFeed Preview</h1>
-  <div id="articles" class="grid"></div>
+  <main class="page">
+    <div class="topbar">
+      <div class="toolbar" id="filters"></div>
+      <button class="search-toggle" id="searchToggle" type="button" aria-label="搜索">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="6.5"></circle>
+          <path d="M16 16l5 5"></path>
+        </svg>
+      </button>
+    </div>
+    <div class="search-panel" id="searchPanel">
+      <input class="search-input" id="searchInput" type="search" placeholder="搜索标题或来源" />
+    </div>
+    <div id="articles" class="grid"></div>
+    <div class="empty" id="emptyState">没有匹配的内容。</div>
+  </main>
 
   <script>
+    const categoryConfig = [
+      { key: "all", label: "全部" },
+      { key: "car", label: "汽车" },
+      { key: "bike", label: "摩托" },
+      { key: "custom", label: "改装" }
+    ];
+
+    let allArticles = [];
+    let activeCategory = "all";
+    let searchText = "";
+
     function formatDate(dateStr) {
       if (!dateStr) return "";
 
       if (/^\d{4}\.\d{1,2}\.\d{1,2}$/.test(dateStr)) {
-        const [y, m, d] = dateStr.split(".");
-        return `${Number(y)}.${Number(m)}.${Number(d)}`;
+        const parts = dateStr.split(".");
+        return `${Number(parts[0])}.${Number(parts[1])}.${Number(parts[2])}`;
       }
 
-      const d = new Date(dateStr);
-      if (isNaN(d.getTime())) return dateStr;
+      const date = new Date(dateStr);
+      if (Number.isNaN(date.getTime())) return dateStr;
+      return `${date.getFullYear()}.${date.getMonth() + 1}.${date.getDate()}`;
+    }
 
-      return `${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
+    function escapeHtml(value) {
+      return String(value || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    function getFilteredArticles() {
+      const keyword = searchText.trim().toLowerCase();
+
+      return allArticles.filter((article) => {
+        const articleCategory = article.category || "car";
+        const matchesCategory = activeCategory === "all" || articleCategory === activeCategory;
+        if (!matchesCategory) return false;
+
+        if (!keyword) return true;
+
+        const haystack = [
+          article.title_en,
+          article.source,
+          article.category
+        ].join(" ").toLowerCase();
+
+        return haystack.includes(keyword);
+      });
     }
 
     function renderLogo(article) {
       if (article.source_logo) {
-        return `<img class="logo" src="${article.source_logo}" alt="${article.source}">`;
+        return `<img class="logo" src="${escapeHtml(article.source_logo)}" alt="${escapeHtml(article.source || "")}">`;
       }
       return "";
     }
 
-    async function loadArticles() {
-      const res = await fetch("./data/articles.json?t=" + Date.now());
-      const articles = await res.json();
+    function renderFilters() {
+      const container = document.getElementById("filters");
+      container.innerHTML = categoryConfig.map((item) => `
+        <button
+          class="chip ${activeCategory === item.key ? "active" : ""}"
+          type="button"
+          data-category="${item.key}"
+        >
+          ${item.label}
+        </button>
+      `).join("");
 
+      container.querySelectorAll("[data-category]").forEach((button) => {
+        button.addEventListener("click", () => {
+          activeCategory = button.dataset.category;
+          renderFilters();
+          renderArticles();
+        });
+      });
+    }
+
+    function renderArticles() {
+      const articles = getFilteredArticles();
       const container = document.getElementById("articles");
+      const emptyState = document.getElementById("emptyState");
 
-      container.innerHTML = articles.map(article => `
-        <a class="card-link" href="${article.url}" target="_blank" rel="noopener noreferrer">
+      container.innerHTML = articles.map((article) => `
+        <a class="card-link" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">
           <div class="card">
-            ${article.image ? `<img class="cover" src="${article.image}" alt="${article.title_en || ""}">` : ""}
+            ${article.image ? `<img class="cover" src="${escapeHtml(article.image)}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">` : ""}
             <div class="content">
-              <div class="title">${article.title_en || ""}</div>
+              <div class="title">${escapeHtml(article.title_en || "")}</div>
               <div class="meta-row">
                 <div class="source">
                   ${renderLogo(article)}
-                  <div class="source-name">${article.source || ""}</div>
+                  <div class="source-name">${escapeHtml(article.source || "")}</div>
                 </div>
                 <div class="right-meta">
-                  <div class="date">${formatDate(article.time)}</div>
+                  <div class="date">${escapeHtml(formatDate(article.time))}</div>
                   <div class="heart">♡</div>
                 </div>
               </div>
@@ -183,9 +398,34 @@
           </div>
         </a>
       `).join("");
+
+      emptyState.classList.toggle("show", articles.length === 0);
     }
 
-    loadArticles();
+    async function loadArticles() {
+      const response = await fetch("./data/articles.json?t=" + Date.now());
+      allArticles = await response.json();
+      renderFilters();
+      renderArticles();
+    }
+
+    document.getElementById("searchToggle").addEventListener("click", () => {
+      const panel = document.getElementById("searchPanel");
+      panel.classList.toggle("open");
+      if (panel.classList.contains("open")) {
+        document.getElementById("searchInput").focus();
+      }
+    });
+
+    document.getElementById("searchInput").addEventListener("input", (event) => {
+      searchText = event.target.value;
+      renderArticles();
+    });
+
+    loadArticles().catch((error) => {
+      document.getElementById("emptyState").textContent = `加载失败：${error.message}`;
+      document.getElementById("emptyState").classList.add("show");
+    });
   </script>
 </body>
 </html>
