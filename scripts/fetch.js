@@ -41,6 +41,160 @@ function pickSrcFromSrcset(srcset) {
     .pop() || "";
 }
 
+function normalizeImageUrl(url) {
+  if (!url) return "";
+
+  const normalizePath = (value) => value
+    .replace(/-\d+x\d+(?:-\d+)?(?=\.(jpg|jpeg|png|webp|avif)$)/ig, "")
+    .replace(/-\d+x\d+(?:-\d+)?(?=\?)/ig, "");
+
+  try {
+    const parsed = new URL(url);
+    parsed.pathname = normalizePath(parsed.pathname);
+    return parsed.toString();
+  } catch {
+    return normalizePath(url);
+  }
+}
+
+function isSizedImageUrl(url) {
+  return /-\d+x\d+(?=\.(jpg|jpeg|png|webp|avif)(\?|$))/i.test(url || "");
+}
+
+function pickImageFromNode($, node, base) {
+  const imageNode = $(node).find("img").first();
+  const image =
+    pickSrcFromSrcset(imageNode.attr("srcset")) ||
+    pickSrcFromSrcset(imageNode.attr("data-srcset")) ||
+    imageNode.attr("data-large-file") ||
+    imageNode.attr("data-src") ||
+    imageNode.attr("src");
+
+  return absoluteUrl(base, normalizeImageUrl(image));
+}
+
+function pickBestMetaImage($, base) {
+  const candidates = [
+    $('meta[property="og:image:secure_url"]').attr("content"),
+    $('meta[property="og:image"]').attr("content"),
+    $('meta[name="twitter:image"]').attr("content"),
+    $('meta[name="twitter:image:src"]').attr("content"),
+    $('link[rel="preload"][as="image"]').attr("href")
+  ].filter(Boolean);
+
+  for (const candidate of candidates) {
+    const image = absoluteUrl(base, normalizeImageUrl(candidate));
+    if (image) return image;
+  }
+
+  return "";
+}
+
+function pickBestArticleImage($, base) {
+  const selectors = [
+    "img.article__mainImage",
+    ".article__mainImage img",
+    ".article__image img",
+    ".entry-content img",
+    "article img"
+  ];
+
+  for (const selector of selectors) {
+    const node = $(selector).first();
+    if (!node.length) continue;
+
+    const image =
+      node.attr("data-src") ||
+      node.attr("data-large-file") ||
+      pickSrcFromSrcset(node.attr("srcset")) ||
+      pickSrcFromSrcset(node.attr("data-srcset")) ||
+      node.attr("src");
+
+    const absolute = absoluteUrl(base, normalizeImageUrl(image));
+    if (absolute) return absolute;
+  }
+
+  return "";
+}
+
+function pickBestCarWebArticleImage($, base) {
+  const figureImageSelectors = [
+    'figure img[data-src*="img.bestcarweb.jp"]',
+    'figure img[src*="img.bestcarweb.jp"]'
+  ];
+
+  for (const selector of figureImageSelectors) {
+    const node = $(selector).first();
+    if (!node.length) continue;
+
+    const image =
+      node.attr("data-src") ||
+      pickSrcFromSrcset(node.attr("data-srcset")) ||
+      node.attr("src");
+
+    const absolute = absoluteUrl(base, normalizeImageUrl(image));
+    if (absolute) return absolute;
+  }
+
+  const originalFigureLink = [
+    '.article__content figure a[href*="img.bestcarweb.jp"]',
+    '.article__content a[href*="img.bestcarweb.jp"]',
+    'figure a[href*="img.bestcarweb.jp"]'
+  ];
+
+  for (const selector of originalFigureLink) {
+    const href = $(selector).first().attr("href");
+    const absolute = absoluteUrl(base, normalizeImageUrl(href));
+    if (absolute) return absolute;
+  }
+
+  return pickBestArticleImage($, base);
+}
+
+async function enrichItemsWithArticleImages(items, options = {}) {
+  const {
+    source,
+    onlyWhenSized = false,
+    concurrency = 4
+  } = options;
+
+  const enriched = [...items];
+  const queue = enriched.map((item, index) => ({ item, index }));
+
+  async function worker() {
+    while (queue.length) {
+      const current = queue.shift();
+      if (!current) return;
+
+      const { item, index } = current;
+      if (source && item.source !== source) continue;
+      if (!item.url) continue;
+      if (onlyWhenSized && !isSizedImageUrl(item.image)) continue;
+
+      try {
+        const html = await fetchHtml(item.url, { allowCurlFallback: true });
+        const $ = cheerio.load(html);
+        const preferredImage =
+          (item.source === "Best Car Web"
+            ? pickBestCarWebArticleImage($, item.url)
+            : pickBestArticleImage($, item.url)) ||
+          pickBestMetaImage($, item.url);
+        if (preferredImage) {
+          enriched[index] = {
+            ...item,
+            image: preferredImage
+          };
+        }
+      } catch {
+        continue;
+      }
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(concurrency, queue.length || 1) }, () => worker()));
+  return enriched;
+}
+
 function asArray(value) {
   if (!value) return [];
   return Array.isArray(value) ? value : [value];
@@ -228,7 +382,7 @@ function mergeArchive(currentItems) {
 function createArticleItem(article, source, sourceLogo, category) {
   return normalizeArticle({
     title_en: article.title_en,
-    image: article.image,
+    image: normalizeImageUrl(article.image),
     url: article.url,
     source,
     source_logo: sourceLogo,
@@ -248,11 +402,9 @@ function extractMotor1HomepageItems(html, base) {
     const headlineLink = container.find("h2 a, h3 a, a.group\\/hover-title").first();
     const title = cleanText(headlineLink.text());
     const href = absoluteUrl(base, headlineLink.attr("href"));
-    const imageNode = container.find("picture img, img").first();
     const image =
-      absoluteUrl(base, imageNode.attr("src")) ||
-      absoluteUrl(base, pickSrcFromSrcset(imageNode.attr("srcset"))) ||
-      absoluteUrl(base, pickSrcFromSrcset(container.find("source").first().attr("srcset")));
+      pickImageFromNode($, container, base) ||
+      absoluteUrl(base, normalizeImageUrl(pickSrcFromSrcset(container.find("source").first().attr("srcset"))));
 
     if (!href || !title || !image) return;
     if (!href.includes("/news/") && !href.includes("/features/")) return;
@@ -318,10 +470,7 @@ async function fetchTheDriveHome() {
     const titleLink = article.find(".card-post-title-link").first();
     const title = cleanText(titleLink.text());
     const href = absoluteUrl(base, titleLink.attr("href"));
-    const imageNode = article.find("img").first();
-    const image =
-      absoluteUrl(base, imageNode.attr("src")) ||
-      absoluteUrl(base, pickSrcFromSrcset(imageNode.attr("srcset")));
+    const image = pickImageFromNode($, article, base);
 
     if (!href || !title || !image) return;
     if (!href.includes("thedrive.com/")) return;
@@ -344,7 +493,7 @@ async function fetchTheDriveHome() {
 
 async function fetchBestCarWebHome() {
   const base = "https://bestcarweb.jp/";
-  const html = await fetchHtml(base);
+  const html = await fetchHtml(base, { allowCurlFallback: true });
   const $ = cheerio.load(html);
   const items = [];
 
@@ -353,9 +502,7 @@ async function fetchBestCarWebHome() {
     const title =
       cleanText($(el).find("h1,h2,h3,h4,p").first().text()) ||
       cleanText($(el).attr("title"));
-    const image =
-      absoluteUrl(base, $(el).find("img").first().attr("src")) ||
-      absoluteUrl(base, $(el).find("img").first().attr("data-src"));
+    const image = pickImageFromNode($, el, base);
 
     if (!href || !title || !image) return;
     if (!href.includes("bestcarweb.jp")) return;
@@ -369,12 +516,15 @@ async function fetchBestCarWebHome() {
     }, "Best Car Web", "https://www.google.com/s2/favicons?domain=bestcarweb.jp&sz=64"));
   });
 
-  return sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
+  const deduped = sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
+  return await enrichItemsWithArticleImages(deduped, {
+    source: "Best Car Web"
+  });
 }
 
 async function fetchResponseHome() {
   const base = "https://response.jp/";
-  const html = await fetchHtml(base);
+  const html = await fetchHtml(base, { allowCurlFallback: true });
   const $ = cheerio.load(html);
   const items = [];
 
@@ -383,9 +533,7 @@ async function fetchResponseHome() {
     const title =
       cleanText($(el).find("h1,h2,h3,h4,p").first().text()) ||
       cleanText($(el).attr("title"));
-    const image =
-      absoluteUrl(base, $(el).find("img").first().attr("src")) ||
-      absoluteUrl(base, $(el).find("img").first().attr("data-src"));
+    const image = pickImageFromNode($, el, base);
 
     if (!href || !title || !image) return;
     if (!href.includes("response.jp")) return;
@@ -399,7 +547,22 @@ async function fetchResponseHome() {
     }, "Response.jp", "https://www.google.com/s2/favicons?domain=response.jp&sz=64"));
   });
 
-  return sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
+  const deduped = sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
+  return await enrichItemsWithArticleImages(deduped, {
+    source: "Response.jp",
+    onlyWhenSized: true
+  });
+}
+
+async function repairArchiveImages(items) {
+  const bestCarWebItems = await enrichItemsWithArticleImages(items, {
+    source: "Best Car Web"
+  });
+
+  return await enrichItemsWithArticleImages(bestCarWebItems, {
+    source: "Response.jp",
+    onlyWhenSized: true
+  });
 }
 
 async function main() {
@@ -426,7 +589,7 @@ async function main() {
       .flatMap((r) => r.value)
   ));
 
-  const archive = mergeArchive(currentFeed).slice(0, ARCHIVE_LIMIT);
+  const archive = (await repairArchiveImages(mergeArchive(currentFeed))).slice(0, ARCHIVE_LIMIT);
   const outputFeed = archive.slice(0, OUTPUT_LIMIT);
 
   fs.writeFileSync(ARCHIVE_PATH, JSON.stringify(archive, null, 2), "utf-8");

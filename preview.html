@@ -325,6 +325,25 @@
         .replace(/'/g, "&#39;");
     }
 
+    function normalizeImageUrl(url) {
+      if (!url) return "";
+      return String(url).replace(/-\d+x\d+(?=\.(jpg|jpeg|png|webp|avif)(\?|$))/i, "");
+    }
+
+    function withCacheBuster(url, article) {
+      if (!url) return "";
+
+      const cacheKey = article.last_seen_at || article.first_seen_at || Date.now();
+      try {
+        const parsed = new URL(url, window.location.href);
+        parsed.searchParams.set("cf_cache_bust", cacheKey);
+        return parsed.toString();
+      } catch {
+        const separator = url.includes("?") ? "&" : "?";
+        return `${url}${separator}cf_cache_bust=${encodeURIComponent(cacheKey)}`;
+      }
+    }
+
     function getFilteredArticles() {
       const keyword = searchText.trim().toLowerCase();
 
@@ -381,7 +400,7 @@
       container.innerHTML = articles.map((article) => `
         <a class="card-link" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">
           <div class="card">
-            ${article.image ? `<img class="cover" src="${escapeHtml(article.image)}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">` : ""}
+            ${article.image ? `<img class="cover" src="${escapeHtml(withCacheBuster(normalizeImageUrl(article.image), article))}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">` : ""}
             <div class="content">
               <div class="title">${escapeHtml(article.title_en || "")}</div>
               <div class="meta-row">
