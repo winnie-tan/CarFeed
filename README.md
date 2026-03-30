@@ -2,6 +2,16 @@
 
 一个用于聚合全球汽车文化资讯的静态信息流原型。
 
+## 项目记录
+
+除了本文件中的项目总览，阶段性推进记录单独沉淀在 [PROJECT_LOG.md](./PROJECT_LOG.md)。
+
+当前最新一章：
+
+- `2026-03-30` 域名与部署路线定稿
+- 正式域名确定为 `carfeed.forum`
+- DNS 正在传播，下一步是 Cloudflare Pages 正式挂站
+
 ## 项目定位
 
 CarFeed 当前不是完整产品，而是一个面向后续产品化的内容聚合底座：
@@ -150,6 +160,33 @@ Cmd+Shift+R
 ```
 
 因为 `preview.html` 当前会对 `articles.json` 和图片本身都追加缓存破除参数，但浏览器仍可能短暂保留旧资源。
+
+## Cloudflare Pages 部署
+
+当前仓库已经补齐静态构建脚本，可直接用于 Cloudflare Pages。
+
+构建命令：
+
+```bash
+npm run build
+```
+
+构建输出目录：
+
+```text
+dist
+```
+
+构建产物说明：
+
+- `dist/index.html`
+  - 由 `preview.html` 生成，用作站点首页
+- `dist/preview.html`
+  - 保留预览入口，便于继续沿用原页面路径
+- `dist/data/articles.json`
+- `dist/data/archive.json`
+
+如果 Cloudflare Pages 之前失败在 `npm run build`，重新部署后应可继续进入静态发布流程。
 
 ## 当前来源
 
