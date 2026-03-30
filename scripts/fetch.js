@@ -11,6 +11,20 @@ const OUTPUT_LIMIT = 180;
 const ARCHIVE_LIMIT = 1000;
 const ARCHIVE_PATH = "./data/archive.json";
 const ARTICLES_PATH = "./data/articles.json";
+const SOURCE_META = {
+  Motor1: {
+    logo: "https://www.motor1.com/favicon.ico"
+  },
+  "The Drive": {
+    logo: "https://www.thedrive.com/favicon.ico"
+  },
+  "Best Car Web": {
+    logo: "https://bestcarweb.jp/favicon.ico"
+  },
+  "Response.jp": {
+    logo: "https://response.jp/favicon.ico"
+  }
+};
 
 function absoluteUrl(base, url) {
   if (!url) return "";
@@ -380,12 +394,14 @@ function mergeArchive(currentItems) {
 }
 
 function createArticleItem(article, source, sourceLogo, category) {
+  const resolvedSourceLogo = sourceLogo || SOURCE_META[source]?.logo || "";
+
   return normalizeArticle({
     title_en: article.title_en,
     image: normalizeImageUrl(article.image),
     url: article.url,
     source,
-    source_logo: sourceLogo,
+    source_logo: resolvedSourceLogo,
     category,
     published_at: article.published_at || null,
     time: article.time || formatDate(article.published_at || new Date())
@@ -413,7 +429,7 @@ function extractMotor1HomepageItems(html, base) {
       title_en: title,
       image,
       url: href
-    }, "Motor1", "https://www.google.com/s2/favicons?domain=motor1.com&sz=64"));
+    }, "Motor1"));
   });
 
   return dedupe(items);
@@ -451,9 +467,9 @@ async function fetchMotor1Home() {
 
   const homepageItems = extractMotor1HomepageItems(html, base);
   const rssItems = dedupe([
-    ...(await fetchRssFeed("https://www.motor1.com/rss/google/news/", "Motor1", "https://www.google.com/s2/favicons?domain=motor1.com&sz=64")),
-    ...(await fetchRssFeed("https://www.motor1.com/rss/google/reviews/", "Motor1", "https://www.google.com/s2/favicons?domain=motor1.com&sz=64")),
-    ...(await fetchRssFeed("https://www.motor1.com/rss/google/features/", "Motor1", "https://www.google.com/s2/favicons?domain=motor1.com&sz=64"))
+    ...(await fetchRssFeed("https://www.motor1.com/rss/google/news/", "Motor1", SOURCE_META.Motor1.logo)),
+    ...(await fetchRssFeed("https://www.motor1.com/rss/google/reviews/", "Motor1", SOURCE_META.Motor1.logo)),
+    ...(await fetchRssFeed("https://www.motor1.com/rss/google/features/", "Motor1", SOURCE_META.Motor1.logo))
   ]);
 
   return sortByFreshness(dedupe([...homepageItems, ...rssItems])).slice(0, SOURCE_LIMIT);
@@ -479,13 +495,13 @@ async function fetchTheDriveHome() {
       title_en: title,
       image,
       url: href
-    }, "The Drive", "https://www.google.com/s2/favicons?domain=thedrive.com&sz=64"));
+    }, "The Drive"));
   });
 
   const rssItems = await fetchRssFeed(
     "https://www.thedrive.com/feed",
     "The Drive",
-    "https://www.google.com/s2/favicons?domain=thedrive.com&sz=64"
+    SOURCE_META["The Drive"].logo
   );
 
   return sortByFreshness(dedupe([...items, ...rssItems])).slice(0, SOURCE_LIMIT);
@@ -513,7 +529,7 @@ async function fetchBestCarWebHome() {
       title_en: title,
       image,
       url: href
-    }, "Best Car Web", "https://www.google.com/s2/favicons?domain=bestcarweb.jp&sz=64"));
+    }, "Best Car Web"));
   });
 
   const deduped = sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
@@ -544,7 +560,7 @@ async function fetchResponseHome() {
       title_en: title,
       image,
       url: href
-    }, "Response.jp", "https://www.google.com/s2/favicons?domain=response.jp&sz=64"));
+    }, "Response.jp"));
   });
 
   const deduped = sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);

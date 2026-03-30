@@ -152,11 +152,28 @@
       flex: 1;
     }
 
-    .source img.logo {
+    .source-mark {
+      width: 18px;
       height: 18px;
-      width: auto;
-      display: block;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       flex-shrink: 0;
+      border-radius: 5px;
+      overflow: hidden;
+      background: #ece6da;
+      color: #52493c;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .source img.logo {
+      width: 100%;
+      height: 18px;
+      display: block;
+      object-fit: contain;
     }
 
     .source-name {
@@ -223,16 +240,29 @@
 
       .chip,
       .search-toggle {
-        font-size: 15px;
+        font-size: 13px;
       }
 
       .chip {
-        padding: 11px 14px;
+        border: 0;
+        background: transparent;
+        border-radius: 0;
+        padding: 4px 2px;
+        color: #6f685c;
       }
 
       .search-toggle {
-        width: 42px;
-        height: 42px;
+        width: auto;
+        height: auto;
+        border: 0;
+        background: transparent;
+        border-radius: 0;
+        padding: 4px 0;
+      }
+
+      .search-toggle svg {
+        width: 16px;
+        height: 16px;
       }
 
       .search-panel {
@@ -262,6 +292,13 @@
         height: 14px;
       }
 
+      .source-mark {
+        width: 14px;
+        height: 14px;
+        border-radius: 4px;
+        font-size: 7px;
+      }
+
       .source-name,
       .date {
         font-size: 10px;
@@ -269,6 +306,12 @@
 
       .heart {
         font-size: 13px;
+      }
+
+      .chip.active,
+      .search-toggle.active {
+        color: #222;
+        font-weight: 700;
       }
     }
   </style>
@@ -302,6 +345,17 @@
     let allArticles = [];
     let activeCategory = "all";
     let searchText = "";
+
+    function getSourceInitials(source) {
+      return String(source || "")
+        .replace(/[^a-z0-9]+/gi, " ")
+        .trim()
+        .split(/\s+/)
+        .filter(Boolean)
+        .slice(0, 2)
+        .map((part) => part[0])
+        .join("") || "?";
+    }
 
     function formatDate(dateStr) {
       if (!dateStr) return "";
@@ -365,10 +419,23 @@
     }
 
     function renderLogo(article) {
+      const initials = getSourceInitials(article.source);
+
       if (article.source_logo) {
-        return `<img class="logo" src="${escapeHtml(article.source_logo)}" alt="${escapeHtml(article.source || "")}">`;
+        return `
+          <span class="source-mark" aria-hidden="true">
+            <img
+              class="logo"
+              src="${escapeHtml(article.source_logo)}"
+              alt=""
+              loading="lazy"
+              onerror="this.parentElement.textContent='${escapeHtml(initials)}';"
+            >
+          </span>
+        `;
       }
-      return "";
+
+      return `<span class="source-mark" aria-hidden="true">${escapeHtml(initials)}</span>`;
     }
 
     function renderFilters() {
@@ -429,8 +496,10 @@
     }
 
     document.getElementById("searchToggle").addEventListener("click", () => {
+      const toggle = document.getElementById("searchToggle");
       const panel = document.getElementById("searchPanel");
       panel.classList.toggle("open");
+      toggle.classList.toggle("active", panel.classList.contains("open"));
       if (panel.classList.contains("open")) {
         document.getElementById("searchInput").focus();
       }
