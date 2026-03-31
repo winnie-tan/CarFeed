@@ -14,16 +14,19 @@ const ARCHIVE_PATH = "./data/archive.json";
 const ARTICLES_PATH = "./data/articles.json";
 const SOURCE_META = {
   Motor1: {
-    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://www.motor1.com"
+    logo: "https://www.motor1.com/favicon.ico"
   },
   "The Drive": {
-    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://www.thedrive.com"
+    logo: "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192"
   },
   "Best Car Web": {
-    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://bestcarweb.jp"
+    logo: "https://bestcarweb.jp/favicon.ico"
   },
   "Response.jp": {
-    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://response.jp"
+    logo: "https://response.jp/favicon.ico"
+  },
+  Vespa: {
+    logo: "https://press.piaggiogroup.com/images/logo/small-vespa.png"
   }
 };
 
@@ -255,7 +258,7 @@ function inferCategory(item) {
     "motorcycle", "bike", "biker", "scooter", "motogp", "ducati", "yamaha",
     "kawasaki", "harley", "honda cbr", "ninja ", "gsx", "triumph", "aprilia",
     "bmw motorrad", "touring bike", "adventure bike", "two-wheeler", "2-wheeler",
-    "バイク", "スクーター", "モーターサイクル", "ドゥカティ", "ヤマハ", "カワサキ",
+    "vespa", "バイク", "スクーター", "モーターサイクル", "ドゥカティ", "ヤマハ", "カワサキ",
     "ハーレー", "bmwモトラッド", "ニンジャ", "原付", "ライダー"
   ];
 
@@ -608,6 +611,42 @@ async function fetchResponseHome() {
   });
 }
 
+async function fetchVespaPress() {
+  const base = "https://press.piaggiogroup.com/";
+  const listingUrl = "https://press.piaggiogroup.com/en_EN/post/index";
+  const html = await fetchHtml(listingUrl, { allowCurlFallback: true });
+  const $ = cheerio.load(html);
+  const items = [];
+
+  $(".pagination_item.public").each((_, el) => {
+    const card = $(el);
+    const titleLink = card.find(".row.title a[href*='/post/show/']").first();
+    const title = cleanText(titleLink.text());
+    const href = absoluteUrl(base, titleLink.attr("href"));
+    const brand = cleanText(card.find(".row.date h6").first().text());
+    const description = cleanText(card.find(".description p").first().text());
+    const imageNode = card.find(".animated-thumbnails img").first();
+    const image =
+      imageNode.attr("data-original") ||
+      imageNode.attr("data-src") ||
+      imageNode.attr("src");
+
+    const combinedText = [title, brand, description].join(" ").toLowerCase();
+
+    if (!href || !title) return;
+    if (!href.includes("/post/show/")) return;
+    if (!combinedText.includes("vespa")) return;
+
+    items.push(createArticleItem({
+      title_en: title,
+      image: absoluteUrl(base, image),
+      url: href
+    }, "Vespa", SOURCE_META.Vespa.logo, "bike"));
+  });
+
+  return sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
+}
+
 async function repairArchiveImages(items) {
   const bestCarWebItems = await enrichItemsWithArticleImages(items, {
     source: "Best Car Web"
@@ -624,10 +663,11 @@ async function main() {
     fetchMotor1Home(),
     fetchTheDriveHome(),
     fetchBestCarWebHome(),
-    fetchResponseHome()
+    fetchResponseHome(),
+    fetchVespaPress()
   ]);
 
-  const names = ["Motor1", "The Drive", "Best Car Web", "Response.jp"];
+  const names = ["Motor1", "The Drive", "Best Car Web", "Response.jp", "Vespa"];
 
   results.forEach((r, i) => {
     if (r.status === "fulfilled") {

@@ -243,6 +243,7 @@ dist
 - `The Drive`
 - `Best Car Web`
 - `Response.jp`
+- `Vespa`
 
 下一批优先准备接入的来源：
 
