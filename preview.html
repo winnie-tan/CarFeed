@@ -3,17 +3,38 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CarFeed Preview</title>
+  <title>CarFeed</title>
+  <meta name="description" content="CarFeed 聚合全球汽车、摩托与改装资讯，每天持续更新。" />
+  <meta property="og:title" content="CarFeed" />
+  <meta property="og:description" content="聚合全球汽车、摩托与改装资讯的信息流页面。" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="CarFeed" />
   <style>
+    :root {
+      --page-bg: #f5f1e8;
+      --card-bg: #ffffff;
+      --text-main: #222222;
+      --text-muted: #6a655f;
+      --accent: #123263;
+      --accent-soft: rgba(18, 50, 99, 0.12);
+      --accent-line: rgba(18, 50, 99, 0.74);
+      --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    }
+
     * {
       box-sizing: border-box;
     }
 
     body {
       margin: 0;
-      background: #f5f1e8;
-      color: #222;
+      background: var(--page-bg);
+      color: var(--text-main);
       font-family: Arial, sans-serif;
+    }
+
+    button,
+    input {
+      font: inherit;
     }
 
     .page {
@@ -33,34 +54,65 @@
     .toolbar {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 18px;
       flex-wrap: wrap;
     }
 
     .chip,
     .search-toggle {
-      border: 1px solid #cfc7b8;
-      background: #fff;
-      color: #222;
-      border-radius: 14px;
-      padding: 12px 16px;
+      appearance: none;
+      -webkit-appearance: none;
+      border: 0;
+      background: transparent;
+      color: var(--text-muted);
+      border-radius: 0;
+      padding: 10px 0 12px;
       font-size: 16px;
       line-height: 1;
       cursor: pointer;
+      position: relative;
+      outline: none;
+      box-shadow: none;
+      -webkit-tap-highlight-color: transparent;
     }
 
-    .chip.active {
-      background: #222;
-      border-color: #222;
-      color: #fff;
+    .chip::after,
+    .search-toggle::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 6px;
+      border-radius: 999px;
+      background: transparent;
+      transition: background-color 0.18s ease;
+    }
+
+    .chip:hover,
+    .search-toggle:hover,
+    .chip:focus-visible,
+    .search-toggle:focus-visible {
+      color: var(--text-main);
+    }
+
+    .chip.active,
+    .search-toggle.active {
+      color: var(--text-main);
+      font-weight: 700;
+    }
+
+    .chip.active::after,
+    .search-toggle.active::after {
+      background: var(--accent-line);
     }
 
     .search-toggle {
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 46px;
-      height: 46px;
+      width: 28px;
+      height: 40px;
       padding: 0;
       flex-shrink: 0;
     }
@@ -94,7 +146,8 @@
     }
 
     .search-input:focus {
-      border-color: #99907f;
+      border-color: rgba(18, 50, 99, 0.45);
+      box-shadow: 0 0 0 3px var(--accent-soft);
     }
 
     .grid {
@@ -112,10 +165,10 @@
     }
 
     .card {
-      background: #fff;
+      background: var(--card-bg);
       border-radius: 18px;
       overflow: hidden;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      box-shadow: var(--shadow);
     }
 
     .card img.cover {
@@ -213,6 +266,28 @@
       display: block;
     }
 
+    .share-toast {
+      position: fixed;
+      left: 50%;
+      bottom: 28px;
+      transform: translateX(-50%) translateY(12px);
+      background: rgba(18, 22, 28, 0.92);
+      color: #fff;
+      padding: 10px 14px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.18s ease, transform 0.18s ease;
+      z-index: 20;
+    }
+
+    .share-toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
     @media (max-width: 1320px) {
       .grid {
         column-count: 3;
@@ -235,29 +310,18 @@
       }
 
       .toolbar {
-        gap: 10px;
+        gap: 14px;
       }
 
       .chip,
       .search-toggle {
         font-size: 13px;
-      }
-
-      .chip {
-        border: 0;
-        background: transparent;
-        border-radius: 0;
-        padding: 4px 2px;
-        color: #6f685c;
+        padding: 6px 0 10px;
       }
 
       .search-toggle {
-        width: auto;
-        height: auto;
-        border: 0;
-        background: transparent;
-        border-radius: 0;
-        padding: 4px 0;
+        width: 22px;
+        height: 32px;
       }
 
       .search-toggle svg {
@@ -307,12 +371,6 @@
       .heart {
         font-size: 13px;
       }
-
-      .chip.active,
-      .search-toggle.active {
-        color: #222;
-        font-weight: 700;
-      }
     }
   </style>
 </head>
@@ -332,6 +390,7 @@
     </div>
     <div id="articles" class="grid"></div>
     <div class="empty" id="emptyState">没有匹配的内容。</div>
+    <div class="share-toast" id="shareToast" role="status" aria-live="polite"></div>
   </main>
 
   <script>
@@ -345,6 +404,9 @@
     let allArticles = [];
     let activeCategory = "all";
     let searchText = "";
+    let shareToastTimer = null;
+    let longPressTimer = null;
+    let longPressTriggered = false;
 
     function getSourceInitials(source) {
       return String(source || "")
@@ -398,6 +460,33 @@
       }
     }
 
+    function getLogoHost(article) {
+      if (article.source_logo) {
+        try {
+          return new URL(article.source_logo, window.location.href).origin;
+        } catch {
+          return article.source_logo;
+        }
+      }
+
+      try {
+        return new URL(article.url, window.location.href).origin;
+      } catch {
+        return article.source || "";
+      }
+    }
+
+    function buildFallbackLogo(host) {
+      if (!host) return "";
+
+      try {
+        const parsed = new URL(host, window.location.href);
+        return `https://www.google.com/s2/favicons?sz=64&domain_url=${encodeURIComponent(parsed.origin)}`;
+      } catch {
+        return `https://www.google.com/s2/favicons?sz=64&domain=${encodeURIComponent(host)}`;
+      }
+    }
+
     function getFilteredArticles() {
       const keyword = searchText.trim().toLowerCase();
 
@@ -420,6 +509,7 @@
 
     function renderLogo(article) {
       const initials = getSourceInitials(article.source);
+      const fallbackLogo = buildFallbackLogo(getLogoHost(article));
 
       if (article.source_logo) {
         return `
@@ -427,9 +517,11 @@
             <img
               class="logo"
               src="${escapeHtml(article.source_logo)}"
+              data-fallback-logo="${escapeHtml(fallbackLogo)}"
+              data-initials="${escapeHtml(initials)}"
               alt=""
               loading="lazy"
-              onerror="this.parentElement.textContent='${escapeHtml(initials)}';"
+              onerror="window.handleLogoError(event)"
             >
           </span>
         `;
@@ -459,13 +551,114 @@
       });
     }
 
+    function showToast(message) {
+      const toast = document.getElementById("shareToast");
+      toast.textContent = message;
+      toast.classList.add("show");
+      window.clearTimeout(shareToastTimer);
+      shareToastTimer = window.setTimeout(() => {
+        toast.classList.remove("show");
+      }, 2200);
+    }
+
+    async function copyToClipboard(text) {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(text);
+        return true;
+      }
+
+      const input = document.createElement("textarea");
+      input.value = text;
+      input.setAttribute("readonly", "");
+      input.style.position = "absolute";
+      input.style.left = "-9999px";
+      document.body.appendChild(input);
+      input.select();
+      const ok = document.execCommand("copy");
+      document.body.removeChild(input);
+      return ok;
+    }
+
+    async function shareArticle(article) {
+      const shareData = {
+        title: article.title_en || "CarFeed",
+        text: `${article.source || "CarFeed"} · ${article.title_en || ""}`.trim(),
+        url: article.url
+      };
+
+      if (navigator.share) {
+        try {
+          await navigator.share(shareData);
+          return;
+        } catch (error) {
+          if (error?.name === "AbortError") return;
+        }
+      }
+
+      try {
+        await copyToClipboard(article.url);
+        showToast("链接已复制，可直接发送到微信");
+      } catch {
+        showToast("当前环境不支持系统分享");
+      }
+    }
+
+    function clearLongPressTimer() {
+      if (!longPressTimer) return;
+      window.clearTimeout(longPressTimer);
+      longPressTimer = null;
+    }
+
+    function bindCardShareEvents(articles) {
+      const container = document.getElementById("articles");
+
+      container.querySelectorAll(".card-link").forEach((link) => {
+        const article = articles[Number(link.dataset.articleIndex)];
+
+        const start = () => {
+          longPressTriggered = false;
+          clearLongPressTimer();
+          longPressTimer = window.setTimeout(async () => {
+            longPressTriggered = true;
+            await shareArticle(article);
+          }, 550);
+        };
+
+        const cancel = () => {
+          clearLongPressTimer();
+        };
+
+        link.addEventListener("pointerdown", start);
+        link.addEventListener("pointerup", cancel);
+        link.addEventListener("pointerleave", cancel);
+        link.addEventListener("pointercancel", cancel);
+        link.addEventListener("contextmenu", async (event) => {
+          event.preventDefault();
+          clearLongPressTimer();
+          longPressTriggered = true;
+          await shareArticle(article);
+        });
+        link.addEventListener("click", (event) => {
+          if (!longPressTriggered) return;
+          event.preventDefault();
+          longPressTriggered = false;
+        });
+      });
+    }
+
     function renderArticles() {
       const articles = getFilteredArticles();
       const container = document.getElementById("articles");
       const emptyState = document.getElementById("emptyState");
 
-      container.innerHTML = articles.map((article) => `
-        <a class="card-link" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">
+      container.innerHTML = articles.map((article, index) => `
+        <a
+          class="card-link"
+          href="${escapeHtml(article.url)}"
+          target="_blank"
+          rel="noopener noreferrer"
+          data-article-index="${index}"
+        >
           <div class="card">
             ${article.image ? `<img class="cover" src="${escapeHtml(withCacheBuster(normalizeImageUrl(article.image), article))}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">` : ""}
             <div class="content">
@@ -486,6 +679,7 @@
       `).join("");
 
       emptyState.classList.toggle("show", articles.length === 0);
+      bindCardShareEvents(articles);
     }
 
     async function loadArticles() {
@@ -494,6 +688,19 @@
       renderFilters();
       renderArticles();
     }
+
+    window.handleLogoError = (event) => {
+      const image = event.target;
+      const fallbackLogo = image.dataset.fallbackLogo;
+      const initials = image.dataset.initials || "?";
+
+      if (fallbackLogo && image.src !== fallbackLogo) {
+        image.src = fallbackLogo;
+        return;
+      }
+
+      image.parentElement.textContent = initials;
+    };
 
     document.getElementById("searchToggle").addEventListener("click", () => {
       const toggle = document.getElementById("searchToggle");

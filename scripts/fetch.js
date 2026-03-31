@@ -7,22 +7,23 @@ const { XMLParser } = require("fast-xml-parser");
 const execFileAsync = promisify(execFile);
 
 const SOURCE_LIMIT = 30;
-const OUTPUT_LIMIT = 180;
-const ARCHIVE_LIMIT = 1000;
+const OUTPUT_LIMIT = 400;
+const ARCHIVE_LIMIT = 3000;
+const FEED_RETENTION_DAYS = 14;
 const ARCHIVE_PATH = "./data/archive.json";
 const ARTICLES_PATH = "./data/articles.json";
 const SOURCE_META = {
   Motor1: {
-    logo: "https://www.motor1.com/favicon.ico"
+    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://www.motor1.com"
   },
   "The Drive": {
-    logo: "https://www.thedrive.com/favicon.ico"
+    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://www.thedrive.com"
   },
   "Best Car Web": {
-    logo: "https://bestcarweb.jp/favicon.ico"
+    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://bestcarweb.jp"
   },
   "Response.jp": {
-    logo: "https://response.jp/favicon.ico"
+    logo: "https://www.google.com/s2/favicons?sz=64&domain_url=https://response.jp"
   }
 };
 
@@ -43,6 +44,27 @@ function formatDate(input = new Date()) {
   const d = input instanceof Date ? input : new Date(input);
   if (Number.isNaN(d.getTime())) return "";
   return `${d.getFullYear()}.${d.getMonth() + 1}.${d.getDate()}`;
+}
+
+function parseDate(value) {
+  if (!value) return null;
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) return null;
+  return parsed;
+}
+
+function buildFallbackLogoUrl(url, source) {
+  const candidate = url || source;
+
+  try {
+    const parsed = new URL(candidate);
+    return `https://www.google.com/s2/favicons?sz=64&domain_url=${encodeURIComponent(parsed.origin)}`;
+  } catch {
+    if (!candidate) return "";
+    const host = String(candidate).replace(/^https?:\/\//, "").replace(/\/.*$/, "");
+    if (!host) return "";
+    return `https://www.google.com/s2/favicons?sz=64&domain=${encodeURIComponent(host)}`;
+  }
 }
 
 function pickSrcFromSrcset(srcset) {
@@ -259,13 +281,17 @@ function normalizeArticle(article) {
   const nowIso = new Date().toISOString();
   const publishedAt = article.published_at || null;
   const time = article.time || formatDate(publishedAt || nowIso);
+  const sourceLogo =
+    article.source_logo ||
+    SOURCE_META[article.source]?.logo ||
+    buildFallbackLogoUrl(article.url, article.source);
 
   return {
     title_en: cleanText(article.title_en),
     image: article.image || "",
     url: article.url || "",
     source: article.source || "",
-    source_logo: article.source_logo || "",
+    source_logo: sourceLogo,
     time,
     category: inferCategory(article),
     published_at: publishedAt,
@@ -376,6 +402,18 @@ function sortByFreshness(items) {
     const aTime = new Date(a.published_at || a.last_seen_at || 0).getTime();
     const bTime = new Date(b.published_at || b.last_seen_at || 0).getTime();
     return bTime - aTime;
+  });
+}
+
+function keepRecentItems(items, retentionDays) {
+  const cutoff = Date.now() - retentionDays * 24 * 60 * 60 * 1000;
+
+  return items.filter((item) => {
+    const publishedAt = parseDate(item.published_at)?.getTime() || 0;
+    const lastSeenAt = parseDate(item.last_seen_at)?.getTime() || 0;
+    const firstSeenAt = parseDate(item.first_seen_at)?.getTime() || 0;
+    const effectiveTime = Math.max(publishedAt, lastSeenAt, firstSeenAt);
+    return effectiveTime >= cutoff;
   });
 }
 
@@ -606,12 +644,13 @@ async function main() {
   ));
 
   const archive = (await repairArchiveImages(mergeArchive(currentFeed))).slice(0, ARCHIVE_LIMIT);
-  const outputFeed = archive.slice(0, OUTPUT_LIMIT);
+  const recentFeed = sortByFreshness(keepRecentItems(archive, FEED_RETENTION_DAYS));
+  const outputFeed = recentFeed.slice(0, OUTPUT_LIMIT);
 
   fs.writeFileSync(ARCHIVE_PATH, JSON.stringify(archive, null, 2), "utf-8");
   fs.writeFileSync(ARTICLES_PATH, JSON.stringify(outputFeed, null, 2), "utf-8");
 
-  console.log(`🎉 当前抓到 ${currentFeed.length} 条，本地归档保留 ${archive.length} 条，输出 ${outputFeed.length} 条到 data/articles.json`);
+  console.log(`🎉 当前抓到 ${currentFeed.length} 条，本地归档保留 ${archive.length} 条，最近 ${FEED_RETENTION_DAYS} 天输出 ${outputFeed.length} 条到 data/articles.json`);
 }
 
 main().catch((err) => {
