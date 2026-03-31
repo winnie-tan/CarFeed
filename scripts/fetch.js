@@ -20,13 +20,25 @@ const SOURCE_META = {
     logo: "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192"
   },
   "Best Car Web": {
-    logo: "https://bestcarweb.jp/favicon.ico"
+    logo: "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png"
   },
   "Response.jp": {
     logo: "https://response.jp/favicon.ico"
   },
   Vespa: {
     logo: "https://press.piaggiogroup.com/images/logo/small-vespa.png"
+  },
+  InsideEVs: {
+    logo: "https://cdn.motor1.com/images/static/insideevs/favicon-196.png"
+  },
+  Electrek: {
+    logo: "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png"
+  },
+  "Top Gear EV": {
+    logo: "https://www.topgear.com/apple-touch-icon.png"
+  },
+  "Car and Driver EV": {
+    logo: "https://www.caranddriver.com/_assets/design-tokens/caranddriver/static/images/apple-touch-icon.57b92b6.png"
   }
 };
 
@@ -41,6 +53,20 @@ function absoluteUrl(base, url) {
 
 function cleanText(text) {
   return (text || "").replace(/\s+/g, " ").trim();
+}
+
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function keywordInText(text, keyword) {
+  if (!keyword) return false;
+  if (/[a-z0-9]/i.test(keyword)) {
+    const pattern = new RegExp(`\\b${escapeRegExp(keyword)}\\b`, "i");
+    return pattern.test(text);
+  }
+
+  return text.includes(keyword);
 }
 
 function formatDate(input = new Date()) {
@@ -254,6 +280,19 @@ function inferCategory(item) {
     item.source
   ].join(" ").toLowerCase();
 
+  const evSources = [
+    "InsideEVs",
+    "Electrek",
+    "Top Gear EV",
+    "Car and Driver EV"
+  ];
+
+  const evKeywords = [
+    "electric", "ev", "bev", "phev", "plug-in", "plug in", "hybrid", "battery",
+    "charging", "nacs", "range", "robotaxi", "e-mobility", "e mobility", "电动",
+    "纯电", "插混", "混动", "增程", "新能源", "充电", "续航"
+  ];
+
   const bikeKeywords = [
     "motorcycle", "bike", "biker", "scooter", "motogp", "ducati", "yamaha",
     "kawasaki", "harley", "honda cbr", "ninja ", "gsx", "triumph", "aprilia",
@@ -269,11 +308,15 @@ function inferCategory(item) {
     "チューニング", "エアロ", "足回り", "ブレーキ", "サスペンション", "ドレスアップ"
   ];
 
-  if (bikeKeywords.some((keyword) => text.includes(keyword))) {
+  if (evSources.includes(item.source) || evKeywords.some((keyword) => keywordInText(text, keyword))) {
+    return "ev";
+  }
+
+  if (bikeKeywords.some((keyword) => keywordInText(text, keyword))) {
     return "bike";
   }
 
-  if (customKeywords.some((keyword) => text.includes(keyword))) {
+  if (customKeywords.some((keyword) => keywordInText(text, keyword))) {
     return "custom";
   }
 
@@ -284,10 +327,14 @@ function normalizeArticle(article) {
   const nowIso = new Date().toISOString();
   const publishedAt = article.published_at || null;
   const time = article.time || formatDate(publishedAt || nowIso);
+  const supportedCategories = new Set(["car", "bike", "custom", "ev"]);
   const sourceLogo =
     article.source_logo ||
     SOURCE_META[article.source]?.logo ||
     buildFallbackLogoUrl(article.url, article.source);
+  const category = supportedCategories.has(article.category)
+    ? article.category
+    : inferCategory(article);
 
   return {
     title_en: cleanText(article.title_en),
@@ -296,7 +343,7 @@ function normalizeArticle(article) {
     source: article.source || "",
     source_logo: sourceLogo,
     time,
-    category: inferCategory(article),
+    category,
     published_at: publishedAt,
     first_seen_at: article.first_seen_at || nowIso,
     last_seen_at: article.last_seen_at || nowIso
@@ -647,6 +694,93 @@ async function fetchVespaPress() {
   return sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
 }
 
+async function fetchVespaWorldClub() {
+  const base = "https://vespaworldclub.org/";
+  const apiUrl = "https://vespaworldclub.org/wp-json/wp/v2/posts?per_page=20&_embed";
+  const raw = await fetchHtml(apiUrl, { allowCurlFallback: true });
+  const posts = JSON.parse(raw);
+
+  return sortByFreshness(dedupe(posts.map((post) => {
+    const embeddedMedia = post?._embedded?.["wp:featuredmedia"]?.[0];
+    const image =
+      embeddedMedia?.source_url ||
+      embeddedMedia?.media_details?.sizes?.medium_large?.source_url ||
+      embeddedMedia?.media_details?.sizes?.medium?.source_url ||
+      "";
+
+    return createArticleItem({
+      title_en: cleanText(post?.title?.rendered || ""),
+      image,
+      url: absoluteUrl(base, post?.link),
+      published_at: post?.date_gmt ? `${post.date_gmt}Z` : post?.date
+    }, "Vespa", SOURCE_META.Vespa.logo, "bike");
+  }))).slice(0, SOURCE_LIMIT);
+}
+
+async function fetchInsideEvsNews() {
+  return await fetchRssFeed(
+    "https://insideevs.com/rss/news/all/",
+    "InsideEVs",
+    SOURCE_META.InsideEVs.logo
+  );
+}
+
+async function fetchElectrekEv() {
+  return await fetchRssFeed(
+    "https://electrek.co/guides/electric-vehicles/feed/",
+    "Electrek",
+    SOURCE_META.Electrek.logo
+  );
+}
+
+async function fetchTopGearElectric() {
+  const base = "https://www.topgear.com/";
+  const html = await fetchHtml("https://www.topgear.com/car-news/electric", { allowCurlFallback: true });
+  const $ = cheerio.load(html);
+  const seen = new Set();
+  const items = [];
+
+  $('a[href^="/car-news/electric/"]').each((_, el) => {
+    const href = absoluteUrl(base, $(el).attr("href"));
+    const title = cleanText($(el).text());
+    if (!href || !title || seen.has(href)) return;
+    seen.add(href);
+
+    items.push(createArticleItem({
+      title_en: title,
+      image: "",
+      url: href
+    }, "Top Gear EV", SOURCE_META["Top Gear EV"].logo, "ev"));
+  });
+
+  return sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
+}
+
+async function fetchCarAndDriverEv() {
+  const base = "https://www.caranddriver.com/";
+  const html = await fetchHtml("https://www.caranddriver.com/ev/", { allowCurlFallback: true });
+  const $ = cheerio.load(html);
+  const seen = new Set();
+  const items = [];
+
+  $('a[href^="/"]').each((_, el) => {
+    const href = absoluteUrl(base, $(el).attr("href"));
+    const title = cleanText($(el).text());
+    if (!href || !title || seen.has(href)) return;
+    if (!/caranddriver\.com\/(news|reviews|features|shopping-advice|comparison-test|ev)\//.test(href)) return;
+    if (title.length < 14) return;
+    seen.add(href);
+
+    items.push(createArticleItem({
+      title_en: title,
+      image: "",
+      url: href
+    }, "Car and Driver EV", SOURCE_META["Car and Driver EV"].logo, "ev"));
+  });
+
+  return sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
+}
+
 async function repairArchiveImages(items) {
   const bestCarWebItems = await enrichItemsWithArticleImages(items, {
     source: "Best Car Web"
@@ -664,10 +798,26 @@ async function main() {
     fetchTheDriveHome(),
     fetchBestCarWebHome(),
     fetchResponseHome(),
-    fetchVespaPress()
+    fetchVespaPress(),
+    fetchVespaWorldClub(),
+    fetchInsideEvsNews(),
+    fetchElectrekEv(),
+    fetchTopGearElectric(),
+    fetchCarAndDriverEv()
   ]);
 
-  const names = ["Motor1", "The Drive", "Best Car Web", "Response.jp", "Vespa"];
+  const names = [
+    "Motor1",
+    "The Drive",
+    "Best Car Web",
+    "Response.jp",
+    "Vespa Press",
+    "Vespa World Club",
+    "InsideEVs",
+    "Electrek",
+    "Top Gear EV",
+    "Car and Driver EV"
+  ];
 
   results.forEach((r, i) => {
     if (r.status === "fulfilled") {

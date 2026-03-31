@@ -8,9 +8,9 @@
 
 当前最新一章：
 
-- `2026-03-30` 域名与部署路线定稿
-- 正式域名确定为 `carfeed.forum`
-- DNS 正在传播，下一步是 Cloudflare Pages 正式挂站
+- `2026-03-31` 首页交互、Vespa 扩展与新能源板块落地
+- 已完成一级页面反馈浮标、吸顶分类栏与 `新能源` 分类
+- 已接入多条 EV 来源，Vespa 仍需继续补强稳定来源
 
 ## 项目定位
 
@@ -36,11 +36,14 @@ CarFeed 当前不是完整产品，而是一个面向后续产品化的内容聚
   - `car`
   - `bike`
   - `custom`
+  - `ev`
 - 本地预览页面
   - 分类筛选
   - 搜索
   - 桌面端多列瀑布流
   - 手机端双列瀑布流
+  - 吸顶分类栏
+  - 一级页面反馈浮标
 - 图片质量修正
   - 对 `Best Car Web` 优先抓正文原图
   - 对历史归档中的缩略图做修复
@@ -141,19 +144,19 @@ data/archive.json
 ### 3. 启动预览
 
 ```bash
-python3 -m http.server 4173 --bind 0.0.0.0
+python3 -m http.server 4176 --bind 0.0.0.0
 ```
 
 浏览器打开：
 
 ```text
-http://127.0.0.1:4173/preview.html
+http://127.0.0.1:4176/preview.html
 ```
 
 如果手机和电脑在同一个 Wi‑Fi，也可以通过局域网 IP 访问：
 
 ```text
-http://<你的局域网IP>:4173/preview.html
+http://<你的局域网IP>:4176/preview.html
 ```
 
 如果你已经在浏览器里打开过旧版本页面，建议在看到图片没有变化时优先尝试：
@@ -244,6 +247,10 @@ dist
 - `Best Car Web`
 - `Response.jp`
 - `Vespa`
+- `InsideEVs`
+- `Electrek`
+- `Top Gear EV`
+- `Car and Driver EV`
 
 下一批优先准备接入的来源：
 
@@ -277,6 +284,14 @@ dist
   - 目前仓库已进入可部署阶段，但部署流程和内容同步仍需手动确认
 - `Best Car Web` 的图片规则已经做了专项优化
   - 但不同栏目页面结构并不完全一致，后续仍建议继续拆成站点专用抓取器
+- `Vespa` 当前稳定自动抓取来源仍然偏少
+  - `Piaggio Group Press` 当前可稳定产出
+  - `Vespa World Club` 当前未稳定产出文章条目
+  - `SIP Scootershop` 当前被 Cloudflare challenge 拦截，不适合作为稳定自动抓取源
+- 一级页面反馈浮标已经上线
+  - 但真实问卷链接尚未填入
+- 微信内长按卡片分享仍不适合作为最终方案
+  - 后续需要改成更适合微信的分享或反馈交互
 
 ## 为什么现在内容量比之前更多
 
@@ -315,6 +330,8 @@ git push origin main
 - 增加更垂直的数据源
   - 摩托站
   - 改装站
+- 继续扩充 Vespa 稳定来源
+- 优化 `新能源` 分类精度与来源覆盖
 - 增加时间维度筛选
   - 今日
   - 最近 3 天

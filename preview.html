@@ -40,7 +40,17 @@
     .page {
       width: min(100%, 1440px);
       margin: 0 auto;
-      padding: 20px 16px 32px;
+      padding: 0 16px 32px;
+    }
+
+    .sticky-shell {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: linear-gradient(to bottom, rgba(245, 241, 232, 0.98), rgba(245, 241, 232, 0.92));
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      padding-top: 20px;
     }
 
     .topbar {
@@ -48,7 +58,7 @@
       align-items: flex-start;
       justify-content: space-between;
       gap: 12px;
-      margin-bottom: 16px;
+      margin-bottom: 12px;
     }
 
     .toolbar {
@@ -83,7 +93,7 @@
       left: 0;
       right: 0;
       bottom: 0;
-      height: 6px;
+      height: 3px;
       border-radius: 999px;
       background: transparent;
       transition: background-color 0.18s ease;
@@ -128,7 +138,7 @@
     .search-panel {
       display: none;
       max-width: 360px;
-      margin: 0 0 18px auto;
+      margin: 0 0 14px auto;
     }
 
     .search-panel.open {
@@ -288,6 +298,48 @@
       transform: translateX(-50%) translateY(0);
     }
 
+    .feedback-fab {
+      position: fixed;
+      right: 18px;
+      bottom: 88px;
+      z-index: 18;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 14px;
+      border-radius: 999px;
+      background: rgba(18, 50, 99, 0.96);
+      color: #fff;
+      text-decoration: none;
+      box-shadow: 0 10px 24px rgba(18, 50, 99, 0.28);
+      transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+      max-width: min(320px, calc(100vw - 32px));
+    }
+
+    .feedback-fab:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 14px 28px rgba(18, 50, 99, 0.32);
+    }
+
+    .feedback-fab-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 38px;
+      height: 30px;
+      padding: 0 10px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.14);
+      flex-shrink: 0;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .feedback-fab-text {
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
     @media (max-width: 1320px) {
       .grid {
         column-count: 3;
@@ -302,7 +354,11 @@
 
     @media (max-width: 768px) {
       .page {
-        padding: 16px 12px 24px;
+        padding: 0 12px 24px;
+      }
+
+      .sticky-shell {
+        padding-top: 16px;
       }
 
       .topbar {
@@ -371,34 +427,58 @@
       .heart {
         font-size: 13px;
       }
+
+      .feedback-fab {
+        right: 12px;
+        bottom: 76px;
+        padding: 12px;
+      }
+
+      .feedback-fab-text {
+        display: none;
+      }
     }
   </style>
 </head>
 <body>
   <main class="page">
-    <div class="topbar">
-      <div class="toolbar" id="filters"></div>
-      <button class="search-toggle" id="searchToggle" type="button" aria-label="搜索">
-        <svg viewBox="0 0 24 24" aria-hidden="true">
-          <circle cx="11" cy="11" r="6.5"></circle>
-          <path d="M16 16l5 5"></path>
-        </svg>
-      </button>
-    </div>
-    <div class="search-panel" id="searchPanel">
-      <input class="search-input" id="searchInput" type="search" placeholder="搜索标题或来源" />
+    <div class="sticky-shell">
+      <div class="topbar">
+        <div class="toolbar" id="filters"></div>
+        <button class="search-toggle" id="searchToggle" type="button" aria-label="搜索">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="6.5"></circle>
+            <path d="M16 16l5 5"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="search-panel" id="searchPanel">
+        <input class="search-input" id="searchInput" type="search" placeholder="搜索标题或来源" />
+      </div>
     </div>
     <div id="articles" class="grid"></div>
     <div class="empty" id="emptyState">没有匹配的内容。</div>
     <div class="share-toast" id="shareToast" role="status" aria-live="polite"></div>
   </main>
+  <a
+    class="feedback-fab"
+    id="feedbackFab"
+    href="#"
+    role="button"
+    aria-label="没有看到你感兴趣的信息？点我反馈"
+    title="没有看到你感兴趣的信息？点我反馈"
+  >
+    <span class="feedback-fab-badge">反馈</span>
+    <span class="feedback-fab-text">没有看到你感兴趣的信息？点我反馈</span>
+  </a>
 
   <script>
     const categoryConfig = [
       { key: "all", label: "全部" },
       { key: "car", label: "汽车" },
       { key: "bike", label: "摩托" },
-      { key: "custom", label: "改装" }
+      { key: "custom", label: "改装" },
+      { key: "ev", label: "新能源" }
     ];
 
     let allArticles = [];
@@ -407,6 +487,7 @@
     let shareToastTimer = null;
     let longPressTimer = null;
     let longPressTriggered = false;
+    const feedbackUrl = "";
 
     function getSourceInitials(source) {
       return String(source || "")
@@ -715,6 +796,12 @@
     document.getElementById("searchInput").addEventListener("input", (event) => {
       searchText = event.target.value;
       renderArticles();
+    });
+
+    document.getElementById("feedbackFab").addEventListener("click", (event) => {
+      if (feedbackUrl) return;
+      event.preventDefault();
+      showToast("反馈问卷链接待补充");
     });
 
     loadArticles().catch((error) => {
