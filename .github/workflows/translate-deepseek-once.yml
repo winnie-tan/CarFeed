@@ -1,0 +1,79 @@
+name: Translate DeepSeek Once
+
+on:
+  schedule:
+    # 2026-04-01 15:00 China Standard Time = 2026-04-01 07:00 UTC
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    env:
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
+      DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-chat' }}
+
+    steps:
+      - name: Check target window
+        id: target_window
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run_now=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ "$(date -u +%F)" = "2026-04-01" ]; then
+            echo "run_now=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_now=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout
+        if: steps.target_window.outputs.run_now == 'true'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        if: steps.target_window.outputs.run_now == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        if: steps.target_window.outputs.run_now == 'true'
+        run: npm ci
+
+      - name: Verify DeepSeek credentials
+        if: steps.target_window.outputs.run_now == 'true'
+        run: |
+          if [ -z "$DEEPSEEK_API_KEY" ]; then
+            echo "Missing DEEPSEEK_API_KEY secret"
+            exit 1
+          fi
+
+      - name: Translate current articles only
+        if: steps.target_window.outputs.run_now == 'true'
+        run: npm run translate:deepseek -- --limit 400
+
+      - name: Build static site
+        if: steps.target_window.outputs.run_now == 'true'
+        run: npm run build
+
+      - name: Commit translated data
+        if: steps.target_window.outputs.run_now == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/translations-deepseek.json
+          git diff --cached --quiet || git commit -m "chore: refresh deepseek translations"
+
+      - name: Push changes
+        if: steps.target_window.outputs.run_now == 'true'
+        run: git push

@@ -770,7 +770,6 @@
     let activeGalleryIndex = 0;
     let deepseekTranslatedUrls = new Set();
     const FREE_TRANSLATION_STORAGE_KEY = "carfeed-free-translations-v1";
-    const DEEPSEEK_PUBLISH_LIMIT = 100;
     let freeTranslationJobRunning = false;
 
     function getSourceInitials(source) {
@@ -1350,7 +1349,7 @@
       freeTranslations = loadFreeTranslationsFromStorage();
       if (deepseekTranslationsResponse && deepseekTranslationsResponse.ok) {
         const deepseekTranslations = await deepseekTranslationsResponse.json();
-        deepseekTranslatedUrls = new Set(Object.keys(deepseekTranslations).slice(0, DEEPSEEK_PUBLISH_LIMIT));
+        deepseekTranslatedUrls = new Set(Object.keys(deepseekTranslations));
         freeTranslations = {
           ...freeTranslations,
           ...deepseekTranslations
