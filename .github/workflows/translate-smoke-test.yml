@@ -2,8 +2,8 @@ name: DeepSeek Smoke Test
 
 on:
   schedule:
-    # 2026-04-01 21:40 China Standard Time = 2026-04-01 13:40 UTC
-    - cron: "40 13 1 4 *"
+    # 2026-04-03 07:30 China Standard Time = 2026-04-02 23:30 UTC
+    - cron: "30 23 2 4 *"
   workflow_dispatch:
 
 concurrency:
@@ -24,7 +24,7 @@ jobs:
       DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-chat' }}
       ARTICLES_BEFORE_PATH: /tmp/carfeed-articles-before.json
       TRANSLATION_TARGETS_PATH: /tmp/carfeed-translation-targets-smoke.json
-      TRANSLATION_LIMIT: 10
+      TRANSLATION_LIMIT: 5
 
     steps:
       - name: Checkout
@@ -72,7 +72,7 @@ jobs:
             --status-out ./data/automation-status.json \
             --limit "$TRANSLATION_LIMIT"
 
-      - name: Translate 10 queued articles
+      - name: Translate 5 queued articles
         id: translate_step
         if: steps.validate_key.outcome == 'success' && steps.fetch_step.outcome == 'success'
         continue-on-error: true
