@@ -55,7 +55,7 @@ CarFeed 当前不是完整产品，而是一个面向后续产品化的内容聚
   - 浏览器本地缓存翻译结果
   - 为后续通义 / 智谱等批处理方案验证交互结构
 - 自动抓取后增量翻译
-  - 每日自动抓取后补翻译未完成条目
+  - 每日自动抓取后只翻译本次新抓取的条目
   - 默认复用已生成的 `translations-deepseek.json`
   - 不再把 DeepSeek 翻译拆成单独的一次性工作流
   - 工作流会先校验 `DEEPSEEK_API_KEY` 与接口可用性，再进入抓取和翻译
@@ -282,20 +282,18 @@ dist
 
 - 文件路径：`.github/workflows/refresh-feed.yml`
 - 触发方式：
-  - 每天 `00:00 UTC`
-  - 每天 `12:00 UTC`
+  - 每天 `23:50 UTC`
   - 手动触发 `workflow_dispatch`
 
 这对应中国时区大致为：
 
-- `08:00`
-- `20:00`
+- `07:50`
 
 任务会自动执行：
 
 1. `npm ci`
 2. `node scripts/fetch.js`
-3. `npm run translate:deepseek -- --limit 400`
+3. 对本次新抓取内容执行 `npm run translate:deepseek`
 4. `npm run build`
 5. 提交 `data/*.json` 与 `dist/` 的更新
 6. 推送到仓库，触发 Cloudflare Pages 重新部署

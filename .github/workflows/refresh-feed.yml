@@ -2,8 +2,8 @@ name: Refresh Feed
 
 on:
   schedule:
-    # 08:13 / 20:13 China Standard Time
-    - cron: "13 0,12 * * *"
+    # 07:50 China Standard Time = 23:50 UTC (previous day)
+    - cron: "50 23 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -69,9 +69,10 @@ jobs:
             --translations ./data/translations-deepseek.json \
             --targets-out "$TRANSLATION_TARGETS_PATH" \
             --status-out ./data/automation-status.json \
-            --limit 400
+            --limit 400 \
+            --new-only
 
-      - name: Translate newly fetched articles
+      - name: Translate all newly fetched articles
         id: translate_step
         if: steps.validate_key.outcome == 'success' && steps.fetch_step.outcome == 'success'
         continue-on-error: true
@@ -106,7 +107,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/articles.json data/archive.json data/translations-deepseek.json data/automation-status.json dist
+          git add data/articles.json data/archive.json data/translations-deepseek.json data/automation-status.json
+          git add -f dist
           git diff --cached --quiet || git commit -m "chore: refresh feed data"
 
       - name: Push changes

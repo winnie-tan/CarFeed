@@ -1,9 +1,5 @@
 const fs = require("fs");
-const { execFile } = require("child_process");
-const { promisify } = require("util");
 const cheerio = require("cheerio");
-
-const execFileAsync = promisify(execFile);
 
 const ARTICLES_PATH = "./data/articles.json";
 const OUTPUT_PATH = "./data/translations-deepseek.json";
@@ -116,28 +112,20 @@ function cutText(text, maxChars) {
   return `${text.slice(0, maxChars).trim()}...`;
 }
 
-function shellEscape(value) {
-  return `'${String(value).replace(/'/g, `'\\''`)}'`;
-}
-
 async function fetchHtml(url) {
-  const cmd = [
-    "unset http_proxy https_proxy HTTP_PROXY HTTPS_PROXY all_proxy ALL_PROXY;",
-    "curl -L --silent --show-error --max-time 20",
-    "-A",
-    shellEscape("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"),
-    "-H",
-    shellEscape("Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"),
-    "-H",
-    shellEscape("Accept-Language: en-US,en;q=0.9,ja;q=0.8,zh-CN;q=0.7"),
-    shellEscape(url)
-  ].join(" ");
-
-  const { stdout } = await execFileAsync("/bin/zsh", ["-lc", cmd], {
-    maxBuffer: 8 * 1024 * 1024
+  const response = await fetch(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+      Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.9,ja;q=0.8,zh-CN;q=0.7"
+    }
   });
 
-  return stdout;
+  if (!response.ok) {
+    throw new Error(`抓取正文失败 ${response.status}`);
+  }
+
+  return response.text();
 }
 
 function pickDescription($) {

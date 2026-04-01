@@ -1,0 +1,145 @@
+{
+  "workflow": {
+    "generated_at": "2026-04-01T12:23:38.762Z",
+    "articles_in_feed": 400,
+    "deepseek_translated_before_run": 100,
+    "deepseek_untranslated_before_run": 300,
+    "newly_fetched_articles": 0,
+    "newly_fetched_untranslated": 0,
+    "backlog_untranslated": 300,
+    "translation_queue_count": 300,
+    "translation_queue_preview": [
+      {
+        "source": "The Drive",
+        "time": "2026.4.1",
+        "title": "No, Ferrari Isn’t Suing Stanceworks Over Modifying an F40",
+        "url": "https://www.thedrive.com/news/no-ferrari-isnt-suing-stanceworks-over-modifying-an-f40"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.1",
+        "title": "The World's First Solid-State Electric Motorcycle Hits Production, Verge Motorcycles Says",
+        "url": "https://insideevs.com/news/791709/worlds-first-production-solid-state-battery-motorcycle/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.1",
+        "title": "Kansas Passes Law Protecting Existing Racetracks From Noise Complaints",
+        "url": "https://www.motor1.com/news/791701/kansas-law-protects-race-tracks/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.1",
+        "title": "The Cheaper BMW iX3 Has A Smaller Battery. But The Range Is Still Huge",
+        "url": "https://insideevs.com/news/791685/bmw-ix3-40-specs-revealed/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.1",
+        "title": "This Legendary Race Car Builder Is Reproducing One Of Its Most Iconic Models",
+        "url": "https://www.motor1.com/news/791704/lola-cars-t70-reproduction-model/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.4.1",
+        "title": "Vin Diesel Announced the Last Fast & Furious Before Universal Said Yes",
+        "url": "https://www.thedrive.com/news/vin-diesel-announced-the-last-fast-furious-before-universal-said-yes"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.1",
+        "title": "Tesla's First Quarter 2026 EV Sales: Analysts Project Modest Gains",
+        "url": "https://insideevs.com/news/791695/tesla-first-quarter-ev-sales-wall-street-estimates/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.1",
+        "title": "Infiniti Uses Real Gold To Paint The 2027 QX65",
+        "url": "https://www.motor1.com/news/791681/infiniti-qx65-gold-paint-flecks/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.1",
+        "title": "2027 Mercedes-Benz GLE Revealed: New AMG 53 Hybrid Makes 577 HP",
+        "url": "https://www.motor1.com/news/791684/2027-mercedes-benz-gle-engines-horsepower-specs-details/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.1",
+        "title": "The New Mercedes GLS Has 'Cloud-Based' Suspension",
+        "url": "https://www.motor1.com/news/791570/2027-mercedes-gls-revealed/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.4.1",
+        "title": "Land Rover’s Freelander SUV Is Coming Back and Looks Great",
+        "url": "https://www.thedrive.com/news/the-land-rover-freelander-is-coming-back-and-looks-great"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.3.31",
+        "title": "BMW, Senna, and More: The Drive x Blipshift Discontinued Merch Drop Is in Phase 2",
+        "url": "https://www.thedrive.com/news/bmw-senna-and-more-the-drive-x-blipshift-discontinued-merch-drop-is-in-phase-2"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.3.31",
+        "title": "Chevy Started a Driving School Because It Didn’t Trust Corvette Drivers With 400 HP",
+        "url": "https://www.thedrive.com/news/chevy-started-a-driving-school-because-it-didnt-trust-corvette-drivers-with-400-hp"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.3.31",
+        "title": "'With A Big Gulp': Man Goes To 7-Eleven For Gas. Then They Make Him An Offer He Can't Refuse",
+        "url": "https://www.motor1.com/news/791562/7-eleven-30-cents-off-gas/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.3.31",
+        "title": "The Manual Jeep Gladiator Is Probably Coming Back: Report",
+        "url": "https://www.motor1.com/news/791668/jeep-gladiator-manual-transmission-returns/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.3.31",
+        "title": "「3月が一番安い」はもう古い!? 納期次第で値引きが変わる新常識！ 値引き傾向を徹底解説",
+        "url": "https://bestcarweb.jp/feature/column/1477060"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.3.31",
+        "title": "【スバル ソルテラ 1000km試乗】電動AWDは雪に強いのか？ 圧巻の走行性能と、浮き彫りになった「雪国での実用性」の課題",
+        "url": "https://response.jp/article/2026/03/21/408957.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.3.31",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定『Season4』中西孝樹の自動車・モビリティ産業インサイトvol 2 トヨタの考えるSDV－交通事故ゼロ社会を目指して",
+        "url": "https://response.jp/article/2026/03/04/408162.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.3.31",
+        "title": "【日産 ルークス 新型試乗】今どきの軽ってこんなにいいの？ 戦国時代突入の予感…中村孝仁",
+        "url": "https://response.jp/article/2026/03/26/409211.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.3.31",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第721回",
+        "url": "https://bestcarweb.jp/feature/column/1452137"
+      }
+    ]
+  },
+  "translation": {
+    "model": "",
+    "targets_file": "",
+    "scoped_articles": 0,
+    "queued_articles": 0,
+    "processed": 0,
+    "started_at": "",
+    "finished_at": "",
+    "success": false,
+    "error": ""
+  }
+}

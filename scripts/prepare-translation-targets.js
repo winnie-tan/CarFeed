@@ -35,6 +35,7 @@ function main() {
   const targetsOutPath = getArgValue(args, "--targets-out");
   const statusOutPath = getArgValue(args, "--status-out");
   const limit = Number(getArgValue(args, "--limit", "400"));
+  const newOnly = args.includes("--new-only");
 
   const beforeArticles = loadJsonIfExists(beforePath, []);
   const afterArticles = loadJsonIfExists(afterPath, []).slice(0, limit);
@@ -53,7 +54,7 @@ function main() {
     }
   }
 
-  const queuedArticles = [...newArticles, ...backlogArticles];
+  const queuedArticles = newOnly ? newArticles : [...newArticles, ...backlogArticles];
   const targets = queuedArticles.map((item) => item.url).filter(Boolean);
 
   if (targetsOutPath) {
@@ -69,6 +70,7 @@ function main() {
       newly_fetched_articles: afterArticles.filter((item) => !beforeUrlSet.has(item.url)).length,
       newly_fetched_untranslated: newArticles.length,
       backlog_untranslated: backlogArticles.length,
+      translation_scope: newOnly ? "new_only" : "new_and_backlog",
       translation_queue_count: queuedArticles.length,
       translation_queue_preview: queuedArticles.slice(0, 20).map((item) => ({
         source: item.source || "",
