@@ -82,6 +82,31 @@ function parseDate(value) {
   return parsed;
 }
 
+function parseDisplayDate(value) {
+  if (!value) return null;
+  const match = String(value).match(/^(\d{4})\.(\d{1,2})\.(\d{1,2})$/);
+  if (!match) return null;
+
+  const [, year, month, day] = match;
+  const parsed = new Date(Date.UTC(Number(year), Number(month) - 1, Number(day), 12, 0, 0));
+  if (Number.isNaN(parsed.getTime())) return null;
+  return parsed;
+}
+
+function hasUsableImage(item) {
+  return Boolean(cleanText(item?.image));
+}
+
+function getArticleSortTime(item) {
+  return (
+    parseDate(item?.published_at)?.getTime() ||
+    parseDisplayDate(item?.time)?.getTime() ||
+    parseDate(item?.last_seen_at)?.getTime() ||
+    parseDate(item?.first_seen_at)?.getTime() ||
+    0
+  );
+}
+
 function buildFallbackLogoUrl(url, source) {
   const candidate = url || source;
 
@@ -449,9 +474,13 @@ function dedupe(items) {
 
 function sortByFreshness(items) {
   return [...items].sort((a, b) => {
-    const aTime = new Date(a.published_at || a.last_seen_at || 0).getTime();
-    const bTime = new Date(b.published_at || b.last_seen_at || 0).getTime();
-    return bTime - aTime;
+    const imageDelta = Number(hasUsableImage(b)) - Number(hasUsableImage(a));
+    if (imageDelta !== 0) return imageDelta;
+
+    const timeDelta = getArticleSortTime(b) - getArticleSortTime(a);
+    if (timeDelta !== 0) return timeDelta;
+
+    return String(a.title_en || "").localeCompare(String(b.title_en || ""));
   });
 }
 
