@@ -2464,5 +2464,120 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-01T04:45:12.863Z"
+  },
+  "https://www.motor1.com/news/791732/carvana-vs-dealership-buying-process/": {
+    "title_zh": "女子在经销商处苦等数小时，尝试 Carvana 后感叹：'全新购车体验'",
+    "summary_short": "一位女性在经销商处花费数小时处理卖车手续，对比 Carvana 的快速服务后，明显感受到线上购车平台的高效便捷。",
+    "summary_long": "Hailey Stiehl 在经销商处等待超过 3 小时仅为了完成卖车手续，期间经历了漫长的文书处理和支票开具过程。她通过社交媒体分享这一经历，表达了对传统经销商效率的不满。相比之下，Carvana 提供的线上购车服务让她体验到更快捷的流程，无需长时间等待和繁琐协商。",
+    "highlights_zh": [
+      "经销商卖车等待超 3 小时",
+      "Carvana 购车流程更快捷",
+      "线上平台减少繁琐手续",
+      "传统购车体验效率低下"
+    ],
+    "entities": [
+      "Carvana",
+      "经销商",
+      "购车流程",
+      "卖车手续",
+      "线上平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYlry/s1/woman-spends-hours-at-dealership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-01T23:59:23.986Z"
+  },
+  "https://insideevs.com/news/791862/nyc-pv5-taxi-ada-compliant/": {
+    "title_zh": "起亚未来电动厢式车或将成为纽约出租车",
+    "summary_short": "起亚与 BraunAbility 合作推出符合 ADA 标准的电动厢式车 PV5 WAV，专为出租车和网约车设计，有望成为纽约新一代标志性出租车。",
+    "summary_long": "起亚与 BraunAbility 在纽约国际车展上展示了改装后的 PV5 电动厢式车概念车，采用特殊出租车涂装。这款名为 PV5 WAV 的车辆专为轮椅使用者设计，配备了后部坡道和固定装置，符合美国残疾人法案标准。PV5 从设计之初就考虑了改装需求，展示了其平台化定制能力。",
+    "highlights_zh": [
+      "符合 ADA 标准的轮椅无障碍设计",
+      "专为出租车和网约车场景打造",
+      "采用后部坡道方便轮椅进出",
+      "基于 PV5 电动厢式车平台改装"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5",
+      "BraunAbility",
+      "电动厢式车",
+      "出租车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6NxZw/s1/kia-pv5-wav-nyc.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-01T23:59:24.008Z"
+  },
+  "https://www.motor1.com/news/791728/houston-waymo-highway-accident/": {
+    "title_zh": "Waymo 在休斯顿遭遇事故，网友质疑其应对当地驾驶风格的能力",
+    "summary_short": "Waymo 在休斯顿测试自动驾驶时与半挂卡车发生碰撞，引发交通拥堵。网友质疑其系统是否适应休斯顿的驾驶风格，Waymo 表示事故中无人受伤。",
+    "summary_long": "Waymo 在休斯顿推出自动驾驶汽车并测试高速公路驾驶时，一辆 Waymo 车辆在变道过程中被半挂卡车追尾，导致严重交通拥堵。事故视频在社交媒体上广泛传播，网友质疑 Waymo 系统是否能够应对休斯顿特有的激进驾驶风格。Waymo 官方回应称，事故发生时车内有安全员，两车接触后均安全停止，无人受伤。",
+    "highlights_zh": [
+      "Waymo 休斯顿测试遇追尾事故",
+      "网友质疑系统适应本地驾驶风格",
+      "事故导致高速公路严重拥堵",
+      "Waymo 确认事故中无人受伤"
+    ],
+    "entities": [
+      "Waymo",
+      "自动驾驶",
+      "休斯顿",
+      "高速公路",
+      "半挂卡车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3NR9/s1/waymo-goes-on-houston-road.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-01T23:59:30.626Z"
+  },
+  "https://www.motor1.com/news/791854/air-water-porsche-show-2026/": {
+    "title_zh": "Air保时捷车展将于 4 月 25 日重返加州",
+    "summary_short": "Air|Water 保时捷车展将于 4 月 25 日在加州科斯塔梅萨回归，这是该展会的第五次举办，旨在展示更广泛的保时捷车型与技术。",
+    "summary_long": "Air|Water 保时捷车展由 Luftgekühlt 团队创立，旨在为保时捷爱好者提供更全面的品牌体验。展会将于 4 月 25 日在加州科斯塔梅萨的 OC Fairgrounds 举行，这是第三次在此举办，也是 Air|Water 的第五次整体活动。创始人之一、保时捷传奇车手帕特里克·朗表示，Air|Water 通过现场拍卖和展商交易厅等形式，扩展了展示内容，不仅涵盖经典车型，还引入 1999 年后的新技术和新车，吸引更广泛的观众。",
+    "highlights_zh": [
+      "Air|Water 保时捷车展 4 月 25 日加州…",
+      "第五次举办",
+      "展示 1999 年后新技术和新车型",
+      "包含现场拍卖和展商交易厅"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Water",
+      "Luftgekühlt",
+      "帕特里克·朗",
+      "车展"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7KLp/s1/air-water-returns-to-costa-mesa-ca-in-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-01T23:59:31.881Z"
+  },
+  "https://insideevs.com/news/791856/honda-prologue-7500-off-price/": {
+    "title_zh": "本田 Prologue 降价 7,500 美元，购车时机绝佳",
+    "summary_short": "本田将 Prologue 电动车的价格下调 7,500 美元，以应对销量下滑和市场变化，使其在同类车型中更具竞争力。",
+    "summary_long": "本田对 2026 款 Prologue 电动车实施全面降价 7,500 美元，旨在弥补联邦电动车税收抵免到期后的市场空缺。此举使基础版 EX 起售价降至 39,900 美元，而顶配 Elite 版则降至 50,400 美元。公司表示，调整价格是为了更好地适应客户需求和市场条件，同时维持电动车的可负担性和竞争力。",
+    "highlights_zh": [
+      "Prologue 全系降价 7",
+      "基础版 EX 起售价 39",
+      "顶配 Elite 版降至 50",
+      "应对税收抵免到期后销量下滑"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Prologue",
+      "电动车",
+      "价格调整",
+      "税收抵免"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K9xr/s1/honda-prologue-charging.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-01T23:59:37.865Z"
   }
 }
