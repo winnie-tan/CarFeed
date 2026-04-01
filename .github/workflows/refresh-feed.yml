@@ -2,6 +2,8 @@ name: Refresh Feed
 
 on:
   schedule:
+    # Temporary verification window for 2026-04-01 09:58 CST.
+    - cron: "58 1 * * *"
     - cron: "13 0,12 * * *"
   workflow_dispatch:
 
