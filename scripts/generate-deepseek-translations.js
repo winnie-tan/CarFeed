@@ -69,11 +69,6 @@ const API_KEY = process.env.DEEPSEEK_API_KEY || "";
 const BASE_URL = (process.env.DEEPSEEK_BASE_URL || "https://api.deepseek.com").replace(/\/$/, "");
 const MODEL = process.env.DEEPSEEK_MODEL || "deepseek-chat";
 
-if (!API_KEY) {
-  console.error("❌ 缺少 DEEPSEEK_API_KEY");
-  process.exit(1);
-}
-
 function cleanText(text) {
   return String(text || "").replace(/\s+/g, " ").trim();
 }
@@ -85,6 +80,22 @@ function loadJsonIfExists(filePath, fallbackValue) {
   } catch {
     return fallbackValue;
   }
+}
+
+function getArgValue(args, flagName) {
+  const index = args.indexOf(flagName);
+  return index >= 0 && args[index + 1] ? args[index + 1] : "";
+}
+
+function writeJson(filePath, value) {
+  fs.writeFileSync(filePath, JSON.stringify(value, null, 2), "utf-8");
+}
+
+function writeStatus(statusFilePath, updater) {
+  if (!statusFilePath) return;
+  const current = loadJsonIfExists(statusFilePath, {});
+  const next = typeof updater === "function" ? updater(current) : updater;
+  writeJson(statusFilePath, next);
 }
 
 function absoluteUrl(base, url) {
@@ -343,6 +354,10 @@ function normalizeTranslationPayload(article, payload, galleryImages = []) {
 }
 
 async function requestDeepSeekTranslation(article, sourceText) {
+  if (!API_KEY) {
+    throw new Error("缺少 DEEPSEEK_API_KEY");
+  }
+
   const response = await fetch(`${BASE_URL}/chat/completions`, {
     method: "POST",
     headers: {
@@ -438,28 +453,75 @@ async function buildTranslation(article, index, total) {
 
 async function main() {
   const args = process.argv.slice(2);
-  const limitFlagIndex = args.indexOf("--limit");
   const forceFlag = args.includes("--force");
-  const limit =
-    limitFlagIndex >= 0 && args[limitFlagIndex + 1]
-      ? Number(args[limitFlagIndex + 1])
-      : DEFAULT_LIMIT;
+  const limit = Number(getArgValue(args, "--limit") || DEFAULT_LIMIT);
+  const targetsFilePath = getArgValue(args, "--targets-file");
+  const statusFilePath = getArgValue(args, "--status-file");
 
   const existingOutput = loadJsonIfExists(OUTPUT_PATH, {});
   const allArticles = JSON.parse(fs.readFileSync(ARTICLES_PATH, "utf-8")).slice(0, limit);
+  const targetUrls = targetsFilePath ? loadJsonIfExists(targetsFilePath, []) : [];
+  const targetUrlSet = new Set(Array.isArray(targetUrls) ? targetUrls : []);
+  const scopedArticles = targetsFilePath
+    ? allArticles.filter((article) => targetUrlSet.has(article.url))
+    : allArticles;
   const articles = forceFlag
-    ? allArticles
-    : allArticles.filter((article) => {
+    ? scopedArticles
+    : scopedArticles.filter((article) => {
         const existing = existingOutput[article.url];
         return !existing || !cleanText(existing.summary_long);
       });
   const queue = articles.map((article, index) => ({ article, index }));
   const output = { ...existingOutput };
 
+  writeStatus(statusFilePath, (current) => ({
+    ...current,
+    translation: {
+      ...(current.translation || {}),
+      model: MODEL,
+      targets_file: targetsFilePath || "",
+      scoped_articles: scopedArticles.length,
+      queued_articles: articles.length,
+      started_at: new Date().toISOString(),
+      finished_at: "",
+      success: false,
+      error: "",
+      processed: 0
+    }
+  }));
+
   console.log(
-    `准备处理 ${articles.length} / ${allArticles.length} 篇文章` +
+    `准备处理 ${articles.length} / ${scopedArticles.length} 篇文章` +
       (forceFlag ? "（强制重跑）" : "（自动跳过已有长摘要的条目）")
   );
+
+  if (!articles.length) {
+    writeStatus(statusFilePath, (current) => ({
+      ...current,
+      translation: {
+        ...(current.translation || {}),
+        finished_at: new Date().toISOString(),
+        success: true,
+        processed: 0
+      }
+    }));
+    console.log("无需翻译，已跳过。");
+    return;
+  }
+
+  if (!API_KEY) {
+    writeStatus(statusFilePath, (current) => ({
+      ...current,
+      translation: {
+        ...(current.translation || {}),
+        finished_at: new Date().toISOString(),
+        success: false,
+        error: "缺少 DEEPSEEK_API_KEY"
+      }
+    }));
+    console.error("❌ 缺少 DEEPSEEK_API_KEY");
+    process.exit(1);
+  }
 
   async function worker() {
     while (queue.length) {
@@ -467,11 +529,27 @@ async function main() {
       if (!current) return;
       const [url, value] = await buildTranslation(current.article, current.index, articles.length);
       output[url] = value;
-      fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2), "utf-8");
+      writeJson(OUTPUT_PATH, output);
+      writeStatus(statusFilePath, (status) => ({
+        ...status,
+        translation: {
+          ...(status.translation || {}),
+          processed: Number(status?.translation?.processed || 0) + 1
+        }
+      }));
     }
   }
 
   await Promise.all(Array.from({ length: CONCURRENCY }, () => worker()));
+  writeStatus(statusFilePath, (current) => ({
+    ...current,
+    translation: {
+      ...(current.translation || {}),
+      finished_at: new Date().toISOString(),
+      success: true,
+      processed: articles.length
+    }
+  }));
   console.log(`🎉 写入 ${OUTPUT_PATH}，共 ${Object.keys(output).length} 条`);
 }
 

@@ -2,10 +2,13 @@ name: Refresh Feed
 
 on:
   schedule:
-    # Temporary verification window for 2026-04-01 09:58 CST.
-    - cron: "58 1 * * *"
+    # 08:13 / 20:13 China Standard Time
     - cron: "13 0,12 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: refresh-feed
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -13,11 +16,14 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     env:
       DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
       DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-chat' }}
+      ARTICLES_BEFORE_PATH: /tmp/carfeed-articles-before.json
+      TRANSLATION_TARGETS_PATH: /tmp/carfeed-translation-targets.json
 
     steps:
       - name: Checkout
@@ -34,28 +40,84 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch latest articles
-        run: node scripts/fetch.js
-
-      - name: Verify DeepSeek credentials
+      - name: Snapshot previous feed
         run: |
-          if [ -z "$DEEPSEEK_API_KEY" ]; then
-            echo "Missing DEEPSEEK_API_KEY secret"
-            exit 1
+          if [ -f data/articles.json ]; then
+            cp data/articles.json "$ARTICLES_BEFORE_PATH"
+          else
+            printf '[]\n' > "$ARTICLES_BEFORE_PATH"
           fi
 
+      - name: Fetch latest articles
+        id: fetch_step
+        continue-on-error: true
+        run: node scripts/fetch.js
+
+      - name: Prepare translation queue
+        if: always()
+        run: |
+          node scripts/prepare-translation-targets.js \
+            --before "$ARTICLES_BEFORE_PATH" \
+            --after ./data/articles.json \
+            --translations ./data/translations-deepseek.json \
+            --targets-out "$TRANSLATION_TARGETS_PATH" \
+            --status-out ./data/automation-status.json \
+            --limit 400
+
       - name: Translate newly fetched articles
-        run: npm run translate:deepseek -- --limit 400
+        id: translate_step
+        if: steps.fetch_step.outcome == 'success'
+        continue-on-error: true
+        run: |
+          npm run translate:deepseek -- \
+            --limit 400 \
+            --targets-file "$TRANSLATION_TARGETS_PATH" \
+            --status-file ./data/automation-status.json
 
       - name: Build static site
+        id: build_step
+        if: steps.fetch_step.outcome == 'success'
+        continue-on-error: true
         run: npm run build
 
+      - name: Finalize automation status
+        if: always()
+        run: |
+          node scripts/finalize-automation-status.js \
+            --status ./data/automation-status.json \
+            --articles ./data/articles.json \
+            --translations ./data/translations-deepseek.json \
+            --fetch-outcome "${{ steps.fetch_step.outcome }}" \
+            --translate-outcome "${{ steps.translate_step.outcome }}" \
+            --build-outcome "${{ steps.build_step.outcome }}" \
+            --event "${{ github.event_name }}" \
+            --run-id "${{ github.run_id }}" \
+            --sha "${{ github.sha }}"
+
       - name: Commit updated feed
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/articles.json data/archive.json data/translations-deepseek.json dist
+          git add data/articles.json data/archive.json data/translations-deepseek.json data/automation-status.json dist
           git diff --cached --quiet || git commit -m "chore: refresh feed data"
 
       - name: Push changes
+        if: always()
         run: git push
+
+      - name: Fail workflow when refresh pipeline fails
+        if: always()
+        run: |
+          if [ "${{ steps.fetch_step.outcome }}" != "success" ]; then
+            echo "Fetch step failed"
+            exit 1
+          fi
+          if [ "${{ steps.translate_step.outcome }}" != "success" ]; then
+            echo "Translate step failed"
+            exit 1
+          fi
+          if [ "${{ steps.build_step.outcome }}" != "success" ]; then
+            echo "Build step failed"
+            exit 1
+          fi
