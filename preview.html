@@ -460,6 +460,82 @@
       margin: 0 0 16px;
     }
 
+    .modal-gallery {
+      margin: 14px 0 18px;
+    }
+
+    .modal-gallery-single {
+      display: flex;
+      justify-content: center;
+      border-radius: 18px;
+      overflow: hidden;
+      background: #f3eee5;
+    }
+
+    .modal-gallery-single img {
+      display: block;
+      width: auto;
+      max-width: 100%;
+      height: auto;
+      max-height: min(62vh, 760px);
+      object-fit: contain;
+    }
+
+    .modal-gallery-split {
+      display: grid;
+      grid-template-columns: minmax(0, 3fr) minmax(108px, 1fr);
+      gap: 10px;
+      align-items: stretch;
+    }
+
+    .gallery-stage {
+      border-radius: 18px;
+      overflow: hidden;
+      background: #f3eee5;
+      min-height: 280px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .gallery-stage img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      max-height: min(62vh, 760px);
+      object-fit: contain;
+    }
+
+    .gallery-rail {
+      display: grid;
+      grid-template-rows: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .gallery-thumb {
+      appearance: none;
+      border: 0;
+      padding: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      background: #efe7da;
+      cursor: pointer;
+      min-height: 88px;
+      position: relative;
+      box-shadow: inset 0 0 0 1px rgba(18, 50, 99, 0.06);
+    }
+
+    .gallery-thumb.active {
+      box-shadow: inset 0 0 0 2px rgba(18, 50, 99, 0.85);
+    }
+
+    .gallery-thumb img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
     .modal-actions {
       display: flex;
       gap: 10px;
@@ -610,6 +686,23 @@
         font-size: 19px;
       }
 
+      .modal-gallery-split {
+        grid-template-columns: 1fr;
+      }
+
+      .gallery-stage {
+        min-height: 240px;
+      }
+
+      .gallery-rail {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-template-rows: none;
+      }
+
+      .gallery-thumb {
+        min-height: 72px;
+      }
+
       .modal-lead,
       .modal-body,
       .bullet-list {
@@ -673,7 +766,11 @@
     let longPressTriggered = false;
     const feedbackUrl = "";
     let freeTranslations = {};
+    let activeGalleryImages = [];
+    let activeGalleryIndex = 0;
+    let deepseekTranslatedUrls = new Set();
     const FREE_TRANSLATION_STORAGE_KEY = "carfeed-free-translations-v1";
+    const DEEPSEEK_PUBLISH_LIMIT = 100;
     let freeTranslationJobRunning = false;
 
     function getSourceInitials(source) {
@@ -752,6 +849,82 @@
       }
     }
 
+    function uniqueUrls(items) {
+      return [...new Set(items.filter(Boolean))];
+    }
+
+    function imageIdentity(url) {
+      try {
+        const parsed = new URL(url, window.location.href);
+        const match = parsed.pathname.match(/(\d{5,})(?=\.(jpg|jpeg|png|webp|avif)$)/i);
+        return match ? match[1] : parsed.pathname;
+      } catch {
+        return String(url || "");
+      }
+    }
+
+    function getGalleryImages(article, translated) {
+      const translatedImages = Array.isArray(translated?.gallery_images) ? translated.gallery_images : [];
+      const rawImages = [
+        normalizeImageUrl(article.image),
+        ...translatedImages.map((item) => normalizeImageUrl(item))
+      ].filter((url) => url && !/ytimg\.com/i.test(url));
+
+      const seen = new Set();
+      return rawImages.filter((url) => {
+        const key = imageIdentity(url);
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      }).slice(0, 3);
+    }
+
+    function renderModalGallery(article) {
+      const host = document.getElementById("modalGalleryHost");
+      if (!host) return;
+
+      const images = activeGalleryImages.map((url) => withCacheBuster(url, article));
+      if (!images.length) {
+        host.innerHTML = "";
+        return;
+      }
+
+      if (images.length === 1) {
+        host.innerHTML = `
+          <div class="section-caption">图片</div>
+          <div class="modal-gallery modal-gallery-single">
+            <img src="${escapeHtml(images[0])}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">
+          </div>
+        `;
+        return;
+      }
+
+      const safeIndex = Math.max(0, Math.min(activeGalleryIndex, images.length - 1));
+      activeGalleryIndex = safeIndex;
+      host.innerHTML = `
+        <div class="section-caption">图片</div>
+        <div class="modal-gallery modal-gallery-split">
+          <div class="gallery-stage">
+            <img id="galleryStageImage" src="${escapeHtml(images[safeIndex])}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">
+          </div>
+          <div class="gallery-rail">
+            ${images.slice(0, 3).map((url, index) => `
+              <button class="gallery-thumb ${index === safeIndex ? "active" : ""}" type="button" data-gallery-index="${index}" aria-label="查看第 ${index + 1} 张图片">
+                <img src="${escapeHtml(url)}" alt="" loading="lazy">
+              </button>
+            `).join("")}
+          </div>
+        </div>
+      `;
+
+      host.querySelectorAll("[data-gallery-index]").forEach((button) => {
+        button.addEventListener("click", () => {
+          activeGalleryIndex = Number(button.dataset.galleryIndex) || 0;
+          renderModalGallery(article);
+        });
+      });
+    }
+
     function getLogoHost(article) {
       if (article.source_logo) {
         try {
@@ -783,6 +956,10 @@
       const keyword = searchText.trim().toLowerCase();
 
       return allArticles.filter((article) => {
+        if (deepseekTranslatedUrls.size && !deepseekTranslatedUrls.has(article.url)) {
+          return false;
+        }
+
         const articleCategory = article.category || "car";
         const matchesCategory = activeCategory === "all" || articleCategory === activeCategory;
         if (!matchesCategory) return false;
@@ -952,6 +1129,7 @@
         summary_long: translated?.summary_long || "",
         highlights_zh: translated?.highlights_zh || [],
         entities: translated?.entities || [],
+        gallery_images: getGalleryImages(article, translated),
         title_original: article.title_en || ""
       };
     }
@@ -962,6 +1140,8 @@
       const modal = document.getElementById("articleModal");
       const content = document.getElementById("modalContent");
       const tags = [...view.entities, article.category === "ev" ? "新能源" : ""].filter(Boolean);
+      activeGalleryImages = view.gallery_images || [];
+      activeGalleryIndex = 0;
 
       content.innerHTML = `
         <div class="modal-kicker">本地预览 · 免费翻译测试版</div>
@@ -976,6 +1156,7 @@
           <div class="section-caption">概述</div>
           <p class="modal-body">${escapeHtml(view.summary_long)}</p>
         ` : `<p class="modal-body">中文增强内容还未生成。当前版本主要用于测试免费翻译的全量预览效果。</p>`}
+        <div id="modalGalleryHost"></div>
         <div class="section-caption">原标题</div>
         <p class="origin-title">${escapeHtml(view.title_original)}</p>
         <div class="modal-actions">
@@ -987,6 +1168,7 @@
       modal.classList.add("open");
       modal.setAttribute("aria-hidden", "false");
       document.body.style.overflow = "hidden";
+      renderModalGallery(article);
       document.getElementById("modalShare").addEventListener("click", async () => {
         await shareArticle(article);
       });
@@ -1137,7 +1319,6 @@
             ${article.image ? `<img class="cover" src="${escapeHtml(withCacheBuster(normalizeImageUrl(article.image), article))}" alt="${escapeHtml(view.title_display || "")}" loading="lazy">` : ""}
             <div class="content">
               <div class="title">${escapeHtml(view.title_display || "")}</div>
-              ${view.summary_display ? `<div class="summary">${escapeHtml(view.summary_display)}</div>` : ""}
               <div class="meta-row">
                 <div class="source">
                   ${renderLogo(article)}
@@ -1160,16 +1341,25 @@
 
     async function loadArticles() {
       const cacheBust = Date.now();
-      const [articlesResponse, translationsResponse] = await Promise.all([
+      const [articlesResponse, deepseekTranslationsResponse, translationsResponse] = await Promise.all([
         fetch("./data/articles.json?t=" + cacheBust),
+        fetch("./data/translations-deepseek.json?t=" + cacheBust).catch(() => null),
         fetch("./data/translations-free.json?t=" + cacheBust).catch(() => null)
       ]);
       allArticles = await articlesResponse.json();
       freeTranslations = loadFreeTranslationsFromStorage();
-      if (translationsResponse && translationsResponse.ok) {
+      if (deepseekTranslationsResponse && deepseekTranslationsResponse.ok) {
+        const deepseekTranslations = await deepseekTranslationsResponse.json();
+        deepseekTranslatedUrls = new Set(Object.keys(deepseekTranslations).slice(0, DEEPSEEK_PUBLISH_LIMIT));
         freeTranslations = {
           ...freeTranslations,
-          ...await translationsResponse.json()
+          ...deepseekTranslations
+        };
+      }
+      if (translationsResponse && translationsResponse.ok) {
+        freeTranslations = {
+          ...await translationsResponse.json(),
+          ...freeTranslations
         };
         saveFreeTranslationsToStorage();
       }

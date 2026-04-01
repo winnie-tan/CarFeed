@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node scripts/build-static.js",
+    "translate:deepseek": "node scripts/generate-deepseek-translations.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

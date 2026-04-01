@@ -259,8 +259,27 @@ dist
 截至 `2026-04-01`，仓库中还包含一版仅用于本地验证的“免费翻译预览”实验：
 
 - `preview.html` 会优先读取 `data/translations-free.json`
+- 如果存在 `data/translations-deepseek.json`，预览页会优先使用 DeepSeek 结果
 - 如果本地没有有效翻译结果，会在浏览器端调用免费翻译端点尝试翻译标题
 - 结果缓存在浏览器 `localStorage`
+
+当前也已补入本地 DeepSeek 试运行脚本：
+
+```bash
+npm run translate:deepseek
+```
+
+默认会先处理前 `5` 篇文章，并输出到：
+
+```text
+data/translations-deepseek.json
+```
+
+如果想扩大测试量：
+
+```bash
+node scripts/generate-deepseek-translations.js --limit 20
+```
 
 这条路径的目的不是正式上线，而是验证：
 
