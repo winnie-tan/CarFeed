@@ -241,6 +241,32 @@ function pickBestCarWebArticleImage($, base) {
   return pickBestArticleImage($, base);
 }
 
+function pickBestResponseArticleImage($, base) {
+  const selectors = [
+    ".arti-content .figure-area figure img.image",
+    ".arti-content .figure-area img.image",
+    ".arti-content .inbody-img-link img.inbody-img",
+    ".arti-content article img"
+  ];
+
+  for (const selector of selectors) {
+    const node = $(selector).first();
+    if (!node.length) continue;
+
+    const image =
+      node.attr("data-src") ||
+      node.attr("data-original") ||
+      pickSrcFromSrcset(node.attr("srcset")) ||
+      pickSrcFromSrcset(node.attr("data-srcset")) ||
+      node.attr("src");
+
+    const absolute = absoluteUrl(base, normalizeImageUrl(image));
+    if (absolute) return absolute;
+  }
+
+  return pickBestArticleImage($, base);
+}
+
 async function enrichItemsWithArticleImages(items, options = {}) {
   const {
     source,
@@ -267,7 +293,9 @@ async function enrichItemsWithArticleImages(items, options = {}) {
         const preferredImage =
           (item.source === "Best Car Web"
             ? pickBestCarWebArticleImage($, item.url)
-            : pickBestArticleImage($, item.url)) ||
+            : item.source === "Response.jp"
+              ? pickBestResponseArticleImage($, item.url)
+              : pickBestArticleImage($, item.url)) ||
           pickBestMetaImage($, item.url);
         if (preferredImage) {
           enriched[index] = {
@@ -682,8 +710,7 @@ async function fetchResponseHome() {
 
   const deduped = sortByFreshness(dedupe(items)).slice(0, SOURCE_LIMIT);
   return await enrichItemsWithArticleImages(deduped, {
-    source: "Response.jp",
-    onlyWhenSized: true
+    source: "Response.jp"
   });
 }
 
@@ -816,8 +843,7 @@ async function repairArchiveImages(items) {
   });
 
   return await enrichItemsWithArticleImages(bestCarWebItems, {
-    source: "Response.jp",
-    onlyWhenSized: true
+    source: "Response.jp"
   });
 }
 

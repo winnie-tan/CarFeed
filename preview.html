@@ -200,6 +200,17 @@
       word-break: break-word;
     }
 
+    .summary {
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
     .meta-row {
       display: flex;
       justify-content: space-between;
@@ -340,6 +351,145 @@
       line-height: 1.35;
     }
 
+    .modal-shell {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background: rgba(11, 16, 22, 0.58);
+      z-index: 30;
+    }
+
+    .modal-shell.open {
+      display: flex;
+    }
+
+    .modal-panel {
+      width: min(760px, 100%);
+      max-height: min(88vh, 920px);
+      overflow: auto;
+      background: #fffdf8;
+      border-radius: 24px;
+      box-shadow: 0 28px 90px rgba(0, 0, 0, 0.24);
+      padding: 20px 20px 18px;
+    }
+
+    .modal-close {
+      appearance: none;
+      border: 0;
+      background: #efe7da;
+      color: #2a2a2a;
+      width: 34px;
+      height: 34px;
+      border-radius: 999px;
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 18px;
+    }
+
+    .modal-kicker {
+      font-size: 12px;
+      color: var(--accent);
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      margin: 12px 0 10px;
+    }
+
+    .modal-title {
+      font-size: 24px;
+      line-height: 1.28;
+      margin: 0 0 12px;
+    }
+
+    .modal-meta {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 14px;
+    }
+
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0 0 14px;
+    }
+
+    .tag {
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(18, 50, 99, 0.08);
+      color: var(--accent);
+      font-size: 12px;
+      line-height: 1;
+    }
+
+    .modal-lead,
+    .modal-body {
+      font-size: 14px;
+      line-height: 1.7;
+      color: #2d2c29;
+      margin: 0 0 14px;
+      white-space: pre-line;
+    }
+
+    .section-caption {
+      font-size: 12px;
+      letter-spacing: 0.05em;
+      color: #7a736c;
+      text-transform: uppercase;
+      margin: 18px 0 8px;
+    }
+
+    .bullet-list {
+      margin: 0;
+      padding-left: 18px;
+      color: #2d2c29;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    .origin-title {
+      font-size: 13px;
+      line-height: 1.6;
+      color: #6d675f;
+      margin: 0 0 16px;
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .modal-action {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 14px;
+      border-radius: 999px;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 700;
+      border: 0;
+      cursor: pointer;
+    }
+
+    .modal-action.primary {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .modal-action.secondary {
+      background: #efe7da;
+      color: #2d2c29;
+    }
+
     @media (max-width: 1320px) {
       .grid {
         column-count: 3;
@@ -408,6 +558,12 @@
         margin-bottom: 8px;
       }
 
+      .summary {
+        font-size: 11px;
+        line-height: 1.45;
+        margin-bottom: 8px;
+      }
+
       .source img.logo {
         height: 14px;
       }
@@ -437,6 +593,28 @@
       .feedback-fab-text {
         display: none;
       }
+
+      .modal-shell {
+        padding: 10px;
+        align-items: flex-end;
+      }
+
+      .modal-panel {
+        width: 100%;
+        max-height: 84vh;
+        border-radius: 22px 22px 0 0;
+        padding: 16px 16px 18px;
+      }
+
+      .modal-title {
+        font-size: 19px;
+      }
+
+      .modal-lead,
+      .modal-body,
+      .bullet-list {
+        font-size: 13px;
+      }
     }
   </style>
 </head>
@@ -460,6 +638,12 @@
     <div class="empty" id="emptyState">没有匹配的内容。</div>
     <div class="share-toast" id="shareToast" role="status" aria-live="polite"></div>
   </main>
+  <div class="modal-shell" id="articleModal" aria-hidden="true">
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" id="modalClose" type="button" aria-label="关闭">×</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
   <a
     class="feedback-fab"
     id="feedbackFab"
@@ -488,6 +672,9 @@
     let longPressTimer = null;
     let longPressTriggered = false;
     const feedbackUrl = "";
+    let freeTranslations = {};
+    const FREE_TRANSLATION_STORAGE_KEY = "carfeed-free-translations-v1";
+    let freeTranslationJobRunning = false;
 
     function getSourceInitials(source) {
       return String(source || "")
@@ -643,6 +830,175 @@
       return `<span class="source-mark" aria-hidden="true">${escapeHtml(initials)}</span>`;
     }
 
+    function inferEntitiesFromTitle(title) {
+      const text = String(title || "");
+      const lower = text.toLowerCase();
+      const entities = [];
+      const brandMap = [
+        ["toyota", "丰田 | Toyota"],
+        ["lexus", "雷克萨斯 | Lexus"],
+        ["nissan", "日产 | Nissan"],
+        ["honda", "本田 | Honda"],
+        ["mazda", "马自达 | Mazda"],
+        ["subaru", "斯巴鲁 | Subaru"],
+        ["suzuki", "铃木 | Suzuki"],
+        ["yamaha", "雅马哈 | Yamaha"],
+        ["kawasaki", "川崎 | Kawasaki"],
+        ["harley", "哈雷戴维森 | Harley-Davidson"],
+        ["bmw", "宝马 | BMW"],
+        ["mercedes", "梅赛德斯-奔驰 | Mercedes-Benz"],
+        ["audi", "奥迪 | Audi"],
+        ["porsche", "保时捷 | Porsche"],
+        ["volkswagen", "大众 | Volkswagen"],
+        ["jeep", "Jeep | Jeep"],
+        ["tesla", "特斯拉 | Tesla"],
+        ["rivian", "Rivian | Rivian"],
+        ["kia", "起亚 | Kia"],
+        ["hyundai", "现代 | Hyundai"],
+        ["byd", "比亚迪 | BYD"],
+        ["vespa", "Vespa | Vespa"],
+        ["land rover", "路虎 | Land Rover"],
+        ["ferrari", "法拉利 | Ferrari"]
+      ];
+
+      brandMap.forEach(([keyword, label]) => {
+        if (lower.includes(keyword)) entities.push(label);
+      });
+
+      return [...new Set(entities)].slice(0, 6);
+    }
+
+    function loadFreeTranslationsFromStorage() {
+      try {
+        const raw = window.localStorage.getItem(FREE_TRANSLATION_STORAGE_KEY);
+        if (!raw) return {};
+        const parsed = JSON.parse(raw);
+        return parsed && typeof parsed === "object" ? parsed : {};
+      } catch {
+        return {};
+      }
+    }
+
+    function saveFreeTranslationsToStorage() {
+      try {
+        window.localStorage.setItem(FREE_TRANSLATION_STORAGE_KEY, JSON.stringify(freeTranslations));
+      } catch {}
+    }
+
+    async function translateFreeText(text) {
+      const response = await fetch(
+        "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=" +
+        encodeURIComponent(text)
+      );
+      const payload = await response.json();
+      return (payload?.[0] || []).map((part) => part?.[0] || "").join("");
+    }
+
+    async function hydrateFreeTranslations() {
+      if (freeTranslationJobRunning) return;
+      const pending = allArticles.filter((article) => {
+        const item = freeTranslations[article.url];
+        return !item?.title_zh;
+      });
+      if (!pending.length) return;
+
+      freeTranslationJobRunning = true;
+      showToast("正在生成免费翻译标题...");
+
+      let completed = 0;
+      const queue = [...pending];
+
+      async function worker() {
+        while (queue.length) {
+          const article = queue.shift();
+          if (!article) return;
+
+          try {
+            const titleZh = await translateFreeText(article.title_en || "");
+            freeTranslations[article.url] = {
+              ...(freeTranslations[article.url] || {}),
+              title_zh: titleZh || article.title_en || "",
+              summary_short: "",
+              summary_long: "",
+              entities: inferEntitiesFromTitle(article.title_en),
+              translation_source: "browser-google-free-title-only",
+              translated_at: new Date().toISOString()
+            };
+            completed += 1;
+
+            if (completed % 12 === 0) {
+              saveFreeTranslationsToStorage();
+              renderArticles();
+            }
+          } catch {
+            completed += 1;
+          }
+        }
+      }
+
+      await Promise.all(Array.from({ length: 4 }, () => worker()));
+      saveFreeTranslationsToStorage();
+      renderArticles();
+      freeTranslationJobRunning = false;
+      showToast("免费翻译标题已更新");
+    }
+
+    function getArticleView(article) {
+      const translated = freeTranslations[article.url];
+      return {
+        ...article,
+        title_display: translated?.title_zh || article.title_en || "",
+        summary_display: translated?.summary_short || "",
+        summary_long: translated?.summary_long || "",
+        highlights_zh: translated?.highlights_zh || [],
+        entities: translated?.entities || [],
+        title_original: article.title_en || ""
+      };
+    }
+
+    function openArticleModal(article) {
+      const view = getArticleView(article);
+      const translated = freeTranslations[article.url] || {};
+      const modal = document.getElementById("articleModal");
+      const content = document.getElementById("modalContent");
+      const tags = [...view.entities, article.category === "ev" ? "新能源" : ""].filter(Boolean);
+
+      content.innerHTML = `
+        <div class="modal-kicker">本地预览 · 免费翻译测试版</div>
+        <h2 class="modal-title" id="modalTitle">${escapeHtml(view.title_display)}</h2>
+        <div class="modal-meta">${escapeHtml(article.source || "")} · ${escapeHtml(formatDate(article.time))} · ${escapeHtml(translated?.translation_source || "free-translation")}</div>
+        ${tags.length ? `<div class="tag-list">${tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>` : ""}
+        ${view.highlights_zh.length ? `
+          <div class="section-caption">要点</div>
+          <ul class="bullet-list">${view.highlights_zh.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+        ` : ""}
+        ${view.summary_long ? `
+          <div class="section-caption">概述</div>
+          <p class="modal-body">${escapeHtml(view.summary_long)}</p>
+        ` : `<p class="modal-body">中文增强内容还未生成。当前版本主要用于测试免费翻译的全量预览效果。</p>`}
+        <div class="section-caption">原标题</div>
+        <p class="origin-title">${escapeHtml(view.title_original)}</p>
+        <div class="modal-actions">
+          <a class="modal-action primary" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <button class="modal-action secondary" id="modalShare" type="button">复制链接</button>
+        </div>
+      `;
+
+      modal.classList.add("open");
+      modal.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+      document.getElementById("modalShare").addEventListener("click", async () => {
+        await shareArticle(article);
+      });
+    }
+
+    function closeArticleModal() {
+      const modal = document.getElementById("articleModal");
+      modal.classList.remove("open");
+      modal.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    }
+
     function renderFilters() {
       const container = document.getElementById("filters");
       container.innerHTML = categoryConfig.map((item) => `
@@ -752,9 +1108,12 @@
           await shareArticle(article);
         });
         link.addEventListener("click", (event) => {
-          if (!longPressTriggered) return;
           event.preventDefault();
-          longPressTriggered = false;
+          if (longPressTriggered) {
+            longPressTriggered = false;
+            return;
+          }
+          openArticleModal(article);
         });
       });
     }
@@ -764,7 +1123,9 @@
       const container = document.getElementById("articles");
       const emptyState = document.getElementById("emptyState");
 
-      container.innerHTML = articles.map((article, index) => `
+      container.innerHTML = articles.map((article, index) => {
+        const view = getArticleView(article);
+        return `
         <a
           class="card-link"
           href="${escapeHtml(article.url)}"
@@ -773,9 +1134,10 @@
           data-article-index="${index}"
         >
           <div class="card">
-            ${article.image ? `<img class="cover" src="${escapeHtml(withCacheBuster(normalizeImageUrl(article.image), article))}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">` : ""}
+            ${article.image ? `<img class="cover" src="${escapeHtml(withCacheBuster(normalizeImageUrl(article.image), article))}" alt="${escapeHtml(view.title_display || "")}" loading="lazy">` : ""}
             <div class="content">
-              <div class="title">${escapeHtml(article.title_en || "")}</div>
+              <div class="title">${escapeHtml(view.title_display || "")}</div>
+              ${view.summary_display ? `<div class="summary">${escapeHtml(view.summary_display)}</div>` : ""}
               <div class="meta-row">
                 <div class="source">
                   ${renderLogo(article)}
@@ -789,17 +1151,31 @@
             </div>
           </div>
         </a>
-      `).join("");
+      `;
+      }).join("");
 
       emptyState.classList.toggle("show", articles.length === 0);
       bindCardShareEvents(articles);
     }
 
     async function loadArticles() {
-      const response = await fetch("./data/articles.json?t=" + Date.now());
-      allArticles = await response.json();
+      const cacheBust = Date.now();
+      const [articlesResponse, translationsResponse] = await Promise.all([
+        fetch("./data/articles.json?t=" + cacheBust),
+        fetch("./data/translations-free.json?t=" + cacheBust).catch(() => null)
+      ]);
+      allArticles = await articlesResponse.json();
+      freeTranslations = loadFreeTranslationsFromStorage();
+      if (translationsResponse && translationsResponse.ok) {
+        freeTranslations = {
+          ...freeTranslations,
+          ...await translationsResponse.json()
+        };
+        saveFreeTranslationsToStorage();
+      }
       renderFilters();
       renderArticles();
+      hydrateFreeTranslations().catch(() => {});
     }
 
     window.handleLogoError = (event) => {
@@ -834,6 +1210,18 @@
       if (feedbackUrl) return;
       event.preventDefault();
       showToast("反馈问卷链接待补充");
+    });
+
+    document.getElementById("modalClose").addEventListener("click", closeArticleModal);
+    document.getElementById("articleModal").addEventListener("click", (event) => {
+      if (event.target.id === "articleModal") {
+        closeArticleModal();
+      }
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        closeArticleModal();
+      }
     });
 
     loadArticles().catch((error) => {

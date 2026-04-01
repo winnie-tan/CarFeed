@@ -18,7 +18,8 @@ fs.mkdirSync(dataDistDir, { recursive: true });
 fs.copyFileSync(previewSrc, indexDist);
 fs.copyFileSync(previewSrc, previewDist);
 
-for (const file of ["articles.json", "archive.json"]) {
+for (const file of fs.readdirSync(dataSrcDir)) {
+  if (!file.endsWith(".json")) continue;
   fs.copyFileSync(path.join(dataSrcDir, file), path.join(dataDistDir, file));
 }
 
