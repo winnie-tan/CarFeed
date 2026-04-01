@@ -14,6 +14,11 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
 
+    env:
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
+      DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-chat' }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,6 +37,16 @@ jobs:
       - name: Fetch latest articles
         run: node scripts/fetch.js
 
+      - name: Verify DeepSeek credentials
+        run: |
+          if [ -z "$DEEPSEEK_API_KEY" ]; then
+            echo "Missing DEEPSEEK_API_KEY secret"
+            exit 1
+          fi
+
+      - name: Translate newly fetched articles
+        run: npm run translate:deepseek -- --limit 400
+
       - name: Build static site
         run: npm run build
 
@@ -39,7 +54,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/articles.json data/archive.json
+          git add data/articles.json data/archive.json data/translations-deepseek.json dist
           git diff --cached --quiet || git commit -m "chore: refresh feed data"
 
       - name: Push changes

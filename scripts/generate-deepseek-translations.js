@@ -9,7 +9,7 @@ const ARTICLES_PATH = "./data/articles.json";
 const OUTPUT_PATH = "./data/translations-deepseek.json";
 const CONCURRENCY = Number(process.env.CONCURRENCY || 2);
 const MAX_BODY_CHARS = Number(process.env.MAX_BODY_CHARS || 1800);
-const DEFAULT_LIMIT = Number(process.env.LIMIT || 5);
+const DEFAULT_LIMIT = Number(process.env.LIMIT || 400);
 const BRAND_TERMS = [
   "Toyota",
   "Lexus",
@@ -76,6 +76,15 @@ if (!API_KEY) {
 
 function cleanText(text) {
   return String(text || "").replace(/\s+/g, " ").trim();
+}
+
+function loadJsonIfExists(filePath, fallbackValue) {
+  if (!fs.existsSync(filePath)) return fallbackValue;
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  } catch {
+    return fallbackValue;
+  }
 }
 
 function absoluteUrl(base, url) {
@@ -430,14 +439,27 @@ async function buildTranslation(article, index, total) {
 async function main() {
   const args = process.argv.slice(2);
   const limitFlagIndex = args.indexOf("--limit");
+  const forceFlag = args.includes("--force");
   const limit =
     limitFlagIndex >= 0 && args[limitFlagIndex + 1]
       ? Number(args[limitFlagIndex + 1])
       : DEFAULT_LIMIT;
 
-  const articles = JSON.parse(fs.readFileSync(ARTICLES_PATH, "utf-8")).slice(0, limit);
+  const existingOutput = loadJsonIfExists(OUTPUT_PATH, {});
+  const allArticles = JSON.parse(fs.readFileSync(ARTICLES_PATH, "utf-8")).slice(0, limit);
+  const articles = forceFlag
+    ? allArticles
+    : allArticles.filter((article) => {
+        const existing = existingOutput[article.url];
+        return !existing || !cleanText(existing.summary_long);
+      });
   const queue = articles.map((article, index) => ({ article, index }));
-  const output = {};
+  const output = { ...existingOutput };
+
+  console.log(
+    `准备处理 ${articles.length} / ${allArticles.length} 篇文章` +
+      (forceFlag ? "（强制重跑）" : "（自动跳过已有长摘要的条目）")
+  );
 
   async function worker() {
     while (queue.length) {

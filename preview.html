@@ -1133,6 +1133,20 @@
       };
     }
 
+    function getModalKicker(translated) {
+      const source = String(translated?.translation_source || "");
+      if (source.startsWith("deepseek:")) {
+        return "本地预览 · DeepSeek 中文预览";
+      }
+      if (source === "google-translate-free-web-title-only" || source === "browser-google-free-title-only") {
+        return "本地预览 · 免费标题翻译测试";
+      }
+      if (source === "google-translate-free-web") {
+        return "本地预览 · 免费翻译测试版";
+      }
+      return "本地预览 · 中文预览";
+    }
+
     function openArticleModal(article) {
       const view = getArticleView(article);
       const translated = freeTranslations[article.url] || {};
@@ -1143,7 +1157,7 @@
       activeGalleryIndex = 0;
 
       content.innerHTML = `
-        <div class="modal-kicker">本地预览 · 免费翻译测试版</div>
+        <div class="modal-kicker">${escapeHtml(getModalKicker(translated))}</div>
         <h2 class="modal-title" id="modalTitle">${escapeHtml(view.title_display)}</h2>
         <div class="modal-meta">${escapeHtml(article.source || "")} · ${escapeHtml(formatDate(article.time))} · ${escapeHtml(translated?.translation_source || "free-translation")}</div>
         ${tags.length ? `<div class="tag-list">${tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>` : ""}

@@ -8,11 +8,12 @@
 
 当前最新一章：
 
+- `2026-04-01` 自动抓取后增量翻译接入工作流
 - `2026-04-01` 本地汉化预览、排序修正与 Response 图片修复
 - `2026-03-31` 首页交互、Vespa 扩展与新能源板块落地
 - 已完成一级页面反馈浮标、吸顶分类栏与 `新能源` 分类
 - 已接入多条 EV 来源，Vespa 仍需继续补强稳定来源
-- 二级内容当前仍是本地预览方案，DeepSeek 接入留待下一轮
+- 二级内容当前仍以本地预览形态验证，但已接入 DeepSeek 增量翻译链路
 
 ## 项目定位
 
@@ -48,9 +49,14 @@ CarFeed 当前不是完整产品，而是一个面向后续产品化的内容聚
   - 一级页面反馈浮标
   - 卡片点击弹出本地预览弹层
 - 本地汉化预览测试
-  - 浏览器端免费翻译标题
+  - DeepSeek 中文标题、摘要、要点与关键词预览
+  - 免费翻译标题回退
   - 浏览器本地缓存翻译结果
-  - 为后续 DeepSeek / 通义 / 智谱接入验证交互结构
+  - 为后续通义 / 智谱等批处理方案验证交互结构
+- 自动抓取后增量翻译
+  - 每日自动抓取后补翻译未完成条目
+  - 默认复用已生成的 `translations-deepseek.json`
+  - 不再把 DeepSeek 翻译拆成单独的一次性工作流
 - 图片质量修正
   - 对 `Best Car Web` 优先抓正文原图
   - 对 `Response.jp` 改为优先抓正文主图
@@ -105,10 +111,12 @@ CarFeed/
 ├── data/
 │   ├── archive.json      # 本地归档历史
 │   ├── articles.json     # 前端当前读取的数据
+│   ├── translations-deepseek.json # DeepSeek 中文结果
 │   └── translations-free.json  # 本地免费翻译测试占位文件
 ├── scripts/
 │   ├── fetch.js          # 抓取与归档脚本
 │   ├── build-static.js   # 生成 dist 静态产物
+│   ├── generate-deepseek-translations.js # DeepSeek 增量翻译脚本
 │   ├── generate-free-translations.js # 免费翻译实验脚本
 │   └── generate-free-title-translations.sh # 免费标题翻译实验脚本
 ├── preview.html          # 本地预览页面
@@ -131,6 +139,12 @@ CarFeed/
 用于本地免费翻译测试。
 
 当前仅作为浏览器端预览的补充数据占位，不代表已经完成正式的离线全量翻译。
+
+### `data/translations-deepseek.json`
+
+用于保存 DeepSeek 生成的中文标题、短摘要、长概述、要点和关键词。
+
+当前自动化策略不是每天重跑全部历史，而是随抓取流程一起补齐尚未完成翻译的条目。
 
 每条数据当前包含：
 
@@ -169,6 +183,14 @@ node scripts/fetch.js
 data/articles.json
 data/archive.json
 ```
+
+如果需要本地补跑 DeepSeek 翻译：
+
+```bash
+npm run translate:deepseek
+```
+
+默认会读取当前 `data/articles.json`，并跳过已经有长摘要的条目，只补尚未完成翻译的内容。
 
 如果需要本地静态构建：
 
@@ -248,9 +270,10 @@ dist
 
 1. `npm ci`
 2. `node scripts/fetch.js`
-3. `npm run build`
-4. 提交 `data/*.json` 与 `dist/` 的更新
-5. 推送到仓库，触发 Cloudflare Pages 重新部署
+3. `npm run translate:deepseek -- --limit 400`
+4. `npm run build`
+5. 提交 `data/*.json` 与 `dist/` 的更新
+6. 推送到仓库，触发 Cloudflare Pages 重新部署
 
 如果后续希望改成别的时间，只需要调整工作流中的 `cron`。
 
@@ -258,8 +281,8 @@ dist
 
 截至 `2026-04-01`，仓库中还包含一版仅用于本地验证的“免费翻译预览”实验：
 
-- `preview.html` 会优先读取 `data/translations-free.json`
 - 如果存在 `data/translations-deepseek.json`，预览页会优先使用 DeepSeek 结果
+- `preview.html` 仍会读取 `data/translations-free.json` 作为补充回退
 - 如果本地没有有效翻译结果，会在浏览器端调用免费翻译端点尝试翻译标题
 - 结果缓存在浏览器 `localStorage`
 
@@ -269,25 +292,32 @@ dist
 npm run translate:deepseek
 ```
 
-默认会先处理前 `5` 篇文章，并输出到：
+默认会处理当前前端文章池中的条目，并输出到：
 
 ```text
 data/translations-deepseek.json
 ```
 
-如果想扩大测试量：
+如果只想限制处理量：
 
 ```bash
 node scripts/generate-deepseek-translations.js --limit 20
+```
+
+如果想强制重跑已有条目：
+
+```bash
+node scripts/generate-deepseek-translations.js --limit 20 --force
 ```
 
 这条路径的目的不是正式上线，而是验证：
 
 1. 首页卡片是否应该直接显示中文标题
 2. 点击卡片后是否应该先展示站内中文弹层，而不是立刻跳原文
-3. 后续如果切换到 `DeepSeek / 通义 / 智谱`，前端信息结构是否已经合理
+3. 自动抓取后的增量翻译链路是否稳定
+4. 后续如果切换到 `通义 / 智谱`，前端信息结构是否已经合理
 
-这意味着当前仓库里已经有“本地预览交互结构”，但还没有正式的离线汉化与摘要生产管线。
+这意味着当前仓库里已经具备“抓取 -> 增量翻译 -> 静态发布”的基础链路，但仍处于效果验证阶段，不等于已经完成成熟的正式内容生产系统。
 
 ## 微信传播判断
 
