@@ -1,29 +1,30 @@
-name: Refresh Feed
+name: DeepSeek Smoke Test
 
 on:
   schedule:
-    # 08:13 / 20:13 China Standard Time
-    - cron: "13 0,12 * * *"
+    # 2026-04-01 20:40 China Standard Time = 2026-04-01 12:40 UTC
+    - cron: "40 12 1 4 *"
   workflow_dispatch:
 
 concurrency:
-  group: refresh-feed
+  group: deepseek-smoke-test
   cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  refresh:
+  smoke_test:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 25
 
     env:
       DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
       DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-chat' }}
       ARTICLES_BEFORE_PATH: /tmp/carfeed-articles-before.json
-      TRANSLATION_TARGETS_PATH: /tmp/carfeed-translation-targets.json
+      TRANSLATION_TARGETS_PATH: /tmp/carfeed-translation-targets-smoke.json
+      TRANSLATION_LIMIT: 10
 
     steps:
       - name: Checkout
@@ -69,15 +70,15 @@ jobs:
             --translations ./data/translations-deepseek.json \
             --targets-out "$TRANSLATION_TARGETS_PATH" \
             --status-out ./data/automation-status.json \
-            --limit 400
+            --limit "$TRANSLATION_LIMIT"
 
-      - name: Translate newly fetched articles
+      - name: Translate 10 queued articles
         id: translate_step
         if: steps.validate_key.outcome == 'success' && steps.fetch_step.outcome == 'success'
         continue-on-error: true
         run: |
           npm run translate:deepseek -- \
-            --limit 400 \
+            --limit "$TRANSLATION_LIMIT" \
             --targets-file "$TRANSLATION_TARGETS_PATH" \
             --status-file ./data/automation-status.json
 
@@ -101,19 +102,19 @@ jobs:
             --run-id "${{ github.run_id }}" \
             --sha "${{ github.sha }}"
 
-      - name: Commit updated feed
+      - name: Commit smoke test results
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/articles.json data/archive.json data/translations-deepseek.json data/automation-status.json dist
-          git diff --cached --quiet || git commit -m "chore: refresh feed data"
+          git diff --cached --quiet || git commit -m "chore: smoke test deepseek translation"
 
-      - name: Push changes
+      - name: Push smoke test results
         if: always()
         run: git push
 
-      - name: Fail workflow when refresh pipeline fails
+      - name: Fail workflow when smoke test fails
         if: always()
         run: |
           if [ "${{ steps.validate_key.outcome }}" != "success" ]; then
