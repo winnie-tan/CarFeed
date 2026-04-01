@@ -8,6 +8,7 @@
 
 当前最新一章：
 
+- `2026-04-01` 自动翻译可验证化与 21:40 冒烟测试
 - `2026-04-01` 自动抓取后增量翻译接入工作流
 - `2026-04-01` 本地汉化预览、排序修正与 Response 图片修复
 - `2026-03-31` 首页交互、Vespa 扩展与新能源板块落地
@@ -57,6 +58,9 @@ CarFeed 当前不是完整产品，而是一个面向后续产品化的内容聚
   - 每日自动抓取后补翻译未完成条目
   - 默认复用已生成的 `translations-deepseek.json`
   - 不再把 DeepSeek 翻译拆成单独的一次性工作流
+  - 工作流会先校验 `DEEPSEEK_API_KEY` 与接口可用性，再进入抓取和翻译
+  - 每次运行会写入 `data/automation-status.json`，记录抓取、翻译、构建是否成功
+  - 当前已额外安排 `2026-04-01 21:40 CST` 的 `10` 条 DeepSeek 冒烟测试
 - 图片质量修正
   - 对 `Best Car Web` 优先抓正文原图
   - 对 `Response.jp` 改为优先抓正文主图
@@ -111,12 +115,16 @@ CarFeed/
 ├── data/
 │   ├── archive.json      # 本地归档历史
 │   ├── articles.json     # 前端当前读取的数据
+│   ├── automation-status.json # 自动抓取与翻译执行状态
 │   ├── translations-deepseek.json # DeepSeek 中文结果
 │   └── translations-free.json  # 本地免费翻译测试占位文件
 ├── scripts/
 │   ├── fetch.js          # 抓取与归档脚本
 │   ├── build-static.js   # 生成 dist 静态产物
 │   ├── generate-deepseek-translations.js # DeepSeek 增量翻译脚本
+│   ├── prepare-translation-targets.js # 生成待翻译队列与执行前状态
+│   ├── finalize-automation-status.js # 汇总自动化执行结果
+│   ├── validate-deepseek-config.js # 校验 DeepSeek Secret 与接口可用性
 │   ├── generate-free-translations.js # 免费翻译实验脚本
 │   └── generate-free-title-translations.sh # 免费标题翻译实验脚本
 ├── preview.html          # 本地预览页面
@@ -145,6 +153,17 @@ CarFeed/
 用于保存 DeepSeek 生成的中文标题、短摘要、长概述、要点和关键词。
 
 当前自动化策略不是每天重跑全部历史，而是随抓取流程一起补齐尚未完成翻译的条目。
+
+### `data/automation-status.json`
+
+用于记录 GitHub Actions 自动抓取与翻译的执行状态。
+
+当前会记录：
+
+- 本次运行前前端文章池里已有多少条 DeepSeek 翻译
+- 本次待翻译队列有多少条
+- 抓取、翻译、构建分别是否成功
+- 本次运行结束后，仍有多少条前端内容未完成 DeepSeek 翻译
 
 每条数据当前包含：
 
@@ -191,6 +210,12 @@ npm run translate:deepseek
 ```
 
 默认会读取当前 `data/articles.json`，并跳过已经有长摘要的条目，只补尚未完成翻译的内容。
+
+如果需要先校验 DeepSeek 配置：
+
+```bash
+node scripts/validate-deepseek-config.js
+```
 
 如果需要本地静态构建：
 
