@@ -2,8 +2,8 @@ name: DeepSeek Smoke Test
 
 on:
   schedule:
-    # 2026-04-02 08:25 China Standard Time = 2026-04-02 00:25 UTC
-    - cron: "25 0 2 4 *"
+    # 2026-04-02 17:05 China Standard Time = 2026-04-02 09:05 UTC
+    - cron: "5 9 2 4 *"
   workflow_dispatch:
 
 concurrency:

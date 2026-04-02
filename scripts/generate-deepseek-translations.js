@@ -346,64 +346,86 @@ async function requestDeepSeekTranslation(article, sourceText) {
     throw new Error("缺少 DEEPSEEK_API_KEY");
   }
 
-  const response = await fetch(`${BASE_URL}/chat/completions`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${API_KEY}`
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      temperature: 0.3,
-      response_format: { type: "json_object" },
-      messages: [
-        {
-          role: "system",
-          content: [
-            "你是汽车媒体翻译与摘要编辑。",
-            "你需要把输入的汽车新闻整理为中文结构化内容。",
-            "必须只返回 JSON，不要返回任何额外说明。",
-            "summary_short 用于首页卡片，控制在 45-70 个中文字符。",
-            "summary_long 用 1-2 段中文概述文章要义，不要使用“这篇文章”这类措辞。",
-            "highlights_zh 输出 3-4 条要点，每条尽量短，适合在手机端单行展示，避免完整长句。",
-            "entities 输出 3-5 个关键词。",
-            "只有品牌名、车系名、车型名使用“中文 | English”格式。",
-            "如果某个品牌或车型没有自然中文译名，不要输出“English | English”或重复双写，直接保留单个词即可。",
-            "其他关键词一律只输出中文，不要中英双写。",
-            "不要输出 Facebook、TikTok、社交媒体、观看量、时间地点等低价值标签，优先保留品牌、车型、核心主题。"
-          ].join("\n")
+  const maxRetries = 3;
+  let attempt = 0;
+
+  while (attempt < maxRetries) {
+    try {
+      const response = await fetch(`${BASE_URL}/chat/completions`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${API_KEY}`
         },
-        {
-          role: "user",
-          content: JSON.stringify({
-            article: {
-              source: article.source || "",
-              category: article.category || "",
-              title_original: article.title_en || "",
-              url: article.url || "",
-              time: article.time || ""
+        body: JSON.stringify({
+          model: MODEL,
+          temperature: 0.3,
+          response_format: { type: "json_object" },
+          messages: [
+            {
+              role: "system",
+              content: [
+                "你是汽车媒体翻译与摘要编辑。",
+                "你需要把输入的汽车新闻整理为中文结构化内容。",
+                "必须只返回 JSON，不要返回任何额外说明。",
+                "summary_short 用于首页卡片，控制在 45-70 个中文字符。",
+                "summary_long 用 1-2 段中文概述文章要义，不要使用“这篇文章”这类措辞。",
+                "highlights_zh 输出 3-4 条要点，每条尽量短，适合在手机端单行展示，避免完整长句。",
+                "entities 输出 3-5 个关键词。",
+                "只有品牌名、车系名、车型名使用“中文 | English”格式。",
+                "如果某个品牌或车型没有自然中文译名，不要输出“English | English”或重复双写，直接保留单个词即可。",
+                "其他关键词一律只输出中文，不要中英双写。",
+                "不要输出 Facebook、TikTok、社交媒体、观看量、时间地点等低价值标签，优先保留品牌、车型、核心主题。"
+              ].join("\n")
             },
-            source_text: sourceText,
-            output_schema: {
-              title_zh: "string",
-              summary_short: "string",
-              summary_long: "string",
-              highlights_zh: ["string"],
-              entities: ["中文 | English"]
+            {
+              role: "user",
+              content: JSON.stringify({
+                article: {
+                  source: article.source || "",
+                  category: article.category || "",
+                  title_original: article.title_en || "",
+                  url: article.url || "",
+                  time: article.time || ""
+                },
+                source_text: sourceText,
+                output_schema: {
+                  title_zh: "string",
+                  summary_short: "string",
+                  summary_long: "string",
+                  highlights_zh: ["string"],
+                  entities: ["中文 | English"]
+                }
+              })
             }
-          })
-        }
-      ]
-    })
-  });
+          ]
+        })
+      });
 
-  if (!response.ok) {
-    throw new Error(`DeepSeek API ${response.status}`);
+      if (response.status === 429) {
+        // 频率限制，等待后重试
+        const wait = Math.pow(2, attempt) * 1000;
+        console.log(`⚠️ DeepSeek API 频率限制 (429)，等待 ${wait}ms 后重试...`);
+        await new Promise((r) => setTimeout(r, wait));
+        attempt++;
+        continue;
+      }
+
+      if (!response.ok) {
+        throw new Error(`DeepSeek API ${response.status}`);
+      }
+
+      const payload = await response.json();
+      const content = payload?.choices?.[0]?.message?.content || "";
+      return extractJsonObject(content);
+    } catch (error) {
+      if (attempt === maxRetries - 1) throw error;
+      const wait = Math.pow(2, attempt) * 1000;
+      console.log(`⚠️ DeepSeek API 调用失败: ${error.message}，正在进行第 ${attempt + 1} 次重试...`);
+      await new Promise((r) => setTimeout(r, wait));
+      attempt++;
+    }
   }
-
-  const payload = await response.json();
-  const content = payload?.choices?.[0]?.message?.content || "";
-  return extractJsonObject(content);
 }
 
 async function buildTranslation(article, index, total) {

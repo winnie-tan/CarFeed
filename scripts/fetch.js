@@ -838,12 +838,9 @@ async function fetchCarAndDriverEv() {
 }
 
 async function repairArchiveImages(items) {
-  const bestCarWebItems = await enrichItemsWithArticleImages(items, {
-    source: "Best Car Web"
-  });
-
-  return await enrichItemsWithArticleImages(bestCarWebItems, {
-    source: "Response.jp"
+  return await enrichItemsWithArticleImages(items, {
+    onlyWhenSized: true,
+    concurrency: 2
   });
 }
 
@@ -888,7 +885,8 @@ async function main() {
       .flatMap((r) => r.value)
   ));
 
-  const archive = (await repairArchiveImages(mergeArchive(currentFeed))).slice(0, ARCHIVE_LIMIT);
+  const enrichedFeed = await repairArchiveImages(currentFeed);
+  const archive = mergeArchive(enrichedFeed).slice(0, ARCHIVE_LIMIT);
   const recentFeed = sortByFreshness(keepRecentItems(archive, FEED_RETENTION_DAYS));
   const outputFeed = recentFeed.slice(0, OUTPUT_LIMIT);
 

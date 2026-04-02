@@ -282,18 +282,19 @@ dist
 
 - 文件路径：`.github/workflows/refresh-feed.yml`
 - 触发方式：
-  - 每天 `23:50 UTC`
+  - 每天定时执行
   - 手动触发 `workflow_dispatch`
 
-这对应中国时区大致为：
-
-- `07:50`
+**建议抓取时间**：
+针对美国与日本网站，推荐设置为每天两次：
+- **北京时间 08:30** (覆盖日本晨更与美国收尾)
+- **北京时间 21:00** (覆盖美国开更与日本午后总结)
 
 任务会自动执行：
 
 1. `npm ci`
-2. `node scripts/fetch.js`
-3. 对本次新抓取内容执行 `npm run translate:deepseek`
+2. `node scripts/fetch.js` (已优化为增量图片修复模式，降低被封禁风险)
+3. 对本次新抓取内容执行 `npm run translate:deepseek` (具备自动重试机制)
 4. `npm run build`
 5. 提交 `data/*.json` 与 `dist/` 的更新
 6. 推送到仓库，触发 Cloudflare Pages 重新部署
