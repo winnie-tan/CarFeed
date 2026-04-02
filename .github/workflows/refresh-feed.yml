@@ -2,8 +2,8 @@ name: Refresh Feed
 
 on:
   schedule:
-    # 07:50 China Standard Time = 23:50 UTC (previous day)
-    - cron: "50 23 * * *"
+    # 2026-04-02 08:30 China Standard Time = 2026-04-02 00:30 UTC
+    - cron: "30 0 2 4 *"
   workflow_dispatch:
 
 concurrency:
