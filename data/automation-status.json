@@ -1,65 +1,41 @@
 {
   "workflow": {
-    "generated_at": "2026-04-01T23:59:16.700Z",
+    "generated_at": "2026-04-02T03:28:54.999Z",
     "articles_in_feed": 5,
-    "deepseek_translated_before_run": 0,
-    "deepseek_untranslated_before_run": 5,
-    "newly_fetched_articles": 5,
-    "newly_fetched_untranslated": 5,
-    "backlog_untranslated": 0,
+    "deepseek_translated_before_run": 4,
+    "deepseek_untranslated_before_run": 1,
+    "newly_fetched_articles": 0,
+    "newly_fetched_untranslated": 0,
+    "backlog_untranslated": 1,
     "translation_scope": "new_and_backlog",
-    "translation_queue_count": 5,
+    "translation_queue_count": 1,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.4.1",
-        "title": "Woman Spends Hours At Dealership. Then She Tries Carvana: 'Brand-New Car'",
-        "url": "https://www.motor1.com/news/791732/carvana-vs-dealership-buying-process/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.4.1",
-        "title": "Kia's Futuristic EV Van Could Become A New York Taxi",
-        "url": "https://insideevs.com/news/791862/nyc-pv5-taxi-ada-compliant/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.4.1",
-        "title": "Air|Water Porsche Show Set To Return To California On April 25th",
-        "url": "https://www.motor1.com/news/791854/air-water-porsche-show-2026/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.4.1",
-        "title": "Waymo Goes On Houston Road—It Wasn’t Prepared For Houston Drivers: 'We About To Have Waymo Road Rage Incidents'",
-        "url": "https://www.motor1.com/news/791728/houston-waymo-highway-accident/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.4.1",
-        "title": "Honda Prologue's $7,500 Price Cut Means There's No Better Time To Buy",
-        "url": "https://insideevs.com/news/791856/honda-prologue-7500-off-price/"
+        "source": "Response.jp",
+        "time": "2026.4.2",
+        "title": "「これは欲しくなる」ホンダの新型スポーツツアラー『CB1000GT』にSNSで反響、「カッコ良すぎる」の声も",
+        "url": "https://response.jp/article/2026/04/01/409464.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "23876762058",
-    "sha": "83c6b975495d18134bdeb2f10698956082442872",
-    "completed_at": "2026-04-01T23:59:38.099Z",
+    "run_id": "23882307792",
+    "sha": "fb5be47e57e5b4c97224a9603032b68ea60193ce",
+    "completed_at": "2026-04-02T03:29:09.510Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 105,
-    "deepseek_untranslated_after_run": 295,
+    "deepseek_translated_after_run": 106,
+    "deepseek_untranslated_after_run": 294,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets-smoke.json",
-    "scoped_articles": 5,
-    "queued_articles": 5,
-    "processed": 5,
-    "started_at": "2026-04-01T23:59:17.007Z",
-    "finished_at": "2026-04-01T23:59:37.867Z",
+    "scoped_articles": 1,
+    "queued_articles": 1,
+    "processed": 1,
+    "started_at": "2026-04-02T03:28:55.316Z",
+    "finished_at": "2026-04-02T03:29:09.301Z",
     "success": true,
     "error": ""
   }

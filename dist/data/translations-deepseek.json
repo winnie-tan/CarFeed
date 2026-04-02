@@ -2579,5 +2579,30 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-01T23:59:37.865Z"
+  },
+  "https://response.jp/article/2026/04/01/409464.html": {
+    "title_zh": "本田新型运动旅行车 CB1000GT 亮相引热议，社交媒体反响热烈",
+    "summary_short": "本田在 2026 年大阪和东京摩托车展上首次在日本公开了新型运动旅行车 CB1000GT，社交媒体上出现“太帅了”“想要”等大量反响。",
+    "summary_long": "本田在 2026 年大阪和东京摩托车展上首次在日本公开了新型运动旅行车 CB1000GT，作为参考展出，但计划在日本销售。该车以“高性能旅行车：快速、远行、舒适”为概念开发，旨在平衡运动裸车的高性能和操控乐趣与旅行车的舒适性和载物能力。动力单元基于 CB1000 Hornet 和 CB1000F 搭载的水冷四冲程 DOHC 直列四缸 1000cc 发动机，采用专用燃油喷射设置和线控油门系统，保持强劲输出特性的同时提升起步平顺性，有助于长途旅行中减轻骑手和乘客疲劳。车体以 CB1000 Hornet 的钢制钻石车架为基础，重新设计了座椅导轨部分，考虑乘客和行李载重，增强行驶时的车体稳定性。悬挂系统标配电子控制悬挂 EERA，通过 6 轴 IMU、ECU 引擎控制信息和车轮转速等掌握行驶状态，优化前后悬挂减震力，实现适应路面状况的高级减震力自动调整。",
+    "highlights_zh": [
+      "本田 CB1000GT 日本首秀引社交媒体热议",
+      "以高性能旅行车概念平衡运动与舒适",
+      "基于 1000cc 发动机优化长途骑行体验",
+      "标配电子悬挂系统自动调整减震力"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CB1000GT",
+      "运动旅行车",
+      "电子控制悬挂",
+      "高性能"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2198803.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2198803.jpg",
+      "https://response.jp/imgs/fill2/2198448.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T03:29:09.299Z"
   }
 }
