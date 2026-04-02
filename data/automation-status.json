@@ -23,12 +23,12 @@
   },
   "translation": {
     "model": "deepseek-chat",
-    "targets_file": "/tmp/carfeed-translation-targets-smoke.json",
-    "scoped_articles": 0,
-    "queued_articles": 0,
-    "processed": 0,
-    "started_at": "2026-04-02T10:09:50.002Z",
-    "finished_at": "2026-04-02T10:09:50.004Z",
+    "targets_file": "/tmp/today-pending-urls.json",
+    "scoped_articles": 50,
+    "queued_articles": 50,
+    "processed": 50,
+    "started_at": "2026-04-02T10:36:29.596Z",
+    "finished_at": "2026-04-02T10:40:35.776Z",
     "success": true,
     "error": ""
   }

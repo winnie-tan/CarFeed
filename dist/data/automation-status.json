@@ -9,16 +9,26 @@
     "backlog_untranslated": 0,
     "translation_scope": "new_and_backlog",
     "translation_queue_count": 0,
-    "translation_queue_preview": []
+    "translation_queue_preview": [],
+    "event_name": "schedule",
+    "run_id": "23895354012",
+    "sha": "e9a8a696a2eb5594a271e6a4649ea5ab2bfe3f5b",
+    "completed_at": "2026-04-02T10:09:50.217Z",
+    "fetch_outcome": "success",
+    "translate_outcome": "success",
+    "build_outcome": "success",
+    "deepseek_translated_after_run": 108,
+    "deepseek_untranslated_after_run": 292,
+    "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
-    "targets_file": "/tmp/carfeed-translation-targets-smoke.json",
-    "scoped_articles": 0,
-    "queued_articles": 0,
-    "processed": 0,
-    "started_at": "2026-04-02T10:09:50.002Z",
-    "finished_at": "2026-04-02T10:09:50.004Z",
+    "targets_file": "/tmp/today-pending-urls.json",
+    "scoped_articles": 50,
+    "queued_articles": 50,
+    "processed": 50,
+    "started_at": "2026-04-02T10:36:29.596Z",
+    "finished_at": "2026-04-02T10:40:35.776Z",
     "success": true,
     "error": ""
   }
