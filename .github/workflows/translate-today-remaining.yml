@@ -1,0 +1,74 @@
+name: Translate Today Remaining
+
+on:
+  schedule:
+    # 2026-04-02 17:50 China Standard Time = 2026-04-02 09:50 UTC
+    - cron: "50 9 2 4 *"
+  workflow_dispatch:
+
+concurrency:
+  group: translate-today-remaining
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    env:
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
+      DEEPSEEK_MODEL: ${{ secrets.DEEPSEEK_MODEL || 'deepseek-chat' }}
+      TRANSLATION_TARGETS_PATH: /tmp/today-pending-urls.json
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Identify today's pending articles
+        run: |
+          node -e '
+          const fs = require("fs");
+          const articles = JSON.parse(fs.readFileSync("./data/articles.json", "utf-8"));
+          const translations = JSON.parse(fs.readFileSync("./data/translations-deepseek.json", "utf-8"));
+          const today = "2026-04-02";
+          const targets = articles.filter(a => 
+            (a.first_seen_at.startsWith(today) || a.time === "2026.4.2") && 
+            (!translations[a.url] || !translations[a.url].summary_long)
+          ).map(a => a.url);
+          console.log(`Found ${targets.length} pending articles for today.`);
+          fs.writeFileSync(process.env.TRANSLATION_TARGETS_PATH, JSON.stringify(targets));
+          '
+
+      - name: Translate today's pending articles
+        run: |
+          npm run translate:deepseek -- \
+            --limit 100 \
+            --targets-file "$TRANSLATION_TARGETS_PATH" \
+            --status-file ./data/automation-status.json
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/translations-deepseek.json data/automation-status.json
+          git add -f dist
+          git diff --cached --quiet || git commit -m "chore: translate remaining articles for today"
+          git push
