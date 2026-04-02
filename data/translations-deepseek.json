@@ -3881,5 +3881,197 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-02T10:40:35.774Z"
+  },
+  "https://insideevs.com/news/791915/hyundai-ioniq-5-us-sales-q1-2026-increase/": {
+    "title_zh": "现代 Ioniq 5 销量持续强劲",
+    "summary_short": "现代 Ioniq 5 在美国市场第一季度销量创纪录，同比增长 14%，成为品牌最畅销电动车。",
+    "summary_long": "尽管电动车市场整体放缓，现代 Ioniq 5 在美国市场表现依然强劲。第一季度销量同比增长 14%，达到 9,970 辆，创下品牌最佳第一季度销售纪录。这款起价 36,600 美元的电动跨界车在没有联邦税收抵免的情况下，凭借均衡的产品力实现了两位数增长。",
+    "highlights_zh": [
+      "第一季度销量同比增长 14%",
+      "创现代美国最佳第一季度纪录",
+      "起价 36",
+      "成为品牌最畅销电动车"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Ioniq 5",
+      "电动跨界车",
+      "销量增长",
+      "美国市场"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkB3ZG/s1/2026-insideevs-breakthrough-awards-editor-s-choice-hyundai-ioniq-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:18.411Z"
+  },
+  "https://www.motor1.com/news/791860/kia-sales-increase-first-quarter-2026/": {
+    "title_zh": "起亚年第一季度销量再创新高",
+    "summary_short": "起亚 2026 年第一季度销量突破 20 万辆，同比增长 4.1%，创下新纪录。狮跑 | Sportage 和 K4 销量领先，但电动车销量下滑。",
+    "summary_long": "起亚 2026 年第一季度销量达 207,015 辆，较 2025 年同期的 198,850 辆增长 4.1%，再创销售纪录。狮跑 | Sportage 以 44,704 辆的销量成为最畅销车型，同比增长 8.2%；K4 以 37,220 辆紧随其后。然而，EV6 和 EV9 等电动车销量因美国补贴取消而大幅下滑，混合动力车型销量则增长 73%。尽管整体季度表现强劲，但 3 月销量同比下降约 2,000 辆，可能预示行业放缓趋势。",
+    "highlights_zh": [
+      "第一季度销量破 20 万辆",
+      "狮跑销量领先",
+      "电动车销量因补贴取消下滑",
+      "混合动力车型销量激增 73%"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "狮跑",
+      "K4",
+      "EV6",
+      "EV9"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kb8E8l/s1/2026-kia-sportage.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:20.635Z"
+  },
+  "https://response.jp/article/2026/04/02/409565.html": {
+    "title_zh": "【宝马 F 450 GS 试驾】绝妙尺寸感与深度，连老 GS 用户都可能被俘获…丸山浩",
+    "summary_short": "宝马推出全新 F 450 GS，420cc 排量，48 马力，针对欧洲 A2 驾照市场。新车采用独特 135 度相位爆发引擎和自动离心离合器，尺寸适中，质感出色。",
+    "summary_long": "宝马 GS 系列迎来新成员 F 450 GS，排量 420cc，最高输出 48 马力，主要面向欧洲 A2 驾照市场。新车采用全新设计的 135 度相位爆发引擎和自动离心离合器（ERC），底盘和部件品质高，风格与 R1300GS 一脉相承。相比 G310GS，F 450 GS 在尺寸和质感上更符合日本用户需求，提供旗舰级装备与实用尺寸的平衡。试驾在意大利西西里岛进行，涵盖公路和越野路段。",
+    "highlights_zh": [
+      "420cc 排量",
+      "全新 135 度相位爆发引擎设计",
+      "标配自动离心离合器（ERC）",
+      "尺寸适中"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "F 450 GS",
+      "GS 系列",
+      "R1300GS",
+      "G310GS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199410.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199410.jpg",
+      "https://response.jp/imgs/fill2/2199403.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:29.373Z"
+  },
+  "https://response.jp/article/2026/04/02/409564.html": {
+    "title_zh": "OZ Japan 推出代表性轮毂“Rally Racing”40 周年纪念型号『RR40』",
+    "summary_short": "OZ Japan 发布旗下经典轮毂系列“Rally Racing”的 40 周年纪念型号『RR40』，将于 2026 年春季上市，提供 17 英寸和 18 英寸规格。",
+    "summary_long": "OZ Japan 为纪念其代表性轮毂“Rally Racing”诞生 40 周年，推出全新纪念型号『OZ RR40』。该轮毂继承了 Rally Racing 系列的圆润轮辐设计和赛车风格，同时针对现代车辆提升了强度、刚性和适配性能。提供 17 英寸和 18 英寸两种尺寸，颜色有赛车白和高亮钛色可选。",
+    "highlights_zh": [
+      "40 周年纪念型号 RR40 发布",
+      "继承经典设计并提升性能",
+      "提供 17 英寸和 18 英寸规格",
+      "2026 年春季开始销售"
+    ],
+    "entities": [
+      "OZ Japan",
+      "Rally Racing",
+      "RR40",
+      "轮毂",
+      "纪念型号"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199321.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199321.jpg",
+      "https://response.jp/imgs/fill2/2199324.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:29.396Z"
+  },
+  "https://bestcarweb.jp/feature/column/1484573": {
+    "title_zh": "斯巴鲁在纽约车展全球首发新型三排座 SUV，高性能纯电车型亮相",
+    "summary_short": "斯巴鲁在 2026 年纽约国际车展全球首发新型纯电 SUV，配备三排座椅，最大功率 420 马力，续航约 482 公里。",
+    "summary_long": "斯巴鲁在 2026 年纽约国际车展全球首发新型纯电 SUV，命名为“Getaway”。该车为中型 SUV，配备三排座椅，最大功率达 420 马力，续航里程约 482 公里。作为斯巴鲁纯电产品线的第四款车型，它结合了纯电驱动的性能优势和宽敞的内部空间。",
+    "highlights_zh": [
+      "三排座中型 SUV",
+      "最大功率 420 马力",
+      "续航约 482 公里",
+      "纯电驱动"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "Getaway",
+      "纯电 SUV",
+      "三排座",
+      "续航里程"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/02120226/Subaru-Getaway-2027-wallpapermain-1.jpg?v=1775098947",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/02120226/Subaru-Getaway-2027-wallpapermain-1-600x414.jpg?v=1775098947",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/27143837/00_umore_impreza01_head-600x400.jpg?v=1774589918"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:38.075Z"
+  },
+  "https://insideevs.com/news/791906/lucid-gravity-seatbelt-anchor-recall/": {
+    "title_zh": "Lucid 因后排安全带问题召回数千辆 Gravity SUV",
+    "summary_short": "Lucid 召回超过 4,000 辆 Gravity SUV，原因是第二排安全带锚固件存在焊接问题，可能导致在事故中失效。",
+    "summary_long": "Lucid 正在召回 4,476 辆 Gravity SUV，这些车辆的第二排安全带锚固件因供应商 Camaco 未经批准的设计变更，焊接位置不当且长度不足，可能不符合联邦安全标准。在事故中，锚固件可能破裂，增加受伤风险。Lucid 将为 2026 年 2 月 14 日前生产的车辆免费检查并修复或更换座椅。",
+    "highlights_zh": [
+      "召回 4",
+      "第二排安全带锚固件焊接问题",
+      "供应商 Camaco 未经批准变更设计",
+      "免费检查修复"
+    ],
+    "entities": [
+      "Lucid",
+      "Gravity SUV",
+      "Camaco",
+      "召回",
+      "安全带"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y29q4Y/s1/2026-insideevs-breakthrough-awards-editor-s-choice-lucid-gravity.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:38.521Z"
+  },
+  "https://www.thedrive.com/news/the-new-mitsubishi-montero-is-debuting-later-this-year-tds": {
+    "title_zh": "全新三菱蒙特罗将于今年晚些时候亮相",
+    "summary_short": "三菱蒙特罗即将回归，这款经典越野车将在今年晚些时候正式亮相，标志着该品牌的战略调整。",
+    "summary_long": "三菱汽车宣布全新蒙特罗车型将于今年晚些时候正式亮相，这款经典越野车的回归备受期待。作为品牌的重要产品，新蒙特罗预计将延续其越野传统，同时融入现代技术和设计元素。",
+    "highlights_zh": [
+      "蒙特罗今年晚些时候亮相",
+      "经典越野车回归",
+      "三菱重要产品更新",
+      "延续越野传统"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "蒙特罗 | Montero",
+      "越野车",
+      "新车发布",
+      "品牌战略"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/07/Pajero-Montero-Spy-Shots-2-_SB16815-e1775125338526.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/Kubota-Truck-Hero-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:45.707Z"
+  },
+  "https://insideevs.com/news/791886/uber-4000-dollar-grant-expands-us/": {
+    "title_zh": "Uber 将 4000 美元电动车补贴计划扩展至全美司机",
+    "summary_short": "Uber 宣布将 4000 美元电动车补贴计划从纽约、加州等四地扩展至全美，符合条件的司机可获得补贴并享受起亚等合作伙伴的购车折扣。",
+    "summary_long": "Uber 宣布将其电动车补贴计划扩展至全美范围，符合条件的司机可获得 4000 美元补贴，用于从燃油车转向电动车。该计划最初仅在纽约、加州、马萨诸塞州和科罗拉多州实施，现已覆盖全美。Uber 表示，此举旨在帮助司机应对联邦税收抵免政策变化和油价上涨的挑战。除了补贴外，Uber 还与起亚合作，为司机提供购买 Niro EV、EV6 和 EV9 等电动车型的专属折扣，并通过 TrueCar 平台提供额外购车优惠。",
+    "highlights_zh": [
+      "4000 美元补贴扩展至全美司机",
+      "需完成 100 次合格行程并符合等级要求",
+      "与起亚合作提供专属购车折扣",
+      "通过 TrueCar 平台享额外优惠"
+    ],
+    "entities": [
+      "Uber",
+      "起亚 | Kia",
+      "Niro EV",
+      "EV6",
+      "EV9"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBGQje/s1/tesla-model-3-highland-charging-at-a-supercharger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T14:22:49.776Z"
   }
 }
