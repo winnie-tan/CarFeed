@@ -955,10 +955,6 @@
       const keyword = searchText.trim().toLowerCase();
 
       return allArticles.filter((article) => {
-        if (deepseekTranslatedUrls.size && !deepseekTranslatedUrls.has(article.url)) {
-          return false;
-        }
-
         const articleCategory = article.category || "car";
         const matchesCategory = activeCategory === "all" || articleCategory === activeCategory;
         if (!matchesCategory) return false;

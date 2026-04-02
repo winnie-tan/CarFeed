@@ -1,41 +1,34 @@
 {
   "workflow": {
-    "generated_at": "2026-04-02T03:28:54.999Z",
+    "generated_at": "2026-04-02T10:09:49.678Z",
     "articles_in_feed": 5,
-    "deepseek_translated_before_run": 4,
-    "deepseek_untranslated_before_run": 1,
+    "deepseek_translated_before_run": 5,
+    "deepseek_untranslated_before_run": 0,
     "newly_fetched_articles": 0,
     "newly_fetched_untranslated": 0,
-    "backlog_untranslated": 1,
+    "backlog_untranslated": 0,
     "translation_scope": "new_and_backlog",
-    "translation_queue_count": 1,
-    "translation_queue_preview": [
-      {
-        "source": "Response.jp",
-        "time": "2026.4.2",
-        "title": "「これは欲しくなる」ホンダの新型スポーツツアラー『CB1000GT』にSNSで反響、「カッコ良すぎる」の声も",
-        "url": "https://response.jp/article/2026/04/01/409464.html"
-      }
-    ],
+    "translation_queue_count": 0,
+    "translation_queue_preview": [],
     "event_name": "schedule",
-    "run_id": "23882307792",
-    "sha": "fb5be47e57e5b4c97224a9603032b68ea60193ce",
-    "completed_at": "2026-04-02T03:29:09.510Z",
+    "run_id": "23895354012",
+    "sha": "e9a8a696a2eb5594a271e6a4649ea5ab2bfe3f5b",
+    "completed_at": "2026-04-02T10:09:50.217Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 106,
-    "deepseek_untranslated_after_run": 294,
+    "deepseek_translated_after_run": 108,
+    "deepseek_untranslated_after_run": 292,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets-smoke.json",
-    "scoped_articles": 1,
-    "queued_articles": 1,
-    "processed": 1,
-    "started_at": "2026-04-02T03:28:55.316Z",
-    "finished_at": "2026-04-02T03:29:09.301Z",
+    "scoped_articles": 0,
+    "queued_articles": 0,
+    "processed": 0,
+    "started_at": "2026-04-02T10:09:50.002Z",
+    "finished_at": "2026-04-02T10:09:50.004Z",
     "success": true,
     "error": ""
   }

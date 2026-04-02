@@ -2604,5 +2604,55 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-02T03:29:09.299Z"
+  },
+  "https://response.jp/article/2026/04/02/409512.html": {
+    "title_zh": "日产 Kicks e-POWER 泰国版发布，社交媒体热议设计差异",
+    "summary_short": "日产在曼谷车展发布泰国版 Kicks e-POWER，搭载 e-POWER 技术，设计独特引发社交媒体关注。",
+    "summary_long": "日产汽车在曼谷车展 2026 上发布了针对泰国市场的改良新型 Kicks e-POWER，该车采用日产独有的 e-POWER 技术，符合 EURO 6 排放标准，是一款紧凑型 SUV。设计上，前脸采用立体 V 型格栅和箭型日间行车灯，尾部配备六边形尾灯，内饰则包括 12.3 英寸信息娱乐屏和 7 英寸数字仪表盘，旨在为年轻城市用户提供动感驾驶体验。",
+    "highlights_zh": [
+      "搭载日产 e-POWER 技术",
+      "设计独特引发热议",
+      "内饰配备大屏和无线功能",
+      "针对年轻城市用户"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Kicks e-POWER",
+      "紧凑型 SUV",
+      "曼谷车展",
+      "e-POWER 技术"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2198509.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2198509.jpg",
+      "https://response.jp/imgs/fill2/2198517.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T09:38:04.326Z"
+  },
+  "https://response.jp/article/2026/04/01/409500.html": {
+    "title_zh": "川崎 Ninja ZX-10R 日本首发亮相，社交媒体热议“空气动力学部件很赞”“脚踏位置绝了”",
+    "summary_short": "川崎在东京摩托车展 2026 上首次公开新款超级运动摩托车 Ninja ZX-10R，社交媒体好评如潮，预计今夏发售。",
+    "summary_long": "川崎摩托日本公司在东京摩托车展 2026 上首次公开了预计今夏发售的新型超级运动摩托车 Ninja ZX-10R。社交媒体上首次看到实车的粉丝纷纷发出“太帅了”“新款超酷！”等高度评价。新车配备了大型翼片，提升弯道时前轮抓地力和操控性，并采用代表下一代 Ninja 超级运动家族形象的新前脸设计，展现出旗舰车型的锐利与侵略性。发动机在保持世界超级摩托车锦标赛验证的性能同时改善了排放，并新增了带转弯导航功能的 TFT 仪表等便利配置。悬挂系统经过优化，提升了后轮牵引力和弯道操控。此外，还公布了全球限量 500 台、专注于赛道行驶的单座版 Ninja ZX-10RR，配备钛合金连杆等高性能部件。",
+    "highlights_zh": [
+      "东京展首次公开",
+      "大型翼片提升弯道操控",
+      "发动机性能优化",
+      "悬挂调整增强后轮牵引"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Ninja ZX-10R",
+      "超级运动摩托车",
+      "东京摩托车展 2026",
+      "Ninja ZX-10RR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2198930.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2198930.jpg",
+      "https://response.jp/imgs/fill2/2198110.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-02T09:38:09.035Z"
   }
 }
