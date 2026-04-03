@@ -4946,5 +4946,562 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-03T03:35:32.697Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-subaru-ascent-review-a-comfy-but-dated-three-row-suv": {
+    "title_zh": "2026 款斯巴鲁 Ascent 评测：舒适但过时的三排 SUV",
+    "summary_short": "2026 款斯巴鲁 Ascent 在舒适性方面表现突出，但设计和技术已显过时，整体竞争力有限。",
+    "summary_long": "2026 款斯巴鲁 Ascent 作为一款三排 SUV，其最大优势在于出色的乘坐舒适性，为乘客提供了柔软平稳的驾乘体验。然而，这款车型在设计语言、内饰风格和车载信息娱乐系统方面已显陈旧，动力表现和操控性也较为平庸，整体竞争力在当前市场中并不突出。",
+    "highlights_zh": [
+      "舒适性表现突出",
+      "设计和内饰已显过时",
+      "信息娱乐系统体验不佳",
+      "动力系统源自 WRX 调校"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "Ascent",
+      "SUV",
+      "涡轮增压",
+      "舒适性"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/03/Subaru-Ascent-03.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/03/Subaru-Ascent-01.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/03/Subaru-Ascent-09.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:00.872Z"
+  },
+  "https://www.motor1.com/news/791975/bentley-bentayga-off-road-suv-considered/": {
+    "title_zh": "宾利经销商呼吁推出越野版添越：'请将其推向市场'",
+    "summary_short": "宾利北美 CEO 透露，经销商对添越 X 概念车反响热烈，要求量产这款越野 SUV。该车具备 12.2 英寸离地间隙和 V8 动力，可能限量生产。",
+    "summary_long": "宾利北美首席执行官表示，公司自 1 月起向经销商展示添越 X 概念车，经销商明确要求量产这款越野强化版豪华 SUV。该概念车配备升高悬架，离地间隙达 12.2 英寸，涉水深度近两英尺，采用 4.0 升双涡轮 V8 发动机，输出 641 马力。执行层暗示越野版添越可能比预期更早推出，并可能像 Supersports 车型一样限量生产。",
+    "highlights_zh": [
+      "经销商强烈要求量产越野版添越",
+      "概念车离地间隙 12.2 英寸涉水近两英尺",
+      "搭载 4.0 升 V8 发动机输出 641 马力",
+      "可能限量生产类似 Supersports"
+    ],
+    "entities": [
+      "宾利 | Bentley",
+      "添越 | Bentayga",
+      "越野 SUV",
+      "概念车",
+      "限量生产"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJqOY/s1/bentley-bentayga-x-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:02.608Z"
+  },
+  "https://www.thedrive.com/news/vw-reiterates-reports-of-id-buzzs-death-are-greatly-exaggerated-tds": {
+    "title_zh": "大众重申 ID Buzz 未退市，2027 款即将登陆美国",
+    "summary_short": "大众美国 CEO 确认 ID Buzz 电动厢型车将以 2027 款车型重返美国市场，预计今夏末或秋初上市，澄清此前退市传闻。",
+    "summary_long": "大众集团美国 CEO 向媒体重申，复古风格的 ID Buzz 电动厢型车并未退出美国市场，而是将以 2027 款车型回归，预计在今年夏末或秋初上市。此前因大众宣布 2026 年不推出 ID Buzz，引发市场担忧该车型会永久退市，但公司明确表示这不会发生。",
+    "highlights_zh": [
+      "ID Buzz 确认 2027 款回归美国",
+      "预计夏末或秋初上市",
+      "澄清退市传闻不实",
+      "特斯拉一季度产销数据公布"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID Buzz",
+      "特斯拉 | Tesla",
+      "电动厢型车",
+      "美国市场"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/05/VW-ID-side-IMG_1050.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2025/12/EXT-FULL-IMG_0243.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:07.320Z"
+  },
+  "https://www.motor1.com/news/791959/dakar-porsche-959-restoration-video/": {
+    "title_zh": "达喀尔拉力赛保时捷 959 修复过程视频",
+    "summary_short": "1986 年巴黎-达喀尔拉力赛亚军保时捷 959 赛车修复视频发布，展示这辆传奇赛车的维护过程。",
+    "summary_long": "一辆曾由 Jacky Ickx 和 Claude Brasseur 驾驶的保时捷 959 赛车在 1986 年巴黎-达喀尔拉力赛中获得亚军。这辆赛车近期进行了修复维护而非全面翻新，包括拆卸检查、更换轴承、密封件和部分软管等部件。尽管经历了 8700 英里的非洲草原严酷考验，车辆整体状况依然良好。",
+    "highlights_zh": [
+      "1986 年达喀尔拉力赛亚军赛车",
+      "保时捷 959 赛车修复过程",
+      "Jacky Ickx 驾驶过的传奇车辆",
+      "维护而非全面翻新"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "保时捷 959 | Porsche 959",
+      "达喀尔拉力赛 | Dakar Rally",
+      "Jacky Ickx",
+      "Claude Brasseur"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONV3A/s1/paris-dakar-porsche-959-restoration.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:10.124Z"
+  },
+  "https://response.jp/article/2026/04/03/409611.html": {
+    "title_zh": "汽车音响系统构建指南：从入门到专业的 DSP 功放选择",
+    "summary_short": "本文介绍汽车音响系统中 DSP 功放的应用，对比被动与主动系统，帮助用户根据需求构建个性化音响方案。",
+    "summary_long": "汽车音响系统构建有多种方法，本文聚焦于使用 DSP 功放实现系统配置。系统主要分为被动系统和主动系统两种类型，被动系统入门门槛较低，而主动系统在音质上更具优势，能通过独立驱动每个扬声器单元实现更精细的声音控制。通过选择合适的主机或内置功放的 DSP，用户可以轻松构建主动系统，满足从入门到专业的不同需求。",
+    "highlights_zh": [
+      "被动系统入门门槛低",
+      "主动系统音质更优",
+      "DSP 功放实现精细调音",
+      "系统构建灵活多样"
+    ],
+    "entities": [
+      "DSP 功放",
+      "被动系统",
+      "主动系统",
+      "扬声器单元",
+      "汽车音响"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199079.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199079.jpg",
+      "https://response.jp/imgs/fill2/2199077.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:14.526Z"
+  },
+  "https://response.jp/article/2026/04/03/409613.html": {
+    "title_zh": "2026 年铃木吉姆尼家族 12 款热门轮毂推荐：吉姆尼、吉姆尼 Sierra、吉姆尼 Nomad 全面解析",
+    "summary_short": "针对 2026 年铃木吉姆尼、吉姆尼 Sierra 和吉姆尼 Nomad 三款热门轻 4WD 车型，推荐 12 款 RAYS 品牌轮毂，涵盖越野、运动、都市等多种风格，帮助车主打造个性化外观。",
+    "summary_long": "铃木吉姆尼、吉姆尼 Sierra 和吉姆尼 Nomad 作为轻 4WD 改装热门车型，RAYS 品牌提供了丰富的轮毂选择，满足从越野到城市驾驶的多样化风格需求。轮毂选择是避免车型同质化、打造独特外观的关键因素，RAYS 的轮毂阵容包括经典越野风格、运动取向、专业越野以及都市化装饰等多种类型，车主可根据改装方向进行选择。特别值得注意的是，针对四门车型吉姆尼 Nomad，RAYS 推出了 18 英寸大尺寸轮毂，如 HOMURA“2×9L-RA”，以适应其更偏向 SUV 风格和都市化升级的趋势。",
+    "highlights_zh": [
+      "RAYS 轮毂覆盖吉姆尼全系车型",
+      "推荐 12 款轮毂涵盖多种风格",
+      "吉姆尼 Nomad 适合 18 英寸大轮毂",
+      "轮毂选择提升个性化外观"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "吉姆尼 Sierra",
+      "吉姆尼 Nomad",
+      "RAYS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2178811.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2178811.jpg",
+      "https://response.jp/imgs/fill2/2167575.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:19.415Z"
+  },
+  "https://response.jp/article/2026/04/03/409610.html": {
+    "title_zh": "巴斯夫推出生物质平衡 PPSU 新牌号 Ultrason P 3010 BMB，扩展高性能材料组合",
+    "summary_short": "巴斯夫推出生物质平衡 PPSU 新牌号 Ultrason P 3010 BMB，采用 20%生物循环原料，扩展高性能材料组合，支持循环经济。",
+    "summary_long": "巴斯夫宣布推出新型聚苯砜（PPSU）牌号 Ultrason P 3010 BMB，该产品采用 20%生物循环原料，扩展了其认证生物质平衡聚芳醚砜材料组合。该产品适用于家用及餐饮用品、水暖卫生设备、医疗技术、水电解装置、电气电子设备等领域，旨在推动可再生资源利用和循环经济转型。生产过程中部分化石原料被有机废弃物或残留生物质来源的可再生原料替代，生物循环原料通过 ISCC PLUS 认证的质量平衡方法分配给 Ultrason P 牌号。",
+    "highlights_zh": [
+      "巴斯夫推出生物质平衡 PPSU 新牌号",
+      "采用 20%生物循环原料",
+      "扩展高性能材料组合",
+      "支持循环经济转型"
+    ],
+    "entities": [
+      "巴斯夫 | BASF",
+      "Ultrason P 3010 BMB",
+      "聚苯砜 | PPSU",
+      "生物质平衡",
+      "循环经济"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199573.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199573.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:23.771Z"
+  },
+  "https://response.jp/article/2026/04/03/409606.html": {
+    "title_zh": "DS 新 SUV N°7 内饰采用 ALCANTARA 材质 专属色 Blu Eterno",
+    "summary_short": "DS 品牌全新 SUV 车型 N°7 内饰采用 ALCANTARA 材质，配备专属色 Blu Eterno，融合环保再生材料与精致工艺。",
+    "summary_long": "DS 品牌推出的新型 SUV DS N°7 在内饰设计中采用了 ALCANTARA 材质，并特别开发了专属色 Blu Eterno，营造出精致的座舱空间。该材质使用了 68%的认证再生聚酯，结合深色光泽与 ALCANTARA 特有的纹理，搭配拉丝铝装饰和 DS 标志启发的缝线图案，实现了工匠手工与先进技术的融合。",
+    "highlights_zh": [
+      "内饰采用 ALCANTARA 材质",
+      "专属色 Blu Eterno 营造精致空间",
+      "使用 68%认证再生聚酯",
+      "融合手工与先进技术"
+    ],
+    "entities": [
+      "DS",
+      "N°7",
+      "ALCANTARA",
+      "SUV",
+      "内饰设计"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199560.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199560.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:26.477Z"
+  },
+  "https://response.jp/article/2026/04/03/409600.html": {
+    "title_zh": "EV 快速充电器「Terra Charge」在横滨站西口地下停车场和港南台 Birds 引入 50kW 设备",
+    "summary_short": "Terra Charge 在横滨站西口地下停车场和港南台 Birds 引入 50kW 快速充电器，支持扫码使用，旨在支持 EV 普及和充电基础设施扩展。",
+    "summary_long": "Terra Charge 在相铁大厦管理运营的横滨站西口地下停车场和港南台 Birds 引入了 50kW 输出的 EV 快速充电器，并已开始服务。此举旨在支持 2050 年碳中和目标下的 EV 普及和充电基础设施扩展。充电器为单口 50kW 类型，用户可通过智能手机扫描二维码使用，无需下载应用，并支持访客模式。运营方强调设施初期、维护和运营费用免费，采用日本硬件，配备 24 小时呼叫中心和支付管理功能，确保运营方和用户都能安心使用。",
+    "highlights_zh": [
+      "50kW 快速充电器引入横滨两地点",
+      "支持扫码使用",
+      "旨在支持 EV 普及和碳中和目标",
+      "免费设施和 24 小时服务支持"
+    ],
+    "entities": [
+      "Terra Charge",
+      "EV",
+      "快速充电器",
+      "横滨站",
+      "碳中和"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199541.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199541.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:31.536Z"
+  },
+  "https://response.jp/article/2026/04/03/409602.html": {
+    "title_zh": "GR GT3 登陆麦当劳开心乐园餐“多美卡”系列 4 月 10 日起发售",
+    "summary_short": "丰田 GR GT3 赛车将作为玩具加入麦当劳开心乐园餐“多美卡”系列，4 月 10 日起分阶段随机附赠，活动持续至 5 月。",
+    "summary_long": "丰田旗下 GAZOO Racing（GR）与麦当劳开心乐园餐合作，推出“多美卡”系列玩具。GR GT3 赛车将从 4 月 10 日起作为玩具之一，在全国麦当劳门店（部分除外）的开心乐园餐中随机附赠。活动分三个阶段：4 月 10 日至 23 日提供包括 GR GT3 在内的 4 款车型；4 月 24 日至 5 月 7 日更换为 5 款车型；5 月 8 日起则从全部 9 款车型中随机赠送。",
+    "highlights_zh": [
+      "GR GT3 加入麦当劳开心乐园餐",
+      "4 月 10 日起全国门店发售",
+      "分三阶段随机附赠玩具",
+      "活动持续至 5 月初"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR GT3",
+      "GAZOO Racing",
+      "麦当劳",
+      "多美卡"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199554.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199554.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:33.432Z"
+  },
+  "https://bestcarweb.jp/news/1485390": {
+    "title_zh": "GR GT3 加入麦当劳开心乐园餐！丰田与多美卡合作推出儿童赛车主题活动",
+    "summary_short": "丰田 GAZOO Racing 与麦当劳开心乐园餐多美卡系列合作，GR GT3 赛车模型将于 4 月 10 日起作为玩具赠品推出，同时发布儿童赛车主题宣传视频。",
+    "summary_long": "丰田 GAZOO Racing 宣布与麦当劳开心乐园餐多美卡系列合作，从 2026 年 4 月 10 日起推出 GR GT3 赛车模型作为玩具赠品。活动将持续至 2020 年 4 月 23 日，并同步发布名为“DREAM MATCH”的儿童赛车主题宣传视频。此次合作延续了丰田与多美卡的长期联动，此前曾推出 GR Supra 安全车、金色 GR 卡罗拉和 GR86 等车型。",
+    "highlights_zh": [
+      "GR GT3 加入开心乐园餐玩具系列",
+      "合作活动 4 月 10 日正式启动",
+      "同步发布儿童赛车主题视频",
+      "随机附赠四款车型之一"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR GT3",
+      "多美卡",
+      "麦当劳",
+      "开心乐园餐"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03125619/IMG_6738.jpg?v=1775188580",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03125619/IMG_6738-600x424.jpg?v=1775188580",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/01154922/SP00070054.jpg?v=1775026163"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:39.563Z"
+  },
+  "https://bestcarweb.jp/news/1479846": {
+    "title_zh": "为何铃木雨燕表现平平？",
+    "summary_short": "2023 年新款铃木雨燕 | Suzuki Swift 虽搭载 1.2 升三缸混动系统，但销量不佳，月均仅 1418 台，或因设计风格过于个性化。",
+    "summary_long": "作为热门车型的换代产品，2023 年推出的新款铃木雨燕 | Suzuki Swift 销量表现远不如前代。尽管延续了平台并搭载新开发的 1.2 升三缸轻度混合动力系统，在动力性能和油耗平衡方面表现优异，但月均销量仅 1418 台。主要原因在于车型换代后设计风格变得更为独特，导致消费者偏好分化。",
+    "highlights_zh": [
+      "2023 年新款雨燕销量不佳",
+      "月均销量仅 1418 台",
+      "搭载 1.2 升三缸混动系统",
+      "设计风格过于个性化"
+    ],
+    "entities": [
+      "铃木雨燕 | Suzuki Swift",
+      "雅力士 | Toyota Yaris",
+      "马自达 2 | Mazda2",
+      "紧凑型车",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/01151647/SUZUKI-SWIFT_011_1.jpg?v=1775024208",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/01151647/SUZUKI-SWIFT_011_1-600x400.jpg?v=1775024208",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/01154922/SP00070054.jpg?v=1775026163"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:40.453Z"
+  },
+  "https://response.jp/article/2026/04/03/409603.html": {
+    "title_zh": "Archion 股价大幅续涨…上市以来表现强劲",
+    "summary_short": "Archion 股价持续上涨，自上市以来表现强劲。日经指数反弹，特斯拉一季度销量不及预期。",
+    "summary_long": "Archion 股价大幅续涨，自上市以来表现强劲。日经平均股价反弹，因原油价格回落预期改善投资者心理。特斯拉一季度全球销量低于市场预期，股价下跌 5.42%。",
+    "highlights_zh": [
+      "Archion 股价大幅续涨",
+      "日经指数反弹",
+      "特斯拉销量不及预期",
+      "纳斯达克市场续涨"
+    ],
+    "entities": [
+      "Archion",
+      "日经平均股价",
+      "特斯拉 | Tesla",
+      "纳斯达克",
+      "电动汽车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199556.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199556.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:45.897Z"
+  },
+  "https://response.jp/article/2026/04/03/409604.html": {
+    "title_zh": "Exedy 参展关西物流展 2026，以 Neibo 和 EMOVA 应对物流挑战",
+    "summary_short": "Exedy 将在关西物流展 2026 上展示 Neibo 自动搬运机器人和 EMOVA 电动辅助拖车，以解决物流行业的人手不足和重体力劳动问题。",
+    "summary_long": "Exedy 将参加 4 月 8 日至 10 日在 Intex 大阪举办的第 7 届关西物流展 KANSAI LOGIX 2026，设立史上最大展位，针对物流现场的人手不足和重体力劳动等紧迫问题，提供最新解决方案。展示内容包括 AMR Neibo 的自动搬运演示、电动辅助拖车 EMOVA 的操作体验，以及电动辅助托盘车和行车记录仪后装 AI 系统 Accres。",
+    "highlights_zh": [
+      "Exedy 参展关西物流展 2026",
+      "展示 Neibo 自动搬运机器人",
+      "提供 EMOVA 电动辅助拖车体验",
+      "应对物流人手不足和重体力劳动"
+    ],
+    "entities": [
+      "Exedy",
+      "Neibo",
+      "EMOVA",
+      "物流解决方案",
+      "自动搬运"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199558.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199558.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:48.007Z"
+  },
+  "https://bestcarweb.jp/news/1480584": {
+    "title_zh": "不买轿跑就“输了”？初代日产 Gazelle 真不错！昭和轿跑文化的魅力",
+    "summary_short": "文章回顾了昭和时代轿跑文化，以初代日产 Gazelle 和丰田 Soarer 为例，探讨了直线基调轿跑的设计魅力及其对一代人的影响。",
+    "summary_long": "随着 2025 年本田 Prelude 的复活，轿跑车型再次受到关注。文章通过清水草一的个人经历，讲述了昭和时代轿跑文化的魅力。他最初驾驶的是姐姐的第三代 Sunny Coupe，随后购买了初代日产 Gazelle，这款车因在电视剧《西部警察》中出现而备受瞩目。当时，初代丰田 Soarer 的直线设计对他产生了深远影响，虽然买不起 Soarer，但 Gazelle 成为了现实选择。这些经历塑造了他对“帅气汽车”的设计理念，即采用直线基调的轿跑。尽管当时也有像 Celica 和初代 Savanna RX-7 这样的圆润轿跑受欢迎，但他更偏爱直线风格。",
+    "highlights_zh": [
+      "昭和轿跑文化回顾",
+      "初代日产 Gazelle 的设计魅力",
+      "丰田 Soarer 的深远影响",
+      "直线基调轿跑的偏好"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Gazelle",
+      "丰田 | Toyota",
+      "Soarer",
+      "轿跑文化"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/01154922/SP00070054.jpg?v=1775026163",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29191618/00_20220715_crown_03-600x400.jpg?v=1774779379",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/01151647/SUZUKI-SWIFT_011_1-600x400.jpg?v=1775024208"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:55.414Z"
+  },
+  "https://response.jp/article/2026/04/03/409607.html": {
+    "title_zh": "大陆集团分拆公司 AUMOVIO 新设首席商务官，罗兰·法布尔就任",
+    "summary_short": "大陆集团分拆的 AUMOVIO 公司新设首席商务官职位，罗兰·法布尔于 4 月 1 日就任，将负责全球销售业务整合。",
+    "summary_long": "AUMOVIO 公司宣布，原负责车轮制动解决方案的罗兰·法布尔于 4 月 1 日起担任新设立的首席商务官。该职位旨在加强全球销售活动的协同，法布尔将直接向 CEO 菲利普·冯·希尔施海特汇报，并全面负责北美、亚洲和欧洲的销售业务。CEO 表示此举旨在实现更以客户为导向、更高效的销售组织。",
+    "highlights_zh": [
+      "AUMOVIO 新设首席商务官职位",
+      "罗兰·法布尔 4 月 1 日就任",
+      "负责全球三大区域销售",
+      "旨在加强销售协同与效率"
+    ],
+    "entities": [
+      "AUMOVIO",
+      "大陆集团",
+      "罗兰·法布尔",
+      "首席商务官 | CCO",
+      "车轮制动解决方案"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199567.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199567.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:02:55.722Z"
+  },
+  "https://response.jp/article/2026/04/03/409599.html": {
+    "title_zh": "特斯拉 Model Y L 版发布：轴距加长 150 毫米，提供三排六座布局",
+    "summary_short": "特斯拉推出 Model Y L 版，轴距加长 150 毫米至 3040 毫米，提供三排六座布局，最大载物空间达 2539 升，风阻系数优化至 0.216。",
+    "summary_long": "特斯拉 Model Y L 版已开始接受预订，轴距加长 150 毫米至 3040 毫米，车身长度增加约 180 毫米，提供三排六座布局。车内空间号称同级最大，最大载物空间达 2539 升，六座状态下仍可容纳多个行李箱。空气动力学方面，重新设计的车顶线条将风阻系数降至 0.216，新后扰流板提升了高速稳定性。",
+    "highlights_zh": [
+      "轴距加长 150 毫米至 3040 毫米",
+      "提供三排六座布局",
+      "最大载物空间 2539 升",
+      "风阻系数优化至 0.216"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y L",
+      "SUV",
+      "轴距",
+      "六座布局"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199537.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199537.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:03:03.017Z"
+  },
+  "https://response.jp/article/2026/04/03/409612.html": {
+    "title_zh": "大发将展出 e-SNEAKER 及福祉车辆 亮相 2026 无障碍展",
+    "summary_short": "大发工业将在 2026 年无障碍展上展示 e-SNEAKER 步行辅助车及福祉车辆，并介绍其移动服务。",
+    "summary_long": "大发工业将参加 4 月 15 日至 17 日在大阪举办的 2026 无障碍展，展出包括轮椅移动车、升降座椅车等轻福祉车辆，以及用于短距离移动的步行辅助车 e-SNEAKER。同时，展位将设置移动服务展示区，介绍 2025 年 10 月更新的“らくぴた送迎”和“ゴイッショ”服务，以满足福祉护理领域的接送需求。",
+    "highlights_zh": [
+      "展出 e-SNEAKER 步行辅助车",
+      "展示轻福祉车辆系列",
+      "介绍移动接送服务",
+      "满足福祉护理需求"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "e-SNEAKER",
+      "福祉车辆",
+      "无障碍展",
+      "移动服务"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199568.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199568.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:03:03.403Z"
+  },
+  "https://www.motor1.com/news/791844/mustang-parts-scam/": {
+    "title_zh": "女子继承兄弟的福特野马后购买零件被骗，警示汽车配件诈骗风险",
+    "summary_short": "一名女子继承兄弟的福特野马后，在购买车身零件时遭遇诈骗，损失金钱。她已核实卖家信息但仍被骗，事件凸显汽车配件在线交易的风险。",
+    "summary_long": "一名女子从已故兄弟那里继承了一辆福特野马，计划修复后作为儿子从新兵训练营毕业的礼物。她在购买车身零件时，尽管检查了卖家地址、阅读了谷歌评论并收到了有效的追踪链接，但下单后仍被要求额外支付 400 美元才发货，最终发现被骗。这起事件反映了汽车配件诈骗日益普遍，提醒消费者在在线交易中需加强警惕。",
+    "highlights_zh": [
+      "女子继承兄弟福特野马后购买零件被骗",
+      "诈骗手法：下单后要求额外付款才发货",
+      "事件警示汽车配件在线交易风险",
+      "受害者已核实卖家信息但仍遭遇诈骗"
+    ],
+    "entities": [
+      "福特野马",
+      "汽车配件诈骗",
+      "在线交易风险",
+      "消费者保护",
+      "遗产继承"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4QkB/s1/woman-inherits-her-brother-s-mustang.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:03:10.953Z"
+  },
+  "https://bestcarweb.jp/news/1480726": {
+    "title_zh": "为何昔日豪华车如此帅气？解析无 B 柱设计打造的皇冠·Soarer 等经典名车魅力",
+    "summary_short": "文章探讨 1960-1980 年代日本豪华轿跑车的设计魅力，重点分析无 B 柱硬顶车型如丰田皇冠、日产 Cedric/Gloria 和初代 Soarer 的优雅风格与高级感。",
+    "summary_long": "文章回顾了 1960 至 1980 年代日本豪华轿跑车的设计演变，强调无 B 柱硬顶车型在塑造高级感和优雅形象中的关键作用。早期如丰田皇冠初代硬顶和日产 Cedric/Gloria 硬顶率先突出个性化色彩，而丰田 Corona Mark II 等车型也以经典设计赢得人气。1980 年代，初代 Soarer 凭借 2.8L DOHC 发动机和奢华装备，成为风靡一时的个人轿跑典范。",
+    "highlights_zh": [
+      "无 B 柱硬顶设计提升豪华感",
+      "丰田皇冠初代硬顶开创个性化",
+      "初代 Soarer 搭载 2.8L DOHC 引擎",
+      "经典车型设计至今仍显优雅"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "皇冠",
+      "Soarer",
+      "日产 | Nissan",
+      "Cedric/Gloria"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29191618/00_20220715_crown_03.jpg?v=1774779379",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29191618/00_20220715_crown_03-600x400.jpg?v=1774779379",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/01154922/SP00070054.jpg?v=1775026163"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:03:11.304Z"
+  },
+  "https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/": {
+    "title_zh": "特斯拉积压 5 万辆未售电动车创纪录",
+    "summary_short": "特斯拉一季度产量远超交付量，未售库存达 5 万辆创历史新高，Model X 和 Model S 已停产。",
+    "summary_long": "特斯拉一季度产量为 408,386 辆，同比增长近 13%，但交付量仅为 358,023 辆，导致未售库存达 50,363 辆，创公司成立 20 年来最高纪录。尽管美国汽车行业整体放缓，特斯拉销售表现仍属积极，但未达到分析师预期。Model X 和 Model S 已于 4 月 1 日停产。",
+    "highlights_zh": [
+      "一季度未售库存超 5 万辆创纪录",
+      "产量增长 13%但交付量不足",
+      "Model X 和 Model S 已停产",
+      "销售未达分析师预期"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model X",
+      "Model S",
+      "电动车",
+      "库存"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGM6J2/s1/2026-tesla-model-y-performance.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:03:17.354Z"
+  },
+  "https://www.motor1.com/news/791998/ford-swagger-renault-based-cars/": {
+    "title_zh": "福特基于雷诺平台开发的电动车将保持品牌独特风格",
+    "summary_short": "福特 CEO 承诺，基于雷诺平台开发的两款电动车将保持福特欧洲特有的品牌风格。这两款车将填补福特在欧洲的产品空缺，预计 2028 年上市。",
+    "summary_long": "福特欧洲市场份额持续下滑，今年前两个月仅占 2.8%。随着福克斯等经典车型停产，福特急需新产品补充阵容。目前基于大众平台的 Explorer 和 Capri 电动车市场表现平平，福特转向与雷诺合作开发两款新电动车。这两款车将采用雷诺的 Ampere 平台，与 Twingo、4 E-Tech Electric 等小型电动车共享技术。福特 CEO 吉姆·法利强调，无论采用哪个平台，新车都将保持福特特有的品牌风格，避免推出同质化产品。",
+    "highlights_zh": [
+      "福特欧洲市场份额降至 2.8%",
+      "基于雷诺平台开发两款电动车",
+      "首款车型 2028 年上市",
+      "CEO 承诺保持福特独特风格"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "雷诺 | Renault",
+      "电动车",
+      "Ampere 平台",
+      "欧洲市场"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:03:18.294Z"
+  },
+  "https://insideevs.com/news/791986/rivian-outsold-ford-evs-q1-2026/": {
+    "title_zh": "Rivian 第一季度电动汽车销量超越福特 40%",
+    "summary_short": "2026 年第一季度，Rivian 电动汽车销量同比增长 20%，达到 10365 辆，而福特同期电动汽车销量暴跌 69.6%，Rivian 销量超出福特 40.7%。",
+    "summary_long": "2026 年第一季度，Rivian 交付了 10365 辆电动汽车，同比增长 20%，在美国汽车行业整体低迷的背景下表现突出。相比之下，福特同期电动汽车销量从去年的 22550 辆暴跌至 6860 辆，降幅达 69.6%，导致 Rivian 销量超出福特 40.7%。这一转变表明，传统汽车制造商正在重新评估其电动汽车战略，而 Rivian 作为初创公司显示出长期竞争力。",
+    "highlights_zh": [
+      "Rivian Q1 销量 10365 辆",
+      "福特 EV 销量暴跌 69.6%至 6860 辆",
+      "Rivian 销量超出福特 40.7%",
+      "R2 即将开始交付"
+    ],
+    "entities": [
+      "Rivian",
+      "福特 | Ford",
+      "R1S",
+      "R1T",
+      "电动汽车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wlZRxE/s1/2025-rivian-r1s-front-three-quarter-close-up.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-03T14:03:24.398Z"
   }
 }
