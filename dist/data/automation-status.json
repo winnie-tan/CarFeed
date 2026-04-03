@@ -1,73 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-04-02T14:22:09.307Z",
+    "generated_at": "2026-04-03T03:32:50.968Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 392,
-    "deepseek_untranslated_before_run": 8,
-    "newly_fetched_articles": 8,
-    "newly_fetched_untranslated": 8,
-    "backlog_untranslated": 234,
+    "deepseek_translated_before_run": 364,
+    "deepseek_untranslated_before_run": 36,
+    "newly_fetched_articles": 36,
+    "newly_fetched_untranslated": 36,
+    "backlog_untranslated": 198,
     "translation_scope": "new_only",
-    "translation_queue_count": 8,
+    "translation_queue_count": 36,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.4.2",
-        "title": "Kia Is Already Smashing Sales Records In 2026",
-        "url": "https://www.motor1.com/news/791860/kia-sales-increase-first-quarter-2026/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.4.2",
-        "title": "The Hyundai Ioniq 5 Is Still Crushing It",
-        "url": "https://insideevs.com/news/791915/hyundai-ioniq-5-us-sales-q1-2026-increase/"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.4.2",
-        "title": "【BMW F 450 GS 試乗】絶妙なサイズ感と奥深さ、これまでのGSユーザーも虜にしそうだ…丸山浩",
-        "url": "https://response.jp/article/2026/04/02/409565.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.4.2",
-        "title": "オーゼットジャパンの代表的ホイール「ラリーレーシング」、40周年記念モデル『RR40』発売へ",
-        "url": "https://response.jp/article/2026/04/02/409564.html"
+        "time": "2026.4.3",
+        "title": "「787Bの音聞けるの?!」マツダファンフェスタ2026、開催予告にファン興奮",
+        "url": "https://response.jp/article/2026/04/03/409591.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.4.2",
-        "title": "スバルが「新型3列SUV」世界初公開！ 420馬力の高性能BEVがスゴい!! 新型「ゲッタウェイ」ニューヨークショーで初披露",
-        "url": "https://bestcarweb.jp/feature/column/1484573"
+        "time": "2026.4.3",
+        "title": "【もう夏タイヤに替えていい？】スタッドレス「履きつぶし」は超危険!? 早すぎる人と遅すぎる人の決定的な差",
+        "url": "https://bestcarweb.jp/feature/column/1477082"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.3",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第731回",
+        "url": "https://bestcarweb.jp/feature/column/1457608"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "4輪のSUVタイヤのデザインを2輪でも?! オンからオフまで完全包囲した「ダンロップ」のすごすぎる技術力に注目だ…東京モーターサイクルショー2026PR",
+        "url": "https://response.jp/article/2026/04/03/409588.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "BMWグループ、PTCのCodebeamerを要件管理の標準として採用 次世代デジタルエンジニアリング基盤を構築",
+        "url": "https://response.jp/article/2026/04/03/409576.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "Resilire、日本自動車部品工業会の正会員に加入 自動車サプライチェーンのリスク管理強化へ",
+        "url": "https://response.jp/article/2026/04/03/409578.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "TRATONとApplied Intuition、次世代OS「TRATON ONE OS」発表 全4ブランドの新車に搭載へ",
+        "url": "https://response.jp/article/2026/04/03/409573.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "オートバックスセブン、事業者向けタイヤ保管サービス「TireLoop」開始",
+        "url": "https://response.jp/article/2026/04/03/409575.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "ジーカー、欧州でエンターテインメントハブ展開 GeelyテックEUと3SSが共同開発",
+        "url": "https://response.jp/article/2026/04/03/409584.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "スーパーフォーミュラ公式アプリ『SFgo』開発、パーソルクロステクノロジーとJRPがパートナーシップ締結",
+        "url": "https://response.jp/article/2026/04/03/409581.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "スバル クロストレックに「Limited Black」、ブラックアクセント…323万4000円から",
+        "url": "https://response.jp/article/2026/04/03/409572.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.3",
+        "title": "タイヤの溝に挟まった石は取る？ 取らない？ 意外と知らないストーンリテンションの恐怖!!",
+        "url": "https://bestcarweb.jp/feature/column/1483925"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "ドゥカティ、新型『モンスター』に新色スポーツカラー追加、初代S4のカラーリングを踏襲",
+        "url": "https://response.jp/article/2026/04/03/409590.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.3",
+        "title": "トヨタ ダイナ カーゴ 2.0tonシリーズ一部改良、新型ディーゼルエンジンと安全装備を強化",
+        "url": "https://response.jp/article/2026/04/03/409577.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.3",
+        "title": "トヨタが大型商用車向け燃料電池で協業へ！ ダイムラー＆ボルボの合弁企業「セルセントリック」への参画で基本合意",
+        "url": "https://bestcarweb.jp/fullload/1484600"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.3",
+        "title": "ナビもラジオもダメ……デイライトも点灯せず!! 日本正規販売のハイランダー歓喜も注意が、、、スマホ連携はOK",
+        "url": "https://bestcarweb.jp/newcar/1485007"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.3",
+        "title": "ノートは人気イマイチ？ でも内装の質感じゃ同クラスにはヒケをとらない!! 期待はオーラNISMO RSか!?",
+        "url": "https://bestcarweb.jp/feature/column/1479491"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.3",
+        "title": "ハロゲンライトをLED化したい!! カーメイトのGIGA S7プラスは8300ルーメンの明るさが持続!!!",
+        "url": "https://bestcarweb.jp/news/1478421"
       },
       {
         "source": "InsideEVs",
         "time": "2026.4.2",
-        "title": "Lucid Recalls Thousands Of Gravity SUVs Over Rear Seatbelt Issue",
-        "url": "https://insideevs.com/news/791906/lucid-gravity-seatbelt-anchor-recall/"
+        "title": "The Toyota bZ Had An Amazing Start To 2026",
+        "url": "https://insideevs.com/news/791982/toyota-bz-ev-sales-q1-2026/"
       },
       {
-        "source": "InsideEVs",
+        "source": "Motor1",
         "time": "2026.4.2",
-        "title": "Uber Expands $4,000 Grants For Drivers Who Switch To EVs",
-        "url": "https://insideevs.com/news/791886/uber-4000-dollar-grant-expands-us/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.4.2",
-        "title": "The New Mitsubishi Montero Is Debuting Later This Year: TDS",
-        "url": "https://www.thedrive.com/news/the-new-mitsubishi-montero-is-debuting-later-this-year-tds"
+        "title": "'To A Big Company Like Firestone, That’s No Big Deal': Mechanic Turns Down Customer. Then He Gets A Call That Makes Him Regret It",
+        "url": "https://www.motor1.com/news/791842/mechanic-turns-down-customer-appointment/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 8,
-    "queued_articles": 8,
-    "processed": 8,
-    "started_at": "2026-04-02T14:22:09.610Z",
-    "finished_at": "2026-04-02T14:22:49.779Z",
+    "scoped_articles": 36,
+    "queued_articles": 36,
+    "processed": 36,
+    "started_at": "2026-04-03T03:32:51.380Z",
+    "finished_at": "2026-04-03T03:35:32.700Z",
     "success": true,
     "error": ""
   }
