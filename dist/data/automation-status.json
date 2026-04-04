@@ -1,145 +1,79 @@
 {
   "workflow": {
-    "generated_at": "2026-04-04T03:20:44.634Z",
+    "generated_at": "2026-04-04T13:54:07.668Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 371,
-    "deepseek_untranslated_before_run": 29,
-    "newly_fetched_articles": 29,
-    "newly_fetched_untranslated": 29,
-    "backlog_untranslated": 146,
+    "deepseek_translated_before_run": 391,
+    "deepseek_untranslated_before_run": 9,
+    "newly_fetched_articles": 9,
+    "newly_fetched_untranslated": 9,
+    "backlog_untranslated": 137,
     "translation_scope": "new_only",
-    "translation_queue_count": 29,
+    "translation_queue_count": 9,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.4.4",
-        "title": "「すごい世の中になりました」トヨタがアメリカンサイズの『タンドラ』と『ハイランダー』発売、SNSでは驚きの声広がる",
-        "url": "https://response.jp/article/2026/04/04/409615.html"
+        "title": "'I’m Still Getting Charged For Things': Woman Rents Car From Hertz. Then They Ghost Her",
+        "url": "https://www.motor1.com/news/792053/hertz-car-rental-extra-fees/"
       },
       {
         "source": "Response.jp",
         "time": "2026.4.4",
-        "title": "「一気に攻めてきたな」「車名が最高」スバルの新型SUV『ゲッタウェイ』発表で、SNSに衝撃走る",
-        "url": "https://response.jp/article/2026/04/04/409624.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "【バス運転士日誌】カスハラに遭遇したら!? 東京都交通局の事例に見る今後の対応スタンダードとは？",
-        "url": "https://bestcarweb.jp/busmagazine/1461696"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「FSD」",
-        "url": "https://bestcarweb.jp/feature/column/1457739"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "3列6人乗りのテスラモデルY L発売！ 3列目はしっかり座れる？ 実際に乗って内装をチェックしてみた",
-        "url": "https://bestcarweb.jp/feature/column/1486115"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "Z32フェアレディZの衝撃ってヤバかったのよ!! クルマ好きが本気で選んだ”最高の1台”とは!?",
-        "url": "https://bestcarweb.jp/news/1480779"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "アーチオングループ始動!! 競合相手はズバリいすゞグループだ!!",
-        "url": "https://bestcarweb.jp/fullload/1485757"
+        "title": "「人間が扱えるのか!?」ドゥカティ100周年記念モデルの性能に、「もはやモトGPマシン」とSNS驚愕",
+        "url": "https://response.jp/article/2026/04/04/409630.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.4.4",
-        "title": "クルマは造形で語れるか、デザイン視点で読み解く名車群",
-        "url": "https://response.jp/article/2026/04/04/409614.html"
+        "title": "「羽根」が付いた！ 新型ラグジュアリークロスオーバー、スズキ『GSX-S1000GX』が公開…東京モーターサイクルショー2026",
+        "url": "https://response.jp/article/2026/04/04/409628.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.4",
-        "title": "スポーツ走行には欠かせない！ ミライースtuned by D-SPORT Racingに待望のオプションパーツ登場【PR】",
-        "url": "https://bestcarweb.jp/feature/tieup/1482464"
+        "title": "えっまだ使ってないの!? 最大半額のNEXCO「通勤パス」2026年度版で【得する人・損する人】の決定的な差",
+        "url": "https://bestcarweb.jp/feature/column/1477312"
       },
       {
         "source": "Response.jp",
         "time": "2026.4.4",
-        "title": "トヨタ『ランクル250』ガソリン車が一部改良、安全・盗難防止機能を標準装備に…価格は577万9400円",
-        "url": "https://response.jp/article/2026/04/04/409620.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.4.4",
-        "title": "ドライバーは15歳！ 女性限定レース「KYOJO CUP」にキーパー技研が2026年シーズンから参戦",
-        "url": "https://response.jp/article/2026/04/04/409619.html"
+        "title": "スカイラインに施す音の厚みと奥行きが別次元！ 極上カーオーディオ技法［Pro Shop インストール・レビュー］by モービルサウンドテクノロジー 後編",
+        "url": "https://response.jp/article/2026/04/04/409631.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.4",
-        "title": "ドライブの季節!! 春が一番燃費がいいってマジ？ 気温とクルマの関係を徹底解説!!!",
-        "url": "https://bestcarweb.jp/feature/column/1486067"
+        "title": "ずんぐりむっくりが超キュート!! 組み立て式ホンダ モンキー125をデスクに飾りたい!!!",
+        "url": "https://bestcarweb.jp/news/1478641"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.4",
-        "title": "ピンクのクラウン再来！ 思わず二度見の可愛さ!! 特別塗装と専用仕様が魅力のいちごクラウン登場",
-        "url": "https://bestcarweb.jp/news/1481152"
+        "title": "ヤリス丸、雨の佐賀初日を制す！ 新井大輝選手開幕2連勝に期待大！",
+        "url": "https://bestcarweb.jp/news/motorsport/1486733"
       },
       {
         "source": "Motor1",
-        "time": "2026.4.3",
-        "title": "'This Is A $20,000 Issue': Man Buys Through Carvana. Then He Tries To Use His Warranty When Something Goes Wrong",
-        "url": "https://www.motor1.com/news/791960/carvana-warranty-covers-what/"
+        "time": "2026.4.4",
+        "title": "'Boy Bye': Woman Seeks Mobile Mechanic On Facebook. Then 1 Asks Her A Shocking Question",
+        "url": "https://www.motor1.com/news/791973/mobile-mechanic-weird-facebook-question/"
       },
       {
         "source": "Motor1",
-        "time": "2026.4.3",
-        "title": "Jaguar: We Will Be 'Exclusively Electric'",
-        "url": "https://www.motor1.com/news/792058/jaguar-rawdon-glover-interview/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.4.3",
-        "title": "Infiniti Is Building a ‘High-Horsepower’ Manual Sports Sedan",
-        "url": "https://www.thedrive.com/news/infiniti-is-building-a-high-horsepower-manual-sports-sedan"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.4.3",
-        "title": "EV Depreciation Is Still Brutal. But Hybrids Should Give Us Hope",
-        "url": "https://insideevs.com/news/792049/evs-vs-hybrid-depreciation/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.4.3",
-        "title": "Dodge CEO Still ‘Absolutely’ Thinks There’s Opportunity for a Sub-$30k Sports Car",
-        "url": "https://www.thedrive.com/news/dodge-ceo-still-absolutely-thinks-theres-opportunity-for-a-sub-30k-sports-car"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.4.3",
-        "title": "Woman Goes To The Car Wash. Then She Uses A 'Cheat Code' To Get A Free Wash: 'I Haven't Paid In 3 Years'",
-        "url": "https://www.motor1.com/news/791956/free-car-wash-code/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.4.3",
-        "title": "The New Nissan Xterra Will Only Be Gasoline-Powered",
-        "url": "https://www.motor1.com/news/792059/nissan-xterra-gasoline-only/"
+        "time": "2026.4.4",
+        "title": "'That's Not Good': Man Takes A Hyundai Sonata To The Shop. Then The Mechanic Takes One Look—And Recommends He Sell It",
+        "url": "https://www.motor1.com/news/791561/mechanic-recommends-selling-hyundai-sonata/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 29,
-    "queued_articles": 29,
-    "processed": 29,
-    "started_at": "2026-04-04T03:20:44.976Z",
-    "finished_at": "2026-04-04T03:22:20.580Z",
+    "scoped_articles": 9,
+    "queued_articles": 9,
+    "processed": 9,
+    "started_at": "2026-04-04T13:54:08.121Z",
+    "finished_at": "2026-04-04T13:54:41.630Z",
     "success": true,
     "error": ""
   }

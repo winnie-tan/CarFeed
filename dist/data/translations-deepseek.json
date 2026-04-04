@@ -6206,5 +6206,223 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-04T03:22:20.577Z"
+  },
+  "https://www.motor1.com/news/792053/hertz-car-rental-extra-fees/": {
+    "title_zh": "赫兹租车额外收费争议：女子租车后遭隐形收费且客服失联",
+    "summary_short": "一名女子从赫兹租车后，被收取多项额外费用，包括过路费和拥堵费，且客服拒绝回应，引发消费者投诉。",
+    "summary_long": "一名女子在纽约市通过赫兹租车前往弗吉尼亚州，并在结账时添加了过路费通行证。然而，租车后她收到多笔额外收费，涉及过路费和拥堵费，赫兹客服却拒绝回复邮件和接听电话，导致她无法获得解释。这起事件凸显了租车公司可能利用收费不透明问题向消费者施加额外费用。",
+    "highlights_zh": [
+      "赫兹租车后收取额外过路费和拥堵费",
+      "客服拒绝回应邮件和电话",
+      "消费者投诉租车公司收费不透明",
+      "事件引发对租车行业收费实践的关注"
+    ],
+    "entities": [
+      "赫兹 | Hertz",
+      "租车",
+      "额外收费",
+      "过路费",
+      "拥堵费"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak344L/s1/woman-rents-car-from-hertz.-then-they-ghost-her.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:14.870Z"
+  },
+  "https://response.jp/article/2026/04/04/409630.html": {
+    "title_zh": "杜卡迪周年纪念车型性能惊人，社交媒体惊呼“已是 MotoGP 赛车级别”",
+    "summary_short": "杜卡迪发布 100 周年纪念限量车型 Superleggera V4 Centenario，采用碳纤维车架和碳陶瓷刹车系统，功率重量比达 1.48 马力/公斤，社交媒体惊叹其性能接近 MotoGP 赛车。",
+    "summary_long": "意大利摩托车制造商杜卡迪为纪念成立 100 周年，推出了限量车型 Superleggera V4 Centenario。该车首次在合法上路车型中采用碳陶瓷刹车盘与碳纤维前叉的组合，车架、摇臂和车身均使用碳纤维材料，不含燃料的整备质量仅 173 公斤。搭载手工调整气门正时的 Desmosedici Stradale R 1100 发动机，排量 1103cc，最高输出 228 马力，安装赛车排气时可达 247 马力，实现 1.48 马力/公斤的功率重量比。社交媒体上用户纷纷惊叹其性能已接近 MotoGP 赛车，质疑“人类能否驾驭”。",
+    "highlights_zh": [
+      "碳纤维车架与碳陶瓷刹车系统首次组合",
+      "功率重量比达 1.48 马力/公斤",
+      "不含燃料整备质量仅 173 公斤",
+      "社交媒体惊叹性能接近 MotoGP 赛车"
+    ],
+    "entities": [
+      "杜卡迪",
+      "Superleggera V4 Centenario",
+      "碳纤维",
+      "碳陶瓷刹车",
+      "MotoGP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199832.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199832.jpg",
+      "https://response.jp/imgs/fill2/2199824.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:17.158Z"
+  },
+  "https://response.jp/article/2026/04/04/409628.html": {
+    "title_zh": "铃木亮相东京摩托车展 2026，配备“羽翼”设计",
+    "summary_short": "铃木在东京摩托车展 2026 首次公开豪华跨界车型 GSX-S1000GX，配备电子控制悬架和空气动力学翼片，融合运动与冒险旅行特性。",
+    "summary_long": "铃木 GSX-S1000GX 是一款融合运动摩托车与冒险旅行车特点的豪华跨界车型，搭载 999cc 直列四缸发动机和先进的电子控制系统。该车首次采用电子控制悬架系统，能根据路况自动调整减震力，确保舒适骑行体验。车身采用轻量化铝制车架和可调风挡，专为长途旅行设计。",
+    "highlights_zh": [
+      "配备空气动力学翼片设计",
+      "首次采用电子控制悬架系统",
+      "搭载 999cc 四缸发动机",
+      "专为长途旅行优化舒适性"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "GSX-S1000GX",
+      "豪华跨界车型",
+      "电子控制悬架",
+      "东京摩托车展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199793.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199793.jpg",
+      "https://response.jp/imgs/fill2/2199788.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:21.892Z"
+  },
+  "https://bestcarweb.jp/feature/column/1477312": {
+    "title_zh": "2026 年度 NEXCO 通勤通行证：最大半价优惠，谁受益谁吃亏？",
+    "summary_short": "日本 NEXCO 推出 2026 年度通勤通行证，高速通行费最高可享半价优惠，但并非所有驾驶者都能受益。",
+    "summary_long": "NEXCO 东日本、中日本、西日本公司实施的“通勤通行证”是针对 ETC 车辆的通勤折扣制度，2026 年度将继续试行。该制度允许注册车辆在指定区间内享受最高 50%的通行费折扣，且无时间限制，24 小时均可使用。与“平日朝夕折扣”相比，通勤通行证更适合轮班制或加班频繁的驾驶者。",
+    "highlights_zh": [
+      "最高 50%高速通行费折扣",
+      "无时间限制",
+      "需提前注册车辆和区间",
+      "适合频繁通勤驾驶者"
+    ],
+    "entities": [
+      "NEXCO",
+      "通勤通行证",
+      "ETC",
+      "高速通行费",
+      "折扣制度"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/26045506/449ffb9a5e0542236a81db8f13925541.jpg?v=1774468507",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/26045506/449ffb9a5e0542236a81db8f13925541-600x368.jpg?v=1774468507",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03180956/IMG_4597-600x394.jpg?v=1775207398"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:23.462Z"
+  },
+  "https://response.jp/article/2026/04/04/409631.html": {
+    "title_zh": "日产 Skyline 极致汽车音响改装：独特 A 柱设计与莫雷单元打造沉浸声场",
+    "summary_short": "日产 Skyline 车主通过莫雷音响单元与独创 A 柱 3D 打印加工，实现家庭影院级音质，展现声音厚度与空间感。",
+    "summary_long": "日产 Skyline 车主小栗基于家庭音响爱好，在爱车上追求媲美家用的高音质系统。通过莫雷系列单元的专业安装，特别是 A 柱区域的复杂结构设计，实现了精准的声音定位与空间表现。采用 3D 打印技术精确制造 A 柱造型，确保各扬声器角度符合声学目标，创造出宽广而不刺耳的高频、深邃的中频与立体的声场。",
+    "highlights_zh": [
+      "莫雷单元打造前端声场",
+      "A 柱 3D 打印精准安装",
+      "独特角度避免高频刺耳",
+      "实现声音深度与宽度"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Skyline",
+      "莫雷",
+      "汽车音响",
+      "3D 打印"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2198839.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2198839.jpg",
+      "https://response.jp/imgs/fill2/2198840.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:28.914Z"
+  },
+  "https://bestcarweb.jp/news/1478641": {
+    "title_zh": "超可爱组装式本田 Monkey125 模型，桌面装饰新宠！",
+    "summary_short": "本田 Monkey125 推出限量组装式积木模型，完美复刻经典设计，兼具拼装乐趣与装饰性，吸引摩托车爱好者收藏。",
+    "summary_long": "本田 Monkey125 作为迷你摩托车界的经典车型，现推出官方授权的限量组装式积木模型。该模型由 527 个零件构成，精细还原了圆润油箱、圆形头灯和紧凑车身等标志性特征，细节处理到位，拼装过程能体验结构乐趣。完成尺寸约 224.5mm 长×167.5mm 高，重量约 341.1g，适合桌面摆放，兼具装饰性和收藏价值，尤其吸引成年摩托车粉丝。",
+    "highlights_zh": [
+      "限量组装式积木模型",
+      "527 个零件精细还原",
+      "适合桌面装饰收藏",
+      "吸引成年摩托车爱好者"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Monkey125",
+      "积木模型",
+      "摩托车",
+      "收藏品"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/27005725/a83c82c82094a6ea9e806e1b17493240.jpg?v=1774540646",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/27005725/a83c82c82094a6ea9e806e1b17493240-600x600.jpg?v=1774540646",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/27005420/c2ebf973d1cdca1f3df1c078327cb3f1-600x400.jpg?v=1774540461"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:29.883Z"
+  },
+  "https://www.motor1.com/news/791973/mobile-mechanic-weird-facebook-question/": {
+    "title_zh": "女子在 Facebook 寻找移动修理工，遭遇离谱要求",
+    "summary_short": "一名女子在 Facebook 上寻找移动修理工，对方竟要求预付定金和油费，引发争议。",
+    "summary_long": "一名女子在 Facebook 上寻找移动修理工来修车，但对方在出发前要求她支付定金和油费，这让她感到意外和不满。移动修理工通常以方便和无麻烦为卖点，但此事件暴露了服务中的潜在问题。女子在 TikTok 上吐槽此事，指出如果修理工需要油费，那他自己也像被困一样。",
+    "highlights_zh": [
+      "女子 Facebook 找移动修理工",
+      "对方要求预付定金和油费",
+      "移动修理工服务引争议",
+      "TikTok 吐槽引发关注"
+    ],
+    "entities": [
+      "移动修理工",
+      "Facebook",
+      "TikTok",
+      "Michelle York"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPK8y/s1/woman-seeks-mobile-mechanic-on-facebook.-then-1-asks-her-a-shocking-question.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:35.375Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1486733": {
+    "title_zh": "雅力士丸在佐贺雨战首日夺冠！新井大辉选手有望实现开幕两连胜！",
+    "summary_short": "2026 年全日本拉力锦标赛第二站佐贺站首日，新井大辉驾驶 GR 雅力士拉力 2 在恶劣天气中领先，展现出色适应力。",
+    "summary_long": "2026 年全日本拉力锦标赛第二站佐贺站首日遭遇雨、雾和倒木等挑战，新井大辉驾驶 GR 雅力士拉力 2 在湿滑路面表现出色，以领先优势结束比赛。他在倒木障碍中果断决策，虽车辆受损但为后续车手开路，目前与第二名仅差一秒，竞争激烈。",
+    "highlights_zh": [
+      "雨雾天气中 GR 雅力士拉力 2 领先",
+      "倒木障碍下新井大辉果断突破",
+      "首日比赛与第二名仅一秒之差",
+      "恶劣条件展现车手适应能力"
+    ],
+    "entities": [
+      "新井大辉",
+      "GR 雅力士拉力 2 | GR Yaris Rally2",
+      "全日本拉力锦标赛",
+      "佐贺站",
+      "拉力赛"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/04190554/S__89186313_1.jpg?v=1775297155",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/04190554/S__89186313_1-600x400.jpg?v=1775297155",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30142859/PXL_20260328_022538368_1-600x400.jpg?v=1774848541"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:35.535Z"
+  },
+  "https://www.motor1.com/news/791561/mechanic-recommends-selling-hyundai-sonata/": {
+    "title_zh": "修车师傅看了一眼现代索纳塔，建议车主卖掉",
+    "summary_short": "亚特兰大修车师傅检查 2018 款现代索纳塔时发现变速箱有严重维修痕迹，建议车主卖掉而非修理，引发行业反思。",
+    "summary_long": "亚特兰大一家修车店的师傅检查一辆 2018 款现代索纳塔时，发现变速箱上有 J-B Weld 粘合剂、压扁的变速箱管路和硅胶残留等严重维修痕迹。师傅当场建议车主卖掉这辆车而非继续修理，但事后反思是否过度分享了专业意见。这起案例引发了关于何时建议客户修车或卖车的行业讨论。",
+    "highlights_zh": [
+      "变速箱发现 J-B Weld 粘合剂",
+      "修车师傅建议卖掉而非修理",
+      "事后反思是否过度分享意见",
+      "2018 款现代索纳塔案例"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "索纳塔 | Sonata",
+      "变速箱",
+      "修车师傅",
+      "维修痕迹"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlqZl/s1/man-takes-a-hyundai-sonata-to-the-mechanic.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T13:54:41.627Z"
   }
 }
