@@ -5503,5 +5503,708 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-03T14:03:24.398Z"
+  },
+  "https://response.jp/article/2026/04/04/409624.html": {
+    "title_zh": "斯巴达全新 SUV『Getaway』发布，社交媒体反响热烈",
+    "summary_short": "斯巴达 | Subaru 在纽约车展发布全新纯电三排座 SUV『Getaway』，搭载 420 马力双电机，续航超 480 公里，配备全轮驱动系统。",
+    "summary_long": "斯巴达 | Subaru 在 2026 年纽约车展全球首发全新纯电动三排座 SUV『Getaway』，这是该品牌第四款电动车型。车辆搭载前后轴双电机，总功率达 420 马力，标配全轮驱动系统，续航里程超过 480 公里，计划 2026 年底在美国上市。『Getaway』提供 7 座和 6 座两种布局，第三排座椅采用电动折叠设计，并具备出色的越野能力。",
+    "highlights_zh": [
+      "420 马力双电机全轮驱动",
+      "续航超 480 公里纯电 SUV",
+      "提供 6 座和 7 座两种布局",
+      "标配越野模式系统"
+    ],
+    "entities": [
+      "斯巴达 | Subaru",
+      "Getaway",
+      "纯电动 SUV",
+      "全轮驱动",
+      "纽约车展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199744.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199744.jpg",
+      "https://response.jp/imgs/fill2/2199743.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:20:53.007Z"
+  },
+  "https://response.jp/article/2026/04/04/409615.html": {
+    "title_zh": "丰田在美国生产的美式尺寸坦途和汉兰达在日本上市，社交媒体反响热烈",
+    "summary_short": "丰田将美国生产的坦途皮卡和汉兰达 SUV 引入日本销售，利用新制度简化进口流程，引发广泛关注。",
+    "summary_long": "丰田汽车通过美国工厂生产的坦途皮卡和汉兰达 SUV 在日本上市，自 4 月 2 日起开始销售。此举基于 2025 年实施的新制度，允许符合美国安全标准的车辆无需额外测试即可在日本销售。坦途作为全尺寸皮卡，尺寸庞大，设计强调力量感；汉兰达则提供宽敞空间和实用性。丰田计划先通过东京经销商销售，全国推广预计在今夏之后。",
+    "highlights_zh": [
+      "丰田引入美国产坦途和汉兰达",
+      "利用新制度简化进口流程",
+      "坦途尺寸庞大",
+      "销售先限于东京"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "坦途",
+      "汉兰达",
+      "皮卡",
+      "SUV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199731.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199731.jpg",
+      "https://response.jp/imgs/fill2/2199712.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:20:53.036Z"
+  },
+  "https://bestcarweb.jp/feature/column/1457739": {
+    "title_zh": "汽车行业术语解析：FSD 是什么的缩写？",
+    "summary_short": "特斯拉 FSD 功能解析：全自动驾驶系统在日本开始道路测试，通过软件更新逐步实现完全自动驾驶目标。",
+    "summary_long": "FSD 是特斯拉车辆可选装的驾驶辅助功能，全称为“全自动驾驶”。该系统通过车载软件更新不断完善，旨在最终实现完全自动驾驶。特斯拉日本公司已于 2025 年 8 月 20 日宣布在日本启动 FSD 的道路测试。",
+    "highlights_zh": [
+      "FSD 是特斯拉的全自动驾驶系统",
+      "通过软件更新逐步完善功能",
+      "已在日本启动道路测试",
+      "最终目标是实现完全自动驾驶"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "FSD",
+      "自动驾驶",
+      "驾驶辅助",
+      "软件更新"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/02142548/00b.png?v=1772429149",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/02142548/00b-600x400.png?v=1772429149",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03180956/IMG_4597-600x394.jpg?v=1775207398"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:20:58.125Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1461696": {
+    "title_zh": "【巴士司机日志】遭遇顾客骚扰怎么办？从东京都交通局案例看未来应对标准",
+    "summary_short": "东京都交通局巴士司机因乘客辱骂而停运，引发对顾客骚扰应对标准的讨论。巴士公司普遍制定相关指南，确保运输安全。",
+    "summary_long": "东京都交通局巴士司机在东京国际展览中心线路遭遇乘客辱骂后，以“无法保持驾驶精神状态”为由停运，获得运行管理者的许可。这一事件被认定为典型的顾客骚扰案例。巴士和铁路运营商大多制定了应对顾客骚扰的指南，交通局采取的“运行中止”决定被视为保障旅客运输安全的适当措施。",
+    "highlights_zh": [
+      "巴士司机因乘客辱骂停运",
+      "东京都交通局确认事件属实",
+      "顾客骚扰案例引发行业讨论",
+      "运行中止保障运输安全"
+    ],
+    "entities": [
+      "巴士司机",
+      "顾客骚扰",
+      "东京都交通局",
+      "运行安全",
+      "公共交通"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/03/17151412/5eee4ac9b5909ff28b5f9f078cbd61dc.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/02/28102544/DSC02400-1024x684.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/03/18131310/DSC08932-1024x684.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:20:59.935Z"
+  },
+  "https://bestcarweb.jp/feature/column/1486115": {
+    "title_zh": "特斯拉 Model Y L 发布：三排六座 SUV，第三排空间实测",
+    "summary_short": "特斯拉在日本推出三排六座版 Model Y L，车身加长 190 毫米，售价 749 万日元，4 月底开始交付。",
+    "summary_long": "特斯拉在日本市场发布新款 Model Y L，从五座 SUV 升级为三排六座布局，车身长度增加 190 毫米，轴距加长 150 毫米，以提升第三排空间和乘坐舒适性。该车采用双电机四驱系统，0-100 公里/小时加速 5.0 秒，并配备自适应悬架和后座舒适模式。",
+    "highlights_zh": [
+      "三排六座布局",
+      "车身加长 190 毫米",
+      "售价 749 万日元",
+      "双电机四驱"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y L",
+      "SUV",
+      "三排座椅",
+      "日本市场"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03180956/IMG_4597.jpg?v=1775207398",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03180956/IMG_4597-600x394.jpg?v=1775207398",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03174056/s-AdobeStock_1939045998-600x400.jpg?v=1775205657"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:04.194Z"
+  },
+  "https://bestcarweb.jp/news/1480779": {
+    "title_zh": "Z32 日产 Fairlady Z 的震撼冲击！车迷真心评选的“最佳轿跑”",
+    "summary_short": "Best Car 编辑部调查车迷最爱的轿跑车型，Z32 Fairlady Z 凭借宽体低趴设计带来震撼冲击，三菱 Starion 等经典车型也获青睐。",
+    "summary_long": "轿跑相比轿车更具趣味性，车迷对“最喜爱轿跑”的选择往往分歧较大。Best Car 编辑部调查显示，Z32 Fairlady Z 从传统长鼻短尾设计转向宽体低趴造型，带来强烈视觉冲击，象征日本车新时代。三菱 Starion 等经典车型也因独特设计受到车迷推崇。",
+    "highlights_zh": [
+      "Z32 Fairlady Z 设计颠覆传统",
+      "宽体低趴造型象征新时代",
+      "三菱 Starion 获复古车迷青睐",
+      "轿跑选择体现个人趣味"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Fairlady Z",
+      "三菱 | Mitsubishi",
+      "Starion",
+      "轿跑"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29202512/00_P019_PHsske01_head.jpg?v=1774783513",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29202512/00_P019_PHsske01_head-600x400.jpg?v=1774783513",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30133240/00_ichigo_main_head-600x400.jpg?v=1774845161"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:06.356Z"
+  },
+  "https://bestcarweb.jp/fullload/1485757": {
+    "title_zh": "Archion 集团启动！竞争对手直指五十铃集团！",
+    "summary_short": "日野汽车与三菱扶桑卡车巴士合并组建的 Archion 集团在东京证券交易所上市，日本卡车制造商格局从“四大”演变为 Archion 系与五十铃系两大集团。",
+    "summary_long": "日野汽车与三菱扶桑卡车巴士合并组建的 Archion 集团于 4 月 1 日在东京证券交易所 Prime 市场上市，标志着日本卡车制造商格局从长期以来的“四大”演变为 Archion 系与五十铃系两大集团。新集团将整合两家公司的客户基础和生产销售网络，并借助主要股东戴姆勒卡车和丰田汽车的合作优势，在燃料电池等零排放技术和自动驾驶等先进领域寻求协同效应。",
+    "highlights_zh": [
+      "Archion 集团东京证交所上市",
+      "日本卡车业形成两大集团格局",
+      "整合日野与三菱扶桑资源",
+      "聚焦零排放与自动驾驶技术"
+    ],
+    "entities": [
+      "Archion 集团",
+      "日野汽车",
+      "三菱扶桑卡车巴士 | Mitsubishi Fuso Truck and Bus",
+      "五十铃",
+      "卡车制造商"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/04/03145034/fb63c33eea394e1beb51732190e82687-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/04/02124140/00-20260331_01_01.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/03/31131838/323A2862-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:11.191Z"
+  },
+  "https://response.jp/article/2026/04/04/409614.html": {
+    "title_zh": "汽车能否以造型诉说？从设计视角解读经典车型群",
+    "summary_short": "《カーセンサーEDGE》5 月号聚焦“以设计选车”，探讨 2000 年代车型在 CAD 普及背景下如何体现品牌美学与设计师审美。",
+    "summary_long": "进口二手车杂志《カーセンサーEDGE》5 月号推出“以设计选车”特辑，在现代汽车注重性能与配置的背景下，重新审视造型中蕴含的设计思想与美学依据。特辑以 2000 年代车型为核心，指出 CAD 技术的普及虽提升了造型自由度，但该时期仍是品牌美学与设计师审美强烈反映的过渡阶段，许多设计至今仍保留鲜明的品牌特色。杂志从四个视角解读经典设计：比例至上主义、功能美转化为造型、雕塑化手法、以及思想具象化的车型。",
+    "highlights_zh": [
+      "聚焦 2000 年代车型设计过渡期",
+      "CAD 普及提升造型自由度",
+      "品牌美学与设计师审美强烈体现",
+      "从四个视角解读经典设计"
+    ],
+    "entities": [
+      "设计",
+      "造型",
+      "品牌美学",
+      "CAD 技术",
+      "经典车型"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199235.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199235.jpg",
+      "https://response.jp/imgs/fill2/2199240.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:13.653Z"
+  },
+  "https://bestcarweb.jp/feature/tieup/1482464": {
+    "title_zh": "运动驾驶必备！Mira e:s tuned by D-SPORT Racing 推出期待已久的选装部件【PR】",
+    "summary_short": "限量 100 台的 Mira e:s tuned by D-SPORT Racing 推出基于拉力赛经验开发的选装部件，包括转速表和增压表，提升运动驾驶体验。",
+    "summary_long": "限量 100 台的 Mira e:s tuned by D-SPORT Racing 是基于 D-SPORT 品牌与大发合作开发的赛车规格车型，搭载 660cc 涡轮发动机和 5 速手动变速箱，配备专用 ECU、防滚架等，适合赛车新手。为提升驾驶乐趣，D-SPORT Racing 将推出选装部件，首批发售转速表和增压表，帮助驾驶者优化换挡和操控。",
+    "highlights_zh": [
+      "限量 100 台赛车规格车型",
+      "基于拉力赛经验开发选装件",
+      "首推转速表和增压表",
+      "适合赛车新手入门"
+    ],
+    "entities": [
+      "Mira e:s",
+      "D-SPORT Racing",
+      "大发 | Daihatsu",
+      "选装部件",
+      "运动驾驶"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/31145739/28fe773ba7d7c953e000d07ea5e0d912.jpg?v=1774936660",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/31145739/28fe773ba7d7c953e000d07ea5e0d912-600x401.jpg?v=1774936660",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/24142210/MG_9386_1-600x400.jpg?v=1774329731"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:17.412Z"
+  },
+  "https://response.jp/article/2026/04/04/409620.html": {
+    "title_zh": "丰田兰德酷路泽 250 汽油版部分改进，安全与防盗功能成标配...售价 577.94 万日元",
+    "summary_short": "丰田发布兰德酷路泽 250 汽油版改进车型，新增多项安全与防盗标准配置，提升产品竞争力。",
+    "summary_long": "丰田于 4 月 3 日推出兰德酷路泽 250 系列汽油版的部分改进车型，柴油版预计 2026 年 12 月后上市。此次改进在 VX 汽油版上标配了多项安全与防盗功能，并调整了选装配置以增强产品力。安全方面新增丰田智行安全系统扩展功能，包括紧急转向辅助、前方交叉交通警报等；防盗功能则加入了智能钥匙测距系统和远程启动锁定。",
+    "highlights_zh": [
+      "汽油版标配多项安全功能",
+      "新增智能防盗系统",
+      "调整选装配置提升产品力",
+      "柴油版预计年底上市"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽 250 | Land Cruiser 250",
+      "安全功能",
+      "防盗功能",
+      "VX 汽油版"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199627.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199627.jpg",
+      "https://response.jp/imgs/fill2/2199631.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:21.088Z"
+  },
+  "https://response.jp/article/2026/04/04/409619.html": {
+    "title_zh": "15 岁少女车手！KeePer 技研宣布 2026 赛季起参加女性专属赛事“KYOJO CUP”",
+    "summary_short": "KeePer 技研以“KeePer KONDO RACING”车队身份，从 2026 赛季起赞助参加女性专属赛车系列赛 KYOJO CUP。车手为 15 岁的松井沙丽，她曾是威廉姆斯车队学院首位日本成员。",
+    "summary_long": "汽车涂层服务商 KeePer 技研首次以赞助商身份参与赛车运动，旗下车队“KeePer KONDO RACING”将从 2026 赛季起征战女性专属赛事 KYOJO CUP。车队车手是 15 岁的高中生松井沙丽，她 5 岁开始卡丁车生涯，曾是威廉姆斯车队学院的首位日本车手，目前仍担任威廉姆斯 F1 车队的支持车手。KYOJO CUP 由勒芒 24 小时冠军关谷正德主办，2026 年将迎来十周年，参赛车辆预计达 22 台，且从 2025 年起已升级为方程式赛车，提升了竞技水平。",
+    "highlights_zh": [
+      "KeePer 技研首度赞助赛车运动",
+      "15 岁松井沙丽担任主力车手",
+      "KYOJO CUP 为女性专属赛事",
+      "2026 赛季启用方程式赛车"
+    ],
+    "entities": [
+      "KeePer 技研",
+      "KYOJO CUP",
+      "松井沙丽",
+      "KONDO RACING",
+      "威廉姆斯"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199450.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199450.webp",
+      "https://response.jp/imgs/fill2/2199732.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:26.260Z"
+  },
+  "https://bestcarweb.jp/feature/column/1486067": {
+    "title_zh": "春季驾驶季！春天真的最省油吗？气温与汽车关系的全面解析",
+    "summary_short": "春季因气温适中，避免了冬季发动机预热慢和夏季空调高负荷，成为一年中燃油经济性最佳的驾驶季节。",
+    "summary_long": "春季气温适宜，避免了冬季发动机预热时间长、机油变稠、轮胎气压下降以及暖风除霜等导致燃油经济性下降 10-30%的因素。夏季虽然发动机易升温，但空调使用带来的额外负荷可使燃油经济性恶化达 25%，加上交通拥堵和怠速时间增加，同样不利于节油。因此，春季燃油经济性最佳主要是因为冬季和夏季的“燃油经济性恶化因素”较少。",
+    "highlights_zh": [
+      "春季气温适中",
+      "冬季燃油经济性可能下降 10-30%",
+      "夏季空调使用可恶化燃油经济性达 25%",
+      "春季避免了冬夏两季的主要不利因素"
+    ],
+    "entities": [
+      "燃油经济性",
+      "发动机",
+      "气温",
+      "空调",
+      "轮胎气压"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03174056/s-AdobeStock_1939045998.jpg?v=1775205657",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03174056/s-AdobeStock_1939045998-600x400.jpg?v=1775205657",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03180956/IMG_4597-600x394.jpg?v=1775207398"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:27.229Z"
+  },
+  "https://bestcarweb.jp/news/1481152": {
+    "title_zh": "粉色皇冠再临！草莓皇冠登场，特别涂装与专属规格引人注目",
+    "summary_short": "栃木丰田汽车推出第三代草莓皇冠，基于皇冠轿车，采用草莓主题涂装，纪念品牌创立 80 周年。",
+    "summary_long": "栃木丰田汽车为纪念创立 80 周年，推出第三代草莓皇冠，基于皇冠轿车打造。这款车作为栃木县草莓产地的推广车辆，自 2019 年首次亮相以来深受喜爱。新车采用草莓主题涂装，融合当地草莓品种和吉祥物设计，旨在宣传栃木草莓文化。",
+    "highlights_zh": [
+      "第三代草莓皇冠正式发布",
+      "基于皇冠轿车打造",
+      "草莓主题涂装设计",
+      "纪念栃木丰田 80 周年"
+    ],
+    "entities": [
+      "皇冠",
+      "丰田 | Toyota",
+      "栃木丰田汽车",
+      "草莓皇冠",
+      "涂装"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30133240/00_ichigo_main_head.jpg?v=1774845161",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30133240/00_ichigo_main_head-600x400.jpg?v=1774845161",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29202512/00_P019_PHsske01_head-600x400.jpg?v=1774783513"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:31.945Z"
+  },
+  "https://www.motor1.com/news/791960/carvana-warranty-covers-what/": {
+    "title_zh": "男子通过 Carvana 购车后保修索赔遇阻，维修费高达 2 万美元",
+    "summary_short": "一名男子从 Carvana 购买 GMC Yukon XL 后，发动机故障，维修费约 2 万美元，但保修提供商 SilverRock 拒绝索赔，引发争议。",
+    "summary_long": "一名男子通过 Carvana 购买了一辆 2020 款 GMC Yukon XL，并购买了 SilverRock 的延长保修。购车三个月后，发动机故障，维修费用约 2 万美元，包括新发动机安装和租车费用。尽管保修应覆盖这些成本，但 SilverRock 拒绝索赔，车主称保修提供商以里程差异为由推脱，导致纠纷持续。",
+    "highlights_zh": [
+      "Carvana 购车后发动机故障",
+      "SilverRock 保修索赔被拒",
+      "维修费用高达 2 万美元",
+      "车主与保修商纠纷持续"
+    ],
+    "entities": [
+      "Carvana",
+      "GMC Yukon XL",
+      "SilverRock",
+      "保修索赔",
+      "发动机故障"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8636/s1/man-buys-through-carvana.-then-he-tries-to-use-his-warranty-when-something-goes-wrong.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:33.650Z"
+  },
+  "https://www.motor1.com/news/792058/jaguar-rawdon-glover-interview/": {
+    "title_zh": "捷豹宣布将转型为纯电动品牌",
+    "summary_short": "捷豹品牌负责人透露，公司将全面转向电动化，并计划打破传统设计规则，推出全新车型。",
+    "summary_long": "捷豹品牌管理总监 Rawdon Glover 在采访中确认，捷豹将转型为纯电动品牌，强调不会遵循行业常规，而是进行大胆创新。品牌计划在保持捷豹驾驶体验的同时，彻底改变设计语言，以应对电动化时代的挑战。",
+    "highlights_zh": [
+      "捷豹转型纯电动品牌",
+      "打破传统设计规则",
+      "保持品牌驾驶体验",
+      "电动化战略全面启动"
+    ],
+    "entities": [
+      "捷豹 | Jaguar",
+      "电动化",
+      "设计语言",
+      "Type 00",
+      "品牌战略"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0eE9Pp/s1/jaguar-type-00.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:37.399Z"
+  },
+  "https://www.thedrive.com/news/infiniti-is-building-a-high-horsepower-manual-sports-sedan": {
+    "title_zh": "英菲尼迪将推出高马力手动挡运动轿车",
+    "summary_short": "英菲尼迪宣布将推出一款高马力手动挡运动轿车，基于日产 Z 平台打造，旨在兑现对车迷的承诺。",
+    "summary_long": "英菲尼迪在 2026 年纽约车展上确认，即将推出的运动轿车将具备高马力并配备手动变速箱。该车型将基于最新日产 Z 平台打造，标志着品牌对运动轿车市场的重新投入。",
+    "highlights_zh": [
+      "高马力运动轿车",
+      "配备手动变速箱",
+      "基于日产 Z 平台",
+      "兑现车迷承诺"
+    ],
+    "entities": [
+      "英菲尼迪 | Infiniti",
+      "运动轿车",
+      "手动变速箱",
+      "日产 Z | Nissan Z",
+      "高马力"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/04/INFINITI-_-Project-Black-S-_-Paris-_-041-4k-source-e1775244361341.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/Hyundai-Midsize-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:38.652Z"
+  },
+  "https://insideevs.com/news/792049/evs-vs-hybrid-depreciation/": {
+    "title_zh": "电动车贬值依然残酷，但混动车带来希望",
+    "summary_short": "最新研究显示，电动车五年贬值率高达 57.2%，远超混动车的 35.4%。混动车贬值率已低于燃油车，为电动车市场提供参考。",
+    "summary_long": "iSeeCars 最新贬值研究报告显示，电动车在拥有前五年的平均贬值率高达 57.2%，远高于整体平均水平的 41.8%和混动车的 35.4%。在贬值最快的十款车型中，电动车占据一半席位，而保值率最高的 25 款车型中则没有一款纯电动车。混动车目前表现优异，五年贬值率仅为 35.4%，甚至低于燃油车。值得注意的是，七年前混动车的贬值率曾高达 56.7%，与当前电动车水平相近，这表明新技术普及过程中存在自然贬值曲线。",
+    "highlights_zh": [
+      "电动车五年贬值率 57.2%",
+      "混动车贬值率仅 35.4%",
+      "混动车表现优于燃油车",
+      "新技术存在自然贬值曲线"
+    ],
+    "entities": [
+      "电动车",
+      "混动车",
+      "iSeeCars",
+      "贬值率",
+      "大众 | Volkswagen ID.4"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXexjA/s1/nissan-leaf-12.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:44.207Z"
+  },
+  "https://www.thedrive.com/news/dodge-ceo-still-absolutely-thinks-theres-opportunity-for-a-sub-30k-sports-car": {
+    "title_zh": "道奇 CEO 仍坚信 3 万美元以下跑车市场存在机会",
+    "summary_short": "道奇 CEO 麦卡利尔在纽约车展表示，市场仍需要 3 万美元以下的亲民跑车，但公司尚未确认相关开发计划。",
+    "summary_long": "道奇 CEO 麦特·麦卡利尔在 2026 年纽约车展上重申，市场对 3 万美元以下的亲民跑车仍有需求。他指出，这类车型不仅能满足基本出行，还应具备风格、态度和性能。不过，麦卡利尔强调这仍是假设性讨论，公司尚未确认或否认任何开发计划。",
+    "highlights_zh": [
+      "道奇 CEO 坚信亲民跑车市场存在",
+      "3 万美元以下跑车需兼具风格与性能",
+      "公司未确认相关开发计划",
+      "市场需要差异化产品"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "跑车",
+      "麦特·麦卡利尔",
+      "纽约车展",
+      "亲民车型"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/04/HS002_003DG1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/02/Dodge-Demon-Concept-Hero-1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/images-by-url-td/content/2020/01/viper-hero-e1579420893337.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:44.627Z"
+  },
+  "https://www.motor1.com/news/791956/free-car-wash-code/": {
+    "title_zh": "女子洗车用“作弊码”免费洗车三年，引发道德与法律争议",
+    "summary_short": "一名女子分享通过搜索技巧免费洗车的方法，声称三年未付费，引发关于其合法性和道德性的讨论。",
+    "summary_long": "一名女子在社交媒体上分享，她通过简单的搜索技巧，如使用谷歌地图查找附近洗车店，获取免费洗车服务，并声称已三年未支付费用。这引发了公众对这种方法是否合法和道德的广泛讨论，同时提醒人们洗车费用可能从 20 美元到 70 美元不等，是日常用车中的常见开销。",
+    "highlights_zh": [
+      "女子分享免费洗车技巧",
+      "声称三年未支付洗车费用",
+      "方法涉及搜索附近洗车店",
+      "引发法律与道德争议"
+    ],
+    "entities": [
+      "洗车",
+      "免费",
+      "道德",
+      "法律",
+      "搜索技巧"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2l3mG/s1/woman-hasn-t-paid-for-a-car-wash-in-3-years--she-uses-a-cheat-code-to-get-free-washes.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:49.611Z"
+  },
+  "https://www.motor1.com/news/792059/nissan-xterra-gasoline-only/": {
+    "title_zh": "全新日产 Xterra 将仅提供汽油动力",
+    "summary_short": "日产美国产品规划负责人确认，全新 Xterra 将提供纯燃油 V6 和混合动力 V6 版本，无电动选项，延续硬派越野风格。",
+    "summary_long": "日产美国产品规划负责人 Ponz Pandikuthira 透露，即将复兴的日产 Xterra 将采用非承载式车身设计，类似丰田 4Runner，但动力策略不同。它将提供纯燃油 V6 和混合动力 V6 两种版本，无电动选项，旨在满足追求耐用性和简单性的越野爱好者需求。动力系统可能基于现有的 3.8 升自然吸气 V6 或双涡轮增压 3.0 升 V6 发动机，具体细节尚未公布。",
+    "highlights_zh": [
+      "提供纯燃油 V6 和混合动力 V6 版本",
+      "无电动选项",
+      "采用非承载式车身",
+      "动力或基于 3.8 升自然吸气 V6 发动机"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Xterra",
+      "丰田 4Runner | Toyota 4Runner",
+      "V6 发动机",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkMqWn/s1/2028-nissan-xterra-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:51.097Z"
+  },
+  "https://www.motor1.com/news/792050/colorado-automated-speed-limit-cameras/": {
+    "title_zh": "科罗拉多州新测速系统让 Waze 近乎失效",
+    "summary_short": "科罗拉多州部署新型自动车辆识别系统，通过多摄像头计算平均速度，使 Waze 等导航应用的测速预警功能失效。",
+    "summary_long": "科罗拉多州的新型自动车辆识别系统使用多个摄像头计算车辆在路段间的平均速度，若超速 10 英里/小时以上即开罚单。该系统使驾驶员无法通过导航应用预警在单个摄像头前减速规避。该技术自 2023 年立法批准后逐步部署，近期已在丹佛北部 I-25 公路施工区域启用，对超速车辆处以 75 美元罚款。",
+    "highlights_zh": [
+      "多摄像头计算平均速度",
+      "超速 10 英里即开罚单",
+      "导航预警功能失效",
+      "罚款 75 美元无扣分"
+    ],
+    "entities": [
+      "科罗拉多州 | Colorado",
+      "自动车辆识别系统",
+      "Waze",
+      "测速摄像头",
+      "I-25 公路"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak4Z96/s1/us-states-with-80-mph-speed-limits.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:55.761Z"
+  },
+  "https://insideevs.com/news/792060/geely-galaxy-m9-test-edmunds/": {
+    "title_zh": "吉利银河 M9 PHEV 在美国测试中表现优异，中国汽车已准备好进入美国市场",
+    "summary_short": "吉利银河 M9 PHEV 在 Edmunds 测试中纯电续航达 101 英里，百公里加速仅 4.2 秒，超越多款美国竞品，展现中国汽车实力。",
+    "summary_long": "吉利银河 M9 PHEV 在 Edmunds 的专业测试中表现出色，纯电续航达到 101 英里，百公里加速仅需 4.2 秒。测试人员认为这款车已具备与美国主流及高端大型跨界车竞争的实力，标志着中国汽车技术已成熟到足以进入美国市场。该车搭载 1.5 升涡轮增压四缸发动机、三速专用混合动力变速箱和三个电机，综合功率达 858 马力。",
+    "highlights_zh": [
+      "纯电续航 101 英里",
+      "百公里加速 4.2 秒",
+      "综合功率 858 马力",
+      "超越美国竞品表现"
+    ],
+    "entities": [
+      "吉利 | Geely",
+      "银河 M9 | Galaxy M9",
+      "PHEV",
+      "Edmunds",
+      "跨界车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkBjWG/s1/geely-and-zeekr-at-ces-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:21:57.363Z"
+  },
+  "https://www.motor1.com/news/791981/vw-pickup-truck-possible-ceo/": {
+    "title_zh": "大众 CEO 表示不排除推出皮卡车型",
+    "summary_short": "大众汽车 CEO 表示，鉴于美国皮卡市场的巨大潜力，公司正在考虑推出 B 级和 C 级皮卡，可能基于 MQB 平台开发。",
+    "summary_long": "大众汽车集团美国 CEO Kjell Gruner 在纽约车展上表示，公司不会排除推出皮卡车型的可能性。他提到，美国皮卡市场利润丰厚，大众正在研究 B 级和 C 级皮卡等细分市场的发展趋势，这些车型可能采用一体式车身结构，并利用现有的 MQB 平台。当前该领域的竞争对手包括福特 Maverick 和现代 Santa Cruz 等车型。",
+    "highlights_zh": [
+      "大众 CEO 称不排除推出皮卡",
+      "美国皮卡市场利润丰厚",
+      "考虑 B 级和 C 级皮卡细分",
+      "可能基于 MQB 平台开发"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "皮卡",
+      "MQB 平台",
+      "福特 Maverick",
+      "现代 Santa Cruz"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/kM3zQ/s1/volkswagen-atlas-tanoak-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:22:02.178Z"
+  },
+  "https://www.thedrive.com/news/theres-convincing-evidence-that-sebring-raceway-will-be-in-grand-theft-auto-6": {
+    "title_zh": "GTA 6 或将引入塞布林赛道，证据逐渐增多",
+    "summary_short": "《GTA 6》可能首次加入真实赛道，玩家发现地图标记类似现实中的塞布林赛道，引发猜测。",
+    "summary_long": "《GTA》系列从未在首发时包含专用沥青赛道，但《GTA 6》有望打破这一传统。玩家在泄露地图中发现标记为“Gellhorn International Raceway”的地点，其布局与现实中的塞布林赛道高度相似。系列以往仅提供街头或越野竞速，缺乏正规赛道，这一发现暗示游戏可能引入更真实的赛车体验。",
+    "highlights_zh": [
+      "GTA 6 或首次加入专用赛道",
+      "泄露地图显示类似塞布林赛道",
+      "系列以往无正规沥青赛道",
+      "玩家发现引发广泛猜测"
+    ],
+    "entities": [
+      "塞布林赛道 | Sebring Raceway",
+      "Grand Theft Auto 6",
+      "赛道",
+      "竞速",
+      "泄露地图"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/04/sebring-gta.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/image.psd28.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/image.psd29.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:22:03.345Z"
+  },
+  "https://insideevs.com/news/791930/byd-charging-network-5000-flash/": {
+    "title_zh": "比亚迪已建成 5000 座新型兆瓦级“闪充”充电站",
+    "summary_short": "比亚迪宣布已在中国建成 5000 座第二代兆瓦级“闪充”充电站，覆盖 297 个城市，充电速度堪比加油。",
+    "summary_long": "比亚迪的“闪充”充电站可提供超过 1 兆瓦的功率，使电动汽车充电时间与加油相当。该公司近期在微博上宣布已完成第 5000 座闪充站的建设，作为“闪充中国”计划的一部分，目标是在 2026 年底前在全国开放 20000 座闪充站，其中包括与本地充电网络运营商合作的 18000 个商业站点。",
+    "highlights_zh": [
+      "已建成 5000 座第二代闪充站",
+      "充电功率超 1 兆瓦",
+      "覆盖中国 297 个城市",
+      "目标 2026 年底前建 20000 座"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "闪充充电站",
+      "兆瓦级",
+      "充电网络",
+      "电动汽车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJxk6/s1/byd-megawatt-flash-charger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:22:08.611Z"
+  },
+  "https://www.thedrive.com/news/dodge-ceo-asks-do-you-need-a-radio-in-back-to-basics-quest-for-entry-level-cars": {
+    "title_zh": "道奇在入门级车‘回归基础’探索中提问‘你需要收音机吗’",
+    "summary_short": "道奇 | Dodge CEO 提出‘回归基础’理念，挑战行业对入门级车的功能预期，探讨是否需收音机等基本配置。",
+    "summary_long": "道奇 | Dodge CEO Matt McAlear 强调采用‘回归基础’的造车方法，旨在重新定义入门级车辆的必要功能。他在 2026 年纽约车展上表示，行业应挑战对基础车型的期望，例如考虑是否保留收音机或仅提供蓝牙扬声器。道奇 | Dodge 作为品牌，有能力颠覆细分市场，推出意想不到的产品，类似过去蝰蛇 | Viper 的成功。",
+    "highlights_zh": [
+      "道奇 CEO 倡导‘回归基础’造车理念",
+      "挑战行业对入门级车功能预期",
+      "探讨收音机等配置的必要性",
+      "品牌曾以蝰蛇颠覆市场"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "入门级车",
+      "回归基础",
+      "蝰蛇",
+      "纽约车展"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/04/DG026_450CH-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/dodge_copperhead_concept_1-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:22:09.626Z"
+  },
+  "https://www.thedrive.com/news/midsize-trucks-have-all-the-same-problems-hyundai-thinks-it-can-fix-them": {
+    "title_zh": "中型皮卡存在普遍问题，现代汽车认为能解决",
+    "summary_short": "现代汽车计划通过新款非承载式皮卡解决中型皮卡后排空间不足等问题，强调内饰舒适性。",
+    "summary_long": "中型皮卡在性能和配置上虽有提升，但后排空间狭窄等缺陷长期存在，影响成人乘坐体验。现代汽车基于圣克鲁兹的市场反馈，正开发新款非承载式皮卡，注重所有座位的舒适性，以应对雪佛兰科罗拉多、福特 Ranger 等车型的不足。",
+    "highlights_zh": [
+      "中型皮卡后排空间普遍不足",
+      "现代汽车强调内饰全排舒适性",
+      "新款非承载式皮卡将改进设计",
+      "基于圣克鲁兹市场反馈优化"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "雪佛兰科罗拉多",
+      "福特 Ranger",
+      "丰田 Tacoma TRD Pro | Toyota Tacoma TRD Pro",
+      "非承载式皮卡"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/04/Hyundai-Midsize-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/TRD-Pro-Seats-Heor-1.webp?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/70523-aa-boulder-sy-select-300dpi-3-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:22:14.510Z"
+  },
+  "https://www.motor1.com/news/790803/toyota-lexus-2026-recalls-list-models/": {
+    "title_zh": "丰田 2026 年已召回超 100 万辆汽车",
+    "summary_short": "丰田 2026 年已发布 9 次召回，涉及 102 万余辆汽车，包括汉兰达、坦途和普锐斯等车型。",
+    "summary_long": "丰田 2026 年已发布 9 次召回，影响 1,024,794 辆汽车。最大规模召回涉及 55 万辆汉兰达 SUV，因第二排可调座椅可能无法正确锁定。其他重要召回包括 2024-2025 款坦途的后视摄像头图像可能不显示，以及近 15 万辆普锐斯的后门可能意外打开。丰田今年召回数量在通用和福特之后位居第三。",
+    "highlights_zh": [
+      "丰田 2026 年已召回超 100 万辆",
+      "汉兰达座椅锁定问题涉及 55 万辆",
+      "普锐斯后门可能意外打开",
+      "坦途后视摄像头图像问题"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "汉兰达",
+      "普锐斯",
+      "坦途",
+      "召回"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzqYv/s1/toyota-2026-recalls-list.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:22:16.401Z"
+  },
+  "https://www.motor1.com/news/791954/man-leaves-toyota-mechanics-shop-months/": {
+    "title_zh": "车主将丰田车送修后弃置四个月，要求“出示发票”引发争议",
+    "summary_short": "一位车主将丰田 Sienna 送修后弃置四个月，仅预付 500 美元，要求出示发票，引发关于责任归属的讨论。",
+    "summary_long": "一位车主将丰田 Sienna 送至维修店，需要更换轮胎、稳定杆连杆、CV 轴等多项维修，并预付 500 美元。然而，车主在四个月内未取车，期间有家人代为交涉，要求出示发票。维修师 Justin 分享了这一经历，评论者对此事责任归属意见不一，有的认为维修师应更谨慎，有的则批评车主行为不当。",
+    "highlights_zh": [
+      "车主弃置丰田 Sienna 四个月",
+      "预付 500 美元后未付余款",
+      "家人多次代为交涉",
+      "责任归属引发争议"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Sienna",
+      "维修纠纷",
+      "责任归属",
+      "Justin"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OkAE/s1/man-drops-off-his-toyota-in-the-shop.-then-he-just-leaves-it-there-for-4-months.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-04T03:22:20.577Z"
   }
 }
