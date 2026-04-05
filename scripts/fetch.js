@@ -3,6 +3,7 @@ const { execFile } = require("child_process");
 const { promisify } = require("util");
 const cheerio = require("cheerio");
 const { XMLParser } = require("fast-xml-parser");
+const { createDedupe } = require("./lib/dedupe");
 
 const execFileAsync = promisify(execFile);
 
@@ -477,28 +478,7 @@ async function fetchHtml(url, options = {}) {
   }
 }
 
-function dedupe(items) {
-  const map = new Map();
-  for (const rawItem of items) {
-    const item = normalizeArticle(rawItem);
-    if (!item.url) continue;
-    if (!isLikelyArticle(item)) continue;
-
-    const existing = map.get(item.url);
-    if (!existing) {
-      map.set(item.url, item);
-      continue;
-    }
-
-    map.set(item.url, {
-      ...existing,
-      ...item,
-      first_seen_at: existing.first_seen_at || item.first_seen_at,
-      last_seen_at: item.last_seen_at || existing.last_seen_at
-    });
-  }
-  return Array.from(map.values());
-}
+const dedupe = createDedupe({ normalizeArticle, isLikelyArticle, parseDate });
 
 function sortByFreshness(items) {
   return [...items].sort((a, b) => {
