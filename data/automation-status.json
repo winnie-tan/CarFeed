@@ -1,89 +1,155 @@
 {
   "workflow": {
-    "generated_at": "2026-04-04T13:54:07.668Z",
+    "generated_at": "2026-04-05T03:42:26.627Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 391,
-    "deepseek_untranslated_before_run": 9,
-    "newly_fetched_articles": 9,
-    "newly_fetched_untranslated": 9,
-    "backlog_untranslated": 137,
+    "deepseek_translated_before_run": 376,
+    "deepseek_untranslated_before_run": 24,
+    "newly_fetched_articles": 24,
+    "newly_fetched_untranslated": 24,
+    "backlog_untranslated": 114,
     "translation_scope": "new_only",
-    "translation_queue_count": 9,
+    "translation_queue_count": 24,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.4.4",
-        "title": "'I’m Still Getting Charged For Things': Woman Rents Car From Hertz. Then They Ghost Her",
-        "url": "https://www.motor1.com/news/792053/hertz-car-rental-extra-fees/"
+        "source": "Best Car Web",
+        "time": "2026.4.5",
+        "title": "“CR-X風×低燃費”なのに6MTの「ホンダ CR-Z」って最高じゃん!! 手軽に楽しめるエントリークーペの実力",
+        "url": "https://bestcarweb.jp/news/1481583"
       },
       {
         "source": "Response.jp",
-        "time": "2026.4.4",
-        "title": "「人間が扱えるのか!?」ドゥカティ100周年記念モデルの性能に、「もはやモトGPマシン」とSNS驚愕",
-        "url": "https://response.jp/article/2026/04/04/409630.html"
+        "time": "2026.4.5",
+        "title": "「アンチヴェノム」がフルフェイスヘルメットに、HJC『RPHA 12 アンチヴェノムII』発売",
+        "url": "https://response.jp/article/2026/04/05/409640.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.4.4",
-        "title": "「羽根」が付いた！ 新型ラグジュアリークロスオーバー、スズキ『GSX-S1000GX』が公開…東京モーターサイクルショー2026",
-        "url": "https://response.jp/article/2026/04/04/409628.html"
+        "time": "2026.4.5",
+        "title": "「激アツ」「欲しすぎる」トヨタ『GR GT3』がハッピーセットに登場！ SNSでは“大人のファン”が大興奮",
+        "url": "https://response.jp/article/2026/04/05/409634.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "えっまだ使ってないの!? 最大半額のNEXCO「通勤パス」2026年度版で【得する人・損する人】の決定的な差",
-        "url": "https://bestcarweb.jp/feature/column/1477312"
+        "time": "2026.4.5",
+        "title": "【へっぽこバスガイドの珍道中】意外と知らない？ バスツアーの種類と団体旅行の仕組み",
+        "url": "https://bestcarweb.jp/busmagazine/1466368"
       },
       {
         "source": "Response.jp",
-        "time": "2026.4.4",
-        "title": "スカイラインに施す音の厚みと奥行きが別次元！ 極上カーオーディオ技法［Pro Shop インストール・レビュー］by モービルサウンドテクノロジー 後編",
-        "url": "https://response.jp/article/2026/04/04/409631.html"
+        "time": "2026.4.5",
+        "title": "【ホンダ プレリュード 新型試乗】プレリュードは大人のデートに使えるのか？…岩貞るみこ",
+        "url": "https://response.jp/article/2026/04/05/409642.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "ずんぐりむっくりが超キュート!! 組み立て式ホンダ モンキー125をデスクに飾りたい!!!",
-        "url": "https://bestcarweb.jp/news/1478641"
+        "time": "2026.4.5",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第732回",
+        "url": "https://bestcarweb.jp/feature/column/1457609"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.4.4",
-        "title": "ヤリス丸、雨の佐賀初日を制す！ 新井大輝選手開幕2連勝に期待大！",
-        "url": "https://bestcarweb.jp/news/motorsport/1486733"
+        "time": "2026.4.5",
+        "title": "14万円で購入したセリカGT-FOURが忘れられない……!! プロたちがガチで愛したクーペ3選",
+        "url": "https://bestcarweb.jp/feature/column/1482901"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.5",
+        "title": "EneJet黒瀬SS、東広島市にオープン セブンイレブン併設で地域拠点へ",
+        "url": "https://response.jp/article/2026/04/05/409636.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.5",
+        "title": "Peach、エアバス最新客室「Airspace」搭載機の運航開始",
+        "url": "https://response.jp/article/2026/04/05/409633.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.5",
+        "title": "WHILLが貸切観光バスにレンタルサービス導入 山梨・飯丘観光が4月から展開、全国初",
+        "url": "https://response.jp/article/2026/04/05/409637.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.5",
+        "title": "アールエスタイチ、バイク用エアバッグベスト『T-SABE』を4月24日に発売決定！ 価格は8万8000円",
+        "url": "https://response.jp/article/2026/04/05/409638.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.5",
+        "title": "リサイクルの要の「ゴミ収集車」をリサイクル素材で!? ダイムラーが資源の循環を印象付けるコンセプト車両",
+        "url": "https://bestcarweb.jp/fullload/1482441"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.5",
+        "title": "新型RAV4売れまくりで早くも受注停止の噂も…2026年4月納期・購入ガイド【画像一覧】",
+        "url": "https://bestcarweb.jp/newcar/1486204"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.5",
+        "title": "Man Pays For Car Wash. Then He Realizes The Guy In Front Of Him Is Going In On A Harley: ‘I’m Curious What’s Gonna Happen’",
+        "url": "https://www.motor1.com/news/792072/harley-motorcycle-automatic-car-wash/"
       },
       {
         "source": "Motor1",
         "time": "2026.4.4",
-        "title": "'Boy Bye': Woman Seeks Mobile Mechanic On Facebook. Then 1 Asks Her A Shocking Question",
-        "url": "https://www.motor1.com/news/791973/mobile-mechanic-weird-facebook-question/"
+        "title": "Woman Buys From Carvana. Then She Notices An Unusual Smell: 'Money From That Car Is Supposed To Be Applied To This New Car'",
+        "url": "https://www.motor1.com/news/792065/woman-complains-carvana-purchase-smells/"
       },
       {
         "source": "Motor1",
         "time": "2026.4.4",
-        "title": "'That's Not Good': Man Takes A Hyundai Sonata To The Shop. Then The Mechanic Takes One Look—And Recommends He Sell It",
-        "url": "https://www.motor1.com/news/791561/mechanic-recommends-selling-hyundai-sonata/"
+        "title": "'Shout Out Pep Boys': Dealership Quotes Woman $380 For A Repair. Then A Tech Gives Her The Real Total",
+        "url": "https://www.motor1.com/news/792064/dealership-changes-repair-price/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.4.4",
+        "title": "Farm Claims New $240,000 Kenworth Has Been in the Shop Almost 50 Times",
+        "url": "https://www.thedrive.com/news/farm-claims-new-240000-kenworth-has-been-in-the-shop-almost-50-times"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.4",
+        "title": "'We’re Basically Giving Her A Tire For Free': Mechanic Tells Woman He Can’t Service Her Tire. Then She Calls The Secret Number",
+        "url": "https://www.motor1.com/news/792062/mechanic-refuses-work-on-tire/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.4.4",
+        "title": "Listen to This Turbocharged 28cc Inline-Six Engine Zing",
+        "url": "https://www.thedrive.com/news/listen-to-this-turbocharged-28cc-inline-six-engine-zing"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.4.4",
+        "title": "Ford Mustang Sales Are 50% Higher Than They Were a Year Ago",
+        "url": "https://www.thedrive.com/news/ford-mustang-sales-are-50-higher-than-they-were-a-year-ago"
       }
     ],
     "event_name": "schedule",
-    "run_id": "23980272176",
-    "sha": "afb2e895dcbc2e969ffe06f5daf804b5e0a53006",
-    "completed_at": "2026-04-04T13:54:41.872Z",
+    "run_id": "23993593357",
+    "sha": "8c388367dbe17af0d228e6f8abaa2b30cad33273",
+    "completed_at": "2026-04-05T03:43:43.442Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 263,
-    "deepseek_untranslated_after_run": 137,
+    "deepseek_translated_after_run": 286,
+    "deepseek_untranslated_after_run": 114,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 9,
-    "queued_articles": 9,
-    "processed": 9,
-    "started_at": "2026-04-04T13:54:08.121Z",
-    "finished_at": "2026-04-04T13:54:41.630Z",
+    "scoped_articles": 24,
+    "queued_articles": 24,
+    "processed": 24,
+    "started_at": "2026-04-05T03:42:26.962Z",
+    "finished_at": "2026-04-05T03:43:43.200Z",
     "success": true,
     "error": ""
   }
