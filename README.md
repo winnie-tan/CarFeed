@@ -8,13 +8,12 @@
 
 当前最新一章：
 
+- `2026-04-02` 首页显示逻辑修复与抓取稳定性优化
+- `2026-04-02` 正式抓取未见执行，07:58 的 5 条冒烟翻译首次成功
+- `2026-04-02` 常规定时抓取改为 07:50，翻译范围收敛为仅新抓取内容
 - `2026-04-01` 自动翻译可验证化与 21:40 冒烟测试
 - `2026-04-01` 自动抓取后增量翻译接入工作流
 - `2026-04-01` 本地汉化预览、排序修正与 Response 图片修复
-- `2026-03-31` 首页交互、Vespa 扩展与新能源板块落地
-- 已完成一级页面反馈浮标、吸顶分类栏与 `新能源` 分类
-- 已接入多条 EV 来源，Vespa 仍需继续补强稳定来源
-- 二级内容当前仍以本地预览形态验证，但已接入 DeepSeek 增量翻译链路
 
 ## 项目定位
 
@@ -61,6 +60,11 @@ CarFeed 当前不是完整产品，而是一个面向后续产品化的内容聚
   - 工作流会先校验 `DEEPSEEK_API_KEY` 与接口可用性，再进入抓取和翻译
   - 每次运行会写入 `data/automation-status.json`，记录抓取、翻译、构建是否成功
   - 当前已额外安排 `2026-04-01 21:40 CST` 的 `10` 条 DeepSeek 冒烟测试
+- 抓取与翻译稳定性优化
+  - 修复首页显示逻辑，确保未翻译内容正常展示
+  - 优化图片修复逻辑，改为增量模式以降低封禁风险
+  - 增加 DeepSeek 翻译 API 指数退避重试机制
+  - 收敛图片修复并发量至 2，保护源站负载
 - 图片质量修正
   - 对 `Best Car Web` 优先抓正文原图
   - 对 `Response.jp` 改为优先抓正文主图
@@ -126,7 +130,9 @@ CarFeed/
 │   ├── finalize-automation-status.js # 汇总自动化执行结果
 │   ├── validate-deepseek-config.js # 校验 DeepSeek Secret 与接口可用性
 │   ├── generate-free-translations.js # 免费翻译实验脚本
-│   └── generate-free-title-translations.sh # 免费标题翻译实验脚本
+│   ├── generate-free-title-translations.sh # 免费标题翻译实验脚本
+│   └── lib/
+│       └── dedupe.js     # 去重辅助函数
 ├── preview.html          # 本地预览页面
 ├── package.json
 └── README.md
@@ -301,9 +307,14 @@ dist
 
 如果后续希望改成别的时间，只需要调整工作流中的 `cron`。
 
+此外，仓库中还包含以下辅助工作流：
+
+- `.github/workflows/translate-smoke-test.yml`：用于小规模翻译冒烟测试，验证 DeepSeek 接口可用性
+- `.github/workflows/translate-today-remaining.yml`：用于翻译今日剩余未翻译内容，补充日常抓取
+
 ## 当前实验项
 
-截至 `2026-04-01`，仓库中还包含一版仅用于本地验证的“免费翻译预览”实验：
+截至 `2026-04-02`，仓库中还包含一版仅用于本地验证的“免费翻译预览”实验：
 
 - 如果存在 `data/translations-deepseek.json`，预览页会优先使用 DeepSeek 结果
 - `preview.html` 仍会读取 `data/translations-free.json` 作为补充回退
@@ -396,16 +407,14 @@ node scripts/generate-deepseek-translations.js --limit 20 --force
 
 当前版本仍然是原型，存在这些明显限制：
 
-- 还不是自动实时刷新
-  - 需要手动运行 `node scripts/fetch.js`
+- 还不是实时刷新，依赖定时抓取任务（每日两次）
+  - 需要手动运行 `node scripts/fetch.js` 进行本地测试
 - 分类仍然依赖规则匹配
   - `bike` 和 `custom` 目前已有内容，但数量还偏少
 - 部分来源仍然偏汽车主站
   - `摩托 / 改装` 分类需要更垂直的数据源才能真正做厚
 - 当前没有后端服务
   - 只是本地脚本 + 静态预览页
-- 当前没有正式部署方案
-  - 目前仓库已进入可部署阶段，但部署流程和内容同步仍需手动确认
 - `Best Car Web` 的图片规则已经做了专项优化
   - 但不同栏目页面结构并不完全一致，后续仍建议继续拆成站点专用抓取器
 - `Vespa` 当前稳定自动抓取来源仍然偏少
