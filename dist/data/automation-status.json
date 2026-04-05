@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-04-05T03:42:26.627Z",
+    "generated_at": "2026-04-05T13:55:19.511Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 376,
-    "deepseek_untranslated_before_run": 24,
-    "newly_fetched_articles": 24,
-    "newly_fetched_untranslated": 24,
-    "backlog_untranslated": 114,
+    "deepseek_translated_before_run": 369,
+    "deepseek_untranslated_before_run": 31,
+    "newly_fetched_articles": 48,
+    "newly_fetched_untranslated": 31,
+    "backlog_untranslated": 117,
     "translation_scope": "new_only",
-    "translation_queue_count": 24,
+    "translation_queue_count": 31,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "Response.jp",
         "time": "2026.4.5",
-        "title": "“CR-X風×低燃費”なのに6MTの「ホンダ CR-Z」って最高じゃん!! 手軽に楽しめるエントリークーペの実力",
-        "url": "https://bestcarweb.jp/news/1481583"
+        "title": "「NVIDIAが自動運転の開発競争を再定義」テスラ・ウェイモ・ウーバー・日産などと連携…GTC 2026",
+        "url": "https://response.jp/article/2026/04/05/409650.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.4.5",
-        "title": "「アンチヴェノム」がフルフェイスヘルメットに、HJC『RPHA 12 アンチヴェノムII』発売",
-        "url": "https://response.jp/article/2026/04/05/409640.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.4.5",
-        "title": "「激アツ」「欲しすぎる」トヨタ『GR GT3』がハッピーセットに登場！ SNSでは“大人のファン”が大興奮",
-        "url": "https://response.jp/article/2026/04/05/409634.html"
+        "title": "『ジムニー』オーナーの琴線に触れる、専用便利グッズのニューカマー、登場！［特選カーアクセサリー名鑑］",
+        "url": "https://response.jp/article/2026/04/05/409648.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.5",
-        "title": "【へっぽこバスガイドの珍道中】意外と知らない？ バスツアーの種類と団体旅行の仕組み",
-        "url": "https://bestcarweb.jp/busmagazine/1466368"
+        "title": "GR86/BRZのテールにカーボンの羽根を!! リアビューを引き締める東名パワードのカーボンスポイラー登場!!!",
+        "url": "https://bestcarweb.jp/news/1478572"
       },
       {
         "source": "Response.jp",
         "time": "2026.4.5",
-        "title": "【ホンダ プレリュード 新型試乗】プレリュードは大人のデートに使えるのか？…岩貞るみこ",
-        "url": "https://response.jp/article/2026/04/05/409642.html"
+        "title": "Motorimoda、バイク向けアパレル「ROKKER」と「RIDINGCULTURE」取り扱い開始",
+        "url": "https://response.jp/article/2026/04/05/409643.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.5",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第732回",
-        "url": "https://bestcarweb.jp/feature/column/1457609"
+        "title": "こんなクルマあった!? イタリアデザインの日野 コンテッサって？ 個性派クーペを一挙公開",
+        "url": "https://bestcarweb.jp/news/1481719"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.5",
+        "title": "セダンか？ スポーツカーか？ V6エンジンを搭載したマツダ『ランティス』という異端児【懐かしのカーカタログ】",
+        "url": "https://response.jp/article/2026/04/05/409647.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.5",
-        "title": "14万円で購入したセリカGT-FOURが忘れられない……!! プロたちがガチで愛したクーペ3選",
-        "url": "https://bestcarweb.jp/feature/column/1482901"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.4.5",
-        "title": "EneJet黒瀬SS、東広島市にオープン セブンイレブン併設で地域拠点へ",
-        "url": "https://response.jp/article/2026/04/05/409636.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.4.5",
-        "title": "Peach、エアバス最新客室「Airspace」搭載機の運航開始",
-        "url": "https://response.jp/article/2026/04/05/409633.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.4.5",
-        "title": "WHILLが貸切観光バスにレンタルサービス導入 山梨・飯丘観光が4月から展開、全国初",
-        "url": "https://response.jp/article/2026/04/05/409637.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.4.5",
-        "title": "アールエスタイチ、バイク用エアバッグベスト『T-SABE』を4月24日に発売決定！ 価格は8万8000円",
-        "url": "https://response.jp/article/2026/04/05/409638.html"
+        "title": "ディーラーの管理用クラウドを農業に転用!? トヨタ名物「かんばん方式」が日本の稲作と農業を救う日が来る！［復刻・2014年の話題］",
+        "url": "https://bestcarweb.jp/feature/column/1270629"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.5",
-        "title": "リサイクルの要の「ゴミ収集車」をリサイクル素材で!? ダイムラーが資源の循環を印象付けるコンセプト車両",
-        "url": "https://bestcarweb.jp/fullload/1482441"
+        "title": "ドライのはずがまさかの濡れ路面!? それでも新井大輝選手は速かった！ SAGAラリー完全攻略で開幕2連勝だ!!",
+        "url": "https://bestcarweb.jp/news/motorsport/1487137"
       },
       {
         "source": "Best Car Web",
         "time": "2026.4.5",
-        "title": "新型RAV4売れまくりで早くも受注停止の噂も…2026年4月納期・購入ガイド【画像一覧】",
-        "url": "https://bestcarweb.jp/newcar/1486204"
+        "title": "マツダってやっぱスゴいのか!? 電動化時代でも光るPHEV技術の中身とは",
+        "url": "https://bestcarweb.jp/news/1480888"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.5",
+        "title": "ランクル250が一部改良実施!! 盗難防止機能を強化して人気増量 納期は？ 売れ筋は？？【画像一覧】",
+        "url": "https://bestcarweb.jp/newcar/1487055"
       },
       {
         "source": "Motor1",
         "time": "2026.4.5",
-        "title": "Man Pays For Car Wash. Then He Realizes The Guy In Front Of Him Is Going In On A Harley: ‘I’m Curious What’s Gonna Happen’",
-        "url": "https://www.motor1.com/news/792072/harley-motorcycle-automatic-car-wash/"
+        "title": "Woman Sells Toyota Tacoma To CarMax. Then She Reveals How Much They Paid: ‘That’s A $32-33K On Marketplace’",
+        "url": "https://www.motor1.com/news/792087/toyota-tacoma-carmax-ripoff/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.5",
+        "title": "Mercedes-AMG Doesn’t Want Its New EV To Feel Like An EV",
+        "url": "https://insideevs.com/news/792093/mercedes-amg-gt-ev-drift/"
       },
       {
         "source": "Motor1",
         "time": "2026.4.4",
-        "title": "Woman Buys From Carvana. Then She Notices An Unusual Smell: 'Money From That Car Is Supposed To Be Applied To This New Car'",
-        "url": "https://www.motor1.com/news/792065/woman-complains-carvana-purchase-smells/"
+        "title": "Worker Quotes $350 For Car Detailing. Then He Looks In The Backseat And Changes The Price By $450: 'I Noticed...'",
+        "url": "https://www.motor1.com/news/792088/car-detailing-800-dollars/"
       },
       {
         "source": "Motor1",
-        "time": "2026.4.4",
-        "title": "'Shout Out Pep Boys': Dealership Quotes Woman $380 For A Repair. Then A Tech Gives Her The Real Total",
-        "url": "https://www.motor1.com/news/792064/dealership-changes-repair-price/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.4.4",
-        "title": "Farm Claims New $240,000 Kenworth Has Been in the Shop Almost 50 Times",
-        "url": "https://www.thedrive.com/news/farm-claims-new-240000-kenworth-has-been-in-the-shop-almost-50-times"
+        "time": "2026.3.30",
+        "title": "Toyota's New Mid-Engine Sports Car Is Getting ‘Better Every Day’",
+        "url": "https://www.motor1.com/news/791499/toyota-mid-engine-sports-car-details/"
       },
       {
         "source": "Motor1",
-        "time": "2026.4.4",
-        "title": "'We’re Basically Giving Her A Tire For Free': Mechanic Tells Woman He Can’t Service Her Tire. Then She Calls The Secret Number",
-        "url": "https://www.motor1.com/news/792062/mechanic-refuses-work-on-tire/"
+        "time": "2026.3.30",
+        "title": "Mechanic Refuses To Install Car Parts Customers Buy Themselves. Then He Admits The Real Reason Why: ‘Worst Human Beings'",
+        "url": "https://www.motor1.com/news/791405/napa-mechanics-mark-up-prices/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.4.4",
-        "title": "Listen to This Turbocharged 28cc Inline-Six Engine Zing",
-        "url": "https://www.thedrive.com/news/listen-to-this-turbocharged-28cc-inline-six-engine-zing"
+        "source": "Motor1",
+        "time": "2026.3.30",
+        "title": "The Biggest Skoda Ever Is Packed With First-Time Features",
+        "url": "https://www.motor1.com/news/791469/2027-skoda-peaq-specs-photos/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.4.4",
-        "title": "Ford Mustang Sales Are 50% Higher Than They Were a Year Ago",
-        "url": "https://www.thedrive.com/news/ford-mustang-sales-are-50-higher-than-they-were-a-year-ago"
+        "source": "InsideEVs",
+        "time": "2026.3.30",
+        "title": "All New BMW i5 EVs Now Have A Native NACS Charge Port",
+        "url": "https://insideevs.com/news/791474/2026-bmw-i5-nacs-charge-port-us/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.3.30",
+        "title": "Take A Behind-The-Scenes Look At Slate's Winter Testing",
+        "url": "https://insideevs.com/news/791465/slate-winter-testing-video/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.3.30",
+        "title": "New Mercedes-AMG Black Series Filmed Looking Like A Road-Legal Race Car",
+        "url": "https://www.motor1.com/news/791461/new-amg-black-series-spy-video/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.3.30",
+        "title": "Man Keeps His License Plate On The Dash. Then Learns The Chilling Reason This Is A Bad Idea: 'I See This EVERY DAY'",
+        "url": "https://www.motor1.com/news/791432/license-plate-on-dashboard/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 24,
-    "queued_articles": 24,
-    "processed": 24,
-    "started_at": "2026-04-05T03:42:26.962Z",
-    "finished_at": "2026-04-05T03:43:43.200Z",
+    "scoped_articles": 31,
+    "queued_articles": 31,
+    "processed": 31,
+    "started_at": "2026-04-05T13:55:19.812Z",
+    "finished_at": "2026-04-05T13:57:15.545Z",
     "success": true,
     "error": ""
   }

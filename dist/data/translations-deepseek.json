@@ -7009,5 +7009,749 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-04-05T03:43:43.197Z"
+  },
+  "https://response.jp/article/2026/04/05/409650.html": {
+    "title_zh": "NVIDIA 在 GTC 2026 上重新定义自动驾驶开发竞争，与特斯拉、Waymo、优步、日产等合作",
+    "summary_short": "NVIDIA 在 GTC 2026 上宣布自动驾驶新战略，强调开发速度而非数据量是关键，并推出 Alpamayo 平台加速技术发展。",
+    "summary_long": "NVIDIA 在 GTC 2026 期间举办自动驾驶相关发布会，指出当前竞争已进入新阶段，开发速度成为决定胜负的关键因素。公司推出了 Alpamayo 自动驾驶 AI 模型平台，旨在通过开放模型和数据集加速自动驾驶技术研发，覆盖机器人出租车、自动驾驶巴士和私家车等多个领域。",
+    "highlights_zh": [
+      "NVIDIA 强调自动驾驶竞争转向开发速度",
+      "推出 Alpamayo 开放 AI 模型平台",
+      "平台包含推理模型和物理模拟器",
+      "覆盖机器人出租车和私家车应用"
+    ],
+    "entities": [
+      "NVIDIA",
+      "特斯拉 | Tesla",
+      "Waymo",
+      "日产 | Nissan",
+      "自动驾驶"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199981.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199972.jpg",
+      "https://response.jp/imgs/zoom1/2199982.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:26.704Z"
+  },
+  "https://response.jp/article/2026/04/05/409648.html": {
+    "title_zh": "铃木吉姆尼专用便利配件新品登场，触动车主心弦",
+    "summary_short": "介绍三款专为铃木吉姆尼设计的新款便利配件，包括 EXEA 品牌的收纳和饮料架，提升车主用车体验。",
+    "summary_long": "本文聚焦于铃木吉姆尼的专用汽车配件，展示了三款新作，旨在解决该车型收纳空间有限的问题。新品包括 EXEA 品牌的饮料架和收纳配件，设计巧妙，兼顾实用性和便利性，例如饮料架可同时放置饮料和手机，且不影响驾驶操作。这些配件专为吉姆尼、吉姆尼 Sierra 和吉姆尼 Nomad 车型适配，进一步丰富了吉姆尼车主的汽车生活。",
+    "highlights_zh": [
+      "EXEA 推出吉姆尼专用饮料架",
+      "配件解决收纳空间不足问题",
+      "设计兼顾饮料和手机放置",
+      "适配吉姆尼多款车型"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "EXEA",
+      "汽车配件",
+      "收纳"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199664.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199664.jpg",
+      "https://response.jp/imgs/fill2/2199666.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:27.194Z"
+  },
+  "https://bestcarweb.jp/news/1478572": {
+    "title_zh": "东名动力推出碳纤维尾翼，为 GR86/BRZ 尾部增添碳纤维羽翼！",
+    "summary_short": "东名动力推出专为丰田 GR86 和斯巴鲁 BRZ 设计的干碳纤维行李箱盖尾翼，轻量化约 500 克，提升外观与操控平衡。",
+    "summary_long": "东名动力新推出的干碳纤维行李箱盖尾翼，专为丰田 GR86 和斯巴鲁 BRZ 设计，旨在实现外观与性能的高层次平衡。该产品采用轻量化设计，重量约 500 克，有助于改善车辆后部重量分布，对操控性产生积极影响。其设计理念强调不破坏车辆原有特性，避免过度改装感，同时通过精美的碳纤维编织纹理和透明涂层展现高品质质感，适合追求长期使用的车主。",
+    "highlights_zh": [
+      "专为 GR86/BRZ 设计的干碳尾翼",
+      "轻量化约 500 克",
+      "高品质碳纤维纹理与涂层",
+      "设计不破坏车辆原有特性"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "斯巴鲁 | Subaru",
+      "GR86",
+      "BRZ",
+      "碳纤维尾翼"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/27005625/24cc31b5c89dfdb27bf6f80687c1f2fc.jpg?v=1774540587",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/27005625/24cc31b5c89dfdb27bf6f80687c1f2fc-600x400.jpg?v=1774540587",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/02143748/s-0M0A6121-600x400.jpg?v=1775108270"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:34.675Z"
+  },
+  "https://response.jp/article/2026/04/05/409643.html": {
+    "title_zh": "Motorimoda 开始销售摩托车服饰品牌 ROKKER 和 RIDINGCULTURE",
+    "summary_short": "Motorimoda 引入 ROKKER 和 RIDINGCULTURE 摩托车服饰品牌，主打高耐久性牛仔裤和多元生活方式产品。",
+    "summary_long": "Motorimoda 开始销售摩托车服饰品牌 ROKKER 及其副线 RIDINGCULTURE。ROKKER 主打高耐久性摩托车牛仔裤，采用 Schoeller 面料和双层结构，通过严格拖拽测试。产品线还包括夹克、T 恤和配件。RIDINGCULTURE 作为副线提供更休闲的款式，面向摩托车、自行车、冲浪等多领域爱好者。",
+    "highlights_zh": [
+      "ROKKER 牛仔裤采用双层结构",
+      "通过 25 米拖拽耐久测试",
+      "RIDINGCULTURE 为副线休闲品牌",
+      "面向多元运动爱好者"
+    ],
+    "entities": [
+      "Motorimoda",
+      "ROKKER",
+      "RIDINGCULTURE",
+      "摩托车服饰",
+      "Schoeller"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199620.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199620.jpg",
+      "https://response.jp/imgs/fill2/2199621.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:34.793Z"
+  },
+  "https://bestcarweb.jp/news/1481719": {
+    "title_zh": "意大利设计的日野 Contessa？个性派轿跑车一览",
+    "summary_short": "回顾日本汽车史上由意大利设计的个性轿跑车，包括日野 Contessa、日产 Skyline 等经典车型，展现 1960 年代至泡沫经济时期的独特风格。",
+    "summary_long": "1960 年代是轿跑车造型设计的黄金时期，日本车企纷纷委托意大利设计公司打造独特车型，如日野 Contessa 和日产 Skyline 轿跑车均由米凯洛蒂设计。随着时代发展，从紧凑型到中高端轿跑车不断涌现，1980 年代更迎来普及期，丰田 Corona、本田 1300 等车型相继推出。泡沫经济时期还出现了像菲加罗这样的限量版轿跑车，以及搭载 1.8 升 V6 发动机的紧凑型车优诺斯普雷索等独特车型。",
+    "highlights_zh": [
+      "日野 Contessa 由意大利设计",
+      "1960 年代日本车企青睐意式设计",
+      "1980 年代轿跑车进入普及期",
+      "泡沫经济催生独特限量车型"
+    ],
+    "entities": [
+      "日野",
+      "Contessa",
+      "日产 | Nissan",
+      "Skyline",
+      "轿跑车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30183827/00_s_coupe_11_1Y8A7873_head.jpg?v=1774863508",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30183827/00_s_coupe_11_1Y8A7873_head-600x400.jpg?v=1774863508",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/02143748/s-0M0A6121-600x400.jpg?v=1775108270"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:42.198Z"
+  },
+  "https://response.jp/article/2026/04/05/409647.html": {
+    "title_zh": "是轿车还是跑车？搭载 V6 发动机的马自达 Lantis 异类车型【怀旧汽车图鉴】",
+    "summary_short": "马自达 Lantis 是一款融合轿车与跑车特性的独特车型，提供四门硬顶轿车和四门硬顶轿跑两种车身，搭载 V6 和四缸发动机。",
+    "summary_long": "马自达 Lantis 是一款难以简单归类的车型，其宣传语“这辆轿车也是跑车，这辆跑车也是轿车”精准概括了其跨界定位。该车提供四门硬顶轿车和四门硬顶轿跑两种车身版本，其中轿跑版在保持 2605mm 轴距的同时，将全长缩短 245mm 至 4245mm，采用前后短悬设计，造型更为紧凑动感。动力方面搭载 2.0 升 V6 发动机和 1.8 升四缸发动机，并应用了可变共振增压系统等先进技术。",
+    "highlights_zh": [
+      "轿车与跑车的跨界设计",
+      "提供四门硬顶轿车/轿跑两种版本",
+      "搭载 2.0 升 V6 和 1.8 升四缸发动机",
+      "轿跑版采用短悬紧凑造型"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Lantis",
+      "V6 发动机",
+      "四门硬顶",
+      "可变共振增压系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2199195.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2199195.jpg",
+      "https://response.jp/imgs/fill2/2199197.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:43.055Z"
+  },
+  "https://bestcarweb.jp/feature/column/1270629": {
+    "title_zh": "丰田将经销商管理云系统转用于农业！看板生产方式或将拯救日本水稻种植与农业",
+    "summary_short": "丰田将其著名的看板生产方式应用于农业，开发出 IT 管理工具“丰作计划”，旨在提升农业生产效率，已在日本多地农业法人中推广。",
+    "summary_long": "丰田汽车将其在汽车制造中积累的生产管理手法和流程改善经验应用于农业领域，开发了名为“丰作计划”的 IT 管理工具。该工具基于丰田生产方式的看板管理理念，旨在通过减少库存、按需生产的方式提升农业生产力。该项目已被日本农林水产省的“先端模型农业确立实证实验”采纳，自 2014 年起在爱知县、石川县等地的 9 家水稻生产农业法人中实施。",
+    "highlights_zh": [
+      "丰田生产方式应用于农业",
+      "开发 IT 工具“丰作计划”",
+      "旨在提升农业生产效率",
+      "已在多地农业法人中推广"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "看板生产方式",
+      "丰作计划",
+      "农业生产效率",
+      "IT 管理工具"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/11/28175159/20140526_P148-149_mainb.jpg?v=1764319921",
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/11/28175159/20140526_P148-149_mainb-600x413.jpg?v=1764319921",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/03160910/toyota_celica_1989_photos_6main-600x445.jpg?v=1775200151"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:49.308Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1487137": {
+    "title_zh": "新井大辉在 SAGA 拉力赛意外湿滑路面中强势夺冠，实现赛季开局两连胜",
+    "summary_short": "日本拉力赛新井大辉驾驶丰田雅力士在 SAGA 站克服多变天气，以 25 秒优势夺冠，实现赛季开局两连胜。",
+    "summary_long": "2026 年全日本拉力锦标赛第二站 SAGA 拉力赛在复杂天气条件下进行。尽管赛前预测为干燥路面，但山区路段出现浓雾和湿滑路面。新井大辉驾驶丰田雅力士 | Toyota Yaris 灵活适应路况，在首日建立 25 秒优势后，次日继续强势表现，最终以总成绩第一完赛。这不仅是他本赛季的连续第二场胜利，还获得了完整的 DAY 积分，展现了出色的竞技状态和车辆调校能力。",
+    "highlights_zh": [
+      "新井大辉 SAGA 拉力赛夺冠",
+      "驾驶丰田雅力士适应湿滑路面",
+      "赛季开局实现两连胜",
+      "获得完整 DAY 积分"
+    ],
+    "entities": [
+      "新井大辉",
+      "丰田雅力士 | Toyota Yaris",
+      "SAGA 拉力赛",
+      "全日本拉力锦标赛",
+      "湿滑路面"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/05192305/S__89251858_0_2.jpg?v=1775384586",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/05192305/S__89251858_0_2-600x400.jpg?v=1775384586",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/04190554/S__89186313_1-600x400.jpg?v=1775297155"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:50.594Z"
+  },
+  "https://bestcarweb.jp/news/1480888": {
+    "title_zh": "马自达插电混动技术获机械振兴奖，转子引擎在电动时代发光",
+    "summary_short": "马自达 MX-30 转子 EV 的插电混动技术因小型轻量转子引擎获机械振兴协会会长奖，展示其在电动化时代的独特优势。",
+    "summary_long": "马自达凭借其独特的转子引擎技术，在插电混动领域取得突破。MX-30 转子 EV 采用小型轻量化转子引擎作为发电机，解决了传统引擎在纯电行驶时的重量和体积问题，提升了能效。这一创新技术荣获第 60 届机械振兴奖的机械振兴协会会长奖，彰显了马自达在电动化时代的竞争力。",
+    "highlights_zh": [
+      "马自达 MX-30 转子 EV 获机械振兴奖",
+      "小型轻量转子引擎用于发电",
+      "提升插电混动系统能效",
+      "展示马自达独特技术优势"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MX-30 转子 EV",
+      "插电混动",
+      "转子引擎",
+      "机械振兴奖"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30124418/00_mx-30_e-skyactiv_r-ev_ext_10_l_hed.jpg?v=1774842259",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/30124418/00_mx-30_e-skyactiv_r-ev_ext_10_l_hed-600x400.jpg?v=1774842259",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/02143748/s-0M0A6121-600x400.jpg?v=1775108270"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:56.537Z"
+  },
+  "https://bestcarweb.jp/newcar/1487055": {
+    "title_zh": "兰德酷路泽 250进行部分改良，强化防盗功能提升人气，交付期与热销车型解析",
+    "summary_short": "兰德酷路泽 250 首次进行部分改良，重点强化防盗功能并升级安全装备，汽油版先行推出，VX 车型配置更丰富。",
+    "summary_long": "兰德酷路泽 250 自 2024 年上市以来持续热销，于 2026 年 4 月 3 日首次实施部分改良并同步发售。此次更新在安全装备升级基础上，重点强化了用户最为关注的防盗对策。汽油版车型（VX/GX）率先推出，其中热销的 VX 车型配置更为充实。安全方面，标准配备了丰田智行安全系统 | Toyota Teammate 的“高级驾驶（拥堵辅助）”功能，可在高速拥堵时实现脱手驾驶，大幅减轻长途疲劳。防盗方面新增“智能钥匙测距系统”标准装备，防止中继攻击等盗窃手段，并设置“T-Connect 远程启动锁定”功能。此外，原仅在特别版“First Edition”提供的“圆眼型双光束 LED 头灯”现可作为厂家选装项。",
+    "highlights_zh": [
+      "首次部分改良强化防盗功能",
+      "汽油版 VX/GX 先行推出",
+      "标配拥堵辅助脱手驾驶",
+      "新增智能钥匙防中继攻击"
+    ],
+    "entities": [
+      "兰德酷路泽 250 | Land Cruiser 250",
+      "丰田 | Toyota",
+      "防盗功能",
+      "安全装备",
+      "VX 车型"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/05181507/002_LandCruiser250.jpg?v=1775380508",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/05181507/002_LandCruiser250-600x338.jpg?v=1775380508",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/02/24162747/MG_0569_1-600x400.jpg?v=1771918068"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:55:59.492Z"
+  },
+  "https://www.motor1.com/news/792087/toyota-tacoma-carmax-ripoff/": {
+    "title_zh": "女子将丰田 Tacoma 卖给 CarMax，售价远低于市场价引热议",
+    "summary_short": "一名女子将保养良好的 2021 款丰田 Tacoma TRD Off Road 4x4 卖给 CarMax，售价远低于私人市场估值，引发关于便捷性与现金收益的讨论。",
+    "summary_long": "一名女子在 TikTok 上分享了她将 2021 款丰田 Tacoma TRD Off Road 4x4 卖给 CarMax 的经历，售价远低于私人市场预期的 3.2-3.3 万美元。她提到车辆状况良好，行驶 7.7 万英里，但因家庭车辆过多而出售。此事引发了对二手车销售渠道选择、丰田 Tacoma 高保值率以及 CarMax 报价合理性的广泛讨论。",
+    "highlights_zh": [
+      "售价远低于私人市场估值",
+      "车辆状况良好",
+      "引发便捷性与现金收益讨论",
+      "丰田 Tacoma 高保值率受关注"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tacoma",
+      "CarMax",
+      "二手车销售",
+      "保值率"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak34O2/s1/woman-sells-toyota-tacoma-to-carmax.-then-she-reveals-how-much-they-paid.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:04.104Z"
+  },
+  "https://insideevs.com/news/792093/mercedes-amg-gt-ev-drift/": {
+    "title_zh": "梅赛德斯-AMG新电动车旨在消除电动车感",
+    "summary_short": "梅赛德斯-AMG 即将推出四门电动车，模拟 V-8 引擎声浪和换挡，配备三电机动力系统，强调漂移能力和驾驶动态控制。",
+    "summary_long": "梅赛德斯-AMG 正推出一款定制四门电动车，旨在与保时捷 Taycan | Porsche Taycan 竞争。新车承诺提供典型的 AMG 驾驶体验，包括模拟 V-8 引擎噪音和换挡，并具备出色的漂移能力。它采用三电机动力系统，每个后轮一个电机，实现精确的扭矩矢量控制，使车辆在侧滑时保持较大角度。电机采用轴向磁通设计，体积小巧但功率密度高。概念车功率达 1,341 马力，量产版预计超过 1,000 马力，以匹配保时捷 Taycan 最强版本。车辆还配备 AMG Race Engineer 驾驶动态控制系统，允许驾驶员通过响应控制、敏捷控制和牵引控制三种设置定制车辆行为。",
+    "highlights_zh": [
+      "模拟 V-8 引擎声浪和换挡",
+      "三电机动力系统支持漂移",
+      "轴向磁通电机设计小巧高效",
+      "AMG Race Engineer 动态控制系统"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "保时捷 Taycan | Porsche Taycan",
+      "电动车",
+      "漂移",
+      "扭矩矢量控制"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4Ok2g/s1/mercedes-amg-gt-four-door-ev.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:08.573Z"
+  },
+  "https://www.motor1.com/news/792088/car-detailing-800-dollars/": {
+    "title_zh": "汽车美容师报价 350 美元，查看后座后加价 450 美元至 800 美元",
+    "summary_short": "一名汽车美容师为卡车报价 350 美元，发现后座地板有大量污垢后，将价格提高至 800 美元，引发对汽车美容平均价格的讨论。",
+    "summary_long": "汽车美容师最初为卡车报价 350 美元进行深度清洁，但在检查后座地板时发现大量花朵碎屑、剃须残留物和污垢，导致工作量远超预期，因此将价格提高至 800 美元。汽车美容通常比普通洗车更复杂，旨在恢复车辆如新状态，因此价格较高。",
+    "highlights_zh": [
+      "美容师发现后座污垢后加价",
+      "初始报价 350 美元",
+      "汽车美容是深度清洁过程",
+      "价格因污垢程度而调整"
+    ],
+    "entities": [
+      "汽车美容",
+      "卡车",
+      "深度清洁",
+      "报价",
+      "污垢"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzqYP/s1/man-quotes-client-350-for-truck-detailing.-then-he-looks-in-the-backseat-and-ups-the-price-to-800.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:10.802Z"
+  },
+  "https://www.motor1.com/news/791499/toyota-mid-engine-sports-car-details/": {
+    "title_zh": "丰田全新中置引擎跑车“日益精进”，或为 MR2 继任者",
+    "summary_short": "丰田 GR Yaris M 概念车开发顺利，其技术经验可能催生一款中置引擎量产跑车，或为 MR2 的继任车型。",
+    "summary_long": "丰田在 2025 年东京汽车沙龙发布的 GR Yaris M 概念车正持续测试与开发，该项目进展良好。丰田 Gazoo Racing 营销经理林幹夫透露，从该车在赛车运动中积累的知识与反馈，未来可能转化为一款公路车或量产车型。虽然 GR Yaris M 本身是掀背车形态，但推测其仅作为中置引擎布局的技术测试平台，最终量产车型很可能是一款全新跑车。关于是否会复活近 20 年未使用的 MR2 车系名称，官方回应留有想象空间。",
+    "highlights_zh": [
+      "GR Yaris M 概念车开发顺利",
+      "中置引擎技术或用于量产跑车",
+      "可能复活 MR2 车系名称",
+      "赛车经验将转化至公路车型"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR Yaris M",
+      "MR2",
+      "中置引擎跑车",
+      "量产车型"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8Ykpq/s1/toyota-gr-yaris-m-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:15.904Z"
+  },
+  "https://www.motor1.com/news/791405/napa-mechanics-mark-up-prices/": {
+    "title_zh": "修车工拒绝安装客户自购零件，坦言真实原因：'最差劲的人'",
+    "summary_short": "美国一家汽修店因拒绝安装客户自购零件引发争议，店主解释此举源于质量保证和利润考虑，视频在社交媒体引发激烈讨论。",
+    "summary_long": "密歇根州一家家族经营的汽修店 Jerry's Automotive 发布视频，解释为何拒绝安装客户自行购买的汽车零件。店主 Jerry 表示主要原因包括零件质量无法保证，以及店铺无法为自购零件提供五年或五万英里的保修服务。这一政策引发了关于汽修行业定价实践的激烈辩论，许多客户和业内人士在评论区表达了不同观点。",
+    "highlights_zh": [
+      "汽修店拒装客户自购零件",
+      "店主解释质量保证问题",
+      "无法提供五年保修服务",
+      "社交媒体引发定价争议"
+    ],
+    "entities": [
+      "Jerry's Automotive",
+      "汽修店",
+      "汽车零件",
+      "保修政策",
+      "定价争议"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPBjk/s1/mechanic-refuses-to-install-parts-customers-buy-themselves.-then-he-admits-his-shop-raises-part-prices.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:17.148Z"
+  },
+  "https://www.motor1.com/news/791469/2027-skoda-peaq-specs-photos/": {
+    "title_zh": "斯柯达史上最大车型 Peaq 亮相，搭载多项首次应用功能",
+    "summary_short": "斯柯达 | Skoda 发布史上最大车型 Peaq，这是品牌首款采用隐藏式门把手和集成雨刮喷头的量产车，定位旗舰电动 SUV，提供五座和七座布局。",
+    "summary_long": "斯柯达 | Skoda Peaq 是品牌首款采用隐藏式门把手和集成雨刮喷头的量产车型，标志着四年前 Vision 7S 概念车的量产化。作为品牌史上最大车型，Peaq 定位旗舰电动 SUV，车身长度达 4874 毫米，轴距 2965 毫米，提供五座和七座两种布局。该车将搭载 63 千瓦时和 91 千瓦时两种电池组，续航里程分别超过 460 公里和 600 公里。",
+    "highlights_zh": [
+      "首款隐藏式门把手斯柯达量产车",
+      "品牌史上最大车型",
+      "提供五座/七座两种座椅布局",
+      "搭载 63/91 千瓦时两种电池选项"
+    ],
+    "entities": [
+      "斯柯达 | Skoda",
+      "Peaq",
+      "电动 SUV",
+      "旗舰车型",
+      "电池组"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkY6Jq/s1/2027-skoda-peaq-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:23.945Z"
+  },
+  "https://insideevs.com/news/791474/2026-bmw-i5-nacs-charge-port-us/": {
+    "title_zh": "全新宝马 i5 电动车现标配原生 NACS 充电接口",
+    "summary_short": "宝马宣布从 2026 年 3 月起，所有面向美国市场生产的 i5 电动车都将标配原生 NACS 充电接口，并随车附赠两个充电适配器。",
+    "summary_long": "宝马 i5 已成为该品牌在美国首款标配原生 NACS 充电接口的车型。此前只有顶配 M60 版本配备该接口，现在所有 2026 年 3 月后生产的 i5 车型（包括 xDrive40 和 eDrive40 版本）都将从工厂直接配备 NACS 接口。新车还随车附赠两个充电适配器，分别用于交流和直流充电。对于已购买早期 CCS 接口版本的车主，宝马将通过远程软件更新在春季初开放特斯拉超级充电站访问权限。",
+    "highlights_zh": [
+      "所有 i5 车型标配 NACS 接口",
+      "随车附赠两个充电适配器",
+      "早期车主需软件更新",
+      "适配器需购买官方认证产品"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "i5",
+      "NACS",
+      "充电接口",
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4EMpP/s1/2024-bmw-i5-first-drive-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:24.297Z"
+  },
+  "https://insideevs.com/news/791465/slate-winter-testing-video/": {
+    "title_zh": "Slate 电动皮卡冬季测试幕后探秘",
+    "summary_short": "美国初创品牌 Slate 的电动皮卡即将投产，近期在密歇根州极寒测试中心进行冬季测试，验证车辆在低温环境下的可靠性。",
+    "summary_long": "Slate 电动皮卡计划于 2026 年底开始交付，目前正进行最后的开发和测试。今年冬季，该公司在密歇根州的基威诺研究中心对多辆原型车进行了极寒环境测试，包括将车辆浸入泥浆后快速冷冻至-11°F，以检验电池和动力系统在极端低温下的表现。所有测试车辆均能正常启动和运行，验证了其冬季可靠性。此前，Slate 还在高温环境下进行了牵引和负载极限测试，确保热管理系统性能稳定。",
+    "highlights_zh": [
+      "Slate 电动皮卡 2026 年底投产",
+      "极寒测试温度低至-11°F",
+      "原型车通过泥浆冷冻考验",
+      "此前已完成高温极限测试"
+    ],
+    "entities": [
+      "Slate",
+      "电动皮卡",
+      "冬季测试",
+      "原型车",
+      "极寒环境"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/RqkYNm/s1/slate-truck-winter-testing.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:31.332Z"
+  },
+  "https://www.motor1.com/news/791461/new-amg-black-series-spy-video/": {
+    "title_zh": "全新梅赛德斯-AMG Black Series 谍照曝光，外观激进如合法赛车",
+    "summary_short": "梅赛德斯-AMG 正在测试新款 Black Series，原型车配备大型尾翼和侧置排气，外观激进，号称“最极端的 Black Series”。",
+    "summary_long": "梅赛德斯-AMG 新款 Black Series 原型车在公共道路上进行测试，外观设计激进，配备大型空气动力学套件、侧置排气和超宽轮胎。该车作为 GT3 赛车的认证特别版，采用 V8 发动机，可能使用平面曲轴。尽管福特 Mustang GTD 和雪佛兰 Corvette ZR1X 竞争激烈，但 AMG 强调其极致性能定位。",
+    "highlights_zh": [
+      "原型车配备大型尾翼和侧置排气",
+      "采用超宽轮胎",
+      "作为 GT3 赛车认证特别版",
+      "V8 发动机可能使用平面曲轴"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "Black Series",
+      "GT3",
+      "V8 发动机",
+      "空气动力学"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAz3Vw/s1/new-mercedes-amg-black-series-screenshot-from-spy-video.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:32.042Z"
+  },
+  "https://www.motor1.com/news/791432/license-plate-on-dashboard/": {
+    "title_zh": "车牌放仪表盘的危险性：事故中可能成为致命抛射物",
+    "summary_short": "汽车爱好者警告，将前车牌放在仪表盘而非安装在前保险杠上，在事故中可能成为致命抛射物，造成严重伤害。",
+    "summary_long": "许多司机将前车牌放在仪表盘上，认为这是临时解决方案，但汽车爱好者指出这存在严重安全隐患。在碰撞事故中，未固定的车牌可能成为高速抛射物，即使轻微事故也可能导致车牌刺入驾驶员颈部等致命伤害。建议使用专用安装套件正确固定车牌，避免这种看似方便实则危险的做法。",
+    "highlights_zh": [
+      "车牌放仪表盘成抛射物风险",
+      "轻微事故也可能造成致命伤害",
+      "建议使用专用套件正确安装",
+      "临时方案可能变成永久隐患"
+    ],
+    "entities": [
+      "车牌安全",
+      "事故风险",
+      "汽车安全",
+      "安装规范"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KML6/s1/man-says-take-front-license-plate-off-your-dash..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:37.745Z"
+  },
+  "https://www.motor1.com/news/791431/5-hour-drive-11k-markup/": {
+    "title_zh": "男子驱车五小时购经典车，卖家临时加价 1.1 万美元",
+    "summary_short": "经典车经销商驱车近五小时购买红色福特野马，抵达后卖家临时加价 1.1 万美元，引发网络热议。",
+    "summary_long": "经典车经销商鲍勃·埃文斯驱车近五小时前往购买一辆红色福特野马，此前已与卖家电话商定起始价格并确认可议价。抵达后，卖家将价格提高了 1.1 万美元，埃文斯在视频中表达不满，卖家则强调造车成本。事件视频在 YouTube 上获得数百万观看量，突显二手车交易中的诚信问题。",
+    "highlights_zh": [
+      "驱车五小时购车遭临时加价",
+      "卖家加价 1.1 万美元无歉意",
+      "视频引发数百万观看热议",
+      "突显二手车交易诚信风险"
+    ],
+    "entities": [
+      "福特",
+      "野马",
+      "经典车",
+      "经销商",
+      "议价"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egKXp/s1/man-negotiates-price-on-classic-car.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:38.556Z"
+  },
+  "https://www.motor1.com/news/791430/honda-tire-flew-off-after-rotation/": {
+    "title_zh": "本田车主轮胎保养后车轮飞出，技师称“最恐惧的事”",
+    "summary_short": "本田车主在轮胎换位后行驶时车轮突然飞出，事故视频在社交媒体引发关注，技师表示这是最担心的情况。",
+    "summary_long": "一位本田车主在完成轮胎换位后行驶时，车轮突然从车辆上飞出。事故导致轮胎脱落，后保险杠部分分离。社交媒体上的视频引发广泛讨论，许多网友表达了对类似情况的担忧。技师评论称这是“作为技师最恐惧的事”，并建议车主立即起诉维修店。",
+    "highlights_zh": [
+      "本田车主轮胎换位后车轮飞出",
+      "事故导致轮胎脱落保险杠受损",
+      "技师称这是“最恐惧的事”",
+      "网友建议立即起诉维修店"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "轮胎换位",
+      "车轮脱落",
+      "维修事故",
+      "技师"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwKAw/s1/woman-gets-her-tires-rotated-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:44.312Z"
+  },
+  "https://www.motor1.com/news/791429/cars-banks-approve-bad-credit/": {
+    "title_zh": "大众捷达与马自达：汽车销售员揭秘银行最可能批准的贷款车型",
+    "summary_short": "汽车销售员分享银行最可能批准贷款的车型，包括大众捷达和马自达，即使信用不良也能获得融资。",
+    "summary_long": "汽车销售员 Devante Hill 在社交媒体上分享银行最可能批准贷款的车型清单，特别针对信用不良的购车者。他提到大众捷达和马自达等品牌车型是银行偏好的选择，即使有不良信用记录或车辆被收回的情况，也能找到适合的融资方案。销售员强调诚实申报收入的重要性，避免使用虚假工资单等欺骗手段。",
+    "highlights_zh": [
+      "银行偏好大众捷达和马自达车型",
+      "信用不良也能获得汽车贷款",
+      "销售员提供诚实融资建议",
+      "避免使用虚假收入证明"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "捷达 | Jetta",
+      "马自达 | Mazda",
+      "汽车贷款",
+      "信用评分"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo90xM/s1/car-salesman-reviews-the-models.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:44.912Z"
+  },
+  "https://www.motor1.com/news/791391/bugatti-w16-mistral-one-off-tribute/": {
+    "title_zh": "布加迪最后一款 W16 超跑获感人定制致敬",
+    "summary_short": "布加迪 W16 Mistral “Caroline” 是一款独一无二的 Sur Mesure 定制车型，以花卉设计、手工细节向 W16 引擎时代告别。",
+    "summary_long": "布加迪 W16 Mistral 标志着传奇 W16 引擎时代的终结，而“Caroline”规格的敞篷跑车通过 Sur Mesure 定制项目，将技术与工艺融合，近乎艺术品。这款车以车主女儿为灵感，设计灵感源自花卉和高级时装，采用定制“薰衣草”漆面和“紫色碳纤维”材质，展现动态视觉效果。",
+    "highlights_zh": [
+      "最后一款 W16 超跑定制致敬",
+      "Sur Mesure 项目打造独一无二车型",
+      "花卉设计灵感源自薰衣草田",
+      "定制漆面和碳纤维材质"
+    ],
+    "entities": [
+      "布加迪 | Bugatti",
+      "W16 Mistral",
+      "Sur Mesure",
+      "定制设计",
+      "W16 引擎"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3B0v2/s1/bugatti-w16-mistral-sur-mesure-caroline-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:50.944Z"
+  },
+  "https://www.motor1.com/news/791428/jeep-dealership-sells-wrong-car/": {
+    "title_zh": "男子购买全新 Jeep，一个月后经销商来电称卖错车",
+    "summary_short": "一名男子购买全新 Jeep Patriot 后，经销商一个月后致电称卖错车辆，要求归还。类似事件在汽车销售中并不罕见。",
+    "summary_long": "一名男子购买了一辆全新的 Jeep Patriot，一个月后经销商突然来电，告知他买错了车辆，要求归还。经销商解释称，当时有两辆外观相同的白色 Jeep Patriot 在准备区，工作人员在交接时误给了错误的车辆。直到另一名顾客前来购买另一辆 Patriot 时，这个错误才被发现。类似销售错误在汽车行业时有发生，提醒消费者在购车时仔细核对车辆信息。",
+    "highlights_zh": [
+      "经销商卖错 Jeep Patriot",
+      "一个月后要求顾客归还",
+      "两辆相同车辆导致混淆",
+      "销售错误并非个例"
+    ],
+    "entities": [
+      "Jeep",
+      "Patriot",
+      "经销商",
+      "销售错误",
+      "车辆混淆"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKEM4/s1/man-buys-brand-new-jeep-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:51.056Z"
+  },
+  "https://response.jp/article/2026/03/29/409316.html": {
+    "title_zh": "“URBAN TUNED” 马自达奏响的『Etude』令人怀念【怀旧汽车图册】",
+    "summary_short": "回顾马自达 | Mazda 于 1987 年推出的 Etude 车型，基于第五代 Familia 打造，拥有独特设计和专属车身，内饰与性能均有特色。",
+    "summary_long": "Etude 是马自达 | Mazda 在 1987 年 1 月推出的车型，源自第五代 Familia，但采用全新外板设计，轴距相同但车身尺寸有所调整。外观上，侧窗与后窗玻璃连接形成圆润线条，细节处如黑色带状装饰和渐变条纹增强了视觉层次。内饰方面，仪表盘设计基本沿用 Familia，但开关布局和材料如布制顶棚为 Etude 独有。动力搭载 1.6 升 DOHC 发动机，输出 110 马力，配备 SS 悬架和低气压减震器，轮胎选项包括 13 英寸和 14 英寸规格。",
+    "highlights_zh": [
+      "基于第五代 Familia 打造",
+      "独特侧窗与后窗连接设计",
+      "内饰采用专属材料和布局",
+      "搭载 1.6 升 DOHC 发动机"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Etude",
+      "Familia",
+      "DOHC 发动机",
+      "悬架系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2196000.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2196000.jpg",
+      "https://response.jp/imgs/fill2/2196001.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:59.515Z"
+  },
+  "https://response.jp/article/2026/03/29/409314.html": {
+    "title_zh": "雅马哈新型踏板车 AEROX 首次亮相，社交媒体热议其酷炫设计",
+    "summary_short": "雅马哈在 2026 年摩托车展上首次在日本公开了 155cc 新型踏板车 AEROX，计划于 2026 年夏季后上市，其独特设计和涡轮功能引发社交媒体广泛讨论。",
+    "summary_long": "雅马哈 | Yamaha 在大阪和东京的 2026 年摩托车展上首次在日本公开了 155cc 新型踏板车 AEROX，预计 2026 年夏季后上市。该车型在东南亚等地已广受欢迎，以其尖锐的个性化设计和搭载的涡轮功能为亮点。设计上借鉴了雅马哈 | Yamaha 的旗舰赛车系列 YZF-R，采用双投影大灯和金属灰色搭配橙色点缀，外观极具冲击力。作为 MAXI 系列的一员，AEROX 搭载 155cc BlueCore 发动机和电子控制 CVT YECVT，提供直接加速体验，其换挡降档功能模拟手动变速箱，带来涡轮般的加速感。",
+    "highlights_zh": [
+      "155cc 踏板车 AEROX 日本首次亮相",
+      "设计灵感源自 YZF-R 赛车系列",
+      "搭载电子 CVT",
+      "计划 2026 年夏季后上市"
+    ],
+    "entities": [
+      "雅马哈 | Yamaha",
+      "AEROX",
+      "踏板车",
+      "155cc",
+      "涡轮功能"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2197645.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2197645.jpg",
+      "https://response.jp/imgs/fill2/2197640.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:56:59.671Z"
+  },
+  "https://response.jp/article/2026/03/29/409315.html": {
+    "title_zh": "富士山花火 VS 赛道连续三年开设骑士专属区，4 月 11 日举办赛道巡游活动",
+    "summary_short": "富士山花火 VS 赛道活动连续三年为摩托车骑士开设专属区域，提供赛道巡游体验，融合花火表演与机车文化。",
+    "summary_long": "富士山花火 VS 赛道活动将于 4 月 11 日在富士赛道举办，连续第三年开设骑士专属区域“骑士天堂区”，让骑士能与爱车一同欣赏富士山与花火。活动还提供赛道巡游票，允许骑士在白天时段驾驶自己的摩托车在国际赛道上进行巡游，并有引导车带领和纪念拍照环节。现场将有知名摩托车博主参与，并展示普通驾照即可驾驶的三轮摩托车 BRP CAN-AM SPYDER。",
+    "highlights_zh": [
+      "连续三年开设骑士专属区域",
+      "提供赛道巡游体验",
+      "融合花火与机车文化",
+      "展示三轮摩托车 BRP CAN-AM SPYDER"
+    ],
+    "entities": [
+      "富士山花火 VS 赛道",
+      "富士赛道",
+      "骑士天堂区",
+      "赛道巡游",
+      "BRP CAN-AM SPYDER"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2197114.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2197114.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:57:07.431Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1474051": {
+    "title_zh": "捷克巴士司机任性装饰车辆引热议：公司巴士变个人秀场",
+    "summary_short": "捷克巴士司机将公司车辆按个人喜好装饰，从实用配件到个性化内饰，展现独特自由风格。",
+    "summary_long": "捷克巴士司机将公司车辆视为个人空间，按照自身喜好进行各种装饰。从简单的芳香剂、杯架等实用配件，到高级音响系统、导航设备等电子设备升级，再到铺设地毯、添加毛绒玩具等个性化内饰，司机们通过不同层次的改装让巴士充满个人色彩。这种将工作车辆转化为自我表达平台的现象，展现了汽车文化中个性化定制的普遍性。",
+    "highlights_zh": [
+      "捷克巴士司机个性化装饰公司车辆",
+      "装饰范围从实用配件到电子设备升级",
+      "内饰添加地毯、毛绒玩具等个性化元素",
+      "展现汽车文化中的自我表达自由"
+    ],
+    "entities": [
+      "巴士",
+      "捷克",
+      "汽车改装",
+      "个性化装饰",
+      "内饰"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/03/23122031/cz_self_bscstm_04-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/03/13085709/LINE_ALBUM_20260105_260109_211-1024x768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/03/17151412/5eee4ac9b5909ff28b5f9f078cbd61dc.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:57:08.373Z"
+  },
+  "https://bestcarweb.jp/news/business/1480526": {
+    "title_zh": "铃木副社长谈吉姆尼电动化与“爱的稼动率”",
+    "summary_short": "铃木首次举办吉姆尼官方粉丝活动，副社长石井直己谈及吉姆尼电动化前景，并强调提升车主“爱的稼动率”的重要性。",
+    "summary_long": "铃木在静冈县湖西市举办了首次四轮官方粉丝活动“吉姆尼日”，吸引了全国吉姆尼车主参与。副社长石井直己在活动中接受采访，讨论了吉姆尼电动化的利弊，并分享了活动背后的理念。石井强调，铃木与车主的接触点有限，希望通过活动填补“空白时间”，提升车主对吉姆尼的情感投入，即“爱的稼动率”。",
+    "highlights_zh": [
+      "铃木首次举办吉姆尼官方粉丝活动",
+      "副社长石井直己谈吉姆尼电动化",
+      "强调提升“爱的稼动率”",
+      "活动旨在填补车主日常空白时间"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "电动化",
+      "粉丝活动",
+      "石井直己"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29104948/PXL_20260328_035958204.jpg?v=1774748990",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/29104948/PXL_20260328_035958204-600x365.jpg?v=1774748990",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/28162221/PXL_20260328_010441738-1.jpg?v=1774682542"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:57:15.017Z"
+  },
+  "https://bestcarweb.jp/feature/column/1475009": {
+    "title_zh": "【新生活推荐】现在买车就选性价比超高的铃木雨燕！推荐车型与购买方法介绍",
+    "summary_short": "铃木雨燕以紧凑尺寸和驾驶乐趣深受喜爱，推荐混合动力 MX 版，性价比突出，适合长期持有。",
+    "summary_long": "2023 年推出的铃木雨燕是一款以操控灵活性和驾驶体验著称的紧凑型车，适合春季新生活开启。推荐混合动力 MX 版，虽然比基础版贵约 19.6 万日元，但增加了价值 22 万日元的空气动力学套件等装备，性价比更高。该车残值率三年后为 45%，建议现金购买并长期使用以最大化价值。",
+    "highlights_zh": [
+      "推荐混合动力 MX 版性价比高",
+      "三年后残值率 45%",
+      "适合现金购买长期使用",
+      "紧凑尺寸操控灵活"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "雨燕",
+      "混合动力",
+      "紧凑型车",
+      "性价比"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/23221406/00_suzuki_swift_ichi_06_head.jpg?v=1774271648",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/23221406/00_suzuki_swift_ichi_06_head-600x400.jpg?v=1774271648",
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/11/28175159/20140526_P148-149_mainb-600x413.jpg?v=1764319921"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-04-05T13:57:15.542Z"
   }
 }
