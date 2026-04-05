@@ -814,8 +814,8 @@
       return (
         new Date(article.published_at || "").getTime() ||
         parseDisplayDate(article.time)?.getTime() ||
-        new Date(article.last_seen_at || "").getTime() ||
         new Date(article.first_seen_at || "").getTime() ||
+        new Date(article.last_seen_at || "").getTime() ||
         0
       );
     }

@@ -22,6 +22,24 @@ function normalizeTitleForDedup(title) {
 }
 
 function createDedupe({ normalizeArticle, isLikelyArticle, parseDate }) {
+  function pickEarlierTime(...values) {
+    const dated = values
+      .map((value) => ({ value, time: parseDate(value)?.getTime() || 0 }))
+      .filter((entry) => entry.time > 0)
+      .sort((a, b) => a.time - b.time);
+
+    return dated[0]?.value || values.find(Boolean) || null;
+  }
+
+  function pickLaterTime(...values) {
+    const dated = values
+      .map((value) => ({ value, time: parseDate(value)?.getTime() || 0 }))
+      .filter((entry) => entry.time > 0)
+      .sort((a, b) => b.time - a.time);
+
+    return dated[0]?.value || values.find(Boolean) || null;
+  }
+
   function isWithin48Hours(time1, time2) {
     if (!time1 || !time2) return false;
 
@@ -45,12 +63,21 @@ function createDedupe({ normalizeArticle, isLikelyArticle, parseDate }) {
       // 1. URL 去重（现有逻辑）
       const existingByUrl = urlMap.get(item.url);
       if (existingByUrl) {
-        // 合并现有项
+        const mergedPublishedAt = pickEarlierTime(existingByUrl.published_at, item.published_at);
+        const mergedFirstSeenAt = pickEarlierTime(existingByUrl.first_seen_at, item.first_seen_at);
+        const mergedLastSeenAt = pickLaterTime(existingByUrl.last_seen_at, item.last_seen_at);
+        const mergedTime = mergedPublishedAt
+          ? (existingByUrl.published_at ? existingByUrl.time : item.time)
+          : (existingByUrl.time || item.time);
+
+        // 合并现有项。对于没有真实发布时间的旧文，保留已有 time，避免每天因重新抓到而“刷新日期”。
         urlMap.set(item.url, {
           ...existingByUrl,
           ...item,
-          first_seen_at: existingByUrl.first_seen_at || item.first_seen_at,
-          last_seen_at: item.last_seen_at || existingByUrl.last_seen_at
+          time: mergedTime,
+          published_at: mergedPublishedAt,
+          first_seen_at: mergedFirstSeenAt,
+          last_seen_at: mergedLastSeenAt
         });
         continue;
       }

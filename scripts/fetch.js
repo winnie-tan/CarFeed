@@ -102,8 +102,8 @@ function getArticleSortTime(item) {
   return (
     parseDate(item?.published_at)?.getTime() ||
     parseDisplayDate(item?.time)?.getTime() ||
-    parseDate(item?.last_seen_at)?.getTime() ||
     parseDate(item?.first_seen_at)?.getTime() ||
+    parseDate(item?.last_seen_at)?.getTime() ||
     0
   );
 }
