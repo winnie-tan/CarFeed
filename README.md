@@ -135,8 +135,20 @@ CarFeed/
 │       └── dedupe.js     # 去重辅助函数
 ├── preview.html          # 本地预览页面
 ├── package.json
+├── docs/
+│   └── Mockup.png         # 设计原型图
 └── README.md
 ```
+
+## 项目架构说明
+
+为了保持兼容现有网站入口，同时让项目更易于扩展，当前目录结构采用了“系统逻辑层 + 输入数据层 + 输出产物层”的分离：
+
+- `01-system/`：项目的业务脚本、运行逻辑、工具实现和配置示例。
+- `02-inputs/data/`：可复用的输入数据源，当前承载文章、翻译、状态等 JSON 文件。
+- `03-outputs/dist/`：静态构建产物输出目录，`build-static.js` 会同时生成到这里和原来的 `dist/`。
+- 根目录 `scripts/`：保留了与原来相同的命令入口，保证 `node scripts/*.js` 调用方式继续可用。
+- 根目录 `data/`：仍然保留旧路径访问方式，通过符号链接指向 `02-inputs/data/`，保证 `preview.html` 和现有脚本的兼容性。
 
 ## 数据文件说明
 
@@ -189,6 +201,19 @@ CarFeed/
 ```
 
 ## 本地使用方式
+
+### 前提条件
+
+- Node.js 20+。
+- 根目录中已执行 `npm install`。
+- 如果需要使用 DeepSeek 翻译，建议在根目录创建 `.env`，参考 `01-system/configs/env.example`：
+
+```bash
+cp 01-system/configs/env.example .env
+```
+
+- `.env` 是本地私有配置，不应提交到仓库；仓库已通过 `.gitignore` 忽略该文件。
+- `node_modules/` 也是本地依赖目录，已加入 `.gitignore`，请勿提交。
 
 ### 1. 安装依赖
 
@@ -408,6 +433,141 @@ node scripts/generate-deepseek-translations.js --limit 20 --force
 当前版本仍然是原型，存在这些明显限制：
 
 - 还不是实时刷新，依赖定时抓取任务（每日两次）
+
+## 完整操作手册
+
+### 1. 前提条件
+
+- 安装 Node.js 20+。
+- 执行 `npm install` 生成依赖。
+- 如果本地有 DeepSeek API Key，可在根目录创建 `.env` 或把环境变量写入系统环境。
+- `.env` 示例已放在 `01-system/configs/env.example`。
+
+### 2. 根目录兼容入口说明
+
+为了保持兼容现有调用方式，当前项目保留了：
+
+- `scripts/`：脚本入口文件，现在只是转发到 `01-system/tools/ops/`。
+- `data/`：旧路径兼容入口，实际是指向 `02-inputs/data/` 的符号链接。
+- `dist/`：旧构建输出入口，仍会由 `build-static.js` 生成。
+- `03-outputs/dist/`：新的架构输出目录，同步保存构建产物。
+
+### 3. 安装依赖
+
+```bash
+npm install
+```
+
+### 4. 运行抓取与更新数据
+
+```bash
+node scripts/fetch.js
+```
+
+该命令会：
+
+- 抓取各来源最新文章
+- 合并到 `data/archive.json`
+- 输出当前前端可读的 `data/articles.json`
+
+### 5. 运行 DeepSeek 翻译
+
+```bash
+npm run translate:deepseek
+```
+
+该命令会：
+
+- 读取 `data/articles.json`
+- 只翻译尚未完成的条目
+- 将结果写入 `data/translations-deepseek.json`
+
+如果需要限制条目数量：
+
+```bash
+node scripts/generate-deepseek-translations.js --limit 20
+```
+
+如果需要强制重跑已翻译条目：
+
+```bash
+node scripts/generate-deepseek-translations.js --limit 20 --force
+```
+
+### 6. 校验 DeepSeek 配置
+
+```bash
+node scripts/validate-deepseek-config.js
+```
+
+### 7. 构建静态站点
+
+```bash
+npm run build
+```
+
+该命令会生成：
+
+- `dist/`
+- `03-outputs/dist/`
+
+### 8. 本地预览
+
+```bash
+python3 -m http.server 4176 --bind 0.0.0.0
+```
+
+打开浏览器：
+
+```text
+http://127.0.0.1:4176/preview.html
+```
+
+如果浏览器依旧显示旧内容，请按：
+
+```bash
+Cmd+Shift+R
+```
+
+### 9. 清理与重置
+
+如果需要从头重新构建：
+
+```bash
+rm -rf dist 03-outputs/dist
+npm ci
+node scripts/fetch.js
+npm run translate:deepseek
+npm run build
+```
+
+## 当前文件状态与冗余说明
+
+### 正常保留的文件
+
+- `01-system/`：项目业务逻辑和工具实现。
+- `02-inputs/data/`：核心 JSON 数据源。
+- `03-outputs/dist/`：新静态构建输出目录。
+- `.github/`：GitHub Actions 工作流配置。
+- `preview.html`：本地页面入口。
+- `package.json` / `package-lock.json`：依赖与脚本声明。
+- `PROJECT_LOG.md`：项目迭代记录。
+- `19875c79ee287a8e639c152098f54323.txt`：构建时保留的验证文件。
+
+### 可以考虑移除或归档的“非架构文件”
+
+- `.DS_Store`：macOS 系统临时文件，不属于项目架构，建议删除并加入 `.gitignore`。
+- `Mockup.png`：设计/原型图，若不是日常开发必须，可以移到 `docs/` 或单独归档。
+- `node_modules/`：本地依赖目录，不应作为架构的一部分；仓库里应通过 `npm install` 重新生成。
+- `.env`：本地机密配置文件，应仅保留在本地，不应提交到仓库；使用 `01-system/configs/env.example` 作为模板。
+
+### 说明
+
+`data/` 当前不是冗余，而是兼容旧路径的符号链接，保留它是为了让现有脚本和 `preview.html` 继续正常运行。
+
+`dist/` 也是兼容旧发布入口的输出目录，当前 `build-static.js` 会同时生成到它和 `03-outputs/dist/`。
+
+如果你希望，我可以再帮你把 `Mockup.png` 和 `.DS_Store` 从项目里清理掉，并把 `node_modules/` 明确设为本地依赖层。
   - 需要手动运行 `node scripts/fetch.js` 进行本地测试
 - 分类仍然依赖规则匹配
   - `bike` 和 `custom` 目前已有内容，但数量还偏少

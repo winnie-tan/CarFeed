@@ -1,2 +1,6 @@
-dist/
+
+.DS_Store
 .env
+03-outputs/dist/
+dist/
+node_modules/
