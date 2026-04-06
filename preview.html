@@ -186,6 +186,8 @@
       height: auto;
       display: block;
       background: #eee;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
     }
 
     .content {
@@ -882,7 +884,7 @@
       const host = document.getElementById("modalGalleryHost");
       if (!host) return;
 
-      const images = activeGalleryImages.map((url) => withCacheBuster(url, article));
+      const images = activeGalleryImages;
       if (!images.length) {
         host.innerHTML = "";
         return;
@@ -1147,6 +1149,7 @@
       const view = getArticleView(article);
       const translated = freeTranslations[article.url] || {};
       const modal = document.getElementById("articleModal");
+      const modalPanel = modal.querySelector(".modal-panel");
       const content = document.getElementById("modalContent");
       const tags = [...view.entities, article.category === "ev" ? "新能源" : ""].filter(Boolean);
       activeGalleryImages = view.gallery_images || [];
@@ -1177,6 +1180,10 @@
       modal.classList.add("open");
       modal.setAttribute("aria-hidden", "false");
       document.body.style.overflow = "hidden";
+      
+      // 重置滚动位置到顶部
+      modalPanel.scrollTop = 0;
+      
       renderModalGallery(article);
       document.getElementById("modalShare").addEventListener("click", async () => {
         await shareArticle(article);
@@ -1325,7 +1332,7 @@
           data-article-index="${index}"
         >
           <div class="card">
-            ${article.image ? `<img class="cover" src="${escapeHtml(withCacheBuster(normalizeImageUrl(article.image), article))}" alt="${escapeHtml(view.title_display || "")}" loading="lazy">` : ""}
+            ${article.image ? `<img class="cover" src="${escapeHtml(normalizeImageUrl(article.image))}" alt="${escapeHtml(view.title_display || "")}" loading="lazy">` : ""}
             <div class="content">
               <div class="title">${escapeHtml(view.title_display || "")}</div>
               <div class="meta-row">
