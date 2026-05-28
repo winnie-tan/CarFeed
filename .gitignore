@@ -1,0 +1,8 @@
+
+.DS_Store
+.env
+03-outputs/dist/
+dist/
+node_modules/
+GIT_STATUS.md
+PROJECT_LOG.md

@@ -1,0 +1,156 @@
+{
+  "workflow": {
+    "generated_at": "2026-04-06T14:10:46.921Z",
+    "articles_in_feed": 400,
+    "deepseek_translated_before_run": 379,
+    "deepseek_untranslated_before_run": 21,
+    "newly_fetched_articles": 21,
+    "newly_fetched_untranslated": 21,
+    "backlog_untranslated": 102,
+    "translation_scope": "new_only",
+    "translation_queue_count": 21,
+    "translation_queue_preview": [
+      {
+        "source": "Motor1",
+        "time": "2026.4.6",
+        "title": "Mazda Will Keep Its Cheapest Cars Alive In Some Markets",
+        "url": "https://www.motor1.com/news/792154/mazda2-cx-3-next-generation-models-planned/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.4.6",
+        "title": "BMW Isn’t Giving Up on Manuals Just Yet: TDS",
+        "url": "https://www.thedrive.com/news/bmw-isnt-giving-up-on-manuals-just-yet-tds"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.6",
+        "title": "Mercedes Recalls Over 3,500 G-Class EVs Over Loose Wheel Bolts",
+        "url": "https://insideevs.com/news/792151/mercedes-g-class-ev-recall-wheel-bolts/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.6",
+        "title": "In Search Of Japan's Driving Soul, I Found It In A GR Yaris",
+        "url": "https://www.motor1.com/features/791004/toyota-gr-yaris-drive-japan-travel-video/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.6",
+        "title": "Tesla Snatches Back World’s Top EV Spot After BYD Sales Plummet 25%",
+        "url": "https://insideevs.com/news/792143/tesla-no1-ev-maker-q1-2026/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.6",
+        "title": "「デザインやばめ」メルセデスベンツの新型『GLS』、大型化したヘッドライトと「ベンツマーク」がSNSで話題に",
+        "url": "https://response.jp/article/2026/04/06/409701.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.6",
+        "title": "3列シートの新型テスラ『モデルY L』にSNS興奮！「運命感じてる」「3列シートの迫力すごい」など反響",
+        "url": "https://response.jp/article/2026/04/06/409693.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.6",
+        "title": "EVオワコン説はウソ!? 世界では普通に売れている現実!! 全長4.2m以下が大流行するかも??",
+        "url": "https://bestcarweb.jp/news/1483654"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.6",
+        "title": "アーチオンの株価が反落…朝方続急伸も利益確定売りに押される",
+        "url": "https://response.jp/article/2026/04/06/409690.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.6",
+        "title": "スカイラインもシルビアも最初はこうだった!? 空冷FFやロータリー搭載など尖りすぎた技術に迫る",
+        "url": "https://bestcarweb.jp/news/1482962"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.6",
+        "title": "スバルとインフィニオンがMCU開発で協業、その先にある『SUBARUデジタルカー』とは？",
+        "url": "https://response.jp/article/2026/04/06/409682.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.6",
+        "title": "ダイナミックマップの除雪支援システム「SRSS」、山形県で初稼働…西吾妻スカイバレーの春季除雪作業に導入",
+        "url": "https://response.jp/article/2026/04/06/409694.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.6",
+        "title": "ダンロップ、元F1ドライバー・コバライネンとイタリアラリー選手権に参戦",
+        "url": "https://response.jp/article/2026/04/06/409688.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.6",
+        "title": "トヨタのポイ活!? クルマの世界が激変する予感!! トヨタ新サービス戦略の全貌",
+        "url": "https://bestcarweb.jp/feature/column/1483178"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.4.6",
+        "title": "パジェロ初代・2代目など5台、三菱自動車が出展へ…オートモビルカウンシル2026",
+        "url": "https://response.jp/article/2026/04/06/409684.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.4.6",
+        "title": "もう座る時にコワくない!? バイク版サンシェード「MotoBrella」が新たな夏の救世主になるか!?",
+        "url": "https://bestcarweb.jp/news/car-accessory/1487751"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.6",
+        "title": "‘I’m Not Using My Membership To Its Full Potential’: Woman Runs Out Of Gas. So She Calls AAA To Fill Up Her Tank",
+        "url": "https://www.motor1.com/news/792108/woman-gets-aaa-fill-gas/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.6",
+        "title": "Polestar’s Largest EV Will Be Made Exclusively In The U.S.",
+        "url": "https://insideevs.com/news/792137/polestar-3-us-factory/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.4.6",
+        "title": "'We Have No Chance Against This': Honda Reacts To China's Supplier Strength",
+        "url": "https://www.motor1.com/news/792130/honda-reacts-china-supplier-strength/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.4.6",
+        "title": "This Tiny RV Is The Perfect Home Away From Home—On Your Home’s Driveway",
+        "url": "https://insideevs.com/news/792132/ari-458-pro-ev-tiny-rv-specs-price/"
+      }
+    ],
+    "event_name": "schedule",
+    "run_id": "24035133688",
+    "sha": "40c0b44a3a2155e9540d80f81cde9128a422885f",
+    "completed_at": "2026-04-06T14:12:08.408Z",
+    "fetch_outcome": "success",
+    "translate_outcome": "success",
+    "build_outcome": "success",
+    "deepseek_translated_after_run": 298,
+    "deepseek_untranslated_after_run": 102,
+    "result": "success"
+  },
+  "translation": {
+    "model": "deepseek-chat",
+    "targets_file": "/tmp/carfeed-translation-targets.json",
+    "scoped_articles": 21,
+    "queued_articles": 21,
+    "processed": 21,
+    "started_at": "2026-04-06T14:10:47.207Z",
+    "finished_at": "2026-04-06T14:12:08.162Z",
+    "success": true,
+    "error": ""
+  }
+}
