@@ -1,0 +1,1441 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CarFeed</title>
+  <meta name="description" content="CarFeed 聚合全球汽车、摩托与改装资讯，每天持续更新。" />
+  <meta property="og:title" content="CarFeed" />
+  <meta property="og:description" content="聚合全球汽车、摩托与改装资讯的信息流页面。" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="CarFeed" />
+  <style>
+    :root {
+      --page-bg: #f5f1e8;
+      --card-bg: #ffffff;
+      --text-main: #222222;
+      --text-muted: #6a655f;
+      --accent: #123263;
+      --accent-soft: rgba(18, 50, 99, 0.12);
+      --accent-line: rgba(18, 50, 99, 0.74);
+      --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--page-bg);
+      color: var(--text-main);
+      font-family: Arial, sans-serif;
+    }
+
+    button,
+    input {
+      font: inherit;
+    }
+
+    .page {
+      width: min(100%, 1440px);
+      margin: 0 auto;
+      padding: 0 16px 32px;
+    }
+
+    .sticky-shell {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: linear-gradient(to bottom, rgba(245, 241, 232, 0.98), rgba(245, 241, 232, 0.92));
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      padding-top: 20px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+
+    .chip,
+    .search-toggle {
+      appearance: none;
+      -webkit-appearance: none;
+      border: 0;
+      background: transparent;
+      color: var(--text-muted);
+      border-radius: 0;
+      padding: 10px 0 12px;
+      font-size: 16px;
+      line-height: 1;
+      cursor: pointer;
+      position: relative;
+      outline: none;
+      box-shadow: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .chip::after,
+    .search-toggle::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 3px;
+      border-radius: 999px;
+      background: transparent;
+      transition: background-color 0.18s ease;
+    }
+
+    .chip:hover,
+    .search-toggle:hover,
+    .chip:focus-visible,
+    .search-toggle:focus-visible {
+      color: var(--text-main);
+    }
+
+    .chip.active,
+    .search-toggle.active {
+      color: var(--text-main);
+      font-weight: 700;
+    }
+
+    .chip.active::after,
+    .search-toggle.active::after {
+      background: var(--accent-line);
+    }
+
+    .search-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 40px;
+      padding: 0;
+      flex-shrink: 0;
+    }
+
+    .search-toggle svg {
+      width: 20px;
+      height: 20px;
+      stroke: currentColor;
+      fill: none;
+      stroke-width: 2;
+    }
+
+    .search-panel {
+      display: none;
+      max-width: 360px;
+      margin: 0 0 14px auto;
+    }
+
+    .search-panel.open {
+      display: block;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 13px 14px;
+      border: 1px solid #d8d1c3;
+      border-radius: 14px;
+      font-size: 15px;
+      background: #fff;
+      outline: none;
+    }
+
+    .search-input:focus {
+      border-color: rgba(18, 50, 99, 0.45);
+      box-shadow: 0 0 0 3px var(--accent-soft);
+    }
+
+    .grid {
+      display: grid;
+      grid-auto-flow: row;
+      grid-auto-columns: minmax(0, 1fr);
+      grid-template-columns: repeat(4, 1fr);
+      gap: 18px;
+    }
+
+    .card-link {
+      color: inherit;
+      text-decoration: none;
+      display: inline-block;
+      width: 100%;
+      margin-bottom: 18px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .card img.cover {
+      width: 100%;
+      height: auto;
+      display: block;
+      background: #eee;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+    }
+
+    .content {
+      padding: 14px 14px 16px;
+    }
+
+    .title {
+      font-size: 15px;
+      font-weight: bold;
+      line-height: 1.35;
+      margin-bottom: 12px;
+      word-break: break-word;
+    }
+
+    .summary {
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .source {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+      flex: 1;
+    }
+
+    .source-mark {
+      width: 18px;
+      height: 18px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      border-radius: 5px;
+      overflow: hidden;
+      background: #ece6da;
+      color: #52493c;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .source img.logo {
+      width: 100%;
+      height: 18px;
+      display: block;
+      object-fit: contain;
+    }
+
+    .source-name {
+      font-size: 12px;
+      color: #666;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .right-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .date {
+      font-size: 12px;
+      color: #666;
+    }
+
+    .heart {
+      font-size: 16px;
+      line-height: 1;
+      color: #222;
+    }
+
+    .empty {
+      display: none;
+      text-align: center;
+      color: #666;
+      padding: 24px 12px;
+    }
+
+    .empty.show {
+      display: block;
+    }
+
+    .share-toast {
+      position: fixed;
+      left: 50%;
+      bottom: 28px;
+      transform: translateX(-50%) translateY(12px);
+      background: rgba(18, 22, 28, 0.92);
+      color: #fff;
+      padding: 10px 14px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.18s ease, transform 0.18s ease;
+      z-index: 20;
+    }
+
+    .share-toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    .feedback-fab {
+      position: fixed;
+      right: 18px;
+      bottom: 88px;
+      z-index: 18;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 14px;
+      border-radius: 999px;
+      background: rgba(18, 50, 99, 0.96);
+      color: #fff;
+      text-decoration: none;
+      box-shadow: 0 10px 24px rgba(18, 50, 99, 0.28);
+      transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+      max-width: min(320px, calc(100vw - 32px));
+    }
+
+    .feedback-fab:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 14px 28px rgba(18, 50, 99, 0.32);
+    }
+
+    .feedback-fab-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 38px;
+      height: 30px;
+      padding: 0 10px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.14);
+      flex-shrink: 0;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .feedback-fab-text {
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    .modal-shell {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background: rgba(11, 16, 22, 0.58);
+      z-index: 30;
+    }
+
+    .modal-shell.open {
+      display: flex;
+    }
+
+    .modal-panel {
+      width: min(760px, 100%);
+      max-height: min(88vh, 920px);
+      overflow: auto;
+      background: #fffdf8;
+      border-radius: 24px;
+      box-shadow: 0 28px 90px rgba(0, 0, 0, 0.24);
+      padding: 20px 20px 18px;
+    }
+
+    .modal-close {
+      appearance: none;
+      border: 0;
+      background: #efe7da;
+      color: #2a2a2a;
+      width: 34px;
+      height: 34px;
+      border-radius: 999px;
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 18px;
+    }
+
+    .modal-kicker {
+      font-size: 12px;
+      color: var(--accent);
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      margin: 12px 0 10px;
+    }
+
+    .modal-title {
+      font-size: 24px;
+      line-height: 1.28;
+      margin: 0 0 12px;
+    }
+
+    .modal-meta {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 14px;
+    }
+
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0 0 14px;
+    }
+
+    .tag {
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: rgba(18, 50, 99, 0.08);
+      color: var(--accent);
+      font-size: 12px;
+      line-height: 1;
+    }
+
+    .modal-lead,
+    .modal-body {
+      font-size: 14px;
+      line-height: 1.7;
+      color: #2d2c29;
+      margin: 0 0 14px;
+      white-space: pre-line;
+    }
+
+    .section-caption {
+      font-size: 12px;
+      letter-spacing: 0.05em;
+      color: #7a736c;
+      text-transform: uppercase;
+      margin: 18px 0 8px;
+    }
+
+    .bullet-list {
+      margin: 0;
+      padding-left: 18px;
+      color: #2d2c29;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    .origin-title {
+      font-size: 13px;
+      line-height: 1.6;
+      color: #6d675f;
+      margin: 0 0 16px;
+    }
+
+    .modal-gallery {
+      margin: 14px 0 18px;
+    }
+
+    .modal-gallery-single {
+      display: flex;
+      justify-content: center;
+      border-radius: 18px;
+      overflow: hidden;
+      background: #f3eee5;
+    }
+
+    .modal-gallery-single img {
+      display: block;
+      width: auto;
+      max-width: 100%;
+      height: auto;
+      max-height: min(62vh, 760px);
+      object-fit: contain;
+    }
+
+    .modal-gallery-split {
+      display: grid;
+      grid-template-columns: minmax(0, 3fr) minmax(108px, 1fr);
+      gap: 10px;
+      align-items: stretch;
+    }
+
+    .gallery-stage {
+      border-radius: 18px;
+      overflow: hidden;
+      background: #f3eee5;
+      min-height: 280px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .gallery-stage img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      max-height: min(62vh, 760px);
+      object-fit: contain;
+    }
+
+    .gallery-rail {
+      display: grid;
+      grid-template-rows: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .gallery-thumb {
+      appearance: none;
+      border: 0;
+      padding: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      background: #efe7da;
+      cursor: pointer;
+      min-height: 88px;
+      position: relative;
+      box-shadow: inset 0 0 0 1px rgba(18, 50, 99, 0.06);
+    }
+
+    .gallery-thumb.active {
+      box-shadow: inset 0 0 0 2px rgba(18, 50, 99, 0.85);
+    }
+
+    .gallery-thumb img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .modal-action {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 14px;
+      border-radius: 999px;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 700;
+      border: 0;
+      cursor: pointer;
+    }
+
+    .modal-action.primary {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .modal-action.secondary {
+      background: #efe7da;
+      color: #2d2c29;
+    }
+
+    @media (max-width: 1320px) {
+      .grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    @media (max-width: 980px) {
+      .grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .page {
+        padding: 0 12px 24px;
+      }
+
+      .sticky-shell {
+        padding-top: 16px;
+      }
+
+      .topbar {
+        align-items: center;
+      }
+
+      .toolbar {
+        gap: 14px;
+      }
+
+      .chip,
+      .search-toggle {
+        font-size: 13px;
+        padding: 6px 0 10px;
+      }
+
+      .search-toggle {
+        width: 22px;
+        height: 32px;
+      }
+
+      .search-toggle svg {
+        width: 16px;
+        height: 16px;
+      }
+
+      .search-panel {
+        max-width: none;
+      }
+
+      .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .card-link {
+        margin-bottom: 12px;
+      }
+
+      .content {
+        padding: 8px 8px 10px;
+      }
+
+      .title {
+        font-size: 12px;
+        line-height: 1.25;
+        margin-bottom: 8px;
+      }
+
+      .summary {
+        font-size: 11px;
+        line-height: 1.45;
+        margin-bottom: 8px;
+      }
+
+      .source img.logo {
+        height: 14px;
+      }
+
+      .source-mark {
+        width: 14px;
+        height: 14px;
+        border-radius: 4px;
+        font-size: 7px;
+      }
+
+      .source-name,
+      .date {
+        font-size: 10px;
+      }
+
+      .heart {
+        font-size: 13px;
+      }
+
+      .feedback-fab {
+        right: 12px;
+        bottom: 76px;
+        padding: 12px;
+      }
+
+      .feedback-fab-text {
+        display: none;
+      }
+
+      .modal-shell {
+        padding: 10px;
+        align-items: flex-end;
+      }
+
+      .modal-panel {
+        width: 100%;
+        max-height: 84vh;
+        border-radius: 22px 22px 0 0;
+        padding: 16px 16px 18px;
+      }
+
+      .modal-title {
+        font-size: 19px;
+      }
+
+      .modal-gallery-split {
+        grid-template-columns: 1fr;
+      }
+
+      .gallery-stage {
+        min-height: 240px;
+      }
+
+      .gallery-rail {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-template-rows: none;
+      }
+
+      .gallery-thumb {
+        min-height: 72px;
+      }
+
+      .modal-lead,
+      .modal-body,
+      .bullet-list {
+        font-size: 13px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <div class="sticky-shell">
+      <div class="topbar">
+        <div class="toolbar" id="filters"></div>
+        <button class="search-toggle" id="searchToggle" type="button" aria-label="搜索">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="6.5"></circle>
+            <path d="M16 16l5 5"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="search-panel" id="searchPanel">
+        <input class="search-input" id="searchInput" type="search" placeholder="搜索标题或来源" />
+      </div>
+    </div>
+    <div id="articles" class="grid"></div>
+    <div class="empty" id="emptyState">没有匹配的内容。</div>
+    <div class="share-toast" id="shareToast" role="status" aria-live="polite"></div>
+  </main>
+  <div class="modal-shell" id="articleModal" aria-hidden="true">
+    <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" id="modalClose" type="button" aria-label="关闭">×</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+  <a
+    class="feedback-fab"
+    id="feedbackFab"
+    href="#"
+    role="button"
+    aria-label="没有看到你感兴趣的信息？点我反馈"
+    title="没有看到你感兴趣的信息？点我反馈"
+  >
+    <span class="feedback-fab-badge">反馈</span>
+    <span class="feedback-fab-text">没有看到你感兴趣的信息？点我反馈</span>
+  </a>
+
+  <script>
+    const categoryConfig = [
+      { key: "all", label: "全部" },
+      { key: "car", label: "汽车" },
+      { key: "bike", label: "摩托" },
+      { key: "custom", label: "改装" },
+      { key: "ev", label: "新能源" }
+    ];
+
+    let allArticles = [];
+    let activeCategory = "all";
+    let searchText = "";
+    let shareToastTimer = null;
+    let longPressTimer = null;
+    let longPressTriggered = false;
+    const feedbackUrl = "";
+    let freeTranslations = {};
+    let activeGalleryImages = [];
+    let activeGalleryIndex = 0;
+    let deepseekTranslatedUrls = new Set();
+    const FREE_TRANSLATION_STORAGE_KEY = "carfeed-free-translations-v1";
+    let freeTranslationJobRunning = false;
+
+    function getSourceInitials(source) {
+      return String(source || "")
+        .replace(/[^a-z0-9]+/gi, " ")
+        .trim()
+        .split(/\s+/)
+        .filter(Boolean)
+        .slice(0, 2)
+        .map((part) => part[0])
+        .join("") || "?";
+    }
+
+    function formatDate(dateStr) {
+      if (!dateStr) return "";
+
+      if (/^\d{4}\.\d{1,2}\.\d{1,2}$/.test(dateStr)) {
+        const parts = dateStr.split(".");
+        return `${Number(parts[0])}.${Number(parts[1])}.${Number(parts[2])}`;
+      }
+
+      const date = new Date(dateStr);
+      if (Number.isNaN(date.getTime())) return dateStr;
+      return `${date.getFullYear()}.${date.getMonth() + 1}.${date.getDate()}`;
+    }
+
+    function parseDisplayDate(dateStr) {
+      if (!dateStr) return null;
+      const match = String(dateStr).match(/^(\d{4})\.(\d{1,2})\.(\d{1,2})$/);
+      if (!match) return null;
+
+      const [, year, month, day] = match;
+      const parsed = new Date(Date.UTC(Number(year), Number(month) - 1, Number(day), 12, 0, 0));
+      return Number.isNaN(parsed.getTime()) ? null : parsed;
+    }
+
+    function hasUsableImage(article) {
+      return Boolean(String(article?.image || "").trim());
+    }
+
+    function getArticleSortTime(article) {
+      return (
+        new Date(article.published_at || "").getTime() ||
+        parseDisplayDate(article.time)?.getTime() ||
+        new Date(article.first_seen_at || "").getTime() ||
+        new Date(article.last_seen_at || "").getTime() ||
+        0
+      );
+    }
+
+    function escapeHtml(value) {
+      return String(value || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    function normalizeImageUrl(url) {
+      if (!url) return "";
+      return String(url).replace(/-\d+x\d+(?=\.(jpg|jpeg|png|webp|avif)(\?|$))/i, "");
+    }
+
+    function withCacheBuster(url, article) {
+      if (!url) return "";
+
+      const cacheKey = article.last_seen_at || article.first_seen_at || Date.now();
+      try {
+        const parsed = new URL(url, window.location.href);
+        parsed.searchParams.set("cf_cache_bust", cacheKey);
+        return parsed.toString();
+      } catch {
+        const separator = url.includes("?") ? "&" : "?";
+        return `${url}${separator}cf_cache_bust=${encodeURIComponent(cacheKey)}`;
+      }
+    }
+
+    function uniqueUrls(items) {
+      return [...new Set(items.filter(Boolean))];
+    }
+
+    function imageIdentity(url) {
+      try {
+        const parsed = new URL(url, window.location.href);
+        const match = parsed.pathname.match(/(\d{5,})(?=\.(jpg|jpeg|png|webp|avif)$)/i);
+        return match ? match[1] : parsed.pathname;
+      } catch {
+        return String(url || "");
+      }
+    }
+
+    function getGalleryImages(article, translated) {
+      const translatedImages = Array.isArray(translated?.gallery_images) ? translated.gallery_images : [];
+      const rawImages = [
+        normalizeImageUrl(article.image),
+        ...translatedImages.map((item) => normalizeImageUrl(item))
+      ].filter((url) => url && !/ytimg\.com/i.test(url));
+
+      const seen = new Set();
+      return rawImages.filter((url) => {
+        const key = imageIdentity(url);
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      }).slice(0, 3);
+    }
+
+    function renderModalGallery(article) {
+      const host = document.getElementById("modalGalleryHost");
+      if (!host) return;
+
+      const images = activeGalleryImages;
+      if (!images.length) {
+        host.innerHTML = "";
+        return;
+      }
+
+      if (images.length === 1) {
+        host.innerHTML = `
+          <div class="section-caption">图片</div>
+          <div class="modal-gallery modal-gallery-single">
+            <img src="${escapeHtml(images[0])}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">
+          </div>
+        `;
+        return;
+      }
+
+      const safeIndex = Math.max(0, Math.min(activeGalleryIndex, images.length - 1));
+      activeGalleryIndex = safeIndex;
+      host.innerHTML = `
+        <div class="section-caption">图片</div>
+        <div class="modal-gallery modal-gallery-split">
+          <div class="gallery-stage">
+            <img id="galleryStageImage" src="${escapeHtml(images[safeIndex])}" alt="${escapeHtml(article.title_en || "")}" loading="lazy">
+          </div>
+          <div class="gallery-rail">
+            ${images.slice(0, 3).map((url, index) => `
+              <button class="gallery-thumb ${index === safeIndex ? "active" : ""}" type="button" data-gallery-index="${index}" aria-label="查看第 ${index + 1} 张图片">
+                <img src="${escapeHtml(url)}" alt="" loading="lazy">
+              </button>
+            `).join("")}
+          </div>
+        </div>
+      `;
+
+      host.querySelectorAll("[data-gallery-index]").forEach((button) => {
+        button.addEventListener("click", () => {
+          activeGalleryIndex = Number(button.dataset.galleryIndex) || 0;
+          renderModalGallery(article);
+        });
+      });
+    }
+
+    function getLogoHost(article) {
+      if (article.source_logo) {
+        try {
+          return new URL(article.source_logo, window.location.href).origin;
+        } catch {
+          return article.source_logo;
+        }
+      }
+
+      try {
+        return new URL(article.url, window.location.href).origin;
+      } catch {
+        return article.source || "";
+      }
+    }
+
+    function buildFallbackLogo(host) {
+      if (!host) return "";
+
+      try {
+        const parsed = new URL(host, window.location.href);
+        return `https://www.google.com/s2/favicons?sz=64&domain_url=${encodeURIComponent(parsed.origin)}`;
+      } catch {
+        return `https://www.google.com/s2/favicons?sz=64&domain=${encodeURIComponent(host)}`;
+      }
+    }
+
+    function getFilteredArticles() {
+      const keyword = searchText.trim().toLowerCase();
+
+      return allArticles.filter((article) => {
+        const articleCategory = article.category || "car";
+        const matchesCategory = activeCategory === "all" || articleCategory === activeCategory;
+        if (!matchesCategory) return false;
+
+        if (!keyword) return true;
+
+        const haystack = [
+          article.title_en,
+          article.source,
+          article.category
+        ].join(" ").toLowerCase();
+
+        return haystack.includes(keyword);
+      }).sort((a, b) => {
+        const imageDelta = Number(hasUsableImage(b)) - Number(hasUsableImage(a));
+        if (imageDelta !== 0) return imageDelta;
+
+        const timeDelta = getArticleSortTime(b) - getArticleSortTime(a);
+        if (timeDelta !== 0) return timeDelta;
+
+        return String(a.title_en || "").localeCompare(String(b.title_en || ""));
+      });
+    }
+
+    function renderLogo(article) {
+      const initials = getSourceInitials(article.source);
+      const fallbackLogo = buildFallbackLogo(getLogoHost(article));
+
+      if (article.source_logo) {
+        return `
+          <span class="source-mark" aria-hidden="true">
+            <img
+              class="logo"
+              src="${escapeHtml(article.source_logo)}"
+              data-fallback-logo="${escapeHtml(fallbackLogo)}"
+              data-initials="${escapeHtml(initials)}"
+              alt=""
+              loading="lazy"
+              onerror="window.handleLogoError(event)"
+            >
+          </span>
+        `;
+      }
+
+      return `<span class="source-mark" aria-hidden="true">${escapeHtml(initials)}</span>`;
+    }
+
+    function inferEntitiesFromTitle(title) {
+      const text = String(title || "");
+      const lower = text.toLowerCase();
+      const entities = [];
+      const brandMap = [
+        ["toyota", "丰田 | Toyota"],
+        ["lexus", "雷克萨斯 | Lexus"],
+        ["nissan", "日产 | Nissan"],
+        ["honda", "本田 | Honda"],
+        ["mazda", "马自达 | Mazda"],
+        ["subaru", "斯巴鲁 | Subaru"],
+        ["suzuki", "铃木 | Suzuki"],
+        ["yamaha", "雅马哈 | Yamaha"],
+        ["kawasaki", "川崎 | Kawasaki"],
+        ["harley", "哈雷戴维森 | Harley-Davidson"],
+        ["bmw", "宝马 | BMW"],
+        ["mercedes", "梅赛德斯-奔驰 | Mercedes-Benz"],
+        ["audi", "奥迪 | Audi"],
+        ["porsche", "保时捷 | Porsche"],
+        ["volkswagen", "大众 | Volkswagen"],
+        ["jeep", "Jeep | Jeep"],
+        ["tesla", "特斯拉 | Tesla"],
+        ["rivian", "Rivian | Rivian"],
+        ["kia", "起亚 | Kia"],
+        ["hyundai", "现代 | Hyundai"],
+        ["byd", "比亚迪 | BYD"],
+        ["vespa", "Vespa | Vespa"],
+        ["land rover", "路虎 | Land Rover"],
+        ["ferrari", "法拉利 | Ferrari"]
+      ];
+
+      brandMap.forEach(([keyword, label]) => {
+        if (lower.includes(keyword)) entities.push(label);
+      });
+
+      return [...new Set(entities)].slice(0, 6);
+    }
+
+    function loadFreeTranslationsFromStorage() {
+      try {
+        const raw = window.localStorage.getItem(FREE_TRANSLATION_STORAGE_KEY);
+        if (!raw) return {};
+        const parsed = JSON.parse(raw);
+        return parsed && typeof parsed === "object" ? parsed : {};
+      } catch {
+        return {};
+      }
+    }
+
+    function saveFreeTranslationsToStorage() {
+      try {
+        window.localStorage.setItem(FREE_TRANSLATION_STORAGE_KEY, JSON.stringify(freeTranslations));
+      } catch {}
+    }
+
+    async function translateFreeText(text) {
+      const response = await fetch(
+        "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=" +
+        encodeURIComponent(text)
+      );
+      const payload = await response.json();
+      return (payload?.[0] || []).map((part) => part?.[0] || "").join("");
+    }
+
+    async function hydrateFreeTranslations() {
+      if (freeTranslationJobRunning) return;
+      const pending = allArticles.filter((article) => {
+        const item = freeTranslations[article.url];
+        return !item?.title_zh;
+      });
+      if (!pending.length) return;
+
+      freeTranslationJobRunning = true;
+      showToast("正在生成免费翻译标题...");
+
+      let completed = 0;
+      const queue = [...pending];
+
+      async function worker() {
+        while (queue.length) {
+          const article = queue.shift();
+          if (!article) return;
+
+          try {
+            const titleZh = await translateFreeText(article.title_en || "");
+            freeTranslations[article.url] = {
+              ...(freeTranslations[article.url] || {}),
+              title_zh: titleZh || article.title_en || "",
+              summary_short: "",
+              summary_long: "",
+              entities: inferEntitiesFromTitle(article.title_en),
+              translation_source: "browser-google-free-title-only",
+              translated_at: new Date().toISOString()
+            };
+            completed += 1;
+
+            if (completed % 12 === 0) {
+              saveFreeTranslationsToStorage();
+              renderArticles();
+            }
+          } catch {
+            completed += 1;
+          }
+        }
+      }
+
+      await Promise.all(Array.from({ length: 4 }, () => worker()));
+      saveFreeTranslationsToStorage();
+      renderArticles();
+      freeTranslationJobRunning = false;
+      showToast("免费翻译标题已更新");
+    }
+
+    function getArticleView(article) {
+      const translated = freeTranslations[article.url];
+      return {
+        ...article,
+        title_display: translated?.title_zh || article.title_en || "",
+        summary_display: translated?.summary_short || "",
+        summary_long: translated?.summary_long || "",
+        highlights_zh: translated?.highlights_zh || [],
+        entities: translated?.entities || [],
+        gallery_images: getGalleryImages(article, translated),
+        title_original: article.title_en || ""
+      };
+    }
+
+    function getModalKicker(translated) {
+      const source = String(translated?.translation_source || "");
+      if (source.startsWith("deepseek:")) {
+        return "本地预览 · DeepSeek 中文预览";
+      }
+      if (source === "google-translate-free-web-title-only" || source === "browser-google-free-title-only") {
+        return "本地预览 · 免费标题翻译测试";
+      }
+      if (source === "google-translate-free-web") {
+        return "本地预览 · 免费翻译测试版";
+      }
+      return "本地预览 · 中文预览";
+    }
+
+    function openArticleModal(article) {
+      const view = getArticleView(article);
+      const translated = freeTranslations[article.url] || {};
+      const modal = document.getElementById("articleModal");
+      const modalPanel = modal.querySelector(".modal-panel");
+      const content = document.getElementById("modalContent");
+      const tags = [...view.entities, article.category === "ev" ? "新能源" : ""].filter(Boolean);
+      activeGalleryImages = view.gallery_images || [];
+      activeGalleryIndex = 0;
+
+      content.innerHTML = `
+        <div class="modal-kicker">${escapeHtml(getModalKicker(translated))}</div>
+        <h2 class="modal-title" id="modalTitle">${escapeHtml(view.title_display)}</h2>
+        <div class="modal-meta">${escapeHtml(article.source || "")} · ${escapeHtml(formatDate(article.time))} · ${escapeHtml(translated?.translation_source || "free-translation")}</div>
+        ${tags.length ? `<div class="tag-list">${tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>` : ""}
+        ${view.highlights_zh.length ? `
+          <div class="section-caption">要点</div>
+          <ul class="bullet-list">${view.highlights_zh.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+        ` : ""}
+        ${view.summary_long ? `
+          <div class="section-caption">概述</div>
+          <p class="modal-body">${escapeHtml(view.summary_long)}</p>
+        ` : `<p class="modal-body">中文增强内容还未生成。当前版本主要用于测试免费翻译的全量预览效果。</p>`}
+        <div id="modalGalleryHost"></div>
+        <div class="section-caption">原标题</div>
+        <p class="origin-title">${escapeHtml(view.title_original)}</p>
+        <div class="modal-actions">
+          <a class="modal-action primary" href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <button class="modal-action secondary" id="modalShare" type="button">复制链接</button>
+        </div>
+      `;
+
+      modal.classList.add("open");
+      modal.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+      
+      // 重置滚动位置到顶部
+      modalPanel.scrollTop = 0;
+      
+      renderModalGallery(article);
+      document.getElementById("modalShare").addEventListener("click", async () => {
+        await shareArticle(article);
+      });
+    }
+
+    function closeArticleModal() {
+      const modal = document.getElementById("articleModal");
+      modal.classList.remove("open");
+      modal.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    }
+
+    function renderFilters() {
+      const container = document.getElementById("filters");
+      container.innerHTML = categoryConfig.map((item) => `
+        <button
+          class="chip ${activeCategory === item.key ? "active" : ""}"
+          type="button"
+          data-category="${item.key}"
+        >
+          ${item.label}
+        </button>
+      `).join("");
+
+      container.querySelectorAll("[data-category]").forEach((button) => {
+        button.addEventListener("click", () => {
+          activeCategory = button.dataset.category;
+          renderFilters();
+          renderArticles();
+        });
+      });
+    }
+
+    function showToast(message) {
+      const toast = document.getElementById("shareToast");
+      toast.textContent = message;
+      toast.classList.add("show");
+      window.clearTimeout(shareToastTimer);
+      shareToastTimer = window.setTimeout(() => {
+        toast.classList.remove("show");
+      }, 2200);
+    }
+
+    async function copyToClipboard(text) {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(text);
+        return true;
+      }
+
+      const input = document.createElement("textarea");
+      input.value = text;
+      input.setAttribute("readonly", "");
+      input.style.position = "absolute";
+      input.style.left = "-9999px";
+      document.body.appendChild(input);
+      input.select();
+      const ok = document.execCommand("copy");
+      document.body.removeChild(input);
+      return ok;
+    }
+
+    async function shareArticle(article) {
+      const shareData = {
+        title: article.title_en || "CarFeed",
+        text: `${article.source || "CarFeed"} · ${article.title_en || ""}`.trim(),
+        url: article.url
+      };
+
+      if (navigator.share) {
+        try {
+          await navigator.share(shareData);
+          return;
+        } catch (error) {
+          if (error?.name === "AbortError") return;
+        }
+      }
+
+      try {
+        await copyToClipboard(article.url);
+        showToast("链接已复制，可直接发送到微信");
+      } catch {
+        showToast("当前环境不支持系统分享");
+      }
+    }
+
+    function clearLongPressTimer() {
+      if (!longPressTimer) return;
+      window.clearTimeout(longPressTimer);
+      longPressTimer = null;
+    }
+
+    function bindCardShareEvents(articles) {
+      const container = document.getElementById("articles");
+
+      container.querySelectorAll(".card-link").forEach((link) => {
+        const article = articles[Number(link.dataset.articleIndex)];
+
+        const start = () => {
+          longPressTriggered = false;
+          clearLongPressTimer();
+          longPressTimer = window.setTimeout(async () => {
+            longPressTriggered = true;
+            await shareArticle(article);
+          }, 550);
+        };
+
+        const cancel = () => {
+          clearLongPressTimer();
+        };
+
+        link.addEventListener("pointerdown", start);
+        link.addEventListener("pointerup", cancel);
+        link.addEventListener("pointerleave", cancel);
+        link.addEventListener("pointercancel", cancel);
+        link.addEventListener("contextmenu", async (event) => {
+          event.preventDefault();
+          clearLongPressTimer();
+          longPressTriggered = true;
+          await shareArticle(article);
+        });
+        link.addEventListener("click", (event) => {
+          event.preventDefault();
+          if (longPressTriggered) {
+            longPressTriggered = false;
+            return;
+          }
+          openArticleModal(article);
+        });
+      });
+    }
+
+    function renderArticles() {
+      const articles = getFilteredArticles();
+      const container = document.getElementById("articles");
+      const emptyState = document.getElementById("emptyState");
+
+      container.innerHTML = articles.map((article, index) => {
+        const view = getArticleView(article);
+        return `
+        <a
+          class="card-link"
+          href="${escapeHtml(article.url)}"
+          target="_blank"
+          rel="noopener noreferrer"
+          data-article-index="${index}"
+        >
+          <div class="card">
+            ${article.image ? `<img class="cover" src="${escapeHtml(normalizeImageUrl(article.image))}" alt="${escapeHtml(view.title_display || "")}" loading="lazy">` : ""}
+            <div class="content">
+              <div class="title">${escapeHtml(view.title_display || "")}</div>
+              <div class="meta-row">
+                <div class="source">
+                  ${renderLogo(article)}
+                  <div class="source-name">${escapeHtml(article.source || "")}</div>
+                </div>
+                <div class="right-meta">
+                  <div class="date">${escapeHtml(formatDate(article.time))}</div>
+                  <div class="heart">♡</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      `;
+      }).join("");
+
+      emptyState.classList.toggle("show", articles.length === 0);
+      bindCardShareEvents(articles);
+    }
+
+    async function loadArticles() {
+      const cacheBust = Date.now();
+      const [articlesResponse, deepseekTranslationsResponse, translationsResponse] = await Promise.all([
+        fetch("./data/articles.json?t=" + cacheBust),
+        fetch("./data/translations-deepseek.json?t=" + cacheBust).catch(() => null),
+        fetch("./data/translations-free.json?t=" + cacheBust).catch(() => null)
+      ]);
+      allArticles = await articlesResponse.json();
+      freeTranslations = loadFreeTranslationsFromStorage();
+      if (deepseekTranslationsResponse && deepseekTranslationsResponse.ok) {
+        const deepseekTranslations = await deepseekTranslationsResponse.json();
+        deepseekTranslatedUrls = new Set(Object.keys(deepseekTranslations));
+        freeTranslations = {
+          ...freeTranslations,
+          ...deepseekTranslations
+        };
+      }
+      if (translationsResponse && translationsResponse.ok) {
+        freeTranslations = {
+          ...await translationsResponse.json(),
+          ...freeTranslations
+        };
+        saveFreeTranslationsToStorage();
+      }
+      renderFilters();
+      renderArticles();
+      hydrateFreeTranslations().catch(() => {});
+    }
+
+    window.handleLogoError = (event) => {
+      const image = event.target;
+      const fallbackLogo = image.dataset.fallbackLogo;
+      const initials = image.dataset.initials || "?";
+
+      if (fallbackLogo && image.src !== fallbackLogo) {
+        image.src = fallbackLogo;
+        return;
+      }
+
+      image.parentElement.textContent = initials;
+    };
+
+    document.getElementById("searchToggle").addEventListener("click", () => {
+      const toggle = document.getElementById("searchToggle");
+      const panel = document.getElementById("searchPanel");
+      panel.classList.toggle("open");
+      toggle.classList.toggle("active", panel.classList.contains("open"));
+      if (panel.classList.contains("open")) {
+        document.getElementById("searchInput").focus();
+      }
+    });
+
+    document.getElementById("searchInput").addEventListener("input", (event) => {
+      searchText = event.target.value;
+      renderArticles();
+    });
+
+    document.getElementById("feedbackFab").addEventListener("click", (event) => {
+      if (feedbackUrl) return;
+      event.preventDefault();
+      showToast("反馈问卷链接待补充");
+    });
+
+    document.getElementById("modalClose").addEventListener("click", closeArticleModal);
+    document.getElementById("articleModal").addEventListener("click", (event) => {
+      if (event.target.id === "articleModal") {
+        closeArticleModal();
+      }
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        closeArticleModal();
+      }
+    });
+
+    loadArticles().catch((error) => {
+      document.getElementById("emptyState").textContent = `加载失败：${error.message}`;
+      document.getElementById("emptyState").classList.add("show");
+    });
+  </script>
+</body>
+</html>

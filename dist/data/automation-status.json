@@ -130,17 +130,7 @@
         "title": "【BYD シーライオン6】600km走ってわかった長距離クルーザーとしての素性と、浮かび上がった改善の余地",
         "url": "https://response.jp/article/2026/05/23/411697.html"
       }
-    ],
-    "event_name": "schedule",
-    "run_id": "26589843196",
-    "sha": "bf9379c72ee434832e97f4ce01798114f3a8c6d8",
-    "completed_at": "2026-05-28T17:18:21.730Z",
-    "fetch_outcome": "success",
-    "translate_outcome": "success",
-    "build_outcome": "success",
-    "deepseek_translated_after_run": 289,
-    "deepseek_untranslated_after_run": 0,
-    "result": "success"
+    ]
   },
   "translation": {
     "model": "deepseek-chat",
