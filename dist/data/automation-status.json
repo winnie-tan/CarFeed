@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-05-29T04:40:44.245Z",
-    "articles_in_feed": 322,
-    "deepseek_translated_before_run": 289,
-    "deepseek_untranslated_before_run": 33,
-    "newly_fetched_articles": 33,
-    "newly_fetched_untranslated": 33,
+    "generated_at": "2026-05-29T16:54:31.993Z",
+    "articles_in_feed": 351,
+    "deepseek_translated_before_run": 323,
+    "deepseek_untranslated_before_run": 28,
+    "newly_fetched_articles": 29,
+    "newly_fetched_untranslated": 28,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 33,
+    "translation_queue_count": 28,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.5.29",
-        "title": "［少数精鋭］の意味では全国2番目だと!? 神奈川県の「道の駅」公共交通アクセスを調査!!",
-        "url": "https://bestcarweb.jp/busmagazine/1522020"
+        "title": "The Dodge Viper Era Is Dead, Head of SRT Says",
+        "url": "https://www.thedrive.com/news/the-dodge-viper-era-is-dead-head-of-srt-says"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.29",
+        "title": "For No Particular Reason, These Are The Most Beautiful Ferraris Ever Made",
+        "url": "https://www.motor1.com/features/797220/most-beautiful-ferraris-ever/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.5.29",
+        "title": "Mitsubishi’s Getting Serious About Trucks in North America Again: TDS",
+        "url": "https://www.thedrive.com/news/mitsubishis-getting-serious-about-trucks-in-north-america-again-tds"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.5.29",
+        "title": "‘We Fought for the Right To Be Stressed’: Sitting Down With Cadillac F1 CEO Dan Towriss",
+        "url": "https://www.thedrive.com/news/cadillac-f1-ceo-dan-towriss-interview"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.29",
+        "title": "Ferrari's CEO Defends The Luce: 'There Is Strong Interest'",
+        "url": "https://www.motor1.com/news/797231/ferrari-ceo-defends-luce-electric-vehicle/"
       },
       {
         "source": "Response.jp",
         "time": "2026.5.29",
-        "title": "「元祖スポーツネイキッド」が刷新！ 新型ドゥカティ『モンスター』が6月21日発売 価格は169万円から",
-        "url": "https://response.jp/article/2026/05/29/411958.html"
+        "title": "『スーパーキャリイ』でCO2を回収、再利用へ…農家の課題に向き合うスズキらしい「マルチパスウェイ」の可能性…人とくるまのテクノロジー展2026",
+        "url": "https://response.jp/article/2026/05/29/411992.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.5.29",
-        "title": "＜新連載＞［低音を制する者はカーオーディオを制す］手軽さを重んじるなら「小型・薄型のパワードサブウーファー」が狙い目！",
-        "url": "https://response.jp/article/2026/05/29/411973.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "10年間無料って三菱さん太っ腹すぎない!? デリカミニに装備されたGoogleビルトインシステムが最高すぎた",
-        "url": "https://bestcarweb.jp/feature/column/1522331"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "2000万円の新型フラッグシップSUV、アウディ『Q9』をプレビュー！ 今夏登場予定",
-        "url": "https://response.jp/article/2026/05/29/411975.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "CX-60を酷評しマツダ嫌いといわれた国沢光宏氏が新型CX-5を大絶賛!! なぜ新型CX-5にできてCX-60にできなかったのか？",
-        "url": "https://bestcarweb.jp/news/entame/1531626"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "クラウンが100万円台から!? 中古で安く「2L並み低燃費」で“4.5L級”の加速なら結構アリでは!?!?",
-        "url": "https://bestcarweb.jp/feature/column/1512443"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "ジェイテクト、欧米自動車部品子会社7社を投資会社に譲渡…グローバル体制再構築",
-        "url": "https://response.jp/article/2026/05/29/411972.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "スカニア、重量トラックで世界初のV2G実証に成功…MCSで750kWの双方向充電を実現",
-        "url": "https://response.jp/article/2026/05/29/411966.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "スクーターで朝活！ ヤマハ『AEROX』が生んだバイク文化と「YZF-R」との意外な共通点とは",
-        "url": "https://response.jp/article/2026/05/29/411976.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "スズキが『ハスラー』改良新型出展、『eビターラ』の試乗も…ル・ボラン カーズミート2026横浜",
-        "url": "https://response.jp/article/2026/05/29/411971.html"
+        "title": "『ムーヴ』『タント』をスタイリッシュにローダウン！ ブリッツの車高調キット「DAMPER ZZ-R」シリーズがリニューアル",
+        "url": "https://response.jp/article/2026/05/29/412011.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.5.29",
-        "title": "ステップワゴン対ノア／ヴォクシー!! ファミリーミニバンで選ぶならどっちが幸せ？",
-        "url": "https://bestcarweb.jp/feature/column/1530164"
+        "title": "【新型デリカD:6確定か!?】三菱の新計画に「新型Minivan」出現!! 5年以内に唯一無二のSUVミニバン登場",
+        "url": "https://bestcarweb.jp/newcar/1534795"
       },
       {
         "source": "Best Car Web",
         "time": "2026.5.29",
-        "title": "セレナの中古価格はどう動く？ 2025年12月マイナーチェンジ後に狙うべき年式とグレード",
-        "url": "https://bestcarweb.jp/feature/column/1530566"
+        "title": "【速報】ラリージャパン初日 「母国凱旋」勝田貴元選手はSS1パンクに泣いて6位!! 2日目からの巻き返しに期待",
+        "url": "https://bestcarweb.jp/news/motorsport/1534794"
       },
       {
         "source": "Best Car Web",
         "time": "2026.5.29",
-        "title": "トヨタの“走り”はTRDが育てた!? レース直系パーツファン熱狂！ TRDが築いたトヨタ最強チューニング伝説",
-        "url": "https://bestcarweb.jp/feature/column/1511612"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "バスで温泉旅行へGO!! でも高速バスや観光バスだけがバス旅行ってわけではないんですよ!!",
-        "url": "https://bestcarweb.jp/busmagazine/1523169"
+        "title": "【速報】三菱パジェロ復活確定!! これ…パジェロジュニア、パジェロミニも揃って復活か!??",
+        "url": "https://bestcarweb.jp/news/business/1534145"
       },
       {
         "source": "Response.jp",
         "time": "2026.5.29",
-        "title": "フィジカルAI視点で欧米中日OEM・サプライヤー戦略を分析、注目企業は？…知財ランドスケープ 山内CEO［インタビュー］",
-        "url": "https://response.jp/article/2026/05/28/411900.html"
+        "title": "オートバックスセコハン市場、「ASM」にストアブランド刷新へ",
+        "url": "https://response.jp/article/2026/05/29/412003.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.5.29",
-        "title": "ブリヂストン、主要ESG指数に継続選定…ダウジョーンズ4年連続・MSCIレーティング「AAA」3年連続",
-        "url": "https://response.jp/article/2026/05/29/411962.html"
+        "title": "オールタイムレンタカー、新橋駅徒歩圏に新拠点開設…30代・40代利用拡大へ",
+        "url": "https://response.jp/article/2026/05/29/412006.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.5.29",
-        "title": "ボッシュと三菱商事の合弁会社、EVトラック向けバッテリー交換・充電サービスを中国で開始",
-        "url": "https://response.jp/article/2026/05/29/411980.html"
+        "title": "オラフを支える技術とは？ ディズニーのフィジカルAI…Humanoids Summit Tokyo 2026 講演",
+        "url": "https://response.jp/article/2026/05/29/412004.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.29",
+        "title": "ジェイテクト、ステア・バイ・ワイヤで自動車技術会賞…「技術開発賞」受賞",
+        "url": "https://response.jp/article/2026/05/29/411997.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.5.29",
-        "title": "ラリージャパン直前インタビュー「いつもより集中できているし、勝ちにいきます」と語る！ 勝田貴元選手に勝利の予感【PR】",
-        "url": "https://bestcarweb.jp/feature/tieup/1529520"
+        "title": "スターターにも空気入れにもなる!! 3in1車載ガジェットがバッテリー上がりも空気圧不足も解決!!",
+        "url": "https://bestcarweb.jp/news/1527347"
       },
       {
-        "source": "InsideEVs",
+        "source": "Best Car Web",
         "time": "2026.5.29",
-        "title": "GMC’s New Hummer X Mid-Size EV Truck Concept Has Stackable Screens",
-        "url": "https://insideevs.com/news/797175/gmc-hummer-x-suv-pickup-midsize-concept/"
+        "title": "ステップワゴンが前年比227.7%の大躍進!! いまファミリーに選ばれている理由",
+        "url": "https://bestcarweb.jp/feature/column/1530161"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.29",
+        "title": "スバル アウトバックの日本導入を熱望せずにはいられない!! マツダ CX-70の規格外の格好良さも羨ましいぞ！",
+        "url": "https://bestcarweb.jp/feature/column/1531455"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.29",
+        "title": "セレナのベストグレードは？ 家族で選ぶならe-POWER ハイウェイスターVが本命だ",
+        "url": "https://bestcarweb.jp/feature/column/1530576"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.29",
+        "title": "ティアフォーとKDDI、自動運転サービス社会実装で協業合意…1000台規模で導入めざす",
+        "url": "https://response.jp/article/2026/05/29/411999.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.29",
+        "title": "デンソー高棚製作所、小型自律搬送ロボ「カチャカプロ」を4ラインで導入…運搬作業をゼロに",
+        "url": "https://response.jp/article/2026/05/29/411993.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 33,
-    "queued_articles": 33,
-    "processed": 33,
-    "started_at": "2026-05-29T04:40:44.539Z",
-    "finished_at": "2026-05-29T04:41:45.778Z",
+    "scoped_articles": 28,
+    "queued_articles": 28,
+    "processed": 28,
+    "started_at": "2026-05-29T16:54:32.274Z",
+    "finished_at": "2026-05-29T16:55:35.681Z",
     "success": true,
     "error": ""
   }

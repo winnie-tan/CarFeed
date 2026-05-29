@@ -16137,5 +16137,668 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-05-29T04:41:45.774Z"
+  },
+  "https://www.thedrive.com/news/the-dodge-viper-era-is-dead-head-of-srt-says": {
+    "title_zh": "道奇蝰蛇时代终结，SRT 负责人确认不会复活",
+    "summary_short": "SRT 负责人 Tim Kuniskis 独家透露，道奇蝰蛇因无法满足新型弹射缓解法规而停产，且不会推出第六代车型。",
+    "summary_long": "SRT 负责人 Tim Kuniskis 在接受 The Drive 独家专访时确认，道奇蝰蛇（Dodge Viper）已正式终结，不会推出第六代车型。他指出，蝰蛇停产的真正原因并非排放法规或销量不佳，而是因为新型弹射缓解法规要求驾驶员座椅旁安装安全气囊，而蝰蛇的座舱设计无法满足这一要求，导致车辆必须停产。",
+    "highlights_zh": [
+      "蝰蛇因无法满足新型弹射缓解法规而停产",
+      "排放法规和销量并非停产主因",
+      "SRT 负责人确认不会推出第六代车型"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "蝰蛇 | Viper",
+      "SRT",
+      "Tim Kuniskis"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/DG017_008VP-e1780071883460.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/NASCAR-Truck-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:36.277Z"
+  },
+  "https://www.motor1.com/features/797220/most-beautiful-ferraris-ever/": {
+    "title_zh": "无特别理由，盘点史上最美法拉利",
+    "summary_short": "从 250 GT 到 Roma，盘点法拉利 79 年历史上 10 款最美量产车，致敬经典设计。",
+    "summary_long": "法拉利本周发布了首款电动车 Luce，其设计引发争议。在此背景下，回顾法拉利 79 年历史上 10 款最美量产车，包括 250 GT、550 Maranello 等。550 Maranello 以简洁比例和 V12 手动挡成为经典，银色车身甚至比红色更显优雅。",
+    "highlights_zh": [
+      "法拉利发布首款电动车 Luce",
+      "回顾 79 年历史中 10 款最美量产车",
+      "550 Maranello 以简洁比例和 V12 手…",
+      "银色车身比红色更显优雅"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "250 GT",
+      "550 Maranello",
+      "Roma",
+      "Luce"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OQ8o/s1/most-beautiful-ferraris.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:36.608Z"
+  },
+  "https://www.thedrive.com/news/mitsubishis-getting-serious-about-trucks-in-north-america-again-tds": {
+    "title_zh": "三菱在北美重拾皮卡雄心：TDS",
+    "summary_short": "三菱将借助日产平台在美推出中型皮卡，并可能复兴帕杰罗 SUV，重返北美市场。",
+    "summary_long": "三菱汽车宣布将在北美推出一款中型皮卡，该车基于日产 Frontier 平台打造，并有望在美生产，填补三菱在美无本土工厂的空白。同时，三菱计划在国际市场复活帕杰罗 SUV，但尚未决定是否将其引入美国。此举标志着三菱在北美商用车领域的战略回归。",
+    "highlights_zh": [
+      "三菱将推出基于日产 Frontier 的中型皮卡",
+      "新车有望在美生产",
+      "帕杰罗 SUV 计划复活"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "日产 | Nissan",
+      "Nissan Frontier",
+      "帕杰罗",
+      "北美"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/mitsubishi_raider_durocross-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/NASCAR-Truck-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:40.327Z"
+  },
+  "https://www.thedrive.com/news/cadillac-f1-ceo-dan-towriss-interview": {
+    "title_zh": "凯迪拉克 F1 CEO 丹·托里斯专访：我们为压力而战",
+    "summary_short": "凯迪拉克 F1 车队 CEO 丹·托里斯谈车队起步历程、文化建设和美国赛车运动影响力。",
+    "summary_long": "凯迪拉克 F1 车队在经历漫长且不公的争斗后终于进入 F1 赛场，目前已参加五场比赛。CEO 丹·托里斯分享了车队在印第安纳、北卡罗来纳和英格兰的运营情况，以及他如何从保险业跨界到赛车运动，并强调团队文化和赋权的重要性。托里斯认为，压力是成功的代价，他们为获得这种压力而战。",
+    "highlights_zh": [
+      "凯迪拉克 F1 已参加五场比赛",
+      "托里斯强调团队赋权文化",
+      "从保险业跨界赛车运动",
+      "压力是成功的代价"
+    ],
+    "entities": [
+      "凯迪拉克 | Cadillac",
+      "F1",
+      "丹·托里斯 | Dan Towriss",
+      "安德雷蒂全球",
+      "印地赛车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/GettyImages-2274057090.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/GettyImages-2217551651.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/GettyImages-1240806477.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:41.018Z"
+  },
+  "https://www.motor1.com/news/797231/ferrari-ceo-defends-luce-electric-vehicle/": {
+    "title_zh": "法拉利 CEO 为 Luce 辩护：市场兴趣浓厚",
+    "summary_short": "法拉利 CEO 贝内代托·维尼亚为电动车型 Luce 辩护，称已收到大量订单和银行转账，尽管该车设计引发争议。",
+    "summary_long": "法拉利 CEO 贝内代托·维尼亚为备受争议的电动车型 Luce 辩护，表示市场对该车兴趣浓厚，已收到包括新客户在内的订单和银行转账。Luce 自发布以来因设计遭到严厉批评，导致公司股价下跌，前董事长卢卡·迪·蒙特泽莫罗甚至公开表示该车可能“摧毁传奇”。但维尼亚强调，Luce 在内外饰和性能上与其他电动车截然不同，法拉利对其充满信心。",
+    "highlights_zh": [
+      "法拉利 CEO 称 Luce 订单强劲",
+      "Luce 设计引发争议",
+      "前董事长批评 Luce 可能“摧毁传奇”",
+      "维尼亚强调 Luce 独一无二"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "贝内代托·维尼亚",
+      "卢卡·迪·蒙特泽莫罗"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJX70/s1/ferrari-luce-ev.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:45.124Z"
+  },
+  "https://response.jp/article/2026/05/29/411992.html": {
+    "title_zh": "铃木 Super Carry 搭载 CO2 回收装置，助力农业碳负排放",
+    "summary_short": "铃木在 2026 人车技术展上展示搭载 CO2 回收装置的 Super Carry，将回收的 CO2 用于促进农作物生长，实现碳负排放。",
+    "summary_long": "铃木在“人とくるまのテクノロジー展 2026”上展示了搭载 CO2 回收装置的轻卡车“Super Carry”，名为“CARBON CAPTURE CARRY”。该车通过安装在驾驶室后部和货台下的吸湿材料、吸附材料、冷却回路及气液分离装置，从发动机排放的废气中高效回收 CO2。回收的 CO2 可用于温室农业促进作物生长，替代传统的煤油燃烧方式，减少煤油使用量。车辆使用碳中和燃料（CNF），旨在实现“碳负排放”。该系统通过三通阀切换路径，引入高温气体有效去除废气中的水分，再利用吸附材料分离 CO2 和氮气，实现低成本、高效率的 CO2 回收。",
+    "highlights_zh": [
+      "Super Carry 搭载 CO2 回收装置",
+      "回收 CO2 用于农业促进作物生长",
+      "使用碳中和燃料实现碳负排放",
+      "高效低成本回收系统"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "スーパーキャリイ",
+      "CO2 回收",
+      "碳负排放",
+      "碳中和燃料"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214195.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214195.jpg",
+      "https://response.jp/imgs/fill2/2214189.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:46.913Z"
+  },
+  "https://response.jp/article/2026/05/29/412011.html": {
+    "title_zh": "Blitz DAMPER ZZ-R 系列更新，适配 Daihatsu Move、Tanto 等车型",
+    "summary_short": "Blitz 更新 DAMPER ZZ-R 系列避震，适配 Daihatsu Move、Tanto 等 8 款车型，提升舒适性与操控性。",
+    "summary_long": "Blitz 对其 DAMPER ZZ-R 及 DAMPER ZZ-R SpecDSC Plus 系列避震进行更新，新增适配 Daihatsu Move、Tanto、Subaru Stella 等 8 款车型。该系列采用单筒式结构，配备 44mm 大直径活塞，提供 32 段阻尼可调，兼顾街道与赛道需求。针对 Move/Tanto 车型，重新设定行程、阻尼与弹簧刚度，优化缓冲行程平衡，提升乘坐舒适性。产品附带前短稳定杆连杆，售价 202,400 日元。",
+    "highlights_zh": [
+      "适配 8 款车型",
+      "单筒式结构",
+      "针对 Move/Tanto 重新调校",
+      "售价 202"
+    ],
+    "entities": [
+      "Blitz",
+      "大发",
+      "ムーヴ",
+      "タント",
+      "斯巴鲁"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2213423.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2213423.jpg",
+      "https://response.jp/imgs/fill2/2213425.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:49.984Z"
+  },
+  "https://bestcarweb.jp/newcar/1534795": {
+    "title_zh": "三菱新计划曝光：全新 Minivan 或为下一代 Delica D:6",
+    "summary_short": "三菱新中期计划中惊现“Minivan”剪影，预计 5 年内推出独一无二的 SUV 风格 MPV，或为全新 Delica D:6。",
+    "summary_long": "三菱汽车于 2026 年 5 月 29 日发布新中期经营计划，在 2026-2031 年度新车投放资料中，赫然出现“Minivan”剪影。据推测，这很可能就是新一代 Delica D:6。该车型将延续 Delica 系列的 SUV+MPV 跨界风格，成为市场独一无二的存在。同时，计划中还提及 Pajero 系列复活等重磅信息。",
+    "highlights_zh": [
+      "三菱新计划中出现“Minivan”剪影",
+      "或为新一代 Delica D:6",
+      "定位 SUV 风格 MPV",
+      "预计 5 年内推出"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Delica D:6",
+      "Minivan",
+      "SUV",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29185943/DELICA-D5_017.jpg?v=1780048784",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29185943/DELICA-D5_017-600x400.jpg?v=1780048784",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29133747/PXL_20260529_041831546-600x338.jpg?v=1780029468"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:51.344Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1534794": {
+    "title_zh": "拉力赛日本站首日：胜田贵元爆胎仅列第六",
+    "summary_short": "拉力赛日本站首日，丰田包揽前三，胜田贵元因 SS1 爆胎暂列第六，期待次日反攻。",
+    "summary_long": "拉力赛日本站首日进行了 6 个赛段，丰田车队表现出色，埃文斯、索尔伯格、奥吉尔包揽前三。本土车手胜田贵元在 SS1 因右后轮掉入排水沟导致爆胎，被迫更换硬胎损失时间，最终以落后头名 1 分 3 秒 8 的成绩位列第六。胜田表示赛道条件复杂，信息有误，但会调整心态在剩余两天中全力反扑。",
+    "highlights_zh": [
+      "丰田包揽前三：埃文斯、索尔伯格、奥吉尔",
+      "胜田贵元 SS1 爆胎",
+      "赛道条件多变",
+      "剩余两天期待卷土重来"
+    ],
+    "entities": [
+      "拉力赛日本站 | Rally Japan",
+      "胜田贵元",
+      "丰田 | Toyota",
+      "埃文斯",
+      "索尔伯格"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29190138/KATSUTA07JPN26mr204.jpg?v=1780048899",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29190138/KATSUTA07JPN26mr204-600x397.jpg?v=1780048899",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29003552/75c140d3601436d9bf49d9f8aa3af58a-4-600x338.jpg?v=1779982553"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:54.194Z"
+  },
+  "https://bestcarweb.jp/news/business/1534145": {
+    "title_zh": "三菱帕杰罗确认复活！帕杰罗 Junior、帕杰罗 Mini 也将回归？",
+    "summary_short": "三菱正式宣布全新帕杰罗将于 2026 年秋季全球首发，并暗示帕杰罗系列车型可能一同复活。",
+    "summary_long": "三菱汽车于 2026 年 5 月 29 日在东京田町总部发布新中期经营愿景，同时明确宣布全新跨界 SUV“帕杰罗”将于 2026 年秋季全球首发。这是帕杰罗时隔 7 年重返市场。根据官方新闻稿，全新帕杰罗将继承 1982 年初代车型的越野性能与乘用车舒适性融合的理念，并延续达喀尔拉力赛 12 次夺冠的传奇血统。值得注意的是，三菱在新中期愿景中提及帕杰罗将以“系列”形式推出，暗示帕杰罗 Junior、帕杰罗 Mini 等衍生车型也可能同步复活。",
+    "highlights_zh": [
+      "三菱正式宣布帕杰罗 2026 年秋季全球首发",
+      "帕杰罗系列车型可能集体复活",
+      "继承越野与舒适融合的经典理念",
+      "达喀尔拉力赛 12 冠传奇血统延续"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "帕杰罗 Junior",
+      "帕杰罗 Mini",
+      "达喀尔拉力赛"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29133747/PXL_20260529_041831546.jpg?v=1780029468",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29133747/PXL_20260529_041831546-600x338.jpg?v=1780029468",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/22184437/260521_0515-scaled-1-600x400.jpg?v=1779443078"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:56.316Z"
+  },
+  "https://response.jp/article/2026/05/29/412003.html": {
+    "title_zh": "Autobacs 二手市场更名为 ASM",
+    "summary_short": "Autobacs 二手市场更名为 ASM，统一品牌形象，强化线上线下二手汽车用品交易。",
+    "summary_long": "Autobacs Seven 于 5 月 29 日宣布，将旗下二手汽车用品专卖店“Autobacs 二手市场”的品牌更名为“ASM”（Autobacs Second-hand Market 的缩写）。新品牌标识将逐步应用于网站和店铺招牌。该公司自 2000 年起开展二手汽车用品买卖业务，目前在全国拥有 21 家加盟店。2025 年起，已在所有 Autobacs 和 Super Autobacs 门店推出二手用品收购服务，并开通线上收购申请。销售方面，除门店外，还通过官方电商、雅虎拍卖和 Mercari 等渠道加强销售。",
+    "highlights_zh": [
+      "品牌更名为 ASM",
+      "全国 21 家门店",
+      "线上收购服务已开通",
+      "多渠道销售强化"
+    ],
+    "entities": [
+      "オートバックスセブン",
+      "ASM",
+      "Autobacs 二手市场 | オートバックスセコハン市場",
+      "スーパーオートバックス"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214228.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214228.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:54:58.419Z"
+  },
+  "https://response.jp/article/2026/05/29/412006.html": {
+    "title_zh": "All Time 租车新桥站步行圈内开设新据点，扩大 30-40 代用户群",
+    "summary_short": "All Time 租车在东京港区新桥站附近开设新据点，旨在扩大 30-40 代用户群，提供 24 小时无人租车服务。",
+    "summary_long": "Value Top 公司于 5 月 27 日在东京都港区开设了汽车共享型低成本租车服务“All Time 租车”的新据点“Adenium 新桥站”。该据点位于 JR 新桥站 A1 出口步行 6 分钟处，是继汐留塔站之后在该区域的第二个据点。All Time 租车结合了汽车共享的便利性和租车的低价费率，用户可通过智能手机应用完成搜索、预约、取还车，实现 24 小时无人服务。公司此前以 20 多岁年轻用户为核心，未来计划通过扩展商务区等多样化区域的网点，吸引 30-40 多岁用户群体。服务还采用了由 iid 和 Gigowatts 共同开发的虚拟钥匙智能锁系统，支持无人租车。",
+    "highlights_zh": [
+      "新据点位于新桥站步行 6 分钟",
+      "24 小时无人租车",
+      "目标扩大 30-40 代用户",
+      "采用虚拟钥匙智能锁技术"
+    ],
+    "entities": [
+      "All Time 租车",
+      "バリュートープ",
+      "Adenium 新桥站",
+      "汐留塔站",
+      "虚拟钥匙"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214245.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214245.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:01.720Z"
+  },
+  "https://response.jp/article/2026/05/29/412004.html": {
+    "title_zh": "迪士尼物理 AI：让《冰雪奇缘》雪宝“活”在现实世界",
+    "summary_short": "迪士尼研究所在东京人形机器人峰会上揭秘，如何通过物理 AI 让《冰雪奇缘》雪宝等角色在主题公园中“活”起来。",
+    "summary_long": "在 2026 年 5 月 28 日举行的“Humanoids Summit Tokyo 2026”上，迪士尼研究所的 Moritz Baecher 介绍了支撑主题公园机器人角色的技术基础。迪士尼的目标不是开发工业机器人或劳动力型人形机器人，而是将电影和动画角色作为“活着的存在”在现实世界中呈现。为此，他们利用通用机器人平台、强化学习、Sim-to-Real 技术以及自研模拟器，致力于“将角色带入现实”。代表角色包括《星球大战》中的 BDX 机器人以及《冰雪奇缘》中的雪宝。这些角色并非简单的自主机器人，而是能与游客互动、创造故事体验的“活角色”。迪士尼强调，重要的是让游客感觉角色真实存在，而非展示机械性能。此外，BDX 机器人从电影走向主题公园，又在公园中衍生出新角色并反哺影视作品，实现了电影与现实的往返。迪士尼研究所的目标是在数月内实现新角色的部署，为此他们将执行器、传感器、电池、控制板以及基于 NVIDIA Jetson 的计算平台等模块化，供不同角色复用，从而缩短开发周期。",
+    "highlights_zh": [
+      "迪士尼目标：让角色“活”在现实世界",
+      "雪宝等角色通过物理 AI 与游客互动",
+      "通用模块化平台加速新角色部署",
+      "角色在电影与主题公园间往返"
+    ],
+    "entities": [
+      "迪士尼",
+      "雪宝",
+      "BDX 机器人",
+      "人形机器人峰会 | Humanoids Summit Tokyo 2026",
+      "NVIDIA Jetson"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214303.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214295.jpg",
+      "https://response.jp/imgs/zoom1/2214304.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:03.932Z"
+  },
+  "https://response.jp/article/2026/05/29/411997.html": {
+    "title_zh": "捷太格特线控转向系统获日本汽车技术会技术开发奖",
+    "summary_short": "捷太格特凭借与丰田、电装联合开发的线控转向系统，荣获日本汽车技术会技术开发奖。",
+    "summary_long": "捷太格特（JTEKT）宣布，其与丰田汽车和电装（DENSO）共同开发的线控转向系统（Steer-by-Wire）荣获第 76 届日本汽车技术会技术开发奖。该系统针对先进驾驶辅助系统（ADAS）和自动驾驶实用化，在安全性、舒适性和转向性能方面获得高度评价。",
+    "highlights_zh": [
+      "捷太格特获汽车技术会技术开发奖",
+      "线控转向系统与丰田、电装联合开发",
+      "旨在支持 ADAS 和自动驾驶实用化",
+      "强调安全、舒适与转向性能"
+    ],
+    "entities": [
+      "捷太格特",
+      "丰田 | Toyota",
+      "电装",
+      "线控转向系统",
+      "汽车技术会奖"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214218.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214218.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:04.878Z"
+  },
+  "https://bestcarweb.jp/news/1527347": {
+    "title_zh": "3 合 1 车载神器：启动器、充气泵、充电宝一体",
+    "summary_short": "Bora Plus 集应急启动、电动充气、移动电源于一体，解决电池亏电、胎压不足、手机没电三大痛点。",
+    "summary_long": "株式会社 LeaguE 在 Makuake 上推出 3 合 1 车载设备 Bora Plus，集应急启动电源、电动充气泵和移动电源于一体。该产品针对车辆电池亏电、轮胎气压不足以及手机充电中断等常见问题，提供一站式解决方案。其紧凑设计便于收纳，适合短途通勤或长期停放车辆的用户。",
+    "highlights_zh": [
+      "3 合 1 设计：应急启动、充气、充电",
+      "解决电池亏电、胎压不足、手机没电",
+      "紧凑便携",
+      "Makuake 众筹中"
+    ],
+    "entities": [
+      "Bora Plus",
+      "株式会社 LeaguE",
+      "Makuake"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23001230/0aaf2dec34d75c75f3769ac81afbdb02.jpg?v=1779462751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23001230/0aaf2dec34d75c75f3769ac81afbdb02-600x338.jpg?v=1779462751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29173051/9961f10c1da70687489011889eb8d711-600x400.jpg?v=1780043453"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:07.766Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530161": {
+    "title_zh": "本田 Stepwgn 销量同比暴增 227.7%，为何成为家庭首选？",
+    "summary_short": "本田 Stepwgn 在 2026 年 4 月销量同比暴增 227.7%，凭借清晰的双风格定位和新增的 Air EX 高性价比版本，成为家庭 MPV 市场热门选择。",
+    "summary_long": "2026 年 4 月日本新车销量排行榜中，本田 Stepwgn 以 6575 辆的成绩实现同比 227.7%的惊人增长，在 Noah、Voxy、Serena 等竞品林立的 MPV 市场中脱颖而出。其成功关键在于提供了风格鲜明的双版本：Air 系列设计简洁清爽，适合追求实用感的家庭；SPADA 系列则更具存在感，满足对高级感的追求。2025 年 5 月新增的 Air EX 版本更是精准填补了用户需求——既喜欢 Air 的简约外观，又希望拥有丰富配置。该版本配备了真皮方向盘、前排座椅加热、第二排脚托、全座 USB 充电口、三区自动空调和电动尾门等实用功能，价格仅比 Air 贵约 20 万日元，性价比突出，成为家庭用户的首选。",
+    "highlights_zh": [
+      "2026 年 4 月销量 6575 辆",
+      "双风格设计：Air 简洁",
+      "新增 Air EX 版本",
+      "三区空调、电动尾门等家庭实用配置"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ステップワゴン",
+      "ノア",
+      "ヴォクシー",
+      "セレナ"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27173517/s-_DSC2727.jpg?v=1779870918",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27173517/s-_DSC2727-600x399.jpg?v=1779870918",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27161015/s-_DSC7910-1-600x400.jpg?v=1779865817"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:10.301Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531455": {
+    "title_zh": "斯巴鲁傲虎日本引入呼声高涨，马自达 CX-70 魅力难挡",
+    "summary_short": "斯巴鲁与马自达北美车型魅力十足，但暂无日本引入计划，引发车迷热切期待。",
+    "summary_long": "为应对特朗普关税，丰田、日产、本田等车企选择从北美工厂进口车辆，但斯巴鲁和马自达目前尚无引入北美生产车型的计划。然而，两家品牌在北美市场均拥有极具吸引力的车型：斯巴鲁推出了全新 BEV 三排座中型 SUV（基于丰田 Highlander BEV），提供 77.0kWh 和 95.8kWh 两种电池，后者续航约 483 公里，系统最大功率 420 马力；马自达 CX-70 则以独特的设计风格备受瞩目。日本消费者对这两款车型的引入呼声高涨。",
+    "highlights_zh": [
+      "斯巴鲁全新 BEV SUV 续航达 483 公里",
+      "马自达 CX-70 设计出众引羡慕",
+      "日系车企应对关税策略分化",
+      "日本市场期待北美车型引入"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "马自达 | Mazda",
+      "CX-70",
+      "傲虎",
+      "BEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26202309/00_usa_subaru_head.jpg?v=1779794590",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26202309/00_usa_subaru_head-600x399.jpg?v=1779794590",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27161015/s-_DSC7910-1-600x400.jpg?v=1779865817"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:12.843Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530576": {
+    "title_zh": "日产 Serena 最佳配置：家庭首选 e-POWER Highway Star V",
+    "summary_short": "日产 Serena 配置丰富，家庭长期使用推荐 e-POWER Highway Star V，兼顾便利性与舒适性。",
+    "summary_long": "日产 Serena 配置丰富，包括汽油、e-POWER、e-4ORCE 等版本。入门级汽油 X 售价 278.52 万日元，e-POWER X 为 329.34 万日元，性价比高。但家庭长期使用需考虑便利配置：Highway Star V 标配双侧一键滑动门，而 X 系仅副驾侧需选装；X 系双区自动空调和后暖风管道为选装，影响后排舒适性；驾驶辅助与驻车辅助功能在不同配置中也有差异。综合来看，e-POWER Highway Star V 是家庭最佳选择。",
+    "highlights_zh": [
+      "入门汽油 X 约 278 万日元",
+      "Highway Star V 标配双侧一键滑动门",
+      "X 系空调与后暖风为选装",
+      "驾驶辅助与驻车辅助功能因配置而异"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "セレナ",
+      "e-POWER",
+      "Highway Star V"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27161015/s-_DSC7910-1.jpg?v=1779865817",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27161015/s-_DSC7910-1-600x400.jpg?v=1779865817",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26202309/00_usa_subaru_head-600x399.jpg?v=1779794590"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:14.851Z"
+  },
+  "https://response.jp/article/2026/05/29/411999.html": {
+    "title_zh": "Tier IV 与 KDDI 合作推进自动驾驶服务社会实施，目标引入 1000 台",
+    "summary_short": "Tier IV 与 KDDI 达成合作，目标引入 1000 台自动驾驶车辆，并联合 KDDI Smart Mobility 推进社会实施。",
+    "summary_long": "Tier IV 与 KDDI 于 5 月 29 日宣布签署合作协议，共同推进自动驾驶服务的社会实施。自 2026 年 7 月 1 日起，KDDI Smart Mobility 也将加入三方合作。三方将整合 Tier IV 的自动驾驶系统、KDDI 的通信基础设施和基础设施运营能力，以及 KDDI Smart Mobility 从行驶规划、车辆采购到远程监控和运营管理的一体化实施支持能力，目标实现 1000 台规模的自动驾驶车辆导入。",
+    "highlights_zh": [
+      "Tier IV 与 KDDI 签署合作协议",
+      "目标引入 1000 台自动驾驶车辆",
+      "KDDI Smart Mobility 将加入三方合…",
+      "整合自动驾驶系统与通信基础设施"
+    ],
+    "entities": [
+      "ティアフォー",
+      "KDDI",
+      "KDDIスマートモビリティ",
+      "自动驾驶"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214219.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214219.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:16.552Z"
+  },
+  "https://response.jp/article/2026/05/29/411993.html": {
+    "title_zh": "电装高棚工厂引入小型自主搬运机器人“Kachaka Pro”，实现零搬运作业",
+    "summary_short": "电装高棚工厂引入 Preferred Robotics 的小型自主搬运机器人 Kachaka Pro，覆盖 4 条生产线，实现搬运作业零化。",
+    "summary_long": "Preferred Robotics 宣布，电装（Denso）位于爱知县刈谷市的高棚工厂已在其 4 条生产线上引入小型自主搬运机器人“Kachaka Pro”。该工厂主要生产汽车车速表等车载部件，面临多品种小批量生产带来的部件繁多、需高效配送的挑战，尤其是成品搬运重量大，给作业人员带来沉重负担。Kachaka Pro 负责将成品运送到指定存放区（去程），并回收下一生产所需的包装箱供应给生产线（返程），从而彻底消除搬运作业。",
+    "highlights_zh": [
+      "引入 4 条生产线",
+      "实现搬运作业零化",
+      "去程运成品",
+      "解决多品种小批量生产痛点"
+    ],
+    "entities": [
+      "电装",
+      "高棚工厂",
+      "Kachaka Pro",
+      "Preferred Robotics",
+      "自主搬运机器人"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214210.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214210.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:18.639Z"
+  },
+  "https://response.jp/article/2026/05/29/411995.html": {
+    "title_zh": "丰田卡罗拉埼玉与北本市签订灾害时车辆提供协议",
+    "summary_short": "丰田卡罗拉埼玉与北本市签订协议，承诺在灾害时提供车辆作为电源和避难空间。",
+    "summary_long": "丰田卡罗拉埼玉（TCS）宣布与埼玉县北本市签订《灾害时车辆等提供相关协议》。根据协议，TCS 应北本市请求，将在停电时提供车辆作为电力供应源，并作为受灾者临时避难和休息空间。TCS 此前已与上尾市、羽生市、春日部市签订类似协议，此次合作进一步扩大了埼玉县内的防灾网络。",
+    "highlights_zh": [
+      "丰田卡罗拉埼玉与北本市签订灾害协议",
+      "车辆用于停电时供电和避难空间",
+      "埼玉县内防灾网络进一步扩大"
+    ],
+    "entities": [
+      "丰田卡罗拉埼玉 | Toyota Corolla Saitama",
+      "北本市",
+      "埼玉县",
+      "灾害协议"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214214.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214214.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:19.732Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1534210": {
+    "title_zh": "SWANS 推出驾驶专用太阳镜，特殊镜片让信号灯更醒目",
+    "summary_short": "日本老牌 SWANS 推出驾驶专用太阳镜，采用特殊镜片增强红黄色信号灯可见度，2025 年夏季一度售罄。",
+    "summary_long": "日本知名运动眼镜品牌 SWANS 推出了一款驾驶专用太阳镜，搭载名为“ULTRA LENS for DRIVING”的特殊镜片，由赛车手山野哲也监制，历经约十年研发。该镜片能增强信号灯、刹车灯、转向灯等红黄色光的辨识度，帮助驾驶员更及时地察觉道路上的警示信息。产品在 2025 年夏季上市后因订单过多而售罄，兼具防强光功能，适合日常使用。",
+    "highlights_zh": [
+      "SWANS 推出驾驶专用太阳镜",
+      "特殊镜片增强红黄色信号灯辨识度",
+      "由赛车手山野哲也监制",
+      "2025 年夏季一度售罄"
+    ],
+    "entities": [
+      "SWANS",
+      "山野哲也",
+      "ULTRA LENS for DRIVING",
+      "驾驶专用太阳镜"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29142602/b8f040a25e3bd69c48c9e2c0534e47d4.jpg?v=1780032363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29142602/b8f040a25e3bd69c48c9e2c0534e47d4-600x397.jpg?v=1780032363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25154842/3515142899240060fbd0aa5fca699dd2.jpg?v=1779691723"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:23.438Z"
+  },
+  "https://www.motor1.com/news/797222/toyota-tacoma-catalytic-converter-2300-dollars/": {
+    "title_zh": "丰田 Tacoma 催化转换器被盗，仅零件费就超 2300 美元",
+    "summary_short": "丰田 Tacoma 催化转换器成盗窃目标，仅零件更换费用就高达 2300 美元，还不含人工费。",
+    "summary_long": "一名机械师在维修一辆 2022 款丰田 Tacoma 时发现，该车的两个催化转换器均被盗，传感器也受损，仅零件更换费用就超过 2300 美元，且不含人工费。催化转换器因含有贵金属而成为盗窃目标，Tacoma 车型因底盘高、易拆卸而尤其受青睐。",
+    "highlights_zh": [
+      "两个催化转换器均被盗",
+      "仅零件费超 2300 美元",
+      "传感器也遭损坏",
+      "Tacoma 因底盘高易成目标"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tacoma",
+      "催化转换器",
+      "盗窃"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEjr1/s1/thieves-steal-catalytic-converters.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:23.718Z"
+  },
+  "https://www.motor1.com/news/797272/lotus-thought-electric-vehicles-future/": {
+    "title_zh": "路特斯重新审视电动化战略，将开发新 V6 和 V8 发动机",
+    "summary_short": "路特斯 CEO 承认高估了电动车普及速度，将开发新 V6 和 V8 发动机以满足客户对燃油车的需求。",
+    "summary_long": "路特斯 CEO 冯擎峰在接受采访时承认，公司高估了电动车普及速度，低估了客户对燃油车的偏好。因此，路特斯将放弃全面电动化目标，转而开发新的 V6 和 V8 发动机，用于 Emira 和未来超级跑车，这些车型将采用混合动力。新发动机由吉利与雷诺的合资公司 Horse 开发。",
+    "highlights_zh": [
+      "路特斯 CEO 承认高估电动车普及速度",
+      "将开发全新 V6 和 V8 发动机",
+      "新发动机由吉利与雷诺合资公司 Horse 开发",
+      "未来性能车型将采用混合动力"
+    ],
+    "entities": [
+      "路特斯 | Lotus",
+      "Emira",
+      "吉利",
+      "雷诺",
+      "Horse"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8Kexr/s1/2026-lotus-emira-420-sport.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:27.305Z"
+  },
+  "https://insideevs.com/news/797274/slate-ev-truck-preorder-price/": {
+    "title_zh": "Slate 低于 3 万美元的极简电动皮卡 6 月 24 日开启预订，但有个条件",
+    "summary_short": "Slate Auto 将于 6 月 24 日开启其极简电动皮卡的预订，需支付 300 美元不可退定金，首批交付预计在 2026 年底。",
+    "summary_long": "Slate Auto 宣布其极简电动皮卡将于 6 月 24 日开启预订，需支付 300 美元不可退定金。此前已支付 50 美元可退预留费的客户可优先锁定首批车辆，但需在 30 天内补足 250 美元不可退定金。最终定价将在预订当天公布，首批交付预计在 2026 年底。Slate 不会自建服务中心，而是与 RepairPal 网络合作，后者在美国拥有超过 4000 家维修点。",
+    "highlights_zh": [
+      "6 月 24 日开启预订",
+      "首批交付预计 2026 年底",
+      "定价将于预订当天公布",
+      "与 RepairPal 合作提供维修服务"
+    ],
+    "entities": [
+      "Slate Auto",
+      "电动皮卡",
+      "RepairPal"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEqbgw/s1/slate-trucks.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:28.127Z"
+  },
+  "https://insideevs.com/news/797263/tesla-robotaxi-texas-fleet/": {
+    "title_zh": "特斯拉得州 Robotaxi 车队仅 42 辆，远未达马斯克承诺的 1000 辆",
+    "summary_short": "特斯拉在得州仅有 42 辆自动驾驶出租车，远低于马斯克去年承诺的 1000 辆，而 Waymo 已有 577 辆。",
+    "summary_long": "根据特斯拉向得州 DMV 提交的注册信息，其 Robotaxi 车队仅有 42 辆自动驾驶汽车，这是官方首次披露具体数量。相比之下，竞争对手 Waymo 在得州运营 577 辆自动驾驶出租车。马斯克去年曾承诺数月内达到 1000 辆，但实际进展缓慢。",
+    "highlights_zh": [
+      "特斯拉得州 Robotaxi 仅 42 辆",
+      "Waymo 在得州有 577 辆自动驾驶出租车",
+      "马斯克去年承诺 1000 辆",
+      "官方首次披露车队注册数据"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y",
+      "Waymo",
+      "得州",
+      "Robotaxi"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8qLw1/s1/tesla-robotaxi.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:31.186Z"
+  },
+  "https://www.motor1.com/news/797256/nissan-flattered-leaf-ferrari-luce-comparisons/": {
+    "title_zh": "日产对 Leaf 与法拉利 Luce 设计对比感到“受宠若惊”",
+    "summary_short": "日产爱尔兰分公司表示，对人们将全新法拉利 Luce EV 与 Leaf 相提并论感到“受宠若惊”，并借此机会在社交媒体上互动。",
+    "summary_long": "法拉利首款电动车 Luce 发布后，因其设计被指与日产第三代 Leaf 相似而引发热议。尽管两者实际差异巨大，日产爱尔兰分公司仍借势在社交媒体上发布对比图，并称“受宠若惊”，甚至直接向法拉利喊话：“模仿是最真诚的奉承，谢谢法拉利。”",
+    "highlights_zh": [
+      "法拉利 Luce EV 被指与日产 Leaf 相似",
+      "日产爱尔兰分公司发对比图并称“受宠若惊”",
+      "日产向法拉利喊话：模仿是最真诚的奉承",
+      "两款车实际设计差异巨大"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Leaf",
+      "法拉利 | Ferrari",
+      "Luce"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3Lyq/s1/nissan-leaf-and-ferrari-luce.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:32.441Z"
+  },
+  "https://www.motor1.com/news/797249/new-mitsubishi-pajero-teaser/": {
+    "title_zh": "三菱帕杰罗与 Montero 正式回归",
+    "summary_short": "三菱确认帕杰罗和 Montero 回归，基于 Triton 皮卡的非承载式车身，将推出系列车型，北美版可能搭载汽油或插混动力。",
+    "summary_long": "三菱正式宣布复活帕杰罗和 Montero 两大经典车系。全新帕杰罗将于今年秋季首发，基于 Triton 皮卡的非承载式梯形车架，配备四驱系统和专属悬架，定位旗舰越野 SUV。同时，三菱计划将帕杰罗发展为系列车型，至少还有两款衍生车型在开发中。Montero 作为北美版名称有望回归，可能搭载汽油发动机或插电混动系统。",
+    "highlights_zh": [
+      "帕杰罗今秋首发",
+      "Montero 名称确认回归",
+      "帕杰罗将发展为系列车型",
+      "配备四驱和专属悬架"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗 | Pajero",
+      "Montero",
+      "Triton"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbgO3N/s1/new-mitsubishi-pajero-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-29T16:55:35.677Z"
   }
 }
