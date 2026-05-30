@@ -17305,5 +17305,273 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-05-30T04:16:38.473Z"
+  },
+  "https://www.motor1.com/news/797319/suv-salesman-buying-advice/": {
+    "title_zh": "汽车销售员：仅凭价格买 SUV 是错误，买家终会后悔",
+    "summary_short": "汽车销售员指出，仅凭价格选购 SUV 会导致后悔，因为忽略了驾乘品质、噪音和廉价内饰等关键因素。",
+    "summary_long": "一位汽车销售员在视频中警告，消费者购买 SUV 时若仅以价格为导向，最终往往会后悔。他列举了廉价车型常见的缺陷：糟糕的驾乘品质、明显的噪音以及廉价的内饰。尽管他推荐 2026 款马自达 CX-5，但其核心观点是购车应综合考量，而非只看标价。",
+    "highlights_zh": [
+      "仅凭价格选 SUV 易后悔",
+      "关注驾乘品质、噪音和内饰",
+      "销售员推荐 2026 款马自达 CX-5"
+    ],
+    "entities": [
+      "马自达 CX-5 | Mazda CX-5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WEjOY/s1/car-salesman-says-suv-buyers-always-buy-based-on-price.-here-s-why-he-says-that-s-a-mistake.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:40.876Z"
+  },
+  "https://www.thedrive.com/news/people-keep-throwing-away-car-batteries-in-dumpsters-and-thats-a-recipe-for-disaster": {
+    "title_zh": "乱扔汽车电池导致垃圾车频繁受损",
+    "summary_short": "美国多地发生因居民将汽车电池丢入垃圾桶导致垃圾车损坏甚至起火的事件，引发安全警示。",
+    "summary_long": "美国多地近期发生因居民将废弃汽车电池（包括铅酸电池和锂电池）丢入垃圾桶而引发的垃圾车损坏和火灾事故。在得克萨斯州里奥布拉沃市，一辆垃圾车因处理装有电池的垃圾桶而严重受损，需专业维修，可能导致垃圾收集服务中断。在加利福尼亚州罗斯维尔市，锂电池在垃圾车压缩过程中起火，释放有毒气体，火势蔓延迅速。当局呼吁居民正确处理废旧电池，避免将其混入普通垃圾。",
+    "highlights_zh": [
+      "得州垃圾车因电池受损",
+      "加州锂电池在垃圾车中起火",
+      "电池被压缩后易泄漏化学物质引发火灾",
+      "当局呼吁居民勿将电池丢入普通垃圾桶"
+    ],
+    "entities": [
+      "里奥布拉沃市",
+      "罗斯维尔市",
+      "铅酸电池",
+      "锂电池"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/07/Mack-Garbage-Truck-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/content-b/message-editor/1602518658948-batteryremoval1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/DG017_008VP-e1780071883460.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:42.093Z"
+  },
+  "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/": {
+    "title_zh": "AC Cobra GT Coupe：英伦传奇回归，720 马力",
+    "summary_short": "AC Cars 为庆祝 125 周年推出 Cobra GT Coupe，搭载福特 5.0 升 V8 发动机，最高功率 720 马力，致敬经典 A98 勒芒赛车。",
+    "summary_long": "AC Cars 在 125 周年之际发布全新 Cobra GT Coupe，致敬经典的 AC A98 勒芒赛车。新车搭载福特 5.0 升 V8 发动机，提供自然吸气（433 马力）和机械增压（710 马力）两种版本，匹配 6 速手动或 10 速自动变速箱。AC 计划借此车型大幅提升产量，与已发布的 Cobra GT Roadster 共同推动品牌复兴。",
+    "highlights_zh": [
+      "致敬 AC A98 勒芒赛车",
+      "福特 5.0 升 V8",
+      "可选 6 速手动或 10 速自动",
+      "AC 计划大幅增产"
+    ],
+    "entities": [
+      "AC Cars",
+      "Cobra GT Coupe",
+      "福特"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONken/s1/ac-cobra-gt-coupe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:44.370Z"
+  },
+  "https://www.motor1.com/news/797322/bmw-bimmercode-bricked/": {
+    "title_zh": "女子用 BimmerCode 定制新车，48 小时内将其“变砖”",
+    "summary_short": "一位宝马车主在提车后 48 小时内使用 BimmerCode 应用进行个性化设置，导致车辆无法启动，变成“砖头”。",
+    "summary_long": "一位名为 Meme 的宝马车主在提车后兴奋地使用 BimmerCode 应用对车辆进行个性化编码，结果在 48 小时内导致车辆无法启动，发动机熄火。该事件在 TikTok 上引发关注，视频观看量超过 17 万次。BimmerCode 是一款允许用户修改宝马车辆隐藏设置的应用，但操作不当可能导致车辆系统故障。",
+    "highlights_zh": [
+      "提车 48 小时内使用 BimmerCode",
+      "车辆无法启动",
+      "TikTok 视频观看量超 17 万次",
+      "BimmerCode 操作风险警示"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "BimmerCode",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OQeg/s1/woman-gets-new-bmw.-then-she-bricks-it-and-makes-it-undriveable-in-less-than-48-hours.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:45.202Z"
+  },
+  "https://bestcarweb.jp/feature/column/1524977": {
+    "title_zh": "什么是“自动驾驶用轮胎”？新一代轮胎登场！",
+    "summary_short": "德国大陆集团发布面向自动驾驶的轮胎技术，应对电动车重载和欧 7 排放新规，采用回收炭黑等创新方案。",
+    "summary_long": "德国老牌轮胎制造商大陆集团在汉诺威轮胎技术博览会上发布了面向自动驾驶的轮胎技术。电动车因搭载沉重电池，对轮胎负担较大，而即将实施的欧 7 排放标准对轮胎磨损和残留物提出更严苛要求。大陆集团的新技术包括从废旧轮胎中回收炭黑作为填充材料，并通过创新方案应对轮胎磨损产生的排放物和性能衰减，旨在满足未来自动驾驶时代的需求。",
+    "highlights_zh": [
+      "大陆集团发布自动驾驶专用轮胎技术",
+      "应对电动车重载和欧 7 排放新规",
+      "采用回收炭黑等环保创新方案",
+      "旨在减少轮胎磨损排放与性能衰减"
+    ],
+    "entities": [
+      "大陆集团",
+      "欧 7 标准",
+      "自动驾驶",
+      "电动车",
+      "轮胎技术"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/19202357/00_prelude_DSC1705_head.jpg?v=1779189838",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/19202357/00_prelude_DSC1705_head-600x400.jpg?v=1779189838",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21163907/IKE_725-65main-600x400.jpg?v=1779349148"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:49.166Z"
+  },
+  "https://response.jp/article/2026/05/30/412028.html": {
+    "title_zh": "丰田 Aqua GR Sport 适配 Tanabe 旗舰避震",
+    "summary_short": "Tanabe 为丰田 Aqua GR Sport 推出旗舰级避震 Susteck Pro ZT40，支持车高与阻尼精细调节，售价 21 万 100 日元。",
+    "summary_long": "悬挂、排气、轮毂综合制造商 Tanabe 为其旗舰避震型号“Susteck Pro ZT40”新增了丰田 Aqua GR Sport（MXPK11，2022 年 11 月后）的适配。该避震支持毫米级车高调节、阻尼力及外倾角调整，通过优化弹簧刚度确保满载时仍具优质乘坐感。采用全长调节式设计，大幅降低车高也不会影响悬挂行程和舒适性。配备双阀系统，在极低速域实现减震器实际动作与驾驶员感受的同步，提供线性阻尼力，稳定车身姿态。产品附带 2 年或 4 万公里保修。Aqua GR Sport 专用版前后均使用原厂塔顶，因此无法调节外倾角，但前后阻尼均为 40 段可调。",
+    "highlights_zh": [
+      "Tanabe 旗舰避震适配 Aqua GR Spor…",
+      "支持车高、阻尼、外倾角精细调节",
+      "全长调节设计",
+      "双阀系统实现线性阻尼"
+    ],
+    "entities": [
+      "Tanabe",
+      "丰田 | Toyota",
+      "アクアGRスポーツ",
+      "サステックプロZT40"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214463.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214463.jpg",
+      "https://response.jp/imgs/fill2/2214464.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:50.797Z"
+  },
+  "https://bestcarweb.jp/feature/column/1524026": {
+    "title_zh": "小鹏 X9 搭载 VLA2.0，一年后实现完全自动驾驶？",
+    "summary_short": "小鹏汽车推出搭载 VLA2.0 系统的 X9，具备 L4 级自动驾驶能力，但中国法规尚未允许 L4 上路，目前仅达 L3。",
+    "summary_long": "小鹏汽车于 2026 年 3 月发布次世代自动驾驶系统 VLA2.0，并首次搭载于大型 MPV X9 上。该系统理论上支持 L4 级自动驾驶，即特定条件下系统完全接管驾驶。然而，中国目前仅允许 L3 级量产，L4 级仍需法规突破。X9 售价约 708 万日元，意外亲民。此外，该系统已确定将供应给合作伙伴大众汽车，未来可能出现在大众中国车型上。",
+    "highlights_zh": [
+      "小鹏 X9 搭载 VLA2.0 系统",
+      "中国法规尚未允许 L4 上路",
+      "X9 售价约 708 万日元",
+      "系统将供应大众"
+    ],
+    "entities": [
+      "小鹏汽车",
+      "X9",
+      "VLA2.0",
+      "大众汽车 | Volkswagen"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/18220824/00_XPeng_ph04_head.jpg?v=1779109705",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/18220824/00_XPeng_ph04_head-600x400.jpg?v=1779109705",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21163907/IKE_725-65main-600x400.jpg?v=1779349148"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:53.066Z"
+  },
+  "https://bestcarweb.jp/feature/column/1525494": {
+    "title_zh": "丰田埃尔法保值率最高的是 Z Premier 涡轮版？",
+    "summary_short": "丰田埃尔法保值率最高的是 Z Premier 2.4L 涡轮版，3 年残值率仍达 100%，选装后排娱乐和 JBL 音响更保值。",
+    "summary_long": "丰田埃尔法作为高价车型，购车时不仅需考虑满意度，还需关注转售价值。目前保值率最强的规格是 Z Premier 2WD 2.4L 汽油涡轮版，3 年落ち残值率仍达 100%。虽然混合动力版燃油经济性更好，但中古市场指名购买更倾向于涡轮版。选装 14 英寸后排娱乐系统和 JBL 音响能进一步提升保值率。",
+    "highlights_zh": [
+      "Z Premier 2.4L 涡轮版保值率最高",
+      "3 年残值率仍达 100%",
+      "混合动力版燃油经济性更好",
+      "选装后排娱乐和 JBL 音响更保值"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "埃尔法",
+      "Z Premier",
+      "涡轮增压",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21163907/IKE_725-65main.jpg?v=1779349148",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21163907/IKE_725-65main-600x400.jpg?v=1779349148",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/18220824/00_XPeng_ph04_head-600x400.jpg?v=1779109705"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:54.562Z"
+  },
+  "https://response.jp/article/2026/05/30/412026.html": {
+    "title_zh": "BEYOND JAPAN 推出吉姆尼专用后副保险杠护板，应对升高车检",
+    "summary_short": "BEYOND JAPAN 为铃木吉姆尼系列推出后副保险杠护板，专为升高改装车检问题设计，免加工螺栓安装，支持上下前后调节。",
+    "summary_long": "BEYOND JAPAN（ビヨンドジャパン）为铃木吉姆尼系列推出新配件“后副保险杠护板”，旨在解决升高改装车辆的车检难题。该产品采用螺栓固定，无需额外加工即可安装，并具备上下前后滑动调节功能，适配不同升高幅度及改装排气管。适用于吉姆尼（JB64W）、吉姆尼 Sierra（JB74W）及吉姆尼 Nomad（JC74W），需搭配レーヴ保险杠使用。售价 54,780 日元（含税），交货期约一周。",
+    "highlights_zh": [
+      "免加工螺栓安装",
+      "上下前后滑动调节",
+      "适配多种升高幅度",
+      "售价 54"
+    ],
+    "entities": [
+      "BEYOND JAPAN",
+      "吉姆尼",
+      "吉姆尼 Sierra",
+      "吉姆尼 Nomad",
+      "后副保险杠护板"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214250.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214250.jpg",
+      "https://response.jp/imgs/fill2/2214248.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:57.820Z"
+  },
+  "https://insideevs.com/news/797308/tesla-model-3-podcast-catch/": {
+    "title_zh": "特斯拉可能打造 Model 3 Plaid，但这不意味着它会实现",
+    "summary_short": "特斯拉工程负责人透露常考虑为 Model 3 配备三电机 Plaid 动力系统，但公司优先发展其他项目。",
+    "summary_long": "随着 Model S 和 Model X 停产，特斯拉性能旗舰出现空缺。工程副总裁 Lars Moravy 在播客中表示，他“一直”在思考将 Plaid 三电机系统装入 Model 3 的可能性，并提及碳纤维套筒和永磁电机等技术细节。然而，他随即转向 Roadster，称其才是更自然的性能平台。这表明 Model 3 Plaid 目前仅停留在工程构想阶段，并非公司优先事项。",
+    "highlights_zh": [
+      "特斯拉工程副总裁称常考虑 Model 3 Plaid",
+      "Plaid 三电机系统加速性能仍领先",
+      "Roadster 被视为更合适的性能平台",
+      "Model 3 Plaid 目前仅为构想"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3",
+      "Model S",
+      "Plaid",
+      "Roadster"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Z14ZM/s1/2025-tesla-model-3-performance-euro-spec.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:48:58.709Z"
+  },
+  "https://www.motor1.com/news/797316/toyota-gift-liability/": {
+    "title_zh": "男子欲购 2026 款丰田赠予嫂子，发现可能被起诉后找到创意漏洞",
+    "summary_short": "一男子想买 2026 款丰田赠予嫂子，但意识到可能因事故被起诉，于是通过巧妙交易结构规避责任。",
+    "summary_long": "在美国，汽车是必需品，赠车是常见善举。但若受赠人发生事故，赠与人可能面临法律风险。一男子在购买 2026 款丰田作为礼物时发现此问题，于是通过设计销售结构来规避潜在责任。此事引发网友热议，探讨赠车背后的法律陷阱。",
+    "highlights_zh": [
+      "赠车可能因事故被起诉",
+      "男子设计交易结构规避责任",
+      "美国近 70%工人独自驾车通勤",
+      "赠车需谨慎考虑法律风险"
+    ],
+    "entities": [
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJZzy/s1/man-wants-to-buy-2026-toyota-for-his-sister-in-law.-then-he-realizes-he-could-get-sued--so-he-finds-a-workaround.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:49:01.271Z"
+  },
+  "https://www.motor1.com/news/797239/autozone-leaked-oil-memo/": {
+    "title_zh": "男子声称 AutoZone 泄露备忘录警告机油短缺，引发囤货潮",
+    "summary_short": "一名男子声称 AutoZone 内部备忘录预测美国将面临历史性机油短缺，视频引发热议，但备忘录真实性未获证实。",
+    "summary_long": "一名自称 PissedOffVeteran 的男子在社交媒体上发布视频，声称获得了一份 AutoZone 泄露的内部备忘录，该备忘录警告美国将面临历史上最大的机油、柴油液和润滑剂短缺，原因是中东局势。他呼吁观众立即更换机油或囤货。视频引发争议，部分自称 AutoZone 员工的人称备忘录是假的，而其他观众则表示已大量购买机油。AutoZone 未公开确认该备忘录，Carscoops 报道称公司未回应置评请求。",
+    "highlights_zh": [
+      "男子声称 AutoZone 备忘录预测历史性机油短缺",
+      "视频观看量超 20 万",
+      "AutoZone 未证实备忘录真实性",
+      "中东局势被指为短缺原因"
+    ],
+    "entities": [
+      "AutoZone"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGeyM/s1/man-reads-leaked-autozone-memo.-then-he-stocks-up.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T14:49:02.323Z"
   }
 }
