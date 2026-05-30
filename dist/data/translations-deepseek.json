@@ -16800,5 +16800,510 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-05-29T16:55:35.677Z"
+  },
+  "https://response.jp/article/2026/05/30/412014.html": {
+    "title_zh": "日产 Skyline 次代车型引发期待，SNS 热议不断",
+    "summary_short": "日产次代 Skyline 预告发布后，SNS 热议不断，传统设计元素与电动化动力总成备受期待。",
+    "summary_long": "日产汽车于 4 月 14 日公布次代 Skyline 的部分设计，包括圆形四尾灯、手写体 Skyline 标识及锐利前灯。新车基于现款平台开发，保留车顶线条与玻璃区域布局，融入传统 Skyline 设计元素。动力方面预计采用混合动力系统以应对排放法规，高性能版可能搭载 3.0 升 V6 双涡轮增压发动机，输出约 420 马力。",
+    "highlights_zh": [
+      "次代 Skyline 预告发布",
+      "保留圆形四尾灯等传统设计",
+      "预计搭载混合动力系统",
+      "高性能版或配 3.0T V6 发动机"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Skyline",
+      "Skyline 400R",
+      "日产 Z | Nissan Z"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214449.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214449.jpg",
+      "https://response.jp/imgs/fill2/2214448.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:04.936Z"
+  },
+  "https://response.jp/article/2026/05/30/412021.html": {
+    "title_zh": "Jeep Avenger 4xe Hybrid 试驾：比 BEV 更轻快",
+    "summary_short": "Jeep Avenger 4xe Hybrid 采用 48V 轻混与电四驱，车重更轻，操控轻快，日常与运动驾驶均表现出色。",
+    "summary_long": "Jeep Avenger 4xe Hybrid 是 Jeep 首款四驱混合动力车型，搭载 1.2 升三缸涡轮增压发动机与 48V 轻混系统，配合 6 速双离合变速箱，并在后轴增加独立电机实现电四驱。相比纯电版，车重减轻 90kg，后悬架改为多连杆，驾驶感受更轻快灵活。提供 AUTO、SPORT、SNOW、SAND/MUD 四种驾驶模式，AUTO 模式下低速为前驱，中速适时四驱，高速前驱；雪地与沙地模式低速时持续四驱。实际试驾中，动力响应平顺，加速从容，无论日常通勤还是运动驾驶都能轻松应对。",
+    "highlights_zh": [
+      "Jeep 首款四驱混动车型",
+      "1.2T 三缸+48V 轻混+电四驱",
+      "车重比 BEV 轻 90kg",
+      "四种驾驶模式"
+    ],
+    "entities": [
+      "ジープ",
+      "アベンジャー4xeハイブリッド",
+      "ステランティス",
+      "48V 轻混",
+      "电四驱"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214454.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214454.jpg",
+      "https://response.jp/imgs/fill2/2214450.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:04.944Z"
+  },
+  "https://response.jp/article/2026/05/30/412016.html": {
+    "title_zh": "宝马 M 1000 RR 曼岛 TT 限量版",
+    "summary_short": "宝马发布 M 1000 RR 曼岛 TT 限量版，纪念第 115 届赛事，全球仅 115 台。",
+    "summary_long": "宝马摩托车为纪念 2026 年曼岛 TT 赛事第 115 届，推出 M 1000 RR 限量版，基于 M Competition 车型，融入 TT 设计元素，全球限量 115 台。CEO 称赛车是宝马 DNA，该车是传统与 M 系列的逻辑进化。外观采用英国赛车绿涂装，并配有赛道图形。",
+    "highlights_zh": [
+      "全球限量 115 台",
+      "基于 M 1000 RR M Competition",
+      "英国赛车绿涂装",
+      "纪念第 115 届曼岛 TT"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M 1000 RR",
+      "曼岛 TT | Isle of Man TT"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214381.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214381.jpg",
+      "https://response.jp/imgs/fill2/2214393.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:07.615Z"
+  },
+  "https://bestcarweb.jp/feature/column/1501886": {
+    "title_zh": "汽车界缩写谜题：HID 是什么？",
+    "summary_short": "HID 是 High Intensity Discharge 的缩写，即高强度气体放电灯，俗称氙气灯。",
+    "summary_long": "HID（High Intensity Discharge）即高强度气体放电灯，俗称氙气灯或放电式头灯。与卤素灯相比，HID 亮度更高、功耗更低，且无灯丝，寿命约 5 年。HID 在 2000-2010 年代广泛普及，但如今 LED 灯因其更长寿命和更高通用性成为主流。",
+    "highlights_zh": [
+      "HID 全称 High Intensity Disc…",
+      "比卤素灯更亮、更省电",
+      "无灯丝",
+      "近年被 LED 灯取代"
+    ],
+    "entities": [
+      "High Intensity Discharge",
+      "Light Emitting Diode",
+      "卤素灯"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/21145040/00d.png?v=1776750642",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/21145040/00d-600x400.png?v=1776750642",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26145948/00_usa_nissan-inf_head-600x400.jpg?v=1779775189"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:08.554Z"
+  },
+  "https://bestcarweb.jp/feature/column/1511791": {
+    "title_zh": "丰田 Raize 未设 GR 版本，但 TRD 外观套件极具冲击力",
+    "summary_short": "TRD 为丰田 Raize 推出专属外观套件，虽无 GR 版本，但 TRD 套件凭借赛道风格设计，让 Raize 更具运动感。",
+    "summary_long": "TRD（丰田赛车发展部）在 2026 年迎来品牌成立 50 周年。尽管 GR 品牌如今更为人熟知，但 TRD 依然活跃，为丰田 Raize、雷克萨斯 LC 和雷克萨斯 LM 提供专属改装套件。Raize 的 TRD 套件包含前保险杠、格栅、侧裙等，外观极具攻击性，弥补了该车没有 GR 版本的遗憾。此外，TRD 还负责 GR 配件的企划与开发，其赛道经验为 GR 配件注入了独特魅力。",
+    "highlights_zh": [
+      "TRD 为 Raize 推出专属外观套件",
+      "Raize 未设 GR 版本",
+      "TRD 负责 GR 配件的企划与开发",
+      "TRD 品牌 2026 年迎来 50 周年"
+    ],
+    "entities": [
+      "TRD",
+      "丰田 | Toyota",
+      "Raize",
+      "雷克萨斯 | Lexus",
+      "GR"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/04185002/00_s_TDR_028_head.jpg?v=1777888203",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/04185002/00_s_TDR_028_head-600x400.jpg?v=1777888203",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26145948/00_usa_nissan-inf_head-600x400.jpg?v=1779775189"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:11.657Z"
+  },
+  "https://response.jp/article/2026/05/30/412017.html": {
+    "title_zh": "オールタイムレンタカー在东京北区十条开设新据点",
+    "summary_short": "汽车共享型低成本租车服务“オールタイムレンタカー”首次进驻东京北区十条，拓展北部市场。",
+    "summary_long": "ValueTop 公司于 5 月 28 日宣布，在东京都北区十条・东十条区域开设汽车共享型低成本租车服务“オールタイムレンタカー”的新据点“昭和公园中十条站”。这是该服务首次进入十条・东十条地区，此前其据点主要分布在涩谷、新宿、池袋等山手线沿线，此次新站点的开设标志着向东京北部地区的扩张。ValueTop 旨在通过此举获取新用户群体，并计划未来在东京北部进一步扩展站点网络。该服务结合了汽车共享的便利性和租车的低价体系，通过智能手机应用实现车辆搜索、预约、取还车全流程，支持 24 小时无人值守运营。此外，服务采用由 iid 和 Gigowatts 共同开发的“虚拟钥匙”智能锁系统，将车辆智能钥匙功能集成到手机中，支撑无人取还车技术。",
+    "highlights_zh": [
+      "新据点位于东京北区十条",
+      "首次进入十条・东十条地区",
+      "24 小时无人值守租车服务",
+      "采用虚拟钥匙智能锁系统"
+    ],
+    "entities": [
+      "オールタイムレンタカー",
+      "バリュートープ",
+      "十条",
+      "虚拟钥匙",
+      "智能锁系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214263.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214263.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:12.268Z"
+  },
+  "https://response.jp/article/2026/05/30/412022.html": {
+    "title_zh": "大众 12 款车型因转向助力失效风险被召回",
+    "summary_short": "大众 12 款车型因转向助力可能失效被召回，5 月召回文章关注度最高。",
+    "summary_long": "5 月发布的召回与缺陷信息文章中，基于访问量计算的排行榜显示，大众 | Volkswagen 的召回文章最受关注。共计 12 款车型存在转向助力可能失效的风险。",
+    "highlights_zh": [
+      "大众 12 款车型转向助力可能失效",
+      "5 月召回文章关注度最高",
+      "基于访问量排名"
+    ],
+    "entities": [
+      "大众 | Volkswagen"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214155.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214155.jpg",
+      "https://response.jp/imgs/zoom/2211268.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:14.338Z"
+  },
+  "https://response.jp/article/2026/05/29/412009.html": {
+    "title_zh": "第 7 届商用车聚会关东：巴士、伪装警车、破旧爆破车齐聚",
+    "summary_short": "千叶县举办第 7 届商用车聚会，55 辆巴士、卡车、紧急车辆等“工作车”集结，包括自制 NYPD 警车和经典车型。",
+    "summary_long": "5 月 17 日，第 7 届商用车聚会关东在千叶县长柄町的交流中心停车场举行，共 55 辆私人拥有的“工作车”参展，包括巴士、卡车、紧急车辆、伪装警车等。活动由千城企划交通部主办，该团体以“享受巴士”为宗旨，拥有日产柴底盘配富士重工车身的原路线巴士 8E 等车辆。现场车辆按巴士、货车、公司用车、教练车、出租车、公务车、紧急车辆等分类展示。参与者中，一对 30 多岁夫妇驾驶自制的纽约市警风格福特 Explorer，身着 NYPD 制服；另一对夫妇因铃木 Suzulight 维修中，临时驾驶铃木 Carry 卡车前来，货斗载有两辆 1980 年代本田 eve 女性踏板车。",
+    "highlights_zh": [
+      "55 辆私人工作车集结",
+      "自制 NYPD 警车成亮点",
+      "经典车型如日产柴 8E 亮相",
+      "夫妇携本田 eve 踏板车参展"
+    ],
+    "entities": [
+      "日产柴 | Nissan Diesel",
+      "富士重工",
+      "福特 Explorer",
+      "铃木 Carry | Suzuki Carry",
+      "本田 eve | Honda eve"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214351.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214351.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:15.920Z"
+  },
+  "https://response.jp/article/2026/05/30/412018.html": {
+    "title_zh": "Blitz 推出高强度赛车螺母套装，采用 SCM435 铬钼钢",
+    "summary_short": "Blitz 为高强度赛车螺母新增 16 个和 20 个套装，采用 SCM435 铬钼钢，轻量化且强度高。",
+    "summary_long": "Blitz 为其采用 SCM435 锻造铬钼钢的高强度赛车螺母新增了 16 个套装（适用于 4 孔轮毂）和 20 个套装（适用于 5 孔轮毂），于 5 月 28 日上市。该系列为“RACING NUT 17HEX”，提供 M12×P1.5 和 M12×P1.25 两种尺寸，规格为全长 40mm、17HEX、贯通型。螺母采用 SCM435 铬钼钢锻造，强度高，单个重 47g，颜色为黑色，日本制造。",
+    "highlights_zh": [
+      "新增 16 个和 20 个套装",
+      "SCM435 铬钼钢锻造",
+      "单个仅重 47g",
+      "日本制造"
+    ],
+    "entities": [
+      "Blitz",
+      "RACING NUT 17HEX",
+      "SCM435 铬钼钢"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2213426.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2213426.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:17.731Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531020": {
+    "title_zh": "日产北美车型一览：除了 Murano，还有哪些值得期待？",
+    "summary_short": "日产决定将北美工厂的 Murano 重新引入日本，引发关注。本文盘点其他可能引入的北美车型，包括大型 SUV 等。",
+    "summary_long": "为应对特朗普关税，越来越多的汽车制造商从北美工厂进口车辆。丰田的大型 SUV 引入成为话题，日产也决定将约 10 年未在日本销售的 Murano 重新引入。现款 Murano 为第四代，车身尺寸 4900×1981×1725mm，搭载 2.0L 直列四缸 VC-Turbo 发动机（241 马力）和 9 速自动变速箱，仅提供 AWD 版本。此外，文章还介绍了其他可能引入日本的日产北美车型，如 Pathfinder、Armada 等，引发车迷期待。",
+    "highlights_zh": [
+      "日产决定重新引入 Murano 至日本",
+      "现款 Murano 为大型轿跑 SUV",
+      "搭载 2.0T+9AT",
+      "其他北美车型如 Pathfinder 等有望跟进"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ムラーノ",
+      "Pathfinder",
+      "Armada",
+      "VC-Turbo"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26145948/00_usa_nissan-inf_head.jpg?v=1779775189",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26145948/00_usa_nissan-inf_head-600x400.jpg?v=1779775189",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/04185002/00_s_TDR_028_head-600x400.jpg?v=1777888203"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:19.953Z"
+  },
+  "https://bestcarweb.jp/feature/tieup/1512779": {
+    "title_zh": "兰德酷路泽 70“魔法悬架”3000km 实测：老牌 4×4 Engineering 的惊人驾乘体验",
+    "summary_short": "兰德酷路泽 70 改装 4×4 Engineering 悬架，3000km 实测改善颠簸，保留越野能力，驾乘质感大幅提升。",
+    "summary_long": "Best Car Web 主编的兰德酷路泽 70（再再贩版）已行驶 3 万公里，频繁用于越野导致保险杠伤痕累累。虽然该车以坚固耐用著称，但与现代车型相比，乘坐舒适性明显不足。为此，主编委托老牌改装品牌 4×4 Engineering 进行悬架定制，在不改变原厂车高的前提下更换减震器。经过 3000km 实际道路和越野测试，新悬架显著改善了颠簸感，同时保持了出色的越野通过性，使这台经典越野车焕发新生。",
+    "highlights_zh": [
+      "兰德酷路泽 70 改装 4×4 Engineerin…",
+      "3000km 实测改善颠簸与操控",
+      "不改变原厂车高",
+      "老牌改装品牌技术加持"
+    ],
+    "entities": [
+      "兰德酷路泽 70 | Land Cruiser 70",
+      "4×4 Engineering",
+      "Best Car Web",
+      "悬架改装",
+      "越野测试"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/07134631/E-1.jpg?v=1778129192",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/07134631/E-1-600x419.jpg?v=1778129192",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25124028/img_1-1-600x377.jpg?v=1779680430"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:22.257Z"
+  },
+  "https://bestcarweb.jp/feature/column/1522704": {
+    "title_zh": "阿尔派 A110 日本停售，下一代或转型纯电动",
+    "summary_short": "阿尔派 A110 将于 2026 年 3 月在日本停止接单，下一代车型可能转型为纯电动跑车。",
+    "summary_long": "阿尔派 A110 这款轻型中置跑车在 2017 年复活后，将于 2026 年 3 月在日本结束订单。该车采用 1.8L 四缸涡轮增压发动机，车身仅重 1110kg，凭借出色的悬挂几何设计拥有极佳抓地力。下一代 A110 预计将转型为纯电动车型。",
+    "highlights_zh": [
+      "2026 年 3 月日本停售",
+      "1.8T 中置引擎",
+      "下一代或为纯电动"
+    ],
+    "entities": [
+      "阿尔派",
+      "A110"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/17203400/00_Alpine-A110_S-2022_head.jpg?v=1779017641",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/17203400/00_Alpine-A110_S-2022_head-600x400.jpg?v=1779017641",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26145948/00_usa_nissan-inf_head-600x400.jpg?v=1779775189"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:23.315Z"
+  },
+  "https://bestcarweb.jp/feature/tieup/1475909": {
+    "title_zh": "后装升级时代到来！TOYOTA/LEXUS UPGRADE FACTORY 全面解析",
+    "summary_short": "丰田和雷克萨斯推出后装升级服务，可为现有车辆加装最新安全、便利装备，包括纯正防盗系统。",
+    "summary_long": "丰田与 KINTO 推出的“TOYOTA/LEXUS UPGRADE FACTORY”是一项为现有车辆后装最新装备的新服务。该服务原为“KINTO FACTORY”，于 2025 年 12 月 18 日更名为现名。其核心理念是在车辆保有期长期化的背景下，将最新安全、环境技术带给现有车辆，实现“不换车也能进化”的汽车社会。提供的后装项目包括盲点监测、泊车辅助制动、AC100V/1500W 插座、手机联动防盗系统、无线充电等。",
+    "highlights_zh": [
+      "后装升级服务",
+      "原为 KINTO FACTORY",
+      "提供盲点监测、泊车辅助等安全装备",
+      "纯正防盗系统支持手机联动"
+    ],
+    "entities": [
+      "丰田 | TOYOTA",
+      "雷克萨斯 | LEXUS",
+      "KINTO",
+      "后装升级",
+      "防盗系统"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/25113214/IMG_2950.jpg?v=1774405935",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/25113214/IMG_2950-600x402.jpg?v=1774405935",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25124028/img_1-1-600x377.jpg?v=1779680430"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:25.626Z"
+  },
+  "https://www.motor1.com/news/797227/should-you-put-zero-down-on-car/": {
+    "title_zh": "零首付购车是否明智？汽车销售员深度解析",
+    "summary_short": "汽车销售员分析零首付购车的利弊，指出首付可降低银行风险、加快资产净值积累，但需根据个人财务状况决定。",
+    "summary_long": "购车时是否选择零首付？一位汽车销售员通过视频分析，认为首付能降低银行贷款风险，使买家更快获得资产净值，并可能获得更低利率。但零首付适合资金紧张或希望保留现金的消费者，需权衡长期利息成本。",
+    "highlights_zh": [
+      "首付可降低银行贷款风险",
+      "首付助你更快获得资产净值",
+      "零首付适合资金紧张者",
+      "需权衡长期利息成本"
+    ],
+    "entities": [
+      "雪佛兰"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zwjr9/s1/woman-buys-chevrolet-for-0-down.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:26.479Z"
+  },
+  "https://www.motor1.com/news/797224/squirrels-in-jeep/": {
+    "title_zh": "男子汽车无法启动，机械师打开引擎盖发现“被占领”",
+    "summary_short": "一辆 Jeep 无法启动，机械师打开引擎盖发现一窝松鼠幼崽，这种情况并不罕见。",
+    "summary_long": "一名司机的 Jeep 突然无法启动，机械师检查后发现引擎盖下有一窝松鼠幼崽。这种情况在汽车停放时并不罕见，小动物常因取暖或筑巢进入发动机舱。视频在 TikTok 上引发关注，提醒车主定期检查引擎盖。",
+    "highlights_zh": [
+      "Jeep 无法启动",
+      "松鼠幼崽占据引擎舱",
+      "小动物筑巢是常见问题"
+    ],
+    "entities": [
+      "Jeep"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9KAy/s1/man-s-jeep-refuses-to-start.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:28.335Z"
+  },
+  "https://www.thedrive.com/news/a-lidar-enabled-lawn-robot-that-wont-break-the-bank-the-mammotion-luba-3-awd-5000h": {
+    "title_zh": "Mammotion Luba 3 AWD 5000H：搭载激光雷达的平价割草机器人",
+    "summary_short": "Mammotion 推出第三代割草机器人 Luba 3，新增激光雷达模块，定价亲民，性能升级。",
+    "summary_long": "Mammotion 发布了第三代割草机器人 Luba 3 AWD 5000H，首次在美国市场配备激光雷达模块，提升了导航精度和避障能力。该机器人延续了前代的高性价比路线，定价远低于同类产品，同时保持了全轮驱动和智能路径规划等核心功能。作者此前使用过 Luba 2，认为其实际表现令人满意，而新款在传感器和算法上进一步优化，有望成为家庭草坪维护的实用选择。",
+    "highlights_zh": [
+      "新增激光雷达模块",
+      "全轮驱动",
+      "定价亲民",
+      "第三代产品"
+    ],
+    "entities": [
+      "Mammotion",
+      "Luba 3 AWD 5000H",
+      "激光雷达",
+      "割草机器人"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/20260529_144546.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/20260522_133557.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/20260522_133403.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:29.720Z"
+  },
+  "https://www.motor1.com/news/797330/2027-amg-gt-4door-pricing/": {
+    "title_zh": "全新梅赛德斯-AMG GT 四门跑车欧洲售价公布",
+    "summary_short": "全新电动 AMG GT 四门跑车欧洲起售价€154,700，约合$180,500，相比现款大幅上涨。",
+    "summary_long": "梅赛德斯-奔驰公布了全新电动 AMG GT 四门跑车在欧洲的售价。基础款 GT55 起售价€154,700（约$180,500），取代现款 GT53；GT63 起售价€208,130（约$242,000）。相比现款 GT43 起价$103,250、GT53 起价$114,350、GT63 起价$159,600，新车价格大幅提升。",
+    "highlights_zh": [
+      "全新电动 AMG GT 四门跑车欧洲起售价€154",
+      "GT55 取代 GT53",
+      "相比现款"
+    ],
+    "entities": [
+      "梅赛德斯-AMG",
+      "AMG GT 四门跑车",
+      "GT55",
+      "GT63",
+      "欧洲"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2l6jb/s1/mercedes-amg-gt63-4-door-coupe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:31.163Z"
+  },
+  "https://www.thedrive.com/news/tommykaira-zz-one-off-looks-like-the-new-914-porsche-wont-make": {
+    "title_zh": "Tommykaira ZZ 定制版：未来感十足的保时捷 914",
+    "summary_short": "Tommykaira ZZ 电动跑车获得全新前脸设计，由原设计师操刀，融合现代元素与安全法规，但不会量产。",
+    "summary_long": "Tommykaira ZZ 是一款源自 90 年代的轻量化电动跑车，被誉为日本版路特斯 Elise。如今，原第二代设计师 Yuji Fujitsuka 与设计公司 Fortmarei 合作，推出了名为 Number Nine Works Sweep 9 的设计研究。该车将经典的三角灯组替换为细长 LED 单元，并满足日本安全标准，但仅为设计探索，不会投入生产。",
+    "highlights_zh": [
+      "基于 Tommykaira ZZ 电动跑车重新设计",
+      "前脸换装细长 LED 灯组",
+      "满足日本乘用车安全标准",
+      "仅作为设计研究"
+    ],
+    "entities": [
+      "Tommykaira",
+      "Number Nine Works",
+      "Fortmarei",
+      "ZZ"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-152722-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/sweep9-web-14-copy-1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/sweep9-web-01.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:32.821Z"
+  },
+  "https://www.motor1.com/news/797325/gmc-hummer-x-concept-testbed-technology-features/": {
+    "title_zh": "悍马 X 概念车：挑战 Bronco 与牧马人",
+    "summary_short": "GMC 推出悍马 X 概念车，采用可回收材料和 3D 打印技术，主打可持续性与可重构性，尺寸小于悍马 EV 但离地间隙更高。",
+    "summary_long": "GMC 发布了悍马 X 概念车，包括卡车和 SUV 两种版本，旨在挑战福特 Bronco 和 Jeep 牧马人。该概念车采用“单一材料”设计，用卡扣和机械紧固件替代胶粘剂，便于拆卸和回收，并融入循环经济理念。同时，GMC 使用 Flex Fab 金属 3D 打印技术，实现小批量快速生产，57%的部件由此制造。悍马 X 配备 Multimatic 减震器、底盘护板、可拆卸轮拱和防脱轮圈，SUV 版搭载 37 英寸轮胎，卡车版为 35 英寸。SUV 尺寸（长 188.3 英寸）小于悍马 EV SUV，但离地间隙更高（13.2 英寸 vs 10.2 英寸）。",
+    "highlights_zh": [
+      "采用单一材料设计",
+      "Flex Fab 3D 打印金属部件占 57%",
+      "SUV 离地间隙 13.2 英寸",
+      "尺寸更小"
+    ],
+    "entities": [
+      "GMC",
+      "悍马 | Hummer",
+      "福特 Bronco",
+      "Jeep 牧马人 | Jeep Wrangler",
+      "悍马 EV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8j60/s1/gmc-hummer-x-suv-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:34.860Z"
+  },
+  "https://www.motor1.com/news/797206/car-sitting-too-long-discount/": {
+    "title_zh": "宝马滞销 3 个月，经销商大幅降价",
+    "summary_short": "一辆 2023 款宝马 840i 在经销商处滞留 91 天，价格从 8.6 万美元降至 4.6 万美元，引发关注。",
+    "summary_long": "田纳西州诺克斯维尔一家凯迪拉克经销商的一辆 2023 款宝马 840i 库存车已滞留超过 3 个月，为尽快脱手，经销商将原价 86,745 美元的车价降至 45,995 美元，比市场均价还低 7,400 美元。销售顾问在 TikTok 上发布视频推销该车，强调其作为豪华轿车的配置和性能。",
+    "highlights_zh": [
+      "滞留 91 天",
+      "原价 86",
+      "比市场均价低 7",
+      "2023 款宝马 840i 豪华轿车"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 840i | BMW 840i",
+      "凯迪拉克"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnzEEo/s1/a-car-that-has-been-at-the-dealership-for-longer-than-normal.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:35.795Z"
+  },
+  "https://insideevs.com/news/797244/rivian-apple-carplay-obsolete-ai/": {
+    "title_zh": "Rivian 称围绕 Apple CarPlay 的争论因 AI 而“完全过时”",
+    "summary_short": "Rivian 首席软件官表示，AI 语音助手的进步将使 CarPlay 等屏幕镜像技术过时，公司更专注于自研语音系统。",
+    "summary_long": "Rivian 首席软件官 Wassym Bensaid 在 Decoder 播客中表示，随着 AI 语音助手的飞速发展，关于 Apple CarPlay 的争论已“完全过时”。他认为 CarPlay 这类屏幕镜像技术会占据整个信息娱乐屏幕，不符合 Rivian 与用户交互的理念。Rivian 将重点发展自研的 Rivian Assistant 语音助手，通过 AI 控制车辆主要功能。尽管过去车载语音识别体验不佳，但公司相信技术成熟后将成为首选交互方式。",
+    "highlights_zh": [
+      "AI 语音助手将使 CarPlay 过时",
+      "Rivian 坚持自研软件方案",
+      "Rivian Assistant 将控制主要车辆功能",
+      "车载语音识别技术仍需完善"
+    ],
+    "entities": [
+      "Rivian",
+      "Apple CarPlay",
+      "Android Auto",
+      "AI 语音助手",
+      "Rivian Assistant"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEm3p/s1/rivian-r2-autonomy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:38.418Z"
+  },
+  "https://www.motor1.com/news/797312/rivian-says-ai-make-carplay-obsolete/": {
+    "title_zh": "Rivian 称 AI 将使 Apple CarPlay 争议“过时”",
+    "summary_short": "Rivian 坚持不提供 Apple CarPlay 或 Android Auto，转而开发 AI 助手，认为这将使手机映射功能过时。",
+    "summary_long": "Rivian 首席软件官 Wassym Bensaid 在采访中重申公司不会支持 Apple CarPlay 或 Android Auto，而是投资于 AI 驱动的车载功能。他表示，Rivian 正在开发专属 AI 助手，能够处理当前手机映射的大部分功能，最终使 CarPlay 争议“完全过时”。Bensaid 认为，Apple 的系统在当前形式下过于侵入车辆体验，而 AI 将重塑用户与应用的交互方式。",
+    "highlights_zh": [
+      "Rivian 坚持不提供 CarPlay 或 And…",
+      "开发 AI 助手替代手机映射功能",
+      "AI 将使 CarPlay 争议“完全过时”",
+      "认为 Apple 系统过于侵入车辆体验"
+    ],
+    "entities": [
+      "Rivian",
+      "Apple CarPlay",
+      "Android Auto",
+      "AI 助手"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlwz7R/s1/rivian-california-dune-edition-r1s-and-r1t.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-30T04:16:38.473Z"
   }
 }

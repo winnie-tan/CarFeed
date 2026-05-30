@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-05-29T16:54:31.993Z",
-    "articles_in_feed": 351,
-    "deepseek_translated_before_run": 323,
-    "deepseek_untranslated_before_run": 28,
-    "newly_fetched_articles": 29,
-    "newly_fetched_untranslated": 28,
+    "generated_at": "2026-05-30T04:16:00.005Z",
+    "articles_in_feed": 374,
+    "deepseek_translated_before_run": 352,
+    "deepseek_untranslated_before_run": 22,
+    "newly_fetched_articles": 23,
+    "newly_fetched_untranslated": 22,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 28,
+    "translation_queue_count": 22,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.5.29",
-        "title": "The Dodge Viper Era Is Dead, Head of SRT Says",
-        "url": "https://www.thedrive.com/news/the-dodge-viper-era-is-dead-head-of-srt-says"
+        "source": "Response.jp",
+        "time": "2026.5.30",
+        "title": "「セダン希少だから楽しみ」日産『スカイライン』次期型への期待高まる、スクープ情報にもSNS加熱",
+        "url": "https://response.jp/article/2026/05/30/412014.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.30",
+        "title": "【ジープ アベンジャー4xeハイブリッド 新型試乗】ゆったりとしたBEVに対し“小気味いい”走りに好感…島崎七生人",
+        "url": "https://response.jp/article/2026/05/30/412021.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.30",
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「HID」",
+        "url": "https://bestcarweb.jp/feature/column/1501886"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.30",
+        "title": "BMW M 1000 RRに「Isle of Man TT」、マン島TTレース115回記念車…世界115台限定",
+        "url": "https://response.jp/article/2026/05/30/412016.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.30",
+        "title": "GRすら未設定なのに!! ライズのTRD顔が迫力あって結構アリ！ 見逃せないTRDパーツの魅力とは",
+        "url": "https://bestcarweb.jp/feature/column/1511791"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.30",
+        "title": "オールタイムレンタカー、北区十条に新拠点…東京北部へ展開",
+        "url": "https://response.jp/article/2026/05/30/412017.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.30",
+        "title": "バスや覆面パト、ボロボロな爆破車!? などが集結…第7回商用車ミーティング関東",
+        "url": "https://response.jp/article/2026/05/29/412009.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.30",
+        "title": "フォルクスワーゲン12車種、パワーステアリングのアシストが無効化のおそれ…5月掲載のリコール記事まとめ",
+        "url": "https://response.jp/article/2026/05/30/412022.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.30",
+        "title": "ブリッツの「レーシングナット」がセット品を拡充、SCM435クロムモリブデン鋼採用の高強度モデル",
+        "url": "https://response.jp/article/2026/05/30/412018.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.30",
+        "title": "ムラーノ以外も日本に来て欲しい!! 魅力ありすぎな日産北米モデルをイッキ見！",
+        "url": "https://bestcarweb.jp/feature/column/1531020"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.30",
+        "title": "ランクル70が激変する“魔法のサスペンション”を3000km実走テスト!! 老舗「フォーバイフォー」の技が光る衝撃の乗り味とは【PR】",
+        "url": "https://bestcarweb.jp/feature/tieup/1512779"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.30",
+        "title": "最高に楽しいスポーツカーが遂に引退！ 受注終了のアルピーヌ「A110」!! 次期型はBEVになるって本当かよ",
+        "url": "https://bestcarweb.jp/feature/column/1522704"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.30",
+        "title": "後付けでクルマが進化する時代へ！ TOYOTA/LEXUS UPGRADE FACTORYを徹底チェック!! 2つの純正セキュリティシステムも凄い！【PR】",
+        "url": "https://bestcarweb.jp/feature/tieup/1475909"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.30",
+        "title": "Woman Buys Chevrolet. Then She Asks If She Can Do It For $0 Down: ‘Dealerships HATE Getting Pre Approved’",
+        "url": "https://www.motor1.com/news/797227/should-you-put-zero-down-on-car/"
       },
       {
         "source": "Motor1",
         "time": "2026.5.29",
-        "title": "For No Particular Reason, These Are The Most Beautiful Ferraris Ever Made",
-        "url": "https://www.motor1.com/features/797220/most-beautiful-ferraris-ever/"
+        "title": "Man’s Car Refuses To Start. Then The Mechanic Opens The Hood: ‘Turns Out It Was Occupied’",
+        "url": "https://www.motor1.com/news/797224/squirrels-in-jeep/"
       },
       {
         "source": "The Drive",
         "time": "2026.5.29",
-        "title": "Mitsubishi’s Getting Serious About Trucks in North America Again: TDS",
-        "url": "https://www.thedrive.com/news/mitsubishis-getting-serious-about-trucks-in-north-america-again-tds"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.5.29",
-        "title": "‘We Fought for the Right To Be Stressed’: Sitting Down With Cadillac F1 CEO Dan Towriss",
-        "url": "https://www.thedrive.com/news/cadillac-f1-ceo-dan-towriss-interview"
+        "title": "A Lidar-Enabled Lawn Robot That Won’t Break the Bank: The Mammotion Luba 3 AWD 5000H",
+        "url": "https://www.thedrive.com/news/a-lidar-enabled-lawn-robot-that-wont-break-the-bank-the-mammotion-luba-3-awd-5000h"
       },
       {
         "source": "Motor1",
         "time": "2026.5.29",
-        "title": "Ferrari's CEO Defends The Luce: 'There Is Strong Interest'",
-        "url": "https://www.motor1.com/news/797231/ferrari-ceo-defends-luce-electric-vehicle/"
+        "title": "No Surprise: The New Mercedes-AMG GT 4-Door Will Be Pricey",
+        "url": "https://www.motor1.com/news/797330/2027-amg-gt-4door-pricing/"
       },
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.5.29",
-        "title": "『スーパーキャリイ』でCO2を回収、再利用へ…農家の課題に向き合うスズキらしい「マルチパスウェイ」の可能性…人とくるまのテクノロジー展2026",
-        "url": "https://response.jp/article/2026/05/29/411992.html"
+        "title": "Tommykaira ZZ One-Off Looks Like a Porsche 914 From the Future",
+        "url": "https://www.thedrive.com/news/tommykaira-zz-one-off-looks-like-the-new-914-porsche-wont-make"
       },
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.5.29",
-        "title": "『ムーヴ』『タント』をスタイリッシュにローダウン！ ブリッツの車高調キット「DAMPER ZZ-R」シリーズがリニューアル",
-        "url": "https://response.jp/article/2026/05/29/412011.html"
+        "title": "Hummer Wants To Take On The Bronco And Wrangler With This New Concept",
+        "url": "https://www.motor1.com/news/797325/gmc-hummer-x-concept-testbed-technology-features/"
       },
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.5.29",
-        "title": "【新型デリカD:6確定か!?】三菱の新計画に「新型Minivan」出現!! 5年以内に唯一無二のSUVミニバン登場",
-        "url": "https://bestcarweb.jp/newcar/1534795"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "【速報】ラリージャパン初日 「母国凱旋」勝田貴元選手はSS1パンクに泣いて6位!! 2日目からの巻き返しに期待",
-        "url": "https://bestcarweb.jp/news/motorsport/1534794"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "【速報】三菱パジェロ復活確定!! これ…パジェロジュニア、パジェロミニも揃って復活か!??",
-        "url": "https://bestcarweb.jp/news/business/1534145"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "オートバックスセコハン市場、「ASM」にストアブランド刷新へ",
-        "url": "https://response.jp/article/2026/05/29/412003.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "オールタイムレンタカー、新橋駅徒歩圏に新拠点開設…30代・40代利用拡大へ",
-        "url": "https://response.jp/article/2026/05/29/412006.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "オラフを支える技術とは？ ディズニーのフィジカルAI…Humanoids Summit Tokyo 2026 講演",
-        "url": "https://response.jp/article/2026/05/29/412004.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "ジェイテクト、ステア・バイ・ワイヤで自動車技術会賞…「技術開発賞」受賞",
-        "url": "https://response.jp/article/2026/05/29/411997.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "スターターにも空気入れにもなる!! 3in1車載ガジェットがバッテリー上がりも空気圧不足も解決!!",
-        "url": "https://bestcarweb.jp/news/1527347"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "ステップワゴンが前年比227.7%の大躍進!! いまファミリーに選ばれている理由",
-        "url": "https://bestcarweb.jp/feature/column/1530161"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "スバル アウトバックの日本導入を熱望せずにはいられない!! マツダ CX-70の規格外の格好良さも羨ましいぞ！",
-        "url": "https://bestcarweb.jp/feature/column/1531455"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.29",
-        "title": "セレナのベストグレードは？ 家族で選ぶならe-POWER ハイウェイスターVが本命だ",
-        "url": "https://bestcarweb.jp/feature/column/1530576"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "ティアフォーとKDDI、自動運転サービス社会実装で協業合意…1000台規模で導入めざす",
-        "url": "https://response.jp/article/2026/05/29/411999.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.29",
-        "title": "デンソー高棚製作所、小型自律搬送ロボ「カチャカプロ」を4ラインで導入…運搬作業をゼロに",
-        "url": "https://response.jp/article/2026/05/29/411993.html"
+        "title": "'Rather Have A Kia': BMW Sits On The Lot For 3 Months. Then The Dealership Does Something ‘Crazy’",
+        "url": "https://www.motor1.com/news/797206/car-sitting-too-long-discount/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 28,
-    "queued_articles": 28,
-    "processed": 28,
-    "started_at": "2026-05-29T16:54:32.274Z",
-    "finished_at": "2026-05-29T16:55:35.681Z",
+    "scoped_articles": 22,
+    "queued_articles": 22,
+    "processed": 22,
+    "started_at": "2026-05-30T04:16:00.293Z",
+    "finished_at": "2026-05-30T04:16:38.478Z",
     "success": true,
     "error": ""
   }
