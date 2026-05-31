@@ -17573,5 +17573,470 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-05-30T14:49:02.323Z"
+  },
+  "https://response.jp/article/2026/05/31/412041.html": {
+    "title_zh": "Blitz 推出 Daihatsu Move/Tanto 用 B-MCB 车身加强件",
+    "summary_short": "Blitz 为 Daihatsu Move、Tanto 等车型新增 B-MCB 前部车身加强件，采用 Motion Control Beam 技术，提升操控与舒适性。",
+    "summary_long": "改装零件制造商 Blitz（ブリッツ）为 Daihatsu Move、Tanto、Subaru Stella、Chiffon 等车型新增了采用 Aisin 开发的 Motion Control Beam（运动控制梁）的前部车身加强件 B-MCB。该产品适用于自然吸气发动机车型，此前已于 3 月推出涡轮增压车型版本。B-MCB 通过弹簧机构和摩擦机构抑制车身变形，吸收振动，提升转向响应和行驶稳定性。Blitz 针对每款车型进行了专用开发，确保最佳安装位置，并可与其 DAMPER ZZ-R 系列避震协同工作。",
+    "highlights_zh": [
+      "新增适配 8 款车型",
+      "采用 Motion Control Beam 技术",
+      "抑制车身变形",
+      "可与 DAMPER ZZ-R 避震协同使用"
+    ],
+    "entities": [
+      "BLITZ",
+      "ダイハツ",
+      "ムーヴ",
+      "タント",
+      "Motion Control Beam"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214427.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214427.jpg",
+      "https://response.jp/imgs/fill2/2214426.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:48:59.483Z"
+  },
+  "https://response.jp/article/2026/05/31/412039.html": {
+    "title_zh": "铃木 Hustler 小改款：新配色与新格栅引发热议",
+    "summary_short": "铃木 Hustler 及 Hustler Tough Wild 发布小改款，新增安全配置与设计更新，SNS 上反响热烈。",
+    "summary_long": "铃木于 5 月 27 日推出了轻型乘用车 Hustler 及 Hustler Tough Wild 的改良版，起售价 159.94 万日元。新车首次在铃木轻型车上标配盲点监测和后侧方交通警报，并搭载了结合毫米波雷达与单目摄像头的双传感器制动支持 II，可检测车辆、行人、自行车及摩托车，包括交叉路口场景。此外，全系标配自适应巡航控制（带全速追踪功能）、车道保持辅助、电动驻车制动和制动保持功能。设计方面，前格栅改为与头灯相连的倒梯形造型，并加入荧光黄色点缀，前保险杠增大车身色面积，后徽章采用树脂新设计。",
+    "highlights_zh": [
+      "新增双传感器制动支持 II",
+      "全系标配盲点监测与后侧方交通警报",
+      "首次搭载 ACC 与车道保持辅助",
+      "前格栅倒梯形设计加荧光黄点缀"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "ハスラー",
+      "ハスラー タフワイルド",
+      "双传感器制动支持 II",
+      "盲点监测"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214554.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214554.jpg",
+      "https://response.jp/imgs/fill2/2214528.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:48:59.665Z"
+  },
+  "https://bestcarweb.jp/feature/column/1501888": {
+    "title_zh": "汽车界缩写猜谜：RR 是什么意思？",
+    "summary_short": "RR 是 Rear-engine, Rear-wheel-drive 的缩写，意为后置发动机后轮驱动，如今已少见，保时捷 911 等经典车型采用此布局。",
+    "summary_long": "RR（Rear-engine, Rear-wheel-drive）指后置发动机后轮驱动布局，在现代汽车中已属罕见。保时捷 911 自 1960 年代诞生以来一直沿用 RR 布局，此外斯巴鲁 360、马自达 Carol 等日本经典车型也曾采用。",
+    "highlights_zh": [
+      "RR 代表后置发动机后轮驱动",
+      "保时捷 911 是 RR 经典代表",
+      "斯巴鲁 360 和马自达 Carol 也曾采用"
+    ],
+    "entities": [
+      "RR",
+      "后置发动机后轮驱动",
+      "保时捷 | Porsche",
+      "保时捷 911 | Porsche 911",
+      "斯巴鲁 360 | Subaru 360"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/21145048/00c.png?v=1776750649",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/21145048/00c-600x400.png?v=1776750649",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21151821/IKE_725-51-600x400.jpg?v=1779344302"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:02.948Z"
+  },
+  "https://response.jp/article/2026/05/31/412034.html": {
+    "title_zh": "《极限竞速：地平线 6》新活动奖励车：1997 Nissan Skyline GT-R V-Spec 等登场",
+    "summary_short": "《极限竞速：地平线 6》秋季更新，新增 1997 日产 GT-R V-Spec、1991 本田 CR-X SiR 等奖励车。",
+    "summary_long": "Playground Games 宣布《极限竞速：地平线 6》系列 1“日本へようこそ”进入秋季赛季，更新了奖励车和活动。玩家通过“节日播放列表”挑战获取积分，可解锁 1997 Nissan Skyline GT-R V-Spec（15 分）和 1991 Honda CR-X SiR（30 分）。系列累计奖励 2008 Mazda Furai 和 2010 Nissan 370Z 仍可获取。此外，三个赛季锦标赛提供 1993 Schuppan 962CR、2016 Abarth 695 Biposto 和 2021 Aston Martin DBX 作为奖励。",
+    "highlights_zh": [
+      "秋季赛季奖励车更新",
+      "15 分获 1997 Nissan Skyline…",
+      "30 分获 1991 Honda CR-X SiR",
+      "锦标赛奖励含 1993 Schuppan 962CR…"
+    ],
+    "entities": [
+      "Playground Games",
+      "极限竞速：地平线 6",
+      "日产 Skyline GT-R V-Spec",
+      "本田 CR-X SiR",
+      "马自达 Furai"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214405.png",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214400.png",
+      "https://response.jp/imgs/zoom1/2214406.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:02.963Z"
+  },
+  "https://response.jp/article/2026/05/31/412036.html": {
+    "title_zh": "VTuber 与《崩坏》《赛马娘》等痛车痛摩托 250 台集结！奥伊吹 ARC Championship 2026",
+    "summary_short": "250 台痛车痛摩托齐聚奥伊吹，VTuber 与《偶像大师》等主题同时展出，现场爱意满满。",
+    "summary_long": "在滋贺县米原市的奥伊吹赛车公园，每年 5 月下旬举办的痛车活动“ARC Championship”于 2026 年 5 月 24 日举行。现场集结了约 250 台痛车与痛摩托，涵盖 VTuber、《崩坏》、《赛马娘》等热门主题。同时，会场内还同步举办了以 VTuber 和《偶像大师》系列为主题的“爱ステ2nd”和“あたぶい2026”活动，气氛热烈。本文精选了展出的多款充满爱意的痛车与痛摩托。",
+    "highlights_zh": [
+      "250 台痛车痛摩托集结",
+      "VTuber 与《偶像大师》主题同步活动",
+      "涵盖《崩坏》《赛马娘》等热门作品",
+      "奥伊吹赛车公园年度盛会"
+    ],
+    "entities": [
+      "ARC Championship",
+      "VTuber",
+      "崩坏",
+      "赛马娘",
+      "偶像大师"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214621.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214555.jpg",
+      "https://response.jp/imgs/zoom1/2214622.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:05.847Z"
+  },
+  "https://bestcarweb.jp/feature/column/1512500": {
+    "title_zh": "100 万日元买雷克萨斯！油耗超 30km/L，雷克萨斯 CT200h 二手车实力解析",
+    "summary_short": "雷克萨斯 CT200h 二手车仅 100 万日元起，油耗超 30km/L，兼具高品质与低使用成本。",
+    "summary_long": "雷克萨斯 CT200h 于 2011 年推出，是品牌中罕见的紧凑型 5 门掀背车，2022 年停产。目前二手车市场平均价格约 170 万日元，中期改款后车型也可在 100 万日元出头入手。该车搭载 1.8L 阿特金森循环发动机与混合动力系统，JC08 模式油耗达 30.4km/L，同级领先。底盘采用高刚性车身与性能阻尼器，配合新开发悬架，提供出色操控与舒适性。外观低重心设计动感，内饰材质与配色丰富，展现雷克萨斯一贯的精致感。",
+    "highlights_zh": [
+      "二手车均价约 170 万日元",
+      "油耗 30.4km/L",
+      "高刚性车身+性能阻尼器",
+      "停产经典掀背"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "CT200h",
+      "混合动力",
+      "二手车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/06192108/00_lexus_CT200h_head.jpg?v=1778062870",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/06192108/00_lexus_CT200h_head-600x400.jpg?v=1778062870",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21151821/IKE_725-51-600x400.jpg?v=1779344302"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:06.502Z"
+  },
+  "https://bestcarweb.jp/feature/column/1526428": {
+    "title_zh": "比埃尔法更激进？2.4T 涡轮增压！威尔法 Z Premier 购车总价解析",
+    "summary_short": "本文解析丰田威尔法 Z Premier 2.4T 涡轮增压版的购车总费用，包括税费、选装件等，为潜在买家提供参考。",
+    "summary_long": "丰田威尔法于 2023 年 6 月推出新一代车型，基于 GA-K 平台，提供比埃尔法更激进的 2.4L 涡轮增压汽油发动机。2024 年 12 月进行了小改款，标配带行车记录仪的数字内后视镜，并增加车身颜色。本文以热销的 Z Premier 2.4T 车型为例，计算购车总费用，包括车价、税费、选装件（如通用踏板）及经销商安装工时费，其中工时费按 1.32 万日元/小时计算。税费部分按最大金额（4 月注册）估算。",
+    "highlights_zh": [
+      "威尔法提供 2.4T 涡轮增压",
+      "Z Premier 为热销版本",
+      "2024 年 12 月改款新增数字内后视镜",
+      "购车总费用含税费和选装件"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "威尔法",
+      "埃尔法",
+      "Z Premier"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21151821/IKE_725-51.jpg?v=1779344302",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21151821/IKE_725-51-600x400.jpg?v=1779344302",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/06192108/00_lexus_CT200h_head-600x400.jpg?v=1778062870"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:09.585Z"
+  },
+  "https://response.jp/article/2026/05/31/412032.html": {
+    "title_zh": "大发 Rocky 或推 3 排 7 座版：Rocky Space 即将登场？",
+    "summary_short": "大发 Rocky 可能迎来换代，并推出 3 排 7 座车型 Rocky Space，车名已注册，预计 2027 年亮相。",
+    "summary_long": "大发人气跨界 SUV Rocky 有望在 2027 年左右进行换代，最大亮点是推出 3 排 7 座车型“Rocky Space”。该车名已于 2022 年注册，预计基于现款 Rocky 加长轴距和车长，全长达 4400mm，显著提升乘坐空间。现款 Rocky 自 2019 年复活以来，已销售约 8 年，换代时机成熟。",
+    "highlights_zh": [
+      "Rocky 或于 2027 年换代",
+      "新增 3 排 7 座车型 Rocky Space",
+      "车长增至约 4400mm",
+      "车名已注册"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Rocky",
+      "Rocky Space",
+      "跨界 SUV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2213716.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2213716.jpg",
+      "https://response.jp/imgs/fill2/2213718.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:09.641Z"
+  },
+  "https://response.jp/article/2026/05/31/412040.html": {
+    "title_zh": "日产 Skyline 下一代车型即将登场，最大 420 马力",
+    "summary_short": "日产 Skyline 下一代车型即将推出，最大功率 420 马力，成为 5 月最受关注的谍照新闻。",
+    "summary_long": "5 月公开的新型车谍照新闻中，根据访问量统计的排行榜显示，日产 Skyline 下一代车型备受关注，最大输出功率可达 420 马力。",
+    "highlights_zh": [
+      "日产 Skyline 下一代车型即将推出",
+      "最大功率 420 马力",
+      "5 月最受关注谍照新闻"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Skyline"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214264.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214264.jpg",
+      "https://response.jp/imgs/zoom/2205625.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:11.806Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531950": {
+    "title_zh": "本田 VTEC 涡轮与马自达直六柴油涡轮+MHEV：技术狂人的“令和发动机”咆哮",
+    "summary_short": "本田 VTEC 涡轮、马自达直六柴油轻混等日系发动机技术盘点，致敬令和时代的性能杰作。",
+    "summary_long": "随着 2026 年 8 月雷克萨斯 LC 停产，平成名机 2UR-GSE 将谢幕。本文聚焦当前在售车型搭载的令和时代发动机，如本田 VTEC 涡轮增压、马自达直列六缸柴油涡轮+轻混等，展现日本车企工程师对高性能动力单元的执着追求。回顾历史，从 1963 年日本大奖赛起，各厂商竞相提升发动机技术，DOHC、转子引擎等名机辈出，如今新一代发动机延续着技术狂人的精神。",
+    "highlights_zh": [
+      "雷克萨斯 LC 2026 年 8 月停产",
+      "本田 VTEC 涡轮增压发动机代表令和时代技术",
+      "马自达直列六缸柴油涡轮+轻混系统",
+      "日本车企工程师对高性能发动机的执着"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "马自达 | Mazda",
+      "雷克萨斯 | Lexus",
+      "VTEC 涡轮",
+      "直六柴油涡轮+MHEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27140906/00_engine01_head.jpg?v=1779858547",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27140906/00_engine01_head-600x400.jpg?v=1779858547",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21151821/IKE_725-51-600x400.jpg?v=1779344302"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:13.295Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1522546": {
+    "title_zh": "地图上显示步行无法到达？探访神奈川县道之驿“箱根峠”",
+    "summary_short": "神奈川县首个道之驿“箱根峠”位于国道 1 号，景色优美，但公交站点与设施间有森林阻隔，步行需谨慎。",
+    "summary_long": "神奈川县首个道之驿“箱根峠”位于国道 1 号连接芦之湖与三岛方向的峠道途中，晴天可眺望芦之湖与箱根群山，是兼具景观的休息点。通常道之驿以自驾为主，公共交通不便。该设施最近的公交站“箱根やすらぎの森入口”直线距离约 100 米，但中间隔着森林，高低差 35 米，实际步行路线需绕行。",
+    "highlights_zh": [
+      "神奈川县首个道之驿“箱根峠”",
+      "公交站直线距离 100 米",
+      "高低差 35 米",
+      "适合自驾"
+    ],
+    "entities": [
+      "箱根峠",
+      "道之驿",
+      "芦之湖",
+      "箱根",
+      "国道 1 号"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/17122822/rs_hkgd_acs_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/24082624/plg_bstmnl_06-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/16140028/rdskng_bsacs2604_catch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:14.899Z"
+  },
+  "https://www.motor1.com/news/797341/ford-infotainment-freeze-fix/": {
+    "title_zh": "福特信息娱乐屏幕死机？两键软重置即可恢复",
+    "summary_short": "福特经销商员工演示两键软重置，可快速修复信息娱乐屏幕死机，无需清除应用或设置。",
+    "summary_long": "福特经销商员工 Jesse Park 在 TikTok 上分享了一个快速修复信息娱乐屏幕死机的技巧：同时按住方向盘上的音量减键和下一曲键约 5 秒，或按下屏幕下方的音量旋钮和向右搜索键，即可执行软重置。与恢复出厂设置不同，软重置不会清除已安装的应用、个人设置或连接的设备，为车主提供了一种低干扰的解决方案。该视频已获得超过 1.5 万次观看。",
+    "highlights_zh": [
+      "两键软重置可修复死机",
+      "不丢失应用和设置",
+      "方向盘或屏幕下方均可操作",
+      "耗时仅 5 秒"
+    ],
+    "entities": [
+      "福特 | Ford"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYLzq/s1/infotainment-center-in-man-s-ford-freezes.-then-he-tries-a-hack-to-fix-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:16.038Z"
+  },
+  "https://www.motor1.com/news/797375/7-eleven-surveillance-cameras/": {
+    "title_zh": "男子在 7-Eleven 停车场等人，监控摄像头竟开口警告",
+    "summary_short": "芝加哥一男子在 7-Eleven 停车场等未婚妻时，被太阳能监控塔警告不要闲逛，引发 AI 监控讨论。",
+    "summary_long": "芝加哥一名男子在 7-Eleven 停车场等待未婚妻时，被一座太阳能监控塔检测到并广播要求停止闲逛。该事件被拍摄并上传至 TikTok，引发关于美国公共空间 AI 监控的讨论。监控塔在男子坐下后亮起白光并发出警告，男子表示不满。",
+    "highlights_zh": [
+      "监控塔在男子坐下后亮灯并广播警告",
+      "TikTok 视频获超 42.7 万次观看",
+      "网友误认为是 Flock 摄像头",
+      "事件引发 AI 监控讨论"
+    ],
+    "entities": [
+      "7-Eleven",
+      "芝加哥",
+      "TikTok",
+      "Flock 摄像头"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7eJK/s1/man-waits-for-fiance-in-7-eleven-parking-lot.-then-the-surveillance-camera-starts-talking-to-him.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:17.706Z"
+  },
+  "https://www.motor1.com/news/797373/woman-blocks-driveway/": {
+    "title_zh": "女子每天堵住别人车道接孩子，房主忍无可忍",
+    "summary_short": "一名家长每天在学校接送时堵住居民车道，房主多次交涉无果，引发关于堵车道是否违法的讨论。",
+    "summary_long": "一位住在小学附近的居民 Lucy 在 TikTok 上抱怨，一名家长每天在学校放学时把车停在她的车道上，然后去接孩子。尽管多次交涉，该家长依然我行我素。Lucy 指出堵车道是违法的，但车辆停留时间短，拖车来不及处理，这种行为让她越来越恼火。",
+    "highlights_zh": [
+      "家长每天堵车道接孩子",
+      "房主多次交涉无果",
+      "堵车道属违法行为",
+      "车辆停留短拖车难处理"
+    ],
+    "entities": [
+      "Lucy"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlLY6/s1/woman-blocks-driveway-daily-when-picking-up-kids.-then-the-homeowner-confronts-her.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:18.990Z"
+  },
+  "https://www.motor1.com/news/797240/quick-lube-mistake/": {
+    "title_zh": "快速换油店失误致丰田 Tundra 发动机损坏",
+    "summary_short": "一辆 2021 款丰田 Tundra 在快速换油店换油后立即故障，因技师未安装 O 型密封圈导致机油泄漏，发动机可能报废。",
+    "summary_long": "一名丰田 Tundra 车主在快速换油店进行常规换油后，车辆立即出现故障。维修店技师发现机油滤清器外壳的 O 型密封圈被遗漏，导致机油大量泄漏，发动机可能严重损坏。事件引发对快速换油服务可靠性的质疑。",
+    "highlights_zh": [
+      "2021 款丰田 Tundra 换油后立即故障",
+      "机油滤清器 O 型密封圈被遗漏",
+      "机油泄漏导致发动机可能报废",
+      "快速换油服务可靠性受质疑"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tundra",
+      "快速换油",
+      "发动机损坏"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8jxv/s1/man-gets-oil-changed-at-quick-lube-spot.-then-it-breaks-down-almost-immediately.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:20.385Z"
+  },
+  "https://insideevs.com/news/797361/china-best-selling-update-geely/": {
+    "title_zh": "中国最畅销车型升级：吉利星愿（EX2）更智能、续航更长，起售价不到 9000 美元",
+    "summary_short": "吉利星愿（EX2）更新版新增辅助驾驶、更大电池，续航达 298 英里，起售价约 9000 美元。",
+    "summary_long": "吉利星愿（EX2）作为中国最畅销车型，近日迎来更新。新车搭载吉利 Afari 智能驾驶系统（G-ASD），支持导航辅助驾驶、自动泊车和哨兵模式，显著提升智能化水平。动力方面新增 47kWh 电池组，CLTC 续航达 298 英里，快充 30-80%仅需 19 分钟。起售价约 9000 美元，性价比进一步提升。",
+    "highlights_zh": [
+      "新增吉利 Afari 智能驾驶系统",
+      "支持导航辅助驾驶和自动泊车",
+      "新增 47kWh 电池",
+      "快充 30-80%仅需 19 分钟"
+    ],
+    "entities": [
+      "吉利",
+      "星愿",
+      "EX2",
+      "比亚迪 | BYD",
+      "海鸥"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4GXn/s1/2026-geely-xingyuan-ex2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:22.298Z"
+  },
+  "https://www.thedrive.com/news/the-honda-0-series-saloon-wouldve-been-a-better-ferrari-design-than-the-luce": {
+    "title_zh": "本田 0 系列轿车：比法拉利 Luce 更出色的设计",
+    "summary_short": "本田 0 系列轿车设计更具情感冲击力，比法拉利首款电动车 Luce 更符合超跑气质，但该车已被取消。",
+    "summary_long": "法拉利首款电动车 Luce 因设计非传统而引发争议，而本田已取消的 0 系列轿车则展现了更出色的设计。0 系列轿车采用经典楔形车身，类似法拉利 F40 和 Testarossa，能激发原始情感，这正是法拉利应有的特质。相比之下，Luce 整体造型更像普通跨界车，缺乏新意。",
+    "highlights_zh": [
+      "本田 0 系列轿车设计更具情感冲击力",
+      "Luce 因非传统设计引发争议",
+      "0 系列采用经典楔形车身",
+      "Luce 造型类似普通跨界车"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "法拉利 | Ferrari",
+      "0 系列轿车 | 0 Series Saloon",
+      "Luce"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/02-Honda-0-Saloon.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/08-Honda-0-Saloon-side.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Luce_26rtv4_Lightson_6000x3375_17127a28-8d8a-4934-bed4-89d256f766b6-copy-1.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:22.959Z"
+  },
+  "https://insideevs.com/news/797303/used-vw-id4-ev-bargain-owner-review/": {
+    "title_zh": "不到 2 万美元的二手大众 ID.4：电动车超值之选",
+    "summary_short": "一位车主以 1.93 万美元购入二手大众 ID.4，5 个月行驶 1 万英里，称其为超值之选。",
+    "summary_long": "一位车主以 1.93 万美元购入一辆行驶 4.6 万英里的 2023 款大众 ID.4 AWD Pro，5 个月行驶 1 万英里后分享体验。该车 EPA 续航 255 英里，空间适合家庭。主要问题包括 GPS 天线模块故障导致导航不准，需拔保险丝或使用手机 GPS；前乘客侧有异响；后轮胎磨损较快。总体而言，车主认为该车性价比极高。",
+    "highlights_zh": [
+      "购入价仅 1.93 万美元",
+      "5 个月行驶 1 万英里",
+      "GPS 天线模块故障",
+      "后轮胎磨损较快"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID.4",
+      "Out of Spec Bits"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6N4bR/s1/2023-volkswagen-id.4-awd-pro.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:24.866Z"
+  },
+  "https://www.thedrive.com/news/this-tactical-luxury-truck-is-a-ford-raptor-with-a-smoke-screen-system": {
+    "title_zh": "福特 F-150 猛禽改装版“堡垒”：配备烟幕系统",
+    "summary_short": "Rezvani 基于福特 F-150 Raptor 打造“堡垒”战术豪华皮卡，可选装甲套件，配备烟幕、防弹玻璃等装备。",
+    "summary_long": "Rezvani 推出全新“Fortress”车型，基于福特 F-150 Raptor 打造，定位“战术豪华”皮卡。外观采用厚重棱角设计，营造威慑感。可选装甲套件包括防弹车身、防爆底盘、防弹玻璃、强化悬架、泄气保用轮胎、油箱保护、电子门把手、磁力锁、紧急逃生系统，以及烟幕、频闪灯、强化保险杠、警报器等进攻性装备。另有越野生存套件，含太阳能板、逆变器、发电机、储水、无冰冷却器、空气压缩机等。",
+    "highlights_zh": [
+      "基于福特 F-150 Raptor 打造",
+      "可选装甲套件含防弹玻璃与防爆底盘",
+      "配备烟幕、频闪灯等进攻性装备",
+      "越野生存套件支持离网生存"
+    ],
+    "entities": [
+      "Rezvani",
+      "福特 | Ford",
+      "F-150 Raptor",
+      "Fortress"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/1-rezvani-fortress-images.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/rezvani-motors-fortress-picture.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/2-rezvani-fortress-picture-SR71.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:25.906Z"
+  },
+  "https://www.thedrive.com/news/unassuming-1996-toyota-4runner-commands-52800-at-mecum-is-this-a-sign": {
+    "title_zh": "1996 款丰田 4Runner 以 52,800 美元成交，这是否预示新趋势？",
+    "summary_short": "一辆仅行驶 6951 英里的 1996 款丰田 4Runner 在 Mecum 拍卖会上以 52,800 美元成交，远超预期，引发对 90 年代 SUV 收藏热潮的关注。",
+    "summary_long": "一辆 1996 款丰田 4Runner SR5 在 Mecum 印第安纳波利斯拍卖会上以 52,800 美元成交，远超拍卖行预估的 35,000 至 45,000 美元。该车仅行驶 6,951 英里，车况完美，采用银色涂装和 3.4 升 V6 发动机。Mecum 此前注意到该车在预展中点击率最高，最终成交价也创下该车型历史新高。这一现象可能预示着 90 年代 SUV 正成为新的收藏热点。",
+    "highlights_zh": [
+      "1996 款丰田 4Runner SR5 以 52",
+      "仅行驶 6",
+      "成交价远超预估的 35",
+      "或预示 90 年代 SUV 收藏热潮"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "4Runner",
+      "Mecum",
+      "SUV"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-1.06.44-PM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-12.52.49-PM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-12.52.56-PM.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T04:49:27.590Z"
   }
 }

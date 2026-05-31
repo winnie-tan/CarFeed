@@ -1,107 +1,155 @@
 {
   "workflow": {
-    "generated_at": "2026-05-30T14:48:37.423Z",
-    "articles_in_feed": 386,
-    "deepseek_translated_before_run": 374,
-    "deepseek_untranslated_before_run": 12,
-    "newly_fetched_articles": 12,
-    "newly_fetched_untranslated": 12,
+    "generated_at": "2026-05-31T04:48:55.105Z",
+    "articles_in_feed": 400,
+    "deepseek_translated_before_run": 380,
+    "deepseek_untranslated_before_run": 20,
+    "newly_fetched_articles": 20,
+    "newly_fetched_untranslated": 20,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 12,
+    "translation_queue_count": 20,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.5.30",
-        "title": "Car Salesman Says SUV Buyers Always Buy Based On Price. Then He Reveals That's A Mistake: 'They End Up Regretting It'",
-        "url": "https://www.motor1.com/news/797319/suv-salesman-buying-advice/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.5.30",
-        "title": "People Keep Damaging Garbage Trucks by Throwing Car Batteries in the Trash",
-        "url": "https://www.thedrive.com/news/people-keep-throwing-away-car-batteries-in-dumpsters-and-thats-a-recipe-for-disaster"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.5.30",
-        "title": "A British Icon Returns With 720 Horsepower",
-        "url": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.5.30",
-        "title": "‘I Was Just Clicking Buttons’: Woman Gets New BMW. Then She ‘Bricks’ It And Makes It ‘Undriveable’ In Less Than 48 Hours",
-        "url": "https://www.motor1.com/news/797322/bmw-bimmercode-bricked/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.30",
-        "title": "「自動運転用タイヤ」ってなに？ 次世代に向けた新しいタイヤが登場したゾ!!",
-        "url": "https://bestcarweb.jp/feature/column/1524977"
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "「お顔も色もかわいい」スズキ『ハスラー』がマイナーチェンジ！ 新カラー新グリルがSNSで話題に",
+        "url": "https://response.jp/article/2026/05/31/412039.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.5.30",
-        "title": "『アクアGRスポーツ』がタナベのフラッグシップ車高調「サステックプロZT40」に適合",
-        "url": "https://response.jp/article/2026/05/30/412028.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.30",
-        "title": "アルファードより巨大なX9の展開早すぎ!! 1年後に完全自動運転が実装されるってマジかよ",
-        "url": "https://bestcarweb.jp/feature/column/1524026"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.30",
-        "title": "ヴェルファイアのリセール最強グレードはZ プレミアのターボ？ 買って損しない仕様選び",
-        "url": "https://bestcarweb.jp/feature/column/1525494"
+        "time": "2026.5.31",
+        "title": "「モーションコントロールビーム」でボディ補強、ダイハツ『ムーヴ』『タント』向けブリッツ「B-MCB」発売",
+        "url": "https://response.jp/article/2026/05/31/412041.html"
       },
       {
         "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "『Forza Horizon 6』新イベントのリワードカーに「1997 Nissan Skyline GT-R V-Spec」など登場",
+        "url": "https://response.jp/article/2026/05/31/412034.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「RR」",
+        "url": "https://bestcarweb.jp/feature/column/1501888"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "100万円台でレクサス!! リッター30km超えの低燃費も実現！ レクサス CT200h中古車の実力とは",
+        "url": "https://bestcarweb.jp/feature/column/1512500"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "VTuberや『崩壊』『ウマ娘』などの痛車＆痛バイクが総勢250台集結！愛がたっぷり詰まった奥伊吹を取材【ARCChampionship 2026フォトレポ】",
+        "url": "https://response.jp/article/2026/05/31/412036.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "アルファードより攻めてる!? 2.4Lターボ搭載！ ヴェルファイア Zプレミア購入総額とは",
+        "url": "https://bestcarweb.jp/feature/column/1526428"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "ダイハツ『ロッキー』が3列7人乗りSUVに!?「ロッキースペース」登場の可能性は",
+        "url": "https://response.jp/article/2026/05/31/412032.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "ついに投入！ 最大420馬力の日産『スカイライン』次期型…5月のスクープ記事ベスト5",
+        "url": "https://response.jp/article/2026/05/31/412040.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "ホンダのVTECターボとマツダの直6ディーゼルターボ＋MHEV……技術屋の執念が爆発した「令和エンジン」の咆哮を聴け！",
+        "url": "https://bestcarweb.jp/feature/column/1531950"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "マップ上では徒歩来店非対応に見える神奈川県の道の駅「箱根峠」! 事実なのか最寄りのバス停で降りてみると……!?",
+        "url": "https://bestcarweb.jp/busmagazine/1522546"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.31",
+        "title": "‘Save This’: Infotainment Center In Man’s Ford Freezes. Then He Tries A Hack To Fix It",
+        "url": "https://www.motor1.com/news/797341/ford-infotainment-freeze-fix/"
+      },
+      {
+        "source": "Motor1",
         "time": "2026.5.30",
-        "title": "ビヨンドジャパン、『ジムニー』用「リアサブバンパーガード」発売…リフトアップ車検対策に",
-        "url": "https://response.jp/article/2026/05/30/412026.html"
+        "title": "Man Waits For Fiance In 7-Eleven Parking Lot. Then A Surveillance Camera Starts Talking To Him: ‘The Next Step Is Sending A Drone'",
+        "url": "https://www.motor1.com/news/797375/7-eleven-surveillance-cameras/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.30",
+        "title": "‘It Is Illegal To Block Somebody’s Driveway’: Woman Blocks Driveway Daily When Picking Up Kids. Then The Homeowner Confronts Her",
+        "url": "https://www.motor1.com/news/797373/woman-blocks-driveway/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.30",
+        "title": "Man Gets Oil Changed At Quick Lube Spot. Then It Breaks Down Almost Immediately: 'They Owe Him A New Motor'",
+        "url": "https://www.motor1.com/news/797240/quick-lube-mistake/"
       },
       {
         "source": "InsideEVs",
         "time": "2026.5.30",
-        "title": "Tesla Could Build A Model 3 Plaid. That Doesn’t Mean It Will",
-        "url": "https://insideevs.com/news/797308/tesla-model-3-podcast-catch/"
+        "title": "China's Best-Selling Car Just Got Better And Cheaper",
+        "url": "https://insideevs.com/news/797361/china-best-selling-update-geely/"
       },
       {
-        "source": "Motor1",
+        "source": "The Drive",
         "time": "2026.5.30",
-        "title": "Man Wants To Buy 2026 Toyota For His Sister-In-Law. Then He Realizes He Could Get Sued—So He Finds A Creative Loophole",
-        "url": "https://www.motor1.com/news/797316/toyota-gift-liability/"
+        "title": "The Honda 0 Series Saloon Would’ve Been a Better Ferrari Design Than the Luce",
+        "url": "https://www.thedrive.com/news/the-honda-0-series-saloon-wouldve-been-a-better-ferrari-design-than-the-luce"
       },
       {
-        "source": "Motor1",
+        "source": "InsideEVs",
         "time": "2026.5.30",
-        "title": "Man Reads 'Leaked' AutoZone Memo. Then He Stocks Up: 'I Have 30 Cases On Hand'",
-        "url": "https://www.motor1.com/news/797239/autozone-leaked-oil-memo/"
+        "title": "This Sub-$20,000 Volkswagen ID.4 Proves Used EVs Are The Ultimate Bargain",
+        "url": "https://insideevs.com/news/797303/used-vw-id4-ev-bargain-owner-review/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.5.30",
+        "title": "This ‘Tactical Luxury Truck’ Is a Ford Raptor With a Smoke-Screen System",
+        "url": "https://www.thedrive.com/news/this-tactical-luxury-truck-is-a-ford-raptor-with-a-smoke-screen-system"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.5.30",
+        "title": "Unassuming 1996 Toyota 4Runner Commands $52,800 at Mecum. Is This a Sign?",
+        "url": "https://www.thedrive.com/news/unassuming-1996-toyota-4runner-commands-52800-at-mecum-is-this-a-sign"
       }
     ],
     "event_name": "schedule",
-    "run_id": "26686741061",
-    "sha": "8a7df40a7bd044c736b963316cbe03c3b7ce5dd7",
-    "completed_at": "2026-05-30T14:49:02.559Z",
+    "run_id": "26703565895",
+    "sha": "e0ba2042d54413685bb6597c9485e3fde63cf0f2",
+    "completed_at": "2026-05-31T04:49:27.860Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 386,
+    "deepseek_translated_after_run": 400,
     "deepseek_untranslated_after_run": 0,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 12,
-    "queued_articles": 12,
-    "processed": 12,
-    "started_at": "2026-05-30T14:48:37.705Z",
-    "finished_at": "2026-05-30T14:49:02.327Z",
+    "scoped_articles": 20,
+    "queued_articles": 20,
+    "processed": 20,
+    "started_at": "2026-05-31T04:48:55.414Z",
+    "finished_at": "2026-05-31T04:49:27.595Z",
     "success": true,
     "error": ""
   }
