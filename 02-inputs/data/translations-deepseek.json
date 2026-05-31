@@ -18038,5 +18038,352 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-05-31T04:49:27.590Z"
+  },
+  "https://www.thedrive.com/news/will-electric-semis-ever-take-off-california-hopes-1b-rebate-program-will-help": {
+    "title_zh": "电动半挂卡车能否起飞？加州 10 亿美元补贴计划助力",
+    "summary_short": "加州推出 10 亿美元补贴计划，为电动卡车提供 7500 至 12 万美元补贴，以推动商用车电动化。",
+    "summary_long": "加州空气资源委员会宣布 10 亿美元电动卡车补贴计划，针对中型和重型车辆，补贴金额从 7500 美元到 12 万美元不等，按车辆尺寸递增。该计划旨在复制乘用车激励模式，推动商用车减排。补贴仅限纯电动新车，不包括氢燃料电池车型。",
+    "highlights_zh": [
+      "加州 10 亿美元补贴电动卡车",
+      "补贴金额 7500 至 12 万美元",
+      "仅限纯电动新车",
+      "旨在复制乘用车激励模式"
+    ],
+    "entities": [
+      "加州空气资源委员会",
+      "加州清洁燃料奖励计划",
+      "丰田 | Toyota",
+      "PACCAR"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Volvo-VNR-Electric-charging.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Freightliner-eCascadia-Coca-Cola.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Freightliner-eM2-charging.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:20.226Z"
+  },
+  "https://www.motor1.com/news/797326/tires-wear-unevenly/": {
+    "title_zh": "轮胎前后磨损差异惊人：技师检查后直呼“谁做的定位？”",
+    "summary_short": "技师检查轮胎发现后轮胎纹深 13/32 英寸，前轮却已磨平，揭示轮胎磨损不均的安全隐患。",
+    "summary_long": "一位技师在检查车辆时发现，后轮胎纹深度为 13/32 英寸（近乎全新），而前轮胎纹已完全磨平。这种前后轮胎磨损严重不均的现象，可能是车主只更换了后轮而未换前轮所致，但无论原因如何，都构成严重的安全风险。视频中技师幽默地拿自己的光头对比胎纹深度，提醒车主注意轮胎保养。",
+    "highlights_zh": [
+      "后轮胎纹深度 13/32 英寸",
+      "前后轮胎磨损不均",
+      "技师幽默对比光头与胎纹深度",
+      "磨损不均构成严重安全隐患"
+    ],
+    "entities": [
+      "轮胎",
+      "胎纹深度",
+      "车辆保养",
+      "安全"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6N4rv/s1/mechanic-checks-tread-depth-on-back-tires.-then-he-checks-it-on-the-front.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:20.874Z"
+  },
+  "https://www.motor1.com/news/797333/maserati-gt2-stradale-100-year-livery/": {
+    "title_zh": "玛莎拉蒂推出百年纪念涂装",
+    "summary_short": "玛莎拉蒂为庆祝三叉戟标志和赛车运动百年，推出基于 250F 的纪念涂装，应用于 GT2 Stradale 和 GT2 赛车。",
+    "summary_long": "玛莎拉蒂为庆祝三叉戟标志诞生 100 周年及品牌首次参赛 100 周年，推出了一系列纪念涂装。涂装灵感源自经典 F1 赛车 250F，由 Fuoriserie 个性化项目开发，将应用于 GT2 Stradale 公路跑车和 GT2 赛车，强化赛道与公路的联系。该涂装在 2026 年 GT2 欧洲系列赛蒙扎站首次亮相。",
+    "highlights_zh": [
+      "纪念三叉戟标志和赛车运动百年",
+      "涂装灵感源自经典 250F 赛车",
+      "应用于 GT2 Stradale 和 GT2 赛车",
+      "在蒙扎赛道首次亮相"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "GT2 Stradale",
+      "250F",
+      "三叉戟标志",
+      "GT2 欧洲系列赛"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8Lzm/s1/maserati-corse-250f-livery.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:23.721Z"
+  },
+  "https://response.jp/article/2026/05/31/412046.html": {
+    "title_zh": "BMW 发布直列六缸概念摩托车 Vision K18",
+    "summary_short": "BMW 发布搭载 1800cc 直列六缸发动机的概念摩托车 Vision K18，独特设计引发网友热议。",
+    "summary_long": "BMW 摩托车部门发布了全新概念车型 Vision K18，搭载 1800cc 直列六缸发动机，设计极具个性。该车以“速度之热”为核心理念，通过热浪视觉效果展现六缸动力。车身采用修长轮廓，配备六个进气口、六出排气和六颗 LED 头灯，手工铝制车身和液压可调悬挂进一步强化了其概念车身份。SNS 上网友纷纷评论其像“假面骑士的摩托车”或“蝙蝠车”。",
+    "highlights_zh": [
+      "搭载 1800cc 直列六缸发动机",
+      "设计灵感来自航空器",
+      "六个进气口、六出排气、六颗 LED 头灯",
+      "手工铝制车身与液压悬挂"
+    ],
+    "entities": [
+      "BMW",
+      "Vision K18"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214746.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214746.jpg",
+      "https://response.jp/imgs/fill2/2214750.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:25.175Z"
+  },
+  "https://response.jp/article/2026/05/31/412045.html": {
+    "title_zh": "雪铁龙 C3 新款试驾：长途才能体现真正价值？",
+    "summary_short": "雪铁龙新款 C3 虽小，但长途驾驶后能体现其真正价值，轻快灵活且舒适。",
+    "summary_long": "雪铁龙新款 C3 车身小巧，长 4015mm，宽 1755mm，高 1590mm，虽不能进立体停车场，但车内空间宽敞，后排舒适。驾驶位采用横向椭圆方向盘，不遮挡仪表信息，但方向盘前后调节范围稍小，需通过座椅调整弥补。搭载 1.2 升涡轮增压发动机配轻度混合动力系统，加速轻快，高速行驶柔顺，转向手感轻盈，中低速时略感过于灵敏。",
+    "highlights_zh": [
+      "小巧车身",
+      "1.2T+轻混",
+      "转向轻盈",
+      "长途驾驶体现真正价值"
+    ],
+    "entities": [
+      "雪铁龙",
+      "C3"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214715.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214715.jpg",
+      "https://response.jp/imgs/fill2/2214718.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:28.669Z"
+  },
+  "https://response.jp/article/2026/05/31/412043.html": {
+    "title_zh": "吉姆尼诺玛德终极低趴：Tanabe 推出专用避震",
+    "summary_short": "Tanabe 为铃木吉姆尼诺玛德推出专用避震，实现极致低趴姿态，兼顾舒适与操控。",
+    "summary_long": "Tanabe（塔纳贝）为铃木吉姆尼诺玛德（JC74W，2025 年 4 月后）推出专用“Sustec Pro X-LIMIT”避震器，售价 140,800 日元，预计 7 月底交付。该避震专为 SUV 设计，通过全长调节式结构和专用短转向节支架，在保证避震行程的同时实现极限降低车身。采用 PRO210 弹簧，强度达 2100N/mm，兼顾轻量化和耐久性；锥形支架锁止和双重涂层防锈处理提升可靠性。前后均为原厂形状，横向旋钮 14 段阻尼可调，推荐降低范围：前-50 至-37mm，后-55 至-35mm。",
+    "highlights_zh": [
+      "专为吉姆尼诺玛德设计",
+      "全长调节式避震",
+      "PRO210 弹簧兼顾轻量与耐久",
+      "14 段阻尼可调"
+    ],
+    "entities": [
+      "Tanabe",
+      "Sustec Pro X-LIMIT",
+      "铃木 | Suzuki",
+      "吉姆尼诺玛德"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214484.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214484.jpg",
+      "https://response.jp/imgs/fill2/2214485.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:28.704Z"
+  },
+  "https://response.jp/article/2026/05/31/412042.html": {
+    "title_zh": "カーナビタイム新增 U-turn 禁止提示与积极利用路线功能",
+    "summary_short": "日本导航应用カーナビタイム新增 U-turn 禁止提示图标及积极利用路线功能，帮助司机避免违章并优化行驶距离。",
+    "summary_long": "日本导航应用カーナビタイム于 5 月 28 日新增对 U-turn 禁止规制的应对功能。该功能在地图上以图标显示禁止 U-turn 的路段，并提供“积极利用 U-turn 路线”，在允许 U-turn 的地方主动引导用户掉头以缩短行驶距离。功能开发源于出租车司机的强烈需求，旨在帮助专业司机避免违章、提高效率。",
+    "highlights_zh": [
+      "地图上显示 U-turn 禁止图标",
+      "提供积极利用 U-turn 的路线",
+      "行驶中在路线和屏幕右下角提示",
+      "禁止路段以橙色线标示"
+    ],
+    "entities": [
+      "カーナビタイム",
+      "ナビタイムジャパン",
+      "U-turn 禁止",
+      "出租车司机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214481.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214481.jpg",
+      "https://response.jp/imgs/fill2/2214482.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:31.976Z"
+  },
+  "https://www.motor1.com/news/797381/jaguar-land-rover-part-problem/": {
+    "title_zh": "机修工发现路虎新零件内藏金属碎屑",
+    "summary_short": "机修工从路虎经销商订购全新冷却管，发现内部充满金属碎屑，若未清理将导致发动机损坏。",
+    "summary_long": "一位机修工从捷豹路虎经销商处订购了一根全新的冷却管，但在安装前发现管内塞满了金属碎屑。这些加工残留物若随零件安装，会在发动机启动后迅速循环，造成严重损坏。机修工拍摄的视频获得超 140 万次观看，评论区许多工厂工人表示此类问题屡见不鲜。",
+    "highlights_zh": [
+      "全新冷却管内发现金属碎屑",
+      "若未清理将导致发动机损坏",
+      "视频获超 140 万次观看",
+      "工厂工人称此类问题常见"
+    ],
+    "entities": [
+      "捷豹路虎 | Jaguar Land Rover",
+      "路虎 | Land Rover",
+      "捷豹"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8jmE/s1/mechanic-orders-brand-new-part-for-a-land-rover.-then-he-finds-something-shocking-inside.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:32.608Z"
+  },
+  "https://response.jp/article/2026/05/31/412048.html": {
+    "title_zh": "新作角色收纳用品：可爱才是王道！",
+    "summary_short": "SEIWA 推出四款角色主题收纳盒，包括 Hello Kitty 和 Kuromi，兼具实用与可爱。",
+    "summary_long": "本期精选四款角色主题收纳用品，均来自汽车用品品牌 SEIWA。其中“Face Box Hello Kitty”和“Face Box Kuromi”为半月形收纳盒，可作小物盒或垃圾桶，正面有角色图案，内部也有相应装饰，底部配有防滑贴，尺寸可容纳三瓶 500ml 饮料。",
+    "highlights_zh": [
+      "SEIWA 推出四款角色收纳新品",
+      "Hello Kitty 和 Kuromi 两款半月形…",
+      "内部也有角色装饰",
+      "底部防滑设计"
+    ],
+    "entities": [
+      "SEIWA",
+      "Hello Kitty",
+      "Kuromi",
+      "收纳盒"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214390.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214390.jpg",
+      "https://response.jp/imgs/fill2/2214384.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:36.268Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531980": {
+    "title_zh": "大发 Taft 141 万日元起售，价格破坏力惊人！对比铃木 Hustler 和三菱 Delica Mini 更显实惠",
+    "summary_short": "大发 Taft 以 141.9 万日元起售，价格低于铃木 Hustler 和三菱 Delica Mini，展现强大性价比。",
+    "summary_long": "大发 Taft 作为轻 SUV 风格车型，起售价仅 141.9 万日元，相比铃木 Hustler（159.94 万日元起）和三菱 Delica Mini 更具价格优势。Taft 提供 X、G、G Turbo 三款配置，其中 G 版标配 Skyfeel Top、15 英寸铝合金轮毂等，售价 160.6 万日元。Hustler 虽在 2026 年 5 月升级安全配置，但价格更高，且混合动力版油耗 24.3km/L 优于 Taft 的 21.4km/L。Taft 以实惠价格和独特设计吸引注重性价比的消费者。",
+    "highlights_zh": [
+      "大发 Taft 起售价 141.9 万日元",
+      "G 版售价 160.6 万日元",
+      "铃木 Hustler 起售价 159.94 万日元",
+      "Taft 价格低于主要竞品"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Taft",
+      "铃木 | Suzuki",
+      "Hustler",
+      "三菱 | Mitsubishi"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28164348/derika-taft-hasura-1.jpg?v=1779954230",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28164348/derika-taft-hasura-1-600x398.jpg?v=1779954230",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/26133748/00_usa_toyota-lexus_head-600x400.jpg?v=1779770269"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:36.734Z"
+  },
+  "https://response.jp/article/2026/05/31/412037.html": {
+    "title_zh": "Naps×Moriwaki 限量发售 Zephyr 750/RS 用 Monster Black 排气",
+    "summary_short": "Naps 与 Moriwaki 合作推出 Zephyr 750/RS 专用 Monster Black 排气，采用独特“最中管”设计，限量发售。",
+    "summary_long": "日本改装零件零售商 Naps 与 Moriwaki Engineering 合作，推出专为川崎 Zephyr 750/RS 设计的 Monster Black 排气，售价 159,500 日元（含税）。该产品是 Naps 旗下品牌 Naps Sports 的第四款特别定制系列，以“to the next”为理念。Moriwaki 的 Monster 排气自品牌创立初期便用于英国锦标赛、AMA 及铃鹿 8 耐等赛事，其标志性“最中管”消音器由两片铝板精密冲压成型，内部消音结构，外观类似日式点心“最中”。消音器盖和尾嘴由熟练工匠焊接，形成独特的“鳞片纹”。材质采用不锈钢（排气管）和铝（消音器），兼顾耐腐蚀性与厚重排气声浪。",
+    "highlights_zh": [
+      "Naps 与 Moriwaki 合作限量款",
+      "专为川崎 Zephyr 750/RS 设计",
+      "独创“最中管”消音器造型",
+      "售价 159"
+    ],
+    "entities": [
+      "Naps",
+      "Moriwaki",
+      "ゼファー750",
+      "Monster Black 排气",
+      "最中管"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214471.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214471.jpg",
+      "https://response.jp/imgs/fill2/2214476.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:41.130Z"
+  },
+  "https://bestcarweb.jp/news/business/1535822": {
+    "title_zh": "三菱星营 2026：全新帕杰罗秘密亮相，媒体完全禁入",
+    "summary_short": "三菱星营 2026 上，全新帕杰罗在秘密展区亮相，仅限车主参观，媒体被拒之门外。",
+    "summary_long": "2026 年 5 月 29 日至 31 日，三菱汽车在静冈县富士宫市的“ふもとっぱら”露营地举办了车主专属活动“三菱星营 2026”。今年活动规模扩大至 600 组家庭，现场热闹非凡。在活动一角，一个巨大的黑色帐篷内秘密展示了刚刚宣布复活的全新帕杰罗（2026 年秋季全球首发）。该展区仅对少数中选车主开放，媒体完全禁止入内。主办方允许采访参观者，记者随即采访了部分幸运车主，获取了第一手感受。",
+    "highlights_zh": [
+      "全新帕杰罗在星营 2026 秘密展出",
+      "仅限三菱车主参观",
+      "活动规模扩大至 600 组家庭",
+      "车主反馈积极"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "三菱星营 2026",
+      "富士宫市"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31093620/PXL_20260530_024351203.jpg?v=1780187781",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31093620/PXL_20260530_024351203-600x359.jpg?v=1780187781",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29221631/20260529_2_01-1-600x357.jpg?v=1780060592"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:41.479Z"
+  },
+  "https://bestcarweb.jp/news/1527353": {
+    "title_zh": "北海道厚真町引入“不灭路灯”，停电也能亮 20 天",
+    "summary_short": "北海道厚真町引入太阳能路灯，停电时可连续点亮 20 天，还能为手机充电，兼顾防灾与脱碳。",
+    "summary_long": "北海道厚真町首次引入 MIRAI-LABO 公司的次世代太阳能路灯“THE REBORN LIGHT smart”，该路灯无需电线，依靠太阳能供电，即使在日照不足的环境下也能连续点亮约 20 天。此外，它具备自动恢复功能，无需手动重启，并在灾害时可用作手机充电站。这一创新基础设施旨在解决 2018 年北海道胆振东部地震后暴露的电力依赖型基础设施脆弱性问题，同时推动脱碳目标。",
+    "highlights_zh": [
+      "太阳能 100%供电",
+      "连续点亮 20 天",
+      "灾害时可作手机充电站",
+      "自动恢复"
+    ],
+    "entities": [
+      "北海道厚真町",
+      "THE REBORN LIGHT smart",
+      "MIRAI-LABO",
+      "太阳能路灯",
+      "防灾"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23013039/189df8458c2d4a5f90f9f7f00a256e8d.jpg?v=1779467440",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23013039/189df8458c2d4a5f90f9f7f00a256e8d-600x565.jpg?v=1779467440",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31183317/de260a45d45713686f373d9db7782e61-600x400.jpg?v=1780219998"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:45.329Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1529009": {
+    "title_zh": "国际线路密集的巨型枢纽：布拉格最大巴士总站的工作量惊人",
+    "summary_short": "布拉格最大巴士总站弗洛伦茨中央站，自 1929 年运营至今，连接多条国际线路，规模与效率令人惊叹。",
+    "summary_long": "随着高速巴士网络的发展，城市间长途巴士凭借低廉价格吸引年轻群体。布拉格弗洛伦茨中央巴士站作为当地最大枢纽，建于 1929 年，连接两条地铁线，每天处理大量国际与国内班次，其运营规模与效率远超一般巴士站。",
+    "highlights_zh": [
+      "高速巴士因低价吸引年轻乘客",
+      "布拉格最大巴士站 1929 年启用",
+      "连接两条地铁线",
+      "运营规模与效率远超普通车站"
+    ],
+    "entities": [
+      "布拉格",
+      "弗洛伦茨中央巴士站",
+      "高速巴士",
+      "地铁"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/24082624/plg_bstmnl_06-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/17122822/rs_hkgd_acs_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/23115558/hz_lnmb2605_07-1024x671.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:45.451Z"
+  },
+  "https://www.motor1.com/news/797379/truck-abs-problem/": {
+    "title_zh": "ABS 故障诊断中惊现刹车部件脱落",
+    "summary_short": "技师试驾检查 ABS 故障，下车后发现刹车部件散落一地，令人震惊。",
+    "summary_long": "一位技师在试驾一辆有 ABS 故障投诉的卡车后，发现刹车组件部件掉在地上。她难以置信地询问“呃，那是什么？”视频引发网友热议，纷纷猜测问题所在。",
+    "highlights_zh": [
+      "试驾后刹车部件掉落",
+      "技师震惊发问",
+      "网友在线诊断"
+    ],
+    "entities": [
+      "ABS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzJ0w/s1/mechanic-test-drives-truck-with-an-abs-complaint.-then-she-takes-a-closer-look.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-05-31T14:57:48.388Z"
   }
 }

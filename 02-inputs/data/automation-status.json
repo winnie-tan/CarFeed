@@ -1,140 +1,110 @@
 {
   "workflow": {
-    "generated_at": "2026-05-31T04:48:55.105Z",
+    "generated_at": "2026-05-31T14:57:16.542Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 380,
-    "deepseek_untranslated_before_run": 20,
-    "newly_fetched_articles": 20,
-    "newly_fetched_untranslated": 20,
+    "deepseek_translated_before_run": 385,
+    "deepseek_untranslated_before_run": 15,
+    "newly_fetched_articles": 15,
+    "newly_fetched_untranslated": 15,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 20,
+    "translation_queue_count": 15,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "「お顔も色もかわいい」スズキ『ハスラー』がマイナーチェンジ！ 新カラー新グリルがSNSで話題に",
-        "url": "https://response.jp/article/2026/05/31/412039.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "「モーションコントロールビーム」でボディ補強、ダイハツ『ムーヴ』『タント』向けブリッツ「B-MCB」発売",
-        "url": "https://response.jp/article/2026/05/31/412041.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "『Forza Horizon 6』新イベントのリワードカーに「1997 Nissan Skyline GT-R V-Spec」など登場",
-        "url": "https://response.jp/article/2026/05/31/412034.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「RR」",
-        "url": "https://bestcarweb.jp/feature/column/1501888"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "100万円台でレクサス!! リッター30km超えの低燃費も実現！ レクサス CT200h中古車の実力とは",
-        "url": "https://bestcarweb.jp/feature/column/1512500"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "VTuberや『崩壊』『ウマ娘』などの痛車＆痛バイクが総勢250台集結！愛がたっぷり詰まった奥伊吹を取材【ARCChampionship 2026フォトレポ】",
-        "url": "https://response.jp/article/2026/05/31/412036.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "アルファードより攻めてる!? 2.4Lターボ搭載！ ヴェルファイア Zプレミア購入総額とは",
-        "url": "https://bestcarweb.jp/feature/column/1526428"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "ダイハツ『ロッキー』が3列7人乗りSUVに!?「ロッキースペース」登場の可能性は",
-        "url": "https://response.jp/article/2026/05/31/412032.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "ついに投入！ 最大420馬力の日産『スカイライン』次期型…5月のスクープ記事ベスト5",
-        "url": "https://response.jp/article/2026/05/31/412040.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "ホンダのVTECターボとマツダの直6ディーゼルターボ＋MHEV……技術屋の執念が爆発した「令和エンジン」の咆哮を聴け！",
-        "url": "https://bestcarweb.jp/feature/column/1531950"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "マップ上では徒歩来店非対応に見える神奈川県の道の駅「箱根峠」! 事実なのか最寄りのバス停で降りてみると……!?",
-        "url": "https://bestcarweb.jp/busmagazine/1522546"
-      },
-      {
         "source": "Motor1",
         "time": "2026.5.31",
-        "title": "‘Save This’: Infotainment Center In Man’s Ford Freezes. Then He Tries A Hack To Fix It",
-        "url": "https://www.motor1.com/news/797341/ford-infotainment-freeze-fix/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.5.30",
-        "title": "Man Waits For Fiance In 7-Eleven Parking Lot. Then A Surveillance Camera Starts Talking To Him: ‘The Next Step Is Sending A Drone'",
-        "url": "https://www.motor1.com/news/797375/7-eleven-surveillance-cameras/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.5.30",
-        "title": "‘It Is Illegal To Block Somebody’s Driveway’: Woman Blocks Driveway Daily When Picking Up Kids. Then The Homeowner Confronts Her",
-        "url": "https://www.motor1.com/news/797373/woman-blocks-driveway/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.5.30",
-        "title": "Man Gets Oil Changed At Quick Lube Spot. Then It Breaks Down Almost Immediately: 'They Owe Him A New Motor'",
-        "url": "https://www.motor1.com/news/797240/quick-lube-mistake/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.5.30",
-        "title": "China's Best-Selling Car Just Got Better And Cheaper",
-        "url": "https://insideevs.com/news/797361/china-best-selling-update-geely/"
+        "title": "Mechanic Checks Tread Depth On Back Tires. Then He Checks It On The Front: ‘Who Did The Alignment?’",
+        "url": "https://www.motor1.com/news/797326/tires-wear-unevenly/"
       },
       {
         "source": "The Drive",
-        "time": "2026.5.30",
-        "title": "The Honda 0 Series Saloon Would’ve Been a Better Ferrari Design Than the Luce",
-        "url": "https://www.thedrive.com/news/the-honda-0-series-saloon-wouldve-been-a-better-ferrari-design-than-the-luce"
+        "time": "2026.5.31",
+        "title": "Will Electric Semis Ever Take Off? California Hopes $1B Rebate Program Will Help",
+        "url": "https://www.thedrive.com/news/will-electric-semis-ever-take-off-california-hopes-1b-rebate-program-will-help"
       },
       {
-        "source": "InsideEVs",
-        "time": "2026.5.30",
-        "title": "This Sub-$20,000 Volkswagen ID.4 Proves Used EVs Are The Ultimate Bargain",
-        "url": "https://insideevs.com/news/797303/used-vw-id4-ev-bargain-owner-review/"
+        "source": "Motor1",
+        "time": "2026.5.31",
+        "title": "Maserati's Gorgeous New Livery Celebrates A Century",
+        "url": "https://www.motor1.com/news/797333/maserati-gt2-stradale-100-year-livery/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.5.30",
-        "title": "This ‘Tactical Luxury Truck’ Is a Ford Raptor With a Smoke-Screen System",
-        "url": "https://www.thedrive.com/news/this-tactical-luxury-truck-is-a-ford-raptor-with-a-smoke-screen-system"
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "「もうこれサイクロン号だろ…」BMWの直列6気筒エンジン搭載バイクにSNS驚愕！「黒ならバットマン」の声も",
+        "url": "https://response.jp/article/2026/05/31/412046.html"
       },
       {
-        "source": "The Drive",
-        "time": "2026.5.30",
-        "title": "Unassuming 1996 Toyota 4Runner Commands $52,800 at Mecum. Is This a Sign?",
-        "url": "https://www.thedrive.com/news/unassuming-1996-toyota-4runner-commands-52800-at-mecum-is-this-a-sign"
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "『ジムニーノマド』を究極ローダウン！ SUV専用設計「サステックプロX-LIMITダンパー」が適合",
+        "url": "https://response.jp/article/2026/05/31/412043.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "【シトロエン C3 新型試乗】シトロエンは長距離を走らせれば“本当の価値”がわかる？…岩貞るみこ",
+        "url": "https://response.jp/article/2026/05/31/412045.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.31",
+        "title": "Mechanic Orders Brand-New Part For A Land Rover. Then He Finds Something Shocking Inside: ‘Just Saved Them A Lawsuit’",
+        "url": "https://www.motor1.com/news/797381/jaguar-land-rover-part-problem/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "カーナビタイム、転回禁止規制に対応 Uターン規制箇所をアイコン表示・積極利用ルートも提供",
+        "url": "https://response.jp/article/2026/05/31/412042.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "タフト141万円台スタートは見事すぎ!! ハスラーやデリカミニと比べてわかる価格破壊力",
+        "url": "https://bestcarweb.jp/feature/column/1531980"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "どうせなら“かわいい”方が良い！ 新作キャラクター収納アイテム［特選カーアクセサリー名鑑］",
+        "url": "https://response.jp/article/2026/05/31/412048.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.5.31",
+        "title": "ナップス×モリワキ、『ゼファー750/RS』用モンスターブラックマフラーを限定発売",
+        "url": "https://response.jp/article/2026/05/31/412037.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "三菱スターキャンプ2026に新型パジェロ現る!! マスコミ完全シャットアウトで見せた感想は？？",
+        "url": "https://bestcarweb.jp/news/business/1535822"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "停電しても20日点灯！ 災害時に効く!! 厚真町に“消えない街路灯”登場",
+        "url": "https://bestcarweb.jp/news/1527353"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.5.31",
+        "title": "国際路線が多数発着する大ターミナル ～プラハ最大のバスターミナルの仕事っぷりがケタ違いな件",
+        "url": "https://bestcarweb.jp/busmagazine/1529009"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.5.31",
+        "title": "Mechanic Test-Drives Truck That Has An ABS Complaint. Then She Takes A Closer Look: ‘Um, What Is That?’",
+        "url": "https://www.motor1.com/news/797379/truck-abs-problem/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "26703565895",
-    "sha": "e0ba2042d54413685bb6597c9485e3fde63cf0f2",
-    "completed_at": "2026-05-31T04:49:27.860Z",
+    "run_id": "26715950200",
+    "sha": "a911c93094fda75571a84e69f9e5df45d71c7840",
+    "completed_at": "2026-05-31T14:57:48.617Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +115,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 20,
-    "queued_articles": 20,
-    "processed": 20,
-    "started_at": "2026-05-31T04:48:55.414Z",
-    "finished_at": "2026-05-31T04:49:27.595Z",
+    "scoped_articles": 15,
+    "queued_articles": 15,
+    "processed": 15,
+    "started_at": "2026-05-31T14:57:16.828Z",
+    "finished_at": "2026-05-31T14:57:48.392Z",
     "success": true,
     "error": ""
   }
