@@ -18990,5 +18990,836 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-01T05:15:03.291Z"
+  },
+  "https://www.motor1.com/news/797497/lexus-cancels-lf-zc-ev/": {
+    "title_zh": "雷克萨斯取消旗舰电动轿车计划",
+    "summary_short": "雷克萨斯取消 LF-ZC 量产计划，但将把技术转移至其他项目，包括固态电池和超长续航方案。",
+    "summary_long": "雷克萨斯取消了 2023 年 LF-ZC 概念车的量产计划，该车原定作为未来电动旗舰轿车，目标续航超 600 英里、功率约 500 马力，并采用巨型铸造技术。丰田汽车公司正在降低电动车产量目标，LF-ZC 成为首个被砍项目。不过，LF-ZC 的技术成果将转移至其他项目，可能包括丰田的固态电池计划。",
+    "highlights_zh": [
+      "LF-ZC 量产版被取消",
+      "原计划续航超 600 英里",
+      "技术将转移至其他项目",
+      "丰田降低电动车产量目标"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "丰田 | Toyota",
+      "LF-ZC",
+      "固态电池",
+      "巨型铸造"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Qemyk1/s1/lf-zc_000.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:00.771Z"
+  },
+  "https://www.thedrive.com/news/behold-the-fire-spitting-twizy-unsafety-car-leading-a-100-lap-citroen-ami-race-on-a-velodrome": {
+    "title_zh": "喷火雷诺 Twizy“不安全车”领衔雪铁龙 Ami 百圈场地赛",
+    "summary_short": "法国举办了一场别开生面的赛事：喷火雷诺 Twizy 怪物卡车带领 10 辆雪铁龙 Ami 微电动车在自行车赛道上进行 100 圈比赛。",
+    "summary_long": "法国举办了一场名为 L.A. C.O.U.R.S.E.的独特赛事，由知名 YouTuber Sylvain Lyve 组织。比赛中，一辆经过改装的雷诺 Twizy 怪物卡车（可喷火）作为“不安全车”领跑，10 辆雪铁龙 Ami 微电动车在自行车赛道上进行 100 圈竞速。参赛者均为法国主播，赛事全程在 Twitch 直播。",
+    "highlights_zh": [
+      "喷火雷诺 Twizy 作为领跑车",
+      "10 辆雪铁龙 Ami 微电动车参赛",
+      "在自行车赛道上进行 100 圈比赛",
+      "由法国 YouTuber 组织"
+    ],
+    "entities": [
+      "雷诺",
+      "雪铁龙 | Citroen",
+      "Ami",
+      "Twizy",
+      "L.A. C.O.U.R.S.E."
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-01-at-1.15.24-PM-2.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:01.833Z"
+  },
+  "https://www.thedrive.com/news/here-are-all-97-car-dealers-the-ftc-threatened-over-deceptive-pricing": {
+    "title_zh": "FTC 向 97 家汽车经销商发出“欺骗性定价”警告",
+    "summary_short": "美国联邦贸易委员会公开了 97 家因涉嫌欺骗性定价而收到警告的汽车经销商名单，包括 AutoNation、Lithia 等大型集团。",
+    "summary_long": "今年 3 月，美国联邦贸易委员会（FTC）向近 100 家汽车经销商发出警告，要求其停止欺骗性定价行为，但当时未公开名单。上周晚些时候，FTC 在网上公布了完整名单。名单中包括 AutoNation、Hendrick Automotive Group 和 Lithia Group 等全国知名经销商集团。FTC 认为这些经销商存在或曾经存在欺骗性定价行为。",
+    "highlights_zh": [
+      "FTC 公开 97 家经销商名单",
+      "包括 AutoNation、Lithia 等大型集团",
+      "涉嫌欺骗性定价行为"
+    ],
+    "entities": [
+      "FTC",
+      "AutoNation",
+      "Lithia Group",
+      "Hendrick Automotive Group"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2022/05/25/GettyImages-1392878599-e1780336892955.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:03.283Z"
+  },
+  "https://www.thedrive.com/news/one-nfs-most-wanted-feature-was-so-controversial-it-drove-developers-to-quit": {
+    "title_zh": "《极品飞车：最高通缉》的“子弹时间”功能引发开发团队内讧，多人离职",
+    "summary_short": "《极品飞车：最高通缉》的 Speedbreaker 机制引发开发团队激烈争议，导致部分成员愤而离职。",
+    "summary_long": "《极品飞车：最高通缉》被许多玩家视为系列巅峰，但其开发过程并非一帆风顺。前 EA BlackBox 开发人员在 Reddit AMA 中透露，游戏中的 Speedbreaker（子弹时间）功能成为团队内部巨大争议点，甚至导致部分开发者因此离职。该功能允许玩家在关键时刻放慢时间，轻松躲避障碍或警车，但部分开发者认为它破坏了游戏的真实感和挑战性。",
+    "highlights_zh": [
+      "Speedbreaker 功能引发团队内部分歧",
+      "部分开发者因该功能愤而离职",
+      "该功能类似“子弹时间”",
+      "争议源于真实感与爽快感的取舍"
+    ],
+    "entities": [
+      "极品飞车：最高通缉",
+      "EA BlackBox",
+      "Speedbreaker"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nfsmw.jpg",
+      "https://i.ytimg.com/vi/xmA_hu8voWA/hqdefault.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/11/BMW-M3-GTR-from-NFSMW-NFS-x-BMW_2.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:05.095Z"
+  },
+  "https://www.motor1.com/news/797402/tell-car-salesperson-monthly-budget/": {
+    "title_zh": "销售员：先问月预算不是套路，是避免浪费时间",
+    "summary_short": "汽车销售员解释为何先问月预算：避免客户看中高价车后才发现负担不起，浪费双方时间。",
+    "summary_long": "一位名叫 Jessica 的汽车销售员在社交媒体上解释，销售员询问客户月预算并非为了窥探隐私，而是为了确保客户能负担所选车辆。她指出，如果客户看中一辆 6 万美元的车，但月供远超预算，那么双方都浪费了大量时间，客户也会失望。专家建议，购车者应在适当时机坦诚预算，以便销售员推荐合适车型。",
+    "highlights_zh": [
+      "销售员问月预算非套路",
+      "看中 6 万美元车但月供超预算",
+      "专家建议购车者适时坦诚预算"
+    ],
+    "entities": [
+      "Jessica"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3Bmgy/s1/driver-wants-60k-car.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:06.578Z"
+  },
+  "https://www.motor1.com/news/797493/honda-recalls-100000-cars-bad-airbag-sensor/": {
+    "title_zh": "本田因严重安全气囊问题召回近 10 万辆汽车",
+    "summary_short": "本田因前排乘客座椅重量传感器故障召回近 10 万辆汽车，问题可能导致安全气囊在不应展开时展开，增加受伤风险。",
+    "summary_long": "本田宣布召回近 10 万辆汽车，涉及部分车龄达十年的车型。问题源于前排乘客座椅重量传感器电路板上的电容器可能开裂，受潮后引发短路，导致碰撞时前排乘客正面和膝部安全气囊在应抑制展开的情况下展开，增加婴儿、儿童或小个子成人受伤风险。本田确认问题由二级供应商工厂的自然灾害引发，一级供应商使用了未充分验证的电路板基材。此前本田已于 2024 年初因相同问题召回 75 万辆汽车，本次召回范围扩大是由于供应商计算缺陷部件生产截止日期有误，且验证流程不足。",
+    "highlights_zh": [
+      "近 10 万辆本田汽车因安全气囊传感器故障被召回",
+      "前排乘客座椅重量传感器可能短路",
+      "问题源于供应商使用了未充分验证的电路板基材",
+      "本田此前已因相同问题召回 75 万辆汽车"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "美国国家公路交通安全管理局"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zwr1K/s1/2020-honda-cr-v.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:08.974Z"
+  },
+  "https://www.thedrive.com/news/ram-is-dropping-the-mild-hybrid-from-more-hemi-v8-trucks-than-just-the-rumble-bee": {
+    "title_zh": "Ram 将取消更多 Hemi V8 皮卡的轻混系统",
+    "summary_short": "Ram CEO 确认，5.7 升 Hemi V8 将取消 48 伏轻混系统，从 Rumble Bee 扩展至更多车型。",
+    "summary_long": "Ram CEO Tim Kuniskis 独家透露，5.7 升 Hemi V8 发动机的 48 伏轻混系统将被取消，这一变化不仅限于 Rumble Bee 肌肉皮卡，还将扩展到更实惠的 Express 等车型。此举回应了消费者对 eTorque 轻混系统的争议，但仍有诸多细节待公布。",
+    "highlights_zh": [
+      "Hemi V8 取消 48 伏轻混系统",
+      "从 Rumble Bee 扩展至 Express 等…",
+      "回应消费者对 eTorque 的争议"
+    ],
+    "entities": [
+      "Ram",
+      "Hemi V8",
+      "Rumble Bee",
+      "Express"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Ram-1500-Hybrid.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:09.226Z"
+  },
+  "https://www.motor1.com/news/797482/new-dodge-viper-not-happening/": {
+    "title_zh": "道奇蝰蛇确认不会回归",
+    "summary_short": "道奇 CEO 透露蝰蛇因安全法规和生命周期结束而不会回归，公司将推出全新“超级肌肉车”Copperhead。",
+    "summary_long": "道奇 CEO Tim Kuniskis 在播客中明确表示，蝰蛇（Viper）已走到生命周期终点，且因无法满足新的安全法规（如侧气囊要求）而难以回归。现代蝰蛇若推出，可能不得不放弃手动变速箱。尽管蝰蛇被赞为“史上最美车型之一”，但道奇目前无复活计划，转而准备推出全新“超级肌肉车”Copperhead。",
+    "highlights_zh": [
+      "蝰蛇因安全法规无法回归",
+      "现代蝰蛇或放弃手动变速箱",
+      "道奇将推出全新 Copperhead"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "蝰蛇 | Viper",
+      "Copperhead",
+      "Tim Kuniskis"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Rqk8Ye/s1/dodge-viper-gts.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:11.972Z"
+  },
+  "https://www.thedrive.com/news/race-week-will-the-new-f1-regulations-finally-make-monaco-exciting": {
+    "title_zh": "2026 新规能否让摩纳哥大奖赛重燃激情？",
+    "summary_short": "2026 年 F1 新规及微调有望改善摩纳哥赛道超车难问题，梅赛德斯内斗、法拉利崛起等看点或让本站更精彩。",
+    "summary_long": "F1 本周末将迎来摩纳哥大奖赛，这条以奢华著称的街道赛道历来因超车困难而比赛乏味。但 2026 年新规及迈阿密站前的微调已初见成效，本赛季多场比赛竞争激烈，尤其是加拿大站上演了精彩对决。梅赛德斯车手乔治·拉塞尔与基米·安东内利的内斗、马克斯·维斯塔潘与刘易斯·汉密尔顿的缠斗，以及凯迪拉克车队的亮眼表现，都让比赛充满看点。法拉利近期状态回升，其赛车特性尤其适合摩纳哥这种注重操控的赛道，有望挑战迈凯伦的领先地位。",
+    "highlights_zh": [
+      "2026 新规及微调改善超车",
+      "梅赛德斯内斗升级",
+      "法拉利崛起成摩纳哥威胁",
+      "加拿大站成赛季最佳"
+    ],
+    "entities": [
+      "F1",
+      "摩纳哥大奖赛",
+      "梅赛德斯 | Mercedes",
+      "法拉利 | Ferrari",
+      "迈凯伦"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2216965521.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2216520878.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2216532023.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:12.656Z"
+  },
+  "https://www.thedrive.com/news/worlds-first-8-1l-big-block-c8-corvette-finally-hits-the-freeway": {
+    "title_zh": "全球首台 8.1L 大缸体 C8 科尔维特终于上路",
+    "summary_short": "历经三年半研发，全球首台搭载 8.1L 大缸体发动机的 C8 科尔维特终于上路测试，采用直喷和可变气门正时技术。",
+    "summary_long": "C8 科尔维特已有多种发动机选项，但 Larry Hofer（Raylar Engineering）自行打造了全球首台搭载 8.1L 大缸体发动机的 C8。该车采用直喷和可变气门正时技术，目前正在进行高速公路正常速度测试，验证系统工作状态。这是该平台最具雄心的改装项目。",
+    "highlights_zh": [
+      "全球首台 8.1L 大缸体 C8 科尔维特",
+      "采用直喷和可变气门正时技术",
+      "历经三年半研发终于上路测试",
+      "目前进行高速公路正常速度测试"
+    ],
+    "entities": [
+      "C8 科尔维特 | C8 Corvette",
+      "Raylar Engineering",
+      "8.1L 大缸体发动机",
+      "直喷",
+      "可变气门正时"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/V8-C8-engine-screenshot.webp?strip=all",
+      "https://i.ytimg.com/vi/CJkHssfa9hc/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:14.935Z"
+  },
+  "https://www.thedrive.com/news/byd-says-it-will-assume-responsibility-for-self-driving-crashes-tds": {
+    "title_zh": "比亚迪将为自动驾驶事故承担责任",
+    "summary_short": "比亚迪宣布，在交付一年内或更新至最新“神眼”软件后，因正常使用城市导航自动驾驶系统导致的事故，将承担全部财务责任。",
+    "summary_long": "比亚迪宣布，在车辆交付一年内或更新至最新“神眼”软件后，因正常使用其城市导航自动驾驶系统导致的事故，将承担全部财务责任。这一举措是自动驾驶责任问题上的重要进展，但一年期限并未完全解决自动驾驶的核心争议。此外，美国众议院正在制定新法案，禁止任何被“外国敌对政府”直接或间接持股 15%以上的汽车制造商在美销售汽车，这可能影响由中国企业持股 19.67%的梅赛德斯-奔驰。",
+    "highlights_zh": [
+      "比亚迪承担自动驾驶事故财务责任",
+      "责任承诺仅限交付后一年内",
+      "美国新法案或禁止奔驰在美销售",
+      "中国车企持股奔驰超 15%触发禁令"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "神眼",
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "自动驾驶"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2273222564-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:15.630Z"
+  },
+  "https://insideevs.com/news/797459/lexus-is-electric-sedan-dead/": {
+    "title_zh": "雷克萨斯取消下一代电动轿车项目",
+    "summary_short": "雷克萨斯放弃 LF-ZC 电动轿车量产计划，因美国电动车需求疲软，将转向跨界车和 SUV。",
+    "summary_long": "雷克萨斯已放弃开发电动轿车以对标宝马 i3 和奔驰 C 级电动车的项目。该车型原计划基于 LF-ZC 概念车，采用一体压铸技术，顶配版约 500 马力，续航目标 1000 公里，可能搭载固态电池。但据日经报道，由于美国电动车需求下滑，项目被取消，雷克萨斯将专注于生产高底盘跨界车和 SUV。",
+    "highlights_zh": [
+      "雷克萨斯放弃 LF-ZC 电动轿车量产",
+      "原计划对标宝马 i3 和奔驰 C 级电动车",
+      "顶配约 500 马力",
+      "因美国 EV 需求疲软"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LF-ZC",
+      "宝马 i3 | BMW i3",
+      "奔驰 C 级 | Mercedes-Benz C-Class",
+      "固态电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXNBm4/s1/lf-zc_022.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:17.992Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-ford-f-250-super-duty-tremor-review": {
+    "title_zh": "2026 款福特 F-250 Super Duty Tremor 评测：为何 7.3L 汽油版是首选",
+    "summary_short": "福特 F-250 Super Duty Tremor 评测：7.3L Godzilla V8 汽油机日常驾驶更友好，柴油机虽强但更适合重载。",
+    "summary_long": "2026 款福特 F-250 Super Duty Tremor 的评测指出，虽然 Power Stroke 柴油发动机在牵引和载重能力上更强，但对于大多数日常空载或轻载驾驶的用户来说，7.3 升“Godzilla”V8 汽油发动机是更明智的选择。这款汽油机在动力响应、噪音和日常使用便利性上更胜一筹，尤其适合那些不需要频繁重载的消费者。",
+    "highlights_zh": [
+      "7.3L Godzilla V8 成为默认发动机",
+      "柴油机适合重载",
+      "日常空载驾驶推荐汽油版",
+      "F-250 Super Duty Tremor 评测"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "F-250 Super Duty",
+      "Tremor",
+      "7.3L Godzilla V8",
+      "Power Stroke"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/20260514_180003.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/20260514_203839.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/20260508_083109.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:18.927Z"
+  },
+  "https://www.motor1.com/news/797342/bugatti-one-off-literary-tribute/": {
+    "title_zh": "布加迪最新孤品致敬《小王子》",
+    "summary_short": "布加迪通过 Sur Mesure 定制部门打造 W16 Mistral 孤品，以手绘星空和银玫瑰齿轮杆致敬《小王子》及其续作。",
+    "summary_long": "布加迪 W16 Mistral 本就限量 99 台，搭载 8.0 升 W16 发动机，拥有 1600 马力。但一位长期收藏家通过 Sur Mesure 定制部门，以《小王子》及其个人续作为灵感，打造了这台名为“Le Retour du Jeune Prince”的孤品。车身采用定制铜色金属漆，营造月光映照大地的效果；内饰遍布手绘星星，换挡杆内嵌银玫瑰，细节充满文学诗意。",
+    "highlights_zh": [
+      "限量 99 台的 W16 Mistral 再出孤品",
+      "定制铜色金属漆灵感来自月光",
+      "内饰手绘星星与银玫瑰换挡杆",
+      "致敬《小王子》及车主续作"
+    ],
+    "entities": [
+      "布加迪 | Bugatti",
+      "W16 Mistral",
+      "Sur Mesure",
+      "小王子",
+      "Le Retour du Jeune Prince"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Mkg0mE/s1/bugatti-w16-mistral-le-retour-du-jeune-prince.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:21.369Z"
+  },
+  "https://www.motor1.com/features/797351/ferrari-luce-not-an-iphone-design-opinion/": {
+    "title_zh": "法拉利不是 iPhone：Luce 设计为何失败",
+    "summary_short": "法拉利首款电动车 Luce 因设计争议遭批评，Jony Ive 的极简风格与跑车品牌不匹配。",
+    "summary_long": "法拉利首款电动车 Luce 因设计争议在社交媒体上遭到批评。该车由苹果前首席设计师 Jony Ive 操刀，但其极简、功能至上的设计理念与法拉利的品牌基因产生冲突。Ive 曾表示设计不应妨碍工具性，但跑车需要情感和戏剧性，导致 Luce 缺乏法拉利应有的激情与辨识度。",
+    "highlights_zh": [
+      "法拉利首款 EV Luce 设计遭批",
+      "Jony Ive 极简风格不适用跑车",
+      "Luce 缺乏法拉利应有的激情"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "Jony Ive",
+      "iPhone"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzW3mB/s1/ferrari-iphone-opinion.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:22.220Z"
+  },
+  "https://response.jp/article/2026/06/01/412109.html": {
+    "title_zh": "三菱正式宣布帕杰罗复活，SNS 上欢呼雀跃",
+    "summary_short": "三菱汽车正式宣布全新帕杰罗将于 2026 年秋季全球首发，并计划推出系列车型，引发粉丝热烈反响。",
+    "summary_long": "三菱汽车于 5 月 29 日正式宣布，全新跨界 SUV 将命名为“帕杰罗”，计划于 2026 年秋季全球首发，并预告将推出不同尺寸的系列车型。帕杰罗自 1982 年问世以来，历经四代，全球累计销量超过 325 万辆，日本市场于 2019 年停产，此次是时隔 7 年的复活。新车基于皮卡 Triton 的梯形车架开发，旨在兼顾卓越的越野性能与舒适驾乘体验。消息公布后，社交媒体上粉丝纷纷表达喜悦与期待。",
+    "highlights_zh": [
+      "三菱正式宣布帕杰罗复活",
+      "2026 年秋季全球首发",
+      "基于 Triton 梯形车架开发",
+      "将推出不同尺寸系列车型"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "Triton"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215237.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215237.jpg",
+      "https://response.jp/imgs/fill2/2215229.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:25.638Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535835": {
+    "title_zh": "国沢光宏试驾 CX-5 感叹：同品牌 SUV 竟有如此质感！330 万日元的价值何在？",
+    "summary_short": "国沢光宏试驾马自达 CX-5，惊叹其高级质感远超同品牌其他 SUV，330 万日元售价物超所值。",
+    "summary_long": "国沢光宏在试驾马自达 CX-5 后，对其高级质感赞不绝口，认为它完全不像同品牌的 SUV。文章还介绍了 Best Car Web 上周（2026 年 5 月 24 日至 30 日）最受欢迎的 20 篇文章，包括 GR Yaris 车主真实评价、铃木 Hustler 改装吉姆尼风格等热门内容。",
+    "highlights_zh": [
+      "国沢光宏试驾 CX-5",
+      "330 万日元 SUV 带来超值体验",
+      "GR Yaris 车主真实评价上榜",
+      "铃木 Hustler 改装吉姆尼风格引关注"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "GR Yaris",
+      "铃木 | Suzuki",
+      "Hustler"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31121936/samune-1.jpg?v=1780197577",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31121936/samune-1-600x418.jpg?v=1780197577",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29164749/66a72596d5404ea93e722f4eb8d54b2b-1-600x400.jpg?v=1780040871"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:25.979Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1535996": {
+    "title_zh": "SWANS 新款驾驶眼镜：信号灯颜色瞬间映入眼帘",
+    "summary_short": "SWANS 推出专为驾驶设计的眼镜，采用特殊镜片，让红黄信号灯、刹车灯等颜色更醒目，提升驾驶安全。",
+    "summary_long": "SWANS 品牌推出专为驾驶设计的眼镜，采用“ULTRA LENS for DRIVING”镜片，由赛车手山野哲也监制，历经十年研发。该眼镜能增强红色、黄色等警示颜色的视觉感知，使信号灯、前车刹车灯、标识等更易识别，从而提升驾驶安全。2026 年款于 6 月 30 日前限量发售。",
+    "highlights_zh": [
+      "专为驾驶设计",
+      "由赛车手山野哲也监制",
+      "2026 年 6 月 30 日前限量发售",
+      "日本制造"
+    ],
+    "entities": [
+      "SWANS",
+      "山野哲也",
+      "ULTRA LENS for DRIVING",
+      "驾驶眼镜"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01091947/samune0602.jpg?v=1780273188",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01091947/samune0602-600x373.jpg?v=1780273188",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/20105727/user_GX550_S1V_4_1-600x400.jpg?v=1779242249"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:28.856Z"
+  },
+  "https://response.jp/article/2026/06/01/412108.html": {
+    "title_zh": "Tanabe 为丰田卡罗拉 Cross GR Sport 推出车身强化件",
+    "summary_short": "Tanabe 为丰田卡罗拉 Cross GR Sport 推出专用顶吧和底盘加强件，提升操控响应。",
+    "summary_long": "Tanabe 为丰田卡罗拉 Cross GR Sport（MXGH15，2025 年 8 月后生产）推出专用“Sustec Strut Tower Bar Plus”顶吧和“Sustec Under Brace”底盘加强件。顶吧采用椭圆形截面设计，轻量高刚性，断面面积较传统产品扩大约 16%，扭转刚度提升约 138%，售价 25300 日元。底盘加强件连接下摆臂支撑点，抑制车身扭曲，提升操控响应，售价 15950 日元。安装后最低离地间隙从 152mm 降至 132mm。",
+    "highlights_zh": [
+      "顶吧扭转刚度提升约 138%",
+      "底盘加强件抑制车身扭曲",
+      "安装后离地间隙降至 132mm",
+      "售价分别为 25300 和 15950 日元"
+    ],
+    "entities": [
+      "Tanabe",
+      "丰田 | Toyota",
+      "卡罗拉 Cross GR Sport | Corolla Cross GR Sport",
+      "顶吧",
+      "底盘加强件"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215224.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215224.jpg",
+      "https://response.jp/imgs/fill2/2215225.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:29.058Z"
+  },
+  "https://response.jp/article/2026/06/01/412100.html": {
+    "title_zh": "马自达 CX-5 新型：A 柱细 9mm、车门声、雨刷控制…开发主查揭秘“低调却厉害”的进化",
+    "summary_short": "马自达新款 CX-5 虽非全面革新，但在 A 柱细径化、视野改善、雨刷控制等细节上实现“低调却厉害”的进化，提升安全与便利性。",
+    "summary_long": "马自达新款 CX-5 于 5 月 21 日上市，虽底盘沿用、取消柴油机、改用 2.5L 轻混，但开发主查透露了多项“低调却厉害”的细节改进。例如，A 柱单侧细径 9mm、后侧窗加大以改善视野，同时优化发动机盖线条以提升车感把握。此外，车门关闭音、雨刷控制等也经过精心调校，体现了马自达对用户便利性的极致追求。",
+    "highlights_zh": [
+      "A 柱单侧细径 9mm",
+      "后侧窗加大",
+      "发动机盖线条优化",
+      "车门音、雨刷控制等细节精心调校"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215076.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215076.jpg",
+      "https://response.jp/imgs/zoom1/2215083.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:32.557Z"
+  },
+  "https://response.jp/article/2026/06/01/412090.html": {
+    "title_zh": "车载 AI 与次世代功能需求调查报告",
+    "summary_short": "日本调查显示，车载 AI 需求支持率仅 49%，但具体功能如空气净化、个性化学习等关注度较高，普及关键在于建立信任。",
+    "summary_long": "针对日本国内车主进行的互联网调查显示，车载 AI 整体需求呈拮抗状态（必要派 49% vs 不要派 51%），年轻群体需求略高但未形成明确支持。具体功能层面，快适性（空气净化、湿度调节）和个性化（学习型个性化、情感理解支持）关注度较高，而娱乐功能兴趣有限。同乘者功能中，男性更倾向导航、空调等操作功能，女性更偏好副驾座椅舒适性。普及关键在于建立可靠性，包括安全设计、便利设计和信任担保。",
+    "highlights_zh": [
+      "车载 AI 需求支持率仅 49%",
+      "快适性与个性化功能最受关注",
+      "同乘者功能男女偏好差异明显",
+      "普及需先建立安全与信任"
+    ],
+    "entities": [
+      "车载 AI",
+      "次世代功能",
+      "个性化",
+      "快适性",
+      "同乘者功能"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215054.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215054.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:32.883Z"
+  },
+  "https://bestcarweb.jp/news/1537324": {
+    "title_zh": "《明日的驾驶》与《'82 天使》两部漫画 6 月 1 日起在 Comic DAYS 上线",
+    "summary_short": "汽车杂志《Best Car》的两部漫画《明日的驾驶》和《'82 天使》将于 6 月 1 日在讲谈社的 Comic DAYS 平台开始连载。",
+    "summary_long": "汽车杂志《Best Car》刊登的两部漫画《明日的驾驶》和《'82 天使》将于 6 月 1 日起在讲谈社运营的网络漫画平台 Comic DAYS 上线。《明日的驾驶》讲述前青年漫画编辑车尾道也被调至汽车杂志后，在 EV 变革期学习汽车知识的故事，是一部面向成人的软性 EV 学习漫画。《'82 天使》则讲述主角英斗与日产 Skyline（Kenmeri）相遇后，驾驶它穿越到 1982 年，体验昭和时代的故事。",
+    "highlights_zh": [
+      "两部漫画 6 月 1 日上线 Comic DAYS",
+      "《明日的驾驶》是面向成人的 EV 学习漫画",
+      "《'82 天使》讲述驾驶日产 Skyline 穿越到…",
+      "汽车杂志《Best Car》监修"
+    ],
+    "entities": [
+      "Best Car",
+      "Comic DAYS",
+      "日产 Skyline | Nissan Skyline",
+      "EV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01204530/a98b1120712ae2558c294773114e59b3.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01204530/a98b1120712ae2558c294773114e59b3-600x400.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30010533/3597e8de6386c58074db5584c89be7fd-600x600.jpg?v=1780070734"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:35.984Z"
+  },
+  "https://response.jp/article/2026/06/01/412089.html": {
+    "title_zh": "MINI Countryman EV 续航提升至 520km，采用 SiC 逆变器，起价 604 万日元",
+    "summary_short": "MINI Countryman E 和 SE ALL4 改款，采用 SiC 逆变器提升效率，续航分别达 520km 和 495km，起价 604 万日元。",
+    "summary_long": "MINI Countryman E 和 SE ALL4 进行了规格变更，新采用 SiC 逆变器，提高了从高压电池到电驱动单元的电力转换效率，减少了能量损失。同时，前轮轴承的改进降低了摩擦，并调整了轮胎气压。这些改进使续航里程得到延长：Countryman E 达到 520km，SE ALL4 达到 495km。价格从 604 万日元起。",
+    "highlights_zh": [
+      "续航提升至 520km（E）和 495km（SE A…",
+      "采用 SiC 逆变器",
+      "起价 604 万日元"
+    ],
+    "entities": [
+      "MINI",
+      "Countryman"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215051.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215051.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:36.790Z"
+  },
+  "https://response.jp/article/2026/06/01/412106.html": {
+    "title_zh": "大众高尔夫 GTI 重返纽北最速，5 月口碑文章 TOP5",
+    "summary_short": "大众高尔夫 GTI 刷新纽博格林前驱车圈速纪录，成为 5 月最受关注的口碑文章。",
+    "summary_long": "5 月发布的口碑文章中，大众高尔夫 GTI 在纽博格林赛道刷新了前驱车圈速纪录，成为当月最热门话题。该排名基于访问量计算。",
+    "highlights_zh": [
+      "高尔夫 GTI 刷新纽北前驱车纪录",
+      "5 月口碑文章热度 TOP5 出炉",
+      "基于访问量的独立积分排名"
+    ],
+    "entities": [
+      "大众 | VW",
+      "高尔夫 GTI",
+      "纽博格林",
+      "前驱车",
+      "圈速纪录"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215025.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215025.jpg",
+      "https://response.jp/imgs/zoom/2212179.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:38.874Z"
+  },
+  "https://response.jp/article/2026/06/01/412094.html": {
+    "title_zh": "阿尔法·罗密欧超级跑车 33 Stradale 荣获第 29 届金罗盘奖优秀奖",
+    "summary_short": "阿尔法·罗密欧 33 Stradale 超级跑车在第 29 届金罗盘奖中获移动出行设计类优秀奖，该车全球限量 33 台。",
+    "summary_long": "阿尔法·罗密欧的超级跑车 33 Stradale 在第 29 届金罗盘奖的移动出行设计类别中获得了荣誉提名（优秀奖）。该车是向 1967 年传奇车型致敬的现代诠释，全球限量 33 台，由阿尔法·罗密欧与历史悠久的车身制造商 Carrozzeria Touring Superleggera 合作打造。33 Stradale 体现了“必要之美”的设计理念，融合了精湛工艺与先进技术，同时也是阿尔法·罗密欧与玛莎拉蒂联合定制项目 Bottega Fuoriserie 的典范之作。",
+    "highlights_zh": [
+      "获第 29 届金罗盘奖移动出行设计类优秀奖",
+      "全球限量 33 台",
+      "与 Carrozzeria Touring Supe…",
+      "体现“必要之美”设计理念与定制工艺"
+    ],
+    "entities": [
+      "阿尔法·罗密欧",
+      "33 Stradale",
+      "金罗盘奖",
+      "Carrozzeria Touring Superleggera",
+      "Bottega Fuoriserie"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215066.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215066.jpg",
+      "https://response.jp/imgs/fill2/2215068.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:40.468Z"
+  },
+  "https://response.jp/article/2026/06/01/412102.html": {
+    "title_zh": "以色列高保真扬声器名门：Morel 打造的“美音”世界",
+    "summary_short": "以色列扬声器品牌 Morel 从军工背景出发，凭借 SUPREMO PICCOLO 高音单元和 Supremo 套装在汽车音响界树立标杆。",
+    "summary_long": "Morel 是以色列高保真扬声器制造商，1975 年由 Meir Mordechai 创立。公司最初在英国运营，1990 年代冷战结束后迁回以色列。得益于以色列发达的军事工业，Morel 采用军用级精密制造工艺，扬声器品质远超普通市售产品。其 28mm 球顶高音单元 SUPREMO PICCOLO 以宽频响（1,600Hz-22,000Hz）、高灵敏度（92dB）和低失真著称，搭配自研中低音单元组成的 Supremo 套装在 2012 年 CES 上获得汽车音响大奖，并持续升级成为经典型号。",
+    "highlights_zh": [
+      "1975 年创立于以色列",
+      "SUPREMO PICCOLO 高音单元以宽频低失真…",
+      "Supremo 套装获 2012 年 CES 汽车音…",
+      "从英国迁回以色列后品质大幅提升"
+    ],
+    "entities": [
+      "モレル",
+      "スプリーモ・ピッコロ",
+      "スプリーモ",
+      "CES"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214968.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214968.jpg",
+      "https://response.jp/imgs/fill2/2214965.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:43.471Z"
+  },
+  "https://bestcarweb.jp/feature/column/1525496": {
+    "title_zh": "丰田 Vellfire 最廉价版 Z Premier 够豪华吗？",
+    "summary_short": "丰田 Vellfire 最廉价版 Z Premier 售价 670 万日元，但标配高级座椅、音响等，豪华感十足，与顶配版差距不大。",
+    "summary_long": "丰田 Vellfire 最便宜的版本是 Z Premier 2.4L 涡轮增压两驱车型，售价 670 万日元。尽管是入门级，但标配了第二排行政座椅、高级真皮、加热通风、电动腿托、折叠桌等，音响为 10 扬声器系统，还有 14 英寸显示屏、12.3 英寸仪表和数字内后视镜。日常使用豪华感足够。不过，顶配 Executive Lounge 拥有 14 英寸后排娱乐系统和 JBL 音响，Z Premier 仅作为选装。",
+    "highlights_zh": [
+      "Z Premier 起价 670 万日元",
+      "标配第二排行政座椅与真皮",
+      "10 扬声器音响与 14 英寸大屏",
+      "顶配版后排娱乐系统为选装"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ヴェルファイア",
+      "Z Premier",
+      "Executive Lounge"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21170655/IKE_725-462-1.jpg?v=1779350816",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/21170655/IKE_725-462-1-600x400.jpg?v=1779350816",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29164749/66a72596d5404ea93e722f4eb8d54b2b-1-600x400.jpg?v=1780040871"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:44.918Z"
+  },
+  "https://response.jp/article/2026/06/01/412104.html": {
+    "title_zh": "Autobacs Seven 将自有品牌“AQ.”部分销售收入捐赠给交通遗孤",
+    "summary_short": "Autobacs Seven 宣布将自有品牌 AQ.的部分销售收入捐赠给交通遗孤支援机构，帮助因交通事故失去父母的孩子。",
+    "summary_long": "Autobacs Seven 于 6 月 1 日宣布，将旗下汽车用品店 Autobacs 的自有品牌“AQ.（AUTOBACS QUALITY.）”的部分商品销售收入捐赠给两个公益财团法人——交通遗孤育英会和交通遗孤等育成基金，用于支持因交通事故失去父母而陷入经济困境的儿童，旨在稳定其生活基础并促进健康成长。",
+    "highlights_zh": [
+      "AQ.部分销售收入捐赠交通遗孤",
+      "捐赠对象为两个公益财团法人",
+      "旨在帮助因交通事故失去父母的孩子"
+    ],
+    "entities": [
+      "Autobacs Seven",
+      "AQ.",
+      "交通遗孤育英会",
+      "交通遗孤等育成基金"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215108.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215108.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:47.514Z"
+  },
+  "https://bestcarweb.jp/feature/column/1534604": {
+    "title_zh": "丰田 Yaris Cross 为何畅销？与日产 Kicks、本田 Vezel 有何不同",
+    "summary_short": "丰田 Yaris Cross 凭借都市化设计和高实用性成为畅销紧凑型 SUV，本文详解其各版本差异与真实表现。",
+    "summary_long": "丰田 Yaris Cross 作为一款紧凑型 SUV，凭借洗练的都市化设计和出色的实用性赢得了广泛支持。本文详细剖析了不同版本的设计差异：Z 版简约先进，Z Adventure 版通过车顶和格栅装饰增添运动感，G 版配备铝合金轮毂更显紧致，而 X 版的座椅采用一体式头枕，对高个子用户可能稍显不便。此外，文章还涵盖了行李厢空间、驾驶座周围储物设计及开关质感等实用细节，帮助读者了解这款车在目录之外的真正魅力。",
+    "highlights_zh": [
+      "Z 版设计简约先进",
+      "Z Adventure 版增加车顶和格栅装饰",
+      "G 版配备铝合金轮毂",
+      "X 版座椅为一体式头枕"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Yaris Cross",
+      "日产 | Nissan",
+      "Kicks",
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29164749/66a72596d5404ea93e722f4eb8d54b2b-1.jpg?v=1780040871",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29164749/66a72596d5404ea93e722f4eb8d54b2b-1-600x400.jpg?v=1780040871",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28192639/70_image1-600x400.jpg?v=1779964000"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:48.487Z"
+  },
+  "https://response.jp/article/2026/06/01/412105.html": {
+    "title_zh": "捷太格特获 CDP 2025 SEA 最高评价“供应商参与领导者”",
+    "summary_short": "捷太格特因在气候议题上积极推动供应商合作，第四次获 CDP 最高评价“供应商参与领导者”。",
+    "summary_long": "捷太格特于 6 月 1 日宣布，在国际环境非营利组织 CDP 实施的“CDP 2025 供应商参与评价（SEA）”中，获得最高评价“供应商参与领导者”。这是该公司自 2021 年以来第四次获此殊荣，表彰其在气候变化议题上对供应商的积极引导与协作。捷太格特集团制定了“环境挑战 2050”目标，以“All for One Earth”为口号，致力于在 Scope1、2、3 全范围削减 CO2 排放，其中 Scope1 和 2 计划于 2035 年实现碳中和。",
+    "highlights_zh": [
+      "获 CDP 最高评价“供应商参与领导者”",
+      "2021 年以来第四次获评",
+      "制定“环境挑战 2050”目标",
+      "Scope1、2 计划 2035 年碳中和"
+    ],
+    "entities": [
+      "捷太格特",
+      "CDP",
+      "供应商参与评价"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215109.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215109.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:50.816Z"
+  },
+  "https://response.jp/article/2026/06/01/412099.html": {
+    "title_zh": "铃木加速 DX：采用 TechTouch 作为 DAP，覆盖费用、人事、PLM 系统",
+    "summary_short": "铃木为加速数字化转型，在费用报销、人事管理和 PLM 三大系统中采用 TechTouch 的 DAP 解决方案，以提升操作效率。",
+    "summary_long": "铃木汽车为加速数字化转型，在费用报销、人事管理和 PLM（技术信息管理平台）三大核心系统中采用了 TechTouch 的数字采用平台（DAP）。TechTouch 支持无代码创建操作指南，并直接叠加在 Web 系统界面上，帮助员工直观、准确地完成复杂输入。铃木此前已通过 DX 实现业务改进和加班时间减少 35%等成效，此次引入旨在进一步最大化系统价值。",
+    "highlights_zh": [
+      "铃木在三大系统中采用 TechTouch DAP",
+      "无代码操作指南直接叠加在系统界面",
+      "帮助员工直观完成复杂输入",
+      "铃木 DX 已实现加班时间减少 35%"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "TechTouch",
+      "电通总研",
+      "PLM"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215102.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215102.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:51.574Z"
+  },
+  "https://response.jp/article/2026/06/01/412093.html": {
+    "title_zh": "丰田股价急跌，22 年来首次失去市值榜首",
+    "summary_short": "丰田股价急跌，22 年来首次失去日本市值最高企业地位，日经指数续创新高。",
+    "summary_long": "6 月 1 日，日经平均股指较上周末上涨 604.83 点，收于 66934.33 点，连续刷新最高纪录。受美股上涨带动，人工智能相关股票买盘活跃。然而，主力股中下跌个股明显，丰田股价急跌，22 年来首次从市值总额榜首跌落。",
+    "highlights_zh": [
+      "丰田股价急跌",
+      "日经指数续创新高",
+      "美股上涨",
+      "特斯拉微跌 1.43%"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日经平均股指",
+      "人工智能",
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215072.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215072.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:53.841Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532518": {
+    "title_zh": "铃木 Fronx 真的是“全功能 SUV”吗？254 万日元起配置详解",
+    "summary_short": "铃木 Fronx 以 254 万日元起售，虽价格不低，但标配导航、全套安全及舒适装备，堪称“全功能 SUV”。",
+    "summary_long": "铃木 Fronx 作为紧凑型 SUV，起售价 254.1 万日元（2WD），4WD 版 273.9 万日元，看似不便宜且仅有一个配置等级。然而其标配极其丰富：包括 9 英寸导航、全景影像、手机互联、SOS 按钮；安全方面有双传感器制动辅助、车道保持、盲点监测、全速域 ACC 等；舒适配置含无线充电、座椅加热、真皮方向盘等。这些通常需选装的装备均为标配，使 Fronx 成为名副其实的“全功能 SUV”。",
+    "highlights_zh": [
+      "254 万日元起",
+      "标配 9 英寸导航与全景影像",
+      "全套主动安全装备",
+      "无线充电、座椅加热等舒适配置齐全"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "フロンクス"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29161219/7R1_5041_1.jpg?v=1780038740",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29161219/7R1_5041_1-600x400.jpg?v=1780038740",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29164749/66a72596d5404ea93e722f4eb8d54b2b-1-600x400.jpg?v=1780040871"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:55.852Z"
+  },
+  "https://bestcarweb.jp/news/1535177": {
+    "title_zh": "升高吉姆尼车检对策：新后副保险杠护板登场",
+    "summary_short": "BEYOND JAPAN 推出后副保险杠护板，专为升高吉姆尼设计，螺栓固定且可滑动调节，解决车检难题。",
+    "summary_long": "针对升高吉姆尼车检难题，BEYOND JAPAN（ラスター公司）推出后副保险杠护板，适用于 JB64W 吉姆尼和 JB74W/JC74W 吉姆尼 Sierra，需搭配同厂雷夫保险杠。该产品无需加工即可螺栓固定，并配备滑动调节机构，有效应对车检中后部尺寸和突起物的检查要求。",
+    "highlights_zh": [
+      "专为升高吉姆尼车检设计",
+      "螺栓固定",
+      "配备滑动调节机构",
+      "需搭配雷夫保险杠使用"
+    ],
+    "entities": [
+      "BEYOND JAPAN",
+      "吉姆尼",
+      "吉姆尼 Sierra",
+      "雷夫保险杠"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30005426/0857949024002fdf923e6fe46c6745af.jpg?v=1780070068",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30005426/0857949024002fdf923e6fe46c6745af-600x400.jpg?v=1780070068",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30010533/3597e8de6386c58074db5584c89be7fd-600x600.jpg?v=1780070734"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:57.182Z"
+  },
+  "https://www.motor1.com/news/797395/autozone-employee-comment/": {
+    "title_zh": "男子在 AutoZone 购买制冷剂，店员玩笑引发争议",
+    "summary_short": "一名拖车司机在 AutoZone 购买制冷剂时，被店员询问是否要吸食，他感到被冒犯并录制视频曝光。",
+    "summary_long": "南卡罗来纳州 Pageland 的一名拖车司机 Mark Lockhart 在 AutoZone 购买两罐汽车制冷剂时，一名店员问他是否要吸食该物质。Lockhart 认为这一玩笑带有恶意，是基于他的外貌。他将经历录制并发布到社交媒体，引发广泛关注。Lockhart 表示店员随后被叫到后方，他质疑对方为何会问出如此愚蠢的问题。",
+    "highlights_zh": [
+      "拖车司机购买制冷剂时被问是否要吸食",
+      "店员玩笑被指恶意且基于外貌",
+      "视频发布后引发热议"
+    ],
+    "entities": [
+      "AutoZone",
+      "Pageland",
+      "Mark Lockhart"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlLGo/s1/man-buys-freon-from-autozone.-then-the-manager-asks-him-something-shocking-will-be-reporting-y-all.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:01:58.922Z"
+  },
+  "https://www.topgear.com/car-news/electric/gmc-hummer-x-concept-wants-you-get-lost": {
+    "title_zh": "GMC HUMMER X 概念车：带你深入荒野",
+    "summary_short": "GMC HUMMER X 概念车专为荒野探险设计，外观硬朗，彰显不羁个性。",
+    "summary_long": "GMC HUMMER X 概念车旨在引导驾驶者深入荒野，其设计语言充满力量感，仿佛在宣告不惧任何挑战。这款概念车展现了 GMC 在电动越野领域的探索，将硬派风格与电动技术相结合。",
+    "highlights_zh": [
+      "专为荒野探险设计",
+      "外观硬朗",
+      "电动越野新探索"
+    ],
+    "entities": [
+      "GMC",
+      "HUMMER X",
+      "概念车",
+      "电动越野"
+    ],
+    "gallery_images": [
+      "https://www.topgear.com/sites/default/files/images/news-article/2026/06/d45fa2739882d84b7bed9a169ae9c3f0/GMC-HUMMER_HX_SUV_F3Q_HIGH.jpg",
+      "https://www.topgear.com/sites/default/files/images/big-read/2026/05/6762eb34ad2ec5806af656fcee806eb7/ValvsVette.jpg",
+      "https://www.topgear.com/sites/default/files/images/news-article/2026/05/7f419194bfe97afca0e92c0f48a941eb/007%20First%20Light%20hero%20image.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-01T19:02:01.153Z"
   }
 }

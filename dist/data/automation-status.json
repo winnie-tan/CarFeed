@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-01T05:14:19.906Z",
+    "generated_at": "2026-06-01T19:00:57.249Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 374,
-    "deepseek_untranslated_before_run": 26,
-    "newly_fetched_articles": 26,
-    "newly_fetched_untranslated": 26,
+    "deepseek_translated_before_run": 364,
+    "deepseek_untranslated_before_run": 36,
+    "newly_fetched_articles": 36,
+    "newly_fetched_untranslated": 36,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 26,
+    "translation_queue_count": 36,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.6.1",
-        "title": "【令和8年6月のバス占い付き】もうそろそろ結論を出してくれよ！ バスの場合の運転士と運転手はどっちが正解？",
-        "url": "https://bestcarweb.jp/busmagazine/1521215"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "【自動車税は本日まで】支払えない時どうする？ 黙って「放置」で年9.1％の延滞金も!! 困ったら「まず相談」とプロが断言できる理由",
-        "url": "https://bestcarweb.jp/feature/column/1492831"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第773回",
-        "url": "https://bestcarweb.jp/feature/column/1525498"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "2シーターもあるの!? シエンタが超絶支持されるワケはこの画像一覧で納得できるハズ",
-        "url": "https://bestcarweb.jp/news/1529828"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "7/2申込締切 【Season4】中西孝樹の自動車・モビリティ産業インサイトvol.4 日産の次世代技術：「AIDV」による知能化とそれを支える電動化について",
-        "url": "https://response.jp/article/2026/06/01/412060.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "BMW 2シリーズ アクティブ ツアラー、「オリジナル」追加…48Vハイブリッド搭載で498万円",
-        "url": "https://response.jp/article/2026/06/01/412064.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "EMT エムタ の軽EVはこんな車…日本主導で開発、スピード感は中国レベルで",
-        "url": "https://response.jp/article/2026/06/01/412070.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "NIPPON EXPRESS、オハイオ州に4号倉庫を新設…米国中西部の自動車関連物流需要に対応",
-        "url": "https://response.jp/article/2026/06/01/412073.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "STマイクロ、EV・HV向け車載バッテリ管理IC「L9963F」発表…合計434個の直列セルに対応可能",
-        "url": "https://response.jp/article/2026/06/01/412081.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "VWの電池企業PowerCo、マイクロソフトと提携…ギガファクトリーにAI・クラウド基盤を構築へ",
-        "url": "https://response.jp/article/2026/06/01/412071.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "クラウンじゃないぞ!! ニッポンのセダンファンも待望のスタイリッシュな北米セダン「カムリ」が日本に帰ってくる!!",
-        "url": "https://bestcarweb.jp/feature/column/1531208"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "ジャンボフェリー高松港、カーシェア「タイムズカー」ステーション新設…24時間利用可能",
-        "url": "https://response.jp/article/2026/06/01/412077.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "スズキ版ノア「新型ランディ」大幅進化!!!! ランディ初のエアロモデルで超絶アリな仕上がりに",
-        "url": "https://bestcarweb.jp/newcar/1536406"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "スバルが130km/h超えでもハンズオフ対応はアツい!! アウトバックで採用の無償アップデートが便利すぎる！",
-        "url": "https://bestcarweb.jp/feature/column/1524829"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "タントは子育てが終わっても便利？ シニアや夫婦2人暮らしにも刺さる理由",
-        "url": "https://bestcarweb.jp/feature/column/1531635"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "デリカ、アウトランダー、トライトンがふもとっぱらに集結！ 三菱スターキャンプの魅力",
-        "url": "https://response.jp/article/2026/06/01/412078.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "トヨタ『カローラクロス』次期型は「RAV4」似に？ 最終デザインはこれだ！",
-        "url": "https://response.jp/article/2026/06/01/412076.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "トヨタ会館、新展示エリア「トヨタのクルマづくり」新設…6月5日から一般公開",
-        "url": "https://response.jp/article/2026/06/01/412080.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "プジョーやフィアットなど、60車種以上の新型車を投入へ…ステランティスが5カ年戦略「FaSTLAne 2030」発表",
-        "url": "https://response.jp/article/2026/06/01/412072.html"
+        "title": "Behold the Fire-Spitting Twizy ‘Unsafety Car’ Leading a 100-Lap Citroen Ami Race on a Velodrome",
+        "url": "https://www.thedrive.com/news/behold-the-fire-spitting-twizy-unsafety-car-leading-a-100-lap-citroen-ami-race-on-a-velodrome"
       },
       {
         "source": "Motor1",
         "time": "2026.6.1",
-        "title": "‘Literally Ruined My Vehicle’: Woman Gets $1,500 Car Bill At Take 5. Now She’s Issuing A PSA For Other ‘Young Naive Women’",
-        "url": "https://www.motor1.com/news/797406/take-5-complaint/"
+        "title": "Lexus Scraps Plans For A Future Flagship EV",
+        "url": "https://www.motor1.com/news/797497/lexus-cancels-lf-zc-ev/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.1",
+        "title": "Here Are All 97 Car Dealers the FTC Threatened Over ‘Deceptive’ Pricing",
+        "url": "https://www.thedrive.com/news/here-are-all-97-car-dealers-the-ftc-threatened-over-deceptive-pricing"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.1",
+        "title": "One NFS Most Wanted Feature Was So Controversial, It Drove Developers to Quit",
+        "url": "https://www.thedrive.com/news/one-nfs-most-wanted-feature-was-so-controversial-it-drove-developers-to-quit"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.1",
+        "title": "'Wasted A Ton Of Time': Driver Wants $60K Car. Then The Saleswoman Calls Them Out For Not Answering Most Crucial Question First",
+        "url": "https://www.motor1.com/news/797402/tell-car-salesperson-monthly-budget/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.1",
+        "title": "Honda Recalls Nearly 100,000 Cars For A Major Safety Issue",
+        "url": "https://www.motor1.com/news/797493/honda-recalls-100000-cars-bad-airbag-sensor/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.1",
+        "title": "Ram Is Dropping the Mild-Hybrid From More Hemi V8 Trucks Than Just the Rumble Bee",
+        "url": "https://www.thedrive.com/news/ram-is-dropping-the-mild-hybrid-from-more-hemi-v8-trucks-than-just-the-rumble-bee"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.1",
+        "title": "Sad: The Dodge Viper Isn't Coming Back",
+        "url": "https://www.motor1.com/news/797482/new-dodge-viper-not-happening/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.1",
+        "title": "Race Week: Will the New F1 Regulations Finally Make Monaco Exciting?",
+        "url": "https://www.thedrive.com/news/race-week-will-the-new-f1-regulations-finally-make-monaco-exciting"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.1",
+        "title": "World’s First 8.1L Big Block C8 Corvette Finally Hits the Freeway",
+        "url": "https://www.thedrive.com/news/worlds-first-8-1l-big-block-c8-corvette-finally-hits-the-freeway"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.1",
+        "title": "BYD Says It Will Assume Responsibility for Self-Driving Crashes: TDS",
+        "url": "https://www.thedrive.com/news/byd-says-it-will-assume-responsibility-for-self-driving-crashes-tds"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.1",
+        "title": "Lexus Cancels Next-Generation EV Sedan",
+        "url": "https://insideevs.com/news/797459/lexus-is-electric-sedan-dead/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.1",
+        "title": "2026 Ford Super Duty Tremor Review: Why the 7.3L Is the One To Buy",
+        "url": "https://www.thedrive.com/car-reviews/2026-ford-f-250-super-duty-tremor-review"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.1",
+        "title": "Bugatti's Latest One-Off Is Covered In Stars",
+        "url": "https://www.motor1.com/news/797342/bugatti-one-off-literary-tribute/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.1",
+        "title": "A Ferrari Is Not An iPhone",
+        "url": "https://www.motor1.com/features/797351/ferrari-luce-not-an-iphone-design-opinion/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "「パジェロ復活」三菱の正式発表に「クロカンの時代来た」「嬉しい限り」などSNSでは歓喜の声",
+        "url": "https://response.jp/article/2026/06/01/412109.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.1",
+        "title": "「同じメーカーのSUVと思えない！」国沢光宏がうなる上質さ光る330万円の正体!! 人気記事ランキングベスト20[2026.5.24-5.30]",
+        "url": "https://bestcarweb.jp/feature/column/1535835"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "『カローラクロスGRスポーツ』のボディを補強、タナベ「ストラットタワーバー・プラス」と「アンダーブレース」を発売",
+        "url": "https://response.jp/article/2026/06/01/412108.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.1",
+        "title": "【これぞ運転専用】信号の「赤と黄」がパッと目に飛び込んでくる！ SWANSの新作ドライビングサングラスが凄すぎる",
+        "url": "https://bestcarweb.jp/news/car-accessory/1535996"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "【マツダ CX-5 新型】Aピラー9mm、ドア音、ワイパー制御…開発主査が明かした「地味スゴ」な進化とは",
+        "url": "https://response.jp/article/2026/06/01/412100.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 26,
-    "queued_articles": 26,
-    "processed": 26,
-    "started_at": "2026-06-01T05:14:20.197Z",
-    "finished_at": "2026-06-01T05:15:03.297Z",
+    "scoped_articles": 36,
+    "queued_articles": 36,
+    "processed": 36,
+    "started_at": "2026-06-01T19:00:57.541Z",
+    "finished_at": "2026-06-01T19:02:01.158Z",
     "success": true,
     "error": ""
   }
