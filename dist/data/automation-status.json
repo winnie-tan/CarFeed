@@ -1,115 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-05-31T14:57:16.542Z",
+    "generated_at": "2026-06-01T05:14:19.906Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 385,
-    "deepseek_untranslated_before_run": 15,
-    "newly_fetched_articles": 15,
-    "newly_fetched_untranslated": 15,
+    "deepseek_translated_before_run": 374,
+    "deepseek_untranslated_before_run": 26,
+    "newly_fetched_articles": 26,
+    "newly_fetched_untranslated": 26,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 15,
+    "translation_queue_count": 26,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.5.31",
-        "title": "Mechanic Checks Tread Depth On Back Tires. Then He Checks It On The Front: ‘Who Did The Alignment?’",
-        "url": "https://www.motor1.com/news/797326/tires-wear-unevenly/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.5.31",
-        "title": "Will Electric Semis Ever Take Off? California Hopes $1B Rebate Program Will Help",
-        "url": "https://www.thedrive.com/news/will-electric-semis-ever-take-off-california-hopes-1b-rebate-program-will-help"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.5.31",
-        "title": "Maserati's Gorgeous New Livery Celebrates A Century",
-        "url": "https://www.motor1.com/news/797333/maserati-gt2-stradale-100-year-livery/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "「もうこれサイクロン号だろ…」BMWの直列6気筒エンジン搭載バイクにSNS驚愕！「黒ならバットマン」の声も",
-        "url": "https://response.jp/article/2026/05/31/412046.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "『ジムニーノマド』を究極ローダウン！ SUV専用設計「サステックプロX-LIMITダンパー」が適合",
-        "url": "https://response.jp/article/2026/05/31/412043.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "【シトロエン C3 新型試乗】シトロエンは長距離を走らせれば“本当の価値”がわかる？…岩貞るみこ",
-        "url": "https://response.jp/article/2026/05/31/412045.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.5.31",
-        "title": "Mechanic Orders Brand-New Part For A Land Rover. Then He Finds Something Shocking Inside: ‘Just Saved Them A Lawsuit’",
-        "url": "https://www.motor1.com/news/797381/jaguar-land-rover-part-problem/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "カーナビタイム、転回禁止規制に対応 Uターン規制箇所をアイコン表示・積極利用ルートも提供",
-        "url": "https://response.jp/article/2026/05/31/412042.html"
+        "source": "Best Car Web",
+        "time": "2026.6.1",
+        "title": "【令和8年6月のバス占い付き】もうそろそろ結論を出してくれよ！ バスの場合の運転士と運転手はどっちが正解？",
+        "url": "https://bestcarweb.jp/busmagazine/1521215"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "タフト141万円台スタートは見事すぎ!! ハスラーやデリカミニと比べてわかる価格破壊力",
-        "url": "https://bestcarweb.jp/feature/column/1531980"
+        "time": "2026.6.1",
+        "title": "【自動車税は本日まで】支払えない時どうする？ 黙って「放置」で年9.1％の延滞金も!! 困ったら「まず相談」とプロが断言できる理由",
+        "url": "https://bestcarweb.jp/feature/column/1492831"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.1",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第773回",
+        "url": "https://bestcarweb.jp/feature/column/1525498"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.1",
+        "title": "2シーターもあるの!? シエンタが超絶支持されるワケはこの画像一覧で納得できるハズ",
+        "url": "https://bestcarweb.jp/news/1529828"
       },
       {
         "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "どうせなら“かわいい”方が良い！ 新作キャラクター収納アイテム［特選カーアクセサリー名鑑］",
-        "url": "https://response.jp/article/2026/05/31/412048.html"
+        "time": "2026.6.1",
+        "title": "7/2申込締切 【Season4】中西孝樹の自動車・モビリティ産業インサイトvol.4 日産の次世代技術：「AIDV」による知能化とそれを支える電動化について",
+        "url": "https://response.jp/article/2026/06/01/412060.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.5.31",
-        "title": "ナップス×モリワキ、『ゼファー750/RS』用モンスターブラックマフラーを限定発売",
-        "url": "https://response.jp/article/2026/05/31/412037.html"
+        "time": "2026.6.1",
+        "title": "BMW 2シリーズ アクティブ ツアラー、「オリジナル」追加…48Vハイブリッド搭載で498万円",
+        "url": "https://response.jp/article/2026/06/01/412064.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "EMT エムタ の軽EVはこんな車…日本主導で開発、スピード感は中国レベルで",
+        "url": "https://response.jp/article/2026/06/01/412070.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "NIPPON EXPRESS、オハイオ州に4号倉庫を新設…米国中西部の自動車関連物流需要に対応",
+        "url": "https://response.jp/article/2026/06/01/412073.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "STマイクロ、EV・HV向け車載バッテリ管理IC「L9963F」発表…合計434個の直列セルに対応可能",
+        "url": "https://response.jp/article/2026/06/01/412081.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "VWの電池企業PowerCo、マイクロソフトと提携…ギガファクトリーにAI・クラウド基盤を構築へ",
+        "url": "https://response.jp/article/2026/06/01/412071.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "三菱スターキャンプ2026に新型パジェロ現る!! マスコミ完全シャットアウトで見せた感想は？？",
-        "url": "https://bestcarweb.jp/news/business/1535822"
+        "time": "2026.6.1",
+        "title": "クラウンじゃないぞ!! ニッポンのセダンファンも待望のスタイリッシュな北米セダン「カムリ」が日本に帰ってくる!!",
+        "url": "https://bestcarweb.jp/feature/column/1531208"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "ジャンボフェリー高松港、カーシェア「タイムズカー」ステーション新設…24時間利用可能",
+        "url": "https://response.jp/article/2026/06/01/412077.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "停電しても20日点灯！ 災害時に効く!! 厚真町に“消えない街路灯”登場",
-        "url": "https://bestcarweb.jp/news/1527353"
+        "time": "2026.6.1",
+        "title": "スズキ版ノア「新型ランディ」大幅進化!!!! ランディ初のエアロモデルで超絶アリな仕上がりに",
+        "url": "https://bestcarweb.jp/newcar/1536406"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.5.31",
-        "title": "国際路線が多数発着する大ターミナル ～プラハ最大のバスターミナルの仕事っぷりがケタ違いな件",
-        "url": "https://bestcarweb.jp/busmagazine/1529009"
+        "time": "2026.6.1",
+        "title": "スバルが130km/h超えでもハンズオフ対応はアツい!! アウトバックで採用の無償アップデートが便利すぎる！",
+        "url": "https://bestcarweb.jp/feature/column/1524829"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.1",
+        "title": "タントは子育てが終わっても便利？ シニアや夫婦2人暮らしにも刺さる理由",
+        "url": "https://bestcarweb.jp/feature/column/1531635"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "デリカ、アウトランダー、トライトンがふもとっぱらに集結！ 三菱スターキャンプの魅力",
+        "url": "https://response.jp/article/2026/06/01/412078.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "トヨタ『カローラクロス』次期型は「RAV4」似に？ 最終デザインはこれだ！",
+        "url": "https://response.jp/article/2026/06/01/412076.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "トヨタ会館、新展示エリア「トヨタのクルマづくり」新設…6月5日から一般公開",
+        "url": "https://response.jp/article/2026/06/01/412080.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.1",
+        "title": "プジョーやフィアットなど、60車種以上の新型車を投入へ…ステランティスが5カ年戦略「FaSTLAne 2030」発表",
+        "url": "https://response.jp/article/2026/06/01/412072.html"
       },
       {
         "source": "Motor1",
-        "time": "2026.5.31",
-        "title": "Mechanic Test-Drives Truck That Has An ABS Complaint. Then She Takes A Closer Look: ‘Um, What Is That?’",
-        "url": "https://www.motor1.com/news/797379/truck-abs-problem/"
+        "time": "2026.6.1",
+        "title": "‘Literally Ruined My Vehicle’: Woman Gets $1,500 Car Bill At Take 5. Now She’s Issuing A PSA For Other ‘Young Naive Women’",
+        "url": "https://www.motor1.com/news/797406/take-5-complaint/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 15,
-    "queued_articles": 15,
-    "processed": 15,
-    "started_at": "2026-05-31T14:57:16.828Z",
-    "finished_at": "2026-05-31T14:57:48.392Z",
+    "scoped_articles": 26,
+    "queued_articles": 26,
+    "processed": 26,
+    "started_at": "2026-06-01T05:14:20.197Z",
+    "finished_at": "2026-06-01T05:15:03.297Z",
     "success": true,
     "error": ""
   }
