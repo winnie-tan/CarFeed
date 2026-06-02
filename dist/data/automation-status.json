@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-02T04:59:17.567Z",
+    "generated_at": "2026-06-02T17:50:18.883Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 380,
-    "deepseek_untranslated_before_run": 20,
-    "newly_fetched_articles": 20,
-    "newly_fetched_untranslated": 20,
+    "deepseek_translated_before_run": 362,
+    "deepseek_untranslated_before_run": 38,
+    "newly_fetched_articles": 38,
+    "newly_fetched_untranslated": 38,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 20,
+    "translation_queue_count": 38,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.2",
-        "title": "「疲れた」が9割、GWに遠出したドライバー IDOMリセバ総研調査",
-        "url": "https://response.jp/article/2026/06/02/412127.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "『トミーカイラZZ-EV』、1台限りの改良新型が登場…フロントフェイス刷新",
-        "url": "https://response.jp/article/2026/06/02/412123.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第774回",
-        "url": "https://bestcarweb.jp/feature/column/1525500"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "649ccパラツインネイキッド、カワサキ『Z650 S』日本初導入、107万8000円で7月11日発売",
-        "url": "https://response.jp/article/2026/06/02/412128.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "AIドライブレコーダーで道路損傷を自動検出、「道路巡回ソリューション」共同開発…電気興業とサイバーコア",
-        "url": "https://response.jp/article/2026/06/02/412139.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "BMW X1、新エントリーモデル「オリジナル」追加…525万円",
-        "url": "https://response.jp/article/2026/06/02/412119.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "BRZの低音が激変！ サブウーファー追加で愛車時間がもっと楽しくなった［car audio newcomer］by サウンドステーション SUBLIME 後編",
-        "url": "https://response.jp/article/2026/06/02/412129.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "UNIQLO TOKYO×はとバスコラボでオリジナルのTシャツやグッズが作れる……だと!?",
-        "url": "https://bestcarweb.jp/busmagazine/1532843"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "VWグループ、独ブラウンシュバイク工科大学と提携…AI研究教授職を新設へ",
-        "url": "https://response.jp/article/2026/06/02/412126.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "ZFがベルリン消防局の全車両を「コネクテッド化」！ 緊急車両のデジタル管理で効率と安全性が向上",
-        "url": "https://bestcarweb.jp/fullload/1534110"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "アイシン、ドライバー監視システムにグリーンヒルズソフトウェアの「RTOS」採用…2028年製品化へ",
-        "url": "https://response.jp/article/2026/06/02/412124.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "サブスク型洗車場「スプラッシュンゴー」、藤岡大塚店を群馬にオープン…洗い放題で月額980円から",
-        "url": "https://response.jp/article/2026/06/02/412133.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "スズキのミニバン『ランディ』に改良新型、ハイブリッド車に統一…384万5600円から",
-        "url": "https://response.jp/article/2026/06/02/412111.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "タイプRかZか、それともCX-60か!? 自動車評論家がガチで格付けした「令和の名機TOP5」",
-        "url": "https://bestcarweb.jp/feature/column/1532551"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "タフトは“ひとり時間”を楽しむ軽だ!! 通勤、カフェ巡り、車中休憩で光る魅力",
-        "url": "https://bestcarweb.jp/feature/column/1531958"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "ついにアクアでも選べるように!! 大型ディスプレイオーディオがUグレードにも待望の追加だ！",
-        "url": "https://bestcarweb.jp/feature/column/1522396"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.2",
-        "title": "Man Sees Nitto Grappler Tires Are $450 On Amazon. Then He Goes To Walmart: ‘Just Taking A Chance And Hoping For The Best’",
-        "url": "https://www.motor1.com/news/797514/nitto-grappler-tires-walmart-vs-amazon/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.1",
-        "title": "Man Goes To Midas For Oil Change. Then The Tech Recommends Something Awfully Suspicious: ‘I Used To Trust Midas’",
-        "url": "https://www.motor1.com/news/797409/midas-inspection-issue/"
+        "title": "Big Two-Stroke Dirt Bikes Are Back: Kawasaki Reveals the KX327, Its Largest in More Than 20 Years",
+        "url": "https://www.thedrive.com/news/big-two-stroke-dirt-bikes-are-back-kawasaki-reveals-the-kx327-its-largest-in-more-than-20-years"
       },
       {
         "source": "InsideEVs",
-        "time": "2026.6.1",
-        "title": "I Took A Hyundai Ioniq 5 EV On A Roadtrip. It Made Gas Feel Financially Irresponsible",
-        "url": "https://insideevs.com/news/797350/hyundai-ioniq-5-roadtrip-gas-financially-irresponsible/"
+        "time": "2026.6.2",
+        "title": "Hyundai And Kia's Hybrids Are Crushing It Amid The Gas Crisis",
+        "url": "https://insideevs.com/news/797603/hyundai-kia-sales-hybrids-evs-may-2026/"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.1",
-        "title": "California Wants To Regulate Fun Tires",
-        "url": "https://www.motor1.com/news/797503/california-tire-rolling-resistance-rules/"
+        "time": "2026.6.2",
+        "title": "Yikes: Ram Made An AI-Generated Shirt With A Tacoma On It",
+        "url": "https://www.motor1.com/news/797593/ram-ai-tacoma-shirt/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.2",
+        "title": "The Rolls-Royce Spectre Gets Big Update. But You Wouldn’t Know It",
+        "url": "https://insideevs.com/news/797596/rolls-royce-spectre-series-two/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.2",
+        "title": "Ram Tried Selling a ‘Patriotic T-Shirt’ With an AI-Generated Tacoma and Botched American Flag",
+        "url": "https://www.thedrive.com/news/ram-is-selling-a-patriotic-t-shirt-with-an-ai-generated-tacoma-and-botched-american-flag"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.2",
+        "title": "The 2026 Toyota GRMN Corolla Is Not a Hot Hatch for Everybody",
+        "url": "https://www.thedrive.com/news/the-2026-toyota-grmn-corolla-is-not-a-hot-hatch-for-everybody"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.2",
+        "title": "Man Goes To Car Dealership. Then He Catches An AutoZone Worker Making A Delivery: ‘Do I Have To Pay Dealership Prices?'",
+        "url": "https://www.motor1.com/news/797520/autozone-dealership-delivery/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.2",
+        "title": "This Gorgeous Porsche-Inspired Hypercar Is Hiding A Secret",
+        "url": "https://www.motor1.com/news/797506/porsche-v10-manual-supercar-one-off-build/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.2",
+        "title": "Hyundai Sonata Joins Camry and Accord in Sedan Sales Surge: TDS",
+        "url": "https://www.thedrive.com/news/hyundai-sonata-joins-camry-and-accord-in-sedan-sales-surge-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.2",
+        "title": "Why Some Cars Put Power Down Better Than Others",
+        "url": "https://www.motor1.com/features/797355/what-is-a-limited-slip-differential/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.2",
+        "title": "Lucid Is Recalling Its Cheapest EV Because It May Lose Power While Driving",
+        "url": "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.2",
+        "title": "2026 Toyota Tacoma in ‘Back to the Future’ Get-Up Looks Pretty McFly",
+        "url": "https://www.thedrive.com/news/2026-toyota-tacoma-in-back-to-the-future-get-up-looks-pretty-mcfly"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "「こういうのでイイんだよ」元祖スポーツネイキッドの新型、ドゥカティ『モンスター』にSNSでは期待の声",
+        "url": "https://response.jp/article/2026/06/02/412154.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "「激渋ですやん」マツダ『ロードスター』から採用の新色「ジンクグリーン」発表にSNS注目！",
+        "url": "https://response.jp/article/2026/06/02/412162.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "【独自】新型ムラーノ「796万4000円」から!! 6月初旬から300台限定で発売開始 北米生産車がついにやってくる",
+        "url": "https://bestcarweb.jp/newcar/1536323"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "10分で0℃まで冷える！ 急速冷却＆静音設計の新型車載冷蔵庫がカーライフを変える！",
+        "url": "https://bestcarweb.jp/news/1535186"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "GMOインターネットグループ、AIとヒューマノイドロボットで空の社会実装を支援…次世代エアモビリティEXPO 2026",
+        "url": "https://response.jp/article/2026/06/02/412156.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "GNSSユニット「RJX5-PoE」、小峰無線電機が参考出展へ…次世代エアモビリティEXPO 2026",
+        "url": "https://response.jp/article/2026/06/02/412152.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "NEDO、空飛ぶクルマや長距離無人機技術を紹介…次世代エアモビリティEXPO 2026",
+        "url": "https://response.jp/article/2026/06/02/412153.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "SUBARU、新リース会計基準対応にプロシップ「ProPlus＋」採用…グループ30社を一元管理",
+        "url": "https://response.jp/article/2026/06/02/412151.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 20,
-    "queued_articles": 20,
-    "processed": 20,
-    "started_at": "2026-06-02T04:59:17.863Z",
-    "finished_at": "2026-06-02T04:59:53.571Z",
+    "scoped_articles": 38,
+    "queued_articles": 38,
+    "processed": 38,
+    "started_at": "2026-06-02T17:50:19.180Z",
+    "finished_at": "2026-06-02T17:51:31.606Z",
     "success": true,
     "error": ""
   }

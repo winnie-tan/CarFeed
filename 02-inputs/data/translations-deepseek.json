@@ -20293,5 +20293,895 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-02T04:59:53.564Z"
+  },
+  "https://insideevs.com/news/797603/hyundai-kia-sales-hybrids-evs-may-2026/": {
+    "title_zh": "现代与起亚混动车型在油价危机中销量飙升",
+    "summary_short": "现代和起亚混动车型 5 月销量创纪录，同比增长 90%，受高油价推动。",
+    "summary_long": "现代和起亚的电气化车型在 5 月创下销售纪录，其中混动车型表现尤为突出，销量同比增长 90%。高油价被认为是主要推动因素，现代 CEO 表示油价是电气化车型销售的“强劲驱动力”。具体车型方面，途胜、圣达菲、伊兰特和索纳塔均创下 5 月新纪录。纯电动车型销量也增长 10%，Ioniq 5 表现亮眼。",
+    "highlights_zh": [
+      "混动销量同比飙升 90%",
+      "圣达菲、伊兰特等创 5 月纪录",
+      "Ioniq 5 销量增长 28%",
+      "高油价推动电气化车型需求"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "起亚 | Kia",
+      "圣达菲",
+      "Ioniq 5",
+      "途胜"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWgVg/s1/2026-hyundai-santa-fe-hybrid.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:22.677Z"
+  },
+  "https://www.thedrive.com/news/big-two-stroke-dirt-bikes-are-back-kawasaki-reveals-the-kx327-its-largest-in-more-than-20-years": {
+    "title_zh": "川崎发布 KX327：20 多年来最大排量二冲程越野摩托车",
+    "summary_short": "川崎推出 KX327 和 KX327X，这是自 2004 年 KX500 停产后最大的二冲程越野摩托车，采用燃油喷射技术。",
+    "summary_long": "川崎发布了 KX327 和 KX327X，这是其 20 多年来最大排量的二冲程越野摩托车。该车搭载首款燃油喷射单缸二冲程发动机，提供平顺可控的动力输出，并配备先进的排气阀系统以改善低扭和加速响应。KX327 采用密齿比五速变速箱，KX327X 则配备六速变速箱和超低一挡，适合技术型越野路况。",
+    "highlights_zh": [
+      "川崎推出 KX327 和 KX327X",
+      "自 2004 年 KX500 后最大排量二冲程",
+      "首款燃油喷射单缸二冲程发动机",
+      "排气阀系统提升低扭与加速平顺性"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "KX327",
+      "KX327X",
+      "KX500",
+      "二冲程发动机"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Kawasaki-Two-Stroke-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/713784716_1417219887107001_8648672751745135438_n-edited.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/714323879_1417219947106995_8980929065587319564_n-edited.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:23.238Z"
+  },
+  "https://www.motor1.com/news/797593/ram-ai-tacoma-shirt/": {
+    "title_zh": "Ram 官方网店竟卖印有丰田 Tacoma 的 AI 生成 T 恤",
+    "summary_short": "Ram 官方网店上架了一款 AI 生成的 T 恤，但图案中的卡车实际上是丰田 Tacoma，而非 Ram 自家车型。",
+    "summary_long": "Stellantis 旗下 Ram 品牌的官方线上商店近日上架了一款 AI 生成的 T 恤，但图案中的卡车实为上一代丰田 Tacoma，而非 Ram 车型。尽管格栅上印有“RAM”字样，但头灯和车身轮廓暴露了真相。此外，T 恤背面的美国国旗只有 38 颗星，存在明显错误。这一事件再次引发对 Stellantis 偷懒做法的批评。",
+    "highlights_zh": [
+      "Ram 官方网店售卖 AI 生成 T 恤",
+      "图案中的卡车是丰田 Tacoma 而非 Ram",
+      "T 恤背面美国国旗只有 38 颗星",
+      "Stellantis 因偷懒做法再遭批评"
+    ],
+    "entities": [
+      "Ram",
+      "丰田 Tacoma",
+      "Stellantis",
+      "AI 生成"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8KP6/s1/screenshot-2026-06-02-091721.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:26.157Z"
+  },
+  "https://insideevs.com/news/797596/rolls-royce-spectre-series-two/": {
+    "title_zh": "劳斯莱斯 Spectre 系列 II 更新：续航更长、充电更快",
+    "summary_short": "劳斯莱斯首款电动车 Spectre 推出系列 II，续航提升 18% 至 628 公里，充电时间缩短 14%，外观不变但内饰升级。",
+    "summary_long": "劳斯莱斯 Spectre 系列 II 作为中期改款，外观几乎未变，但技术层面有显著升级。续航提升 18% 至 390 英里（WLTP），得益于平均电耗优化至 20.2 kWh/100km；充电时间缩短 14%，从 10% 充至 80% 仅需 34 分钟。Black Badge 版本动力增强，最大功率 670 马力，峰值扭矩 1100 牛·米。内饰新增皮革、织物、饰板及仪表盘照明，时钟采用航空主题设计。",
+    "highlights_zh": [
+      "续航提升 18% 至 628 公里",
+      "充电时间缩短 14%",
+      "Black Badge 版马力增至 670 匹",
+      "内饰全新照明与航空主题时钟"
+    ],
+    "entities": [
+      "劳斯莱斯 | Rolls-Royce",
+      "Spectre",
+      "Black Badge",
+      "WLTP"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8vXy/s1/rolls-royce-spectre-series-ii-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:26.834Z"
+  },
+  "https://www.thedrive.com/news/ram-is-selling-a-patriotic-t-shirt-with-an-ai-generated-tacoma-and-botched-american-flag": {
+    "title_zh": "Ram 售卖“爱国 T 恤”，却用 AI 生成的 Tacoma 和错误美国国旗",
+    "summary_short": "Ram 官方商店上架一款“爱国 T 恤”，图案竟是 AI 生成的丰田 Tacoma，且美国国旗绘制错误，引发争议后已下架。",
+    "summary_long": "Ram 在官方商店上架了一款售价 29.95 美元的“2026 Ram 爱国中性 T 恤”，但图案明显是 AI 生成的丰田 Tacoma，仅在前格栅处添加了 Ram 标识，且美国国旗绘制错误。该产品在媒体报道后迅速下架，但截图已被保留。此前 Ram 曾因在社交媒体发布 AI 生成的低质量图片而受到批评。",
+    "highlights_zh": [
+      "T 恤图案实为丰田 Tacoma",
+      "美国国旗绘制错误",
+      "售价 29.95 美元",
+      "此前 Ram 曾因 AI 图片被批"
+    ],
+    "entities": [
+      "Ram",
+      "Toyota Tacoma",
+      "Dodge",
+      "Motor1"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-11.08.03-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-11.04.22-AM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-10.55.47-AM.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:29.290Z"
+  },
+  "https://www.thedrive.com/news/the-2026-toyota-grmn-corolla-is-not-a-hot-hatch-for-everybody": {
+    "title_zh": "2026 款丰田 GRMN 卡罗拉：并非适合所有人的小钢炮",
+    "summary_short": "丰田 GRMN 卡罗拉即将在美上市，通过空气动力学、悬架和轮胎等多项赛道化升级，但日常实用性有所牺牲。",
+    "summary_long": "丰田终于发布了 2026 款 GRMN 卡罗拉，这是首款在美国销售的 GRMN 车型。该车针对纽博格林赛道进行了多项优化，包括碳纤维发动机盖和翼子板、可调碳纤维尾翼、专属减震器、调整后的电动助力转向以及针对弯道优化的 GR-Four 四驱系统。此外，还配备了米其林 Pilot Sport Cup 2 轮胎。这些改进使其在赛道性能上更加极致，但日常驾驶舒适性和实用性可能有所下降。",
+    "highlights_zh": [
+      "首款在美销售的 GRMN 车型",
+      "碳纤维车身面板和可调尾翼",
+      "专属悬架和转向调校",
+      "配备米其林 Cup 2 轮胎"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GRMN 卡罗拉 | GRMN Corolla",
+      "纽博格林",
+      "GR-Four 四驱系统",
+      "米其林 Pilot Sport Cup 2"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/2026_Toyota_GRMN_Corolla_Gravel_009-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/2026_Toyota_GRMN_Corolla_Gravel_004-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/2026_Toyota_GRMN_Corolla_Spoiler-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:30.574Z"
+  },
+  "https://www.motor1.com/news/797520/autozone-dealership-delivery/": {
+    "title_zh": "男子在经销商处拍到 AutoZone 送货：我该付经销商价吗？",
+    "summary_short": "一段视频显示，汽车经销商可能从 AutoZone 采购零件，引发消费者对高昂经销商价格的质疑。",
+    "summary_long": "一段 TikTok 视频显示，一名男子在汽车经销商处拍到 AutoZone 员工手持零件和收据走向经销商入口，暗示经销商可能从 AutoZone 采购零件而非直接从制造商进货。该视频引发热议，许多消费者质疑经销商是否在利用品牌溢价收取高价。",
+    "highlights_zh": [
+      "视频拍到 AutoZone 员工向经销商送货",
+      "经销商可能未使用原厂零件",
+      "消费者质疑经销商定价合理性"
+    ],
+    "entities": [
+      "AutoZone",
+      "汽车经销商"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Znz9lK/s1/he-catches-an-autozone-worker-making-a-delivery.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:32.386Z"
+  },
+  "https://www.motor1.com/news/797506/porsche-v10-manual-supercar-one-off-build/": {
+    "title_zh": "保时捷 Carrera GT 化身 JC9：惊艳定制超跑",
+    "summary_short": "Miller Motorcars 基于保时捷 Carrera GT 打造了一款名为 JC9 的定制超跑，采用碳纤维车身和 V10 手动变速箱，外观致敬经典 917K。",
+    "summary_long": "为庆祝成立 50 周年，康涅狄格州的 Miller Motorcars 与设计师 Jason Castriota 合作，基于保时捷 Carrera GT 打造了一款名为 JC9 的定制超跑。该车采用全碳纤维车身，外观灵感源自 50 多年前的 917K，但内饰几乎完全沿用 Carrera GT 的设计，包括仪表盘、中控台和方向盘（仅去除了保时捷标志）。动力方面，5.7 升自然吸气 V10 发动机是否经过升级尚未公布，原厂输出 603 马力和 45 磅-英尺扭矩。JC9 在经销商周年庆典上首次亮相，同时展出了 Castriota 设计的其他车型，如法拉利 P4/5 和 SSC Tuatara。",
+    "highlights_zh": [
+      "基于保时捷 Carrera GT 打造",
+      "全碳纤维车身",
+      "外观致敬 917K",
+      "为 Miller Motorcars 50 周年定制"
+    ],
+    "entities": [
+      "Miller Motorcars",
+      "保时捷 Carrera GT | Porsche Carrera GT",
+      "JC9",
+      "Jason Castriota",
+      "V10"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7mBA/s1/miller-motorcars-jc9.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:34.865Z"
+  },
+  "https://www.thedrive.com/news/hyundai-sonata-joins-camry-and-accord-in-sedan-sales-surge-tds": {
+    "title_zh": "现代索纳塔加入轿车销量复苏潮",
+    "summary_short": "现代索纳塔 5 月销量同比增 39%，与丰田凯美瑞、本田雅阁共同推动轿车市场回暖。",
+    "summary_long": "现代汽车公布 5 月销量数据，整体销量同比增长 3%，其中索纳塔表现亮眼，售出 8456 辆，较去年同期增长 39%。这一增长与丰田凯美瑞、本田雅阁的销量回升趋势一致，表明美国轿车市场正在复苏。此外，丰田对 GR86 进行了小幅更新，优化了油门响应、换挡手感并新增内饰选项。",
+    "highlights_zh": [
+      "现代索纳塔 5 月销量同比增 39%",
+      "丰田凯美瑞和本田雅阁同样增长",
+      "美国轿车市场出现复苏迹象",
+      "丰田 GR86 获小幅更新"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "索纳塔 | Sonata",
+      "丰田 | Toyota",
+      "凯美瑞 | Camry",
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/67364-Large626772025SonataNLine-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:35.372Z"
+  },
+  "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss/": {
+    "title_zh": "Lucid 召回最便宜电动车 Air Pure：行驶中可能突然断电",
+    "summary_short": "Lucid 因逆变器缺陷召回 2039 辆 Air Pure，行驶中可能突然失去动力，涉及 2023-2025 款车型。",
+    "summary_long": "Lucid Motors 宣布召回 2039 辆 Air Pure 电动轿车，原因是第四代逆变器内部组件可能因电机振动而损坏，导致信号中断，车辆在行驶中突然失去动力。Air Pure 是 Lucid 唯一的后驱车型，一旦后驱动单元失效，车辆将无法移动。受影响车辆生产日期为 2023 年 9 月 13 日至 2024 年 12 月 12 日。Lucid 将通过软件更新检测潜在故障，并免费更换有问题的逆变器。",
+    "highlights_zh": [
+      "召回涉及 2039 辆 Lucid Air Pure",
+      "逆变器损坏可致行驶中动力中断",
+      "仅后驱车型",
+      "软件更新检测"
+    ],
+    "entities": [
+      "Lucid Motors",
+      "Lucid Air Pure",
+      "逆变器"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAbKRR/s1/2024-breakthrough-award-nominee-lucid-air-pure.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:38.470Z"
+  },
+  "https://www.motor1.com/features/797355/what-is-a-limited-slip-differential/": {
+    "title_zh": "限滑差速器（LSD）是什么？为何影响车辆动力输出？",
+    "summary_short": "限滑差速器（LSD）能优化动力输出，提升弯道性能。本文详解其工作原理与驾驶影响。",
+    "summary_long": "限滑差速器（LSD）是提升车辆动力输出的关键部件。普通差速器允许左右车轮以不同速度旋转，但弯道中会导致动力流失。LSD 通过限制左右轮速差，将更多扭矩传递给有抓地力的车轮，从而改善加速和操控。本文以通俗语言解释 LSD 的工作原理及其对驾驶性能的影响。",
+    "highlights_zh": [
+      "LSD 全称限滑差速器",
+      "普通差速器允许左右轮速差",
+      "LSD 限制轮速差",
+      "提升弯道加速与操控稳定性"
+    ],
+    "entities": [
+      "限滑差速器 | Limited-Slip Differential",
+      "差速器",
+      "动力输出",
+      "弯道性能"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3B21r/s1/what-is-a-limited-slip-differential.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:38.796Z"
+  },
+  "https://www.thedrive.com/news/2026-toyota-tacoma-in-back-to-the-future-get-up-looks-pretty-mcfly": {
+    "title_zh": "2026 款丰田 Tacoma 改装版致敬《回到未来》",
+    "summary_short": "丰田经销商 Berge 打造《回到未来》风格 Tacoma，全黑涂装、升高悬挂、黄色雾灯，致敬经典 T100 皮卡。",
+    "summary_long": "丰田经销商 Berge Toyota 基于第四代 Tacoma 打造了一款《回到未来》主题改装车。全黑车身搭配 ARB 货架、黄色 KC 雾灯，复刻电影中 T100 皮卡的经典造型。改装包括 C4 钢制前保险杠、Icon Stage 4 悬挂、35 英寸 Mickey Thompson 轮胎及 Method 轮毂，越野能力超越 TRD Pro。内饰采用黄色缝线座椅和 TRD 标识，但未配备混动系统和 IsoDynamic 座椅。该车目前正在出售。",
+    "highlights_zh": [
+      "全黑涂装+黄色雾灯致敬电影",
+      "Icon Stage 4 悬挂+35 英寸越野胎",
+      "C4 钢制保险杠提升接近角",
+      "内饰黄色缝线呼应外观"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tacoma",
+      "Berge Toyota",
+      "Icon",
+      "Mickey Thompson"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Back-to-the-Future-Toyota-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/1439671878.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/1439671888.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:41.932Z"
+  },
+  "https://response.jp/article/2026/06/02/412154.html": {
+    "title_zh": "杜卡迪新款 Monster 发布，SNS 上期待声高涨",
+    "summary_short": "杜卡迪日本发布新款 Monster，搭载最轻 890cc V2 引擎，售价 169 万日元起，SNS 上获好评。",
+    "summary_long": "杜卡迪日本宣布将于 6 月 21 日发售新款 Monster，仅引入 Monster+版本，提供杜卡迪红（169 万日元）和冰山白（171 万日元）两种颜色，运动版（179 万日元）预计 2026 年 10 月上市。Monster 自 1992 年开创运动街车类别，30 多年来持续进化，拥有全球粉丝社群。新款搭载杜卡迪史上最轻的 890cc V2 发动机，重 54.4kg，最大功率 111ps/9000rpm，最大扭矩 91.1Nm/7250rpm，宽泛的扭矩输出适合城市与运动骑行。",
+    "highlights_zh": [
+      "新款 Monster 仅引入 Monster+版本",
+      "搭载最轻 890cc V2 引擎",
+      "最大功率 111ps",
+      "宽泛扭矩输出"
+    ],
+    "entities": [
+      "杜卡迪",
+      "Monster"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215355.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215355.jpg",
+      "https://response.jp/imgs/fill2/2215361.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:43.395Z"
+  },
+  "https://response.jp/article/2026/06/02/412162.html": {
+    "title_zh": "马自达为 Roadster 推出新色“锌绿金属漆”，SNS 热议",
+    "summary_short": "马自达发布新涂装色“锌绿金属漆”，率先用于 Roadster 及 RF 车型，灵感来自工业底漆，兼具粗犷与精致。",
+    "summary_long": "马自达于 5 月 31 日宣布开发出新涂装色“锌绿金属漆”，将率先在 Roadster 及 Roadster RF 上采用。该颜色灵感来自工业用锌铬酸盐底漆的质感，在暗处呈现固体般紧致印象，在亮处则展现细腻金属光泽，凸显车身线条。马自达此前已有约 80 种绿色系，但第四代 Roadster 是首次引入绿色。SNS 上对此反响热烈，称其“超酷”“这颜色真棒”。",
+    "highlights_zh": [
+      "新色“锌绿金属漆”灵感来自工业底漆",
+      "暗处紧致、亮处闪耀金属光泽",
+      "第四代 Roadster 首次采用绿色系",
+      "SNS 评价“超酷”“这颜色真棒”"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "ロードスター",
+      "ロードスター RF",
+      "锌绿金属漆"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215654.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215654.jpg",
+      "https://response.jp/imgs/fill2/2215650.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:45.719Z"
+  },
+  "https://bestcarweb.jp/newcar/1536323": {
+    "title_zh": "日产全新 Murano 日本上市：限量 300 台，起售价 796.4 万日元",
+    "summary_short": "日产全新 Murano 以限量 300 台形式重返日本市场，单一级别售价 796.4 万日元，约 11 年后再次登陆。",
+    "summary_long": "日产全新第四代 Murano 即将在日本市场限量发售，仅 300 台，单一级别，售价 796.4 万日元。这是 Murano 自 2015 年退出日本市场后，时隔约 11 年再次回归。新车采用北美生产特认制度进口，继丰田 Tundra、Highlander 之后第三款以此方式进入日本的车型。Murano 以其独特设计著称，初代于 2002 年日产复兴时期推出，与 Fairlady Z 共同塑造新形象；第二代强化操控并配备 20 英寸轮毂，但国内销量不佳，第三代仅限北美。此次回归有望凭借其差异化风格吸引消费者。",
+    "highlights_zh": [
+      "限量 300 台",
+      "售价 796.4 万日元",
+      "约 11 年后重返日本",
+      "北美生产特认制度进口"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ムラーノ",
+      "フェアレディZ",
+      "丰田 | Toyota",
+      "タンドラ"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01131406/2025-Nissan-Murano-12792.jpg?v=1780287248",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01131406/2025-Nissan-Murano-12792-600x400.jpg?v=1780287248",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02142747/img01-1_1-600x400.jpg?v=1780378069"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:47.634Z"
+  },
+  "https://bestcarweb.jp/news/1535186": {
+    "title_zh": "10 分钟降至 0°C！JESIMAIK F 系列车载冰箱急速冷却静音设计",
+    "summary_short": "JESIMAIK 推出 F 系列车载冰箱，10 分钟冷却至 0°C，2 室独立控温，静音设计，适合车中泊与露营。",
+    "summary_long": "JESIMAIK 发布新型车载冰箱 F 系列，提供 25L 和 35L 两种容量，可选配脚轮。搭载 3.5cc 压缩机，可在 10 分钟内将空箱冷却至 0°C，35 分钟达到-20°C，远超传统半导体制冷器。支持双温区独立控制，可同时冷藏饮料和冷冻食材。静音设计适合车内使用，满足车中泊、露营、长途旅行等场景需求。",
+    "highlights_zh": [
+      "10 分钟冷却至 0°C",
+      "双温区独立控制",
+      "静音设计",
+      "25L/35L 两种容量"
+    ],
+    "entities": [
+      "JESIMAIK",
+      "F 系列 | F Series",
+      "车中泊",
+      "车载冰箱",
+      "露营"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30020410/5354a6978894c208ee66d95072abdc6b.jpg?v=1780074251",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30020410/5354a6978894c208ee66d95072abdc6b-600x263.jpg?v=1780074251",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02094831/c443e0f1257b1b59887c909479ada951-600x400.jpg?v=1780361312"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:49.007Z"
+  },
+  "https://response.jp/article/2026/06/02/412152.html": {
+    "title_zh": "小峰无线电展出新型 GNSS 单元 RJX5-PoE，支持以太网供电",
+    "summary_short": "小峰无线电将在 Japan Drone 2026 展出新型 GNSS 单元 RJX5-PoE，支持 L1/L2/L5 三频及以太网供电，实现长距离传输。",
+    "summary_long": "小峰无线电将在 6 月 3 日于幕张展览馆举办的“第 11 届 Japan Drone 2026/第 5 届次世代空中交通 EXPO 2026”上，参考展出新开发的 GNSS 单元“RJX5-PoE”。该单元集成了接收芯片和天线，支持 L1、L2、L5 三频。与以往通过 USB 传输数据的 RJ 系列不同，RJX5-PoE 支持以太网连接，实现长距离传输，并可通过 PoE（以太网供电）技术在供电困难的地点经由网线供电。现有 RJ 系列包括支持 L1/L2 的 RJF9P2，以及支持 L6 的三频型号 RJFD9P-L6 和 RJCLAS-L6，后者在通信条件差、RTK 定位困难的环境下仍能通过单点定位实现高精度位置测量。",
+    "highlights_zh": [
+      "支持 L1/L2/L5 三频",
+      "以太网连接实现长距离传输",
+      "PoE 供电",
+      "参考展出于 Japan Drone 2026"
+    ],
+    "entities": [
+      "小峰无线电",
+      "GNSS 单元 | RJX5-PoE",
+      "次世代空中交通 EXPO 2026",
+      "Japan Drone 2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215629.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215629.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:52.866Z"
+  },
+  "https://response.jp/article/2026/06/02/412156.html": {
+    "title_zh": "GMO 互联网集团：AI 与人形机器人助力空中交通社会落地",
+    "summary_short": "GMO 互联网集团将在 Japan Drone 2026 展示 AI 与人形机器人，解决无人机/eVTOL 时代的人力短缺与运营负担。",
+    "summary_long": "GMO 互联网集团将参加 6 月 3 日至 5 日在幕张展览馆举办的日本最大无人机/eVTOL 国际展会“Japan Drone／次世代エアモビリティEXPO 2026”。自 2022 年首次参展以来，集团一直以“为所有天空提供安全”为理念，致力于构建无人机/eVTOL 时代的安全社会基础设施。2026 年以“从‘移动’到‘工作’”为主题，通过 AI 和人形机器人的现场支援，深入解决空中社会落地面临的人力不足和运营负荷等问题。展位亮点是与日本航空集团旗下 JAL 地面服务公司合作的人形机器人地面操作实证演示，使用 UBTECH 技术制造的高性能人形机器人（身高 172cm），模拟机场实际业务环境，展示缓解人力短缺的具体可能性。此外，GMO 环球签名控股开发的“GMO Field XR”可提供 VR 无人机飞行模拟器体验，使用真实遥控器进行飞行训练和基础设施检查。",
+    "highlights_zh": [
+      "GMO 互联网集团参展 Japan Drone 20…",
+      "展示 AI 与人形机器人地面操作实证",
+      "UBTECH 人形机器人身高 172cm",
+      "VR 无人机模拟器体验"
+    ],
+    "entities": [
+      "GMO 互联网集团 | GMOインターネットグループ",
+      "Japan Drone／次世代エアモビリティEXPO 2026",
+      "JAL 地面服务",
+      "UBTECHテクノロジー",
+      "人形机器人"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215656.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215656.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:53.246Z"
+  },
+  "https://response.jp/article/2026/06/02/412153.html": {
+    "title_zh": "NEDO 将在次世代空中出行展上展示飞行汽车与长距离无人机技术",
+    "summary_short": "NEDO 将在 2026 年次世代空中出行展上展示飞行汽车与长距离无人机技术，包括性能评估和运营管理成果。",
+    "summary_long": "日本新能源产业技术综合开发机构（NEDO）将于 2026 年 6 月 3 日至 5 日在幕张展览馆举办的“Japan Drone 2026/次世代空中出行 EXPO 2026”上出展。该展会由日本 UAS 产业振兴协议会主办，NEDO 作为后援团体参与。在展位 BG-13 上，NEDO 将介绍两个项目：一是自 2022 年度启动的无人机和飞行汽车性能评估方法及运营管理技术开发项目，通过展板和视频展示成果与未来计划；二是经济安全保障重要技术培育计划中的长距离物资运输用无人机技术开发与实证项目。",
+    "highlights_zh": [
+      "NEDO 出展次世代空中出行展",
+      "展示飞行汽车与无人机技术",
+      "聚焦性能评估与运营管理",
+      "长距离物资运输无人机实证"
+    ],
+    "entities": [
+      "NEDO",
+      "飞行汽车 | 空飛ぶクルマ",
+      "无人机",
+      "次世代空中出行 EXPO 2026 | 次世代エアモビリティEXPO 2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215628.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215628.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:56.463Z"
+  },
+  "https://response.jp/article/2026/06/02/412151.html": {
+    "title_zh": "斯巴鲁采用 ProShip「ProPlus+」应对新租赁会计准则，统一管理集团 30 家公司",
+    "summary_short": "斯巴鲁为应对新租赁会计准则，选用 ProShip 的「ProPlus+」系统，统一管理集团 30 家公司的租赁会计业务。",
+    "summary_long": "ProShip 宣布，斯巴鲁（SUBARU）已采用其产品「ProPlus+」作为应对新租赁会计准则的系统基础。斯巴鲁凭借独特技术和高度安全性在全球开展业务，自 2020 年 3 月起自愿适用 IFRS。虽然已应对 IFRS 第 16 号（租赁），但为应对日本新租赁会计准则及相关税制改革，决定采用「ProPlus+」以强化管理体制。斯巴鲁此前在 2020 年适用 IFRS 时已通过现有会计系统应对，此次借新准则实施之机，经多方比较后选定「ProPlus+」。",
+    "highlights_zh": [
+      "斯巴鲁采用 ProShip 的 ProPlus+系统",
+      "统一管理集团 30 家公司的租赁会计",
+      "应对日本新租赁会计准则及税制改革",
+      "此前已适用 IFRS 第 16 号"
+    ],
+    "entities": [
+      "斯巴鲁 | SUBARU",
+      "プロシップ",
+      "ProPlus+",
+      "IFRS 第 16 号",
+      "租赁会计准则"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215626.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215626.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:50:57.415Z"
+  },
+  "https://response.jp/article/2026/06/02/412159.html": {
+    "title_zh": "EXEDY 将展出消防放水无人机及 3D 智能防灾门户",
+    "summary_short": "EXEDY 将在 Japan Drone 2026 展出消防放水无人机、定点监控有线无人机及 3D 智能防灾门户，推动无人机在防灾领域的应用。",
+    "summary_long": "EXEDY 宣布参加 6 月 3 日起在幕张展览馆举办的“第 11 届 Japan Drone 2026 / 第 5 届次世代空中交通 EXPO 2026”。公司将展示自主研发的消防放水无人机和定点监控有线无人机“Hover Eye”，并通过子公司 WorldLink & Company 的无人机解决方案品牌“SkyLink Japan”介绍多种工业无人机。展位内每日举行迷你说明会，详解消防无人机及 3D 智能防灾门户。此外，还将展出 Parrot 的公共安全无人机“ANAFI UKR”、Findi 的国产水下无人机“FF2”等产品。EXEDY 作为全球驱动系统部件制造商，于 2024 年 10 月将 WorldLink & Company 纳入集团，旨在通过无人机提升业务效率并创造新价值。",
+    "highlights_zh": [
+      "展示自主研发的消防放水无人机",
+      "定点监控有线无人机 Hover Eye 亮相",
+      "3D 智能防灾门户助力灾害应对",
+      "多款工业及水下无人机同台展出"
+    ],
+    "entities": [
+      "エクセディ",
+      "スカイリンク・ジャパン",
+      "ANAFI UKR",
+      "FF2",
+      "WorldLink & Company"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215664.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215664.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:00.793Z"
+  },
+  "https://response.jp/article/2026/06/02/412161.html": {
+    "title_zh": "SkyDrive 将在 2026 年次世代空中交通展上展示 1/30 比例飞行汽车模型",
+    "summary_short": "SkyDrive 将在日本最大无人机/eVTOL 展上展示飞行汽车 1/30 模型，并与 GMO 互联网集团联合参展。",
+    "summary_long": "SkyDrive 宣布将于 6 月 3 日至 5 日在幕张展览馆举办的“Japan Drone/下一代空中交通博览会 2026”上，在 GMO 互联网集团展位内联合展示其飞行汽车“SkyDrive（SD-05 型）”的 1/30 比例模型。同时还将播放演示飞行视频，并展示与铁路公司的合作及航线规划。飞行汽车作为电动化、自动化、垂直起降的下一代交通工具，在海外被称为 Advanced Air Mobility。展会首日，SkyDrive 的根元拓弥将出席国际会议，讨论“空中×网络安全”议题。",
+    "highlights_zh": [
+      "展示 1/30 比例飞行汽车模型",
+      "播放日本各地演示飞行视频",
+      "介绍与铁路公司合作及航线规划",
+      "讨论空中网络安全议题"
+    ],
+    "entities": [
+      "スカイドライブ",
+      "GMO 互联网集团",
+      "飞行汽车",
+      "eVTOL",
+      "Japan Drone/下一代空中交通博览会"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215666.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215666.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:01.054Z"
+  },
+  "https://response.jp/article/2026/06/02/412136.html": {
+    "title_zh": "丰田“终极 GR 卡罗拉”全球首发，GRMN 卡罗拉 2027 年日本上市",
+    "summary_short": "丰田 GR 发布 GRMN 卡罗拉，基于 GR 卡罗拉强化，扭矩提升至 415Nm，轻量化 30kg，2027 年日本发售。",
+    "summary_long": "丰田 GAZOO Racing（GR）于 6 月 2 日全球首发 GRMN 卡罗拉，这是 GR 卡罗拉的终极性能版本。该车以在纽博格林赛道全速飞驰为目标，由首席试车手“Morizo”丰田章男主导开发。发动机最大扭矩提升至 415Nm（+15Nm），重点优化中速域扭矩，并配备中冷器喷雾以维持连续高负荷下的稳定输出。通过拆除后排座椅改为双座布局，实现约 30kg 减重，车重 1450kg。内饰采用碳纤维饰板、Morizo 签名垫及专属序列号铭牌。日本市场将于 2026 年秋季通过 GR app 接受订单，2027 年内交付。",
+    "highlights_zh": [
+      "扭矩提升至 415Nm",
+      "双座布局",
+      "纽博格林赛道级性能开发",
+      "2027 年日本上市"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR 卡罗拉",
+      "GRMN 卡罗拉",
+      "纽博格林",
+      "Morizo"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215406.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215406.jpg",
+      "https://response.jp/imgs/fill2/2215407.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:05.325Z"
+  },
+  "https://bestcarweb.jp/newcar/1538088": {
+    "title_zh": "新款铃木 Landi：音响爱好者的福音，OEM 版丰田 Noah 的独特魅力",
+    "summary_short": "铃木 Landi 改款后仅售混动版，首次推出运动套件，且支持后装音响，成为改装爱好者的理想选择。",
+    "summary_long": "铃木 Landi 作为丰田 Noah 的 OEM 版本，近期完成改款，转为混动专属，并首次提供运动套件（Aero Model）。最大亮点是保留音响预留接口，允许车主自由安装第三方音响设备，这在当前多数车型限制改装的时代极为罕见。此外，铃木还为其设计了专属车标，提升辨识度。Landi 的历史可追溯至 1999 年的 Every Plus，历经多次演变，如今以独特定位吸引追求个性化音响体验的用户。",
+    "highlights_zh": [
+      "改款后仅售混动版",
+      "首次提供运动套件",
+      "支持后装音响系统",
+      "专属铃木车标"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "ランディ",
+      "ノア",
+      "混动",
+      "音响预留"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02142747/img01-1_1.jpg?v=1780378069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02142747/img01-1_1-600x400.jpg?v=1780378069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01114317/A35_2731_1-600x400.jpg?v=1780281799"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:05.590Z"
+  },
+  "https://response.jp/article/2026/06/02/412163.html": {
+    "title_zh": "Blitz 推出丰田皇冠系列刹车保持跳线，自动控制刹车保持功能",
+    "summary_short": "Blitz 为丰田皇冠系列推出刹车保持跳线，可自动控制刹车保持功能，售价 12650 日元。",
+    "summary_long": "Blitz 正在销售的“刹车保持跳线”新增了对丰田皇冠系列（含 PHEV）的适配。该产品可自动控制刹车保持功能的开关，无需每次手动操作。适配车型包括皇冠（AZSH32，2023 年 11 月）、皇冠 Estate PHEV（AZSH39W，2025 年 3 月～）和皇冠 Sport PHEV（AZSH37W，2023 年 12 月～）。产品编号通用，含税价格为 12650 日元，将于 6 月 5 日开始销售。",
+    "highlights_zh": [
+      "适配丰田皇冠系列含 PHEV",
+      "自动控制刹车保持功能",
+      "售价 12650 日元",
+      "6 月 5 日开售"
+    ],
+    "entities": [
+      "Blitz",
+      "丰田 | Toyota",
+      "皇冠",
+      "刹车保持跳线"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215309.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215309.jpg",
+      "https://response.jp/imgs/fill2/2215310.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:09.723Z"
+  },
+  "https://response.jp/article/2026/06/02/412149.html": {
+    "title_zh": "丰田股价持续下跌，市值第二的宝座亮起黄灯？",
+    "summary_short": "丰田股价连续下跌，市值第二的位置面临威胁。日经指数受原油上涨影响回落，但美股持续创新高。",
+    "summary_long": "6 月 2 日，日经平均股价较前日下跌 200.09 日元，收于 66734.24 日元，时隔 3 个交易日回落。原油期货价格上涨成为市场压力，导致广泛股票出现抛售。不过，临近收盘时跌幅有所收窄。另一方面，1 日的纽约道琼斯指数上涨 46 美元，收于 51078 美元，连续 4 个交易日上涨，受利好因素推动主力股上涨，连续 4 天刷新最高纪录。丰田股价持续下跌，其市值第二的地位可能面临挑战。",
+    "highlights_zh": [
+      "丰田股价连续下跌",
+      "日经指数受原油上涨拖累回落",
+      "美股道指连续 4 日创新高",
+      "丰田市值第二地位受威胁"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日经平均股价",
+      "纽约道琼斯指数",
+      "原油期货"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215631.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215631.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:09.829Z"
+  },
+  "https://bestcarweb.jp/news/1538137": {
+    "title_zh": "纽北锻造的终极双座猛兽！GRMN 卡罗拉亮相，2026 年秋开始接单，2027 年内发售",
+    "summary_short": "丰田 GRMN 卡罗拉全球首发，基于 GR 卡罗拉打造，后座拆除变为双座，纽北调校，2026 年秋接单。",
+    "summary_long": "丰田正式发布了 GR 品牌旗舰车型 GRMN 卡罗拉。该车基于 GR 卡罗拉，在纽博格林赛道进行深度调校，实现了轻量化、空气动力学优化和底盘强化。后座被拆除，改为双座布局，旨在打造终极驾驶机器。GRMN 代表“GAZOO Racing tuned by Meister of Nürburgring”，是丰田赋予经过纽北严苛调校车型的顶级称号。新车将于 2026 年秋季开始接受订单，2027 年内发售。",
+    "highlights_zh": [
+      "GRMN 卡罗拉全球首发",
+      "基于 GR 卡罗拉",
+      "后座拆除",
+      "2026 年秋接单"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GRMN 卡罗拉",
+      "GR 卡罗拉",
+      "纽博格林"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02152805/20260602_01_08_s.jpg?v=1780381686",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02152805/20260602_01_08_s-600x491.jpg?v=1780381686",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02094831/c443e0f1257b1b59887c909479ada951-600x400.jpg?v=1780361312"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:13.874Z"
+  },
+  "https://bestcarweb.jp/news/1532846": {
+    "title_zh": "丰田 Probox 变身兰德酷路泽 60？佐野 Auto 商会推出复古定制车“RETOPRO”",
+    "summary_short": "丰田 Probox 改装成兰德酷路泽 60 风格，实用性与复古设计兼备，售价 200 万日元起。",
+    "summary_long": "日本新潟的四驱专门店佐野 Auto 商会推出了一款基于丰田 Probox 的复古定制车“RETOPRO”，外观模仿了经典的兰德酷路泽 60 系列。该车保留了 Probox 的实用性和空间，同时通过改装前脸、大灯等细节营造出复古风格。定制价格从 200 万日元起，兼顾了日常使用和个性表达。",
+    "highlights_zh": [
+      "基于丰田 Probox 改装",
+      "外观模仿兰德酷路泽 60",
+      "保留原车实用性",
+      "售价 200 万日元起"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Probox",
+      "兰德酷路泽 60 | Land Cruiser 60",
+      "佐野 Auto 商会"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02094831/c443e0f1257b1b59887c909479ada951.jpg?v=1780361312",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02094831/c443e0f1257b1b59887c909479ada951-600x400.jpg?v=1780361312",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30021100/6473dde3a67f85dc6dd2a29a5e019b07-600x338.jpg?v=1780074661"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:13.955Z"
+  },
+  "https://bestcarweb.jp/feature/column/1281883": {
+    "title_zh": "台风暴雨前必查！雨天三大陷阱回避术",
+    "summary_short": "台风暴雨季来临，提前检查雨刷、轮胎和排水系统，确保雨天行车安全。",
+    "summary_long": "夏秋季节台风频发，大雨和强风易引发行车危险。本文介绍三大雨前检查要点：确保雨刷和车窗视野清晰，防止水膜效应导致轮胎打滑，以及清理排水通道避免雨水侵入。提前做好这些准备，能有效提升雨天行车安全性。",
+    "highlights_zh": [
+      "检查雨刷橡胶",
+      "清除油膜并涂拨水剂",
+      "轮胎沟深不足易引发水膜滑行",
+      "每月检查胎压"
+    ],
+    "entities": [
+      "台风",
+      "暴雨",
+      "雨刷",
+      "轮胎",
+      "排水系统"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/07/25110619/d75d5308da1de81a98dcb4ca202b1261.jpg?v=1753409179",
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/07/25110619/d75d5308da1de81a98dcb4ca202b1261-600x400.jpg?v=1753409179",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25152007/P1J14688l-600x400.jpg?v=1779690008"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:17.232Z"
+  },
+  "https://bestcarweb.jp/feature/column/1529910": {
+    "title_zh": "试过才懂！不是“二手也行”而是“二手更好”的 4 款实力车",
+    "summary_short": "中古车不仅有价格优势，还能买到绝版或稀有车型。本文精选 4 款让你改变价值观的实力二手车。",
+    "summary_long": "尽管有人因不了解前任车主而拒绝二手车，但中古车拥有诸多优势：可买到已停产的车型、以低价购入当年昂贵的高端车、或获得稀有版本。本文精选 4 款能让人产生“想要”冲动的车型。例如，2014 年 12 月上市的第一代 MIRAI，新车售价超 700 万日元，如今在二手车市场低年份车仅需 50-60 万日元，堪称超值。该车采用氢燃料电池技术，通过氢气与氧气化学反应发电驱动，代表了未来能源方向。",
+    "highlights_zh": [
+      "中古车可买到停产车型",
+      "高端车价格大幅下降",
+      "初代 MIRAI 仅 50-60 万日元",
+      "氢燃料电池技术引领未来"
+    ],
+    "entities": [
+      "MIRAI"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25152007/P1J14688l.jpg?v=1779690008",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25152007/P1J14688l-600x400.jpg?v=1779690008",
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/07/25110619/d75d5308da1de81a98dcb4ca202b1261-600x400.jpg?v=1753409179"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:17.572Z"
+  },
+  "https://insideevs.com/news/797561/foxconn-ev-crossover-tesla-model-y-rival/": {
+    "title_zh": "富士康发布特斯拉 Model Y 竞争对手 Cavira",
+    "summary_short": "富士康旗下 Foxtron 推出中型电动跨界车 Cavira，轴距超 Model Y，续航达 578 公里。",
+    "summary_long": "以组装 iPhone 闻名的富士康，通过其合资公司 Foxtron 发布了中型电动跨界车 Cavira，直接对标特斯拉 Model Y。Cavira 轴距比 Model Y 长 1.1 英寸，预计后排空间更宽敞。入门版 Emerge Long-Range Edition 采用后置单电机，功率 249 马力，WLTC 续航约 578 公里。",
+    "highlights_zh": [
+      "轴距比 Model Y 长 1.1 英寸",
+      "入门版续航 578 公里（WLTC）",
+      "双电机版功率达 468 马力"
+    ],
+    "entities": [
+      "富士康",
+      "Foxtron",
+      "Cavira",
+      "特斯拉 | Tesla",
+      "Model Y"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZErpJ/s1/foxtron-cavira.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:19.990Z"
+  },
+  "https://www.motor1.com/news/797543/2027-audi-q7-teaser/": {
+    "title_zh": "2027 款奥迪 Q7 预告图发布，即将正式亮相",
+    "summary_short": "奥迪发布第三代 Q7 预告图，新车采用 S Line 套件，设计接近 Q9，内饰用料升级，预计近期首发。",
+    "summary_long": "奥迪即将发布全新第三代 Q7，现款车型已上市超过 11 年。最新预告图展示了 S Line 版本，采用 Alopias Blue 涂装和传统门把手，整体设计风格与更大尺寸的 Q9 相似。内饰方面，奥迪承诺将采用“一流材料”，并可能延续 Q9 的屏幕布局。动力系统细节尚未公布，但预计提供 V6 汽油和柴油发动机。新车将直接竞争奔驰 GLE 改款和下一代宝马 X5。",
+    "highlights_zh": [
+      "第三代 Q7 即将发布",
+      "预告图展示 S Line 版",
+      "内饰用料升级",
+      "预计提供 V6 汽油和柴油动力"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "奥迪 Q7 | Audi Q7",
+      "奥迪 Q9 | Audi Q9",
+      "奔驰 GLE | Mercedes GLE",
+      "宝马 X5 | BMW X5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzP6q/s1/2027-audi-q7-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:20.956Z"
+  },
+  "https://www.thedrive.com/news/ex-forza-horizon-devs-announce-clutch-a-racing-game-where-you-also-do-crimes": {
+    "title_zh": "前《极限竞速：地平线》开发者公布新作《Clutch》：赛车与犯罪交织的开放世界游戏",
+    "summary_short": "前《极限竞速：地平线》创意总监领衔的新工作室 Maverick Games 公布开放世界赛车游戏《Clutch》，融合合法赛事与地下犯罪，2027 年春季登陆 PS5、Xbox Series X|S 及 PC。",
+    "summary_long": "由前《极限竞速：地平线 5》创意总监 Mike Brown 领导的新工作室 Maverick Games 正式公布了开放世界赛车游戏《Clutch》。游戏设定在法国里维埃拉，讲述一对赛车天才兄妹卷入合法锦标赛与地下犯罪交织的故事。白天进行封闭赛道竞速，夜晚则参与街头赛车和犯罪活动，包含警车追逐、氮气加速和抓钩等道具。游戏采用 PvPvE 模式，玩家既相互竞争也需合作对抗共同敌人。预计 2027 年春季登陆 PS5、Xbox Series X|S 和 PC。",
+    "highlights_zh": [
+      "前《极限竞速：地平线》创意总监领衔开发",
+      "开放世界赛车游戏",
+      "设定在法国里维埃拉",
+      "PvPvE 模式"
+    ],
+    "entities": [
+      "Clutch",
+      "Maverick Games",
+      "极限竞速：地平线",
+      "Mike Brown",
+      "法国里维埃拉"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-081457-copy.jpg",
+      "https://i.ytimg.com/vi/mnTawB_pN6Q/hqdefault.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Maverick-Screenshot5-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:23.937Z"
+  },
+  "https://www.motor1.com/news/797485/sheetz-gas-489-dollars/": {
+    "title_zh": "女子在 Sheetz 加油时看到惊人账单：前一位顾客加了 489 美元",
+    "summary_short": "美国北卡罗来纳州一名女子在 Sheetz 加油站发现前一位顾客加了 84.4 加仑汽油，账单高达 489.66 美元，引发网友热议。",
+    "summary_long": "美国北卡罗来纳州一名女子在 Sheetz 加油站准备加油时，发现加油机显示屏上显示前一位顾客购买了 84.4 加仑汽油，总价高达 489.66 美元。她将这一发现拍成视频上传网络，并配文“之前加油的人，你还好吗？”。视频引发网友热议，有人猜测该顾客可能使用了辅助油箱，也有人调侃是否给擎天柱加了油。",
+    "highlights_zh": [
+      "前一位顾客加了 84.4 加仑汽油",
+      "账单高达 489.66 美元",
+      "女子拍视频发问：你还好吗",
+      "网友调侃：给擎天柱加油"
+    ],
+    "entities": [
+      "Sheetz",
+      "北卡罗来纳州",
+      "汽油",
+      "辅助油箱"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzwq4/s1/woman-goes-to-sheetz-for-gas.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:24.335Z"
+  },
+  "https://www.motor1.com/news/797537/toyota-gr-corolla-morizo-rr/": {
+    "title_zh": "丰田 GR 卡罗拉将推 Morizo RR 版：五座自动挡，性能更均衡",
+    "summary_short": "丰田正在开发 GR 卡罗拉 Morizo RR，保留五座布局并搭载八速自动变速箱，定位为“终极五座车型”，外观借鉴 GRMN 套件。",
+    "summary_long": "丰田在推出 GRMN 版 GR 卡罗拉后，仍在继续优化这款热门掀背车。最新开发的 Morizo RR 版本与 GRMN 不同，它保留了后排座椅和五座布局，并搭载八速 Direct Automatic 变速箱，而非手动挡。该车目前仍为概念阶段，但量产版即将跟进。外观上，Morizo RR 借鉴了 GRMN 的碳纤维机盖、后扰流板、前翼子板通风口等空气动力学套件，但未采用更宽的轮胎。丰田称其为“终极五座车型”，具体技术规格尚未公布。",
+    "highlights_zh": [
+      "五座布局",
+      "搭载八速自动变速箱",
+      "外观借鉴 GRMN 空气动力学套件",
+      "定位“终极五座车型”"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR 卡罗拉",
+      "Morizo RR",
+      "GRMN"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O8nm/s1/2026-toyota-gr-corolla-morizo-rr-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:27.528Z"
+  },
+  "https://insideevs.com/news/797539/tesla-cybertruck-used-inventory-discount/": {
+    "title_zh": "特斯拉开始销售折扣二手 Cybertruck",
+    "summary_short": "特斯拉官网开始销售二手 Cybertruck，最便宜的全轮驱动 Foundation Series 车型仅需 66,200 美元，比新车便宜不少。",
+    "summary_long": "特斯拉 Cybertruck 并未达到预期成功，销量大幅下滑。现在特斯拉官方开始在美国网站和门店销售二手 Cybertruck，提供工厂折扣。最便宜的二手车型为 2024 款全轮驱动 Foundation Series 版，行驶里程仅 2566 英里，售价 66,200 美元（不含运费），相比新车 69,990 美元起售价更具性价比。但二手 Foundation Series 车型仅提供 1-3 个月的 FSD 试用期，之后需每月订阅 99 美元。",
+    "highlights_zh": [
+      "最便宜二手 Cybertruck 售价 66",
+      "Foundation Series 版配备几乎所有配…",
+      "二手 FSD 仅提供短期试用",
+      "新车起售价 69"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Cybertruck"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lAyk/s1/used-tesla-cybertruck.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/tesla-used-inventory.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:28.119Z"
+  },
+  "https://www.topgear.com/car-news/electric/new-rolls-royce-spectre-series-ii-more-power-more-range-more-rolls-royce": {
+    "title_zh": "全新劳斯莱斯闪灵系列 II：更强动力、更长续航、更…劳斯莱斯",
+    "summary_short": "劳斯莱斯推出闪灵系列 II，动力与续航提升，延续奢华与优雅。",
+    "summary_long": "劳斯莱斯正式发布闪灵系列 II，作为品牌首款纯电动车型的升级版本。新车在动力输出和续航里程上均有显著提升，同时保持了劳斯莱斯一贯的奢华与静谧驾乘体验。外观细节微调，内饰材质与科技配置进一步优化，彰显顶级定制水准。",
+    "highlights_zh": [
+      "动力与续航双提升",
+      "延续奢华静谧基因",
+      "外观内饰细节优化"
+    ],
+    "entities": [
+      "劳斯莱斯 | Rolls-Royce",
+      "闪灵 | Spectre",
+      "纯电动",
+      "系列 II"
+    ],
+    "gallery_images": [
+      "https://www.topgear.com/sites/default/files/images/news-article/2026/06/461c65b23ceb7a418e6fe73946e3eb1d/Spectre%20SII%20Dynamic%2016X9%20%282%29.jpg",
+      "https://www.topgear.com/sites/default/files/images/big-read/2026/04/177ae7e5e0809d8a91e5f6a387bd7bc3/EV%20influencer%20of%20the%20year%20-%20Rivian%20R2.0%20%283%29.jpg",
+      "https://www.topgear.com/sites/default/files/images/cars-road-test/2026/06/5d25cffe422b83476300eee47dbb196f/VW%20Golf%20GTI%20-%20Report%201.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:31.288Z"
+  },
+  "https://www.motor1.com/news/797531/2026-toyota-grmn-corolla/": {
+    "title_zh": "丰田 GRMN 卡罗拉：全面升级的硬核钢炮",
+    "summary_short": "丰田 GRMN 卡罗拉正式发布，扭矩提升至 302 磅英尺，减重 66 磅，取消后排座椅，配备可调尾翼和底盘强化，专注赛道性能。",
+    "summary_long": "丰田 GRMN 卡罗拉正式亮相，基于 GR 卡罗拉进行全方位升级。发动机仍为 1.6 升三缸涡轮增压，最大功率 300 马力，扭矩从 295 提升至 302 磅英尺（日规为 306 磅英尺），中段扭矩更充沛。新增中冷器喷水系统以维持持续动力输出。为追求轻量化，取消后排座椅，减重 66 磅。空气动力学套件源自氢燃料赛车，包括五向可调尾翼、前翼子板通风口等。底盘和悬架也经过赛道化调校。",
+    "highlights_zh": [
+      "扭矩提升至 302 磅英尺",
+      "取消后排座椅",
+      "新增中冷器喷水系统",
+      "五向可调尾翼"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GRMN 卡罗拉 | GRMN Corolla",
+      "GR 卡罗拉",
+      "G16E-GTS 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwrPW/s1/2026-toyota-grmn-corolla.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T17:51:31.599Z"
   }
 }
