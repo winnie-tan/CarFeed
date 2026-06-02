@@ -19821,5 +19821,477 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-01T19:02:01.153Z"
+  },
+  "https://response.jp/article/2026/06/02/412123.html": {
+    "title_zh": "Tommykaira ZZ-EV 改良新型：全球仅一台，前脸焕新",
+    "summary_short": "Number Nine Works 基于 Tommykaira ZZ-EV 打造全球唯一改良版 sweep 9，前脸、尺寸、制动等多项升级，限量一台。",
+    "summary_long": "Number Nine Works 在“人与车科技展”上首次公开了已取得车牌的原创电动车 sweep 9。该车基于 Tommykaira ZZ-EV 打造，全球仅此一台。主要改进包括前脸重新设计、车长增加 60mm、灯光系统更新、尾部造型调整、新增 CFRP 软顶、换装铝制六活塞卡钳以及专属涂装。电机最大功率 305ps，峰值扭矩 42.3kgm，车重仅 920kg，0-100km/h 加速 3.9 秒，最高时速 180km，续航 120km。",
+    "highlights_zh": [
+      "全球唯一一台改良版",
+      "前脸、车长、制动等多项升级",
+      "305ps、920kg、3.9 秒破百",
+      "续航 120km"
+    ],
+    "entities": [
+      "Number Nine Works",
+      "Tommykaira ZZ-EV",
+      "sweep 9",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215324.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215324.jpg",
+      "https://response.jp/imgs/fill2/2215326.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:21.516Z"
+  },
+  "https://response.jp/article/2026/06/02/412127.html": {
+    "title_zh": "调查：GW 远途驾驶者九成喊累，近半数因油费困扰",
+    "summary_short": "IDOM 旗下研究所调查显示，超半数车主在 GW 期间驾车出行，远途驾驶者中九成感到疲惫，油费与拥堵为主要困扰。",
+    "summary_long": "リセバ総研对 432 名私家车主进行“GW 驾驶与汽车相处方式意识调查”。结果显示，55.1%的车主在 GW 期间驾车出行，其中近场出行占 31.0%，远途出行占 24.1%。远途驾驶者中，仅 8.7%表示无困扰，44.2%抱怨汽油费高，36.5%遭遇拥堵，32.7%认为高速费贵。近场出行者中 37.3%无困扰。",
+    "highlights_zh": [
+      "55.1%车主 GW 驾车出行",
+      "远途驾驶者仅 8.7%无困扰",
+      "44.2%抱怨汽油费高",
+      "36.5%遭遇拥堵"
+    ],
+    "entities": [
+      "IDOM",
+      "リセバ総研",
+      "ゴールデンウィーク"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215041.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215041.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:21.629Z"
+  },
+  "https://bestcarweb.jp/feature/column/1525500": {
+    "title_zh": "【猜车名】第 774 回：日产 Hypermini",
+    "summary_short": "日产 Hypermini，2000-2002 年短暂销售的电动双座车，设计独特，车身尺寸符合轻自动车标准。",
+    "summary_long": "日产 Hypermini 是一款仅于 2000 年至 2002 年期间销售的电动双座汽车，其原型在 1997 年东京车展亮相。车身尺寸为长 2665mm、宽 1475mm，符合日本轻自动车规格。动力系统搭载后置 33ps 电机，当时售价约 400 万日元。",
+    "highlights_zh": [
+      "日产 Hypermini",
+      "双座纯电动",
+      "车身尺寸符合轻自动车标准",
+      "后置 33ps 电机"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Hypermini",
+      "轻自动车",
+      "东京车展"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27164600/main89.jpg?v=1779867963",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27164600/main89-600x400.jpg?v=1779867963",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27165005/main_am_sp0607001-600x400.jpg?v=1779868207"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:24.960Z"
+  },
+  "https://response.jp/article/2026/06/02/412128.html": {
+    "title_zh": "川崎 Z650 S 日本首秀：649cc 双缸街车，7 月 11 日上市",
+    "summary_short": "川崎在日本首次推出 Z650 S 街车，搭载 649cc 并列双缸引擎，售价 107.8 万日元，7 月 11 日发售。",
+    "summary_long": "川崎摩托日本宣布，将于 7 月 11 日首次在日本市场推出 Z650 S 街车，含税售价 107.8 万日元。该车基于川崎超级街车系列的“SUGOMI”设计理念，采用更宽大、更具攻击性的造型，车名中的“S”代表“Stunning（鲜烈）”“Style（风格）”“Stage（舞台）”“Spotlight（聚光灯）”。动力方面，搭载 649cc 并列双缸发动机，着重优化低中转速（3000-6000rpm）扭矩输出，兼顾城市与弯道骑行。配置包括打孔前挡泥板、攻击性头灯罩、铝合金侧盖、宽平把手、高张力钢编织车架（重 15kg）、41mm 正立式前叉、水平背连杆后悬挂、前 300mm 半浮动双碟刹、后 220mm 单碟刹，以及邓禄普 Sportmax Roadsport 2 轮胎。",
+    "highlights_zh": [
+      "日本首次引入",
+      "649cc 并列双缸",
+      "售价 107.8 万日元（含税）",
+      "SUGOMI 设计"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Z650 S",
+      "649cc 并列双缸",
+      "SUGOMI 设计",
+      "邓禄普"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215341.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215341.jpg",
+      "https://response.jp/imgs/fill2/2215336.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:25.748Z"
+  },
+  "https://response.jp/article/2026/06/02/412139.html": {
+    "title_zh": "电气兴业与 CyberCore 共同开发 AI 行车记录仪道路巡检方案",
+    "summary_short": "电气兴业与 CyberCore 联合推出 AI 行车记录仪道路巡检方案，通过边缘 AI 实时检测路面损伤并上传云端，无需专用车辆。",
+    "summary_long": "电气兴业与 CyberCore 共同开发并开始销售“道路巡检解决方案”，该方案利用 AI 行车记录仪，通过边缘 AI 实时分析视频，自动检测路面坑洞、裂缝等损伤，并将图像和位置信息上传至云端，在网页仪表板上可视化展示。无需专用车辆或分析设备，可安装于各类车辆，旨在帮助地方政府和基础设施管理企业提升道路管理效率、节省人力。",
+    "highlights_zh": [
+      "AI 行车记录仪实时检测路面损伤",
+      "边缘 AI 自动识别坑洞与裂缝",
+      "图像与位置信息云端可视化",
+      "无需专用车辆"
+    ],
+    "entities": [
+      "电气兴业",
+      "CyberCore",
+      "AI 行车记录仪",
+      "道路巡检解决方案"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215445.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215445.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:27.813Z"
+  },
+  "https://response.jp/article/2026/06/02/412119.html": {
+    "title_zh": "BMW X1 新增入门车型“Original”，售价 525 万日元",
+    "summary_short": "BMW X1 新增入门版“Original”，售价 525 万日元，搭载 48V 轻混系统，6 月起交付。",
+    "summary_long": "BMW 为 X1 车系新增入门车型“Original”，售价 525 万日元，预计 6 月起交付。该车在精简标准配置的同时，保留了 48V 集成式混合动力、导航系统、驾驶辅助、数字钥匙 Plus、全景影像、行车记录仪和智能个人助理等先进功能。48V 轻混系统通过电机直接辅助发动机，降低油耗并提升平顺性，同时回收能量为电池充电，优化启停体验。",
+    "highlights_zh": [
+      "新增入门版“Original”",
+      "搭载 48V 轻混系统",
+      "标配导航、驾驶辅助、数字钥匙 Plus 等",
+      "6 月起开始交付"
+    ],
+    "entities": [
+      "BMW X1",
+      "BMW",
+      "48V 轻混系统",
+      "数字钥匙 Plus"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215143.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215143.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:28.609Z"
+  },
+  "https://response.jp/article/2026/06/02/412129.html": {
+    "title_zh": "BRZ 低音升级：加装低音炮让爱车时光更愉悦",
+    "summary_short": "斯巴鲁 BRZ 车主通过加装低音炮，解决了低音不足的问题，提升了车内音响体验。",
+    "summary_long": "斯巴鲁 BRZ 车主大塚先生为提升车内音响效果，在更换前门扬声器和加装功放后，仍感低音不足。他再次前往群马县的 Sound Station SUBLIME 咨询，恰巧遇到一位丰田 86 车主展示其安装的低音炮系统。受此启发，大塚先生决定在 BRZ 的后备箱安装两个箱式低音炮，以弥补低音缺失，让驾驶时光更加愉悦。",
+    "highlights_zh": [
+      "BRZ 车主升级音响",
+      "偶遇 86 车主展示低音炮方案",
+      "加装两个箱式低音炮",
+      "低音提升"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "BRZ",
+      "丰田 | Toyota",
+      "86",
+      "低音炮"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2214792.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2214792.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:31.345Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1532843": {
+    "title_zh": "UNIQLO TOKYO×はとバス合作：可制作原创 T 恤和周边",
+    "summary_short": "UNIQLO TOKYO 与はとバス合作，在银座店限定推出原创 T 恤和手提袋，设计包含巴士和官方角色しゃぽぽ。",
+    "summary_long": "UNIQLO TOKYO 与はとバス合作，自 2026 年 6 月 5 日起在 UNIQLO TOKYO 和优衣库银座店限定推出 UTme!定制服务，提供はとバス及官方角色しゃぽぽ设计的 T 恤和手提袋。该合作是为庆祝 UNIQLO TOKYO 开业 6 周年而设，商品包括基础 T 恤（1990 日元）、迷你手提袋（1990 日元）和手提袋（2490 日元），销售期一年，仅限线下店铺。",
+    "highlights_zh": [
+      "UNIQLO TOKYO 与はとバス合作推出原创 U…",
+      "限定银座两家门店",
+      "设计包含はとバス和官方角色しゃぽぽ",
+      "T 恤和手提袋售价 1990 日元起"
+    ],
+    "entities": [
+      "UNIQLO TOKYO",
+      "はとバス",
+      "しゃぽぽ",
+      "UTme!"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/30092526/5ad08bdeb4c5e0654d71ba2b4fef814c.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/19122728/f6f54f39bafe95ff2e7b3deb6ab258c0.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/24082624/plg_bstmnl_06-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:32.779Z"
+  },
+  "https://response.jp/article/2026/06/02/412126.html": {
+    "title_zh": "大众集团与布伦瑞克工业大学合作，设立 AI 研究教授职位",
+    "summary_short": "大众集团与德国布伦瑞克工业大学合作，设立 AI 教授职位，聚焦虚拟产品开发、自动驾驶等移动出行研究。",
+    "summary_long": "大众集团宣布与德国布伦瑞克工业大学（TU Braunschweig）合作，设立人工智能（AI）研究教授职位。该职位将专注于移动出行领域的 AI 应用，涵盖虚拟产品开发、机电一体化系统、自动驾驶功能及车辆实际使用数据分析等方向，旨在强化现代移动出行系统的交叉研究，并激发 AI 驱动的开发流程。教授职位设在布伦瑞克工业大学的工程设计研究所，并与下萨克森汽车研究中心（NFF）紧密合作。NFF 拥有超过 1000 名研究人员、40 多个研究所和 50 多家企业合作伙伴，是欧洲最大的移动出行研究机构之一。",
+    "highlights_zh": [
+      "大众集团与布伦瑞克工业大学合作设立 AI 教授职位",
+      "聚焦虚拟产品开发、自动驾驶等移动出行 AI 应用",
+      "教授职位设在工程设计研究所",
+      "NFF 是欧洲最大移动出行研究机构之一"
+    ],
+    "entities": [
+      "大众集团 | Volkswagen Group",
+      "布伦瑞克工业大学",
+      "下萨克森汽车研究中心",
+      "人工智能",
+      "自动驾驶"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215334.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215334.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:35.313Z"
+  },
+  "https://bestcarweb.jp/fullload/1534110": {
+    "title_zh": "ZF 实现柏林消防局全车队“互联化”，提升紧急车辆管理效率与安全性",
+    "summary_short": "ZF 宣布柏林消防局约 1100 辆紧急车辆全部接入数字平台，实现互联化管理，提升应急响应效率与安全性。",
+    "summary_long": "德国 ZF 公司于 2026 年 5 月 26 日宣布，柏林消防局的所有紧急车辆（约 1100 辆）已全部接入其数字平台“ZF 救援互联”。该项目启动两年半，将紧急响应与车队管理数字化，提高了透明度、效率和安全性。柏林作为欧洲大都市，平均每分钟接到一次紧急呼叫，2025 年共处理 55.8 万起事件。双方将继续合作，利用收集的数据优化战略运营。",
+    "highlights_zh": [
+      "柏林消防局约 1100 辆紧急车辆全部互联化",
+      "项目启动 2 年半",
+      "2025 年处理 55.8 万起事件",
+      "数字化提升应急响应透明度与效率"
+    ],
+    "entities": [
+      "ZF",
+      "柏林消防局",
+      "ZF 救援互联",
+      "紧急车辆",
+      "数字平台"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/05/29131200/00-2026-05-26_PI_ZF-I_Berliner-Feuerwehr-vernetzt-3.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/05/28145018/00-86f699edab153682_org.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/05/29141049/4ef2dead1a1f5cb9c84f0a56c07c7679.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:37.778Z"
+  },
+  "https://response.jp/article/2026/06/02/412124.html": {
+    "title_zh": "爱信采用 Green Hills RTOS 开发驾驶员监控系统，2028 年量产",
+    "summary_short": "爱信为下一代驾驶员监控及饮酒检测系统选用 Green Hills 的 RTOS 与开发工具，计划 2028 年首次推出。",
+    "summary_long": "爱信宣布，将采用 Green Hills Software 的实时操作系统（RTOS）和开发工具，作为其下一代驾驶员监控系统（DMS）和饮酒检测系统（DADS）的开发基础。该系统与 NXP 的 i.MX 9 系列处理器及 Smart Eye 的 AI 驾驶员监控技术协同工作，计划于 2028 年实现首次量产。",
+    "highlights_zh": [
+      "爱信选用 Green Hills RTOS 开发 D…",
+      "系统集成 NXP i.MX 9 处理器与 Smart…",
+      "2028 年首次量产"
+    ],
+    "entities": [
+      "爱信",
+      "Green Hills Software",
+      "驾驶员监控系统",
+      "NXP",
+      "Smart Eye"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215330.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215330.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:37.976Z"
+  },
+  "https://response.jp/article/2026/06/02/412111.html": {
+    "title_zh": "铃木 Landy 改款上市，全系混动化，起价 384.56 万日元",
+    "summary_short": "铃木 Landy 改款上市，全系混动化，新增 8 座版，升级 7 英寸显示屏，配备 E-Four 四驱雪地模式。",
+    "summary_long": "铃木于 6 月 1 日推出 Landy 改款车型，全系统一为混合动力，新增 2WD 8 座版本。外观采用空气动力学设计，内饰升级 7 英寸多功能显示屏。E-Four 四驱车型新增 SNOW EXTRA 模式，提升雪地稳定性。该车为丰田 Noah 的 OEM 版本，并符合日本“支持车 S Wide”及踏板误踩抑制装置认证。",
+    "highlights_zh": [
+      "全系混动化",
+      "新增 2WD 8 人座车型",
+      "7 英寸多功能显示屏",
+      "E-Four 四驱新增雪地模式"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "ランディ",
+      "丰田 | Toyota",
+      "ノア"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215331.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215331.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:40.872Z"
+  },
+  "https://response.jp/article/2026/06/02/412133.html": {
+    "title_zh": "订阅制洗车场「Splash N Go」群马县藤冈大塚店开业",
+    "summary_short": "Splash Brothers 在群马县开设第 8 家订阅制洗车场，月额 980 日元起，洗车不限次数。",
+    "summary_long": "Splash Brothers 于 6 月 1 日在群马县藤冈市开设了第 8 家订阅制洗车场「Splash N Go 藤冈大塚店」。该店从 4 月 25 日开始试营业，预先注册会员约 2300 人，5 月 1 日至 31 日洗车数量约 1.2 万台，日均约 400 台。服务采用月额 980 日元（含税）起的洗车不限次数模式，配备 1 台洗车机和 18 个擦干车位。目前全 8 家店铺活跃会员数突破 2.2 万名，其中群马县 6 家、栃木县 1 家、鹿儿岛县 1 家，单店平均会员约 2800 名。现有店铺月均洗车约 1 万台，会员月均使用 2.89 次，半年续费率 94.1%。",
+    "highlights_zh": [
+      "月额 980 日元起",
+      "试营业期间注册会员约 2300 人",
+      "全 8 店活跃会员突破 2.2 万名",
+      "半年续费率高达 94.1%"
+    ],
+    "entities": [
+      "Splash Brothers",
+      "スプラッシュンゴー",
+      "群马县",
+      "订阅制洗车",
+      "月额 980 日元"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215378.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215378.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:41.029Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531958": {
+    "title_zh": "塔夫特是享受“独处时光”的轻车！通勤、咖啡店巡游、车内休息中闪耀的魅力",
+    "summary_short": "大发塔夫特作为轻 SUV，以驾驶席为中心的独特设计，让通勤、咖啡店巡游和车内休息等独处时光更加愉悦。",
+    "summary_long": "大发塔夫特是一款以驾驶席为中心的轻 SUV，不同于追求宽敞空间的超高度旅行车，它更注重驾驶者的独处体验。其方形车身和高坐姿将日常移动变为小冒险，而前部玻璃车顶（Skyfeel Top）带来开放感，让车内不显压抑。价格方面，G 版约 160.6 万日元起，G Turbo 版约 168.85 万日元起，油耗差异极小，适合通勤或享受驾驶乐趣。",
+    "highlights_zh": [
+      "驾驶席为中心的独特设计",
+      "玻璃车顶带来开放感",
+      "通勤与休闲皆宜",
+      "涡轮版仅贵 8.25 万日元"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "塔夫特",
+      "轻 SUV",
+      "玻璃车顶"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29175048/AD4I0140.jpg?v=1780044649",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29175048/AD4I0140-600x400.jpg?v=1780044649",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/16185553/00_aqua_Aqua_C3_0018-600x400.jpg?v=1778925354"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:44.563Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532551": {
+    "title_zh": "令和名机 TOP5：汽车评论家严选日本车最佳发动机",
+    "summary_short": "四位汽车评论家评选出令和时代日本车最佳发动机 TOP5，包括马自达 SKYACTIV-X、日产 VC-Turbo 等，强调技术革命与智能表现。",
+    "summary_long": "在电动化与混动成为主流的当下，四位日本汽车评论家从现行日本车中评选出“令和名机 TOP5”。他们认为，令和时代的优秀发动机不仅需要强劲动力与响应性，更需具备技术革命与智能特性。入选机型包括马自达 MAZDA3 的 SKYACTIV-X（SPCCI 压燃技术）、日产 X-Trail 的 VC-Turbo（可变压缩比）、斯巴鲁 Crosstrek 的 FB25、本田 Accord 的 LFD-H6 以及雷克萨斯 LBX Morizo RR 的 G16E-GTS。其中 SKYACTIV-X 通过独创的 SPCCI 技术实现类似柴油机的压缩点火，兼顾稀薄燃烧与响应性；日产 VC-Turbo 则通过可变压缩比大幅提升 e-POWER 供电效率，带来接近电动车的加速感受。",
+    "highlights_zh": [
+      "马自达 SKYACTIV-X：压燃技术实现稀薄燃烧",
+      "日产 VC-Turbo：可变压缩比提升 e-POWE…",
+      "斯巴鲁 FB25：水平对置发动机的进化",
+      "本田 LFD-H6 与雷克萨斯 G16E-GTS：混…"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "日产 | Nissan",
+      "斯巴鲁 | Subaru",
+      "本田 | Honda",
+      "雷克萨斯 | Lexus"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27171631/00_engine03_head.jpg?v=1779869792",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27171631/00_engine03_head-600x400.jpg?v=1779869792",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/16185553/00_aqua_Aqua_C3_0018-600x400.jpg?v=1778925354"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:45.156Z"
+  },
+  "https://bestcarweb.jp/feature/column/1522396": {
+    "title_zh": "丰田 Aqua U 版可选装大屏音响系统",
+    "summary_short": "丰田 Aqua U 版新增硬件升级服务，可后装 12.3 英寸大屏音响等配置，提升用车体验。",
+    "summary_long": "丰田旗下订阅服务 KINTO 专属的 U 版车型（包括 Yaris、Yaris Cross、Prius 和 Aqua）推出硬件升级服务，允许用户后期加装原本未提供的配置。以 Aqua 为例，可加装 12.3 英寸大屏音响、自动防眩目后视镜等，甚至包括一些原厂选装包中没有的装备。该服务通过升级预留设计实现，为订阅用户带来更多灵活性。",
+    "highlights_zh": [
+      "KINTO 专属 U 版车型可硬件升级",
+      "Aqua 可后装 12.3 英寸大屏音响",
+      "升级包括自动防眩目后视镜等",
+      "原厂选装包外的配置也可加装"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Aqua",
+      "KINTO",
+      "Yaris",
+      "Prius"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/16185553/00_aqua_Aqua_C3_0018.jpg?v=1778925354",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/16185553/00_aqua_Aqua_C3_0018-600x400.jpg?v=1778925354",
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/06/17100156/cropped-d3f571f5a8ad26831dda898dafff1862-600x338.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:48.040Z"
+  },
+  "https://www.motor1.com/news/797514/nitto-grappler-tires-walmart-vs-amazon/": {
+    "title_zh": "男子发现 Nitto Grappler 轮胎在亚马逊卖 450 美元，沃尔玛仅 93 美元：冒险一搏",
+    "summary_short": "一名转售商发现沃尔玛网站将 Nitto Grappler 轮胎标价 93 美元（原价 450 美元），立即下单 50 套，期望转手获利。",
+    "summary_long": "一名零售套利转售商发现沃尔玛网站出现定价错误，Nitto Grappler 轮胎仅售 93 美元/条，而正常售价约 450 美元。他立即借入所有可用资金，订购了 50 套（每套 4 条），期望以每套 1000 美元转手，获利约 5 万美元。该消息通过 TikTok 传播，引发关注。",
+    "highlights_zh": [
+      "Nitto Grappler 轮胎在沃尔玛网站标价…",
+      "转售商订购 50 套",
+      "通过 TikTok 分享这一“定价错误”套利机会"
+    ],
+    "entities": [
+      "Nitto Grappler",
+      "Amazon",
+      "Walmart",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWg8l/s1/man-sees-nito-grappler-tires-are-450-on-amazon..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:48.432Z"
+  },
+  "https://www.motor1.com/news/797409/midas-inspection-issue/": {
+    "title_zh": "车主去 Midas 换机油，技师推荐更换全新减震器引发质疑",
+    "summary_short": "一位车主在 Midas 换机油时，技师通过短信推荐更换全新减震器，车主质疑其检查不实，引发对服务透明度的讨论。",
+    "summary_long": "一位车主在 Milwaukee 地区的 Midas 门店进行常规换机油服务，期间门店通过短信发送了车辆检查结果，并推荐更换减震器等部件。车主认为这些推荐基于不充分的检查，质疑其真实性，并在 TikTok 上发布视频表达愤怒。该事件引发其他车主对汽车维修服务透明度的关注。",
+    "highlights_zh": [
+      "车主去 Midas 换机油",
+      "检查结果通过短信发送",
+      "车主称此前信任 Midas 并推荐给朋友",
+      "事件引发对维修服务透明度的讨论"
+    ],
+    "entities": [
+      "Midas"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O8kN/s1/man-goes-to-midas-for-oil-change.-then-the-tech-recommends-new-shock-absorbers-i-used-to-trust-midas.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:50.754Z"
+  },
+  "https://insideevs.com/news/797350/hyundai-ioniq-5-roadtrip-gas-financially-irresponsible/": {
+    "title_zh": "驾驶现代 Ioniq 5 长途旅行：电动车让燃油车显得财务上不负责任",
+    "summary_short": "驾驶现代 Ioniq 5 进行长途旅行，发现即使使用公共快充，电动车也比燃油车更省钱，尤其在油价高涨时。",
+    "summary_long": "作者在纽约租用现代 Ioniq 5 进行周末旅行，发现电动车在油价高涨时具有显著经济优势。尽管依赖公共快充，但充电成本仍低于加油，且充电网络在东北部较为完善。Ioniq 5 的快充速度和续航里程使其成为理想选择，让燃油车显得财务上不负责任。",
+    "highlights_zh": [
+      "电动车长途旅行比燃油车更省钱",
+      "公共快充成本仍低于加油",
+      "Ioniq 5 快充和续航表现优异",
+      "油价高涨凸显电动车经济性"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Ioniq 5",
+      "起亚 | Kia",
+      "Niro EV",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJX24/s1/hyundai-ioniq-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:51.783Z"
+  },
+  "https://www.motor1.com/news/797503/california-tire-rolling-resistance-rules/": {
+    "title_zh": "加州拟限制高性能轮胎滚动阻力",
+    "summary_short": "加州拟立法限制轮胎滚动阻力以降低油耗，高性能轮胎或受影响，消费者成本可能增加。",
+    "summary_long": "加州能源委员会（CEC）正探索立法，设定轮胎滚动阻力最低标准，旨在为驾驶者节省约 10 亿美元燃油成本。新规要求所有轮胎达到或超过原厂轮胎（OE）效率，但高性能轮胎因抓地力强而滚动阻力大，可能面临合规挑战。CEC 提出最大滚动阻力系数为 10.5 N/kN，并建立效率评级系统。",
+    "highlights_zh": [
+      "加州拟立法限制轮胎滚动阻力",
+      "目标节省 10 亿美元燃油成本",
+      "高性能轮胎或受冲击",
+      "最大滚动阻力系数 10.5 N/kN"
+    ],
+    "entities": [
+      "加州",
+      "加州能源委员会",
+      "轮胎滚动阻力",
+      "高性能轮胎",
+      "原厂轮胎"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0mrOk/s1/bugatti-chiron-pur-sport.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-02T04:59:53.564Z"
   }
 }

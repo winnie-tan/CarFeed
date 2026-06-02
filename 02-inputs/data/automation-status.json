@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-01T19:00:57.249Z",
+    "generated_at": "2026-06-02T04:59:17.567Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 364,
-    "deepseek_untranslated_before_run": 36,
-    "newly_fetched_articles": 36,
-    "newly_fetched_untranslated": 36,
+    "deepseek_translated_before_run": 380,
+    "deepseek_untranslated_before_run": 20,
+    "newly_fetched_articles": 20,
+    "newly_fetched_untranslated": 20,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 36,
+    "translation_queue_count": 20,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "Behold the Fire-Spitting Twizy ‘Unsafety Car’ Leading a 100-Lap Citroen Ami Race on a Velodrome",
-        "url": "https://www.thedrive.com/news/behold-the-fire-spitting-twizy-unsafety-car-leading-a-100-lap-citroen-ami-race-on-a-velodrome"
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "「疲れた」が9割、GWに遠出したドライバー IDOMリセバ総研調査",
+        "url": "https://response.jp/article/2026/06/02/412127.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "『トミーカイラZZ-EV』、1台限りの改良新型が登場…フロントフェイス刷新",
+        "url": "https://response.jp/article/2026/06/02/412123.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第774回",
+        "url": "https://bestcarweb.jp/feature/column/1525500"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "649ccパラツインネイキッド、カワサキ『Z650 S』日本初導入、107万8000円で7月11日発売",
+        "url": "https://response.jp/article/2026/06/02/412128.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "AIドライブレコーダーで道路損傷を自動検出、「道路巡回ソリューション」共同開発…電気興業とサイバーコア",
+        "url": "https://response.jp/article/2026/06/02/412139.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "BMW X1、新エントリーモデル「オリジナル」追加…525万円",
+        "url": "https://response.jp/article/2026/06/02/412119.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "BRZの低音が激変！ サブウーファー追加で愛車時間がもっと楽しくなった［car audio newcomer］by サウンドステーション SUBLIME 後編",
+        "url": "https://response.jp/article/2026/06/02/412129.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "UNIQLO TOKYO×はとバスコラボでオリジナルのTシャツやグッズが作れる……だと!?",
+        "url": "https://bestcarweb.jp/busmagazine/1532843"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "VWグループ、独ブラウンシュバイク工科大学と提携…AI研究教授職を新設へ",
+        "url": "https://response.jp/article/2026/06/02/412126.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "ZFがベルリン消防局の全車両を「コネクテッド化」！ 緊急車両のデジタル管理で効率と安全性が向上",
+        "url": "https://bestcarweb.jp/fullload/1534110"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "アイシン、ドライバー監視システムにグリーンヒルズソフトウェアの「RTOS」採用…2028年製品化へ",
+        "url": "https://response.jp/article/2026/06/02/412124.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "サブスク型洗車場「スプラッシュンゴー」、藤岡大塚店を群馬にオープン…洗い放題で月額980円から",
+        "url": "https://response.jp/article/2026/06/02/412133.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.2",
+        "title": "スズキのミニバン『ランディ』に改良新型、ハイブリッド車に統一…384万5600円から",
+        "url": "https://response.jp/article/2026/06/02/412111.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "タイプRかZか、それともCX-60か!? 自動車評論家がガチで格付けした「令和の名機TOP5」",
+        "url": "https://bestcarweb.jp/feature/column/1532551"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "タフトは“ひとり時間”を楽しむ軽だ!! 通勤、カフェ巡り、車中休憩で光る魅力",
+        "url": "https://bestcarweb.jp/feature/column/1531958"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.2",
+        "title": "ついにアクアでも選べるように!! 大型ディスプレイオーディオがUグレードにも待望の追加だ！",
+        "url": "https://bestcarweb.jp/feature/column/1522396"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.2",
+        "title": "Man Sees Nitto Grappler Tires Are $450 On Amazon. Then He Goes To Walmart: ‘Just Taking A Chance And Hoping For The Best’",
+        "url": "https://www.motor1.com/news/797514/nitto-grappler-tires-walmart-vs-amazon/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.1",
-        "title": "Lexus Scraps Plans For A Future Flagship EV",
-        "url": "https://www.motor1.com/news/797497/lexus-cancels-lf-zc-ev/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "Here Are All 97 Car Dealers the FTC Threatened Over ‘Deceptive’ Pricing",
-        "url": "https://www.thedrive.com/news/here-are-all-97-car-dealers-the-ftc-threatened-over-deceptive-pricing"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "One NFS Most Wanted Feature Was So Controversial, It Drove Developers to Quit",
-        "url": "https://www.thedrive.com/news/one-nfs-most-wanted-feature-was-so-controversial-it-drove-developers-to-quit"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.1",
-        "title": "'Wasted A Ton Of Time': Driver Wants $60K Car. Then The Saleswoman Calls Them Out For Not Answering Most Crucial Question First",
-        "url": "https://www.motor1.com/news/797402/tell-car-salesperson-monthly-budget/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.1",
-        "title": "Honda Recalls Nearly 100,000 Cars For A Major Safety Issue",
-        "url": "https://www.motor1.com/news/797493/honda-recalls-100000-cars-bad-airbag-sensor/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "Ram Is Dropping the Mild-Hybrid From More Hemi V8 Trucks Than Just the Rumble Bee",
-        "url": "https://www.thedrive.com/news/ram-is-dropping-the-mild-hybrid-from-more-hemi-v8-trucks-than-just-the-rumble-bee"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.1",
-        "title": "Sad: The Dodge Viper Isn't Coming Back",
-        "url": "https://www.motor1.com/news/797482/new-dodge-viper-not-happening/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "Race Week: Will the New F1 Regulations Finally Make Monaco Exciting?",
-        "url": "https://www.thedrive.com/news/race-week-will-the-new-f1-regulations-finally-make-monaco-exciting"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "World’s First 8.1L Big Block C8 Corvette Finally Hits the Freeway",
-        "url": "https://www.thedrive.com/news/worlds-first-8-1l-big-block-c8-corvette-finally-hits-the-freeway"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "BYD Says It Will Assume Responsibility for Self-Driving Crashes: TDS",
-        "url": "https://www.thedrive.com/news/byd-says-it-will-assume-responsibility-for-self-driving-crashes-tds"
+        "title": "Man Goes To Midas For Oil Change. Then The Tech Recommends Something Awfully Suspicious: ‘I Used To Trust Midas’",
+        "url": "https://www.motor1.com/news/797409/midas-inspection-issue/"
       },
       {
         "source": "InsideEVs",
         "time": "2026.6.1",
-        "title": "Lexus Cancels Next-Generation EV Sedan",
-        "url": "https://insideevs.com/news/797459/lexus-is-electric-sedan-dead/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.1",
-        "title": "2026 Ford Super Duty Tremor Review: Why the 7.3L Is the One To Buy",
-        "url": "https://www.thedrive.com/car-reviews/2026-ford-f-250-super-duty-tremor-review"
+        "title": "I Took A Hyundai Ioniq 5 EV On A Roadtrip. It Made Gas Feel Financially Irresponsible",
+        "url": "https://insideevs.com/news/797350/hyundai-ioniq-5-roadtrip-gas-financially-irresponsible/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.1",
-        "title": "Bugatti's Latest One-Off Is Covered In Stars",
-        "url": "https://www.motor1.com/news/797342/bugatti-one-off-literary-tribute/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.1",
-        "title": "A Ferrari Is Not An iPhone",
-        "url": "https://www.motor1.com/features/797351/ferrari-luce-not-an-iphone-design-opinion/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "「パジェロ復活」三菱の正式発表に「クロカンの時代来た」「嬉しい限り」などSNSでは歓喜の声",
-        "url": "https://response.jp/article/2026/06/01/412109.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "「同じメーカーのSUVと思えない！」国沢光宏がうなる上質さ光る330万円の正体!! 人気記事ランキングベスト20[2026.5.24-5.30]",
-        "url": "https://bestcarweb.jp/feature/column/1535835"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "『カローラクロスGRスポーツ』のボディを補強、タナベ「ストラットタワーバー・プラス」と「アンダーブレース」を発売",
-        "url": "https://response.jp/article/2026/06/01/412108.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.1",
-        "title": "【これぞ運転専用】信号の「赤と黄」がパッと目に飛び込んでくる！ SWANSの新作ドライビングサングラスが凄すぎる",
-        "url": "https://bestcarweb.jp/news/car-accessory/1535996"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.1",
-        "title": "【マツダ CX-5 新型】Aピラー9mm、ドア音、ワイパー制御…開発主査が明かした「地味スゴ」な進化とは",
-        "url": "https://response.jp/article/2026/06/01/412100.html"
+        "title": "California Wants To Regulate Fun Tires",
+        "url": "https://www.motor1.com/news/797503/california-tire-rolling-resistance-rules/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "26775576166",
-    "sha": "1e899880d08ec03c5422487f569e86c8d9474c7c",
-    "completed_at": "2026-06-01T19:02:01.388Z",
+    "run_id": "26799410081",
+    "sha": "72ac54671433746190832ea3da4554faf87657b3",
+    "completed_at": "2026-06-02T04:59:53.814Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 36,
-    "queued_articles": 36,
-    "processed": 36,
-    "started_at": "2026-06-01T19:00:57.541Z",
-    "finished_at": "2026-06-01T19:02:01.158Z",
+    "scoped_articles": 20,
+    "queued_articles": 20,
+    "processed": 20,
+    "started_at": "2026-06-02T04:59:17.863Z",
+    "finished_at": "2026-06-02T04:59:53.571Z",
     "success": true,
     "error": ""
   }
