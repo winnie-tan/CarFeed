@@ -1,155 +1,155 @@
 {
   "workflow": {
-    "generated_at": "2026-06-02T17:50:18.883Z",
+    "generated_at": "2026-06-03T05:14:25.604Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 362,
-    "deepseek_untranslated_before_run": 38,
-    "newly_fetched_articles": 38,
-    "newly_fetched_untranslated": 38,
+    "deepseek_translated_before_run": 372,
+    "deepseek_untranslated_before_run": 28,
+    "newly_fetched_articles": 28,
+    "newly_fetched_untranslated": 28,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 38,
+    "translation_queue_count": 28,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.2",
-        "title": "Big Two-Stroke Dirt Bikes Are Back: Kawasaki Reveals the KX327, Its Largest in More Than 20 Years",
-        "url": "https://www.thedrive.com/news/big-two-stroke-dirt-bikes-are-back-kawasaki-reveals-the-kx327-its-largest-in-more-than-20-years"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.2",
-        "title": "Hyundai And Kia's Hybrids Are Crushing It Amid The Gas Crisis",
-        "url": "https://insideevs.com/news/797603/hyundai-kia-sales-hybrids-evs-may-2026/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.2",
-        "title": "Yikes: Ram Made An AI-Generated Shirt With A Tacoma On It",
-        "url": "https://www.motor1.com/news/797593/ram-ai-tacoma-shirt/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.2",
-        "title": "The Rolls-Royce Spectre Gets Big Update. But You Wouldn’t Know It",
-        "url": "https://insideevs.com/news/797596/rolls-royce-spectre-series-two/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.2",
-        "title": "Ram Tried Selling a ‘Patriotic T-Shirt’ With an AI-Generated Tacoma and Botched American Flag",
-        "url": "https://www.thedrive.com/news/ram-is-selling-a-patriotic-t-shirt-with-an-ai-generated-tacoma-and-botched-american-flag"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.2",
-        "title": "The 2026 Toyota GRMN Corolla Is Not a Hot Hatch for Everybody",
-        "url": "https://www.thedrive.com/news/the-2026-toyota-grmn-corolla-is-not-a-hot-hatch-for-everybody"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.2",
-        "title": "Man Goes To Car Dealership. Then He Catches An AutoZone Worker Making A Delivery: ‘Do I Have To Pay Dealership Prices?'",
-        "url": "https://www.motor1.com/news/797520/autozone-dealership-delivery/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.2",
-        "title": "This Gorgeous Porsche-Inspired Hypercar Is Hiding A Secret",
-        "url": "https://www.motor1.com/news/797506/porsche-v10-manual-supercar-one-off-build/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.2",
-        "title": "Hyundai Sonata Joins Camry and Accord in Sedan Sales Surge: TDS",
-        "url": "https://www.thedrive.com/news/hyundai-sonata-joins-camry-and-accord-in-sedan-sales-surge-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.2",
-        "title": "Why Some Cars Put Power Down Better Than Others",
-        "url": "https://www.motor1.com/features/797355/what-is-a-limited-slip-differential/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.2",
-        "title": "Lucid Is Recalling Its Cheapest EV Because It May Lose Power While Driving",
-        "url": "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.2",
-        "title": "2026 Toyota Tacoma in ‘Back to the Future’ Get-Up Looks Pretty McFly",
-        "url": "https://www.thedrive.com/news/2026-toyota-tacoma-in-back-to-the-future-get-up-looks-pretty-mcfly"
+        "source": "Best Car Web",
+        "time": "2026.6.3",
+        "title": "[台風6号]が列島通過中！ 万一倒木や水没に遭ったら自動車保険は使えるん？",
+        "url": "https://bestcarweb.jp/feature/column/698961"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "「こういうのでイイんだよ」元祖スポーツネイキッドの新型、ドゥカティ『モンスター』にSNSでは期待の声",
-        "url": "https://response.jp/article/2026/06/02/412154.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "「激渋ですやん」マツダ『ロードスター』から採用の新色「ジンクグリーン」発表にSNS注目！",
-        "url": "https://response.jp/article/2026/06/02/412162.html"
+        "time": "2026.6.3",
+        "title": "【日産 リーフ 新型】開発責任者が語る、火あぶり、水攻め、落下…“拷問のよう”なテストで得た信頼性と、求められた先進感",
+        "url": "https://response.jp/article/2026/06/03/412178.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "【独自】新型ムラーノ「796万4000円」から!! 6月初旬から300台限定で発売開始 北米生産車がついにやってくる",
-        "url": "https://bestcarweb.jp/newcar/1536323"
+        "time": "2026.6.3",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第775回",
+        "url": "https://bestcarweb.jp/feature/column/1525501"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.2",
-        "title": "10分で0℃まで冷える！ 急速冷却＆静音設計の新型車載冷蔵庫がカーライフを変える！",
-        "url": "https://bestcarweb.jp/news/1535186"
+        "time": "2026.6.3",
+        "title": "2027年廃止決定!! 代行バス→代替バスへと変化を始めたJR津軽線振替輸送のいまを見てきた!!",
+        "url": "https://bestcarweb.jp/busmagazine/1518675"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "GMOインターネットグループ、AIとヒューマノイドロボットで空の社会実装を支援…次世代エアモビリティEXPO 2026",
-        "url": "https://response.jp/article/2026/06/02/412156.html"
+        "time": "2026.6.3",
+        "title": "BMW『iX2』「xDrive30」の航続が507kmに、仕様変更でSiCインバーター採用…768万円から",
+        "url": "https://response.jp/article/2026/06/03/412174.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "GNSSユニット「RJX5-PoE」、小峰無線電機が参考出展へ…次世代エアモビリティEXPO 2026",
-        "url": "https://response.jp/article/2026/06/02/412152.html"
+        "time": "2026.6.3",
+        "title": "BYD、Huawei、Xpengが示す中国自動車産業の次なるステージとは…匠新［インタビュー］",
+        "url": "https://response.jp/article/2026/06/03/412194.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.3",
+        "title": "CX-60、MX-30 ロータリーEVを抑えまさかのBEV超え!? ガチの8台乗り比べで完全証明された「アウトランダーPHEV」の完成度が高すぎる!!",
+        "url": "https://bestcarweb.jp/feature/column/1532835"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "NEDO、空飛ぶクルマや長距離無人機技術を紹介…次世代エアモビリティEXPO 2026",
-        "url": "https://response.jp/article/2026/06/02/412153.html"
+        "time": "2026.6.3",
+        "title": "GM、米カリフォルニア州に最新鋭デザインスタジオ開設…次世代モビリティ開発へ",
+        "url": "https://response.jp/article/2026/06/03/412185.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.2",
-        "title": "SUBARU、新リース会計基準対応にプロシップ「ProPlus＋」採用…グループ30社を一元管理",
-        "url": "https://response.jp/article/2026/06/02/412151.html"
+        "time": "2026.6.3",
+        "title": "MINI「ポール・スミス・エディション」、ガソリンモデル3車種の予約開始…465万円から",
+        "url": "https://response.jp/article/2026/06/03/412166.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.3",
+        "title": "WRCのGRヤリス ラリー1と市販のGRヤリスは深くつながっている!! WRCを戦う勝田貴元だけが知っているGRヤリスのスゴさ【PR】",
+        "url": "https://bestcarweb.jp/feature/tieup/1532073"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "アウディの大型SUV、『Q7』新型を予告…デビューは今夏",
+        "url": "https://response.jp/article/2026/06/03/412171.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "イード、「北京モーターショー2026」現地取材レポートを発表 ～ファーウェイ・シャオミの躍進とAIディファインドビークル の登場～",
+        "url": "https://response.jp/article/2026/06/03/412180.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "ウーブン・バイ・トヨタ、豊田大輔氏がトヨタに帰任へ…8月1日付け",
+        "url": "https://response.jp/article/2026/06/03/412196.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "キャンプも街乗りも狙える！ 三菱SUVとオープンカントリーの相性が抜群だった",
+        "url": "https://response.jp/article/2026/06/03/412191.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.3",
+        "title": "すごくイイんだけど……ヤワな気持ちで買うと痛い目を見る!? 発売直後の「ランクルFJ」に飛びつく前に絶対知るべき3つのポイント！",
+        "url": "https://bestcarweb.jp/feature/column/1537181"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "テラチャージ、EV充電インフラ緊急支援窓口を開設…他社で検討・進行中の案件引き継ぎへ",
+        "url": "https://response.jp/article/2026/06/03/412192.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "トヨタ『アルファード』一部改良、PHEVにZグレード追加…新色ニュートラルブラックも設定",
+        "url": "https://response.jp/article/2026/06/03/412198.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "ネクステージ、練馬店開業…東京都内の買取拠点が11に",
+        "url": "https://response.jp/article/2026/06/03/412193.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.3",
+        "title": "ハイエースの純正画面をフル活用！ データシステムで広がる車内エンタメの楽しみ方PR",
+        "url": "https://response.jp/article/2026/06/03/412187.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.3",
+        "title": "まだつまらないなんて思っているのか!? エコの常識を覆してドライバーを覚醒させる令和の超刺激的ハイブリッド車たち！",
+        "url": "https://bestcarweb.jp/feature/column/1532104"
       }
     ],
     "event_name": "schedule",
-    "run_id": "26837828862",
-    "sha": "18997bc7d50ac3d14093c9f1823f405d82546a47",
-    "completed_at": "2026-06-02T17:51:31.857Z",
+    "run_id": "26865164545",
+    "sha": "2819bbefef6813f76404fec8e72e42e460eb5b67",
+    "completed_at": "2026-06-03T05:15:07.249Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 400,
-    "deepseek_untranslated_after_run": 0,
+    "deepseek_translated_after_run": 394,
+    "deepseek_untranslated_after_run": 6,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 38,
-    "queued_articles": 38,
-    "processed": 38,
-    "started_at": "2026-06-02T17:50:19.180Z",
-    "finished_at": "2026-06-02T17:51:31.606Z",
+    "scoped_articles": 28,
+    "queued_articles": 28,
+    "processed": 28,
+    "started_at": "2026-06-03T05:14:25.900Z",
+    "finished_at": "2026-06-03T05:15:07.022Z",
     "success": true,
     "error": ""
   }
