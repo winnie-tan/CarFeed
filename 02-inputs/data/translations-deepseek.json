@@ -21795,5 +21795,866 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-03T05:15:07.016Z"
+  },
+  "https://www.motor1.com/news/797598/mitsubishi-mid-size-pickup-truck/": {
+    "title_zh": "三菱借助日产重返皮卡市场",
+    "summary_short": "三菱计划基于日产新一代 Frontier 平台推出中型皮卡，重返美国市场。",
+    "summary_long": "三菱计划借助日产平台重返美国中型皮卡市场，新车很可能基于即将推出的日产 Frontier 打造。三菱曾在美国销售 Raider 和 Mighty Max 等皮卡，但后来退出该细分市场。此次合作将利用日产在密西西比州的工厂进行生产，有望帮助三菱扩大在美国的产销规模。新车可能沿用 Triton、L200 等名称，定位坚固且亲民。",
+    "highlights_zh": [
+      "三菱将基于日产 Frontier 平台推出中型皮卡",
+      "新车有望在日产密西西比工厂生产",
+      "三菱曾在美国销售 Raider 和 Mighty M…",
+      "目标定位坚固且亲民的皮卡车型"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "日产 | Nissan",
+      "Frontier",
+      "Triton",
+      "Raider"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7Zmyyp/s1/2024-mitsubishi-triton-l200.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:12.347Z"
+  },
+  "https://www.motor1.com/news/797714/2027-kia-seltos-trims-pricing-cost/": {
+    "title_zh": "起亚最便宜跨界车涨价，2027 款 Seltos 起售价上涨 1200 美元",
+    "summary_short": "2027 款起亚 Seltos 起售价上涨 1200 美元至 26485 美元，轴距加长 2.4 英寸，空间更大。",
+    "summary_long": "起亚宣布 2027 款 Seltos 定价，入门级 LX 前驱版起售价 26485 美元，较 2026 款上涨 1200 美元。全轮驱动选装价上涨 500 美元至 1700 美元。S 和 EX 版本也分别涨价 900 美元和 1900 美元。顶配由 X-Line S 和 X-Line SX 取代 SX，起售价分别为 30485 美元和 34285 美元。新车轴距加长 2.4 英寸，后排腿部空间增加 1.0 英寸，后备箱容积提升至 64.1 立方英尺（放倒前排）和 27.8 立方英尺（后排后）。",
+    "highlights_zh": [
+      "2027 款 Seltos 起售价 26485 美元",
+      "全轮驱动选装价涨至 1700 美元",
+      "轴距加长 2.4 英寸",
+      "顶配新增 X-Line S 和 X-Line SX"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "Seltos",
+      "LX",
+      "X-Line S",
+      "X-Line SX"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJmzb/s1/2027-kia-seltos.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:12.819Z"
+  },
+  "https://www.motor1.com/features/797701/new-alfa-romeo-suv-price-spec-details/": {
+    "title_zh": "阿尔法·罗密欧全新 SUV 即将到来",
+    "summary_short": "阿尔法·罗密欧确认开发全新 C 级 SUV，内部代号 A4U，将提供燃油和混动动力，或命名自山口。",
+    "summary_long": "阿尔法·罗密欧确认正在开发一款全新跨界 SUV，内部代号 A4U。该车定位 C 级，将与 Tonale 和 Junior 组成紧凑型 SUV 阵容。新车将基于 Stellantis 平台，提供纯燃油和混合动力系统，并配备最新科技配置。目前是否引入美国市场尚未确定。官方尚未公布正式名称，但根据品牌传统，预计会以山口命名，如 Stelvio 和 Tonale。",
+    "highlights_zh": [
+      "内部代号 A4U",
+      "定位 C 级 SUV",
+      "提供燃油与混动",
+      "或沿用山口命名"
+    ],
+    "entities": [
+      "阿尔法·罗密欧 | Alfa Romeo",
+      "Tonale",
+      "Stelvio",
+      "Stellantis"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJ8WW/s1/alfa-romeo-suv-compatto-2027-il-render-di-motor1.com.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:16.200Z"
+  },
+  "https://www.thedrive.com/news/the-ferrari-luce-isnt-ugly-its-just-that-the-future-sucks": {
+    "title_zh": "法拉利 Luce 并不丑，只是未来太糟糕",
+    "summary_short": "法拉利首款电动超跑 Luce 设计平庸，缺乏个性，反映了整个汽车行业在电动化浪潮下的审美困境。",
+    "summary_long": "法拉利首款电动车型 Luce 的图片曝光后，引发两极反应。有人认为这是对品牌传统的背叛，但作者指出，Luce 的问题不在于丑，而在于它过于平庸、毫无特色。作为一款售价 60 万美元的电动四门超跑，Luce 的设计友好、干净、整洁，却缺乏法拉利应有的张扬与激情，甚至让人联想到日产 Leaf。这不仅是法拉利的困境，更是整个汽车行业在电动化转型中面临的共同问题：当所有车都变成电子化、屏幕化的产物，个性与灵魂正在消失。",
+    "highlights_zh": [
+      "Luce 设计平庸",
+      "售价 60 万美元",
+      "电动化导致所有车趋于同质化",
+      "品牌传统与未来创新的矛盾"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "日产 Leaf | Nissan Leaf"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/1026/06/Ferrari-Lights2.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Catstair-Canyon-cars-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:16.293Z"
+  },
+  "https://www.thedrive.com/news/ferrari-re-signs-charles-leclerc-but-will-they-ever-deliver-a-title": {
+    "title_zh": "法拉利续约勒克莱尔，但冠军何时到来？",
+    "summary_short": "法拉利宣布与勒克莱尔续约多年，但车队运营短板仍让冠军希望渺茫。",
+    "summary_long": "法拉利宣布与查尔斯·勒克莱尔续约多年，尽管双方已合作七年，但车队在运营能力上的不足始终未能让勒克莱尔或队友汉密尔顿真正具备争冠实力。勒克莱尔表示法拉利如同他的第二个家，双方将继续为世界冠军目标努力。",
+    "highlights_zh": [
+      "法拉利宣布与勒克莱尔续约多年",
+      "勒克莱尔称法拉利如同第二个家",
+      "车队运营短板仍制约争冠前景"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "查尔斯·勒克莱尔 | Charles Leclerc",
+      "刘易斯·汉密尔顿",
+      "F1 世界冠军"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2277515844.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2277499308.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:19.313Z"
+  },
+  "https://www.thedrive.com/news/the-ford-super-duty-has-way-too-many-badges": {
+    "title_zh": "福特 Super Duty 徽章太多",
+    "summary_short": "现代卡车徽章泛滥，福特 F-250 Super Duty 上有多达数十个徽章，引发关于品牌标识与审美过度的讨论。",
+    "summary_long": "福特 F-250 Super Duty 等现代卡车配备了过多的徽章和标识，从车门、尾门到前格栅，随处可见各种铭牌。这种设计趋势引发争议，有人认为这是品牌炫耀，有人则觉得破坏了车身简洁美感。文章以大众车主的“去徽章”文化为对比，指出欧洲车主常通过移除徽章来低调展示高端车型，而美国卡车却反其道而行之，堆砌徽章以彰显配置和动力。",
+    "highlights_zh": [
+      "福特 F-250 Super Duty 有多达数十个…",
+      "现代卡车徽章泛滥引发审美争议",
+      "欧洲车主倾向去徽章以低调",
+      "美国卡车反其道而行之"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Super Duty",
+      "F-250",
+      "大众 | Volkswagen"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/20260514_180033.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/20260508_083100.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/20260514_180125.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:19.782Z"
+  },
+  "https://www.motor1.com/news/797366/locksmith-bait-and-switch/": {
+    "title_zh": "佛罗里达锁匠报价 70 美元开锁，最终收费 300 美元",
+    "summary_short": "佛罗里达一名女子称锁匠公司先报 70 美元，开锁后却收取 300 美元，涉嫌诱饵调包诈骗。",
+    "summary_long": "佛罗里达州塔拉哈西一名女子 Kayla 在 TikTok 上爆料，称自己因钥匙锁在车内而联系 Mendy's Locksmith Service，对方最初报价 70 美元，但实际到达后耗时两倍，最终收取 300 美元，且未事先获得她的同意。她提醒公众警惕该公司的诱饵调包行为。",
+    "highlights_zh": [
+      "报价 70 美元",
+      "服务时间比预计长一倍",
+      "未事先告知额外费用",
+      "女子在 TikTok 上曝光并警告他人"
+    ],
+    "entities": [
+      "Mendy's Locksmith Service",
+      "佛罗里达 | Florida",
+      "塔拉哈西",
+      "诱饵调包"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zwjx7/s1/florida-locksmith-quotes-woman-70.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:22.861Z"
+  },
+  "https://www.thedrive.com/news/toyota-built-its-reputation-on-reliability-the-tundra-is-threatening-to-undo-it": {
+    "title_zh": "丰田 Tundra 可靠性危机：发动机缺陷动摇品牌根基",
+    "summary_short": "丰田因 Tundra 等车型的 3.4T V6 发动机存在金属碎屑缺陷，已召回超 27 万辆并免费更换发动机，品牌可靠性口碑受冲击。",
+    "summary_long": "全球最大汽车制造商丰田正面临严重的可靠性危机。其搭载于 Tundra、Sequoia、Lexus LX 和 Lexus GX 上的 3.4 升双涡轮增压 V6 发动机因装配过程中残留金属碎屑，可能导致突然的灾难性故障。尽管此前已尝试修复，但问题仍未解决，丰田已累计召回超过 27 万辆相关车辆，并被迫免费更换发动机。这一事件正在动摇丰田以可靠性著称的品牌根基。",
+    "highlights_zh": [
+      "丰田因发动机缺陷召回超 27 万辆汽车",
+      "金属碎屑残留导致发动机突然失效",
+      "涉及 Tundra、Sequoia 及多款雷克萨斯车…",
+      "免费更换发动机"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tundra",
+      "Sequoia",
+      "雷克萨斯 | Lexus",
+      "3.4 升双涡轮增压 V6 发动机"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/DRIVECAST-EP-18-HERO.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Catstair-Canyon-cars-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:23.173Z"
+  },
+  "https://www.motor1.com/news/797607/record-car-loan-term-lengths/": {
+    "title_zh": "创纪录数量的美国人选择 6 年期汽车贷款",
+    "summary_short": "2026 年第一季度数据显示，近三分之一购车者选择超过 6 年的贷款期限，以降低月供。新车平均贷款金额增至 43,925 美元。",
+    "summary_long": "根据 2026 年第一季度数据，美国购车者中近三分之一选择超过 6 年的贷款期限，以应对不断上涨的汽车价格。新车贷款中超过 35%的期限长于 6 年，高于去年的 31%；二手车市场这一比例为 32%，高于去年的 29%。新车平均贷款金额同比增加 2,150 美元，达到 43,925 美元。不过，贷款利率有所下降，平均再融资利率从 10%降至 8%，月供平均减少 81 美元。此外，转向信用合作社再融资的趋势明显，其利率通常低于银行。",
+    "highlights_zh": [
+      "近三分之一购车者选择超 6 年贷款",
+      "新车贷款超 6 年比例达 35%",
+      "平均贷款金额增至 43",
+      "平均再融资利率降至 8%"
+    ],
+    "entities": [
+      "Experian Automotive"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YrnM/s1/american-car-loans-6-years.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:26.211Z"
+  },
+  "https://www.thedrive.com/car-reviews/range-rover-se-plug-in-hybrid-review-extraordinarily-capable-just-shy-about-it": {
+    "title_zh": "路虎揽胜 SE 插电混动版评测：非凡能力，稍欠锋芒",
+    "summary_short": "路虎揽胜 SE 插电混动版评测：非凡能力，稍欠锋芒。插电混动系统出人意料地适合揽胜，但其他方面可能令人困惑。",
+    "summary_long": "路虎揽胜 SE 插电混动版在保持揽胜一贯的卓越越野能力和适应性的同时，采用了插电混动系统，使其在城市通勤中更加高效。然而，内饰设计缺乏新意，未能完全体现其高端定位。总体而言，这是一款能力出众但个性稍显平淡的豪华 SUV。",
+    "highlights_zh": [
+      "插电混动系统出人意料地适合揽胜",
+      "保持卓越越野能力",
+      "内饰设计缺乏新意",
+      "起售价约 13.5 万美元"
+    ],
+    "entities": [
+      "路虎揽胜 | Range Rover",
+      "揽胜 SE | Range Rover SE",
+      "插电混动",
+      "越野能力"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/R0003394-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/R0003404-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/R0003426-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:26.257Z"
+  },
+  "https://www.thedrive.com/news/dodge-just-jacked-up-the-charger-evs-price-by-five-figures-tds": {
+    "title_zh": "道奇大幅上调 Charger EV 售价，涨幅达五位数",
+    "summary_short": "道奇将 2027 款 Charger Daytona 电动车起售价上调 12,500 美元至 72,495 美元，涨幅惊人且无性能提升。",
+    "summary_long": "道奇公布了 2027 款 Charger 系列的价格信息，其中 Daytona 电动车型的起售价从去年的 49,995 美元大幅上涨至 72,495 美元，涨幅达 12,500 美元。除了新增 NACS 充电接口外，该车型并无其他显著变化。此举被认为是在抑制消费者购买电动 Charger 的意愿。",
+    "highlights_zh": [
+      "2027 款 Charger Daytona EV…",
+      "较去年上涨 12",
+      "仅新增 NACS 充电接口",
+      "道奇疑似有意抑制电动车型销量"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "Charger",
+      "Daytona",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/DG027_010CH-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Catstair-Canyon-cars-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:29.285Z"
+  },
+  "https://insideevs.com/news/797585/ev-ownership-insurance-price-expensive/": {
+    "title_zh": "电动汽车保险仍比燃油车贵得多，但差距正在缩小",
+    "summary_short": "最新研究显示，新款电动汽车保险费用平均比燃油车高 18%，年保费多出 501 美元，但差距正逐步缩小。",
+    "summary_long": "电动汽车的保险费用仍然是其拥有成本中的一大痛点。根据 Insurify 的最新研究，2024 年及以后的新款电动汽车平均年保费为 3293 美元，比同期的燃油车（2792 美元）高出 18%，即每年多花 501 美元。若考虑所有车龄的车辆，由于老旧燃油车拉低了平均保费，电动汽车的保险费用甚至比燃油车高出 42%（约 941 美元）。保费差异的主要原因是电动汽车维修成本更高，尤其是在碰撞、盗窃风险较高的密集市场。不过，随着电动汽车技术成熟和维修网络完善，这一差距正在逐渐缩小。",
+    "highlights_zh": [
+      "新款 EV 保费比燃油车高 18%",
+      "年均多付 501 美元",
+      "维修成本高是主因",
+      "差距正逐步缩小"
+    ],
+    "entities": [
+      "电动汽车 | EV",
+      "燃油车",
+      "Insurify"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXYww6/s1/tesla-model-y-euro-ncap-crash-test.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/eqqzs-average-vehicle-insurance-policy-cost.png",
+      "https://cdn.motor1.com/images/custom/thumbnail/eqqzs-average-annual-insurance-policy.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:30.144Z"
+  },
+  "https://www.motor1.com/news/797586/bmw-alpina-interview/": {
+    "title_zh": "宝马对 Alpina 的愿景：速度，而非运动",
+    "summary_short": "宝马收购 Alpina 四年后，Vision BMW Alpina 概念车亮相，设计优雅现代，定位介于 7 系与劳斯莱斯之间，瞄准宾利和迈巴赫市场。",
+    "summary_long": "宝马收购 Alpina 四年后，Vision BMW Alpina 概念车在埃斯特庄园优雅竞赛上首次亮相。该车采用鲨鱼鼻、肾形格栅、霍夫迈斯特弯角等经典宝马设计元素，但以现代简约风格呈现，既适合概念车舞台，也具备量产可行性。宝马 Alpina CEO Oliver Viellechner 表示，该品牌瞄准 7 系（10 万美元以上）与劳斯莱斯古斯特（37 万美元）之间的市场空白，与宾利、迈巴赫竞争。",
+    "highlights_zh": [
+      "宝马收购 Alpina 四年后推出 Vision 概…",
+      "设计融合经典元素与现代简约风格",
+      "定位 7 系与劳斯莱斯之间的市场空白",
+      "目标对手为宾利和迈巴赫"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "Alpina",
+      "7 系 | 7 Series",
+      "劳斯莱斯",
+      "宾利"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3Bmxy/s1/bmw-alpina-adrian-van-hooydonk-interview.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:33.629Z"
+  },
+  "https://insideevs.com/news/797694/mercedes-cla-350-ev-beats-epa-estimated-range/": {
+    "title_zh": "奔驰 CLA EV 实测续航远超 EPA 标准",
+    "summary_short": "奔驰 CLA 350 EV 在 Edmunds 实测中续航达 385 英里，比 EPA 标称多 73 英里，充电峰值功率也超官方数据。",
+    "summary_long": "2026 款奔驰 CLA 350 4Matic EV 在 Edmunds 的真实续航测试中表现惊人，实际行驶 385 英里，比 EPA 标称的 312 英里多出 73 英里，能耗仅为 25.7 kWh/100 英里，优于官方 29 kWh/100 英里。充电方面，峰值功率达到 349 kW，超出官方宣称的 320 kW。此前，单电机版 CLA 250+ EV 同样在测试中跑出 434 英里，成为首款突破 400 英里的最便宜电动车。这表明奔驰在 CLA EV 上做了扎实的功课，车主可对实际续航充满信心。",
+    "highlights_zh": [
+      "实测续航 385 英里",
+      "能耗 25.7 kWh/100 英里",
+      "充电峰值功率 349 kW",
+      "单电机版 CLA 250+曾跑出 434 英里"
+    ],
+    "entities": [
+      "奔驰 | Mercedes-Benz",
+      "CLA 350 4Matic EV",
+      "CLA 250+ EV",
+      "EPA",
+      "Edmunds"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAg2ex/s1/2026-mercedes-benz-cla-250-u.s.-spec.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:33.908Z"
+  },
+  "https://response.jp/article/2026/06/03/412224.html": {
+    "title_zh": "丰田全新 Hilux 上市，SNS 热议“新色好看”“大块头却便宜”",
+    "summary_short": "丰田全新 Hilux 上市，外观硬朗先进，搭载 2.8L 柴油引擎，SNS 热议新色与性价比。",
+    "summary_long": "丰田汽车于 5 月 28 日推出全新一代 Hilux 皮卡，外观融合力量感与先进性，搭载 1GD 型 2.8 升柴油发动机，具备高耐久性。车身尺寸为 5325×1885×1865mm，货箱最大载重 500kg，尾门离地高度 845mm 并配备登车踏板。底盘沿用梯形大梁和分时四驱，标配多地形选择系统，优化电动助力转向和悬架，兼顾越野与公路舒适性。安全方面升级 Toyota Safety Sense，新增交叉路口转向辅助和行人检测功能。",
+    "highlights_zh": [
+      "全新外观设计",
+      "2.8L 柴油引擎",
+      "最大载重 500kg",
+      "标配多地形选择与升级安全系统"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Hilux",
+      "2.8L 柴油发动机",
+      "Toyota Safety Sense"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215991.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215991.jpg",
+      "https://response.jp/imgs/fill2/2215994.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:37.689Z"
+  },
+  "https://response.jp/article/2026/06/03/412216.html": {
+    "title_zh": "时间校准调校得当，低音也能从前方传来！",
+    "summary_short": "本文讲解安装低音炮后如何通过时间校准功能，让超低音从前声场传来，实现全频段一体化听感。",
+    "summary_long": "该连载系列致力于提升车载音响系统的完成度，本期聚焦于加装低音炮后的时间校准设定方法。由于车门扬声器口径有限，难以平滑重放超低音，因此常需加装专用低音炮。为了让低音自然地从前方传来，关键在于通过分频器将高音至低音一体化，并进一步利用时间校准功能提升整体完成度。",
+    "highlights_zh": [
+      "车门扬声器难以重放超低音",
+      "让低音从前声场传来",
+      "分频器是整合高低音的关键",
+      "时间校准进一步提升完成度"
+    ],
+    "entities": [
+      "时间校准",
+      "低音炮",
+      "分频器",
+      "车载音响"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215634.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215634.jpg",
+      "https://response.jp/imgs/fill2/2215632.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:37.826Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530438": {
+    "title_zh": "汽车界缩写猜谜：DPF 是什么？",
+    "summary_short": "DPF 是柴油颗粒过滤器的缩写，用于捕集并燃烧处理柴油发动机产生的 PM（碳烟），初代 CX-5 通过陶瓷支撑材料优化了燃烧效率。",
+    "summary_long": "DPF（Diesel Particulate Filter）即柴油颗粒过滤器，用于捕集柴油发动机产生的 PM（碳烟）并通过燃烧处理。传统柴油车在燃烧碳烟时存在氧气消耗、油耗增加和二氧化碳排放上升的问题。2012 年推出的初代 CX-5 通过采用陶瓷支撑材料，缩短了燃烧时间并减少了二氧化碳排放，成功满足欧 5 标准。",
+    "highlights_zh": [
+      "DPF 是柴油颗粒过滤器的缩写",
+      "用于捕集并燃烧处理柴油发动机的碳烟",
+      "初代 CX-5 通过陶瓷支撑材料优化了燃烧效率"
+    ],
+    "entities": [
+      "Diesel Particulate Filter",
+      "PM",
+      "CX-5",
+      "柴油发动机",
+      "欧 5"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2022/12/07141935/00b1.png?v=1670390378",
+      "https://img.bestcarweb.jp/wp-content/uploads/2022/12/07141935/00b1-600x400.png?v=1670390378",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29225644/00_nb_wagon3_head-600x400.jpg?v=1780063005"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:41.337Z"
+  },
+  "https://response.jp/article/2026/06/03/412223.html": {
+    "title_zh": "丰田埃尔法 Spacious Lounge 改款：提升静谧性与舒适性，起价 1276 万 9900 日元",
+    "summary_short": "丰田埃尔法 Spacious Lounge 改款，新增性能阻尼器和专用减震器，提升静谧性与舒适性，起价 1276.99 万日元。",
+    "summary_long": "丰田车体于 6 月 3 日宣布对丰田埃尔法特别改装车“Spacious Lounge”进行部分改良，旨在提升静谧性与舒适性。该车以 2 座布局为特色，移除第三排座椅，第二排配备专用“Spacious Lounge 座椅”。主要改进包括新增性能阻尼器和专用调校的减震器，以实现更平顺柔软的乘坐体验，抑制振动和噪音。此外，专用地板垫部分配色变更并增加装饰，提升高级感并有助于静谧性。售价方面，汽油版起价 1276.99 万日元，插电混动版 1485 万日元。",
+    "highlights_zh": [
+      "新增性能阻尼器和专用减震器",
+      "移除第三排",
+      "专用地板垫配色变更",
+      "汽油版起价 1276.99 万日元"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "埃尔法",
+      "Spacious Lounge"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215933.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215933.jpg",
+      "https://response.jp/imgs/fill2/2215938.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:41.413Z"
+  },
+  "https://response.jp/article/2026/06/03/412213.html": {
+    "title_zh": "Morpho 推出摄影测量工具包，用 RGB 相机重建 3D 空间用于自动驾驶仿真",
+    "summary_short": "Morpho 发布摄影测量工具包，用 RGB 相机图像重建高精度 3D 空间，用于自动驾驶仿真、建筑进度管理及工厂检查。",
+    "summary_long": "Morpho 发布了“Morpho Photogrammetry Toolkit”，该工具包利用 RGB 相机拍摄的图像实现高精度 3D 空间重建。在汽车领域，它可用于构建自动驾驶仿真环境；在建筑行业，可用于现场进度管理和验收；在制造业，则适用于工厂检查及布局变更记录。该工具包主要面向建筑、汽车及制造企业的研发部门。",
+    "highlights_zh": [
+      "RGB 相机图像重建高精度 3D 空间",
+      "用于自动驾驶仿真环境构建",
+      "建筑现场进度管理与验收",
+      "工厂检查与布局变更记录"
+    ],
+    "entities": [
+      "Morpho",
+      "Morpho Photogrammetry Toolkit"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215982.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215982.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:45.047Z"
+  },
+  "https://response.jp/article/2026/06/03/412217.html": {
+    "title_zh": "KENWOOD 通信型酒精检测仪 CAX-AD150 与云服务“あさレポ”联动",
+    "summary_short": "JVC 建伍宣布其 KENWOOD 通信型酒精检测仪 CAX-AD150 被铃与信和特的云服务“あさレポ”采用，以强化驾驶前酒精检测管理。",
+    "summary_long": "JVC 建伍于 6 月 3 日宣布，旗下 KENWOOD 品牌的通信型酒精检测仪 CAX-AD150 被铃与信和特的驾驶前酒精检测云服务“あさレポ”采用，并开始联动。此举背景是 2022 年 4 月起日本逐步实施的道路交通法修正案，要求包括白牌照运营者在内的众多企业必须进行驾驶前后酒精检测并记录管理。现场存在检测遗漏、记录缺失、冒充及虚假报告等问题，以及数据管理和审计应对负担加重。通过将云端统一管理、AI 人脸识别防作弊的“あさレポ”与高可靠性、便携性出色的 CAX-AD150 结合，可支持可靠的酒精检测。",
+    "highlights_zh": [
+      "CAX-AD150 被云服务“あさレポ”采用",
+      "应对日本道路交通法修正案义务化要求",
+      "AI 人脸识别防止冒充与虚假报告",
+      "高可靠性便携检测仪与云端管理联动"
+    ],
+    "entities": [
+      "KENWOOD",
+      "CAX-AD150",
+      "JVC 建伍",
+      "铃与信和特",
+      "あさレポ"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216025.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216025.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:45.550Z"
+  },
+  "https://response.jp/article/2026/06/03/412211.html": {
+    "title_zh": "ST 微电子发布 700V GaN 功率半导体，面向电动化高性能应用",
+    "summary_short": "ST 微电子推出 700V GaN 功率半导体，提升效率与功率密度，满足 AI 服务器及高性能电力转换需求。",
+    "summary_long": "ST 微电子（ST）发布了基于 GaN（氮化镓）的新型功率半导体，旨在提升电动化高性能应用的效率与功率密度。该产品属于 STPOWER 系列，额定电压 700V，可应对 AI 服务器功耗增长及超越传统硅技术的电力转换需求，支持高可靠性大功率运行与高频电路设计。",
+    "highlights_zh": [
+      "ST 微电子发布 700V GaN 功率半导体",
+      "提升效率与功率密度",
+      "面向 AI 服务器及高性能电力转换",
+      "支持高频电路与高可靠性大功率运行"
+    ],
+    "entities": [
+      "ST 微电子",
+      "GaN 功率半导体",
+      "电动化",
+      "AI 服务器",
+      "电力转换"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215981.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215981.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:47.871Z"
+  },
+  "https://response.jp/article/2026/06/03/412214.html": {
+    "title_zh": "阿斯顿·马丁 DBX 系列三款车型因下摆臂缺陷在日本召回",
+    "summary_short": "阿斯顿·马丁日本因后悬架扭矩反作用连杆固定螺栓缺陷，召回 DBX、DBX707、DBX S 共 1037 辆，可能导致下摆臂破损及行驶不能。",
+    "summary_long": "阿斯顿·马丁日本于 5 月 25 日向国土交通省提交召回报告，涉及 2020 年 9 月 9 日至 2025 年 9 月 1 日生产的 DBX、DBX707、DBX S 三款车型共 1037 辆。缺陷源于后悬架下摆臂与扭矩反作用连杆固定螺栓设计不足，可能导致连杆脱落、行驶稳定性丧失，最严重时下摆臂破损致车辆无法行驶。解决方案为更换所有车辆的固定螺栓，并检查下摆臂，如有损坏则更换新品。",
+    "highlights_zh": [
+      "涉及 DBX、DBX707、DBX S 共 1037…",
+      "后悬架固定螺栓设计缺陷",
+      "最严重可致下摆臂破损及行驶不能",
+      "更换螺栓并检查下摆臂"
+    ],
+    "entities": [
+      "阿斯顿·马丁",
+      "DBX",
+      "DBX707",
+      "DBX S",
+      "日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215774.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215774.jpg",
+      "https://response.jp/imgs/fill2/2215777.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:48.994Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1539881": {
+    "title_zh": "丰田埃尔法/威尔法“不发光”尾翼登场，低调车主狂喜",
+    "summary_short": "丰田埃尔法/威尔法改装品牌 Modellista 推出不发光版车顶扰流板，满足低调车主需求。",
+    "summary_long": "丰田埃尔法/威尔法改款后新增 PHEV 等亮点，而改装品牌 Modellista 也推出了产品改良。此前 SNS 热议的蓝色发光尾翼“Illumi Roof Spoiler”虽受欢迎，但不少车主只想要普通扰流板。如今 Modellista 终于推出不发光版本，让偏好低调的车主无需被迫“夜夜发光”。",
+    "highlights_zh": [
+      "Modellista 推出不发光版车顶扰流板",
+      "此前蓝色发光尾翼引发热议",
+      "满足只想要普通扰流板的车主需求",
+      "埃尔法/威尔法改装市场再添新选择"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "埃尔法",
+      "威尔法",
+      "Modellista",
+      "车顶扰流板"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03173546/rear_regaldignitystyle.jpeg?v=1780475747",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03173546/rear_regaldignitystyle-600x343.jpeg?v=1780475747",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01091947/samune0602-600x373.jpg?v=1780273188"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:52.231Z"
+  },
+  "https://bestcarweb.jp/news/1529480": {
+    "title_zh": "Crossbee vs Solio：家庭用车选谁更幸福？",
+    "summary_short": "铃木 Crossbee 与 Solio 对比：Solio 凭借滑动门和宽敞空间更适合家庭日常使用，Crossbee 则在 2025 年改款后提升了性能与安全配置。",
+    "summary_long": "铃木旗下两款小型车 Crossbee 与 Solio 常让家庭用户纠结。两者尺寸相近、价格接近，但 Solio 凭借滑动门和更宽敞的室内空间（尤其是后排腿部与头部空间）在家庭实用性上占优，尤其适合有小孩的家庭，日常接送、购物等场景更便利。Crossbee 则在 2025 年 10 月改款后大幅提升了行驶性能、安全与舒适配置，更适合追求驾驶乐趣与个性化外观的用户。价格方面，Solio 入门价更低，性价比突出。",
+    "highlights_zh": [
+      "Solio 滑动门+宽大空间",
+      "Crossbee 2025 改款",
+      "Solio 价格更低",
+      "Crossbee 外观个性"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "クロスビー",
+      "ソリオ"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29153843/sorikuro.jpg?v=1780036725",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29153843/sorikuro-600x400.jpg?v=1780036725",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30023250/2c73ec8533e15d0b6f85b25756aab7f3-600x400.jpg?v=1780075971"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:53.136Z"
+  },
+  "https://response.jp/article/2026/06/03/412209.html": {
+    "title_zh": "捷太格特展示线控转向与独特驱动单元：人车技术展 2026",
+    "summary_short": "捷太格特在 2026 年人车技术展上展示雷克萨斯 RZ 采用的线控转向系统及创新驱动单元，强调可靠性与驾驶感受。",
+    "summary_long": "在 2026 年横滨人车技术展上，捷太格特（JTEKT）展出了应用于雷克萨斯 RZ 的线控转向系统“Syncusteer”，以及一款独特的驱动单元参考展品。线控转向技术虽非全新，但正向普及车型扩展，尤其在 ADAS+、SDV 和自动驾驶领域，转向、制动等电控化需求日益增长。捷太格特注重系统可靠性，控制信号线完全双重化，两路常时激活，单路故障时无切换延迟；另配备电容备份电源，确保电源失效时仍能紧急操作。同时，系统也强调驾驶者的操控感受，以保障安全。",
+    "highlights_zh": [
+      "线控转向系统“Syncusteer”用于雷克萨斯 R…",
+      "控制信号线完全双重化",
+      "电容备份电源保障紧急操作",
+      "兼顾可靠性与驾驶感受"
+    ],
+    "entities": [
+      "捷太格特",
+      "雷克萨斯 | Lexus",
+      "RZ",
+      "线控转向",
+      "Syncusteer"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215441.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215441.jpg",
+      "https://response.jp/imgs/zoom1/2215436.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:56.841Z"
+  },
+  "https://response.jp/article/2026/06/03/412215.html": {
+    "title_zh": "捷太格特 ONI BEARING 助力环意自行车赛个人总冠军",
+    "summary_short": "捷太格特供应的 ONI BEARING 助力 Team Visma|Lease a Bike 车手温格高赢得环意自行车赛个人总冠军，实现三大环赛全胜。",
+    "summary_long": "捷太格特宣布，其作为官方合作伙伴并为 Team Visma|Lease a Bike 提供 ONI BEARING，该车队车手约纳斯·温格高在环意自行车赛中获得个人总冠军。温格高由此成为第八位完成三大环赛（环法、环意、环西）全胜的车手。同时，TVL 车队也赢得了团队总成绩第一。环意自行车赛始于 1909 年，与环法、环西并列为世界顶级三大环赛。2026 赛季于 5 月 8 日至 31 日在保加利亚和意大利举行，共 21 个赛段和 3 个休息日。",
+    "highlights_zh": [
+      "捷太格特 ONI BEARING 助力温格高环意夺冠",
+      "温格高成为第八位三大环赛全胜车手",
+      "Team Visma|Lease a Bike 同时…",
+      "2026 环意共 21 赛段"
+    ],
+    "entities": [
+      "捷太格特",
+      "ONI BEARING",
+      "Lease a Bike",
+      "约纳斯·温格高",
+      "环意自行车赛"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215990.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215990.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:05:57.050Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535154": {
+    "title_zh": "高性价比轻高顶面包车三选：日产 Dayz、本田 N-WGN、铃木 Wagon R Smile",
+    "summary_short": "日产 Dayz、本田 N-WGN、铃木 Wagon R Smile 三款热门轻高顶面包车，推荐最值得购买的配置版本。",
+    "summary_long": "轻自动车已成为日本市场主流，各厂商提供多种车型和配置。本文聚焦三款人气轻高顶面包车：日产 Dayz、本田 N-WGN、铃木 Wagon R Smile，分别推荐其最值得购买的配置版本。其中 Dayz 推荐上级的轻度混合动力 X 版本，相比中级的混合动力 S 增加了约 17 万日元配置，但价格仅上调 9.79 万日元，性价比突出。",
+    "highlights_zh": [
+      "日产 Dayz 推荐轻度混合动力 X 版",
+      "配置升级 17 万日元",
+      "本田 N-WGN 和铃木 Wagon R Smile…"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Dayz",
+      "本田 | Honda",
+      "N-WGN",
+      "铃木 | Suzuki"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29225644/00_nb_wagon3_head.jpg?v=1780063005",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29225644/00_nb_wagon3_head-600x400.jpg?v=1780063005",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01134519/181d23f42abccbf9d4f002bd5cad6eb5-600x400.jpg?v=1780289121"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:00.418Z"
+  },
+  "https://bestcarweb.jp/news/1535191": {
+    "title_zh": "吉姆尼换上陆巡脸？经典新格栅让爱车大变身",
+    "summary_short": "BEYOND JAPAN 为铃木吉姆尼推出新格栅，灵感源自经典陆巡，复古厚重设计让车头焕然一新。",
+    "summary_long": "BEYOND JAPAN 为铃木吉姆尼 JB64/JB74 系列推出名为“陆巡”的新款前格栅，设计灵感源自经典兰德酷路泽，横条幅与立体造型赋予吉姆尼厚重感。该格栅可搭配黑色、象牙白或车身同色涂装，营造硬派越野或复古 SUV 风格，满足车主个性化需求。",
+    "highlights_zh": [
+      "新格栅让吉姆尼秒变陆巡脸",
+      "横条幅设计凸显复古厚重感",
+      "支持多种涂装",
+      "保留原厂轮廓"
+    ],
+    "entities": [
+      "BEYOND JAPAN",
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "兰德酷路泽",
+      "格栅"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30023250/2c73ec8533e15d0b6f85b25756aab7f3.jpg?v=1780075971",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30023250/2c73ec8533e15d0b6f85b25756aab7f3-600x400.jpg?v=1780075971",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30021858/bc3bb41b01e1f4e8b3b47160056fd35b-600x400.jpg?v=1780075139"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:00.947Z"
+  },
+  "https://response.jp/article/2026/06/03/412202.html": {
+    "title_zh": "丰田 Vellfire 小改款，保留阿尔法没有的 2.4L 涡轮增压",
+    "summary_short": "丰田 Vellfire 小改款发布，新增中性黑车色，Executive Lounge 内饰升级，继续提供阿尔法没有的 2.4L 涡轮增压引擎。",
+    "summary_long": "丰田对 Vellfire 进行了小改款，于 6 月 3 日发布。新增中性黑车色，Executive Lounge 内饰采用青铜溅镀装饰，提升豪华感。继续搭载阿尔法没有的 2.4L 直列四缸涡轮增压引擎（T24A-FTS），基于 TNGA 技术开发，配备高效双涡管涡轮、中央直喷和可变冷却系统，扭矩超越 V6，匹配 Direct Shift-8AT，实现强劲加速。",
+    "highlights_zh": [
+      "新增中性黑车色",
+      "Executive Lounge 内饰升级",
+      "2.4L 涡轮增压引擎扭矩超 V6",
+      "匹配 Direct Shift-8AT"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ヴェルファイア",
+      "阿尔法",
+      "2.4L 涡轮增压引擎",
+      "Direct Shift-8AT"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215892.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215892.jpg",
+      "https://response.jp/imgs/fill2/2215894.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:04.159Z"
+  },
+  "https://response.jp/article/2026/06/03/412220.html": {
+    "title_zh": "丰田将在勒芒 24 小时展示液体氢燃料赛车 TR LH2 原型车",
+    "summary_short": "丰田将在勒芒 24 小时赛上首次公开演示液体氢燃料赛车 TR LH2 原型车，推动氢技术在赛车运动中的应用。",
+    "summary_long": "丰田赛车部门将在第 94 届勒芒 24 小时耐力赛期间，于法国萨尔特赛道进行 TR LH2 液体氢燃料赛车原型车的首次公开演示。该车基于参赛的 TR010 混合动力赛车底盘开发，旨在推进氢技术在赛车运动中的发展。演示将于 6 月 11 日和 13 日各进行一次，展示氢发动机的独特声浪和性能。此举有助于丰田持续开发氢技术和基础设施，并通过赛车运动拓展氢能的潜力。",
+    "highlights_zh": [
+      "丰田 TR LH2 原型车首次公开演示",
+      "基于 TR010 混合动力赛车底盘",
+      "6 月 11 日和 13 日在勒芒赛道演示",
+      "推动氢技术在赛车中的应用"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "TR LH2",
+      "勒芒 24 小时 | Le Mans 24 Hours",
+      "液体氢燃料",
+      "TR010"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216082.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216082.jpg",
+      "https://response.jp/imgs/fill2/2216076.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:04.166Z"
+  },
+  "https://bestcarweb.jp/news/1535188": {
+    "title_zh": "本田 N-WGN 车内大变身！10 秒安装 LED 控制台太方便了",
+    "summary_short": "本田 N-WGN 专用 LED 控制台盒，无需工具 10 秒安装，集收纳、充电、照明于一体，提升车内便利性。",
+    "summary_long": "针对本田 N-WGN 储物空间少、手机无处放置、充电线杂乱等痛点，汽车配件品牌 CRAFTWORKS 推出了专用 LED 控制台盒。该产品专为 JH3/JH4 型 N-WGN 设计，毫米级尺寸调整，从副驾驶侧滑入即可安装，贴合稳固，如同原厂配件。同时保留原厂托盘，不影响驾驶座滑动，确保日常使用无压力。",
+    "highlights_zh": [
+      "10 秒安装",
+      "车种专用设计",
+      "集收纳、充电、照明于一体",
+      "不影响驾驶座滑动"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "N-WGN",
+      "CRAFTWORKS",
+      "Fun Standard"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30021858/bc3bb41b01e1f4e8b3b47160056fd35b.jpg?v=1780075139",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30021858/bc3bb41b01e1f4e8b3b47160056fd35b-600x400.jpg?v=1780075139",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30023250/2c73ec8533e15d0b6f85b25756aab7f3-600x400.jpg?v=1780075971"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:07.504Z"
+  },
+  "https://response.jp/article/2026/06/03/412219.html": {
+    "title_zh": "帕金赛恩将在 LBM EXPO 2026 发布 GW 观光移动热力图 2026",
+    "summary_short": "帕金赛恩基于停车场搜索数据发布 GW 观光移动热力图，显示近郊游需求增加，搜索距离缩短 46%。",
+    "summary_long": "帕金赛恩公司宣布，将在 6 月 4 日至 5 日举办的 LBM EXPO 2026 上公开基于停车场搜索数据制作的“GW 观光移动热力图 2026”。数据显示，2026 年黄金周期间（4 月 24 日-5 月 11 日）的搜索次数较平时（4 月 3 日-4 月 20 日）增加 19.0%，但搜索地点与实际位置的平均距离从平时的 80 公里缩短至 43 公里，缩短约 46%。同一都道府县内的搜索比例从 78.3%升至 81.8%，而 50 公里以上和 100 公里以上的搜索比例均下降。公司分析认为，物价上涨、燃料价格担忧及海外旅行成本上升等因素推动了近郊休闲和本地旅游需求的增长。",
+    "highlights_zh": [
+      "GW 期间搜索次数较平时增加 19%",
+      "搜索平均距离缩短 46%至 43 公里",
+      "同一都道府县内搜索比例升至 81.8%",
+      "近郊游需求因物价和燃料成本上升而增加"
+    ],
+    "entities": [
+      "帕金赛恩",
+      "LBM EXPO 2026",
+      "GW 观光移动热力图 2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216033.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216033.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:08.088Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531623": {
+    "title_zh": "还是涡轮好？大发 Tanto 最佳配置选择：价格与装备的深度分析",
+    "summary_short": "大发 Tanto 选哪个配置？标准版 X 性价比高，涡轮版 X Turbo 适合高速和坡道，两者差价仅 11 万日元。",
+    "summary_long": "大发 Tanto 提供标准系、Custom、Fun Cross 等多种选择，且有无涡轮增压之分。对于日常通勤和接送孩子，标准版 X（2WD 售价 161.7 万日元）以均衡的价格、油耗（WLTC 22.7km/L）和装备成为首选。若经常载人、跑高速或坡道，X Turbo（2WD 售价 173.25 万日元）虽油耗略降至 21.2km/L，但涡轮带来的动力余量显著提升驾驶体验，11.55 万日元的差价物有所值。因此，标准系 Tanto 的最佳选择集中在 X 和 X Turbo 之间，取决于用车场景。",
+    "highlights_zh": [
+      "标准版 X 性价比最高",
+      "X Turbo 动力更足",
+      "两者差价仅 11.55 万日元",
+      "根据用车场景二选一即可"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Tanto"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01134519/181d23f42abccbf9d4f002bd5cad6eb5.jpg?v=1780289121",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01134519/181d23f42abccbf9d4f002bd5cad6eb5-600x400.jpg?v=1780289121",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29225644/00_nb_wagon3_head-600x400.jpg?v=1780063005"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:11.566Z"
+  },
+  "https://bestcarweb.jp/newcar/1539971": {
+    "title_zh": "日产全新 Murano 日本开售：约 40 万元，搭载 VC-Turbo 引擎，时隔 11 年回归",
+    "summary_short": "日产全新第四代 Murano 在日本开启预订，搭载 2.0L VC-Turbo 发动机，售价 796.4 万日元，仅左舵版本，年销目标 200 台。",
+    "summary_long": "日产全新第四代 Murano 于 2026 年 6 月 3 日在日本市场正式开启预订，这是该车型自 2015 年停售后时隔约 11 年重返日本。新车在美国田纳西州士麦那工厂生产，利用日本国土交通省 2026 年 2 月新设的美国产乘用车认证制度引入，成为继丰田 Tundra 和 Highlander 之后第三款受益车型。最大亮点是搭载日本市场首款 2.0L VC-Turbo 发动机（KR20DDET），该发动机可根据工况在 8:1 至 14:1 之间连续改变压缩比，兼顾燃油经济性与动力输出。新车仅提供左舵单等级配置，售价 796.4 万日元（含税），首年计划销售 200 台，后续将根据订单调整配额。",
+    "highlights_zh": [
+      "日产 Murano 时隔 11 年重返日本市场",
+      "日本首款搭载 VC-Turbo 发动机的车型",
+      "仅左舵版本",
+      "首年计划销售 200 台"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ムラーノ",
+      "VC-Turbo"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03181121/de260a45d45713686f373d9db7782e61.jpg?v=1780477882",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03181121/de260a45d45713686f373d9db7782e61-600x371.jpg?v=1780477882",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/17165409/ca9c50b245a3106d84317b9d4f9ec570-600x418.jpg?v=1779004451"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:12.130Z"
+  },
+  "https://www.motor1.com/news/797591/transport-company-corvette-complaint/": {
+    "title_zh": "车主雇运输公司运送新科尔维特，经销商发来视频揭露司机行为",
+    "summary_short": "车主雇运输公司运送新科尔维特，经销商发来视频显示司机冷启动时猛踩油门，引发车主愤怒。",
+    "summary_long": "一位车主购买了一辆全新的雪佛兰科尔维特，并雇佣了运输公司进行运送。然而，经销商发来的一段视频显示，运输司机在冷启动时猛踩油门，导致发动机转速极高。车主在 TikTok 上发布视频，警告他人避免使用该运输公司，并引发广泛关注。",
+    "highlights_zh": [
+      "车主雇运输公司运送新科尔维特",
+      "经销商发来视频显示司机猛踩油门",
+      "冷启动时高转速引发车主愤怒",
+      "车主警告避免使用该运输公司"
+    ],
+    "entities": [
+      "雪佛兰",
+      "科尔维特 | Corvette",
+      "H&T Transportation",
+      "Nexus Auto Transport"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9AnY/s1/man-hires-company-to-transport-his-new-corvette.-then-the-dealership-sends-him-a-shocking-video-of-what-the-driver-did-to-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:14.930Z"
+  },
+  "https://insideevs.com/news/797654/rivian-ev-charging-network-growth-milestone/": {
+    "title_zh": "Rivian 充电网络突破千个快充桩里程碑",
+    "summary_short": "Rivian 的 Adventure Network 快充桩数量突破 1000 个，覆盖美国 148 个站点，过去一个月新增 44 个。",
+    "summary_long": "Rivian 的直流快充网络 Rivian Adventure Network（RAN）本周达到重要里程碑：全美 148 个站点已部署超过 1000 个快充桩，较去年增长约 40%。所有充电桩均由可再生能源供电，并向所有品牌电动车开放，其中 97% 的站点支持非 Rivian 车辆。网络正逐步整合 NACS 接口，目前约 50 个站点配备 NACS 连接器，其中 6 个站点仅提供 NACS 充电口。",
+    "highlights_zh": [
+      "RAN 快充桩突破 1000 个",
+      "148 个站点覆盖全美",
+      "97% 站点向所有品牌开放",
+      "16% 的充电桩配备 NACS 接口"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian Adventure Network",
+      "R2",
+      "NACS",
+      "CCS1"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koEzmQ/s1/new-rivian-charger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:16.091Z"
+  },
+  "https://insideevs.com/news/797647/electrify-america-ev-charging-billing-change/": {
+    "title_zh": "Electrify America 取消预充值政策，简化充电支付流程",
+    "summary_short": "Electrify America 将取消账户预充值模式，改为按次直接扣费，简化充电支付流程。",
+    "summary_long": "美国最大电动车充电网络之一 Electrify America 将在未来几周内取消基于应用的账户余额和自动充值功能，改为按次直接扣费。此前用户需预先充值，余额不足时自动补足，但偶尔使用的用户需手动申请退款。新系统将在每次充电开始时对支付卡进行 20 美元的临时授权冻结，充电结束后未使用金额自动返还。",
+    "highlights_zh": [
+      "取消预充值",
+      "每次充电冻结 20 美元",
+      "简化偶尔用户的充电体验"
+    ],
+    "entities": [
+      "Electrify America"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/kol04R/s1/electrify-america-ev-chargers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-03T18:06:17.925Z"
   }
 }
