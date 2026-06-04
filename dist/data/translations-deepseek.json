@@ -23265,5 +23265,649 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-04T05:04:00.289Z"
+  },
+  "https://www.motor1.com/news/797821/ford-expand-mustang-family-four-door-sedan/": {
+    "title_zh": "福特计划扩展 Mustang 家族，四门轿车版或成现实",
+    "summary_short": "福特高管透露将扩展 Mustang 家族，暗示可能推出四门轿车版，以丰富产品线并控制成本。",
+    "summary_long": "福特高管 Andrew Frick 在接受采访时表示，公司希望“扩展 Mustang 家族”，暗示可能推出四门轿车版本。此前福特 CEO Jim Farley 也曾表示，只要保持性能与态度，Mustang 可以有不同的车身形式。传闻称福特已向经销商展示了名为 Mach-4 的 Mustang 四门轿车及一款越野变体。",
+    "highlights_zh": [
+      "福特高管确认将扩展 Mustang 家族",
+      "四门轿车版 Mustang 或成现实",
+      "CEO 曾表示可接受不同车身形式",
+      "传闻已出现 Mach-4 四门车型"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Mustang",
+      "Mach-4",
+      "四门轿车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/OoMjGB/s1/2026-ford-mustang-dark-horse-sc-track-pack-profile.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:44.855Z"
+  },
+  "https://insideevs.com/news/796291/self-driving-cars-the-story/": {
+    "title_zh": "自动驾驶汽车的故事比你想象的更早开始",
+    "summary_short": "早在 Waymo 和特斯拉之前，1995 年一辆梅赛德斯货车就已在德国高速公路上自动驾驶 1000 英里，开启了自动驾驶的先河。",
+    "summary_long": "自动驾驶汽车的历史远早于特斯拉和 Waymo。1995 年，一辆梅赛德斯货车在德国至丹麦的高速公路上自动驾驶了 1000 英里，时速可达高速公路标准。更早的 1987 年，Ernst Dickmanns 的 VaMoRs 研究车辆通过摄像头和车载计算机在未开放的高速公路上实现了自动驾驶，时速 60 英里，行驶超过 12 英里，计算能力甚至不如现在的智能手表。1977 年，日本筑波机械工程实验室制造了最早的视觉引导自动驾驶测试车。这些早期实验为今天的自动驾驶技术奠定了基础。",
+    "highlights_zh": [
+      "1995 年梅赛德斯货车在高速公路上自动驾驶 100…",
+      "1987 年 VaMoRs 车辆用摄像头和计算机实现…",
+      "1977 年日本筑波实验室制造了最早的视觉引导自动驾…",
+      "自动驾驶技术并非特斯拉独力开创"
+    ],
+    "entities": [
+      "Waymo",
+      "特斯拉 | Tesla",
+      "梅赛德斯 | Mercedes",
+      "VaMoRs",
+      "筑波机械工程实验室"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8Kglg/s1/early-self-driving.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:45.760Z"
+  },
+  "https://www.motor1.com/news/797728/what-to-know-before-buying-tesla/": {
+    "title_zh": "女子购买特斯拉后一小时惊人发现：'为什么没人告诉我？'",
+    "summary_short": "一位女子购买二手特斯拉后，发现车辆 VIN 转移延迟、充电自动扣前任账户等问题，感叹购车前无人告知。",
+    "summary_long": "一位女子购买了一辆 2026 款二手特斯拉，随后在社交媒体上分享了购车后遇到的意外问题。她发现车辆 VIN 无法立即转移到自己的特斯拉账户，导致充电时自动使用前任车主的账户扣费。此外，她对车辆的 Toybox 功能和空调系统也有不满。",
+    "highlights_zh": [
+      "VIN 转移延迟",
+      "充电自动扣前任车主账户",
+      "Toybox 功能和空调系统体验不佳"
+    ],
+    "entities": [
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJr14/s1/woman-buys-tesla.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:48.515Z"
+  },
+  "https://insideevs.com/news/797742/tesla-camera-cleaner-patent-eye/": {
+    "title_zh": "特斯拉想让摄像头像人眼一样“眨眼”",
+    "summary_short": "特斯拉新专利描述了一种类似人眼眨眼的摄像头清洁系统，通过球形雨刮器和流体喷射器清除镜头污物，并利用软件监测图像质量自动触发清洁。",
+    "summary_long": "特斯拉最新专利描述了一种类似人眼眨眼的摄像头清洁系统。该系统采用球形雨刮器贴合镜头曲面，配合流体喷射器清除污物，并通过软件监测图像质量，在检测到镜头脏污时自动触发“眨眼”清洁。目前这仅是一项专利，尚不确定是否会应用于特斯拉的乘用车或 Robotaxi 车队。特斯拉此前已在 Cybercab 上尝试了喷雾清洁系统，但现有方案在恶劣条件下效果不佳，部分车主转而使用第三方疏水涂层。",
+    "highlights_zh": [
+      "球形雨刮器贴合镜头曲面",
+      "软件监测图像自动触发清洁",
+      "类似人眼眨眼的清洁机制",
+      "现有方案效果不佳"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Cybercab",
+      "摄像头清洁系统",
+      "专利"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4zNn/s1/tesla-cybercab-camera-lens-cleaning-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:50.292Z"
+  },
+  "https://insideevs.com/news/797804/bentley-blower-jnr-hedley-momoa-edition/": {
+    "title_zh": "85%比例复古宾利 Blower Junior 电动版：独一无二的定制之作",
+    "summary_short": "Hedley Studios 为演员 Jason Momoa 定制了一款 85%比例的电动复古宾利，拥有 100 多个专属部件。",
+    "summary_long": "Hedley Studios 为美国演员 Jason Momoa 打造了一款独一无二的电动复古车——Bentley Blower Junior。该车基于 1929 年宾利 4½升机械增压赛车，以 85%比例复刻，搭载 20 马力电机和 48 伏电池，续航约 105 公里。Momoa 版本拥有超过 100 个定制部件，包括专属 Momoa Crimson 涂装、黄铜细节、Koa 木仪表盘和手工雕刻的黄铜骷髅换挡杆，前格栅“666”徽章致敬其祖父。",
+    "highlights_zh": [
+      "85%比例复刻 1929 年宾利赛车",
+      "20 马力电机",
+      "超过 100 个专属定制部件",
+      "手工雕刻黄铜骷髅换挡杆耗时 100 小时"
+    ],
+    "entities": [
+      "宾利 | Bentley",
+      "Hedley Studios",
+      "Bentley Blower Junior",
+      "Jason Momoa",
+      "Momoa Crimson"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3zgN/s1/hedley-studios-bentley-blower-jnr-momoa-edition.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:53.049Z"
+  },
+  "https://www.thedrive.com/news/automakers-are-starting-to-panic-over-ai-destroying-the-memory-supply-chain": {
+    "title_zh": "汽车制造商因 AI 挤占内存芯片供应而恐慌",
+    "summary_short": "AI 数据中心建设导致内存芯片短缺，汽车行业联合致信美国政府，警告供应链危机将推高消费者价格。",
+    "summary_long": "包括汽车创新联盟在内的多个行业贸易团体联合致信美国财政部和商务部，警告 AI 数据中心建设导致全球内存芯片短缺，已开始影响汽车行业，若不加干预，情况可能迅速恶化。政策制定者可采取一些措施，但增加国内制造产能需要数年时间。",
+    "highlights_zh": [
+      "AI 数据中心建设挤占内存芯片供应",
+      "汽车行业联合致信美国政府警告危机",
+      "芯片短缺已开始影响汽车价格",
+      "国内产能增加需数年才能实现"
+    ],
+    "entities": [
+      "汽车创新联盟",
+      "美国财政部",
+      "美国商务部",
+      "内存芯片",
+      "AI 数据中心"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/BMW-550e-51-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Turbo-Harbor-Freight-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:53.805Z"
+  },
+  "https://www.motor1.com/news/797747/may-auto-sales-results-winners-losers/": {
+    "title_zh": "5 月汽车销量赢家与输家",
+    "summary_short": "起亚创下 5 月销量纪录，混动车型增长强劲；福特销量下滑，但 Maverick 表现亮眼。",
+    "summary_long": "5 月汽车销量结果出炉，混动车型成为增长主要驱动力，汽油均价仍高于每加仑 4 美元。起亚以 80,502 辆创下 5 月销量纪录，同比增长 11%，其中 Sportage SUV 最为畅销，混动车型销量飙升 179%。福特销量延续下滑趋势，但经济型 Maverick 依然受欢迎。汽车行业面临关税等挑战，市场仍有变数。",
+    "highlights_zh": [
+      "起亚 5 月销量创纪录",
+      "混动车型销量同比暴增 179%",
+      "福特销量下滑"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "福特",
+      "Sportage",
+      "Maverick",
+      "混动车型"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9Pol/s1/kia-sales-may.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:57.443Z"
+  },
+  "https://insideevs.com/news/797757/alan-clarke-ford-skunkworks-affordable-ev-truck/": {
+    "title_zh": "电动皮卡在美国惨败，福特为何还要再试一次？",
+    "summary_short": "电动皮卡在美国市场遭遇惨败，但福特仍计划推出新款电动皮卡，强调首先是一款好车，电动化只是附加属性。",
+    "summary_long": "电动皮卡在美国市场表现惨淡，特斯拉 Cybertruck 销量不佳，福特 F-150 Lightning 因需求疲软停产，通用汽车工厂闲置。消费者不愿为昂贵且无法满足拖拽和长途需求的电动皮卡买单。福特 CEO Jim Farley 曾称大型电动皮卡和 SUV 的经济性“无法解决”。尽管如此，福特仍计划推出新款电动皮卡，其首要目标是成为一款好车，电动化只是锦上添花。",
+    "highlights_zh": [
+      "电动皮卡在美国遭遇史诗级失败",
+      "福特新款电动皮卡定位：首先是一款好车",
+      "消费者不愿为性能妥协的电动皮卡买单",
+      "福特 CEO 曾称大型电动皮卡经济性“无解”"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "特斯拉 | Tesla",
+      "F-150 Lightning",
+      "Cybertruck",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBX1x2/s1/ford-uev-platform-details.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:29:57.459Z"
+  },
+  "https://response.jp/article/2026/06/04/412282.html": {
+    "title_zh": "杜卡迪 Day 2026 将于 6 月 6 日在铃鹿举办，日本首发三款新车",
+    "summary_short": "杜卡迪日本将于 6 月 6 日在铃鹿举办品牌体验活动，日本首发 Monster、Panigale V4 R 和 Desmo450 MX Factory 三款新车。",
+    "summary_long": "杜卡迪日本将于 6 月 6 日在铃鹿赛道交通教育中心举办品牌体验活动“Ducati Day 2026”。今年正值杜卡迪成立 100 周年，活动将日本首发三款新车：新款 Monster、新款 Panigale V4 R 和 Desmo450 MX Factory。现场还将展示从 1950 年代 Cucciolo 到 Desmosedici RR 的历史名车，并设有试驾、技术讲解和嘉宾对谈等环节。",
+    "highlights_zh": [
+      "杜卡迪百年庆典活动",
+      "日本首发三款新车",
+      "历史名车时间线展览",
+      "嘉宾对谈与技术讲解"
+    ],
+    "entities": [
+      "杜卡迪 | Ducati",
+      "Monster",
+      "Panigale V4 R",
+      "Desmo450 MX Factory",
+      "铃鹿赛道"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216357.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216357.jpg",
+      "https://response.jp/imgs/fill2/2216353.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:01.625Z"
+  },
+  "https://bestcarweb.jp/news/1540807": {
+    "title_zh": "光岡汽车 11 月发布全新轿跑，首张预告图曝光",
+    "summary_short": "光岡汽车发布全新轿跑预告图，采用经典长鼻短尾造型，计划 11 月正式发布，7 月起每月释放新信息。",
+    "summary_long": "光岡汽车于 2026 年 6 月 4 日发布了计划在 11 月正式亮相的全新车型的首张预告图。虽然具体规格和车名尚未公布，但官方表示这将是一款充满“光岡风格”的车型。预告图以黑色背景衬托红白线条勾勒的侧面轮廓，呈现出长鼻短尾的经典跑车比例，流畅的线条和突出的轮拱营造出低重心、动感的视觉效果。光岡汽车计划从 7 月到 9 月分四次逐步公开更多预告信息。",
+    "highlights_zh": [
+      "光岡汽车发布全新轿跑预告图",
+      "经典长鼻短尾跑车比例",
+      "11 月正式发布"
+    ],
+    "entities": [
+      "光岡汽车",
+      "轿跑"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04150358/260604_teaser_1.jpg?v=1780553040",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04150358/260604_teaser_1-600x400.jpg?v=1780553040",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30024439/d5709971b4c5f786ae7fd595c679b7bb-600x339.jpg?v=1780076680"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:02.758Z"
+  },
+  "https://response.jp/article/2026/06/04/412269.html": {
+    "title_zh": "AI 停车场系统“DENNOU PARK”推出含拆除服务的新计划",
+    "summary_short": "DataHax 推出含拆除服务的 AI 停车场系统，先垫付空置房拆除费并支持后续停车场运营。",
+    "summary_long": "DataHax 于 6 月 4 日推出“DENNOU PARK 解体付きプラン”，该计划针对继承空置房问题，由公司先行垫付拆除费用，并统一支持后续的停车场运营。日本国土交通省调查显示，空置房所有者不愿拆除的主要原因是费用负担。",
+    "highlights_zh": [
+      "先垫付空置房拆除费",
+      "统一支持停车场运营",
+      "解决空置房收益化难题"
+    ],
+    "entities": [
+      "DENNOU PARK",
+      "DataHax",
+      "AI 停车场系统",
+      "空置房",
+      "拆除服务"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216265.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216265.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:04.948Z"
+  },
+  "https://response.jp/article/2026/06/04/412262.html": {
+    "title_zh": "ENNOVI 在 2026 年欧洲电池展展示电池单元接触系统",
+    "summary_short": "ENNOVI 在 2026 年欧洲电池展上展示最新电池单元接触系统技术，覆盖电动汽车、二轮车、储能系统及机器人平台。",
+    "summary_long": "ENNOVI 在 2026 年欧洲电池展上展示了其电池单元接触系统（CCS）的最新技术。该技术采用集成化方法，支持电动化应用中的主要电池单元形式。展位提供了针对电动汽车、二轮车、储能系统及机器人平台的 CCS 解决方案现场演示。ENNOVI 与 AKM Medvill 持续合作，利用其柔性印刷电路板制造能力，增强在欧洲 CCS 客户中的技术优势和成本竞争力，共同提升下一代电池系统的集成度、紧凑设计和电气性能。",
+    "highlights_zh": [
+      "展示最新 CCS 技术",
+      "覆盖 EV、二轮车、ESS 及机器人",
+      "与 AKM Medvill 合作强化竞争力",
+      "提升集成度与电气性能"
+    ],
+    "entities": [
+      "ENNOVI",
+      "AKM Medvill",
+      "电池单元接触系统",
+      "欧洲电池展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216210.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216210.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:07.291Z"
+  },
+  "https://bestcarweb.jp/feature/column/1528087": {
+    "title_zh": "本田 EV 计划中止引发评论家辛辣评价",
+    "summary_short": "本田宣布中止三款 BEV 开发，七位汽车评论家批评其决策迟缓，未能跟上市场变化。",
+    "summary_long": "2026 年 3 月，本田宣布调整四轮电动化战略，中止即将发售的 Zero 系列等三款 BEV 的开发与上市。七位汽车评论家对此进行毫不留情的评价，认为本田决策迟缓，未能及时应对市场变化。自 2015 年巴黎协定以来，BEV 泡沫在 2010 年代末至 2020 年代初达到顶峰，而本田在 2022-2023 年环境投资泡沫消退时才开始焦虑，导致战略被动。",
+    "highlights_zh": [
+      "本田中止三款 BEV 开发",
+      "七位评论家批评决策迟缓",
+      "未能跟上市场变化",
+      "BEV 泡沫消退后才开始焦虑"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Zero 系列 | Zero Series",
+      "BEV",
+      "巴黎协定"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/22160852/00_honda7_c250108a_002H.jpg?v=1779433733",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/22160852/00_honda7_c250108a_002H-600x400.jpg?v=1779433733",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30175413/00_nb_K-BEV_head-600x400.jpg?v=1780131254"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:10.156Z"
+  },
+  "https://response.jp/article/2026/06/04/412268.html": {
+    "title_zh": "JVC 建伍宣布 2026 年度起开展为期三年的周年纪念活动",
+    "summary_short": "JVC 建伍宣布 2026 至 2028 年度开展“JVCKENWOOD Anniversary”活动，主题为“技术传承”，旨在连接历史 DNA 与未来。",
+    "summary_long": "JVC 建伍于 6 月 4 日宣布，将在 2026 至 2028 年度实施为期三年的“JVCKENWOOD Anniversary”纪念活动。活动主题为“技术传承”，旨在将长期历史中孕育的 DNA 传承至未来。该公司将于 2028 年 10 月迎来经营整合后成立 20 周年，同时前身建伍于 2026 年创业 80 周年，日本胜利公司于 2027 年创业 100 周年，胜利娱乐也将迎来创业 100 周年。",
+    "highlights_zh": [
+      "活动覆盖 2026 至 2028 三个年度",
+      "主题为“技术传承”",
+      "2028 年迎来经营整合 20 周年",
+      "前身公司分别迎来 80 周年和 100 周年"
+    ],
+    "entities": [
+      "JVC 建伍",
+      "建伍",
+      "日本胜利 | JVC",
+      "胜利娱乐"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216263.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216263.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:12.393Z"
+  },
+  "https://bestcarweb.jp/news/1535195": {
+    "title_zh": "RX-7 & RX-8 历代车型化身徽章！转子 60 周年纪念周边必收藏",
+    "summary_short": "马自达转子发动机 60 周年纪念，推出历代 RX-7 和 RX-8 官方徽章，4 款车型精巧再现，售价 1800 日元。",
+    "summary_long": "为纪念马自达转子发动机诞生 60 周年，品牌「BUTTON&CUFFLINKS」推出历代 RX-7 与 RX-8 官方徽章，共 4 款：初代 SA22C、二代 FC3S、三代 FD3S 及 RX-8。徽章高度还原各代车型的独特轮廓与细节，配色参考实车，如 FD 采用酒红色。每枚徽章配有火柴盒大小专用包装，兼具收藏与展示价值，售价 1800 日元（含税）。",
+    "highlights_zh": [
+      "4 款转子传奇车型徽章",
+      "高度还原各代细节",
+      "配色参考实车涂装",
+      "售价 1800 日元含包装"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "RX-7",
+      "RX-8",
+      "转子发动机",
+      "BUTTON&CUFFLINKS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30024439/d5709971b4c5f786ae7fd595c679b7bb.jpg?v=1780076680",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30024439/d5709971b4c5f786ae7fd595c679b7bb-600x339.jpg?v=1780076680",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30023909/a83c82c82094a6ea9e806e1b17493240-600x600.jpg?v=1780076350"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:15.690Z"
+  },
+  "https://response.jp/article/2026/06/04/412272.html": {
+    "title_zh": "Apti Global 启动水稻种植，为印尼技能实习生提供日本新米",
+    "summary_short": "Apti Global 为汽车行业印尼技能人才启动水稻种植，收获后将寄给在日工作的实习生。",
+    "summary_long": "Apti Global 于 6 月 4 日宣布，作为向汽车行业介绍印尼特定技能人才项目的一部分，已启动水稻种植。5 月已完成插秧，收获后将通过公司寄给在日本工作的印尼技能实习生。此举旨在让活跃在日本的印尼人才品尝日本新米，因为印尼虽以大米为主食，但几乎没有像日本那样将新米作为季节美味享受的概念。",
+    "highlights_zh": [
+      "Apti Global 启动水稻种植项目",
+      "5 月完成插秧",
+      "旨在让印尼人才体验日本新米文化"
+    ],
+    "entities": [
+      "Apti Global",
+      "印尼",
+      "日本新米",
+      "特定技能人才"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216276.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216276.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:16.655Z"
+  },
+  "https://response.jp/article/2026/06/04/412275.html": {
+    "title_zh": "露营车制造商 Nuts 将于 7 月 3 日开设仙台店，系东北首家正规经销商",
+    "summary_short": "露营车制造商 Nuts 宣布 7 月 3 日开设仙台店，为东北地区首家正规经销商，与 Marumi Rent-a-Lease 合作运营。",
+    "summary_long": "露营车制造商 Nuts 于 6 月 4 日宣布，将于 2026 年 7 月 3 日在宫城县富谷市开设东北地区首家正规经销商“Nuts 仙台”。该店由 Nuts 与 Marumi Rent-a-Lease 合作运营，旨在满足东北地区日益增长的户外和车中泊需求，强化销售、维护和售后支持体系。",
+    "highlights_zh": [
+      "7 月 3 日开业",
+      "与 Marumi Rent-a-Lease 合作运营",
+      "强化销售、维护和售后支持",
+      "选址宫城县富谷市"
+    ],
+    "entities": [
+      "ナッツ",
+      "マルミレンタリース",
+      "仙台店",
+      "露营车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216281.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216281.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:19.634Z"
+  },
+  "https://response.jp/article/2026/06/04/412270.html": {
+    "title_zh": "斯巴鲁 Levorg Layback 改良版：SI-DRIVE 控制变更与安全装备强化",
+    "summary_short": "斯巴鲁 Levorg Layback 改良版发布，SI-DRIVE 全模式加速响应提升，S 模式新增控制逻辑，标配智能后视镜，售价 405.9 万日元起。",
+    "summary_long": "斯巴鲁于 6 月 4 日发布了 Levorg Layback 的改良版，售价从 405.9 万日元起。该车融合了旅行车的运动性与 SUV 的通过性及质感。此次改良重点在于提升驾驶性能：SI-DRIVE 所有模式均优化了加速响应，其中 S 模式引入了可根据油门操作瞬时改变特性的新控制逻辑。安全方面，标配智能后视镜以改善夜间或行李满载时的后方视野。此外，互联服务 MySubaru Connect 新增了危险警示灯闪烁功能，便于在停车场等场所确认车辆位置。",
+    "highlights_zh": [
+      "SI-DRIVE 全模式加速响应提升",
+      "S 模式新增动态控制逻辑",
+      "标配智能后视镜",
+      "MySubaru Connect 新增危险灯闪烁功能"
+    ],
+    "entities": [
+      "斯巴鲁 | SUBARU",
+      "レヴォーグ レイバック",
+      "SI-DRIVE",
+      "MySubaru Connect"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216198.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216198.jpg",
+      "https://response.jp/imgs/fill2/2216199.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:21.673Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531558": {
+    "title_zh": "大发 Move 高级版“Noble Chic Style”适合谁？不过分张扬的豪华感",
+    "summary_short": "大发 Move 推出 Noble Chic Style，以铜色装饰和棕色内饰营造低调高级感，适合追求品质又不喜张扬的用户。",
+    "summary_long": "大发 Move 除了运动风格的 Dandy Sport Style 外，还提供另一款高级定制版 Noble Chic Style。该版本通过铜色装饰件和棕色内饰营造出低调而精致的高级感，避免过度张扬。适用于 RS 和 G 等级，可选装织物与软皮革座椅、铜色杯架等。外观则通过前后保险杠饰条等细节提升质感。这款车特别适合那些想要轻自动车升级但又不喜欢过于运动或夸张风格的用户。",
+    "highlights_zh": [
+      "铜色装饰与棕色内饰营造低调高级感",
+      "适用于 RS 和 G 等级",
+      "可选装织物/软皮革座椅及铜色杯架",
+      "外观通过保险杠饰条提升质感"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "ムーヴ",
+      "ノーブルシックスタイル",
+      "ダンディスポーツスタイル"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29142706/MOVE0086_1.jpg?v=1780032427",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29142706/MOVE0086_1-600x400.jpg?v=1780032427",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30175413/00_nb_K-BEV_head-600x400.jpg?v=1780131254"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:25.514Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531966": {
+    "title_zh": "大发 Taft 设计至今仍显新鲜？方正车身与玻璃车顶的独特魅力",
+    "summary_short": "大发 Taft 以方正车身、玻璃车顶和独特背包风格设计，在轻自动车中独树一帜，兼顾实用与乐趣。",
+    "summary_long": "2020 年推出的大发 Taft，其方正 SUV 风格车身、前座上方玻璃车顶以及以驾驶者为中心的包装，营造出不同于其他轻自动车的独特世界。它既非高顶旅行车，也非圆润可爱车型，而是直线条、厚保险杠的“工具感”设计，带来新鲜感。官方将包装称为“背包风格”，前座为愉悦驾驶空间，后座为灵活储物区域，强调使用乐趣而非全员宽敞。价格方面，G 版起价 160.6 万日元，G Turbo 版 168.85 万日元，油耗约 21.4km/L（WLTC），平衡了玩乐与日常实用性。",
+    "highlights_zh": [
+      "方正车身与玻璃车顶营造独特工具感",
+      "前座玻璃车顶提升开放感",
+      "背包风格设计：前座为主",
+      "兼顾玩乐与日常实用性"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Taft",
+      "轻自动车",
+      "背包风格",
+      "玻璃车顶"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01145221/AD4I0179_1.jpg?v=1780293142",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01145221/AD4I0179_1-600x400.jpg?v=1780293142",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30175413/00_nb_K-BEV_head-600x400.jpg?v=1780131254"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:27.156Z"
+  },
+  "https://bestcarweb.jp/news/1535193": {
+    "title_zh": "本田 Monkey 125 积木模型限量发售",
+    "summary_short": "本田 Monkey 125 推出官方授权积木模型，527 块零件还原经典造型，限量发售。",
+    "summary_long": "本田 Monkey 125 推出官方授权积木模型，由 CAMSHOP.JP 品牌运营方株式会社 FACE 制造，限量发售。该模型由 527 块零件组成，精准还原了 Monkey 125 的圆形油箱、直立骑行姿态和小径轮胎等标志性特征，发动机和悬挂细节也精心呈现。成品长约 224.5mm，高约 167.5mm，适合桌面或车库展示。",
+    "highlights_zh": [
+      "本田官方授权",
+      "527 块零件",
+      "还原经典造型",
+      "限量发售"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Monkey 125",
+      "CAMSHOP.JP",
+      "积木模型"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30023909/a83c82c82094a6ea9e806e1b17493240.jpg?v=1780076350",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30023909/a83c82c82094a6ea9e806e1b17493240-600x600.jpg?v=1780076350",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30024439/d5709971b4c5f786ae7fd595c679b7bb-600x339.jpg?v=1780076680"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:29.490Z"
+  },
+  "https://bestcarweb.jp/feature/column/1540749": {
+    "title_zh": "斯巴鲁 Levorg 1.8L 涡轮增压版改款为 F 型，WLTC 油耗提升至 13.8km/L",
+    "summary_short": "斯巴鲁 Levorg 1.8L 涡轮增压版改款为 F 型，WLTC 油耗提升至 13.8km/L，加速响应优化，新增互联功能。",
+    "summary_long": "斯巴鲁对 Levorg 进行了部分改进，推出 F 型。改进重点包括：通过优化 SI-DRIVE 系统，在所有模式下提升加速响应，尤其在 S 模式下根据油门操作动态调整特性，实现更线性的加速感。同时，互联服务“MySubaru Connect”新增危险警示灯闪烁功能，便于在停车场等场景定位车辆。内饰方面，除 STI Sport EX 外，其他车型采用黑色缝线；STI Sport EX 则将地板控制台盖板改为黑色，营造更运动的内饰氛围。",
+    "highlights_zh": [
+      "WLTC 油耗从 13.8km/L 提升",
+      "SI-DRIVE 全模式加速响应优化",
+      "新增危险警示灯闪烁互联功能",
+      "内饰采用黑色缝线及黑色控制台盖板"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "レヴォーグ",
+      "SI-DRIVE",
+      "MySubaru Connect"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04134818/img_design_gallery11_1.jpg?v=1780548499",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04134818/img_design_gallery11_1-600x400.jpg?v=1780548499",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30175413/00_nb_K-BEV_head-600x400.jpg?v=1780131254"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:32.814Z"
+  },
+  "https://www.thedrive.com/news/nico-rosberg-tells-us-what-kimi-antonelli-must-do-to-win-f1-title-delete-instagram-dont-read-the-news": {
+    "title_zh": "罗斯伯格给安东内利的冠军建议：删掉 Instagram，别看新闻",
+    "summary_short": "前 F1 冠军罗斯伯格建议 19 岁新星安东内利专注比赛，删除社交媒体，避免外界干扰，才能成为最年轻世界冠军。",
+    "summary_long": "2016 年 F1 世界冠军尼科·罗斯伯格认为，梅赛德斯天才车手基米·安东内利完全有可能成为 F1 历史上最年轻的冠军。但这位 19 岁的意大利车手需要做好心理准备，以应对比赛中可能出现的意外。罗斯伯格建议安东内利关闭所有外界干扰，包括删除 Instagram、不看新闻，只专注于下一场比赛，而不是总想着总冠军。",
+    "highlights_zh": [
+      "罗斯伯格：安东内利可能成为最年轻 F1 冠军",
+      "建议删除 Instagram",
+      "专注下一场比赛",
+      "19 岁意大利车手需应对意外和压力"
+    ],
+    "entities": [
+      "尼科·罗斯伯格 | Nico Rosberg",
+      "基米·安东内利 | Kimi Antonelli",
+      "梅赛德斯 | Mercedes",
+      "F1 世界冠军"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/GettyImages-626316694.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/GettyImages-2278042279.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/GettyImages-2277524086.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:34.081Z"
+  },
+  "https://www.motor1.com/news/797740/government-car-kill-switch/": {
+    "title_zh": "机械师称 2027 年起新车将配备“熄火开关”，政府可远程关闭车辆",
+    "summary_short": "机械师称 2027 年起新车将配备“熄火开关”，政府可远程关闭酒驾车辆，引发争议。",
+    "summary_long": "一位机械师在视频中声称，根据 2021 年通过的《基础设施投资与就业法案》，从 2027 年起新车将强制安装“先进酒驾预防技术”，即所谓的“熄火开关”，允许政府在检测到驾驶员受损时远程关闭车辆。该视频引发热议，但法案原文旨在开发被动监测系统，并非直接赋予政府远程控制权限。",
+    "highlights_zh": [
+      "机械师称 2027 年新车将强制安装“熄火开关”",
+      "政府可远程关闭酒驾车辆",
+      "依据 2021 年《基础设施投资与就业法案》",
+      "视频引发 200 万次观看和广泛争议"
+    ],
+    "entities": [
+      "基础设施投资与就业法案",
+      "熄火开关 | kill switch",
+      "酒驾预防技术",
+      "Royalty Auto Service"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYrgz/s1/mechanic-says-new-kill-switch-will-allow-government-access-to-your-car-starting-in-2027.-he-s-not-wrong.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:37.543Z"
+  },
+  "https://insideevs.com/news/797786/polestar-2-return-canada/": {
+    "title_zh": "极星 2 重返北美市场",
+    "summary_short": "极星 2 因加拿大调整关税政策重返北美，目前仅限加拿大销售，起售价约 5.33 万美元。",
+    "summary_long": "极星 2 在因中国产电动车 100%附加税停售两年后，重返加拿大市场。加拿大将关税改为每年 4.9 万辆配额，使极星 2 得以重新上市。目前仅提供长续航双电机版，起售价 72,200 加元（约 5.33 万美元），续航 477 公里，预计 9 月交付。美国市场尚无回归消息。",
+    "highlights_zh": [
+      "极星 2 重返加拿大",
+      "仅售长续航双电机版",
+      "加拿大调整关税",
+      "美国市场回归时间未定"
+    ],
+    "entities": [
+      "极星 2 | Polestar 2",
+      "极星 | Polestar",
+      "加拿大",
+      "关税",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ko4noB/s1/polestar-2-grille.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/polestar-2-canada-return.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:38.582Z"
+  },
+  "https://www.motor1.com/news/797777/vw-thinks-gas-cars-obsolete-like-horses/": {
+    "title_zh": "大众：燃油车终将像马匹一样被淘汰",
+    "summary_short": "大众汽车认为，随着消费者认识到电动汽车的优越性，燃油车将像马匹一样自然被取代，无需强制禁令。",
+    "summary_long": "大众汽车预计，越来越多的消费者将接受电动汽车，燃油车会像马匹被汽车取代一样逐渐被淘汰。尽管 2026 年前四个月欧洲电动车销量占比已达 20.9%，但全面转型仍需时日。大众销售负责人马丁·桑德表示，讨论燃油车禁令是舍本逐末，重点应放在电动车整体更优上。他类比汽车取代马匹的历史，认为一旦人们认识到电动车的优势，自然就会转向，无论是否有禁令。",
+    "highlights_zh": [
+      "欧洲电动车销量占比已超 20%",
+      "大众认为禁令讨论偏离重点",
+      "电动车整体更优是核心卖点",
+      "历史类比：汽车取代马匹"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "马丁·桑德",
+      "电动车 | EV",
+      "燃油车",
+      "欧洲汽车制造商协会"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8bN6/s1/2026-volkswagen-id.-polo-gti.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:42.347Z"
+  },
+  "https://insideevs.com/news/797776/2028-volvo-xc60-t8-phev-range-increase-report/": {
+    "title_zh": "沃尔沃 XC60 插电混动版续航将大幅提升",
+    "summary_short": "2028 款沃尔沃 XC60 T8 插电混动版纯电续航预计从 35 英里提升至近 100 英里，续航翻倍甚至三倍。",
+    "summary_long": "沃尔沃 XC60 T8 插电混动版当前纯电续航为 35 英里（EPA 标准）。据知情人士透露，2028 款车型将配备更大容量、更高能量密度的电池组，纯电续航有望接近 100 英里，MPGe 评级提升约 30%。该车计划于 2027 年上半年亮相，与下一代 XC90 增程混动系统性能一致。",
+    "highlights_zh": [
+      "纯电续航从 35 英里提升至近 100 英里",
+      "续航翻倍甚至三倍",
+      "MPGe 评级提升约 30%",
+      "2027 年上半年亮相"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "XC60",
+      "T8",
+      "插电混动"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Rq20X3/s1/2026-volvo-xc60.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:42.811Z"
+  },
+  "https://www.motor1.com/news/797768/ferrari-luce-spotted-massive-wipers/": {
+    "title_zh": "法拉利 Luce 的巨大雨刷引发关注",
+    "summary_short": "法拉利 Luce 原型车测试中，巨大垂直雨刷设计为空气动力学优化，引发热议。",
+    "summary_long": "法拉利在 Luce 正式发布后仍对原型车进行伪装测试，近日被拍到在意大利街头。该车巨大垂直雨刷设计引发关注，法拉利表示这是为了空气动力学效率，经过 6000 次 CFD 模拟和 250 小时风洞测试优化。",
+    "highlights_zh": [
+      "巨大垂直雨刷设计",
+      "为空气动力学优化",
+      "6000 次 CFD 模拟",
+      "250 小时风洞测试"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPJYj/s1/ferrari-luce-spy-photo.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-04T16:30:46.460Z"
   }
 }
