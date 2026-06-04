@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-03T18:05:08.222Z",
+    "generated_at": "2026-06-04T05:03:12.861Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 363,
-    "deepseek_untranslated_before_run": 37,
-    "newly_fetched_articles": 37,
-    "newly_fetched_untranslated": 37,
+    "deepseek_translated_before_run": 374,
+    "deepseek_untranslated_before_run": 26,
+    "newly_fetched_articles": 26,
+    "newly_fetched_untranslated": 26,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 37,
+    "translation_queue_count": 26,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.6.3",
-        "title": "Kia's Cheapest Crossover Just Got A Lot More Expensive",
-        "url": "https://www.motor1.com/news/797714/2027-kia-seltos-trims-pricing-cost/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.3",
-        "title": "Mitsubishi Will Build Trucks Again Thanks To Nissan",
-        "url": "https://www.motor1.com/news/797598/mitsubishi-mid-size-pickup-truck/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.3",
-        "title": "The Ferrari Luce Isn’t Ugly. It’s Just That the Future Sucks",
-        "url": "https://www.thedrive.com/news/the-ferrari-luce-isnt-ugly-its-just-that-the-future-sucks"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.3",
-        "title": "A New Alfa Romeo SUV Is Coming Soon. Here's Everything We Know",
-        "url": "https://www.motor1.com/features/797701/new-alfa-romeo-suv-price-spec-details/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.3",
-        "title": "The Ford Super Duty Has Way Too Many Badges",
-        "url": "https://www.thedrive.com/news/the-ford-super-duty-has-way-too-many-badges"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.3",
-        "title": "Ferrari Re-Signs Charles Leclerc, But Will They Ever Deliver a Title?",
-        "url": "https://www.thedrive.com/news/ferrari-re-signs-charles-leclerc-but-will-they-ever-deliver-a-title"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.3",
-        "title": "'I Dropped The Price': Florida Locksmith Quotes Woman $70 To Open Car. Then Realizes There's A Shocking Service Fee",
-        "url": "https://www.motor1.com/news/797366/locksmith-bait-and-switch/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.3",
-        "title": "Toyota Built Its Reputation on Reliability. The Tundra Is Threatening to Undo It",
-        "url": "https://www.thedrive.com/news/toyota-built-its-reputation-on-reliability-the-tundra-is-threatening-to-undo-it"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.3",
-        "title": "A Record Number Of Americans Are Taking Out 6-Year Car Loans",
-        "url": "https://www.motor1.com/news/797607/record-car-loan-term-lengths/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.3",
-        "title": "Range Rover SE Plug-In Hybrid Review: Extraordinarily Capable, Just Shy About It",
-        "url": "https://www.thedrive.com/car-reviews/range-rover-se-plug-in-hybrid-review-extraordinarily-capable-just-shy-about-it"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.3",
-        "title": "It's Still Way More Expensive To Insure An EV. But That's Changing",
-        "url": "https://insideevs.com/news/797585/ev-ownership-insurance-price-expensive/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.3",
-        "title": "Dodge Just Jacked Up the Charger EV’s Price by Five Figures: TDS",
-        "url": "https://www.thedrive.com/news/dodge-just-jacked-up-the-charger-evs-price-by-five-figures-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.3",
-        "title": "'Speed, Not Sport:' BMW Has A Vision For Alpina—We Sat Down With Executives",
-        "url": "https://www.motor1.com/news/797586/bmw-alpina-interview/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.3",
-        "title": "The Mercedes CLA EV Just Smashed Its EPA Range Rating In A Real-World Test",
-        "url": "https://insideevs.com/news/797694/mercedes-cla-350-ev-beats-epa-estimated-range/"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.6.3",
-        "title": "「カッコ良いじゃん」トヨタの新型『ハイラックス』発売にSNS注目！「新色いいな」「デカい割に安い」の声も",
-        "url": "https://response.jp/article/2026/06/03/412224.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.3",
-        "title": "「タイムアライメント」もキマれば、低音も前から聴こえてくる！［イン・カー・リスニング学…チューニング編］",
-        "url": "https://response.jp/article/2026/06/03/412216.html"
+        "time": "2026.6.4",
+        "title": "「ツイーター」は、“カスタム”すると音が良くなる!?［スピーカー交換丸わかり］",
+        "url": "https://response.jp/article/2026/06/04/412245.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.3",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「DPF」",
-        "url": "https://bestcarweb.jp/feature/column/1530438"
+        "time": "2026.6.4",
+        "title": "【バス運転士日誌】挨拶されてびっくり！ 参加者が入社しただと!? フジエクの見学会取材レポート",
+        "url": "https://bestcarweb.jp/busmagazine/1506600"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.4",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第776回",
+        "url": "https://bestcarweb.jp/feature/column/1525503"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.3",
-        "title": "4座のトヨタ『アルファード』「Spacious Lounge」一部改良、静粛性と快適性を向上…1276万9900円から",
-        "url": "https://response.jp/article/2026/06/03/412223.html"
+        "time": "2026.6.4",
+        "title": "8/19申込締切 人とクルマの距離と未来：フィジカルAIによる新しいUX・モビリティ",
+        "url": "https://response.jp/article/2026/06/04/412234.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.3",
-        "title": "KENWOODの通信型アルコール検知器「CAX-AD150」、運転前アルコールチェッククラウド「あさレポ」と連携",
-        "url": "https://response.jp/article/2026/06/03/412217.html"
+        "time": "2026.6.4",
+        "title": "BMW i7の「NVH/ロードノイズ伝達経路解析」をレポート、小野測器が発売",
+        "url": "https://response.jp/article/2026/06/04/412255.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.3",
-        "title": "RGBカメラで3D再構成、自動運転のシミュレーション環境構築に…モルフォ「Morpho Photogrammetry Toolkit」",
-        "url": "https://response.jp/article/2026/06/03/412213.html"
+        "time": "2026.6.4",
+        "title": "ウーバージャパンのモビリティ事業が10倍成長…5年で3100億円投資へ、ロボタクシーも展開",
+        "url": "https://response.jp/article/2026/06/04/412239.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.4",
+        "title": "グーグル「ウェイモ」、新型自動運転車「オーハイ」の一般向けサービス開始へ",
+        "url": "https://response.jp/article/2026/06/04/412236.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.4",
+        "title": "クルマを斜めに停め続けると危険!? タイヤやエンジンは本当に傷むのか？",
+        "url": "https://bestcarweb.jp/feature/column/1537188"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.4",
+        "title": "コスモ石油アプリに新機能、「アプリ給油設定」リリース…給油操作を大幅簡略化",
+        "url": "https://response.jp/article/2026/06/04/412251.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.4",
+        "title": "シビックe:HEVにRSを設定!! プレリュード譲りの新兵器搭載で走りの本能が目覚める",
+        "url": "https://bestcarweb.jp/newcar/1540425"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.4",
+        "title": "スバル『BRZ』後継はトヨタ『セリカ』兄弟車に!? フル電動の可能性も",
+        "url": "https://response.jp/article/2026/06/04/412247.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.4",
+        "title": "スバル『レヴォーグ』一部改良、SI-DRIVEの全モードで加速レスポンス向上…363万円から",
+        "url": "https://response.jp/article/2026/06/04/412257.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.4",
+        "title": "ダイハツ「ハイゼット カーゴ」「アトレー」一部改良、安全性を強化…115万5000円から",
+        "url": "https://response.jp/article/2026/06/04/412253.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.4",
+        "title": "デリカD:5の中古価格はなぜ強い？ 大幅改良後に旧型の相場はどう動くのか",
+        "url": "https://bestcarweb.jp/feature/column/1530564"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.4",
+        "title": "トヨタ『GR86』、スロットル＆シフト改良と新色「サンダー」追加…2027年モデル米国発表",
+        "url": "https://response.jp/article/2026/06/04/412231.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.4",
+        "title": "トヨタ『クラウン』からの給電でDJブース運営、「MAJ NIGHT PULSE DRIVE」を渋谷で開催…6月8‐13日",
+        "url": "https://response.jp/article/2026/06/04/412252.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.4",
+        "title": "価格差55万円って書いてあるけど違うの!? 新型CX-5の最上級グレードが「実質差額32.2万円」でお買い得すぎる!!",
+        "url": "https://bestcarweb.jp/newcar/1537850"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.4",
+        "title": "価格差はそんなにない!? 実はまだまだ人気な軽の王者N-BOXのお買い得グレードは「やっぱりターボ」だった!!",
+        "url": "https://bestcarweb.jp/feature/column/1534130"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.4",
+        "title": "元ホンダ社員が赤裸々告白!! 「庶民のためのクルマ作り」はどこへ!? 本田宗一郎氏が目指したホンダとの決定的な違い！",
+        "url": "https://bestcarweb.jp/feature/column/1528381"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.4",
+        "title": "2027 Ford Bronco Filson: A Raptor-Engined Off-Roader for Preppy Outdoorsmen",
+        "url": "https://www.thedrive.com/news/2027-ford-bronco-filson-a-raptor-engined-off-roader-for-preppy-outdoorsmen"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 37,
-    "queued_articles": 37,
-    "processed": 37,
-    "started_at": "2026-06-03T18:05:08.549Z",
-    "finished_at": "2026-06-03T18:06:17.930Z",
+    "scoped_articles": 26,
+    "queued_articles": 26,
+    "processed": 26,
+    "started_at": "2026-06-04T05:03:13.162Z",
+    "finished_at": "2026-06-04T05:04:00.295Z",
     "success": true,
     "error": ""
   }
