@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-05T04:45:17.628Z",
+    "generated_at": "2026-06-05T16:09:47.807Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 369,
-    "deepseek_untranslated_before_run": 31,
-    "newly_fetched_articles": 31,
-    "newly_fetched_untranslated": 31,
+    "deepseek_translated_before_run": 368,
+    "deepseek_untranslated_before_run": 32,
+    "newly_fetched_articles": 32,
+    "newly_fetched_untranslated": 32,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 31,
+    "translation_queue_count": 32,
     "translation_queue_preview": [
       {
+        "source": "Motor1",
+        "time": "2026.6.5",
+        "title": "Here's How We'd Spec The Perfect Corvette Grand Sport",
+        "url": "https://www.motor1.com/news/797931/corvette-grand-sport-configurator/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.5",
+        "title": "Man Buys Mercedes. Then Something Unexpected Pops Up On The Screen: 'They Are Sending Ads To The Car Now'",
+        "url": "https://www.motor1.com/news/797846/mercedes-screen-plays-ads/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.5",
+        "title": "This Audi Moves Like a Deranged Zombie Because It’s Powered by Compressed Air",
+        "url": "https://www.thedrive.com/news/this-audi-moves-like-a-deranged-zombie-because-its-powered-by-compressed-air"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.5",
+        "title": "Slate Could Have A Powerful New Friend In Carvana",
+        "url": "https://insideevs.com/news/797854/slate-carvana-investment-potential-amazon/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.5",
+        "title": "2026 Lexus RX500h Pros and Cons Review: For Best Results, Skip the F Sport",
+        "url": "https://www.thedrive.com/car-reviews/2026-lexus-rx500h-pros-and-cons-review"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.5",
+        "title": "These 97 Car Dealers Were Warned About 'Deceptive' Pricing By The FTC",
+        "url": "https://www.motor1.com/news/797853/deceptive-pricing-dealers-ftc-letters-list/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.5",
+        "title": "The Subaru BRZ’s Starting Price Has Risen Over $8,000 in Six Years: TDS",
+        "url": "https://www.thedrive.com/news/the-subaru-brz-has-gone-up-over-8000-in-six-years-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.5",
+        "title": "Hyundai Has 5 New Models Coming In 2026. Here's All Of Them",
+        "url": "https://www.motor1.com/news/797835/new-hyundai-models-2026/"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.6.5",
-        "title": "「フランス車は壊れる」不安払拭へ、プジョー＆シトロエン車向け新サポートプログラム導入",
-        "url": "https://response.jp/article/2026/06/05/412309.html"
+        "title": "「エイビス バジェット・レンタカー」、博多駅中央店オープン…博多駅から徒歩約1分",
+        "url": "https://response.jp/article/2026/06/05/412332.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "ASA Motion Link準拠の車載試験ソリューション、自動運転向け高速センサーデータ伝送の信頼性を確保…ローデ・シュワルツ",
+        "url": "https://response.jp/article/2026/06/05/412325.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "EVバッテリー検査器「ST5680A」、グローバル規格対応で世界統一運用が可能に…HIOKIが発売",
+        "url": "https://response.jp/article/2026/06/05/412329.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "JALカーゴハンドリング、フォークリフト運転技能講習を開始…航空業界初の登録教習機関に",
+        "url": "https://response.jp/article/2026/06/05/412324.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "KTM、新型アドベンチャー『390 アドベンチャーX』発売、価格は79万9000円",
+        "url": "https://response.jp/article/2026/06/05/412335.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "アウディ初のハイブリッドスーパーカー『ヌヴォラーリ』発表、V8エンジン搭載で最高出力1000馬力超",
+        "url": "https://response.jp/article/2026/06/05/412321.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.5",
-        "title": "【へっぽこバスガイドの珍道中】バスガイドの働き方による案内の「味」の違いを楽しんでほしい！",
-        "url": "https://bestcarweb.jp/busmagazine/1524208"
+        "title": "アルミボディのカッコイイ車載冷蔵庫登場!! 家庭用冷蔵庫並みの冷却性能もスゴイ!!",
+        "url": "https://bestcarweb.jp/news/1535197"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.5",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第777回",
-        "url": "https://bestcarweb.jp/feature/column/1525505"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "2台の『スカイライン』カスタム、日産自動車大学校が出展へ…「Nostalgic DAY OUT 2026 in Himeji」",
-        "url": "https://response.jp/article/2026/06/05/412291.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "5月の国内新車販売、ホンダ『N-BOX』2か月ぶり首位、EVも補助金効果で急増［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/06/05/412288.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "8月から車検が変わる…ヘッドライトの「黄ばみ」に注意！ DIYよりプロに相談",
-        "url": "https://response.jp/article/2026/06/05/412295.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "NTTグループ、米INDYCAR SERIESの支援継続…生成AIでファン体験を強化する新たな取り組みも",
-        "url": "https://response.jp/article/2026/06/05/412311.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "NVIDIAの「Alpamayo」に対応、自動運転向け「リファレンスソリューション」発表…Foretellix",
-        "url": "https://response.jp/article/2026/06/05/412312.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "SDV完全移行に向けた現実解、車載アーキテクチャを支える「AUMOVIO」の提案とは…人とくるまのテクノロジー展2026",
-        "url": "https://response.jp/article/2026/06/05/412301.html"
+        "title": "カスタムじゃないのにターボ選べるのは激アツ!! タントなら「12万円台アップ」で一気に極上仕様へ大化けできる!?",
+        "url": "https://bestcarweb.jp/feature/column/1534407"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.5",
-        "title": "アーチオン初の中期経営計画を発表！ 統合プラットフォーム戦略でシナジー創出と販売増をめざす!!",
-        "url": "https://bestcarweb.jp/fullload/1540427"
+        "title": "スイフト対ヤリス!! 燃費のヤリスか？ 走りのスイフトか？ 5ナンバーコンパクトの正解選び",
+        "url": "https://bestcarweb.jp/news/1538660"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.5",
-        "title": "アウディRS 3に「competition limited」、5気筒エンジン誕生50周年記念車は100台限定…1399万円から",
-        "url": "https://response.jp/article/2026/06/05/412285.html"
+        "title": "スズキ、『ジムニー シエラ GOZEL』初公開へ…6月14日「ジムニーサンライト2026」",
+        "url": "https://response.jp/article/2026/06/05/412318.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.5",
-        "title": "いやいや他に付けるものほぼないのよ!! スズキ フロンクス高い説の実情がユーザーファーストすぎる",
-        "url": "https://bestcarweb.jp/feature/column/1533758"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "え、複数年契約がやっぱ得なの?!?! 自動車保険で損しない衝撃の手",
-        "url": "https://bestcarweb.jp/money-insurance/car-insurance/1540326"
+        "title": "ただの偏光レンズとはワケが違う!! 運転のプロが「本物」と絶賛する驚異のカラーコントロール",
+        "url": "https://bestcarweb.jp/news/car-accessory/1540343"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.5",
-        "title": "コスモ石油、SSオイルを「COSMO FILLIO」に統一…全国で販売開始",
-        "url": "https://response.jp/article/2026/06/05/412307.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "さいたま市、電気自動車補助金の申請受付開始…EV・燃料電池車・V2H充放電機器が対象",
-        "url": "https://response.jp/article/2026/06/05/412305.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "ダイハツ ムーヴは子育てファミリーに向くか？ タントではなくあえてムーヴを選ぶ理由とは？",
-        "url": "https://bestcarweb.jp/feature/column/1531572"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "タイヤは「管理する時代」へ…ダンロップが提案するフリート運用の新常識PR",
-        "url": "https://response.jp/article/2026/06/05/412303.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "タフトを買うならG、Gターボ、クロム ベンチャーどれが正解？ 価格と装備で考えるベストグレード",
-        "url": "https://bestcarweb.jp/feature/column/1531639"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "デリカミニからトライトンまで、レイズが提案する三菱車の足元カスタム",
-        "url": "https://response.jp/article/2026/06/05/412306.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "デリカミニはやっぱ4WD×ターボが正解!! でも「200万円切り」の最廉価グレードが放つコスパの誘惑も捨てがたい……!!",
-        "url": "https://bestcarweb.jp/feature/column/1534294"
+        "title": "トヨタ・コニック・プロとアソビシステム、「KAWAII」共創IP事業を開始…中古車スタイルアップ事業との連携も",
+        "url": "https://response.jp/article/2026/06/05/412333.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "26995903310",
-    "sha": "1baf7d3cccb33d6610feb46d3045b36d0fe2226b",
-    "completed_at": "2026-06-05T04:46:21.989Z",
+    "run_id": "27026037640",
+    "sha": "24aa7013c11ec8b4049a237425c52157b5708834",
+    "completed_at": "2026-06-05T16:10:51.052Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 31,
-    "queued_articles": 31,
-    "processed": 31,
-    "started_at": "2026-06-05T04:45:17.926Z",
-    "finished_at": "2026-06-05T04:46:21.755Z",
+    "scoped_articles": 32,
+    "queued_articles": 32,
+    "processed": 32,
+    "started_at": "2026-06-05T16:09:48.124Z",
+    "finished_at": "2026-06-05T16:10:50.807Z",
     "success": true,
     "error": ""
   }

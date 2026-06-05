@@ -24649,5 +24649,745 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-05T04:46:21.748Z"
+  },
+  "https://www.motor1.com/news/797931/corvette-grand-sport-configurator/": {
+    "title_zh": "雪佛兰 Corvette Grand Sport 配置指南：打造完美座驾",
+    "summary_short": "雪佛兰 Corvette Grand Sport 配置器上线，我们选出了 3LT 套件、双门轿跑版等理想配置。",
+    "summary_long": "雪佛兰 Corvette Grand Sport 的在线配置器已开放，新车搭载 6.7 升 V8 发动机，最大功率 535 马力，峰值扭矩 520 磅-英尺。配置提供 1LT、2LT 和 3LT 三种套件，我们推荐顶配 3LT，包含麂皮内饰、14 扬声器 Bose 音响和性能记录仪。车身颜色有 10 种可选，我们选择了双门轿跑版。",
+    "highlights_zh": [
+      "6.7 升 V8 发动机",
+      "推荐 3LT 顶配套件",
+      "双门轿跑版更实惠",
+      "10 种车身颜色可选"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Corvette Grand Sport"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnzANr/s1/2027-chevrolet-corvette-grand-sport-configurator.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:09:51.708Z"
+  },
+  "https://www.motor1.com/news/797846/mercedes-screen-plays-ads/": {
+    "title_zh": "男子买奔驰，屏幕弹出广告？",
+    "summary_short": "加州男子发现奔驰车机屏幕显示高尔夫大师赛画面，质疑是广告，引发争议。",
+    "summary_long": "一位加州男子在驾驶新买的奔驰时，发现仪表盘屏幕显示高尔夫球场图像，并附有大师赛标志。他拍摄视频称这是“披着羊皮的广告”，认为车企开始在车机中推送广告。该视频引发网友讨论，但事实上这是奔驰庆祝其长期赞助高尔夫大师赛的主题画面，并非第三方付费广告。",
+    "highlights_zh": [
+      "奔驰车机屏幕显示高尔夫大师赛画面",
+      "车主质疑是“披着羊皮的广告”",
+      "实为奔驰庆祝赞助活动"
+    ],
+    "entities": [
+      "奔驰 | Mercedes-Benz",
+      "大师赛",
+      "车机广告"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3z4W/s1/man-buys-a-mercedes.-then-something-outrageous-pops-up-on-the-screen.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:09:51.719Z"
+  },
+  "https://www.thedrive.com/news/this-audi-moves-like-a-deranged-zombie-because-its-powered-by-compressed-air": {
+    "title_zh": "压缩空气驱动的奥迪像发狂的僵尸一样移动",
+    "summary_short": "奥迪原型车采用压缩空气驱动，移动方式怪异如僵尸，旨在替代传统四驱系统。",
+    "summary_long": "Rosmar H 公司为一款奥迪原型车配备了压缩空气驱动系统，使其能以类似僵尸的怪异方式移动。该技术已申请专利，旨在解决车辆在泥、雪、冰、沙等低附着力路面或陡坡上的脱困问题，被视为传统四驱系统的替代方案。尽管压缩空气动力汽车的概念常受热力学定律质疑，但该公司仍推进了这项创新。",
+    "highlights_zh": [
+      "压缩空气驱动",
+      "专利旨在替代四驱系统",
+      "应对泥、雪、冰、沙等路面",
+      "热力学定律存疑但已获专利"
+    ],
+    "entities": [
+      "奥迪",
+      "Rosmar H",
+      "压缩空气"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/air-car.jpg",
+      "https://i.ytimg.com/vi/dUmKtnGUMPw/hqdefault.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/image.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:09:55.135Z"
+  },
+  "https://insideevs.com/news/797854/slate-carvana-investment-potential-amazon/": {
+    "title_zh": "Slate 或迎来 Carvana 强力盟友",
+    "summary_short": "Carvana 获得购买 Slate 股份的认股权证，两家公司可能联手，为 Slate 塑料车身电动皮卡的上市铺路。",
+    "summary_long": "据 TechCrunch 披露的文件，二手车电商 Carvana 获得了购买电动皮卡初创公司 Slate 股份的认股权证。Slate 正接近推出其低成本塑料车身电动皮卡，此前已获亚马逊创始人贝索斯等投资。虽然双方未予置评，但合作潜力明显：Slate 计划直销车辆，而 Carvana 擅长直接向消费者运送汽车。",
+    "highlights_zh": [
+      "Carvana 获 Slate 股份认股权证",
+      "Slate 塑料车身电动皮卡即将推出",
+      "Slate 计划直销",
+      "Slate 已获贝索斯等投资"
+    ],
+    "entities": [
+      "Carvana",
+      "Slate",
+      "杰夫·贝索斯",
+      "电动皮卡"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pb9GKo/s1/slate-supercharger-access.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:09:55.501Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-lexus-rx500h-pros-and-cons-review": {
+    "title_zh": "2026 款雷克萨斯 RX500h 优缺点评测：最佳体验，请避开 F Sport",
+    "summary_short": "2026 款雷克萨斯 RX500h F Sport 虽动力强劲，但激进外观与红色内饰与舒适定位矛盾，推荐更平和的 RX350h。",
+    "summary_long": "2026 款雷克萨斯 RX 是中型豪华 SUV 的标杆，舒适安静易驾驶。提供燃油、混动和插混三种动力。本次测试的 500h F Sport Performance 版本搭载双电机混动系统和 2.4 升涡轮增压四缸发动机，总功率 366 马力，外观更激进，内饰大量红色。然而，这种运动化设定与 RX 的舒适本质相悖，额外动力主要用于高速超车和城市驾驶，操控和转向反馈并未显著提升。追求驾驶乐趣的消费者应考虑讴歌 MDX Type S 或欧洲车型。若追求豪华实用与舒适，建议选择非 F Sport 版本的 RX350h。",
+    "highlights_zh": [
+      "F Sport 外观激进",
+      "366 马力混动系统",
+      "舒适性仍是 RX 核心优势",
+      "推荐选择 RX350h 而非 F Sport 版本"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "RX500h",
+      "F Sport",
+      "RX350h",
+      "讴歌 MDX Type S"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_5290.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_5296.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_5293.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:09:59.197Z"
+  },
+  "https://www.motor1.com/news/797853/deceptive-pricing-dealers-ftc-letters-list/": {
+    "title_zh": "美国 FTC 警告 97 家汽车经销商存在“欺骗性定价”",
+    "summary_short": "美国联邦贸易委员会公布 97 家被警告存在欺骗性定价的经销商名单，包括 Lithia Motors、AutoNation 等大型集团。",
+    "summary_long": "美国联邦贸易委员会（FTC）公布了 97 家被警告涉嫌“欺骗性定价”的经销商名单，其中包括 Lithia Motors、AutoNation 和 Hendrick Automotive Group 等全国性大型经销商集团。FTC 在 3 月向这些经销商发送了信件，要求其审查广告和定价行为，确保标价包含消费者购车时需支付的所有费用。信件列举了可能的违规行为，如广告价格未包含所有必要费用、将广告价格与经销商融资绑定、宣传无法提供的车辆等。但信件也指出，这并不代表经销商已确认存在这些行为。",
+    "highlights_zh": [
+      "FTC 公布 97 家经销商名单",
+      "涉及 Lithia Motors、AutoNatio…",
+      "警告标价需包含所有费用",
+      "信件不意味着经销商已违规"
+    ],
+    "entities": [
+      "美国联邦贸易委员会 | FTC",
+      "Lithia Motors",
+      "AutoNation",
+      "Hendrick Automotive Group"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAz2Nq/s1/autonation-ford-dealership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:09:59.514Z"
+  },
+  "https://www.thedrive.com/news/the-subaru-brz-has-gone-up-over-8000-in-six-years-tds": {
+    "title_zh": "斯巴鲁 BRZ 六年涨价超 8000 美元",
+    "summary_short": "斯巴鲁 BRZ 起售价从 2022 年的 28,955 美元涨至 2027 年的 37,385 美元，六年涨幅超 8000 美元，入门版已取消。",
+    "summary_long": "斯巴鲁 BRZ 的起售价在六年内上涨超过 8000 美元。2027 款 BRZ 起售价为 37,385 美元，仅比 2026 款微增 330 美元，但相比 2022 年第二代车型上市时的 28,955 美元已大幅攀升。此外，曾经的入门版“Premium”配置已被取消。",
+    "highlights_zh": [
+      "2027 款 BRZ 起售价 37",
+      "六年涨幅超 8000 美元",
+      "入门版 Premium 已取消",
+      "2022 年售价仅 28"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "BRZ"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2024/09/2024-Subaru-BRZ-tS-4.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Turbo-Harbor-Freight-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:02.298Z"
+  },
+  "https://www.motor1.com/news/797835/new-hyundai-models-2026/": {
+    "title_zh": "现代 2026 年将推 5 款新车，涵盖电动、混动及改款",
+    "summary_short": "现代计划 2026 年推出 5 款新车，包括紧凑型电动车、皮卡和增程式电动跨界车，部分车型将延续至 2027 年。",
+    "summary_long": "现代汽车在 2025 年创下销售纪录后，2026 年继续保持增长势头，并计划推出多款新车型以巩固市场地位。这些新车包括全新车型、现有车型的改款以及新增动力系统的版本。其中，一款增程式电动跨界车可能吸引犹豫不决的电动车消费者。此外，现代还将推出紧凑型电动轿车 Ioniq 3，续航超过 300 英里，但该车可能不会在美国市场销售。",
+    "highlights_zh": [
+      "现代 2026 年将推出 5 款新车",
+      "包括紧凑型电动车、皮卡和增程式跨界车",
+      "Elantra 将迎来中期改款",
+      "Ioniq 3 续航超 300 英里"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "伊兰特",
+      "艾尼氪 3 | Ioniq 3",
+      "紧凑型电动车",
+      "增程式电动"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzbqo/s1/hyundai-future-models-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:03.167Z"
+  },
+  "https://response.jp/article/2026/06/05/412332.html": {
+    "title_zh": "AVIS Budget 租车博多站中央店开业，距车站步行 1 分钟",
+    "summary_short": "AVIS Budget 租车在博多站旁开设新店，提供多语言服务及在线办理，方便旅客快速取车。",
+    "summary_long": "IDEX Auto Japan 于 6 月 5 日宣布，在福冈博多站筑紫口步行 1 分钟处开设“AVIS Budget 租车博多站中央店”。该店利用全球 AVIS 和 Budget 网络，提供多语言服务和全球标准服务，车型涵盖紧凑型车、MPV、SUV 及进口车。支持在线预办登机，店内设自助值机机，减少排队等候时间。",
+    "highlights_zh": [
+      "距博多站步行 1 分钟",
+      "提供多语言服务",
+      "支持在线预办登机",
+      "车型丰富含进口车"
+    ],
+    "entities": [
+      "AVIS",
+      "Budget",
+      "博多站",
+      "IDEX Auto Japan"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216714.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216714.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:06.429Z"
+  },
+  "https://response.jp/article/2026/06/05/412325.html": {
+    "title_zh": "罗德与施瓦茨推出 ASA Motion Link 车载测试方案，确保自动驾驶高速传感器数据传输可靠性",
+    "summary_short": "罗德与施瓦茨发布 ASA Motion Link 测试方案，用于验证自动驾驶高速传感器数据传输的可靠性与互操作性。",
+    "summary_long": "罗德与施瓦茨推出针对 R&S RTP 示波器的 ASA Motion Link 合规测试方案，旨在应对日益增长的车载传感器数据需求，并确保多供应商环境下的互操作性。该方案基于汽车 SerDes 联盟（ASA）于 2019 年制定的开放标准，用于高速非对称串行器/解串器（SerDes）技术。",
+    "highlights_zh": [
+      "罗德与施瓦茨发布 ASA Motion Link 测…",
+      "针对 R&S RTP 示波器开发",
+      "确保多供应商环境下互操作性",
+      "基于 ASA 开放标准的高速 SerDes 技术"
+    ],
+    "entities": [
+      "罗德与施瓦茨",
+      "ASA Motion Link",
+      "汽车 SerDes 联盟 | ASA",
+      "R&S RTP 示波器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216649.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216649.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:06.760Z"
+  },
+  "https://response.jp/article/2026/06/05/412329.html": {
+    "title_zh": "HIOKI 发布全球标准 EV 电池检测仪 ST5680A",
+    "summary_short": "日置电机推出 DC 耐电压绝缘电阻测试仪 ST5680A，支持全球安全标准，实现 EV 电池生产线的统一检测。",
+    "summary_long": "日置电机（HIOKI）宣布推出面向 EV 电池生产线的 DC 耐电压绝缘电阻测试仪 ST5680A。该设备支持 CE、UKCA、CSA 等全球安全标准，可统一用于不同地区的工厂，解决以往因标准不同需使用多种测试仪导致的维护和认证管理复杂问题。此外，ST5680A 内置接触检查功能，无需外接导通检查器，并支持波形确认，提升检测效率。",
+    "highlights_zh": [
+      "支持 CE、UKCA、CSA 等全球安全标准",
+      "内置接触检查",
+      "集成波形确认功能"
+    ],
+    "entities": [
+      "日置电机 | HIOKI",
+      "ST5680A",
+      "EV 电池",
+      "绝缘电阻测试"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216686.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216686.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:10.101Z"
+  },
+  "https://response.jp/article/2026/06/05/412324.html": {
+    "title_zh": "JAL 货运处理公司启动叉车驾驶技能培训，成为航空业首家注册培训机构",
+    "summary_short": "JAL 货运处理公司获准成为航空业首家注册培训机构，6 月 15 日起提供叉车驾驶技能培训。",
+    "summary_long": "JAL 集团旗下负责航空货物处理的 JAL 货运处理公司（JCH）获得千叶劳动局长批准，成为“注册培训机构”。自 6 月 15 日起，将在其培训中心提供叉车驾驶技能培训，并颁发修了证书。这是日本航空业首次有公司获得注册培训机构资质，面向外部提供从培训到证书获取的全套服务。JAL 集团在其“经营愿景 2035”中将航空网络和物流定位为支撑全球人与物连接的重要社会基础设施。",
+    "highlights_zh": [
+      "JCH 获千叶劳动局批准为注册培训机构",
+      "6 月 15 日起提供叉车驾驶技能培训",
+      "航空业首家面向外部颁发修了证书的机构",
+      "JAL 集团将物流定位为社会基础设施"
+    ],
+    "entities": [
+      "JAL 货运处理公司 | JALカーゴハンドリング",
+      "JAL 集团",
+      "千叶劳动局",
+      "叉车驾驶技能培训"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216617.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216617.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:10.807Z"
+  },
+  "https://response.jp/article/2026/06/05/412335.html": {
+    "title_zh": "KTM 390 Adventure X 发布，售价 79.9 万日元",
+    "summary_short": "KTM 日本发布 2026 款 390 Adventure X，售价 79.9 万日元，定位入门探险车，优化公路性能与低座高。",
+    "summary_long": "KTM 日本发布 2026 款 390 Adventure X，售价 79.9 万日元，6 月开始销售。该车作为 390 Adventure R 的兄弟车型，专为持有普通摩托车驾照的入门用户设计，兼顾公路行驶性能与性价比。搭载与 R 版相同的 389.7cc 水冷单缸发动机，最大功率 45PS，最大扭矩 39Nm。悬架采用 WP APEX 组件，前叉不可调，后减震仅可调预载。配备前 19 后 17 英寸铸铝轮毂，座高降至 825mm，比 R 版低 45mm，提升双脚着地性。",
+    "highlights_zh": [
+      "售价 79.9 万日元",
+      "389.7cc 单缸",
+      "座高 825mm",
+      "前 19 后 17 英寸铸铝轮毂"
+    ],
+    "entities": [
+      "KTM",
+      "390 Adventure X",
+      "390 Adventure R",
+      "WP APEX"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216740.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216740.jpg",
+      "https://response.jp/imgs/fill2/2216394.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:14.013Z"
+  },
+  "https://response.jp/article/2026/06/05/412321.html": {
+    "title_zh": "奥迪首款混动超跑 Nuvolari 发布，V8 引擎超 1000 马力",
+    "summary_short": "奥迪发布首款混动超跑 Nuvolari，搭载 V8 发动机，综合功率超 1000 马力，限量 499 台，2027 年初交付。",
+    "summary_long": "奥迪于 6 月 4 日发布了品牌史上最快、最强的量产车——混动超跑 Nuvolari。该车搭载奥迪首款高性能混合动力系统，综合最大功率达 1001 马力，极速超过 350km/h，限量 499 台，计划 2027 年上半年开始交付。Nuvolari 采用中置发动机布局，外观体现奥迪全新设计哲学，并采用品牌新标志色“钛金属色”。内饰以驾驶者为中心，配色致敬 1930 年代传奇赛车 Auto Union Type C。车名源自意大利传奇赛车手 Tazio Nuvolari，寓意无畏勇气与胜利意志。",
+    "highlights_zh": [
+      "奥迪首款混动超跑",
+      "极速超 350km/h",
+      "中置引擎布局",
+      "车名致敬传奇车手 Nuvolari"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Nuvolari",
+      "Auto Union Type C"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216633.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216633.jpg",
+      "https://response.jp/imgs/fill2/2216641.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:14.852Z"
+  },
+  "https://bestcarweb.jp/news/1535197": {
+    "title_zh": "铝合金车身车载冰箱登场！冷却性能堪比家用冰箱",
+    "summary_short": "EENOUR 推出 AL 系列铝合金车载冰箱，42L/52L 大容量，冷却性能强劲，适合户外和长途驾驶。",
+    "summary_long": "EENOUR 新推出的 AL 系列车载冰箱采用 A5052 铝合金车身，具备高耐腐蚀性和耐候性，可承受成人重量。42L 和 52L 两种容量，冷却性能堪比家用冰箱，适合夏季车中泊、露营和长途旅行。外观硬朗，与 SUV、皮卡等车型搭配协调。",
+    "highlights_zh": [
+      "铝合金车身",
+      "42L/52L 大容量",
+      "冷却性能堪比家用冰箱",
+      "可承受成人重量"
+    ],
+    "entities": [
+      "EENOUR",
+      "AL42",
+      "AL52",
+      "A5052 铝合金"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30024851/a9870c6342d38b2a85247dc9a91b919b.jpg?v=1780076932",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30024851/a9870c6342d38b2a85247dc9a91b919b-600x246.jpg?v=1780076932",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04154928/0002_1-600x400.jpg?v=1780555769"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:17.729Z"
+  },
+  "https://bestcarweb.jp/feature/column/1534407": {
+    "title_zh": "非定制版也能选涡轮！大发 Tanto 仅加 12 万日元即可升级至顶级规格",
+    "summary_short": "大发 Tanto 非定制版可选涡轮增压，仅加 12 万日元即可升级，性价比超高，堪称最便宜的超高顶轻车涡轮车型。",
+    "summary_long": "大发 Tanto 作为轻超高顶旅行车的开创者，第四代车型于 2019 年上市，配置丰富。推荐性价比最高的标准车身 X 版，相比最便宜的 L 版增加 17 万日元实用配置，但价格仅上涨 13.2 万日元。涡轮增压版同样值得关注，标准车身 X Turbo 售价 173.25 万日元，与本田 N-BOX 自然吸气版价格相当，是超高顶轻车中最便宜的涡轮车型。相比自然吸气 X 版，涡轮版贵 11.55 万日元，但增加了真皮方向盘等配置，涡轮净价约 10 万日元。",
+    "highlights_zh": [
+      "标准车身 X 版性价比最高",
+      "X Turbo 是超高顶轻车中最便宜的涡轮车型",
+      "涡轮版相比自然吸气版净价约 10 万日元",
+      "非定制版也能选涡轮"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "タント",
+      "N-BOX",
+      "涡轮增压",
+      "超高顶轻车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29153555/00_nb_tanto_Tanto024.jpg?v=1780036556",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29153555/00_nb_tanto_Tanto024-600x400.jpg?v=1780036556",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30162501/00_nb_K-sedan_head-600x400.jpg?v=1780125902"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:19.835Z"
+  },
+  "https://bestcarweb.jp/news/1538660": {
+    "title_zh": "铃木 Swift 对比丰田 Yaris：燃油经济性还是驾驶乐趣？5 门紧凑型车的正确选择",
+    "summary_short": "铃木 Swift 与丰田 Yaris 对比：Swift 更短小灵活，Yaris 混动版油耗领先，价格各有优势。",
+    "summary_long": "铃木 Swift 与丰田 Yaris 作为两款全长 4 米以下的紧凑型车，均以易操控和合理价格著称。Swift 车身更短（3860mm vs 3950mm），城市穿梭更灵活；Yaris 混动版油耗高达 36.0km/L，远超 Swift 的 25.4km/L。价格方面，Yaris 入门价更低（169.73 万日元起），但 Swift 的配置定价更清晰。若追求驾驶乐趣，Swift 更胜一筹；若看重燃油经济性，Yaris 是明确选择。",
+    "highlights_zh": [
+      "Swift 车长 3860mm",
+      "Yaris 混动版油耗 36.0km/L",
+      "Yaris 入门价 169.73 万日元",
+      "Swift 配置定价清晰"
+    ],
+    "entities": [
+      "铃木 Swift | Suzuki Swift",
+      "丰田 Yaris | Toyota Yaris",
+      "紧凑型车",
+      "燃油经济性",
+      "驾驶乐趣"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03163010/36264ac5c5ea323268a506e9af91305d.jpg?v=1780471811",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03163010/36264ac5c5ea323268a506e9af91305d-600x400.jpg?v=1780471811",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04154928/0002_1-600x400.jpg?v=1780555769"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:22.844Z"
+  },
+  "https://response.jp/article/2026/06/05/412318.html": {
+    "title_zh": "铃木 Jimny Sierra GOZEL 首次公开亮相，6 月 14 日亮相 Jimny Sunlight 2026",
+    "summary_short": "铃木将在 Jimny Sunlight 2026 上首次公开 Jimny Sierra GOZEL 户外概念车，并展示 Jimny Nomad 克拉吉风格套件。",
+    "summary_long": "铃木宣布将于 6 月 14 日在山中湖交流广场 Kirara 举办的 Jimny Sunlight 2026 活动中展出。铃木展台将首次公开配备 AWIN 车身套件的 Jimny Sierra GOZEL 户外概念车，同时展出配备纯正配件包“克拉吉风格”的 Jimny Nomad。该活动是全国 Jimny 车主聚集的市场与社区活动，主题为“享受制造与车主交流”。铃木希望通过与参观者的交流收集对铃木配件的意见，并用于未来开发。",
+    "highlights_zh": [
+      "Jimny Sierra GOZEL 户外概念车首次…",
+      "配备 AWIN 车身套件",
+      "Jimny Nomad 展示克拉吉风格套件",
+      "活动旨在收集车主对配件的意见"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Jimny Sierra",
+      "Jimny Nomad",
+      "Jimny Sunlight",
+      "GOZEL"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216548.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216548.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:24.652Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1540343": {
+    "title_zh": "SWANS 驾驶太阳镜：专业车手赞誉的色彩控制技术",
+    "summary_short": "SWANS 驾驶太阳镜采用 ULTRA LENS 技术，增强红黄蓝信号辨识，提升驾驶安全，获赛车手山野哲也监修。",
+    "summary_long": "SWANS 品牌推出的驾驶太阳镜，搭载历时 10 年研发的 ULTRA LENS for DRIVING 镜片，由赛车手山野哲也监修。该镜片通过特殊色彩控制，使红绿灯、刹车灯、转向灯及道路标线等关键视觉信息更清晰醒目，有效减少眩光，提升驾驶安全性与舒适性。产品为日本制造，兼具日常防晒功能。",
+    "highlights_zh": [
+      "SWANS 驾驶太阳镜采用 ULTRA LENS 技…",
+      "赛车手山野哲也监修",
+      "增强红黄蓝信号辨识",
+      "日本制造"
+    ],
+    "entities": [
+      "SWANS",
+      "山野哲也",
+      "ULTRA LENS for DRIVING",
+      "驾驶太阳镜",
+      "色彩控制"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04160947/4dffe0ef7fdfb03ec5bd17994a84927d.jpg?v=1780556988",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04160947/4dffe0ef7fdfb03ec5bd17994a84927d-600x331.jpg?v=1780556988",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03173546/rear_regaldignitystyle-600x343.jpeg?v=1780475747"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:26.896Z"
+  },
+  "https://response.jp/article/2026/06/05/412333.html": {
+    "title_zh": "丰田 Conic Pro 与 Asobi 系统启动“KAWAII”共创 IP 事业",
+    "summary_short": "丰田 Conic Pro 与 Asobi 系统合作，以日本“KAWAII”文化为核心，启动共创 IP 事业，涵盖娱乐、移动出行、二手车改装及区域振兴。",
+    "summary_long": "丰田 Conic Pro 与 Asobi 系统宣布启动以日本“KAWAII”文化为核心的共创 IP 事业。双方将结合丰田 Conic Pro 在移动出行领域的开发与策划能力，以及 Asobi 系统在 IP 开发上的优势，共同培育横跨娱乐、移动出行、汽车生活用品及区域振兴等领域的 IP。具体项目包括 KAWAII 主题的现场演出、利用 e-Palette 的穿梭服务与市集体验、与二手车改装品牌“CORDE by”的合作、KAWAII 周边商品销售、区域振兴以及数据科学驱动的业务推进。此举旨在通过移动出行与 KAWAII 文化的融合，创造连接人与城市的新型移动文化。",
+    "highlights_zh": [
+      "丰田 Conic Pro 与 Asobi 系统合作",
+      "以“KAWAII”文化为核心共创 IP",
+      "涵盖娱乐、移动出行、二手车改装",
+      "利用 e-Palette 提供穿梭服务"
+    ],
+    "entities": [
+      "丰田 Conic Pro | Toyota Conic Pro",
+      "Asobi 系统",
+      "KAWAII",
+      "e-Palette",
+      "CORDE by"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216731.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216731.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:28.754Z"
+  },
+  "https://response.jp/article/2026/06/05/412322.html": {
+    "title_zh": "丰田 GR 卡罗拉氢燃料赛车搭载超导液氢泵挑战富士 24 小时耐力赛",
+    "summary_short": "丰田 GR Corolla H2 概念车将搭载世界首款超导液氢泵，参加富士 24 小时耐力赛，并首次采用 DAT 变速箱。",
+    "summary_long": "丰田汽车将在 2026 年 6 月 5 日至 6 日举行的 NAPAC 富士 24 小时耐力赛中，派出以液氢为燃料的#32 TGRR GR Corolla H2 概念车参赛。该车搭载了世界首款超导液氢泵，利用液氢的极低温环境实现超导效应，从而提升泵送效率。同时，电机单元集成至储氢罐内部，使容量从 220L 增至 300L，并降低重心改善操控。此外，该车首次在氢发动机上采用 Direct Automatic Transmission（DAT），旨在减少换挡操作负担，让车手更专注于驾驶。",
+    "highlights_zh": [
+      "世界首款超导液氢泵",
+      "储氢罐容量从 220L 增至 300L",
+      "首次采用 DAT 自动变速箱",
+      "低重心设计提升操控性"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR Corolla H2 concept",
+      "超导液氢泵",
+      "DAT 变速箱",
+      "富士 24 小时耐力赛"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216626.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216626.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:31.283Z"
+  },
+  "https://bestcarweb.jp/news/entame/1542607": {
+    "title_zh": "Stellantis 推出“Fun to Drive Care”神保修，颠覆法系车易坏印象",
+    "summary_short": "Stellantis 日本推出全新支持计划“Fun to Drive Care”，旨在消除法系车易坏的固有印象，提供代车及更多增值服务。",
+    "summary_long": "Stellantis 日本针对旗下标致、雪铁龙等法系品牌推出“Fun to Drive Care”支持计划，旨在消除消费者对法系车可靠性差的传统印象。该计划不仅提供故障时的代步车，还包含多项额外服务，体现了制造商对产品品质的自信与决心。此举有望改变用户对法系车的看法，提升品牌信任度。",
+    "highlights_zh": [
+      "Stellantis 日本推出“Fun to Dri…",
+      "旨在消除法系车易坏的固有印象",
+      "提供代步车及额外增值服务",
+      "体现制造商对品质的自信与决心"
+    ],
+    "entities": [
+      "Stellantis",
+      "标致",
+      "雪铁龙",
+      "法系车",
+      "保修"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05191114/0003.jpg?v=1780654275",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05191114/0003-600x400.jpg?v=1780654275",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27151745/MG_8613-1-600x387.jpg?v=1779862667"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:32.445Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532590": {
+    "title_zh": "铃木 Fronx vs 本田 WR-V：装备齐全的铃木还是又大又便宜的本田？",
+    "summary_short": "铃木 Fronx 与本田 WR-V 对比：Fronx 尺寸紧凑、配置丰富，WR-V 空间大、价格低，各有优势。",
+    "summary_long": "铃木 Fronx 和本田 WR-V 是两款备受关注的进口紧凑型 SUV，价格相近但性格迥异。Fronx 车身紧凑（长 3995mm、宽 1765mm、高 1550mm），转弯半径仅 4.8 米，城市驾驶灵活；标配全景影像、导航、HUD、电子手刹、盲区监测等丰富配置，2WD 版售价 254.1 万日元，4WD 版 273.9 万日元。WR-V 则主打大空间和更低价格，但配置相对基础。选择哪款取决于用户更看重配置还是空间与性价比。",
+    "highlights_zh": [
+      "Fronx 标配全景影像、HUD、盲区监测等",
+      "Fronx 车身紧凑",
+      "WR-V 空间更大",
+      "两者价格相近"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "本田 | Honda",
+      "フロンクス",
+      "WR-V"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29140330/DSC2232.jpg?v=1780031011",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29140330/DSC2232-600x400.jpg?v=1780031011",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30162501/00_nb_K-sedan_head-600x400.jpg?v=1780125902"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:35.785Z"
+  },
+  "https://bestcarweb.jp/news/1535198": {
+    "title_zh": "马自达魂动设计联名运动鞋 SP-MZD 发布",
+    "summary_short": "马自达与 SPINGLE 联名推出第二弹运动鞋 SP-MZD，融合魂动设计美学与驾驶实用性。",
+    "summary_long": "马自达与广岛鞋履品牌 SPINGLE 合作推出第二弹联名运动鞋 SP-MZD，于 2026 年 5 月 25 日发售。该鞋款基于 2025 年首代 SP-MX5 进化而来，将马自达魂动设计的曲线美学融入鞋身轮廓，同时优化鞋底后端上翘设计，使油门到刹车的切换更顺畅，兼顾驾驶功能性与设计感。",
+    "highlights_zh": [
+      "马自达与 SPINGLE 联名第二弹 SP-MZD",
+      "融入魂动设计曲线美学",
+      "鞋底后端上翘优化踏板操作",
+      "兼顾驾驶实用性与设计感"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "SPINGLE",
+      "SP-MZD",
+      "魂动设计"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30025918/ffeff121351941ff4d778ef5c757be42.jpg?v=1780077559",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30025918/ffeff121351941ff4d778ef5c757be42-480x600.jpg?v=1780077559",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04154928/0002_1-600x400.jpg?v=1780555769"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:36.027Z"
+  },
+  "https://insideevs.com/news/797914/amazon-ev-delivery-fleet-2026-update/": {
+    "title_zh": "亚马逊电动送货车队突破 5 万辆",
+    "summary_short": "亚马逊全球电动送货车队已超 5 万辆，其中大部分由 Rivian 制造，目标 2030 年达 10 万辆。",
+    "summary_long": "亚马逊宣布其全球电动送货车队已超过 5 万辆，距离 2030 年实现 10 万辆电动送货车的目标完成一半。车队中大部分车辆由 Rivian 制造，已交付超过 3 万辆定制电动送货车（EDV）。此外，亚马逊在欧洲的电动送货车队在 2025 年底超过 1 万辆，其中近 5000 辆为梅赛德斯-奔驰电动货车，部署在奥地利、法国、德国、意大利和英国。",
+    "highlights_zh": [
+      "全球电动送货车队超 5 万辆",
+      "Rivian 已交付超 3 万辆定制 EDV",
+      "欧洲车队超 1 万辆",
+      "目标 2030 年达 10 万辆"
+    ],
+    "entities": [
+      "亚马逊 | Amazon",
+      "Rivian",
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "电动送货车 | Electric Delivery Van"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo74N8/s1/amazon-electric-delivery-van-edv.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:39.935Z"
+  },
+  "https://bestcarweb.jp/feature/column/1533864": {
+    "title_zh": "雷克萨斯 LBX：不只是“太太专用”，小巧却让成年人沉迷的高品质 SUV",
+    "summary_short": "雷克萨斯最小 SUV LBX，虽小巧但质感十足，非第二选择而是日常首选的高品质座驾。",
+    "summary_long": "雷克萨斯 LBX 作为品牌最小 SUV，车长仅 4190mm，常被误认为是家庭第二辆车。但它的魅力在于小巧车身带来的日常便利性，以及雷克萨斯一贯的精致质感。无论是狭窄街道、立体停车场还是超市车位，LBX 都能轻松应对，同时提供高级的驾驶体验。价格从 420 万日元起，虽不便宜，但价值在于密度而非尺寸。搭载 1.5L 混动系统，油耗低至 27.7km/L，使用普通汽油，日常使用成本友好。",
+    "highlights_zh": [
+      "车长 4190mm",
+      "雷克萨斯质感",
+      "1.5L 混动",
+      "使用普通汽油"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LBX",
+      "SUV",
+      "混动系统"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02144311/DSC2099_1.jpg?v=1780378992",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02144311/DSC2099_1-600x400.jpg?v=1780378992",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/30162501/00_nb_K-sedan_head-600x400.jpg?v=1780125902"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:40.264Z"
+  },
+  "https://www.motor1.com/news/797622/blazer-ev-registration-fee/": {
+    "title_zh": "雪佛兰 Blazer EV 注册费比 Equinox 贵 180 美元",
+    "summary_short": "雪佛兰 Blazer EV 车主发现注册费比燃油车 Equinox 贵 180 美元，原因是不缴燃油税。",
+    "summary_long": "一位雪佛兰 Blazer EV 车主在注册车辆时发现，其费用比同品牌的燃油车 Equinox 高出约 200 美元。在田纳西州，电动车因不消耗汽油而需缴纳额外注册费，以弥补燃油税损失。车主虽感意外，但理解收费逻辑。",
+    "highlights_zh": [
+      "Blazer EV 注册费约 250 美元",
+      "Equinox 注册费仅约 30 美元",
+      "差价源于电动车不缴燃油税"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Blazer EV",
+      "Equinox",
+      "田纳西州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKZox/s1/man-gets-license-plates-for-chevrolet-blazer.-then-he-realizes-it-s-180-more-expensive-than-for-his-equinox.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:43.594Z"
+  },
+  "https://www.motor1.com/news/797892/regular-vw-golf-return-usa-possible/": {
+    "title_zh": "大众高尔夫或将在美国推出更多版本",
+    "summary_short": "大众考虑在美国推出更便宜的高尔夫版本，前提是生产从德国转移到墨西哥。",
+    "summary_long": "大众汽车正考虑在美国推出更便宜的高尔夫版本，但前提是生产从德国转移到墨西哥。目前美国仅提供高尔夫 GTI 和 R 版本，而欧洲市场则有多种动力总成和车身风格。大众美国 CEO Kjell Gruner 表示，北美生产将带来其他高尔夫版本的机会，但会从关税角度谨慎选择，可能跳过基础版，推出配置更高的版本以保持利润。",
+    "highlights_zh": [
+      "大众考虑在美国推出更便宜的高尔夫版本",
+      "生产将从德国转移到墨西哥",
+      "美国目前仅提供 GTI 和 R 版本",
+      "可能跳过基础版"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "高尔夫 | Golf",
+      "GTI",
+      "R",
+      "墨西哥"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo20ZA/s1/base-2024-vw-golf.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:43.798Z"
+  },
+  "https://www.motor1.com/news/797875/audi-nuvolari-convertible-possible/": {
+    "title_zh": "奥迪 Nuvolari 或将推出敞篷版",
+    "summary_short": "奥迪 Nuvolari 限量 499 台，CEO 暗示可能推出敞篷版 Spyder，产量或更少，价格更高。",
+    "summary_long": "奥迪昨日发布的 Nuvolari 超跑作为 R8 的继任者，限量 499 台，起售价 60 万欧元，2027 年上半年交付。CEO Gernot Döllner 在接受采访时暗示，敞篷版 Nuvolari Spyder 已在规划中，将拥有独立的生产批次，可能产量更少且价格更高。鉴于同平台的兰博基尼 Temerario 也将推出 Spyder 版本，这一消息并不意外。",
+    "highlights_zh": [
+      "Nuvolari 限量 499 台",
+      "CEO 暗示敞篷版 Spyder 已在规划中",
+      "敞篷版将独立生产",
+      "同平台兰博基尼 Temerario 也将推出 Spy…"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Nuvolari",
+      "兰博基尼",
+      "Temerario",
+      "R8"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONzZ4/s1/2027-audi-nuvolari.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:47.078Z"
+  },
+  "https://insideevs.com/news/797883/vw-gas-cars-horses-evs-better/": {
+    "title_zh": "大众：燃油车终将像马一样被电动车取代",
+    "summary_short": "大众销售董事将燃油车比作马，认为电动车终将因其优势自然取代燃油车，而非靠禁令。",
+    "summary_long": "大众销售、营销与售后董事马丁·桑德斯在接受 AutoExpress 采访时，将燃油车与马类比，指出就像人们从未禁止骑马但最终选择汽车一样，电动车也会凭借其优势自然取代燃油车。他认为应停止讨论燃油车禁令，转而聚焦充电基础设施、电价等实际障碍，让消费者自发转向电动车。",
+    "highlights_zh": [
+      "大众高管：燃油车终将像马一样被取代",
+      "电动车优势会自然说服消费者",
+      "应停止讨论禁令"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID. Polo",
+      "电动车",
+      "燃油车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N43qg/s1/2026-volkswagen-id.-polo-gti.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:47.497Z"
+  },
+  "https://www.motor1.com/news/797863/ferrari-rejects-self-driving-cars/": {
+    "title_zh": "法拉利拒绝自动驾驶：我们要的是驾驶乐趣，不是芯片",
+    "summary_short": "法拉利 CEO 明确表示不会推出全自动驾驶汽车，强调驾驶乐趣必须由人掌控，而非电脑芯片。",
+    "summary_long": "法拉利 CEO Benedetto Vigna 在接受采访时明确排除了推出全自动驾驶汽车的可能性，强调驾驶乐趣必须由人掌控，而非电脑芯片。他表示，法拉利所有车型都将保留方向盘，让车主享受驾驶过程，否则就失去了购买法拉利的意义。尽管会继续改进驾驶辅助系统，但 Level 3 及以上自动驾驶不在计划内。",
+    "highlights_zh": [
+      "法拉利不会推出全自动驾驶汽车",
+      "CEO 强调驾驶乐趣必须由人掌控",
+      "所有车型都将保留方向盘",
+      "仅改进驾驶辅助系统"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Benedetto Vigna"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Qe7w88/s1/ferrari-luce.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:50.688Z"
+  },
+  "https://insideevs.com/news/797873/audi-nuvolari-plug-in-hybrid-three-motors/": {
+    "title_zh": "奥迪全新 Nuvolari 超级跑车：三电机插电混动",
+    "summary_short": "奥迪推出最强量产车 Nuvolari，搭载 4.0 升 V8 发动机与三台轴向磁通电机，综合功率 987 马力，极速 217 英里/小时。",
+    "summary_long": "奥迪发布全新 Nuvolari 超级跑车，这是该品牌有史以来最强大的量产车型。动力系统由一台 4.0 升 V8 发动机和三台轴向磁通电机组成，综合输出功率高达 987 马力，扭矩惊人。其中两台电机驱动前轮，实现可变扭矩分配，第三台电机集成在发动机与变速箱之间。7.3 千瓦时锂电池支持插电充电和能量回收，使这款极速 217 英里/小时的猛兽成为插电式混合动力车。",
+    "highlights_zh": [
+      "987 马力综合功率",
+      "三台轴向磁通电机",
+      "4.0 升 V8 发动机",
+      "插电式混合动力"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Nuvolari",
+      "V8 发动机",
+      "轴向磁通电机",
+      "插电式混合动力"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPzgl/s1/audi-nuvolari-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-05T16:10:50.799Z"
   }
 }
