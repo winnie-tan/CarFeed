@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-04T16:29:39.987Z",
+    "generated_at": "2026-06-05T04:45:17.628Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 372,
-    "deepseek_untranslated_before_run": 28,
-    "newly_fetched_articles": 28,
-    "newly_fetched_untranslated": 28,
+    "deepseek_translated_before_run": 369,
+    "deepseek_untranslated_before_run": 31,
+    "newly_fetched_articles": 31,
+    "newly_fetched_untranslated": 31,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 28,
+    "translation_queue_count": 31,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.6.4",
-        "title": "Ford Wants To 'Expand' The Mustang Family",
-        "url": "https://www.motor1.com/news/797821/ford-expand-mustang-family-four-door-sedan/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.4",
-        "title": "The Self-Driving Car Story Started Earlier Than You Think",
-        "url": "https://insideevs.com/news/796291/self-driving-cars-the-story/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.4",
-        "title": "Woman Buys Tesla. Then She Makes A Startling Discovery An Hour Later: 'Why Did Nobody Tell Me?’",
-        "url": "https://www.motor1.com/news/797728/what-to-know-before-buying-tesla/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.4",
-        "title": "Tesla Wants Its Cameras To 'Blink' Like a Human Eye",
-        "url": "https://insideevs.com/news/797742/tesla-camera-cleaner-patent-eye/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.4",
-        "title": "This 85% Scale Vintage Bentley Is One Of A Kind—And Electric",
-        "url": "https://insideevs.com/news/797804/bentley-blower-jnr-hedley-momoa-edition/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.4",
-        "title": "Automakers Are Starting to Panic Over AI Destroying the Memory Supply Chain: TDS",
-        "url": "https://www.thedrive.com/news/automakers-are-starting-to-panic-over-ai-destroying-the-memory-supply-chain"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.4",
-        "title": "Electric Trucks Have Failed Spectacularly In America. Here's Why Ford Is Trying Again",
-        "url": "https://insideevs.com/news/797757/alan-clarke-ford-skunkworks-affordable-ev-truck/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.4",
-        "title": "Winners And Losers From May Auto Sales",
-        "url": "https://www.motor1.com/news/797747/may-auto-sales-results-winners-losers/"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.6.4",
-        "title": "「Ducati Day 2026」鈴鹿で6月6日開催、日本初公開モデルも",
-        "url": "https://response.jp/article/2026/06/04/412282.html"
+        "time": "2026.6.5",
+        "title": "「フランス車は壊れる」不安払拭へ、プジョー＆シトロエン車向け新サポートプログラム導入",
+        "url": "https://response.jp/article/2026/06/05/412309.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.4",
-        "title": "「ミツオカらしさ炸裂」なクーペか!? 光岡自動車が11月発表の新型車ティザー画像を電撃公開！",
-        "url": "https://bestcarweb.jp/news/1540807"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.4",
-        "title": "AI駐車場システム「DENNOU PARK」、解体付きプラン開始…DataHax",
-        "url": "https://response.jp/article/2026/06/04/412269.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.4",
-        "title": "ENNOVI、バッテリーセルコンタクトシステムを展示…バッテリーショーヨーロッパ2026",
-        "url": "https://response.jp/article/2026/06/04/412262.html"
+        "time": "2026.6.5",
+        "title": "【へっぽこバスガイドの珍道中】バスガイドの働き方による案内の「味」の違いを楽しんでほしい！",
+        "url": "https://bestcarweb.jp/busmagazine/1524208"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.4",
-        "title": "F1やってる場合じゃない!? ホンダEV撤退に評論家たちが辛口評価！ 計画中止で見えた課題とは",
-        "url": "https://bestcarweb.jp/feature/column/1528087"
+        "time": "2026.6.5",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第777回",
+        "url": "https://bestcarweb.jp/feature/column/1525505"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.4",
-        "title": "JVCケンウッド、2026年度から3カ年の周年記念活動を展開へ",
-        "url": "https://response.jp/article/2026/06/04/412268.html"
+        "time": "2026.6.5",
+        "title": "2台の『スカイライン』カスタム、日産自動車大学校が出展へ…「Nostalgic DAY OUT 2026 in Himeji」",
+        "url": "https://response.jp/article/2026/06/05/412291.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "5月の国内新車販売、ホンダ『N-BOX』2か月ぶり首位、EVも補助金効果で急増［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/06/05/412288.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "8月から車検が変わる…ヘッドライトの「黄ばみ」に注意！ DIYよりプロに相談",
+        "url": "https://response.jp/article/2026/06/05/412295.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "NTTグループ、米INDYCAR SERIESの支援継続…生成AIでファン体験を強化する新たな取り組みも",
+        "url": "https://response.jp/article/2026/06/05/412311.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "NVIDIAの「Alpamayo」に対応、自動運転向け「リファレンスソリューション」発表…Foretellix",
+        "url": "https://response.jp/article/2026/06/05/412312.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "SDV完全移行に向けた現実解、車載アーキテクチャを支える「AUMOVIO」の提案とは…人とくるまのテクノロジー展2026",
+        "url": "https://response.jp/article/2026/06/05/412301.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.4",
-        "title": "RX-7＆RX-8歴代モデルがピンバッジ化！ ロータリー60周年記念グッズはコレクション必須!!",
-        "url": "https://bestcarweb.jp/news/1535195"
+        "time": "2026.6.5",
+        "title": "アーチオン初の中期経営計画を発表！ 統合プラットフォーム戦略でシナジー創出と販売増をめざす!!",
+        "url": "https://bestcarweb.jp/fullload/1540427"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.4",
-        "title": "アプティグローバル、米づくり開始…「インドネシアの特定技能人材に日本の新米を」",
-        "url": "https://response.jp/article/2026/06/04/412272.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.4",
-        "title": "キャンピングカーの「ナッツ」、仙台店を7月3日開設へ…東北初の正規ディーラー拠点",
-        "url": "https://response.jp/article/2026/06/04/412275.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.4",
-        "title": "スバル『レヴォーグ レイバック』改良、SI-DRIVE制御変更と安全装備強化…405万9000円から",
-        "url": "https://response.jp/article/2026/06/04/412270.html"
+        "time": "2026.6.5",
+        "title": "アウディRS 3に「competition limited」、5気筒エンジン誕生50周年記念車は100台限定…1399万円から",
+        "url": "https://response.jp/article/2026/06/05/412285.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.4",
-        "title": "ダイハツ ムーヴの上品仕様「ノーブルシックスタイル」は誰に刺さる？ 派手すぎない高級感がいい!!",
-        "url": "https://bestcarweb.jp/feature/column/1531558"
+        "time": "2026.6.5",
+        "title": "いやいや他に付けるものほぼないのよ!! スズキ フロンクス高い説の実情がユーザーファーストすぎる",
+        "url": "https://bestcarweb.jp/feature/column/1533758"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.4",
-        "title": "タフトのデザインは今見ても新鮮？ 四角いボディとガラスルーフが生む唯一無二感",
-        "url": "https://bestcarweb.jp/feature/column/1531966"
+        "time": "2026.6.5",
+        "title": "え、複数年契約がやっぱ得なの?!?! 自動車保険で損しない衝撃の手",
+        "url": "https://bestcarweb.jp/money-insurance/car-insurance/1540326"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "コスモ石油、SSオイルを「COSMO FILLIO」に統一…全国で販売開始",
+        "url": "https://response.jp/article/2026/06/05/412307.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "さいたま市、電気自動車補助金の申請受付開始…EV・燃料電池車・V2H充放電機器が対象",
+        "url": "https://response.jp/article/2026/06/05/412305.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.5",
+        "title": "ダイハツ ムーヴは子育てファミリーに向くか？ タントではなくあえてムーヴを選ぶ理由とは？",
+        "url": "https://bestcarweb.jp/feature/column/1531572"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "タイヤは「管理する時代」へ…ダンロップが提案するフリート運用の新常識PR",
+        "url": "https://response.jp/article/2026/06/05/412303.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.5",
+        "title": "タフトを買うならG、Gターボ、クロム ベンチャーどれが正解？ 価格と装備で考えるベストグレード",
+        "url": "https://bestcarweb.jp/feature/column/1531639"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.5",
+        "title": "デリカミニからトライトンまで、レイズが提案する三菱車の足元カスタム",
+        "url": "https://response.jp/article/2026/06/05/412306.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.5",
+        "title": "デリカミニはやっぱ4WD×ターボが正解!! でも「200万円切り」の最廉価グレードが放つコスパの誘惑も捨てがたい……!!",
+        "url": "https://bestcarweb.jp/feature/column/1534294"
       }
     ],
     "event_name": "schedule",
-    "run_id": "26965171028",
-    "sha": "018029a01ab0dc7e0503c3ceda9500ff7c90189a",
-    "completed_at": "2026-06-04T16:30:46.703Z",
+    "run_id": "26995903310",
+    "sha": "1baf7d3cccb33d6610feb46d3045b36d0fe2226b",
+    "completed_at": "2026-06-05T04:46:21.989Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 28,
-    "queued_articles": 28,
-    "processed": 28,
-    "started_at": "2026-06-04T16:29:40.302Z",
-    "finished_at": "2026-06-04T16:30:46.466Z",
+    "scoped_articles": 31,
+    "queued_articles": 31,
+    "processed": 31,
+    "started_at": "2026-06-05T04:45:17.926Z",
+    "finished_at": "2026-06-05T04:46:21.755Z",
     "success": true,
     "error": ""
   }
