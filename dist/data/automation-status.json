@@ -1,145 +1,103 @@
 {
   "workflow": {
-    "generated_at": "2026-06-06T04:18:39.805Z",
+    "generated_at": "2026-06-06T14:54:21.687Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 378,
-    "deepseek_untranslated_before_run": 22,
-    "newly_fetched_articles": 22,
-    "newly_fetched_untranslated": 22,
+    "deepseek_translated_before_run": 387,
+    "deepseek_untranslated_before_run": 13,
+    "newly_fetched_articles": 13,
+    "newly_fetched_untranslated": 13,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 22,
+    "translation_queue_count": 13,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "InsideEVs",
         "time": "2026.6.6",
-        "title": "「ヤマハは“夢”をデザインしている」復活のヤマハ『シグナスX』がスポーティ路線に「原点回帰」した理由",
-        "url": "https://response.jp/article/2026/06/06/412345.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.6",
-        "title": "「過激で面白そうやな！」トヨタ「究極のカローラ」発表にSNS興奮！ ガチすぎる仕様に注目集まる",
-        "url": "https://response.jp/article/2026/06/06/412339.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.6",
-        "title": "【CARTUNE】今週の投稿！ お題は「魅惑のエンジンルーム」",
-        "url": "https://response.jp/article/2026/06/06/412341.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.6",
-        "title": "【読者アンケート】あなたのカーライフやクルマへの興味について教えてください",
-        "url": "https://response.jp/article/2026/06/06/412346.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.6",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第778回",
-        "url": "https://bestcarweb.jp/feature/column/1525507"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.6",
-        "title": "3列7人乗りモデル『ロッキースペース』の市販化なるか？…土曜ニュースランキング",
-        "url": "https://response.jp/article/2026/06/06/412343.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.6",
-        "title": "7人乗りのルノー『グランカングー』に、“ギア感”あふれるグレーの限定車登場！ 抽選販売へ",
-        "url": "https://response.jp/article/2026/06/06/412342.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.6",
-        "title": "V8搭載の4代目シーマに異常事態!? スポーツカーじゃないのに高騰しそうなクルマたち",
-        "url": "https://bestcarweb.jp/feature/column/1528926"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.6",
-        "title": "いすゞの商品センスに思わず唸る!? AT限定普免で運転できるエルフミオ新モデル『冷凍バン完成車』のツウな魅力",
-        "url": "https://bestcarweb.jp/fullload/1538078"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.6",
-        "title": "カーメイトが創立60周年、特設サイトを公開 1966年創業のカー用品メーカー",
-        "url": "https://response.jp/article/2026/06/06/412340.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.6",
-        "title": "スイフトスポーツなき今、普通のスイフトで満足できる？ 5MTと軽快ボディが想像以上にアツい!!",
-        "url": "https://bestcarweb.jp/feature/column/1538922"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.6",
-        "title": "スバル最大SUV「アセント」今年後半に日本上陸へ!! エクシーガ以来8年ぶり3列シート＋水平対向エンジン復活か",
-        "url": "https://bestcarweb.jp/newcar/1542815"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.6",
-        "title": "四日市の新たなシンボル「よんまるテラス」が完成！ しかしバスタの運営事業者は指定取り消しにより未定だと？",
-        "url": "https://bestcarweb.jp/busmagazine/1526827"
+        "title": "Ford’s Chinese EREV Bronco Would Do Great In America. But Don’t Hold Your Breath",
+        "url": "https://insideevs.com/news/797720/bronco-erev-china-ford-suv/"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.5",
-        "title": "Man Has Perfectly Running Ford Truck For 15 Years. Then He Puts E15 Gas In It: 'I Thought Everyone Knew'",
-        "url": "https://www.motor1.com/news/797842/ford-truck-e15-gas/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.5",
-        "title": "Honda Racing Boss: 'Look Forward' To A More Hardcore Civic Type R",
-        "url": "https://www.motor1.com/news/797959/honda-civic-type-r-hrc-preview/"
+        "time": "2026.6.6",
+        "title": "'Walmart... They Let Me Watch': Man Goes To Jiffy Lube For An Oil Change. Then He Checks The Dealership",
+        "url": "https://www.motor1.com/news/797979/dealership-vs-jiffy-lube-oil-change/"
       },
       {
         "source": "The Drive",
-        "time": "2026.6.5",
-        "title": "The World Has Lost a Master of Automotive Cutaway Illustrations",
-        "url": "https://www.thedrive.com/news/the-world-has-lost-a-master-of-automotive-cutaway-illustrations"
+        "time": "2026.6.6",
+        "title": "There’s a 137-Inch Bugatti TV Now, and It Folds",
+        "url": "https://www.thedrive.com/news/theres-a-137-inch-bugatti-tv-now-and-it-folds"
       },
       {
-        "source": "The Drive",
-        "time": "2026.6.5",
-        "title": "Fernando Alonso Is Angry: 2026 F1 Cars Are the ‘Worst Ever’ and ‘Should Not Be Racing’",
-        "url": "https://www.thedrive.com/news/fernando-alonso-is-angry-2026-f1-cars-are-the-worst-ever-and-should-not-be-racing"
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "「容赦なきエルグランド包囲網」トヨタの高級ミニバン『アルファード』改良発表にSNS注目！ 価格も争点に",
+        "url": "https://response.jp/article/2026/06/06/412351.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「下連雀」",
+        "url": "https://bestcarweb.jp/feature/column/1535868"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "728万円でも欲しい!! 日産アリアの上質感に驚いた！ マイチェンモデルを本音評価",
+        "url": "https://bestcarweb.jp/feature/column/1529101"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.5",
-        "title": "The Dodge Charger EV Got A Massive Price Hike",
-        "url": "https://www.motor1.com/news/797936/2027-dodge-charger-pricing-trims/"
+        "time": "2026.6.6",
+        "title": "Man Buys Mercedes Sedan. Then It Keeps Having This Oddly Specific Malfunction: ‘My C300 Always Did This’",
+        "url": "https://www.motor1.com/news/797967/sedan-trunk-malfunctions/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.6.5",
-        "title": "John Deere Tractor With V16 Detroit Diesel Tugboat Engine Is a Sled-Pulling Machine",
-        "url": "https://www.thedrive.com/news/john-deere-tractor-with-v16-detroit-diesel-tugboat-engine-is-a-sled-pulling-machine"
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "エヴァンゲリオンレーシング × レンタル819、初号機・2号機・零号機ラッピングバイクを全国空港近隣店舗で期間限定レンタル",
+        "url": "https://response.jp/article/2026/06/06/412352.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "ダイハツ ムーヴにはカスタムがない!? 代わりの「ダンディスポーツスタイル」は刺さるのか？",
+        "url": "https://bestcarweb.jp/feature/column/1531556"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "最先端解析の横でガムテープ!! 新型GRMNカローラ開発陣が語った”泥臭い執念”と「モリゾウのこだわり」",
+        "url": "https://bestcarweb.jp/newcar/1542926"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "北米カムリ今秋日本導入!!「すべてのステークホルダーを勝者に」モリゾウが語ったカムリ輸入の狙いと年間1万台販売の勝算",
+        "url": "https://bestcarweb.jp/newcar/1543037"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.5",
-        "title": "Volvo's Most Popular SUV Is Getting A Major Update",
-        "url": "https://www.motor1.com/news/797929/volvo-xc60-phev-design-powertrain-update/"
+        "time": "2026.6.6",
+        "title": "‘Know Your Rights’: Cop Calls A Tow Truck After An Accident. Then The Tow Truck Takes The Car Somewhere Unexpected",
+        "url": "https://www.motor1.com/news/797969/car-accident-rights/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.6",
+        "title": "‘Memo Says Rotted Out Unibody Unsafe For Road Use’: Mechanic Condemns Saturn Vue. Then The Owner Brings It Back 3 Years Later",
+        "url": "https://www.motor1.com/news/797956/mechanic-condemns-saturn-vue/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 22,
-    "queued_articles": 22,
-    "processed": 22,
-    "started_at": "2026-06-06T04:18:40.092Z",
-    "finished_at": "2026-06-06T04:19:19.774Z",
+    "scoped_articles": 13,
+    "queued_articles": 13,
+    "processed": 13,
+    "started_at": "2026-06-06T14:54:21.988Z",
+    "finished_at": "2026-06-06T14:54:53.718Z",
     "success": true,
     "error": ""
   }

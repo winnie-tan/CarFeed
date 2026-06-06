@@ -25900,5 +25900,296 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-06T04:19:19.767Z"
+  },
+  "https://www.motor1.com/news/797979/dealership-vs-jiffy-lube-oil-change/": {
+    "title_zh": "去 4S 店还是快修店换机油？网友热议",
+    "summary_short": "一位车主对比 4S 店与 Jiffy Lube 换油体验，引发关于保养地点选择的讨论。",
+    "summary_long": "一位车主在 Jiffy Lube 进行换油和全面检查后，对比 4S 店服务，引发网友热议。文章探讨了去 4S 店、本地修理厂或快修店保养的利弊，帮助车主根据成本、便利性和车辆保值需求做出选择。",
+    "highlights_zh": [
+      "车主对比 4S 店与 Jiffy Lube 换油体验",
+      "引发关于保养地点选择的讨论",
+      "权衡成本、便利性与车辆保值"
+    ],
+    "entities": [
+      "Jiffy Lube",
+      "4S 店"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzKE2/s1/oil-changed-at-the-dealership-or-jiffy-lube.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:25.820Z"
+  },
+  "https://insideevs.com/news/797720/bronco-erev-china-ford-suv/": {
+    "title_zh": "福特中国版 Bronco 插电混动 SUV 在美国会大卖，但别抱太大希望",
+    "summary_short": "福特在中国推出 Bronco 新能源版，EREV 和纯电两种动力，但专为中国市场开发，不会进入美国。",
+    "summary_long": "福特在中国市场销量大幅下滑，从 2016 年的 120 万辆降至 2025 年不足 30 万辆。为扭转颓势，福特推出了 Bronco 新能源版，这是一款中型 SUV，采用承载式车身，与美版非承载式 Bronco 不同。该车由福特与江铃汽车合资开发，提供增程式电动（EREV）和纯电两种版本。EREV 版搭载 1.5T 发动机作为增程器，配 43.7kWh 电池。尽管这款车在美国可能受欢迎，但它是专为中国市场打造的，不太可能引入美国。",
+    "highlights_zh": [
+      "福特 Bronco 新能源版在中国推出",
+      "该车为承载式车身",
+      "由福特与江铃合资开发",
+      "不太可能进入美国市场"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Bronco",
+      "江铃汽车",
+      "增程式电动车 | EREV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgZZN/s1/wwcjnjrf1sy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:27.069Z"
+  },
+  "https://www.thedrive.com/news/theres-a-137-inch-bugatti-tv-now-and-it-folds": {
+    "title_zh": "布加迪推出可折叠 137 英寸电视",
+    "summary_short": "布加迪与 C Seed 合作推出可折叠电视，110 或 137 英寸，灵感来自 Tourbillon 超跑，售价未公布。",
+    "summary_long": "布加迪与奥地利公司 C Seed 合作推出名为 Bugatti N1 的可折叠电视，提供 110 英寸和 137 英寸两种尺寸。电视在收纳时会折叠成类似蚕蛹的形状，布加迪称其为“建筑宣言”，灵感来自其超跑的侧面轮廓。屏幕可在 45 秒内展开，具备 4K 分辨率、micro-LED 技术、自适应间隙校准和 HDR10+防眩光涂层，并可旋转 180 度。电视还使用了与 Tourbillon 超跑相同的材料和配色。",
+    "highlights_zh": [
+      "布加迪与 C Seed 合作推出可折叠电视",
+      "提供 110 英寸和 137 英寸两种尺寸",
+      "45 秒内展开",
+      "设计灵感来自 Tourbillon 超跑"
+    ],
+    "entities": [
+      "布加迪 | Bugatti",
+      "Tourbillon",
+      "C Seed"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/BI-Cseed-Launch_6.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/BI-Cseed-Launch_1.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/BI-Cseed-Launch_2.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:30.155Z"
+  },
+  "https://response.jp/article/2026/06/06/412351.html": {
+    "title_zh": "丰田 Alphard 改良版发布，价格与日产 Elgrand 成焦点",
+    "summary_short": "丰田 Alphard 改良版发布，新增 PHEV 和 HEV 车型，价格 559.9 万日元起，与日产 Elgrand 竞争激烈。",
+    "summary_long": "丰田汽车对高端 MPV Alphard 进行了部分改良并上市，起售价 559.9 万日元。此次改良新增了 PHEV 和 HEV 车型，并强化了商品力。Z 等级新增 PHEV 车型，标配 19 英寸轮毂、真皮方向盘等。第二排配备行政级电动座椅，带电动躺椅、加热通风功能。此外，还标配双天窗、14 英寸中控屏、无线充电等。HEV 车型新增 G 等级，配备三眼 LED 大灯等。在社交网络上，该车与日产新 Elgrand 的对比引发热议。",
+    "highlights_zh": [
+      "新增 PHEV 和 HEV 车型",
+      "第二排行政级电动座椅",
+      "起售价 559.9 万日元",
+      "与日产 Elgrand 激烈竞争"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "アルファード",
+      "日产 | Nissan",
+      "エルグランド"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216767.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216767.jpg",
+      "https://response.jp/imgs/fill2/2216768.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:32.504Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535868": {
+    "title_zh": "难读地名测验：下连雀",
+    "summary_short": "介绍日本难读地名“下连雀”的正确读法，并关联三鹰市斯巴鲁 STI 圣地等观光信息。",
+    "summary_long": "日本各地存在许多容易读错的地名，本文以“下连雀”为例，介绍其正确读音，并附带三鹰市及周边的观光信息，如三鹰之森吉卜力美术馆、井之头恩赐公园，以及斯巴鲁技术国际（STI）的展示厅，吸引读者前往自驾游。",
+    "highlights_zh": [
+      "难读地名“下连雀”的正确读法",
+      "三鹰市有吉卜力美术馆和井之头公园",
+      "斯巴鲁 STI 展示厅是车迷圣地"
+    ],
+    "entities": [
+      "三鹰市",
+      "斯巴鲁 | Subaru",
+      "STI",
+      "下连雀"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31112801/c84768a466b2a435fd56d018dce99094.jpg?v=1780194482",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31112801/c84768a466b2a435fd56d018dce99094-600x400.jpg?v=1780194482",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29152149/MOVE0003_1-600x400.jpg?v=1780035711"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:34.461Z"
+  },
+  "https://bestcarweb.jp/feature/column/1529101": {
+    "title_zh": "日产 Ariya 中期改款：售价 728 万日元仍令人心动",
+    "summary_short": "日产 Ariya 中期改款后，质感与行驶性能进一步提升，编辑部成员给出真实评价。",
+    "summary_long": "日产 Ariya 于 2026 年 2 月完成中期改款，作为一款高级电动跨界 SUV，改款前已凭借流畅设计和豪华内饰广受好评。改款后进一步提升了质感与行驶品质，搭载 e-4ORCE 前后电机统合控制系统，实现高稳定性和舒适驾乘。续航里程和实用性出色，可应对日常通勤和长途驾驶。编辑部评价：动力 4 星、舒适性 3 星、内饰质感 4 星、魅力 3 星。",
+    "highlights_zh": [
+      "2026 年 2 月完成中期改款",
+      "高级电动跨界 SUV",
+      "e-4ORCE 四驱系统提供稳定舒适驾乘",
+      "编辑部综合评分：动力 4 星"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "アリア",
+      "e-4ORCE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/24140405/00_NISSAN_ARIYA_011.jpg?v=1779599047",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/24140405/00_NISSAN_ARIYA_011-600x400.jpg?v=1779599047",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29152149/MOVE0003_1-600x400.jpg?v=1780035711"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:37.342Z"
+  },
+  "https://www.motor1.com/news/797967/sedan-trunk-malfunctions/": {
+    "title_zh": "奔驰轿车后备箱无故自动开启",
+    "summary_short": "一位奔驰 C300 车主遭遇后备箱无故自动开启的怪问题，引发网友热议。",
+    "summary_long": "一位来自康涅狄格州的奔驰轿车车主在社交媒体上分享了他的烦恼：他的车后备箱会无故自动打开，且无法查明原因。视频中，他关闭后备箱后它又自动弹开，令人困惑。该问题引发网友讨论，有用户表示自己的 C300 也有类似情况。",
+    "highlights_zh": [
+      "后备箱无故自动开启",
+      "车主无法查明原因",
+      "视频显示关闭后仍弹开",
+      "网友称 C300 也有此问题"
+    ],
+    "entities": [
+      "奔驰 | Mercedes",
+      "C300"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4Orr8/s1/man-buys-a-sedan.-then-it-starts-ragebaiting-him.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:38.250Z"
+  },
+  "https://response.jp/article/2026/06/06/412352.html": {
+    "title_zh": "EVA Racing × 租赁 819：初号机、二号机、零号机涂装摩托车限时租赁",
+    "summary_short": "EVA Racing 与租赁 819 合作，推出初号机、二号机、零号机涂装摩托车，在全国机场附近门店限时租赁。",
+    "summary_long": "EVA Racing 与租赁 819 合作推出“AIRPORT TOUR 2026”企划，将初号机、二号机、零号机涂装的摩托车放置于全国机场附近门店，供用户限时租赁。该企划巡回北海道、大阪、福冈、熊本等地，旨在让旅行者体验“可骑乘的 EVA”。此前 2025 年秋季在台场的试点获得热烈反响，2026 年扩大至更多机场门店，方便旅客在旅途中享受独特的骑行体验。",
+    "highlights_zh": [
+      "初号机、二号机、零号机涂装摩托车限时租赁",
+      "全国机场附近门店巡回",
+      "2025 年台场试点反响热烈"
+    ],
+    "entities": [
+      "エヴァンゲリオンレーシング",
+      "租赁 819 | レンタル819",
+      "初号机",
+      "二号机",
+      "零号机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216785.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216785.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:42.756Z"
+  },
+  "https://bestcarweb.jp/feature/column/1531556": {
+    "title_zh": "大发 Move 没有“Custom”了？替代方案“Dandy Sport Style”能否打动人心？",
+    "summary_short": "大发 Move 取消历代受欢迎的 Custom 版本，推出 RS/G 的 Dandy Sport Style，以黑色调运动风格吸引老用户。",
+    "summary_long": "现款大发 Move 取消了历代受欢迎的“Custom”版本，取而代之的是面向 RS 和 G 车型的另一种风格“Dandy Sport Style”。该风格以黑色和枪金属色为主调，包括前格栅、品牌标识、侧裙、门把手等细节的黑色处理，以及不同尺寸的轮毂涂装。相比 Custom 的张扬，Dandy Sport Style 更显内敛运动，旨在满足原有 Custom 爱好者的需求。",
+    "highlights_zh": [
+      "现款 Move 取消 Custom 版本",
+      "新增 Dandy Sport Style 替代",
+      "黑色与枪金属色运动风格",
+      "面向 RS 和 G 车型提供"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "ムーヴ",
+      "Dandy Sport Style",
+      "Custom"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29152149/MOVE0003_1.jpg?v=1780035711",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29152149/MOVE0003_1-600x400.jpg?v=1780035711",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31112801/c84768a466b2a435fd56d018dce99094-600x400.jpg?v=1780194482"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:42.908Z"
+  },
+  "https://bestcarweb.jp/newcar/1543037": {
+    "title_zh": "丰田章男宣布今秋将北美版凯美瑞引入日本，年销目标 1 万辆",
+    "summary_short": "丰田章男宣布今秋将北美版凯美瑞引入日本，年销目标 1 万辆，并展示 700 马力 GR 凯美瑞。",
+    "summary_long": "2026 年 6 月 5 日，丰田章男在富士赛道宣布，今秋将北美生产的凯美瑞引入日本，提供右舵版本，年销目标 1 万辆。同时，丰田内部 GR 与 TR 部门以北美凯美瑞为基础展开定制车对决，GR 凯美瑞搭载前后双发动机，总功率 700 马力，成为丰田首款 7 缸车型。",
+    "highlights_zh": [
+      "北美凯美瑞今秋日本上市",
+      "年销目标 1 万辆",
+      "GR 凯美瑞 700 马力双发动机",
+      "丰田首款 7 缸车型"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "凯美瑞",
+      "GR",
+      "TR",
+      "富士赛道"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06224128/SPJ_8045.jpg?v=1780753290",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06224128/SPJ_8045-600x364.jpg?v=1780753290",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06175652/MORIZORR_3-1-600x400.jpg?v=1780736214"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:47.536Z"
+  },
+  "https://bestcarweb.jp/newcar/1542926": {
+    "title_zh": "新型 GRMN 卡罗拉开发团队谈“泥臭执着”与“森藏的坚持”",
+    "summary_short": "GRMN 卡罗拉开发团队揭秘：从超级耐久赛积累空力经验，到纽博格林暴露四驱盲点，再到胶带贴改的现场主义，展现极致执着。",
+    "summary_long": "2026 年 6 月 2 日，GAZOO Racing 全球首发了 GRMN 卡罗拉。三天后，在富士赛道欢迎广场举行了开发团队记者说明会。首席工程师坂本尚之介绍了开发背后的故事：通过超级耐久系列赛中的氢动力卡罗拉获得了空力知识，在纽博格林暴露了四驱控制的盲点，以及计算机分析旁用胶带反复粘贴的模拟现场主义。这些碳纤维空力套件——包括发动机盖导管、前侧扰流板、前轮拱导管和五级可调后翼——均在赛道中锤炼，显著提升了接地感和全油门区间。",
+    "highlights_zh": [
+      "碳纤维空力套件源自超级耐久赛",
+      "纽博格林暴露四驱控制盲点",
+      "计算机分析旁用胶带贴改的现场主义",
+      "各导管气流干扰被彻底优化"
+    ],
+    "entities": [
+      "GAZOO Racing",
+      "GRMN 卡罗拉",
+      "坂本尚之",
+      "超级耐久赛",
+      "纽博格林"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06175652/MORIZORR_3-1.jpg?v=1780736214",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06175652/MORIZORR_3-1-600x400.jpg?v=1780736214",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06224128/SPJ_8045-600x364.jpg?v=1780753290"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:49.192Z"
+  },
+  "https://www.motor1.com/news/797969/car-accident-rights/": {
+    "title_zh": "事故后拖车陷阱：律师警告车主有权决定车辆去向",
+    "summary_short": "事故后警察叫来的拖车可能将车拖至陌生地点，律师提醒车主有权决定拖车目的地，避免高额停车费。",
+    "summary_long": "一位前保险公司律师、现人身伤害律师 Todd Miner 在 TikTok 上分享建议，指出事故后调查警察叫来的拖车公司往往只关心将车辆拖至自己的停车场，从而产生高额停车费。他提醒车主有权决定车辆被拖往何处，避免陷入费用陷阱。",
+    "highlights_zh": [
+      "事故后警察叫拖车",
+      "拖车公司常将车拖至自家停车场",
+      "停车费可能迅速累积"
+    ],
+    "entities": [
+      "Todd Miner"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YzzJ/s1/cop-calls-a-tow-truck-after-an-accident.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:51.192Z"
+  },
+  "https://www.motor1.com/news/797956/mechanic-condemns-saturn-vue/": {
+    "title_zh": "机械师判定 Saturn Vue 不安全，三年后车主又开回修理厂",
+    "summary_short": "机械师三年前判定一辆 Saturn Vue 因车架锈蚀不安全，三年后车主竟再次开回修理厂，引发能否拒绝归还问题车辆的讨论。",
+    "summary_long": "密歇根州一位机械师惊讶地发现，三年前被他判定为不安全的 2008 款 Saturn Vue 再次回到了他的修理厂。视频中，机械师 Michael Pfeffer 指出车辆没有动力转向、车身损坏，且车架锈蚀严重，三年前的备忘录就写着“车架锈蚀，不适合上路”。该事件引发了关于机械师是否有权拒绝归还不安全车辆的讨论。",
+    "highlights_zh": [
+      "三年前被判定不安全的 Saturn Vue 再次进厂",
+      "车辆无动力转向",
+      "机械师质疑能否拒绝归还不安全车辆"
+    ],
+    "entities": [
+      "Saturn Vue",
+      "车架锈蚀",
+      "道路安全",
+      "机械师"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3qqo/s1/mechanic-condemns-saturn-view.-then-the-owner-brings-it-back-3-years-later.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-06T14:54:53.711Z"
   }
 }
