@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-05T16:09:47.807Z",
+    "generated_at": "2026-06-06T04:18:39.805Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 378,
+    "deepseek_untranslated_before_run": 22,
+    "newly_fetched_articles": 22,
+    "newly_fetched_untranslated": 22,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 22,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.6.5",
-        "title": "Here's How We'd Spec The Perfect Corvette Grand Sport",
-        "url": "https://www.motor1.com/news/797931/corvette-grand-sport-configurator/"
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "「ヤマハは“夢”をデザインしている」復活のヤマハ『シグナスX』がスポーティ路線に「原点回帰」した理由",
+        "url": "https://response.jp/article/2026/06/06/412345.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "「過激で面白そうやな！」トヨタ「究極のカローラ」発表にSNS興奮！ ガチすぎる仕様に注目集まる",
+        "url": "https://response.jp/article/2026/06/06/412339.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "【CARTUNE】今週の投稿！ お題は「魅惑のエンジンルーム」",
+        "url": "https://response.jp/article/2026/06/06/412341.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "【読者アンケート】あなたのカーライフやクルマへの興味について教えてください",
+        "url": "https://response.jp/article/2026/06/06/412346.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第778回",
+        "url": "https://bestcarweb.jp/feature/column/1525507"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "3列7人乗りモデル『ロッキースペース』の市販化なるか？…土曜ニュースランキング",
+        "url": "https://response.jp/article/2026/06/06/412343.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "7人乗りのルノー『グランカングー』に、“ギア感”あふれるグレーの限定車登場！ 抽選販売へ",
+        "url": "https://response.jp/article/2026/06/06/412342.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "V8搭載の4代目シーマに異常事態!? スポーツカーじゃないのに高騰しそうなクルマたち",
+        "url": "https://bestcarweb.jp/feature/column/1528926"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "いすゞの商品センスに思わず唸る!? AT限定普免で運転できるエルフミオ新モデル『冷凍バン完成車』のツウな魅力",
+        "url": "https://bestcarweb.jp/fullload/1538078"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.6",
+        "title": "カーメイトが創立60周年、特設サイトを公開 1966年創業のカー用品メーカー",
+        "url": "https://response.jp/article/2026/06/06/412340.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "スイフトスポーツなき今、普通のスイフトで満足できる？ 5MTと軽快ボディが想像以上にアツい!!",
+        "url": "https://bestcarweb.jp/feature/column/1538922"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "スバル最大SUV「アセント」今年後半に日本上陸へ!! エクシーガ以来8年ぶり3列シート＋水平対向エンジン復活か",
+        "url": "https://bestcarweb.jp/newcar/1542815"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.6",
+        "title": "四日市の新たなシンボル「よんまるテラス」が完成！ しかしバスタの運営事業者は指定取り消しにより未定だと？",
+        "url": "https://bestcarweb.jp/busmagazine/1526827"
       },
       {
         "source": "Motor1",
         "time": "2026.6.5",
-        "title": "Man Buys Mercedes. Then Something Unexpected Pops Up On The Screen: 'They Are Sending Ads To The Car Now'",
-        "url": "https://www.motor1.com/news/797846/mercedes-screen-plays-ads/"
+        "title": "Man Has Perfectly Running Ford Truck For 15 Years. Then He Puts E15 Gas In It: 'I Thought Everyone Knew'",
+        "url": "https://www.motor1.com/news/797842/ford-truck-e15-gas/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.5",
+        "title": "Honda Racing Boss: 'Look Forward' To A More Hardcore Civic Type R",
+        "url": "https://www.motor1.com/news/797959/honda-civic-type-r-hrc-preview/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.5",
-        "title": "This Audi Moves Like a Deranged Zombie Because It’s Powered by Compressed Air",
-        "url": "https://www.thedrive.com/news/this-audi-moves-like-a-deranged-zombie-because-its-powered-by-compressed-air"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.5",
-        "title": "Slate Could Have A Powerful New Friend In Carvana",
-        "url": "https://insideevs.com/news/797854/slate-carvana-investment-potential-amazon/"
+        "title": "The World Has Lost a Master of Automotive Cutaway Illustrations",
+        "url": "https://www.thedrive.com/news/the-world-has-lost-a-master-of-automotive-cutaway-illustrations"
       },
       {
         "source": "The Drive",
         "time": "2026.6.5",
-        "title": "2026 Lexus RX500h Pros and Cons Review: For Best Results, Skip the F Sport",
-        "url": "https://www.thedrive.com/car-reviews/2026-lexus-rx500h-pros-and-cons-review"
+        "title": "Fernando Alonso Is Angry: 2026 F1 Cars Are the ‘Worst Ever’ and ‘Should Not Be Racing’",
+        "url": "https://www.thedrive.com/news/fernando-alonso-is-angry-2026-f1-cars-are-the-worst-ever-and-should-not-be-racing"
       },
       {
         "source": "Motor1",
         "time": "2026.6.5",
-        "title": "These 97 Car Dealers Were Warned About 'Deceptive' Pricing By The FTC",
-        "url": "https://www.motor1.com/news/797853/deceptive-pricing-dealers-ftc-letters-list/"
+        "title": "The Dodge Charger EV Got A Massive Price Hike",
+        "url": "https://www.motor1.com/news/797936/2027-dodge-charger-pricing-trims/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.5",
-        "title": "The Subaru BRZ’s Starting Price Has Risen Over $8,000 in Six Years: TDS",
-        "url": "https://www.thedrive.com/news/the-subaru-brz-has-gone-up-over-8000-in-six-years-tds"
+        "title": "John Deere Tractor With V16 Detroit Diesel Tugboat Engine Is a Sled-Pulling Machine",
+        "url": "https://www.thedrive.com/news/john-deere-tractor-with-v16-detroit-diesel-tugboat-engine-is-a-sled-pulling-machine"
       },
       {
         "source": "Motor1",
         "time": "2026.6.5",
-        "title": "Hyundai Has 5 New Models Coming In 2026. Here's All Of Them",
-        "url": "https://www.motor1.com/news/797835/new-hyundai-models-2026/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "「エイビス バジェット・レンタカー」、博多駅中央店オープン…博多駅から徒歩約1分",
-        "url": "https://response.jp/article/2026/06/05/412332.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "ASA Motion Link準拠の車載試験ソリューション、自動運転向け高速センサーデータ伝送の信頼性を確保…ローデ・シュワルツ",
-        "url": "https://response.jp/article/2026/06/05/412325.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "EVバッテリー検査器「ST5680A」、グローバル規格対応で世界統一運用が可能に…HIOKIが発売",
-        "url": "https://response.jp/article/2026/06/05/412329.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "JALカーゴハンドリング、フォークリフト運転技能講習を開始…航空業界初の登録教習機関に",
-        "url": "https://response.jp/article/2026/06/05/412324.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "KTM、新型アドベンチャー『390 アドベンチャーX』発売、価格は79万9000円",
-        "url": "https://response.jp/article/2026/06/05/412335.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "アウディ初のハイブリッドスーパーカー『ヌヴォラーリ』発表、V8エンジン搭載で最高出力1000馬力超",
-        "url": "https://response.jp/article/2026/06/05/412321.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "アルミボディのカッコイイ車載冷蔵庫登場!! 家庭用冷蔵庫並みの冷却性能もスゴイ!!",
-        "url": "https://bestcarweb.jp/news/1535197"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "カスタムじゃないのにターボ選べるのは激アツ!! タントなら「12万円台アップ」で一気に極上仕様へ大化けできる!?",
-        "url": "https://bestcarweb.jp/feature/column/1534407"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "スイフト対ヤリス!! 燃費のヤリスか？ 走りのスイフトか？ 5ナンバーコンパクトの正解選び",
-        "url": "https://bestcarweb.jp/news/1538660"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "スズキ、『ジムニー シエラ GOZEL』初公開へ…6月14日「ジムニーサンライト2026」",
-        "url": "https://response.jp/article/2026/06/05/412318.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.5",
-        "title": "ただの偏光レンズとはワケが違う!! 運転のプロが「本物」と絶賛する驚異のカラーコントロール",
-        "url": "https://bestcarweb.jp/news/car-accessory/1540343"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.5",
-        "title": "トヨタ・コニック・プロとアソビシステム、「KAWAII」共創IP事業を開始…中古車スタイルアップ事業との連携も",
-        "url": "https://response.jp/article/2026/06/05/412333.html"
+        "title": "Volvo's Most Popular SUV Is Getting A Major Update",
+        "url": "https://www.motor1.com/news/797929/volvo-xc60-phev-design-powertrain-update/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-06-05T16:09:48.124Z",
-    "finished_at": "2026-06-05T16:10:50.807Z",
+    "scoped_articles": 22,
+    "queued_articles": 22,
+    "processed": 22,
+    "started_at": "2026-06-06T04:18:40.092Z",
+    "finished_at": "2026-06-06T04:19:19.774Z",
     "success": true,
     "error": ""
   }
