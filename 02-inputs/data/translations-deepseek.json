@@ -26589,5 +26589,234 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-07T04:55:16.480Z"
+  },
+  "https://www.motor1.com/news/797993/fox-rent-a-car-900-dollar-surprise-car/": {
+    "title_zh": "女子花 900 美元租到“惊喜”豪车，结果大失所望",
+    "summary_short": "一名女子首次租车，选择 900 美元的惊喜豪华 SUV 选项，结果得到的车型令人失望，被网友调侃“被耍了”。",
+    "summary_long": "一名女子在租车时选择了 900 美元的惊喜选项，期望获得一辆豪华 SUV，但最终得到的车型并不符合预期。她和朋友均未满 25 岁，这是她们第一次租车。该视频在 TikTok 上获得超过 74 万次观看，网友评论称“你被耍了”。",
+    "highlights_zh": [
+      "女子花 900 美元选惊喜租车选项",
+      "期望豪华 SUV",
+      "两人均未满 25 岁",
+      "视频在 TikTok 获超 74 万次观看"
+    ],
+    "entities": [
+      "TikTok",
+      "豪华 SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWr3y/s1/woman-goes-to-rental-car-stand.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:41.402Z"
+  },
+  "https://www.thedrive.com/news/this-amphibious-6x6-is-a-true-atv-with-a-bulletproof-honda-engine-and-you-can-buy-it": {
+    "title_zh": "这款水陆两栖 6×6 全地形车搭载本田发动机，售价仅 3000 美元",
+    "summary_short": "一款罕见的 Attex 6×6 水陆两栖 ATV 在 Facebook Marketplace 上出售，搭载可靠的本田四冲程发动机，售价 3000 美元。",
+    "summary_long": "一款罕见的 Attex 6×6 水陆两栖 ATV 出现在 Facebook Marketplace 上，售价 3000 美元。该车搭载本田四冲程发动机，可靠性高且动力充沛，可用于牵引拖车和船只。其转向方式类似坦克，通过制动一侧车轮实现，在狭窄空间内机动灵活。Attex 公司由 Maytag 继承人于 1967 年创立，这款车型代表了早期 ATV 的经典设计。",
+    "highlights_zh": [
+      "水陆两栖 6×6 全地形车",
+      "搭载本田四冲程发动机",
+      "售价仅 3000 美元",
+      "可牵引船只和拖车"
+    ],
+    "entities": [
+      "Attex",
+      "本田",
+      "全地形车",
+      "水陆两栖"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/711567291_27905520619035579_24712037860251793_n.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/710813117_27905461482374826_2293105016829558661_n.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/711848587_27905461562374818_3167727973179568415_n.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:41.663Z"
+  },
+  "https://response.jp/article/2026/06/07/412369.html": {
+    "title_zh": "LimeBike 电动助力共享单车亚洲首发，东京启动服务",
+    "summary_short": "Lime 在东京 7 区推出电动助力共享单车 LimeBike，解决城市“最后一英里”出行难题，计划扩展至 16 区。",
+    "summary_long": "全球电动出行共享服务商 Lime 在亚洲首次推出电动助力自行车 LimeBike，率先在东京 7 区部署车辆，未来将扩展至 16 区。该服务旨在解决城市中从车站到目的地之间的“最后一英里”出行痛点，适用于通勤、购物及观光等多种场景。LimeBike 已获得日本警察厅型式认证，符合道路交通法规。",
+    "highlights_zh": [
+      "亚洲首次引入 LimeBike 共享电助力单车",
+      "东京 7 区率先启动",
+      "解决“最后一英里”出行难题",
+      "已获日本警察厅型式认证"
+    ],
+    "entities": [
+      "Lime",
+      "LimeBike",
+      "东京"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216761.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216761.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:45.510Z"
+  },
+  "https://bestcarweb.jp/feature/column/1528887": {
+    "title_zh": "2001 年式三菱 Lancer Evolution VII 可能升值？中古车价看涨 3 选",
+    "summary_short": "美国 25 年规则解禁日本进口车，三菱 Lancer Evolution VII 等三款车型中古价可能上涨。",
+    "summary_long": "美国 25 年规则允许车龄满 25 年的日本车进口，需求增加将推高中古车价。本文介绍三款可能涨价的车型：2001 年三菱 Lancer Evolution VII，中古价 280 万-560 万日元；马自达 Roadster（MX-5）限量版，中古价 80 万-170 万日元；以及另一款未具名车型。其中 EVO VII 因刚性提升和电子控制 ACD 系统备受关注。",
+    "highlights_zh": [
+      "美国 25 年规则解禁日本进口车",
+      "三菱 Lancer Evolution VII 中古…",
+      "马自达 Roadster 限量版中古价 80 万-1…",
+      "流通量少是升值关键"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Lancer Evolution VII",
+      "马自达 | Mazda",
+      "MX-5"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23153941/00_mitsubishi_lancer_evolution_2001_head.jpg?v=1779518383",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23153941/00_mitsubishi_lancer_evolution_2001_head-600x400.jpg?v=1779518383",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29205120/00_move_head-600x400.jpg?v=1780055481"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:46.820Z"
+  },
+  "https://response.jp/article/2026/06/07/412371.html": {
+    "title_zh": "iPhone“查找”应用联动，两款车载配件可追踪爱车位置",
+    "summary_short": "两款支持 iPhone“查找”应用的车载配件上市，可在大型停车场定位车辆，并辅助追踪被盗车辆。",
+    "summary_long": "本文介绍了两款可与 iPhone“查找”应用联动的车载配件。第一款是 Carmate 推出的“查找”对应 2 端口车载充电器（USB-A+C），插入点烟器后不仅提供 33W 快充，还能通过内置电容在熄火后约一周内持续发送信号，利用周边 iPhone 网络上传位置，让用户在“查找”应用中查看车辆位置。另一款产品同样支持该功能，帮助用户在大型停车场快速找到爱车，或在车辆被盗时追踪其行踪。“查找”应用为 iPhone 内置功能，无需额外安装或月费。",
+    "highlights_zh": [
+      "两款配件支持 iPhone“查找”应用",
+      "可在大型停车场定位车辆",
+      "熄火后持续工作约一周",
+      "无需安装或月费"
+    ],
+    "entities": [
+      "iPhone",
+      "カーメイト",
+      "车载充电器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216845.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216845.jpg",
+      "https://response.jp/imgs/fill2/2216844.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:50.438Z"
+  },
+  "https://www.motor1.com/news/797992/walmart-ev-chargers-no-canopy/": {
+    "title_zh": "男子在沃尔玛充电发现设计缺陷：充电桩为何没有雨棚？",
+    "summary_short": "一名 Twitch 主播在沃尔玛充电时吐槽充电桩没有雨棚，引发对充电设施设计的讨论。",
+    "summary_long": "一名 Twitch 主播在沃尔玛停车场充电时，拍摄视频质疑为何电动汽车充电桩不像加油站那样设有遮雨棚。这一问题涉及历史、安全以及新一代充电站的到来，未来充电站将配备更完善的设施。",
+    "highlights_zh": [
+      "充电桩缺乏遮雨棚",
+      "与加油站对比引发讨论",
+      "涉及历史与安全因素",
+      "新一代充电站将改进"
+    ],
+    "entities": [
+      "沃尔玛 | Walmart",
+      "Twitch"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8lOA/s1/man-takes-his-ev-to-charge-at-walmart.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:50.618Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1543286": {
+    "title_zh": "GR KART：40 万日元以下的发动机卡丁车，颠覆赛车入门门槛",
+    "summary_short": "丰田 GR 推出售价低于 40 万日元的发动机卡丁车 GR KART，大幅降低赛车运动入门成本与维护门槛。",
+    "summary_long": "丰田 GAZOO Racing（GR）于 2026 年 6 月 5 日发布了新型发动机卡丁车 GR KART，售价预计低于 40 万日元，远低于传统入门级卡丁车 100 万日元以上的价格。该车采用专用长寿命轮胎（约 1 万日元/套），并配备自动张紧器皮带驱动系统，免去链条润滑和调整的麻烦，显著降低维护成本。此外，GR KART 无需大型厢式货车运输，可用普通家用车拖运，解决了卡丁车运动长期存在的运输和存放难题。GR 旨在通过这款低成本、易维护的车型，彻底改变赛车运动的入口。",
+    "highlights_zh": [
+      "售价低于 40 万日元",
+      "专用轮胎约 1 万日元/套",
+      "皮带驱动免维护",
+      "可用普通家用车运输"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR",
+      "GR KART"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07200454/FUJI-10.jpg?v=1780830295",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07200454/FUJI-10-600x400.jpg?v=1780830295",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04160947/4dffe0ef7fdfb03ec5bd17994a84927d-600x331.jpg?v=1780556988"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:55.554Z"
+  },
+  "https://response.jp/article/2026/06/07/412368.html": {
+    "title_zh": "丰田 Hilux Surf 经典回顾：SUV 热潮下的产物",
+    "summary_short": "丰田 Hilux Surf 诞生于北美 SUV 热潮，本文回顾其第二代车型的设计、内饰与动力配置。",
+    "summary_long": "丰田 Hilux Surf 顺应北美 SUV 热潮而生，最初基于皮卡加装 FRP 车顶。本文展示的是 1989 年推出的第二代后期型（1993 年 8 月）。与初代相比，第二代采用一体式车身，提供两门和四门版本，中期改款后增加宽体套件并取消两门版。内饰沿用当时丰田乘用车设计，配备手刹拉杆，顶配 SSR-G 标配 Recaro 座椅。后排座椅可左右独立调节并折叠，提供宽敞行李空间。动力方面，搭载 3.0 升柴油涡轮增压（1KZ-TE）和 3.0 升 V6（3VZ-EFI）两款发动机。",
+    "highlights_zh": [
+      "第二代 Hilux Surf 采用一体式车身",
+      "顶配 SSR-G 标配 Recaro 座椅",
+      "后排座椅可折叠",
+      "提供 3.0L 柴油涡轮和 3.0L V6 发动机"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Hilux Surf",
+      "Recaro",
+      "1KZ-TE",
+      "3VZ-EFI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216920.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216920.jpg",
+      "https://response.jp/imgs/fill2/2216919.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:55.685Z"
+  },
+  "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/": {
+    "title_zh": "特斯拉 Model Y 电池测试：1.6 万英里快充为主，容量保持 99%",
+    "summary_short": "一辆行驶 1.6 万英里、以快充为主的特斯拉 Model Y，电池容量仍保持 99%，得益于车主避免满充和低电量。",
+    "summary_long": "频繁快充会加速电池衰减，但通过避免充至 100%和低于 20%电量可缓解。加拿大车主对行驶 1.6 万英里、快充占比过半的 Model Y 进行电池测试，结果容量保持 99%，满电续航仍为 326 英里，与新车一致。",
+    "highlights_zh": [
+      "1.6 万英里后电池容量保持 99%",
+      "快充占比超过 50%",
+      "避免满充和低电量是关键",
+      "满电续航仍为 326 英里"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y",
+      "电池衰减",
+      "快充"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0eOxZV/s1/2026-tesla-model-y-juniper.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:02:59.570Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535029": {
+    "title_zh": "不到 200 万日元！全新大发 Move 性价比之选还是 RS？",
+    "summary_short": "全新大发 Move 起价不到 200 万日元，RS 版配备双侧电动滑门和涡轮增压，性价比突出。",
+    "summary_long": "时隔约两年，第七代大发 Move 正式上市，与 Move Canvas 一同成为热门车型。在众多配置中，RS 涡轮增压版被认为最划算：相比自然吸气 G 版贵 18.15 万日元，但增加了价值约 12 万日元的配置，包括驾驶辅助功能、右侧电动滑门等，实际涡轮增压差价仅约 6 万日元。此外，Move Canvas Stripe G 版虽比 Move G 贵 3.85 万日元，但配备 18 万日元价值的装备，性价比更高。",
+    "highlights_zh": [
+      "RS 版售价低于 200 万日元",
+      "双侧电动滑门为标配",
+      "涡轮增压实际差价仅 6 万日元",
+      "Canvas Stripe G 版配置超值"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "ムーヴ",
+      "ムーヴキャンバス",
+      "RS",
+      "涡轮增压"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29205120/00_move_head.jpg?v=1780055481",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29205120/00_move_head-600x400.jpg?v=1780055481",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23153941/00_mitsubishi_lancer_evolution_2001_head-600x400.jpg?v=1779518383"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T15:03:00.193Z"
   }
 }

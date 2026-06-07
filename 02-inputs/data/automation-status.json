@@ -1,122 +1,80 @@
 {
   "workflow": {
-    "generated_at": "2026-06-07T04:54:40.452Z",
+    "generated_at": "2026-06-07T15:02:37.449Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 383,
-    "deepseek_untranslated_before_run": 17,
-    "newly_fetched_articles": 17,
-    "newly_fetched_untranslated": 17,
+    "deepseek_translated_before_run": 390,
+    "deepseek_untranslated_before_run": 10,
+    "newly_fetched_articles": 10,
+    "newly_fetched_untranslated": 10,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 17,
+    "translation_queue_count": 10,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "「未来的すぎてやばい」アウディ初のハイブリッドスーパーカー『ヌヴォラーリ』発表！ SNSの注目はデザインに",
-        "url": "https://response.jp/article/2026/06/07/412364.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "「猛暑に強いバイク用ナビ」ガーミンの最新モデル『zūmo XT3』発売 価格は9万9800円",
-        "url": "https://response.jp/article/2026/06/07/412361.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "【バス運転士日誌】運転士1年目のフォローアップ研修って一体!? 何をするんでしょ？",
-        "url": "https://bestcarweb.jp/busmagazine/1506601"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「VR」",
-        "url": "https://bestcarweb.jp/feature/column/1530449"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "638万円！ 伊ビモータ「TESI H2 TERA」日本上陸…カワサキZ H2のスーパーチャージャー搭載",
-        "url": "https://response.jp/article/2026/06/07/412360.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "C28系『セレナ』をスタイリッシュにローダウン！ ブリッツの車高調「DAMPER ZZ-R」シリーズが適合",
-        "url": "https://response.jp/article/2026/06/07/412366.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "インバウンド向けバイク文化体験コーナー「NAPS Riders Lounge」、ナップス京都八幡店にオープン",
-        "url": "https://response.jp/article/2026/06/07/412365.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "お買い得なのは上位グレードのハイブリッドXだけど……!! ちょっとお高めなスペーシアギアは「価格差以上の大満足」!?",
-        "url": "https://bestcarweb.jp/feature/column/1534721"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "まさかのヴィトン!? 匠の手作業で作られた特別仕様がスゴすぎる！ トロフィートランクの魅力とは",
-        "url": "https://bestcarweb.jp/feature/column/1528961"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "レクサスRXとNXの中古は今が狙い目か？ 相場でわかった“買い”の境界線",
-        "url": "https://bestcarweb.jp/feature/column/1533771"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.7",
-        "title": "'Fuel Is Not A Problem': Man Buys Truck That Gets 8 MPG. Then He Figures Out A Way To Run It For Free",
-        "url": "https://www.motor1.com/news/797982/military-truck-multi-fuel-engine/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.6",
-        "title": "Woman Goes To Sam’s Club. Then She Realizes Everyone’s In Line For Gas: ‘Apparently Gas Is Going Up Tomorrow’",
-        "url": "https://www.motor1.com/news/797981/sams-club-gas-will-prices-go-up/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.6",
-        "title": "Mechanic Asked To Name The Most Reliable Vehicle. His Response May Surprise You: ‘The Potential To Reach 650,000 Reliable Miles’",
-        "url": "https://www.motor1.com/news/797980/is-lexus-is250-reliable/"
-      },
-      {
         "source": "The Drive",
-        "time": "2026.6.6",
-        "title": "Nerdy Two-Minute Explainer Shows How Vibrations Affect Different Hardware on Your Car",
-        "url": "https://www.thedrive.com/news/nerdy-two-minute-explainer-shows-how-vibrations-affect-different-hardware-on-your-car"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.6",
-        "title": "Yes, You Need This Lexus V8-Swapped Isuzu Vehicross With a Five-Speed",
-        "url": "https://www.thedrive.com/news/yes-you-need-this-lexus-v8-swapped-isuzu-vehicross-with-a-five-speed"
+        "time": "2026.6.7",
+        "title": "This Amphibious 6×6 Is a True ATV With a Bulletproof Honda Engine, and You Can Buy It",
+        "url": "https://www.thedrive.com/news/this-amphibious-6x6-is-a-true-atv-with-a-bulletproof-honda-engine-and-you-can-buy-it"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.6",
-        "title": "How Audi Turned Lamborghini's Hybrid Supercar Into Something Entirely Its Own",
-        "url": "https://www.motor1.com/features/797972/audi-nuvolari-vs-lamborghini-temerario-differences/"
+        "time": "2026.6.7",
+        "title": "Woman Goes To Rental Car Stand. Then She Gets The $900 Surprise Rental: ‘My First Rental Car’",
+        "url": "https://www.motor1.com/news/797993/fox-rent-a-car-900-dollar-surprise-car/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.6.6",
-        "title": "This Ford Super Duty Mega Camper Is One of the Most Extreme RVs Ever",
-        "url": "https://www.thedrive.com/news/this-ford-super-duty-mega-camper-is-one-of-the-most-extreme-rvs-ever"
+        "source": "Response.jp",
+        "time": "2026.6.7",
+        "title": "「LimeBike」、電動アシスト自転車シェアがアジア初上陸…東京でサービス開始",
+        "url": "https://response.jp/article/2026/06/07/412369.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.7",
+        "title": "2001年式「ランエボVII」が値上がりの可能性も!? 中古価格が上がりそうなクルマ3選",
+        "url": "https://bestcarweb.jp/feature/column/1528887"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.7",
+        "title": "iPhoneの「探す」アプリと連携し、愛車の“居所”を知れるアイテムが2つ登場！［特選カーアクセサリー名鑑］",
+        "url": "https://response.jp/article/2026/06/07/412371.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.7",
+        "title": "Man Takes His Ev To Charge At Walmart. Then He Notices A Major Design Flaw: ‘Why Can’t We Build Chargers?’",
+        "url": "https://www.motor1.com/news/797992/walmart-ev-chargers-no-canopy/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.7",
+        "title": "SUVブームに乗って登場したトヨタ『ハイラックスサーフ』【懐かしのカーカタログ】",
+        "url": "https://response.jp/article/2026/06/07/412368.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.7",
+        "title": "エンジンカートに革命!! GRが40万円以下のマシン投入!! 「GR KART」がモータースポーツの入口を根本から変える",
+        "url": "https://bestcarweb.jp/news/car-accessory/1543286"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.7",
+        "title": "まさかの200万円切り!! 両側パワースライドドアまで付いた新型ムーヴの「お買い得グレード」はやっぱりRSか!?",
+        "url": "https://bestcarweb.jp/feature/column/1535029"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.7",
+        "title": "Tesla Model Y Battery Tested After 16,000 Miles Of Mostly Fast Charging",
+        "url": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27083147772",
-    "sha": "b9d05d9cc45ac77c158a4ed44f8e0a4ebb924b79",
-    "completed_at": "2026-06-07T04:55:16.703Z",
+    "run_id": "27096137052",
+    "sha": "53517350fc2ffd0ba625dcdf29ddaa93154c2c7a",
+    "completed_at": "2026-06-07T15:03:00.455Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -127,11 +85,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 17,
-    "queued_articles": 17,
-    "processed": 17,
-    "started_at": "2026-06-07T04:54:40.728Z",
-    "finished_at": "2026-06-07T04:55:16.487Z",
+    "scoped_articles": 10,
+    "queued_articles": 10,
+    "processed": 10,
+    "started_at": "2026-06-07T15:02:37.741Z",
+    "finished_at": "2026-06-07T15:03:00.202Z",
     "success": true,
     "error": ""
   }
