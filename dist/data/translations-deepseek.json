@@ -26191,5 +26191,403 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-06T14:54:53.711Z"
+  },
+  "https://response.jp/article/2026/06/07/412364.html": {
+    "title_zh": "奥迪首款混动超跑 Nuvolar 发布，设计引热议",
+    "summary_short": "奥迪首款混动超跑 Nuvolar 发布，限量 499 台，2027 年交付，设计前卫引热议。",
+    "summary_long": "奥迪推出首款混动超跑 Nuvolar，限量 499 台，2027 年初交付。新车基于全新设计哲学，采用钛金属色，内饰致敬奥迪传奇赛车。动力由 4.0L V8 双涡轮增压引擎与三电机组成，综合功率超 1000 马力。",
+    "highlights_zh": [
+      "奥迪首款混动超跑",
+      "限量 499 台",
+      "2027 年初交付",
+      "综合功率超 1000 马力"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Nuvolar",
+      "混动超跑",
+      "钛金属色"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216940.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216940.jpg",
+      "https://response.jp/imgs/fill2/2216942.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:44.714Z"
+  },
+  "https://response.jp/article/2026/06/07/412361.html": {
+    "title_zh": "Garmin 发布新款摩托车导航 zūmo XT3，售价 9.98 万日元",
+    "summary_short": "Garmin 推出摩托车导航 zūmo XT3，配备 6 英寸高亮屏，支持手套操作，新增倾角测量功能。",
+    "summary_long": "Garmin 日本于 6 月 4 日发布摩托车导航 zūmo XT3，售价 9.98 万日元（含税）。该设备配备 6 英寸 1280×720 像素高亮度显示屏，阳光下清晰可见，支持手套触摸操作，可横竖安装。符合美军 MIL-STD-810 标准，防水等级 IPX7，工作温度-15°C 至 55°C。新增车身倾角测量功能，有助于防止侧滑事故。订阅 Garmin Performance Package（月费 1680 日元）可解锁直线加速计时器，记录 0-100km/h、200 米和 400 米加速时间。",
+    "highlights_zh": [
+      "6 英寸高亮屏",
+      "支持手套操作",
+      "新增倾角测量",
+      "可选订阅获得直线加速计时功能"
+    ],
+    "entities": [
+      "Garmin",
+      "zūmo XT3"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216955.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216955.jpg",
+      "https://response.jp/imgs/fill2/2216956.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:45.252Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530449": {
+    "title_zh": "汽车界缩写谜题：VR",
+    "summary_short": "汽车行业缩写谜题系列，本期介绍 VR（虚拟现实）在汽车领域的应用与普及。",
+    "summary_long": "汽车行业充斥着各种英文缩写，如 DX、KPI、PDCA 等。本系列以谜题形式介绍汽车相关缩写，本期聚焦 VR（Virtual Reality）。VR 通过头戴显示器等设备让用户沉浸于计算机生成的虚拟世界，近年来在娱乐、IT、教育及汽车领域迅速普及，甚至可通过智能手机和游戏机轻松体验。",
+    "highlights_zh": [
+      "VR 是 Virtual Reality 的缩写",
+      "通过 HMD 设备实现虚拟沉浸",
+      "在汽车领域应用日益广泛",
+      "现可借助手机和游戏机体验"
+    ],
+    "entities": [
+      "Virtual Reality",
+      "Head Mounted Display"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110640/00c.png?v=1779761201",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110640/00c-600x400.png?v=1779761201",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04110213/5efd4890362680247bc1263595ed4d93-600x400.jpg?v=1780538534"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:48.647Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1506601": {
+    "title_zh": "巴士司机日记：入职第一年的跟进培训究竟做什么？",
+    "summary_short": "富士急集团对入职一年的巴士司机进行跟进培训，记者亲身体验并报告培训内容与过程。",
+    "summary_long": "富士急集团旗下富士急行公司的巴士司机在入职一年后需参加跟进培训，旨在巩固技能并纠正不良习惯。记者作为临时司机，在结束芝浦港南路线运营后，通过业务无线接到培训通知。培训内容包括驾驶技术、安全规范及通信设备使用等，体现了公司对司机持续教育的重视。",
+    "highlights_zh": [
+      "富士急集团对一年驾龄司机进行再教育",
+      "培训通过业务无线通知",
+      "车辆配备 VHF 模拟无线和 IP 无线两套系统",
+      "培训旨在巩固技能、纠正不良习惯"
+    ],
+    "entities": [
+      "富士急集团",
+      "富士急行",
+      "巴士司机",
+      "跟进培训",
+      "业务无线"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/08113521/9b53b5f0eac715e4417c5354ea0fc780-1024x768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/21165932/DSC01371-1024x684.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/19162918/LINE_ALBUM_20260105_260109_19-1024x576.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:48.683Z"
+  },
+  "https://response.jp/article/2026/06/07/412360.html": {
+    "title_zh": "638 万日元！意大利 Bimota TESI H2 TERA 登陆日本，搭载川崎 Z H2 机械增压引擎",
+    "summary_short": "意大利 Bimota 与川崎合作，推出搭载 Z H2 机械增压引擎的 TESI H2 TERA，售价 638 万日元，7 月 1 日开售。",
+    "summary_long": "川崎日本宣布作为意大利高端手工摩托车品牌 Bimota 的日本总进口商，将销售新型号 TESI H2 TERA。该车结合了川崎 Z H2 的机械增压发动机与 Bimota 标志性的 TESI 中心轮毂转向系统，是一款激进的跨界车型。低中转速区间提供强劲扭矩，高转速区间展现卓越性能，带来超越跨界车级别的加速感。新开发的 TERA 转向系统在保证大转向角的同时，实现了骑手与前轮的直接连接，并凭借 TESI 系列特有的防俯冲/防抬升特性，提供流畅精准的操控。售价 638 万日元，仅限 Bimota 授权经销商销售。",
+    "highlights_zh": [
+      "搭载川崎 Z H2 机械增压引擎",
+      "Bimota 标志性 TESI 中心轮毂转向",
+      "新 TERA 转向系统提升操控",
+      "售价 638 万日元"
+    ],
+    "entities": [
+      "Bimota",
+      "川崎 | Kawasaki",
+      "Z H2",
+      "TESI H2 TERA"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216864.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216864.jpg",
+      "https://response.jp/imgs/fill2/2216871.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:52.861Z"
+  },
+  "https://response.jp/article/2026/06/07/412366.html": {
+    "title_zh": "C28 系日产 Serena 适配 Blitz DAMPER ZZ-R 系列避震器",
+    "summary_short": "Blitz 为 C28 系日产 Serena 推出 DAMPER ZZ-R 系列避震器，降低车身提升操控，兼顾舒适性。",
+    "summary_long": "改装零件制造商 Blitz 为其在售的 DAMPER ZZ-R 及 DAMPER ZZ-R SpecDSC Plus 系列避震器新增了 C28 系日产 Serena（含改款后 e-Power 车型）的适配。该避震器采用单筒式结构，具备全长调整和 32 段阻尼力调节功能，可应对从街道到赛道的多种驾驶场景。针对 Serena 车型，Blitz 进行了专门调校，抑制了 MPV 特有的高重心和侧倾感，提升了过弯性能，同时兼顾第二、三排的乘坐舒适性。产品附带前强化橡胶上座和前可调稳定杆连杆，售价 23.1 万日元。",
+    "highlights_zh": [
+      "适配 C28 系 Serena（含 e-Power）",
+      "单筒式全长调整+32 段阻尼",
+      "抑制侧倾",
+      "兼顾第二、三排舒适性"
+    ],
+    "entities": [
+      "BLITZ",
+      "日产 | Nissan",
+      "セレナ",
+      "DAMPER ZZ-R"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216794.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216794.jpg",
+      "https://response.jp/imgs/fill2/2216795.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:53.569Z"
+  },
+  "https://response.jp/article/2026/06/07/412365.html": {
+    "title_zh": "面向访日外国人的摩托车文化体验区“NAPS Riders Lounge”在京都八幡店开业",
+    "summary_short": "NAPS 在京都八幡店开设面向访日外国人的摩托车文化体验区“NAPS Riders Lounge”，提供日本定制与骑行文化体验。",
+    "summary_long": "日本摩托车用品零售商 NAPS 宣布将在全国门店陆续开设面向访日外国人的摩托车文化体验区“NAPS Riders Lounge”。首店于 6 月 6 日在京都八幡店开业。随着 2025 年访日外国人数创历史新高，对日本摩托车装备和文化的兴趣日益增长，但专门体验日本摩托车文化的场所有限。NAPS 以此为契机，打造超越销售区的体验空间，让全球骑手感受日本定制与骑行文化。",
+    "highlights_zh": [
+      "NAPS 推出面向访日外国人的摩托车文化体验区",
+      "首店在京都八幡店开业",
+      "提供日本定制与骑行文化体验",
+      "应对访日骑手对日本摩托车文化的高涨兴趣"
+    ],
+    "entities": [
+      "NAPS",
+      "京都八幡店"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216765.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216765.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:56.512Z"
+  },
+  "https://bestcarweb.jp/feature/column/1534721": {
+    "title_zh": "铃木 Spacia 与 Spacia Gear 选购指南：高配混动更划算？",
+    "summary_short": "铃木 Spacia 家族推荐高配混动 X，但价格更高的 Spacia Gear 带来超值满足感。",
+    "summary_long": "铃木 Spacia 自 2013 年初代上市，现为第三代，衍生出 Base 和 Gear 车型，并配备轻自动车首款脚凳式多功能折叠板。本文对比各等级性价比，认为标准车身的高配混动 X 最划算，相比入门混动 G 增加了电动侧滑门、多功能折叠板、后排出风口、座椅加热等价值 32 万日元的配置。自然吸气发动机在实用转速下扭矩不足，涡轮增压版扭矩提升 1.7 倍，油耗仅恶化 8%，适合多坡地区用户，但标准车身未提供涡轮选项。",
+    "highlights_zh": [
+      "推荐高配混动 X",
+      "自然吸气版扭矩不足",
+      "Spacia Gear 价格更高但满意度更高",
+      "涡轮版油耗仅比自吸高 8%"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Spacia",
+      "Spacia Gear",
+      "轻自动车",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29171114/00_nb_spacia_head.jpg?v=1780042276",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29171114/00_nb_spacia_head-600x400.jpg?v=1780042276",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04110213/5efd4890362680247bc1263595ed4d93-600x400.jpg?v=1780538534"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:54:58.007Z"
+  },
+  "https://bestcarweb.jp/feature/column/1528961": {
+    "title_zh": "路易威登为 F1 日本大奖赛定制奖杯箱",
+    "summary_short": "路易威登为 2026 年 F1 日本大奖赛手工打造特制奖杯箱，融合品牌经典与铃鹿赛道元素。",
+    "summary_long": "2026 年 F1 日本大奖赛于 3 月末在铃鹿赛道举行，梅赛德斯 AMG 车手安东内利夺冠。路易威登为其定制了特制奖杯箱，由巴黎郊区阿尼埃尔工坊的工匠手工制作。箱体采用经典 Monogram 帆布，饰以代表胜利的 V 形徽章，并以红白配色体现日本特色，搭配黑白棋盘格图案象征终点线，致敬铃鹿赛道的历史与动感精神。",
+    "highlights_zh": [
+      "路易威登为 F1 日本大奖赛定制奖杯箱",
+      "由巴黎工坊工匠手工制作",
+      "Monogram 帆布搭配 V 形胜利徽章",
+      "红白配色与棋盘格致敬铃鹿赛道"
+    ],
+    "entities": [
+      "路易威登",
+      "F1 日本大奖赛",
+      "梅赛德斯 AMG | Mercedes-AMG",
+      "铃鹿赛道"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23200753/00_benz_F1jpn_M590180.jpg?v=1779534475",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/23200753/00_benz_F1jpn_M590180-600x400.jpg?v=1779534475",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04110213/5efd4890362680247bc1263595ed4d93-600x400.jpg?v=1780538534"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:01.176Z"
+  },
+  "https://bestcarweb.jp/feature/column/1533771": {
+    "title_zh": "雷克萨斯 RX 与 NX 二手车：现在是否值得入手？行情揭示“买点”",
+    "summary_short": "雷克萨斯 RX 与 NX 二手车行情分析：现款 RX 价格坚挺，先代 RX 性价比凸显，NX 则因尺寸适中、价格亲民成为务实之选。",
+    "summary_long": "雷克萨斯热门 SUV RX 与 NX 的二手车市场正迎来入手时机。现款 RX 中古车价格约 570 万-1099 万日元，平均 769 万日元，接近新车价，优势在于缩短交期而非价格。先代 RX 平均约 399 万日元，其中 RX450h 兼具静谧与动力，RX300 更实惠，适合追求豪华 SUV 体验的买家。NX 方面，现款新车价 550 万-772.5 万日元，尺寸比 RX 小一圈，日常驾驶更灵活，中古车价格更为亲民，是注重实用性的理想选择。",
+    "highlights_zh": [
+      "现款 RX 中古价接近新车",
+      "先代 RX 性价比突出",
+      "NX 尺寸适中",
+      "RX450h 兼具静谧与动力"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "RX",
+      "NX",
+      "RX450h",
+      "RX300"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04110213/5efd4890362680247bc1263595ed4d93.jpg?v=1780538534",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04110213/5efd4890362680247bc1263595ed4d93-600x400.jpg?v=1780538534",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/29171114/00_nb_spacia_head-600x400.jpg?v=1780042276"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:02.397Z"
+  },
+  "https://www.motor1.com/news/797982/military-truck-multi-fuel-engine/": {
+    "title_zh": "油耗 8MPG 的军用卡车，车主却免费开",
+    "summary_short": "一辆油耗仅 8 英里/加仑的军用卡车，因搭载多燃料发动机，车主几乎免费驾驶，引发关注。",
+    "summary_long": "一位名叫 AJ 的车主拥有一辆 M35A2 军用卡车，油耗仅为 8 英里/加仑，但他并不为此困扰。原因在于该车搭载了多燃料发动机，可以使用多种廉价或免费燃料，如废弃机油、柴油等，从而几乎实现免费驾驶。这一独特设计源于战时工程，让这辆看似费油的卡车变得经济实用。",
+    "highlights_zh": [
+      "油耗仅 8 MPG",
+      "多燃料发动机",
+      "几乎免费驾驶",
+      "战时工程设计"
+    ],
+    "entities": [
+      "M35A2",
+      "多燃料发动机",
+      "军用卡车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZRne/s1/man-buys-truck-that-gets-8-mpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:04.711Z"
+  },
+  "https://www.motor1.com/news/797981/sams-club-gas-will-prices-go-up/": {
+    "title_zh": "女子去山姆会员店加油，发现大家都在排队：油价明天要涨",
+    "summary_short": "一名女子因油价即将上涨的传言前往山姆会员店加油，发现加油站排起长队，引发对传言可靠性的讨论。",
+    "summary_long": "一名女子因油价即将上涨的传言前往山姆会员店加油，发现加油站排起长队，许多司机似乎都有同样想法。她在 TikTok 上分享了视频，提醒大家趁涨价前加油。视频引发了对传言可靠性的讨论，同时也展示了消费者对油价波动的敏感反应。",
+    "highlights_zh": [
+      "女子因油价上涨传言前往山姆会员店加油",
+      "加油站排起长队",
+      "视频在 TikTok 上引发关注",
+      "传言可靠性引发讨论"
+    ],
+    "entities": [
+      "山姆会员店",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8zxy/s1/woman-goes-to-sam-s-club.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:05.486Z"
+  },
+  "https://www.motor1.com/news/797980/is-lexus-is250-reliable/": {
+    "title_zh": "机械师称雷克萨斯 IS250 是最可靠车型：仅需基础保养即可行驶 65 万英里",
+    "summary_short": "机械师 RudyCars 评选最可靠车型，雷克萨斯 IS250、马自达 3 和日产 Xterra 上榜，声称仅需基础换油即可行驶 65 万英里。",
+    "summary_long": "一位名为 RudyCars 的机械师在 Facebook 视频中评选出三款最可靠车型：马自达 3、日产 Xterra 和雷克萨斯 IS250。他声称这些车仅需基础换油保养即可达到 65 万英里（约 104.6 万公里）的可靠里程。马自达 3 被赞为省油、可靠且廉价；日产 Xterra 被认为是最被低估的车型，搭载媲美丰田、本田的 V6 发动机；雷克萨斯 IS250 则被列为最喜欢的轿车之一，虽价格稍高但长期值得。",
+    "highlights_zh": [
+      "仅需基础换油即可行驶 65 万英里",
+      "马自达 3：省油可靠",
+      "日产 Xterra：最被低估的 V6 发动机",
+      "雷克萨斯 IS250：长期价值高"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "IS250",
+      "马自达 | Mazda",
+      "3",
+      "日产 | Nissan"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3B9jW/s1/most-reliable-vehicle..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:08.910Z"
+  },
+  "https://www.thedrive.com/news/nerdy-two-minute-explainer-shows-how-vibrations-affect-different-hardware-on-your-car": {
+    "title_zh": "两分钟硬核科普：振动如何影响汽车硬件",
+    "summary_short": "Frog Racing 用两分钟视频演示振动如何导致螺栓松动，并介绍扭矩漆等预防措施，适合赛道或拉力赛准备。",
+    "summary_long": "Frog Racing 车队在爬山赛因球头螺母松动遭遇事故，为此制作了两分钟科普视频，讲解振动对汽车硬件的影响及预防方法。视频指出，在振动条件下，普通螺母和垫圈容易逐渐松动，建议使用专用扭矩漆标记螺栓，一旦松动即可通过漆面断裂快速识别，无需每次都用量具检查。该内容对准备赛道或拉力赛的驾驶者尤为重要。",
+    "highlights_zh": [
+      "振动会导致螺母螺栓逐渐松动",
+      "扭矩漆可快速识别松动螺栓",
+      "普通螺母垫圈在振动下易失效",
+      "赛道或拉力赛前需全面检查硬件"
+    ],
+    "entities": [
+      "Frog Racing",
+      "扭矩漆",
+      "振动",
+      "螺栓松动",
+      "拉力赛"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Effect-of-vibration-on-different-nut-and-washer-arrangements.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Wedge-lock-washers.jpeg?strip=all",
+      "https://i.ytimg.com/vi/Se3w7Pb6oNU/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:09.254Z"
+  },
+  "https://www.motor1.com/features/797972/audi-nuvolari-vs-lamborghini-temerario-differences/": {
+    "title_zh": "奥迪如何将兰博基尼混动超跑变成自己的风格",
+    "summary_short": "奥迪 Nuvolari 与兰博基尼 Temerario 共享平台和 V8 混动系统，但设计风格截然不同。",
+    "summary_long": "奥迪 Nuvolari 作为 R8 的继任者，与兰博基尼 Temerario 共享平台和插电混动 V8 动力系统，拥有 1001 马力。然而，两者在设计上体现了完全不同的理念：Temerario 充满攻击性，而 Nuvolari 则更显精致与科技感。",
+    "highlights_zh": [
+      "共享平台与 1001 马力 V8 混动系统",
+      "兰博基尼 Temerario 设计激进",
+      "奥迪 Nuvolari 风格精致优雅",
+      "两者体现不同设计哲学"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "兰博基尼 | Lamborghini",
+      "Nuvolari",
+      "Temerario",
+      "V8 混动"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZRyR/s1/2027-audi-nuvolari.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:12.649Z"
+  },
+  "https://www.thedrive.com/news/yes-you-need-this-lexus-v8-swapped-isuzu-vehicross-with-a-five-speed": {
+    "title_zh": "雷克萨斯 V8 发动机+五速手动变速箱：这台五十铃 Vehicross 改装车太酷了",
+    "summary_short": "一台搭载雷克萨斯 1UZ-FE V8 发动机和五速手动变速箱的五十铃 Vehicross，配备 35 英寸轮胎，兼具越野能力与独特个性。",
+    "summary_long": "这台 1999 年款五十铃 Vehicross 经过深度改装，用雷克萨斯 LS 400 的 1UZ-FE 4.0 升 V8 发动机替换了原厂 V6，匹配来自悍马 H3 的五速手动变速箱和 NR6 双速分动箱。车辆还配备了气动差速锁、4.77:1 速比主减速器以及 35 英寸轮胎，原厂的双储液器减震器也经过重建以提升舒适性。该车目前正在 Bring a Trailer 上拍卖，是 Vehicross 改装车中的典范。",
+    "highlights_zh": [
+      "搭载雷克萨斯 1UZ-FE V8 发动机",
+      "匹配悍马 H3 五速手动变速箱",
+      "配备 35 英寸轮胎和气动差速锁",
+      "原厂双储液器减震器重建"
+    ],
+    "entities": [
+      "五十铃 | Isuzu",
+      "Vehicross",
+      "雷克萨斯 | Lexus",
+      "1UZ-FE",
+      "悍马"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/1999-Isuzu-Vehicross-1UZ-1.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/1999-Isuz-Vehicross-1UZ-4.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/1999-Isuzu-Vehicross-1UZ-3.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:13.001Z"
+  },
+  "https://www.thedrive.com/news/this-ford-super-duty-mega-camper-is-one-of-the-most-extreme-rvs-ever": {
+    "title_zh": "福特 Super Duty 巨型露营车：最极端的房车之一",
+    "summary_short": "一辆基于福特 F-550 Super Duty 的巨型露营车，经过六年半改造，成为互联网传奇，车主首次公开分享细节。",
+    "summary_long": "一辆基于 2001 年福特 F-550 Super Duty 的定制露营车，因其庞大体积和独特外观在互联网上流传多年，但一直无人知晓其细节。近日，车主 Tom 在 YouTube 频道中首次公开了这辆车的改造故事。最初只是一个 12 英尺的 Lance 滑入式露营车，Tom 在 2003 年购入后，因伴侣和母亲去世，决定将其改造成更宜居的空间。作为工程师，他利用对卡车的深入了解，耗时六年半将露营车扩展成一座移动房屋，内部设施齐全，包括厨房、浴室、卧室和储物空间。这辆车已成为房车界的传奇。",
+    "highlights_zh": [
+      "基于福特 F-550 Super Duty 的巨型露…",
+      "车主 Tom 耗时六年半自行改造",
+      "从 12 英尺 Lance 露营车扩展为移动房屋",
+      "互联网传奇首次公开细节"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Super Duty",
+      "Lance",
+      "F-550"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-05-at-3.14.41-PM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-05-at-3.14.06-PM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-05-at-3.17.03-PM.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-07T04:55:16.480Z"
   }
 }
