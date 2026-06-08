@@ -27333,5 +27333,684 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-08T05:00:40.553Z"
+  },
+  "https://www.motor1.com/news/798100/honda-accord-design-changes-refresh/": {
+    "title_zh": "本田雅阁中期改款将迎来“重大”设计变革",
+    "summary_short": "本田计划在 2027 年下半年推出雅阁中期改款，外观和内饰将进行“重大”重新设计，灵感来自 0 系列电动轿车。",
+    "summary_long": "本田计划在 2027 年下半年推出雅阁中期改款，外观和内饰将进行“重大”重新设计。本田美国产品规划负责人 Gary Robinson 表示，更新后的雅阁“将感觉像一款新车型”，并经过了“实质性重新设计”。据消息人士透露，新车将采用更纤细的头灯、新尾灯、更新后的格栅和重新设计的尾部造型，设计灵感来自本田楔形 0 系列电动轿车，旨在吸引热爱轿车的运动型买家。",
+    "highlights_zh": [
+      "雅阁中期改款将于 2027 年下半年推出",
+      "外观和内饰将进行“重大”重新设计",
+      "设计灵感来自本田 0 系列电动轿车",
+      "旨在吸引运动型轿车买家"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅阁",
+      "0 系列 | 0 Series",
+      "丰田凯美瑞 | Toyota Camry"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZRwR/s1/honda-accord.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:22.303Z"
+  },
+  "https://www.thedrive.com/news/pimp-my-ride-ford-taurus-just-hit-a-pick-your-part-junkyard-in-california": {
+    "title_zh": "《Pimp My Ride》改装福特 Taurus 现身加州拆车厂",
+    "summary_short": "曾出现在 2005 年《Pimp My Ride》节目中的 1989 款福特 Taurus，近日在加州一家自选拆车厂被发现，车况依然不错。",
+    "summary_long": "一辆曾在 2005 年 MTV 节目《Pimp My Ride》中改装的 1989 款福特 Taurus，近日出现在加州威尔明顿的 Pick-Your-Part 拆车厂。该车在节目中由西海岸定制（West Coast Customs）操刀，加装了定制仪表盘、奇特车门和复杂涂装。尽管已过去 20 年，但车辆外观保存良好，仍带有西海岸定制车牌。目前该车已被拆车厂列入库存清单。",
+    "highlights_zh": [
+      "1989 款福特 Taurus 曾上《Pimp My…",
+      "改装由西海岸定制完成",
+      "车辆在加州拆车厂被发现",
+      "车况保存良好"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Taurus",
+      "Pimp My Ride",
+      "西海岸定制",
+      "Pick-Your-Part"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Pimp-My-Ride-Taurus-2005.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/upload_1575863_639161933073065798.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/upload_1575863_639161932719295128.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:22.585Z"
+  },
+  "https://www.motor1.com/news/798090/nissan-defends-v6-engine/": {
+    "title_zh": "日产坚守 V6：我们太 V6 了，不会放弃",
+    "summary_short": "日产产品规划高级经理表示，公司将继续使用 V6 发动机，并设立“V6 日”庆祝这一传统。",
+    "summary_long": "在小型化趋势下，日产坚持为中型皮卡提供 V6 发动机，不提供四缸基础版本。日产产品规划高级经理 Brent Hagan 表示，公司从 GT-R 到 Frontier 等车型都基于 V6 发动机，这一传统是差异化优势。VQ38 发动机在美国生产，兼具日本品质和美国制造特点。",
+    "highlights_zh": [
+      "日产设立 5 月 5 日为“V6 日”",
+      "内部口号：“我们太 V6 了",
+      "VQ38 发动机在美国生产",
+      "中型皮卡客户更偏爱 V6"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Nissan Frontier",
+      "Nissan Pathfinder",
+      "Nissan GT-R",
+      "VQ38"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkVBqw/s1/2026-nissan-frontier.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:26.900Z"
+  },
+  "https://www.thedrive.com/news/honda-planning-more-masculine-passport-and-futuristic-accord-redesign-tds": {
+    "title_zh": "本田计划推出“更阳刚”Passport 和“未来感”雅阁改款",
+    "summary_short": "本田计划明年对 Passport 和 Accord 进行重大改款，Passport TrailSport 将升高 1 英寸，Accord 将带来全新设计体验。",
+    "summary_long": "本田正计划对 Passport 和 Accord 进行重大改款。据一位本田高管透露，Accord 将进行“实质性重新设计”，带来全新车型的感觉。同时，匿名消息源称 Passport 将“更具阳刚气质”，变得更加硬朗。此外，Passport TrailSport 版本将额外升高 1 英寸，以提升越野能力。",
+    "highlights_zh": [
+      "Accord 将进行实质性重新设计",
+      "Passport 将更阳刚、更硬朗",
+      "Passport TrailSport 升高 1 英…",
+      "改款预计明年推出"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Passport",
+      "Accord",
+      "TrailSport"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/605A7345-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Johnzilla-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:27.208Z"
+  },
+  "https://www.motor1.com/news/797852/nissan-frontier-xterra-future-interview/": {
+    "title_zh": "日产谈 Frontier Sport、Xterra 及未来：越野刻在 DNA 里",
+    "summary_short": "日产产品规划高级经理 Brent Hagan 接受采访，讨论 Frontier Sport 定位、V6 重要性及品牌越野传承。",
+    "summary_long": "日产越野历史可追溯至 1950 年代初的 Patrol SUV，至今已逾 75 年。如今，Armada Pro-4X 和 Frontier 系列延续了这一传统。2026 年推出的 Frontier Sport 定位介于基础版与 Pro-4X 之间，以更低价格提供中度越野能力，对标福特 Tremor、雪佛兰 Trail Boss 和丰田 TRD Sport。日产产品规划高级经理 Brent Hagan 在采访中阐述了该车型的定位、V6 发动机的重要性以及品牌的越野基因。",
+    "highlights_zh": [
+      "Frontier Sport 定位低于 Pro-4X",
+      "对标福特 Tremor、雪佛兰 Trail Boss…",
+      "V6 发动机是核心卖点",
+      "日产越野历史超 75 年"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Frontier Sport",
+      "Pro-4X",
+      "Patrol",
+      "V6"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJr1W/s1/nissan-frontier-sport-interview.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:31.503Z"
+  },
+  "https://response.jp/article/2026/06/08/412407.html": {
+    "title_zh": "三菱扶桑在 2026 日本卡车展展示物流新方案",
+    "summary_short": "三菱扶桑在 2026 日本卡车展上展示新款 Canter、Super Great 及电动氢燃料车型，提出“一起奔跑，驱动当下”的物流解决方案。",
+    "summary_long": "三菱扶桑在 2026 日本卡车展（5 月 14-16 日，横滨）上展示了新款 Canter、旗舰大型卡车 Super Great、eCanter 及氢燃料卡车等车型。面对物流行业的碳中和、高成本和劳动力短缺等挑战，三菱扶桑提出“一起奔跑，驱动当下”的参展理念，强调在开发下一代车辆的同时，也要提供当前可行的解决方案。其中，2026 年 2 月改款的新款 Canter 是重点，它在燃油经济性、行驶性能、安全性和舒适性三方面进行了进化，搭载改进的 4P10+发动机，全系达到 2025 年度重型车燃油效率标准，部分车型甚至超出 10%。改进包括广角燃油喷射喷嘴、铝改铁部件以抑制热膨胀、以及可变几何涡轮增压器的重新调校，从而提升了燃油效率。",
+    "highlights_zh": [
+      "三菱扶桑展出新款 Canter、Super Grea…",
+      "新款 Canter 全系达到 2025 年度重型车燃…",
+      "发动机改进包括广角喷嘴、铝改铁部件和可变涡轮调校",
+      "参展理念为“一起奔跑"
+    ],
+    "entities": [
+      "三菱扶桑 | Mitsubishi Fuso",
+      "キャンター",
+      "スーパーグレード",
+      "eキャンター",
+      "日本卡车展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2215849.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2215849.jpg",
+      "https://response.jp/imgs/fill2/2215852.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:34.337Z"
+  },
+  "https://bestcarweb.jp/feature/column/1537651": {
+    "title_zh": "曾被赞“史上最佳”却黯然退场：那些名车的悲惨结局",
+    "summary_short": "盘点那些拥有惊人规格却在销售上失败的经典车型，分析其为何只停留在话题性而未能成功。",
+    "summary_long": "汽车史上不乏一些打破常规、拥有惊人规格的经典车型，但它们在销售上却以失败告终。本文为这些“消失的名车”献上安魂曲，并赞扬它们的功绩。例如，1990 年推出的 Eunos Cosmo 作为马自达 Cosmo 系列的第四代车型，搭载了史上最强的 3 转子 20B 型转子发动机，配合序列式双涡轮增压，输出 280 马力和 41.0kg·m 扭矩，其平顺性堪比 V12 发动机，但最终仍未能避免停产的命运。",
+    "highlights_zh": [
+      "打破常规的规格却难逃销售失败",
+      "Eunos Cosmo 搭载 3 转子 20B 发动…",
+      "280 马力与 V12 般的平顺性",
+      "话题性十足却未能成功"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Eunos Cosmo",
+      "20B 型转子发动机",
+      "转子发动机"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01224714/mazda_cosmo_1990_pictures_3.jpg?v=1780321636",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01224714/mazda_cosmo_1990_pictures_3-600x400.jpg?v=1780321636",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145343/d5d4db4a36cff447083809e5fb679e48-600x423.jpg?v=1780638824"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:36.524Z"
+  },
+  "https://bestcarweb.jp/feature/column/1538975": {
+    "title_zh": "MINI Countryman 能否替代 Yaris Cross 和 Vezel？",
+    "summary_short": "MINI Countryman 虽价格高于 Yaris Cross 和 Vezel，但凭借独特个性和更大尺寸，成为追求存在感的进口 SUV 选择。",
+    "summary_long": "MINI Countryman 起售价 480 万日元，远高于丰田 Yaris Cross（约 212 万日元起）和本田 Vezel（约 275 万日元起），因此并非直接替代品。然而，其车身尺寸（长 4445mm、宽 1845mm、高 1660mm）明显大于 Yaris Cross 和 Vezel，提供了更强的存在感和空间。对于追求个性与进口车品质的消费者，Countryman 凭借独特的设计和品牌魅力，成为值得考虑的选项。",
+    "highlights_zh": [
+      "MINI Countryman 起价 480 万日元",
+      "车身尺寸更大",
+      "非直接替代",
+      "个性与品牌魅力是核心卖点"
+    ],
+    "entities": [
+      "ミニ",
+      "ミニ カントリーマン",
+      "ヤリスクロス",
+      "ヴェゼル",
+      "进口 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03145818/Mini-Countryman_C-2024-HD-8a07332a1c4c2fd8faf5593840c2419db1dc4bbc6_1.jpg?v=1780466299",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03145818/Mini-Countryman_C-2024-HD-8a07332a1c4c2fd8faf5593840c2419db1dc4bbc6_1-600x400.jpg?v=1780466299",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145343/d5d4db4a36cff447083809e5fb679e48-600x423.jpg?v=1780638824"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:39.676Z"
+  },
+  "https://response.jp/article/2026/06/08/412412.html": {
+    "title_zh": "HERE 不止是地图公司：人车技术展 2026 首秀专访",
+    "summary_short": "HERE Japan 首次参展人车技术展，展示从地图平台向 SDV 软件服务商的转型，推出基于地理空间推理的自动驾驶验证工具。",
+    "summary_long": "HERE Japan 首次参展人车技术展，其社长枝隆志表示，公司早已不局限于地图业务，而是基于位置信息 API、SDI 和软件，深度参与 SDV（软件定义汽车）领域。展会上重点展示了“HERE SceneXtract”工具，可将传统需数天的手动地图场景生成缩短至数秒，通过自然语言或区域选择即可从地图中提取符合复杂条件的 3D 场景（如高速立交与住宅区混合区域），直接用于自动驾驶仿真训练，无需繁琐的属性和代码操作。",
+    "highlights_zh": [
+      "HERE 从地图公司转型为 SDV 软件服务商",
+      "HERE SceneXtract 数秒生成自动驾驶仿…",
+      "自然语言即可提取复杂道路 3D 场景",
+      "首次参展人车技术展"
+    ],
+    "entities": [
+      "HERE Japan",
+      "枝隆志",
+      "SDV",
+      "HERE SceneXtract",
+      "人车技术展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217082.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217082.jpg",
+      "https://response.jp/imgs/p/OMHSDY1RhmI6_sRAaLcpIH5P30HRQkNERUZH/1923241.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:42.065Z"
+  },
+  "https://response.jp/article/2026/06/08/412416.html": {
+    "title_zh": "AI 活用の貨物盗難防止ソリューション発表、検知から対応まで数分に短縮…米 project44",
+    "summary_short": "美国 project44 推出 AI 货物防盗解决方案，将检测到响应时间缩短至几分钟，应对每年高达 350 亿美元的货运盗窃损失。",
+    "summary_long": "美国芝加哥的供应链决策智能平台提供商 project44 发布了 AI 驱动的货物防盗解决方案。该方案持续监控卡车运输中的货物，一旦检测到盗窃迹象，AI 代理会自动联系承运商，将事件检测到响应的时间缩短至几分钟。美国国土安全调查局估计，美国国内货物盗窃每年造成高达 350 亿美元（约 5 万亿日元）的损失。",
+    "highlights_zh": [
+      "AI 代理自动检测盗窃迹象并联系承运商",
+      "响应时间从数小时缩短至数分钟",
+      "美国货运盗窃年损失高达 350 亿美元"
+    ],
+    "entities": [
+      "project44"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217158.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217158.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:43.739Z"
+  },
+  "https://response.jp/article/2026/06/08/412420.html": {
+    "title_zh": "比亚迪发布中国首款 4nm 车规级智能驾驶 SoC“璇玑 A3”",
+    "summary_short": "比亚迪发布中国首款自研 4nm 车规级智能驾驶 SoC“璇玑 A3”，算力超 2100 TOPS，功耗降低 20%，目标零交通事故。",
+    "summary_long": "比亚迪在深圳智能战略发布会上推出中国首款自研 4nm 车规级智能驾驶 SoC“璇玑 A3”。该芯片采用 3 芯片架构，算力超过 2100 TOPS，支持 L3/L4 级自动驾驶。得益于 4nm 工艺，其每 TOPS 功耗较同级产品降低约 20%，目前已进入量产阶段。",
+    "highlights_zh": [
+      "中国首款自研 4nm 车规级智能驾驶 SoC",
+      "3 芯片架构",
+      "功耗较同级降低约 20%",
+      "已进入量产阶段"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "璇玑 A3"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217170.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217170.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:45.959Z"
+  },
+  "https://response.jp/article/2026/06/08/412410.html": {
+    "title_zh": "比亚迪 SEAL 日本上市两周年，推出 100 台限量纪念版",
+    "summary_short": "比亚迪日本为 SEAL 推出 100 台限量两周年纪念版，标配 ETC、行车记录仪等，并可选充电盒。",
+    "summary_long": "比亚迪日本为纪念 e-运动轿车 SEAL 上市两周年，推出 100 台限量“2 周年纪念特别套餐”，包含 ETC 车载器、数字内后视镜式行车记录仪、脚垫、车门迎宾灯，以及交流充电线或壁挂式充电盒（3kW）二选一。SEAL 基于 e 平台 3.0 和 CTB 结构，2025 年 10 月更新了轮毂设计和悬架调校，曾入选“2024-2025 日本年度汽车”前十名，并获“第 34 届 RJC 年度汽车技术奖”。",
+    "highlights_zh": [
+      "100 台限量两周年纪念版",
+      "标配 ETC、行车记录仪等",
+      "可选充电线或壁挂充电盒",
+      "曾获日本年度汽车技术奖"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "SEAL",
+      "e 平台 3.0",
+      "CTB 结构",
+      "日本年度汽车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217122.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217122.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:48.412Z"
+  },
+  "https://response.jp/article/2026/06/08/412419.html": {
+    "title_zh": "艾睿铂调查：价格与充电焦虑阻碍 EV 普及，增程式电动车成现实选择",
+    "summary_short": "艾睿铂 2026 年调查显示，价格和充电焦虑是 EV 普及主要障碍，增程式电动车被视为过渡期的现实选择。",
+    "summary_long": "艾睿铂发布 2026 年版全球汽车消费者意识调查，指出纯电动汽车（BEV）普及面临价格、充电基础设施和续航焦虑三大障碍。调查认为，增程式电动车（REEV）作为过渡方案，兼具电动驱动和燃油增程优势，在全球范围内被视为更务实的选择。",
+    "highlights_zh": [
+      "价格和充电焦虑是 EV 普及主要障碍",
+      "续航焦虑影响消费者购买意愿",
+      "增程式电动车被视为过渡期现实选择",
+      "REEV 兼具电动与燃油增程优势"
+    ],
+    "entities": [
+      "艾睿铂",
+      "纯电动汽车",
+      "增程式电动车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217167.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217167.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:50.161Z"
+  },
+  "https://response.jp/article/2026/06/08/412403.html": {
+    "title_zh": "爱信在 2026 人车科技展展示 SDV 与集成控制后的移动出行愿景",
+    "summary_short": "爱信在 2026 人车科技展上展示三菱 Xforce 混动变速箱，体现其从机械到数字的全面覆盖能力。",
+    "summary_long": "爱信作为从自动变速箱起家的老牌 Tier1 供应商，在 2026 人车科技展上展示了三菱 Xforce 混动车型的串并联式变速箱。该变速箱采用横置前驱布局，集成 e 轴自由机构（狗爪离合器）以减少电机拖拽损失，并支持 7 种驾驶模式。爱信通过 3D 全息动态演示，清晰呈现了其复杂结构与工作原理。",
+    "highlights_zh": [
+      "展示三菱 Xforce 混动变速箱",
+      "采用 e 轴自由机构减少损耗",
+      "支持 7 种驾驶模式",
+      "3D 全息动态演示"
+    ],
+    "entities": [
+      "爱信",
+      "三菱 | Mitsubishi",
+      "Xforce",
+      "人车科技展",
+      "混动变速箱"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217069.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217069.jpg",
+      "https://response.jp/imgs/zoom1/2217068.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:53.459Z"
+  },
+  "https://bestcarweb.jp/feature/column/1541042": {
+    "title_zh": "Vezel RS vs Corolla Cross GR Sport：运动 SUV 的驾驶对决",
+    "summary_short": "本田 Vezel RS 与丰田 Corolla Cross GR Sport 运动 SUV 对比，前者轻盈平衡，后者动力稳定，驾驶风格迥异。",
+    "summary_long": "本田 Vezel e:HEV RS 与丰田 Corolla Cross GR Sport 是国产紧凑型运动 SUV 的代表。Vezel 搭载 1.5L e:HEV 混动系统，发动机 106ps/127Nm，电机 131ps/253Nm，加速响应快，底盘 RS 专用调校降低 15mm，兼顾舒适与操控。Corolla Cross 则凭借 2L 混动的强劲动力和 GR 专属调校，提供更稳定的驾驶感。两者在弯道表现和日常舒适性上各有千秋。",
+    "highlights_zh": [
+      "Vezel RS 轻快平衡",
+      "Corolla Cross GR Sport 动力强…",
+      "Vezel 底盘降低 15mm",
+      "两者驾驶风格截然不同"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "丰田 | Toyota",
+      "Vezel",
+      "Corolla Cross",
+      "紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04165106/karokurovezel.jpg?v=1780559467",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04165106/karokurovezel-600x400.jpg?v=1780559467",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145343/d5d4db4a36cff447083809e5fb679e48-600x423.jpg?v=1780638824"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:55.669Z"
+  },
+  "https://bestcarweb.jp/news/1541695": {
+    "title_zh": "Garmin 新款摩托车导航 zumo XT3 发布：应对酷暑与高精地图",
+    "summary_short": "Garmin 推出新款摩托车导航 zumo XT3，配备高亮屏和耐久设计，支持倾斜角显示与高精地图，售价约 9.98 万日元。",
+    "summary_long": "Garmin 于 2026 年 6 月 4 日发布摩托车导航最新型号 zumo XT3，售价 9.98 万日元（含税）。该设备采用 6 英寸 1280×720 像素高亮液晶屏，在强烈阳光下仍清晰可见。除高亮度和耐久性外，还新增倾斜角显示功能，并支持高精地图服务，为长途骑行提供可靠导航。",
+    "highlights_zh": [
+      "6 英寸高亮屏",
+      "支持倾斜角显示与高精地图",
+      "售价 9.98 万日元",
+      "专为摩托车长途骑行设计"
+    ],
+    "entities": [
+      "Garmin",
+      "zumo XT3"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145315/zumo-XT3.jpg?v=1780638797",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145315/zumo-XT3-600x400.jpg?v=1780638797",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05144701/48d685d6564d72d0e29906164506669f-600x400.jpg?v=1780638422"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:53:58.807Z"
+  },
+  "https://response.jp/article/2026/06/08/412418.html": {
+    "title_zh": "起亚新型 EV 面包车 PV5 亮相，展示广泛用途",
+    "summary_short": "起亚 PBV 日本将在 2026 年自行车与电动出行城市博览会展出 PV5，提出物流、区域交通、防灾等多用途方案。",
+    "summary_long": "起亚 PBV 日本宣布参加 2026 年 6 月 10 日至 11 日在新宿住友大厦三角广场举办的“BICYCLE E・MOBILITY CITY EXPO 2026”。展会上将展示小型商用 EV 面包车 PV5，并针对物流业务、区域交通及防灾用途提出广泛的应用方案。物流领域面临司机短缺和最后一公里配送效率问题，而地区则因老龄化和人口减少需要确保出行手段。企业及地方政府还需应对脱碳和碳中和要求，PV5 的导入将为此提供支持。现场大型 LED 屏幕将播放 PV5 应用场景视频，6 月 10 日 14:20 还将进行题为“商用车·物流车电动化建议”的演讲。",
+    "highlights_zh": [
+      "起亚 PV5 亮相 2026 年自行车与电动出行博览…",
+      "展示物流、区域交通、防灾等多用途方案",
+      "应对司机短缺、老龄化及脱碳需求",
+      "6 月 10 日举办电动化主题演讲"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5",
+      "PBV",
+      "电动面包车",
+      "物流"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217160.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217160.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:00.948Z"
+  },
+  "https://bestcarweb.jp/feature/column/1541850": {
+    "title_zh": "日产 Serena 为何持续畅销？不只是 Noah/Voxy 的经典 MPV 实力",
+    "summary_short": "日产 Serena 凭借均衡的综合实力在 MPV 市场保持竞争力，提供汽油、e-POWER 及 e-4ORCE 四驱多种选择。",
+    "summary_long": "在家庭 MPV 市场中，丰田 Noah/Voxy 虽强势，但日产 Serena 凭借均衡的综合实力持续畅销。2025 年 12 月改款后，Serena 在外观、内饰和先进装备上进一步优化。其成功并非依靠单一亮点，而是满足家庭日常使用的便利性。价格从 278 万 5200 日元起，提供汽油、e-POWER 和 e-4ORCE 四驱等多种动力选择，适应不同家庭需求。燃油经济性方面，汽油版 13.0km/L，e-POWER 版 20.3km/L。Serena 在驾驶视野、侧滑门易用性、第三排座椅舒适性及儿童和行李装载便利性上表现突出，让用户在日常使用中感受到实用性。",
+    "highlights_zh": [
+      "提供汽油、e-POWER、e-4ORCE 三种动力",
+      "改款后内外饰与科技配置升级",
+      "燃油经济性 e-POWER 达 20.3km/L",
+      "日常使用便利性突出"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Serena",
+      "Noah",
+      "Voxy",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05163644/DSC7779_1.jpg?v=1780645005",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05163644/DSC7779_1-600x400.jpg?v=1780645005",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145343/d5d4db4a36cff447083809e5fb679e48-600x423.jpg?v=1780638824"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:05.071Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543582": {
+    "title_zh": "为何全新 CX-5 遭嫉妒？全新 Elgrand 报价 750 万日元！人气文章 TOP20",
+    "summary_short": "Best Car Web 发布上周人气文章 TOP20，涵盖全新 CX-5、Elgrand 等热门车型，揭示读者最关注的汽车话题。",
+    "summary_long": "Best Car Web 汇总了 2026 年 5 月 31 日至 6 月 6 日期间的人气文章 TOP20。榜单中包括“全新 CX-5 遭嫉妒的理由”、“全新 Elgrand 落地价 750 万日元的报价单”等热门内容，此外还有对 CX-5 的深度试驾评测、铃木全新 Landy 的进化介绍以及轻型车塔夫特（Taft）的独特魅力分析。这些文章反映了当前日本汽车市场消费者对新车动态、价格及实用性的高度关注。",
+    "highlights_zh": [
+      "全新 CX-5 遭嫉妒的理由",
+      "全新 Elgrand 报价 750 万日元",
+      "铃木全新 Landy 大幅进化",
+      "轻型车塔夫特独处魅力"
+    ],
+    "entities": [
+      "CX-5",
+      "エルグランド",
+      "ランディ",
+      "塔夫特",
+      "铃木 | Suzuki"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08120449/samune.jpg?v=1780887890",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08120449/samune-600x411.jpg?v=1780887890",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145343/d5d4db4a36cff447083809e5fb679e48-600x423.jpg?v=1780638824"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:05.786Z"
+  },
+  "https://bestcarweb.jp/news/1541694": {
+    "title_zh": "BEAMS 50 周年联名松下，经典电动助力自行车 BP01/BP02 限量发售",
+    "summary_short": "松下与 BEAMS 为纪念 BEAMS 创业 50 周年，限量复刻经典电动助力自行车 BP01 和 BP02，融合设计感与实用性。",
+    "summary_long": "松下与 BEAMS 为纪念 BEAMS 创业 50 周年，推出限量版电动助力自行车 BP02 LIMITED 和 BP01/EZ LIMITED。这两款车是双方自 2006 年合作以来的第三弹产品，复刻了 2007 年颠覆传统形象的 BP01 以及 2016 年主打巡航概念的 BP02，兼具设计美学与日常实用性。",
+    "highlights_zh": [
+      "松下与 BEAMS 合作推出 50 周年纪念款",
+      "限量复刻经典车型 BP01 和 BP02",
+      "融合 BMX 风格与日常实用性",
+      "2006 年起合作"
+    ],
+    "entities": [
+      "松下",
+      "BEAMS",
+      "BP01",
+      "BP02"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05144701/48d685d6564d72d0e29906164506669f.jpg?v=1780638422",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05144701/48d685d6564d72d0e29906164506669f-600x400.jpg?v=1780638422",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145315/zumo-XT3-600x400.jpg?v=1780638797"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:09.214Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1543581": {
+    "title_zh": "液体氢能超跑征服勒芒！丰田赛车挑战新时代的梦想与可能",
+    "summary_short": "丰田液体氢能超跑 TR LH2 原型车将在勒芒 24 小时耐力赛进行演示，展现氢燃料发动机的潜力。",
+    "summary_long": "丰田赛车开发的液体氢燃料超跑「TR LH2 赛车原型」将在第 94 届勒芒 24 小时耐力赛上进行演示行驶。该车基于 WEC 参赛的「丰田 TR010 混合动力」同款底盘打造，目前仍处于试制阶段。尽管 WEC 尚未确立氢燃料组别的技术规则，丰田仍坚持推进技术研发，旨在展示氢能作为继汽油、电动、合成燃料之后的新选择，如何改变赛车运动与汽车未来。",
+    "highlights_zh": [
+      "丰田液体氢能超跑 TR LH2 将亮相勒芒",
+      "基于 TR010 混动底盘开发",
+      "WEC 氢燃料组别规则尚未确立",
+      "丰田旨在展示氢能技术潜力"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "TR LH2 赛车原型 | TR LH2 Racing Prototype",
+      "勒芒 24 小时耐力赛 | Le Mans 24 Hours",
+      "WEC",
+      "氢燃料"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08110153/85560-tr-lh2-racing-concept-5_1.jpg?v=1780884114",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08110153/85560-tr-lh2-racing-concept-5_1-600x400.jpg?v=1780884114",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05122248/PXL_20260605_021225254-600x387.jpg?v=1780629769"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:10.586Z"
+  },
+  "https://bestcarweb.jp/news/1533785": {
+    "title_zh": "雷克萨斯 LBX：420 万日元不贵？小尺寸豪华 SUV 为何不显“溢价”",
+    "summary_short": "雷克萨斯 LBX 起价 420 万日元，虽小但配置、质感、油耗出色，全系标配丰富安全与舒适装备，综合价值不输大车。",
+    "summary_long": "雷克萨斯 LBX 作为品牌最紧凑的 SUV，起售价 420 万日元，看似偏高，但实际装备和品质使其物有所值。全系标配预碰撞安全、雷达巡航、车道追踪辅助、全景影像、停车辅助制动等安全功能，以及 9.8 英寸显示屏、ETC2.0、USB-C 充电口、电动尾门、8 向电动座椅和 G-Link 互联。1.5L 混动系统 WLTC 油耗低至 28.0km/L（2WD），且使用普通汽油，长期使用成本更低。因此，LBX 并非简单的小尺寸高价车，而是浓缩了雷克萨斯品质的精品。",
+    "highlights_zh": [
+      "起价 420 万日元",
+      "1.5L 混动油耗 28.0km/L",
+      "尺寸紧凑但质感与配置不妥协",
+      "Bespoke Build 定制版起价 550 万日…"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LBX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/04130203/DSC2167_1.jpg?v=1780545724",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/04130203/DSC2167_1-600x400.jpg?v=1780545724",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05145315/zumo-XT3-600x400.jpg?v=1780638797"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:14.346Z"
+  },
+  "https://insideevs.com/news/798060/audi-e-tron-battery-test/": {
+    "title_zh": "二手奥迪 E-Tron 大幅贬值，但电池表现远超预期",
+    "summary_short": "一辆六年车龄的奥迪 E-Tron 55 二手车价格从近 11 万欧元跌至 3.6 万欧元，但电池健康度仍保持约 90.8%。",
+    "summary_long": "一辆六年前的奥迪 E-Tron 55，原价近 11 万欧元，如今二手售价仅 3.6 万欧元。然而，其电池健康度测试显示，可用容量仍为 76 千瓦时，约为新车额定容量 86 千瓦时的 90.8%。过去 18 个月内仅衰减约 1.2%，表明早期衰减较快后趋于平缓。车主主要在家充电至 80%，很少使用直流快充，这有助于减缓电池衰减。",
+    "highlights_zh": [
+      "六年车龄电池健康度 90.8%",
+      "18 个月仅衰减 1.2%",
+      "车主主要在家慢充至 80%",
+      "早期衰减快"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "E-Tron 55",
+      "电池健康",
+      "Aviloo 测试",
+      "二手车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egqAV/s1/e-tron-battery-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:15.399Z"
+  },
+  "https://insideevs.com/news/798063/dodge-charger-daytona-ev-gas-europe/": {
+    "title_zh": "道奇 Charger Daytona EV 将登陆欧洲",
+    "summary_short": "道奇 Charger Daytona EV 在美国销量惨淡，计划进军欧洲市场，借助当地电动车热潮扭转局面。",
+    "summary_long": "道奇 Charger Daytona EV 及其燃油版将进入欧洲市场，当地几乎没有本土竞争对手。这款号称“全球最强肌肉车”的电动车型在美国销量不佳，2025 年第四季度仅售出 346 辆，2026 年第一季度售出 240 辆。相比之下，欧洲电动车销量正在增长，道奇希望借助欧洲消费者对电动车的更高接受度来提升销量。价格、可靠性和服务网络将是关键，Stellantis 尚未公布欧洲定价，但预计将高于美国市场。",
+    "highlights_zh": [
+      "美国销量惨淡",
+      "欧洲市场几乎没有本土竞品",
+      "欧洲电动车销量增长",
+      "定价、可靠性和服务网络是关键"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "Charger Daytona",
+      "Stellantis",
+      "肌肉车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAgoOx/s1/dodge-charger-daytona-ev.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:18.781Z"
+  },
+  "https://www.motor1.com/news/798043/audi-new-design-absolute-simplicity/": {
+    "title_zh": "奥迪新超跑 Nuvolari 摩纳哥赛道首秀，设计总监揭秘未来设计语言",
+    "summary_short": "奥迪新超跑 Nuvolari 在 F1 摩纳哥大奖赛前动态首秀，设计总监 Massimo Frascella 阐述未来车型将追求极致坚固与绝对简约。",
+    "summary_long": "奥迪在去年 9 月通过 Concept C 预览全新设计语言后，上周又发布了首款量产车型 Nuvolari。该超跑基于兰博基尼 Temerario 打造，于 F1 摩纳哥大奖赛前由车手 Hülkenberg 和 Bortoleto 驾驶完成动态首秀，预计 2027 年开始交付。同年，Concept C 将演变为电动跑车量产版，采用可伸缩 targa 车顶，与保时捷 Boxster/Cayman EV 共享平台。奥迪首席创意官 Massimo Frascella 表示，未来奥迪车型应展现“极致坚固与绝对简约”，并称已找到下一代设计的“秘方”：半径与张力的完美共存，精确几何接缝支撑的坚实金属感。内饰方面，奥迪正从当前的多屏设计转向更简洁的布局。",
+    "highlights_zh": [
+      "Nuvolari 在摩纳哥赛道动态首秀",
+      "2027 年起交付",
+      "设计语言：极致坚固与绝对简约",
+      "内饰告别多屏"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Nuvolari",
+      "Concept C",
+      "兰博基尼",
+      "保时捷 | Porsche"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40Yz8z/s1/2027-audi-nuvolari.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:21.810Z"
+  },
+  "https://www.motor1.com/news/798010/porsche-vapor-headlight-restoration/": {
+    "title_zh": "保时捷车主被报价 5000 美元修复大灯，200 美元蒸汽修复搞定",
+    "summary_short": "保时捷车主被报价 5000 美元修复大灯，却花 200 美元用丙酮蒸汽几分钟搞定，引发热议。",
+    "summary_long": "一位保时捷车主在波特兰被修理厂报价 5000 美元修复雾化的大灯，但他通过 TikTok 找到一位移动细节师，用丙酮蒸汽装置几分钟就清除了透镜雾化，收费 200 美元并提供一年保修。该视频获得超过 150 万次观看，引发关于廉价修复是否正确的讨论。",
+    "highlights_zh": [
+      "报价 5000 美元 vs 实际 200 美元",
+      "丙酮蒸汽几分钟清除雾化",
+      "提供一年保修",
+      "视频超 150 万次观看引发热议"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "波特兰",
+      "TikTok",
+      "丙酮蒸汽"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9PNA/s1/mechanic-quotes-porsche-owner-5-000-for-headlight.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:22.938Z"
+  },
+  "https://www.motor1.com/news/798030/two-engine-toyota-camry/": {
+    "title_zh": "丰田打造双引擎凯美瑞：700 马力七缸猛兽",
+    "summary_short": "丰田 GR 部门将一台三缸引擎置于前轴，另一台四缸引擎置于后座位置，打造出 700 马力的双引擎凯美瑞，但不会量产。",
+    "summary_long": "丰田在 Super Taikyu 耐力赛上展示了一款疯狂的凯美瑞超级轿车。GR 雅力士的 1.6 升三缸涡轮增压引擎（300 马力）驱动前轴，后座位置安装了一台未来性能车用的 2.0 升四缸涡轮增压引擎（约 400 马力），综合输出约 700 马力，并采用侧出排气和全轮驱动。该车仅为展示技术，不会量产。",
+    "highlights_zh": [
+      "前轴搭载 GR Yaris 的 1.6T 三缸引擎（…",
+      "后座位置安装 2.0T 四缸引擎（约 400 马力）",
+      "综合输出约 700 马力",
+      "仅为技术展示"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "凯美瑞 | Camry",
+      "GR Yaris",
+      "GR Corolla",
+      "雷克萨斯 LBX Morizo RR | Lexus LBX Morizo RR"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4znM/s1/toyota-camry-with-two-engines.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:27.317Z"
+  },
+  "https://insideevs.com/news/798034/2027-cadillac-lyriq-apple-carplay-nacs/": {
+    "title_zh": "2027 款凯迪拉克 Lyriq 保留通用其他电动车已失去的重要功能",
+    "summary_short": "2027 款凯迪拉克 Lyriq 保留 Apple CarPlay 和 Android Auto，并改用特斯拉式充电接口，成为通用唯一支持手机映射的电动车。",
+    "summary_long": "2027 款凯迪拉克 Lyriq 将保留 Apple CarPlay 和 Android Auto 手机映射功能，成为通用汽车在北美唯一支持该功能的电动车。同时，新车改用特斯拉式 NACS 充电接口，无需适配器即可使用特斯拉超级充电站。通用汽车此前已逐步取消旗下电动车的手机映射功能，转而推广原生车载系统，但 Lyriq 成为例外。",
+    "highlights_zh": [
+      "保留 Apple CarPlay 和 Android…",
+      "改用特斯拉 NACS 充电接口",
+      "通用唯一支持手机映射的电动车",
+      "起售价小幅上涨至 59"
+    ],
+    "entities": [
+      "凯迪拉克 Lyriq | Cadillac Lyriq",
+      "通用汽车",
+      "Apple CarPlay",
+      "Android Auto",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3JKrr/s1/2026-cadillac-lyriq-v-front-3-4.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:27.529Z"
+  },
+  "https://www.motor1.com/news/798020/subaru-three-new-manual-gearbox-cars/": {
+    "title_zh": "斯巴鲁将推出三款手动挡新车",
+    "summary_short": "斯巴鲁计划推出三款手动挡新车，包括 WRX、BRZ 衍生版及一款亲民掀背车，旨在让驾驶更轻松有趣。",
+    "summary_long": "斯巴鲁在富士赛道耐力赛期间预告了三款手动挡新车。其中一款是 WRX 新变体，搭载源自 STI 车型的 TY85 变速箱，可能受 WRX STI Sport#原型车启发。另一款是 BRZ 衍生版，注重轻量化和驾驶乐趣，而非增加动力。最引人注目的是一款全新手动挡掀背车，定位为“亲民基础车型”，通过简化配置和材料控制成本。",
+    "highlights_zh": [
+      "WRX 新变体采用 STI 的 TY85 变速箱",
+      "BRZ 衍生版主打轻量化与驾驶乐趣",
+      "全新手动挡掀背车定位亲民基础车型",
+      "斯巴鲁承诺让驾驶更轻松有趣"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "WRX",
+      "BRZ",
+      "STI"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8z7b/s1/subaru-three-new-models-with-a-manual-gearbox.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-08T16:54:31.908Z"
   }
 }

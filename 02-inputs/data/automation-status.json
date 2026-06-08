@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-08T04:59:54.318Z",
+    "generated_at": "2026-06-08T16:53:17.391Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 378,
-    "deepseek_untranslated_before_run": 22,
-    "newly_fetched_articles": 22,
-    "newly_fetched_untranslated": 22,
+    "deepseek_translated_before_run": 371,
+    "deepseek_untranslated_before_run": 29,
+    "newly_fetched_articles": 29,
+    "newly_fetched_untranslated": 29,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 22,
+    "translation_queue_count": 29,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "「アンプDSP」なら劇的に音質向上！ 夢も広がる！［音を良くする“初級鉄板プラン”をプロが伝授］",
-        "url": "https://response.jp/article/2026/06/08/412392.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "『シエンタ』専用車中泊キット「VANLIFE ROOMKIT」、ネッツトヨタニューリー北大阪で取扱い開始",
-        "url": "https://response.jp/article/2026/06/08/412398.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "【バス運転士日誌】路線バスと特定・貸切契約輸送……やり甲斐はどちらも変わらないがお好みは？",
-        "url": "https://bestcarweb.jp/busmagazine/1527272"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第779回",
-        "url": "https://bestcarweb.jp/feature/column/1531853"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "BMW『iX1』をラッピング展示、麻布台ヒルズで「歓び」テーマに",
-        "url": "https://response.jp/article/2026/06/08/412381.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "BYD、運転支援システム利用中の事故補償制度を中国で導入…経済的損失を補償",
-        "url": "https://response.jp/article/2026/06/08/412399.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "NVIDIA、自動運転向け320億パラメーターのAIモデル「Alpamayo 2 Super」発表…レベル4ロボタクシー開発を加速",
-        "url": "https://response.jp/article/2026/06/08/412393.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "アウディ正規ディーラー4店舗、千葉エリアで運営開始…グラーツ・オートモーティブ",
-        "url": "https://response.jp/article/2026/06/08/412396.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "エアロパーツ装着のルークス ハイウェイスターはターボが超割安!? NAとの正味価格差は実質約7万円？",
-        "url": "https://bestcarweb.jp/feature/column/1534790"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "エルグランドの頂点「VIP」はやっぱり別格!? 固定式アームレスト仕様登場のウワサも？",
-        "url": "https://bestcarweb.jp/newcar/1539107"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "スイフト買うならXGで十分？ HYBRID MX、HYBRID MZまで価格差44万円の正解グレードを選ぶ",
-        "url": "https://bestcarweb.jp/feature/column/1538658"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "スズキ初のフレックス燃料四輪車、『ワゴンR FFV』発表…インド自動車業界初の量産化",
-        "url": "https://response.jp/article/2026/06/08/412373.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "ダンロップと富士通、タイヤ設計にAI活用…解析時間を90%削減する技術を共同開発",
-        "url": "https://response.jp/article/2026/06/08/412384.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "トヨタファイナンシャルサービス「マイルート」、釧路空港連絡バスのデジタル乗車券を発売…北海道で初展開",
-        "url": "https://response.jp/article/2026/06/08/412395.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "ホンダファン待望の展開キタ!! 「S2000救済」「HRC誕生」「インテグラ上陸」が現実に！ ホンダ復活への3つの切り札とは",
-        "url": "https://bestcarweb.jp/feature/column/1528494"
-      },
-      {
         "source": "Motor1",
         "time": "2026.6.8",
-        "title": "Woman’s Muffler Falls Off After She Hits A Bush. Then She Just Keeps Driving: ‘She’s Still In Line To Get A Dairy Queen Blizzard’",
-        "url": "https://www.motor1.com/news/797968/muffler-falls-out-dairy-queen/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.7",
-        "title": "Woman Is Driving On Highway For 30 Minutes. Then She Gets A Notification That The Key Fob Has Left Her Car: ‘Don’t Turn It Off’",
-        "url": "https://www.motor1.com/news/797950/dodge-key-fob-missing-on-highway/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.7",
-        "title": "‘Went From Expensive To Real Expensive’: Woman Gets A Flat Tire. Then The Mechanic Sees What She Ran Over",
-        "url": "https://www.motor1.com/news/797946/woman-flat-tire-screwdriver/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.7",
-        "title": "Man’s Car Won’t Start After Oil Change At Dealership. Then Another Mechanic Checks—And Realizes It Was A Setup: ‘Isn’t Adding Up'",
-        "url": "https://www.motor1.com/news/797994/dealership-sabotages-starter/"
+        "title": "Honda's Popular Mid-Size Sedan Is Getting 'Pretty Major' Design Changes",
+        "url": "https://www.motor1.com/news/798100/honda-accord-design-changes-refresh/"
       },
       {
         "source": "The Drive",
-        "time": "2026.6.7",
-        "title": "Ford Says Ditching Sedans Was ‘Absolutely’ the Right Call. Still, It Might Bring Them Back",
-        "url": "https://www.thedrive.com/news/ford-says-ditching-sedans-was-absolutely-the-right-call-still-it-might-bring-them-back"
+        "time": "2026.6.8",
+        "title": "‘Pimp My Ride’ Ford Taurus Just Hit a Pick-Your-Part Junkyard in California",
+        "url": "https://www.thedrive.com/news/pimp-my-ride-ford-taurus-just-hit-a-pick-your-part-junkyard-in-california"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.8",
+        "title": "Nissan Says The V6 Isn't Going Anywhere: 'We’re Too V6 To Quit'",
+        "url": "https://www.motor1.com/news/798090/nissan-defends-v6-engine/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.8",
+        "title": "Honda Planning ‘More Masculine’ Passport and ‘Futuristic’ Accord Redesign: TDS",
+        "url": "https://www.thedrive.com/news/honda-planning-more-masculine-passport-and-futuristic-accord-redesign-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.8",
+        "title": "'Off-Roading Is In Our DNA:' Nissan Talks Frontier Sport, Xterra, And What's Next",
+        "url": "https://www.motor1.com/news/797852/nissan-frontier-xterra-future-interview/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "“今”を動かす力とは何か？ 三菱ふそうが示す物流の次の一手PR",
+        "url": "https://response.jp/article/2026/06/08/412407.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "“過去イチ”と言われたはずが…消えた名車の悲しい末路",
+        "url": "https://bestcarweb.jp/feature/column/1537651"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "「ミニ」はヤリスクロスやヴェゼルの代わりになる？ 価格よりもキャラで選ぶ輸入車SUV",
+        "url": "https://bestcarweb.jp/feature/column/1538975"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "「もはや地図事業だけではないHERE」…人とくるまのテクノロジー展2026初出展の背景を枝代表に訊ねる",
+        "url": "https://response.jp/article/2026/06/08/412412.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "AI活用の貨物盗難防止ソリューション発表、検知から対応まで数分に短縮…米project44",
+        "url": "https://response.jp/article/2026/06/08/412416.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "BYD、中国初の4nm車載スマートドライビングSoC発表…「交通事故ゼロ」めざす",
+        "url": "https://response.jp/article/2026/06/08/412420.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "BYD『SEAL』、2周年記念特別パッケージを100台限定発売…充電ボックスやドラレコ標準",
+        "url": "https://response.jp/article/2026/06/08/412410.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "EV普及の壁は価格と充電不安、レンジエクステンダーEVが現実的選択肢に…アリックスパートナーズ調査",
+        "url": "https://response.jp/article/2026/06/08/412419.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "SDVや統合制御の先にあるモビリティ：アイシンのブレない価値観…人とくるまのテクノロジー展2026",
+        "url": "https://response.jp/article/2026/06/08/412403.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "ヴェゼルRSとカローラクロスGRスポーツはどっちが買い!? 贔屓目なしで暴くスポーツSUVの決定的な走りの違い",
+        "url": "https://bestcarweb.jp/feature/column/1541042"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "ガーミンから新作バイクナビ登場！ 猛暑対応＆高精細地図搭載で進化した「zumo XT3」の実力！",
+        "url": "https://bestcarweb.jp/news/1541695"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "キアの新型EVバン『PV5』展示、幅広い活用方法を提案へ…BICYCLE E・MOBILITY CITY EXPO 2026",
+        "url": "https://response.jp/article/2026/06/08/412418.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "セレナはなぜ売れ続ける？ ノア／ヴォクシーだけじゃない定番ミニバンの底力",
+        "url": "https://bestcarweb.jp/feature/column/1541850"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "なんで新型CX-5は嫉妬される？ 新型エルグランド750万円の見積書！ 人気記事トップ20[2026.5.31-6.6]",
+        "url": "https://bestcarweb.jp/feature/column/1543582"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "ビームス50周年でパナとコラボ!! 名作電動アシスト自転車BP01／BP02を限定発売!!",
+        "url": "https://bestcarweb.jp/news/1541694"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27116975547",
-    "sha": "4ed62f2a3f878b0404f5ca3016cb6d0dc3290ba8",
-    "completed_at": "2026-06-08T05:00:40.830Z",
+    "run_id": "27153248072",
+    "sha": "caeeda4da3794b1fd96b108b49bc59baf4266bb1",
+    "completed_at": "2026-06-08T16:54:32.175Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 22,
-    "queued_articles": 22,
-    "processed": 22,
-    "started_at": "2026-06-08T04:59:54.640Z",
-    "finished_at": "2026-06-08T05:00:40.561Z",
+    "scoped_articles": 29,
+    "queued_articles": 29,
+    "processed": 29,
+    "started_at": "2026-06-08T16:53:17.688Z",
+    "finished_at": "2026-06-08T16:54:31.915Z",
     "success": true,
     "error": ""
   }
