@@ -1,85 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-07T15:02:37.449Z",
+    "generated_at": "2026-06-08T04:59:54.318Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 390,
-    "deepseek_untranslated_before_run": 10,
-    "newly_fetched_articles": 10,
-    "newly_fetched_untranslated": 10,
+    "deepseek_translated_before_run": 378,
+    "deepseek_untranslated_before_run": 22,
+    "newly_fetched_articles": 22,
+    "newly_fetched_untranslated": 22,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 10,
+    "translation_queue_count": 22,
     "translation_queue_preview": [
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "「アンプDSP」なら劇的に音質向上！ 夢も広がる！［音を良くする“初級鉄板プラン”をプロが伝授］",
+        "url": "https://response.jp/article/2026/06/08/412392.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "『シエンタ』専用車中泊キット「VANLIFE ROOMKIT」、ネッツトヨタニューリー北大阪で取扱い開始",
+        "url": "https://response.jp/article/2026/06/08/412398.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "【バス運転士日誌】路線バスと特定・貸切契約輸送……やり甲斐はどちらも変わらないがお好みは？",
+        "url": "https://bestcarweb.jp/busmagazine/1527272"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第779回",
+        "url": "https://bestcarweb.jp/feature/column/1531853"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "BMW『iX1』をラッピング展示、麻布台ヒルズで「歓び」テーマに",
+        "url": "https://response.jp/article/2026/06/08/412381.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "BYD、運転支援システム利用中の事故補償制度を中国で導入…経済的損失を補償",
+        "url": "https://response.jp/article/2026/06/08/412399.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "NVIDIA、自動運転向け320億パラメーターのAIモデル「Alpamayo 2 Super」発表…レベル4ロボタクシー開発を加速",
+        "url": "https://response.jp/article/2026/06/08/412393.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "アウディ正規ディーラー4店舗、千葉エリアで運営開始…グラーツ・オートモーティブ",
+        "url": "https://response.jp/article/2026/06/08/412396.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "エアロパーツ装着のルークス ハイウェイスターはターボが超割安!? NAとの正味価格差は実質約7万円？",
+        "url": "https://bestcarweb.jp/feature/column/1534790"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "エルグランドの頂点「VIP」はやっぱり別格!? 固定式アームレスト仕様登場のウワサも？",
+        "url": "https://bestcarweb.jp/newcar/1539107"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "スイフト買うならXGで十分？ HYBRID MX、HYBRID MZまで価格差44万円の正解グレードを選ぶ",
+        "url": "https://bestcarweb.jp/feature/column/1538658"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "スズキ初のフレックス燃料四輪車、『ワゴンR FFV』発表…インド自動車業界初の量産化",
+        "url": "https://response.jp/article/2026/06/08/412373.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "ダンロップと富士通、タイヤ設計にAI活用…解析時間を90%削減する技術を共同開発",
+        "url": "https://response.jp/article/2026/06/08/412384.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.8",
+        "title": "トヨタファイナンシャルサービス「マイルート」、釧路空港連絡バスのデジタル乗車券を発売…北海道で初展開",
+        "url": "https://response.jp/article/2026/06/08/412395.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.8",
+        "title": "ホンダファン待望の展開キタ!! 「S2000救済」「HRC誕生」「インテグラ上陸」が現実に！ ホンダ復活への3つの切り札とは",
+        "url": "https://bestcarweb.jp/feature/column/1528494"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.8",
+        "title": "Woman’s Muffler Falls Off After She Hits A Bush. Then She Just Keeps Driving: ‘She’s Still In Line To Get A Dairy Queen Blizzard’",
+        "url": "https://www.motor1.com/news/797968/muffler-falls-out-dairy-queen/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.7",
+        "title": "Woman Is Driving On Highway For 30 Minutes. Then She Gets A Notification That The Key Fob Has Left Her Car: ‘Don’t Turn It Off’",
+        "url": "https://www.motor1.com/news/797950/dodge-key-fob-missing-on-highway/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.7",
+        "title": "‘Went From Expensive To Real Expensive’: Woman Gets A Flat Tire. Then The Mechanic Sees What She Ran Over",
+        "url": "https://www.motor1.com/news/797946/woman-flat-tire-screwdriver/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.7",
+        "title": "Man’s Car Won’t Start After Oil Change At Dealership. Then Another Mechanic Checks—And Realizes It Was A Setup: ‘Isn’t Adding Up'",
+        "url": "https://www.motor1.com/news/797994/dealership-sabotages-starter/"
+      },
       {
         "source": "The Drive",
         "time": "2026.6.7",
-        "title": "This Amphibious 6×6 Is a True ATV With a Bulletproof Honda Engine, and You Can Buy It",
-        "url": "https://www.thedrive.com/news/this-amphibious-6x6-is-a-true-atv-with-a-bulletproof-honda-engine-and-you-can-buy-it"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.7",
-        "title": "Woman Goes To Rental Car Stand. Then She Gets The $900 Surprise Rental: ‘My First Rental Car’",
-        "url": "https://www.motor1.com/news/797993/fox-rent-a-car-900-dollar-surprise-car/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "「LimeBike」、電動アシスト自転車シェアがアジア初上陸…東京でサービス開始",
-        "url": "https://response.jp/article/2026/06/07/412369.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "2001年式「ランエボVII」が値上がりの可能性も!? 中古価格が上がりそうなクルマ3選",
-        "url": "https://bestcarweb.jp/feature/column/1528887"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "iPhoneの「探す」アプリと連携し、愛車の“居所”を知れるアイテムが2つ登場！［特選カーアクセサリー名鑑］",
-        "url": "https://response.jp/article/2026/06/07/412371.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.7",
-        "title": "Man Takes His Ev To Charge At Walmart. Then He Notices A Major Design Flaw: ‘Why Can’t We Build Chargers?’",
-        "url": "https://www.motor1.com/news/797992/walmart-ev-chargers-no-canopy/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.7",
-        "title": "SUVブームに乗って登場したトヨタ『ハイラックスサーフ』【懐かしのカーカタログ】",
-        "url": "https://response.jp/article/2026/06/07/412368.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "エンジンカートに革命!! GRが40万円以下のマシン投入!! 「GR KART」がモータースポーツの入口を根本から変える",
-        "url": "https://bestcarweb.jp/news/car-accessory/1543286"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.7",
-        "title": "まさかの200万円切り!! 両側パワースライドドアまで付いた新型ムーヴの「お買い得グレード」はやっぱりRSか!?",
-        "url": "https://bestcarweb.jp/feature/column/1535029"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.7",
-        "title": "Tesla Model Y Battery Tested After 16,000 Miles Of Mostly Fast Charging",
-        "url": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/"
+        "title": "Ford Says Ditching Sedans Was ‘Absolutely’ the Right Call. Still, It Might Bring Them Back",
+        "url": "https://www.thedrive.com/news/ford-says-ditching-sedans-was-absolutely-the-right-call-still-it-might-bring-them-back"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 10,
-    "queued_articles": 10,
-    "processed": 10,
-    "started_at": "2026-06-07T15:02:37.741Z",
-    "finished_at": "2026-06-07T15:03:00.202Z",
+    "scoped_articles": 22,
+    "queued_articles": 22,
+    "processed": 22,
+    "started_at": "2026-06-08T04:59:54.640Z",
+    "finished_at": "2026-06-08T05:00:40.561Z",
     "success": true,
     "error": ""
   }
