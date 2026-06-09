@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-08T16:53:17.391Z",
+    "generated_at": "2026-06-09T04:32:07.314Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 371,
-    "deepseek_untranslated_before_run": 29,
-    "newly_fetched_articles": 29,
-    "newly_fetched_untranslated": 29,
+    "deepseek_translated_before_run": 372,
+    "deepseek_untranslated_before_run": 28,
+    "newly_fetched_articles": 28,
+    "newly_fetched_untranslated": 28,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 29,
+    "translation_queue_count": 28,
     "translation_queue_preview": [
       {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "“先読み”自動ドアから生成AIエージェントまで、「快適な移動」めざすアイシンの先進技術…人とくるまのテクノロジー展2026",
+        "url": "https://response.jp/article/2026/06/09/412437.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "「バスフェスタ2026inモレラ岐阜」参加レポート！ マニアも唸る訓練車多めの展示車両に酔った!!",
+        "url": "https://bestcarweb.jp/busmagazine/1515832"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "【三菱 デリカD:5 新型試乗】19年目の今も唯一無二！ 恐るべき「走るシーラカンス」…中村孝仁",
+        "url": "https://response.jp/article/2026/06/09/412442.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第780回",
+        "url": "https://bestcarweb.jp/feature/column/1531855"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "BMW『X3』、新エントリーモデル「オリジナル」を7月発売…767万円から",
+        "url": "https://response.jp/article/2026/06/09/412426.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "BMWの中国合弁「BMWブリリアンス」、瀋陽工場で累計生産700万台達成…3シリーズがラインオフ",
+        "url": "https://response.jp/article/2026/06/09/412429.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "NVIDIAがフィジカルAIのオープンソーススキルを発表 ロボットや自動運転の分野を加速",
+        "url": "https://response.jp/article/2026/06/09/412431.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "アライ、絶対王者・中須賀克行選手のオープンフェイス版レプリカ『VZ-RAM ナカスガ4』発売",
+        "url": "https://response.jp/article/2026/06/09/412443.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "キッコーマン食品とネスレ日本、関東～関西間で「RORO」活用の海上ラウンド輸送開始…CO2半減へ",
+        "url": "https://response.jp/article/2026/06/09/412436.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "スズキ『ハヤブサ』が全国から集結！ 鳥取県八頭郡で「第16回 隼駅まつり」8月2日開催へ グッズ事前販売開始",
+        "url": "https://response.jp/article/2026/06/09/412441.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "スズキもびっくり！“社食カレー”がJAL国際線機内食に採用［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/06/09/412428.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "トヨタファイナンシャルサービスのMaaSアプリ「my route」、デジタル乗車券を福岡・古賀市の「コガバス」に導入",
+        "url": "https://response.jp/article/2026/06/09/412447.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "ハリアー対RAV4!! 同じトヨタSUVでも“都会派”を選ぶならどっちが幸せ？",
+        "url": "https://bestcarweb.jp/feature/column/1539422"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "パワーよりもハンドリングへ!! 飛ばさない時代の面白い「ホットハッチ乗り比べ」で、最も印象に残ったのは意外なクルマ!?",
+        "url": "https://bestcarweb.jp/feature/column/1542569"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "ホンダらしい走りがEVでも炸裂!! 新型スーパーワンを走らせて見えきた電動ホットハッチの過激すぎる真実",
+        "url": "https://bestcarweb.jp/feature/column/1541964"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "ロングドライブの疲労感が激変！「信号が自然と目に入る」SWANSのサングラス!! ストレスフリーな快適運転",
+        "url": "https://bestcarweb.jp/news/car-accessory/1544773"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "新型CX-5にガチで嫉妬した！ 新型RAV4＆新型フォレスターのオーナーが脱帽する「5つの優越感」",
+        "url": "https://bestcarweb.jp/feature/column/1536440"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.9",
+        "title": "'Had To Pull Some Favors': Woman With No Credit Makes Offer On A $50,000 Chevrolet Silverado. Then She Gets A Response",
+        "url": "https://www.motor1.com/news/798077/50000-dollar-chevrolet-silverado-loan-no-credit/"
+      },
+      {
         "source": "Motor1",
         "time": "2026.6.8",
-        "title": "Honda's Popular Mid-Size Sedan Is Getting 'Pretty Major' Design Changes",
-        "url": "https://www.motor1.com/news/798100/honda-accord-design-changes-refresh/"
+        "title": "Driver Takes Toyota Tundra To Mechanic Because Of Check Engine Light. Then The Mechanic Realizes He Shouldn’t Have: ‘Free Money’",
+        "url": "https://www.motor1.com/news/798076/check-engine-light-loose-gas-cap/"
       },
       {
-        "source": "The Drive",
+        "source": "InsideEVs",
         "time": "2026.6.8",
-        "title": "‘Pimp My Ride’ Ford Taurus Just Hit a Pick-Your-Part Junkyard in California",
-        "url": "https://www.thedrive.com/news/pimp-my-ride-ford-taurus-just-hit-a-pick-your-part-junkyard-in-california"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.8",
-        "title": "Nissan Says The V6 Isn't Going Anywhere: 'We’re Too V6 To Quit'",
-        "url": "https://www.motor1.com/news/798090/nissan-defends-v6-engine/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.8",
-        "title": "Honda Planning ‘More Masculine’ Passport and ‘Futuristic’ Accord Redesign: TDS",
-        "url": "https://www.thedrive.com/news/honda-planning-more-masculine-passport-and-futuristic-accord-redesign-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.8",
-        "title": "'Off-Roading Is In Our DNA:' Nissan Talks Frontier Sport, Xterra, And What's Next",
-        "url": "https://www.motor1.com/news/797852/nissan-frontier-xterra-future-interview/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "“今”を動かす力とは何か？ 三菱ふそうが示す物流の次の一手PR",
-        "url": "https://response.jp/article/2026/06/08/412407.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "“過去イチ”と言われたはずが…消えた名車の悲しい末路",
-        "url": "https://bestcarweb.jp/feature/column/1537651"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "「ミニ」はヤリスクロスやヴェゼルの代わりになる？ 価格よりもキャラで選ぶ輸入車SUV",
-        "url": "https://bestcarweb.jp/feature/column/1538975"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "「もはや地図事業だけではないHERE」…人とくるまのテクノロジー展2026初出展の背景を枝代表に訊ねる",
-        "url": "https://response.jp/article/2026/06/08/412412.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "AI活用の貨物盗難防止ソリューション発表、検知から対応まで数分に短縮…米project44",
-        "url": "https://response.jp/article/2026/06/08/412416.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "BYD、中国初の4nm車載スマートドライビングSoC発表…「交通事故ゼロ」めざす",
-        "url": "https://response.jp/article/2026/06/08/412420.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "BYD『SEAL』、2周年記念特別パッケージを100台限定発売…充電ボックスやドラレコ標準",
-        "url": "https://response.jp/article/2026/06/08/412410.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "EV普及の壁は価格と充電不安、レンジエクステンダーEVが現実的選択肢に…アリックスパートナーズ調査",
-        "url": "https://response.jp/article/2026/06/08/412419.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "SDVや統合制御の先にあるモビリティ：アイシンのブレない価値観…人とくるまのテクノロジー展2026",
-        "url": "https://response.jp/article/2026/06/08/412403.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "ヴェゼルRSとカローラクロスGRスポーツはどっちが買い!? 贔屓目なしで暴くスポーツSUVの決定的な走りの違い",
-        "url": "https://bestcarweb.jp/feature/column/1541042"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "ガーミンから新作バイクナビ登場！ 猛暑対応＆高精細地図搭載で進化した「zumo XT3」の実力！",
-        "url": "https://bestcarweb.jp/news/1541695"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.8",
-        "title": "キアの新型EVバン『PV5』展示、幅広い活用方法を提案へ…BICYCLE E・MOBILITY CITY EXPO 2026",
-        "url": "https://response.jp/article/2026/06/08/412418.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "セレナはなぜ売れ続ける？ ノア／ヴォクシーだけじゃない定番ミニバンの底力",
-        "url": "https://bestcarweb.jp/feature/column/1541850"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "なんで新型CX-5は嫉妬される？ 新型エルグランド750万円の見積書！ 人気記事トップ20[2026.5.31-6.6]",
-        "url": "https://bestcarweb.jp/feature/column/1543582"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.8",
-        "title": "ビームス50周年でパナとコラボ!! 名作電動アシスト自転車BP01／BP02を限定発売!!",
-        "url": "https://bestcarweb.jp/news/1541694"
+        "title": "BMW’s Electric M3 Doesn’t Imitate A V8. It Does Something Cooler",
+        "url": "https://insideevs.com/news/798095/bmw-m3-ev-sound-design/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 29,
-    "queued_articles": 29,
-    "processed": 29,
-    "started_at": "2026-06-08T16:53:17.688Z",
-    "finished_at": "2026-06-08T16:54:31.915Z",
+    "scoped_articles": 28,
+    "queued_articles": 28,
+    "processed": 28,
+    "started_at": "2026-06-09T04:32:07.664Z",
+    "finished_at": "2026-06-09T04:32:59.669Z",
     "success": true,
     "error": ""
   }
