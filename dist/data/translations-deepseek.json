@@ -28671,5 +28671,823 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-09T04:32:59.661Z"
+  },
+  "https://www.thedrive.com/news/porsches-color-wizards-made-paint-that-looks-just-like-jeans-thanks-to-toy-story": {
+    "title_zh": "保时捷为《玩具总动员》打造牛仔布质感车漆",
+    "summary_short": "保时捷 Sonderwunsch 团队为致敬《玩具总动员》开发出牛仔布纹理车漆，并推出三款 911 特别版车型。",
+    "summary_long": "保时捷 Sonderwunsch 团队为纪念与皮克斯合作 20 周年，以《玩具总动员》三位主角为灵感，打造了三款 911 特别版车型：胡迪主题的 911 Carrera T、杰西主题的 911 Carrera Targa 4 GTS 和巴斯光年主题的 911 GT3 RS。其中胡迪车型采用全新工艺，将真实牛仔布纹理压印在车漆中，创造出仿旧牛仔裤的视觉效果。三款车将通过慈善拍卖出售，收益捐赠给多个儿童慈善机构。",
+    "highlights_zh": [
+      "保时捷 Sonderwunsch 团队打造三款《玩具…",
+      "胡迪车型采用牛仔布纹理车漆",
+      "三款车将慈善拍卖"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911",
+      "Sonderwunsch",
+      "玩具总动员 | Toy Story"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/DSC026862026-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/0Y7A7881-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/0Y7A8128-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:12.523Z"
+  },
+  "https://www.motor1.com/news/798243/porsche-toy-story-cars-gt3/": {
+    "title_zh": "保时捷与皮克斯合作打造《玩具总动员》主题 911",
+    "summary_short": "保时捷与皮克斯合作，以《玩具总动员》角色伍迪、杰西和巴斯光年为灵感，打造三台定制 911，每台耗时超 350 小时手工涂装。",
+    "summary_long": "保时捷与皮克斯继 2022 年合作推出 911 Sally Special 后再度联手，为迎接《玩具总动员 5》上映，以伍迪、杰西和巴斯光年三个经典角色为灵感，打造了三台定制 911。三台车均基于 911 Carrera T 打造，由保时捷 Sonderwunsch 部门手工涂装，每台耗时超过 350 小时，全部为油漆喷涂，无任何贴膜。",
+    "highlights_zh": [
+      "三台 911 分别致敬伍迪、杰西和巴斯光年",
+      "全部手工涂装",
+      "基于 911 Carrera T 打造"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911",
+      "皮克斯",
+      "玩具总动员 | Toy Story"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEAo6/s1/porsche-and-pixar-toy-story-collaboration.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:12.557Z"
+  },
+  "https://www.thedrive.com/news/audi-nuvolari-spy-shots": {
+    "title_zh": "奥迪 Nuvolari 超级跑车纽博格林测试谍照曝光",
+    "summary_short": "奥迪全新超级跑车 Nuvolari 基于兰博基尼 Temerario 打造，搭载双涡轮增压 V8 混动系统，综合功率约 1000 马力，已在纽博格林赛道测试。",
+    "summary_long": "奥迪在意外发布 Nuvolari 超级跑车后，其原型车迅速在纽博格林赛道被拍到测试。该车基于兰博基尼 Temerario 平台，搭载双涡轮增压 V8 发动机和三台轴向磁通电机，综合功率约 1000 马力，0-60 英里/小时加速仅需 2.6 秒，极速 217 英里/小时。混动系统支持纯电模式，但续航尚未公布。",
+    "highlights_zh": [
+      "基于兰博基尼 Temerario 平台",
+      "双涡轮增压 V8 混动",
+      "0-60 英里/小时加速 2.6 秒",
+      "极速 217 英里/小时"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Nuvolari",
+      "兰博基尼",
+      "Temerario",
+      "纽博格林"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/audi-nuvolari18407.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/audi-nuvolari18403.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/audi-nuvolari18419.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:16.744Z"
+  },
+  "https://insideevs.com/news/798229/mitsubishi-eclipse-cheap-ev-nissan-leaf-2026/": {
+    "title_zh": "三菱 Eclipse Sportback 重返美国：基于日产 Leaf 的平价电动跨界车",
+    "summary_short": "三菱 Eclipse Sportback 基于日产 Leaf，续航 303 英里，售价约 3 万美元，今夏末在美上市。",
+    "summary_long": "三菱宣布 2027 款 Eclipse Sportback 将于今年夏末或初秋在美国上市，这是一款基于日产 Leaf 的紧凑型电动跨界车。外观比 Leaf 更具运动感，配备独特的三角形轮毂。虽然官方未公布定价和续航细节，但参考日产 Leaf：75kWh 电池，EPA 续航 303 英里（入门版），前驱 214 马力电机，支持 150kW 快充，10-80% 充电需 35 分钟。该车配备 NACS 和 J1772 双充电口。预计起售价约 3 万美元。",
+    "highlights_zh": [
+      "基于日产 Leaf",
+      "EPA 续航 303 英里",
+      "外观更运动",
+      "配备 NACS 和 J1772 双充电口"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Eclipse Sportback",
+      "日产 | Nissan",
+      "Leaf",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3LQy/s1/mitsubishi-eclipse-sportback.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/mitsubishi-eclipse-sportback-side-large.png",
+      "https://cdn.motor1.com/images/custom/thumbnail/mitsubishi-eclipse-sportback-rear-3-4-large.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:17.700Z"
+  },
+  "https://www.motor1.com/news/798144/honda-accord-50-years-old/": {
+    "title_zh": "本田雅阁 50 周年：美国最受欢迎轿车之一达成重大里程碑",
+    "summary_short": "本田雅阁迎来 50 周年，美国销量超 1500 万辆，其中 1300 万辆在俄亥俄州生产。",
+    "summary_long": "本田雅阁于 1976 年 6 月首次推出，至今已在美国销售超过 1500 万辆，其中 1300 万辆在俄亥俄州马里斯维尔工厂生产（自 1982 年起）。历经 11 代车型，包括 1988 年推出的双门轿跑和 1991 年推出的旅行车。第九代雅阁的 3.5 升 V6 发动机可输出 278 马力，而第三代雅阁凭借翻灯、手动变速箱和双叉臂悬架成为经典。",
+    "highlights_zh": [
+      "1976 年 6 月推出",
+      "美国销量超 1500 万辆",
+      "1300 万辆在俄亥俄州生产",
+      "历经 11 代"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅阁",
+      "俄亥俄州",
+      "马里斯维尔工厂"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8xNy/s1/sixth-generation-honda-accord.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:21.939Z"
+  },
+  "https://www.motor1.com/news/798221/jeep-wrangler-gladiator-recall-fire-risk/": {
+    "title_zh": "Jeep 因起火风险召回 110 万辆牧马人和角斗士",
+    "summary_short": "Jeep 因电动液压助力转向泵插头缺陷可能导致火灾，召回 110 万辆 2021-2025 款牧马人和角斗士，建议车主户外停放。",
+    "summary_long": "Jeep 宣布召回约 110 万辆 2021-2025 款牧马人（Wrangler）和角斗士（Gladiator），原因是电动液压助力转向泵（EHPS）的电气连接存在缺陷，可能导致高电阻、过热甚至起火。受影响车辆可能失去转向助力或显示“维修动力转向”故障码。Stellantis 自 2023 年 5 月起调查该问题，最初因发生率低而终止，但 2024 年 8 月因事故增加重启调查，最终在 2025 年 5 月确认制造缺陷。NHTSA 也于 2024 年 9 月介入调查发动机舱起火问题。Jeep 建议车主在维修前将车辆停放在室外。",
+    "highlights_zh": [
+      "涉及 2021-2025 款牧马人和角斗士",
+      "电动液压助力转向泵插头缺陷",
+      "可能导致高电阻、过热和火灾",
+      "建议车主户外停放直至修复"
+    ],
+    "entities": [
+      "Jeep",
+      "牧马人 | Wrangler",
+      "角斗士",
+      "Stellantis",
+      "NHTSA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m4yvm/s1/2025-jeep-wrangler.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:22.113Z"
+  },
+  "https://www.motor1.com/features/798141/rivian-haptic-halo-controls-review/": {
+    "title_zh": "Rivian 的触控旋钮：聪明过头了？",
+    "summary_short": "Rivian 在 R2 上推出 Haptic Halo 触控旋钮替代传统音量键，理论巧妙但实际体验不佳。",
+    "summary_long": "Rivian 针对 R1S 和 R1T 车主缺乏物理旋钮的抱怨，在新款 R2 上推出了 Haptic Halo 触控旋钮。这两个位于方向盘两侧的圆形拨盘可上下左右操作，控制音量、切歌、静音等多种功能，并带有触觉反馈。然而，尽管设计巧妙，实际使用中却不如传统物理按键直观高效，显得过于复杂。",
+    "highlights_zh": [
+      "Haptic Halo 替代传统音量旋钮",
+      "左右拨盘控制多种功能",
+      "触觉反馈模拟物理阻力",
+      "实际体验不如预期直观"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "Haptic Halo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJGeP/s1/rivian-haptic-halo-controls-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:26.434Z"
+  },
+  "https://www.thedrive.com/car-reviews/2027-rivian-r2-first-drive-review": {
+    "title_zh": "2027 款 Rivian R2 首试：适合众多人的完美之车",
+    "summary_short": "Rivian R2 以 4.6 万美元起售，续航超 300 英里，平衡公路与越野性能，剑指 Model Y 和 RAV4。",
+    "summary_long": "Rivian R2 是面向主流市场的紧凑型跨界 SUV，起售价 46,485 美元，顶配 59,485 美元，续航超 300 英里。它巧妙平衡了公路驾驶动态与越野能力，兼具高级感与竞争力，目标直指特斯拉 Model Y 和丰田 RAV4 等畅销车型。作为 R1S 的后续车型，R2 尺寸适中（185.9 英寸长），定位双排座，技术先进且价格更具吸引力，有望在竞争激烈的细分市场占据重要份额。",
+    "highlights_zh": [
+      "起售价 46",
+      "完美平衡公路与越野性能",
+      "剑指 Model Y 和 RAV4 的紧凑 SUV…",
+      "尺寸适中"
+    ],
+    "entities": [
+      "Rivian R2",
+      "Tesla Model Y",
+      "Toyota RAV4",
+      "Rivian R1S"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/R2-HERO-EC.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0147_5cc0dd.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0206.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:26.819Z"
+  },
+  "https://www.thedrive.com/news/rivian-r2-is-getting-a-pet-cam-and-it-wont-allow-you-to-spy-on-a-human": {
+    "title_zh": "Rivian R2 将配备宠物摄像头，且不会允许你监视人类",
+    "summary_short": "Rivian R2 将新增宠物摄像头功能，仅检测宠物而非人类，防止被用于监视或家庭虐待，增强隐私保护。",
+    "summary_long": "Rivian R2 即将通过软件更新引入宠物摄像头功能，允许车主在车辆停放时通过手机查看车内宠物状态。该摄像头内置人工智能，仅识别宠物而非人类，若检测到人则不会激活，旨在防止被用于监视或家庭虐待。Rivian 首席软件官表示，这是对现有宠物模式的补充，软件更新将在今年内推送。",
+    "highlights_zh": [
+      "宠物摄像头仅识别宠物",
+      "防止被用于监视或家庭虐待",
+      "软件更新将在今年内推送",
+      "增强现有宠物模式功能"
+    ],
+    "entities": [
+      "Rivian R2",
+      "宠物摄像头",
+      "隐私保护",
+      "宠物模式"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.48.00-PM-e1780944914288.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0279.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:30.591Z"
+  },
+  "https://www.thedrive.com/news/somehow-rivians-cheaper-r2-is-its-most-refined-vehicle": {
+    "title_zh": "Rivian R2：减法设计造就更精致的平价车型",
+    "summary_short": "Rivian R2 通过简化设计，如取消液压主动防倾杆和空气悬架，反而比旗舰 R1 更精致，体现了减法设计的优势。",
+    "summary_long": "Rivian 首席设计官 Jeff Hammoud 表示，R2 的设计理念是减法而非加法。最初 R2 被视为 R1 的缩小版，但团队在吸收多年反馈后，通过简化结构（如取消液压主动防倾杆和空气悬架）并优化细节（如减少 2.3 英里线束），使 R2 成为比更昂贵的 R1 更精致的车型。这一过程表明，深思熟虑的简化能带来更精致、更经济且更用户友好的产品。",
+    "highlights_zh": [
+      "R2 通过减法设计实现更精致体验",
+      "取消液压主动防倾杆和空气悬架",
+      "减少 2.3 英里线束",
+      "比旗舰 R1 更经济且更精致"
+    ],
+    "entities": [
+      "Rivian",
+      "R2",
+      "R1",
+      "Jeff Hammoud"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0194_4eb7d2-e1780962070161.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0086.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0186_126415.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:31.728Z"
+  },
+  "https://www.thedrive.com/news/the-rivian-r2-needed-a-rear-wiper-that-didnt-exist-so-rivian-invented-one": {
+    "title_zh": "Rivian R2 需要一款不存在的后雨刮，于是自己发明了一个",
+    "summary_short": "Rivian R2 因贯穿式扰流板和可降玻璃尾门，无法使用传统后雨刮，团队从零研发隐藏式加热雨刮槽。",
+    "summary_long": "Rivian R2 因采用贯穿式扰流板和可降玻璃尾门，传统后雨刮方案均不可行。CEO RJ Scaringe 透露，团队利用夜晚和周末从零开发了一套隐藏式加热雨刮槽系统，这是此前从未有过的工程创新。",
+    "highlights_zh": [
+      "R2 后雨刮从零研发",
+      "隐藏式加热雨刮槽",
+      "CEO 称利用夜晚和周末完成",
+      "传统方案均被排除"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "RJ Scaringe",
+      "后雨刮",
+      "隐藏式加热雨刮槽"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0103-e1780959318943.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0286.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0081.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:34.669Z"
+  },
+  "https://www.thedrive.com/news/jeep-warns-wrangler-gladiator-owners-not-to-park-inside-due-to-fire-risk-tds": {
+    "title_zh": "Jeep 警告 Wrangler、Gladiator 车主勿在室内停车：存在火灾风险",
+    "summary_short": "Jeep 因电气故障在美国召回超 100 万辆 Wrangler 和 Gladiator，车辆熄火后仍可能起火。",
+    "summary_long": "Stellantis 宣布召回 2021-2025 款 Jeep Wrangler 和 Gladiator，美国涉及 108 万辆，全球共 130 万辆。问题源于电动液压助力转向泵的线路可能过热并燃烧，即使车辆熄火也存在风险。Stellantis 表示正在尽快修复，预计最迟 7 月提供解决方案。",
+    "highlights_zh": [
+      "美国召回超 108 万辆",
+      "熄火后仍可能起火",
+      "转向泵线路缺陷",
+      "修复方案最迟 7 月提供"
+    ],
+    "entities": [
+      "Jeep",
+      "Wrangler",
+      "Gladiator",
+      "Stellantis"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/JP026_105WR-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/R2-HERO-EC.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:35.530Z"
+  },
+  "https://www.motor1.com/news/797940/2027-audi-q7-first-look/": {
+    "title_zh": "2027 款奥迪 Q7 全面革新",
+    "summary_short": "2027 款奥迪 Q7 迎来第三代，外观内饰全面升级，搭载数字矩阵 LED 大灯，提供强劲动力选项，豪华感显著提升。",
+    "summary_long": "2027 款奥迪 Q7 进入第三代，采用精致造型、先进照明技术和重新设计的座舱，营造更强豪华感。该车提供两种强劲动力选项，内外科技配置丰富，是奥迪迄今最好的内饰作品。Q7 及更强大的 SQ7 将提升奥迪 SUV 阵容。前脸配备数字矩阵 LED 大灯，具备自适应远光功能，这是该技术首次在美国市场应用，奥迪为此重新设计了智能照明技术，可在不眩目对向来车的情况下保持远光常开，提升夜间驾驶安全性。",
+    "highlights_zh": [
+      "第三代奥迪 Q7 2027 年推出",
+      "数字矩阵 LED 大灯首次入美",
+      "自适应远光提升夜间视野",
+      "内饰豪华感达品牌新高度"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "奥迪 Q7 | Audi Q7",
+      "奥迪 SQ7 | Audi SQ7",
+      "数字矩阵 LED 大灯"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo74pA/s1/2027-audi-q7.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:39.823Z"
+  },
+  "https://www.thedrive.com/news/audis-new-q7-borrows-almost-everything-from-its-bigger-more-expensive-flagship": {
+    "title_zh": "奥迪新 Q7 几乎照搬更贵旗舰车型",
+    "summary_short": "2027 款奥迪 Q7 采用全新设计，搭载 429 马力基础发动机，内饰几乎直接取自即将推出的 Q9，但价格预计更低。",
+    "summary_long": "2027 款奥迪 Q7 正式亮相，采用全新设计语言，内饰几乎完全复制自更昂贵的旗舰车型 Q9，但价格预计更低。新车以 Q3 为蓝本，但进一步优化，拥有更直立的座舱、扁平车顶和直立 D 柱。前脸采用分体式 LED 日行灯与 Matrix LED 大灯，搭配巨大蛋形格栅。尾部取消传统蚌式尾门，配备数字 OLED 尾灯，支持多种照明签名。动力方面，基础发动机输出 429 马力，性能强劲。",
+    "highlights_zh": [
+      "内饰几乎直接取自 Q9",
+      "429 马力基础发动机",
+      "全新设计语言与 Matrix LED 大灯",
+      "数字 OLED 尾灯支持多种照明签名"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q7",
+      "Q9",
+      "Q3",
+      "Matrix LED"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0305_5e4c79-e1780956563894.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0308.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0316_a15071.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:40.136Z"
+  },
+  "https://bestcarweb.jp/feature/column/1544728": {
+    "title_zh": "超导液态氢发动机与第三代燃料电池加速实用化，但氢能社会还缺什么？",
+    "summary_short": "丰田在氢能技术上不断突破，超导液态氢发动机和第三代燃料电池即将实用化，但氢能社会仍面临基础设施等挑战。",
+    "summary_long": "丰田汽车正加速氢能动力单元的研发，在超级耐久赛富士 24 小时赛中，搭载超导泵的液态氢发动机卡罗拉完成 483 圈（约 2204 公里），展示了耐久性和可靠性。超导技术实现零电阻，减少能量损失，同时超导电机泵使氢罐容量从 220 升增至 300 升，氢搭载量从 15 公斤增至 20 公斤。此外，第三代燃料电池系统即将投入市场，瞄准大型卡车等物流领域。尽管技术领先，但氢能社会仍面临加氢站建设、成本等挑战。",
+    "highlights_zh": [
+      "超导液态氢发动机完成 2204 公里耐久赛",
+      "氢罐容量提升至 300 升",
+      "第三代燃料电池即将用于大型卡车",
+      "技术满分但基础设施仍是短板"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉",
+      "超导液态氢发动机",
+      "第三代燃料电池",
+      "氢能社会"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09153729/d09180463dc953fcb014a44ed5d7ed2f.jpg?v=1780987051",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09153729/d09180463dc953fcb014a44ed5d7ed2f-600x400.jpg?v=1780987051",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06171221/00_daihatsu-shihan_head-600x400.jpg?v=1780733542"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:45.458Z"
+  },
+  "https://response.jp/article/2026/06/09/412470.html": {
+    "title_zh": "大发 Rugger 或将复活，30 年后重出江湖",
+    "summary_short": "大发 Rugger 时隔 30 年有望复活，预计 2027 年秋首发，采用 DNGA 平台，5 门设计，售价约 170-230 万日元。",
+    "summary_long": "大发汽车正在推进经典 SUV Rugger 的复活项目，预计 2027 年秋季全球首发，售价约 170 万至 230 万日元。初代 Rugger 于 1984 年作为 Taft 的后继车型推出，采用梯形大梁，是一款硬派越野车，1997 年停产。新一代 Rugger 将放弃非承载式车身，转而采用大发独有的 DNGA 平台，以提升刚性和轻量化。车身尺寸与 Taft 相近，但车高增至 1730mm，离地间隙 200mm，越野性能提升。动力方面提供 0.66L 自然吸气和涡轮增压两种三缸发动机，匹配 D-CVT 变速箱。为对抗铃木 Jimny Nomad，新车将采用 5 门设计。",
+    "highlights_zh": [
+      "Rugger 复活预计 2027 年秋首发",
+      "采用 DNGA 平台",
+      "5 门设计",
+      "售价约 170-230 万日元"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "ラガー",
+      "DNGA",
+      "ジムニーノマド",
+      "タフト"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217312.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217312.jpg",
+      "https://response.jp/imgs/fill2/2217416.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:46.714Z"
+  },
+  "https://response.jp/article/2026/06/09/412472.html": {
+    "title_zh": "铃鹿 8 耐：铃木与田径队合作推出限量版防暑饮料瓶",
+    "summary_short": "铃木为铃鹿 8 耐推出与田径队合作的限量版饮料瓶，含防暑特制粉末，助力观赛防暑。",
+    "summary_long": "铃木为 2026 年铃鹿 8 耐（7 月 3 日-5 日）推出与旗下田径队“铃木运动员俱乐部”合作的限量版饮料瓶。该瓶由 Nalgene Outdoor 制造，有蓝黄两色，容量 1 升，内含三种特制防暑饮料粉末。6 月 15 日前在铃木线上商城 S-MALL 预售，赛期在铃木 PR 展位现场销售。",
+    "highlights_zh": [
+      "铃木与田径队合作推出限量版饮料瓶",
+      "内含三种特制防暑饮料粉末",
+      "Nalgene 户外瓶",
+      "6 月 15 日前线上预售"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "铃鹿 8 耐",
+      "铃木运动员俱乐部 | Suzuki Athlete Club",
+      "Nalgene Outdoor"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217352.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217352.jpg",
+      "https://response.jp/imgs/fill2/2217361.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:50.971Z"
+  },
+  "https://response.jp/article/2026/06/09/412473.html": {
+    "title_zh": "丰田海狮 200 系专用仪表盘托盘，集成手机支架与小物收纳",
+    "summary_short": "CRAFTWORKS 推出丰田海狮 200 系专用仪表盘托盘，集成手机支架、卡片与硬币收纳，售价 2880 日元起。",
+    "summary_long": "汽车用品品牌 CRAFTWORKS 发布了丰田海狮 200 系专用仪表盘托盘，旨在解决仪表盘上小物散乱和手机放置空间不足的问题。该产品集成了手机支架、卡片收纳、硬币盒及自由空间，所有功能整合在驾驶座伸手可及的范围内。安装只需撕下背面双面胶并放置在导航后方，无需工具，附带的防滑垫可防止行驶中振动导致的移位。材质采用防水、耐热、耐久的 ABS 树脂和硅胶，适应前挡风玻璃附近的严苛环境。尺寸为纵 26cm、横 42cm、高 7.5cm，仅提供黑色。适用于丰田海狮 200 系（H200 系 1-9 型标准车身）、雷吉斯艾斯及马自达邦戈布罗尼面包车，但不兼容 9 型 8 英寸显示屏音频车型及宽体车身。",
+    "highlights_zh": [
+      "集成手机支架、卡片与硬币收纳",
+      "安装无需工具",
+      "防水耐热 ABS 树脂材质",
+      "售价 2880 日元起"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "海狮",
+      "CRAFTWORKS",
+      "雷吉斯艾斯",
+      "马自达 | Mazda"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217420.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217420.jpg",
+      "https://response.jp/imgs/fill2/2217422.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:52.581Z"
+  },
+  "https://response.jp/article/2026/06/09/412462.html": {
+    "title_zh": "1 人乘超小型 EV「mibot」在中国银行 5 个网点实证实验，20 多岁用户综合满意度达 100%",
+    "summary_short": "KG Motors 开发的 1 人乘超小型 EV「mibot」在中国银行 5 个网点进行业务实证，20 多岁用户满意度达 100%，实际业务用户肯定率 86%。",
+    "summary_long": "中国银行、Chugin Capital Partners 与 KG Motors 三家公司，在冈山县内中国银行 5 个网点，对 KG Motors 开发并量产的 1 人乘超小型 EV「mibot」进行了约 3 周的业务实证实验。mibot 采用单座设计，配备车门和空调，续航约 100km，最高时速 60km/h，属于原付迷你汽车规格。实验期间收集了 103 份问卷，整体肯定率 78%，实际业务用户肯定率 86%，其中 20 多岁用户综合满意度达 100%。基于结果，已决定在冈山南支行正式运用，并引入西条 Life Plan Center。",
+    "highlights_zh": [
+      "mibot 为 1 人乘超小型 EV",
+      "中国银行 5 网点实证",
+      "20 多岁用户综合满意度达 100%",
+      "已决定在冈山南支行正式运用"
+    ],
+    "entities": [
+      "中国银行",
+      "KG Motors",
+      "mibot",
+      "超小型 EV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217365.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217365.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:56.142Z"
+  },
+  "https://bestcarweb.jp/news/1541696": {
+    "title_zh": "ENNE ZERO 再售引关注，2 天售罄 1000 台",
+    "summary_short": "特定原付 ENNE ZERO 第二次预售 6 月 13 日启动，首次 2 天售罄 1000 台，兼具踏板与电驱。",
+    "summary_long": "特定小型原付市场热门车型 ENNE ZERO 将于 2026 年 6 月 13 日开启第二次预售。首次预售仅 2 天即售罄 1000 台，其独特设计融合踏板驱动与电驱，解决电亏时无法行驶的痛点，实用性强，被视为次世代移动出行的有力候选。",
+    "highlights_zh": [
+      "2 天售罄 1000 台",
+      "踏板与电驱双模式",
+      "电亏时仍可骑行",
+      "售价 16.9 万日元"
+    ],
+    "entities": [
+      "ENNE ZERO",
+      "特定原付"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05150141/674c78c0f35159885f867707d4fa36f5.jpg?v=1780639302",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05150141/674c78c0f35159885f867707d4fa36f5-600x408.jpg?v=1780639302",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05154930/main-600x400.jpg?v=1780642171"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:14:56.809Z"
+  },
+  "https://bestcarweb.jp/feature/column/1536233": {
+    "title_zh": "600 万日元的 RAV4 PHEV 是否太贵？EV 续航 151km&329 马力的实力…选“Z”才是正解的理由",
+    "summary_short": "丰田新款 RAV4 PHEV 售价 600 万日元起，EV 续航 151km，综合功率 329 马力，性价比如何？推荐选择 Z 版。",
+    "summary_long": "丰田新款 RAV4 PHEV 于 2026 年 2 月 19 日上市，起售价 600 万日元（含税），远超 HEV 车型的 450-490 万日元。尽管价格高昂，但其纯电续航达 151km，综合功率 329 马力，性能出色。与三菱 Outlander PHEV、马自达 CX-60 PHEV 等竞品相比，价格处于同级平均水平。推荐选择标准版“Z”而非 GR SPORT，因为性价比更高。",
+    "highlights_zh": [
+      "起售价 600 万日元",
+      "纯电续航 151km",
+      "推荐选择标准版“Z”",
+      "与同级 PHEV 相比价格合理"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "RAV4",
+      "PHEV",
+      "三菱 | Mitsubishi",
+      "马自达 | Mazda"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01093457/9e27d8926c12e413cf49b755ba0c3e3f-1.jpg?v=1780274099",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01093457/9e27d8926c12e413cf49b755ba0c3e3f-1-600x338.jpg?v=1780274099",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06171221/00_daihatsu-shihan_head-600x400.jpg?v=1780733542"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:00.620Z"
+  },
+  "https://bestcarweb.jp/news/1541700": {
+    "title_zh": "比亚迪全球首推自动驾驶事故补偿，发布 4nm 车规 AI 芯片",
+    "summary_short": "比亚迪全球首推城市 NOA 事故补偿制度，并发布中国首款自研 4nm 车规 AI 芯片“璇玑 A3”，加速智能驾驶布局。",
+    "summary_long": "比亚迪在中国市场率先推出城市 NOA（Navigate on Autopilot）使用期间的事故补偿制度，承诺在用户遵守法规和系统条件的前提下，若发生事故且用户需承担法律责任，将赔偿经济损失。此举旨在消除用户对自动驾驶责任归属的顾虑，降低心理门槛。同时，比亚迪发布了中国首款自研 4nm 车规 AI 芯片“璇玑 A3”，标志着其从电动车制造商向智能驾驶企业的转型。",
+    "highlights_zh": [
+      "全球首推城市 NOA 事故补偿",
+      "发布自研 4nm 车规 AI 芯片",
+      "消除用户对责任归属的顾虑",
+      "加速向智能驾驶企业转型"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "璇玑 A3",
+      "城市 NOA"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05154930/main.jpg?v=1780642171",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05154930/main-600x400.jpg?v=1780642171",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05150141/674c78c0f35159885f867707d4fa36f5-600x408.jpg?v=1780639302"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:01.584Z"
+  },
+  "https://www.thedrive.com/news/how-a-disgruntled-man-and-his-2001-volvo-got-the-kars4kids-jingle-banned": {
+    "title_zh": "不满的捐赠者用他的 2001 款沃尔沃让 Kars4Kids 广告歌被禁（更新：又回来了）",
+    "summary_short": "一名不满的捐赠者起诉 Kars4Kids 慈善机构，因其广告歌涉嫌欺骗，加州法官下令禁播。",
+    "summary_long": "Kars4Kids 的广告歌“1-8-7-7-KARS-4-KIDS”以其重复的童声合唱闻名，数十年来在美国沿海州密集播放。一名捐赠者 Bruce Puterbaugh 因不满其欺骗性操作，将机构告上法庭，加州法官裁定其“采取可诉的欺骗策略”，禁止该广告在加州播出。然而，2026 年 6 月 4 日，上诉法院允许在诉讼期间继续播放，广告歌暂时回归。",
+    "highlights_zh": [
+      "Kars4Kids 广告歌因欺骗性操作被加州法官禁播",
+      "捐赠者 Bruce Puterbaugh 的 200…",
+      "上诉法院允许广告在诉讼期间继续播放",
+      "广告歌以重复童声合唱著称"
+    ],
+    "entities": [
+      "Kars4Kids",
+      "沃尔沃",
+      "Bruce Puterbaugh",
+      "加州"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/k4k-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/R2-HERO-EC.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:06.206Z"
+  },
+  "https://response.jp/article/2026/06/09/412467.html": {
+    "title_zh": "ZO MOTORS 将展出新型 EV 卡车 ZM5",
+    "summary_short": "ZO MOTORS 将在 2026 年 BICYCLE-E・MOBILITY CITY EXPO 上展出新型 EV 卡车 ZM5，面向物流与公共用途。",
+    "summary_long": "ZO MOTORS 将于 2026 年 6 月 10 日至 11 日在新宿住友ビル举办的 BICYCLE-E・MOBILITY CITY EXPO 2026 上展出新型 EV 卡车 ZM5。该展会专注于 EV、电动出行、充电基础设施及物流领域，预计吸引大量政府与物流行业人士。ZM5 采用永磁同步电机，额定/最大功率 40/100kW，扭矩 105/270Nm，适用于学校配送、公园管理、道路维护等公共领域。ZO MOTORS 还将介绍与 JARWA 合作构建的售后服务体系。",
+    "highlights_zh": [
+      "展出新型 EV 卡车 ZM5",
+      "面向物流与公共用途",
+      "电机功率 40/100kW",
+      "与 JARWA 合作售后"
+    ],
+    "entities": [
+      "ZO MOTORS",
+      "ZM5",
+      "JARWA"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217382.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217382.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:06.789Z"
+  },
+  "https://bestcarweb.jp/news/1541697": {
+    "title_zh": "INNO 推出日产 Caravan 专用低车顶行李架，全高控制在 2.1 米以下",
+    "summary_short": "INNO 为日产 Caravan 推出专用低车顶行李架，解决立体停车场限高问题，全高控制在 2.1 米以下。",
+    "summary_long": "INNO 推出日产 Caravan 专用低车顶行李架，旨在解决商用车主因车顶行李架导致车高增加、无法进入立体停车场的痛点。该产品将全高控制在 2.1 米以下，适配多数立体停车场限高，兼顾工作与户外使用需求。",
+    "highlights_zh": [
+      "全高控制在 2.1 米以下",
+      "适配多数立体停车场",
+      "兼顾商用与户外场景"
+    ],
+    "entities": [
+      "INNO",
+      "日产 | Nissan",
+      "キャラバン",
+      "低车顶行李架"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05152338/50787486729b8e08eae486701e73485b.jpg?v=1780640619",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05152338/50787486729b8e08eae486701e73485b-600x600.jpg?v=1780640619",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05150141/674c78c0f35159885f867707d4fa36f5-600x408.jpg?v=1780639302"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:11.035Z"
+  },
+  "https://response.jp/article/2026/06/09/412474.html": {
+    "title_zh": "Jeep Commander 新增 Overland 版，售价 644 万日元",
+    "summary_short": "Jeep Commander 新增 Overland 版，从限量车转为常规车型，售价 644 万日元，内饰更豪华。",
+    "summary_long": "Stellantis 日本公司于 6 月 9 日推出 Jeep Commander 新车型 Overland，售价 644 万日元（含税）。该车此前作为限量版推出三次，此次首次成为常规车型。Overland 版采用 Tupelo 棕色刺绣座椅、麂皮仪表板装饰和双片全景天窗，外观配备车身同色轮拱、钻石切割 18 英寸轮毂等，定位高于 Limited 版。",
+    "highlights_zh": [
+      "Overland 版从限量车转为常规车型",
+      "售价 644 万日元",
+      "配备 Tupelo 棕色刺绣座椅和全景天窗",
+      "外观采用车身同色轮拱和 18 英寸轮毂"
+    ],
+    "entities": [
+      "吉普",
+      "指挥官",
+      "Overland",
+      "Stellantis"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217423.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217423.jpg",
+      "https://response.jp/imgs/fill2/2217425.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:12.308Z"
+  },
+  "https://response.jp/article/2026/06/09/412459.html": {
+    "title_zh": "丰田股价小幅反弹，与自动驾驶初创企业达成资本业务合作",
+    "summary_short": "丰田股价小幅反弹，与自动驾驶初创企业达成资本业务合作，日经指数大幅回升。",
+    "summary_long": "6 月 9 日，日经平均股价较前日大幅反弹，上涨 1392.03 点，收于 65416.63 点。前一日大幅下跌后的回购潮主导市场，半导体相关股领涨。丰田股价小幅反弹，因公司与一家自动驾驶初创企业达成资本与业务合作。纽约道琼斯指数继续下跌，但纳斯达克指数反弹，特斯拉上涨 4.59%。",
+    "highlights_zh": [
+      "丰田股价小幅反弹",
+      "与自动驾驶初创企业合作",
+      "日经指数大幅回升",
+      "特斯拉上涨 4.59%"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "特斯拉 | Tesla",
+      "自动驾驶",
+      "日经平均股价"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217350.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217350.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:16.035Z"
+  },
+  "https://response.jp/article/2026/06/09/412453.html": {
+    "title_zh": "丰田携 5 台经典车参加意大利“1000 Miglia”特别活动，首度有日本厂商参赛",
+    "summary_short": "丰田携初代皇冠等 5 台经典车参加意大利“1000 Miglia Gran Turismo Experience”，为日本厂商首次参赛，目标完成 1000 英里赛程。",
+    "summary_long": "丰田汽车将参加 6 月 9 日至 13 日在意大利布雷西亚举行的“1000 Miglia 2026”特别企划“1000 Miglia Gran Turismo Experience”。该活动源于 1927-1957 年的意大利公路赛，现为限定原型车参赛的历史拉力赛。丰田为致敬传统，派出初代皇冠、Sports 800、2000GT、Supra 和雷克萨斯 LFA 共 5 台车，目标完成 1000 英里（约 1600 公里）赛程。这是日本厂商首次参与 Mille Miglia 相关活动。",
+    "highlights_zh": [
+      "丰田首次参加 Mille Miglia 相关活动",
+      "派出初代皇冠等 5 台经典车",
+      "目标完成 1000 英里赛程",
+      "活动为历史拉力赛"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "皇冠",
+      "Sports 800",
+      "2000GT",
+      "Supra"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217306.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217306.jpg",
+      "https://response.jp/imgs/fill2/2217307.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:16.318Z"
+  },
+  "https://bestcarweb.jp/feature/column/1542414": {
+    "title_zh": "重返手动挡！防痴呆的终极之车——推荐给大叔的轻松 MT 车型",
+    "summary_short": "手动挡的驾驶乐趣与防痴呆效果兼备，推荐 5 款适合中年驾驶者的轻松 MT 车型。",
+    "summary_long": "手动挡车型通过自主选择挡位和操作离合器，带来独特的驾驶一体感，这种魅力至今未减。同时，MT 车的复杂操作有助于防止认知功能衰退。对于想重返手动挡的中年驾驶者，推荐 5 款易于操控、适合日常使用的 MT 车型。",
+    "highlights_zh": [
+      "MT 车操作复杂",
+      "推荐 5 款轻松易驾的 MT 车型",
+      "重返 MT 需谨慎"
+    ],
+    "entities": [
+      "手动挡 | MT",
+      "自动挡",
+      "防痴呆",
+      "驾驶乐趣"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05172314/719d6959bf9c96c813a1becde6a2c7ce.jpg?v=1780647795",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05172314/719d6959bf9c96c813a1becde6a2c7ce-600x401.jpg?v=1780647795",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06171221/00_daihatsu-shihan_head-600x400.jpg?v=1780733542"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:21.300Z"
+  },
+  "https://bestcarweb.jp/feature/column/1542921": {
+    "title_zh": "大发冲击力十足的市售化车型一览",
+    "summary_short": "大发凭借 Mira e:S 涡轮版和 FR 概念车 Copene 重获关注，回顾其 1970 年代以来的创新车型，包括限量版 Fellow Buggy。",
+    "summary_long": "随着 Mira e:S 涡轮版发布和 FR Copene 概念车亮相，大发品牌关注度飙升。尽管如今略显低调，但大发自 1970 年代起不断推出充满活力与独创性的车型。2026 年 3 月，大发推出 Mira e:S Tuned by D Sport Racing，搭载 64 马力直列三缸涡轮增压发动机和 5 速手动变速箱，配备防滚架和前桥 LSD，限量 100 台，售价 299.86 万日元。回顾历史，1970 年是大发积极投放硬核车型的一年：Fellow 转为 FF 布局，其中 Fellow MAX 以 40 马力（1.1 升 NA 发动机）成为亮点；另一款则是基于 Fellow 商用车、采用轻量化 FRP 车身的敞篷 Fellow Buggy，原为展车，因好评而限量发售 100 台。",
+    "highlights_zh": [
+      "Mira e:S 涡轮版限量 100 台",
+      "FR Copene 概念车引发期待",
+      "1970 年 Fellow MAX 以 40 马力惊…",
+      "Fellow Buggy 原为展车"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Mira e:S",
+      "Fellow",
+      "Fellow Buggy",
+      "Copene"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06171221/00_daihatsu-shihan_head.jpg?v=1780733542",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06171221/00_daihatsu-shihan_head-600x400.jpg?v=1780733542",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05172314/719d6959bf9c96c813a1becde6a2c7ce-600x401.jpg?v=1780647795"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:24.358Z"
+  },
+  "https://insideevs.com/news/798197/apple-carplay-video-playback-car/": {
+    "title_zh": "Apple CarPlay 将支持视频播放",
+    "summary_short": "继谷歌为 Android Auto 引入视频播放后，苹果也在 iOS 27 中为 CarPlay 加入该功能，但仅限停车时使用。",
+    "summary_long": "苹果在 iOS 27 更新中为 CarPlay 新增视频播放功能，允许用户直接在车载屏幕上浏览和观看手机视频，无需再通过 AirPlay 投屏。该功能紧随谷歌在 Android Auto 上推出类似功能之后。不过，视频播放仅限车辆静止时，一旦检测到移动将自动切换为仅音频模式。此外，应用需适配新特性，车辆也需支持视频共享。",
+    "highlights_zh": [
+      "CarPlay 新增视频浏览与播放",
+      "仅限停车时使用",
+      "需应用适配及车辆支持"
+    ],
+    "entities": [
+      "Apple CarPlay",
+      "Android Auto",
+      "iOS 27",
+      "苹果 | Apple"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbgEmA/s1/apple-carplay-video-playback-in-ios-27.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:25.489Z"
+  },
+  "https://www.motor1.com/news/798094/georgia-empty-kia-dealership-sunday/": {
+    "title_zh": "佐治亚女子走进起亚经销店，空无一人：'把它当作一个信号'",
+    "summary_short": "一名女子在周日走进佐治亚州一家起亚经销店，发现店内空无一人，引发网友热议。",
+    "summary_long": "一名正在购车的女子在周日走进佐治亚州一家起亚经销店，惊讶地发现店内空无一人。她拍摄的视频显示，展厅大门敞开，但没有任何员工。她多次呼喊也无人应答。该女子表示这是她第二次来，第一次以为他们在开会。视频背景中隐约有说话声，但始终无人出现。她质疑周日是否正常营业，但认为大门敞开不合理。",
+    "highlights_zh": [
+      "女子周日走进起亚经销店",
+      "大门敞开",
+      "视频引发网友猜测：员工集体休息还是忘记锁门"
+    ],
+    "entities": [
+      "起亚 | Kia"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZRlZ/s1/georgia-woman-walks-into-kia-dealership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:29.321Z"
+  },
+  "https://www.motor1.com/news/798173/toyota-chairman-reveals-worst-fear/": {
+    "title_zh": "丰田章男：大家都转向电动车，这是我最大的恐惧",
+    "summary_short": "丰田董事长丰田章男坦言，在电动化浪潮中坚持内燃机让他感到“非常孤独”，但全球充电设施不足仍使燃油车不可或缺。",
+    "summary_long": "丰田连续六年蝉联全球销量冠军，但在电动车领域进展缓慢。董事长丰田章男在接受采访时表示，他感觉自己是唯一仍在支持内燃机的人，而其他所有人都在转向电动车。他坦言“每个人都转向电动车，这是我最大的恐惧”。尽管丰田近期推出了 C-HR、Urban Cruiser 等电动车型，但章男仍坚持认为电动车不会超过全球销量的 30%，因为许多地区充电设施不完善。",
+    "highlights_zh": [
+      "丰田连续六年全球销量第一",
+      "丰田章男：感觉自己是唯一支持内燃机的人",
+      "电动车不会超过全球销量 30%",
+      "充电设施不足是燃油车存在的理由"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "丰田章男",
+      "C-HR",
+      "Urban Cruiser",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OrYm/s1/akio-toyoda.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/akio-toyoda-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:29.789Z"
+  },
+  "https://insideevs.com/news/798170/pepsico-gatik-autonomous-delivery-trucks/": {
+    "title_zh": "百事可乐用无人驾驶厢式货车运送零食和饮料",
+    "summary_short": "百事与 Gatik 合作，在三个州部署 41 辆无人驾驶 Isuzu 货车，用于食品饮料配送。",
+    "summary_long": "百事可乐与自动驾驶初创公司 Gatik AI 达成多年战略合作，在得克萨斯州、亚利桑那州和阿肯色州部署 41 辆无人驾驶 Isuzu 厢式货车，用于食品和饮料的供应链运输。这是目前最大规模的商用自动驾驶货运部署。车辆主要运行在重复性高的线路上，从工厂到仓库或从仓库到门店，百事员工负责在门店卸货。",
+    "highlights_zh": [
+      "百事与 Gatik 合作部署 41 辆无人货车",
+      "覆盖得州、亚利桑那州和阿肯色州",
+      "用于从工厂到仓库及仓库到门店的配送",
+      "重复路线让自动驾驶更安全高效"
+    ],
+    "entities": [
+      "百事可乐",
+      "Gatik AI",
+      "五十铃"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWrb7/s1/gatik-autonomous-delivery-truck.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:33.627Z"
+  },
+  "https://www.motor1.com/news/798149/toyota-chairman-waves-nissan-flags/": {
+    "title_zh": "丰田章男挥舞日产旗帜引热议",
+    "summary_short": "丰田董事长丰田章男在富士赛道挥舞日产旗帜，推广美产 Murano，视频走红网络。",
+    "summary_long": "丰田董事长丰田章男在富士 24 小时耐力赛现场，挥舞日产 Murano 旗帜并呼吁日本消费者购买这款美产车型。视频由丰田日本官方 X 账号发布，迅速走红。此举源于美日贸易协议，日产将从 2027 年初向日本出口美国田纳西州生产的 Murano，无需额外碰撞测试。丰田章男同时也在推广丰田美产车型如凯美瑞、汉兰达和坦途。",
+    "highlights_zh": [
+      "丰田章男挥舞日产旗帜",
+      "推广美产 Murano 至日本",
+      "美日贸易协议免除碰撞测试",
+      "左舵车出口右舵市场"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日产 | Nissan",
+      "Murano",
+      "丰田章男",
+      "富士赛道"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKZvQ/s1/akio-toyoda.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-09T16:15:34.365Z"
   }
 }

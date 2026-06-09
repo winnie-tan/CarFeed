@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-09T04:32:07.314Z",
+    "generated_at": "2026-06-09T16:14:07.169Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 372,
-    "deepseek_untranslated_before_run": 28,
-    "newly_fetched_articles": 28,
-    "newly_fetched_untranslated": 28,
+    "deepseek_translated_before_run": 365,
+    "deepseek_untranslated_before_run": 35,
+    "newly_fetched_articles": 35,
+    "newly_fetched_untranslated": 35,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 28,
+    "translation_queue_count": 35,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.9",
-        "title": "“先読み”自動ドアから生成AIエージェントまで、「快適な移動」めざすアイシンの先進技術…人とくるまのテクノロジー展2026",
-        "url": "https://response.jp/article/2026/06/09/412437.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "「バスフェスタ2026inモレラ岐阜」参加レポート！ マニアも唸る訓練車多めの展示車両に酔った!!",
-        "url": "https://bestcarweb.jp/busmagazine/1515832"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "【三菱 デリカD:5 新型試乗】19年目の今も唯一無二！ 恐るべき「走るシーラカンス」…中村孝仁",
-        "url": "https://response.jp/article/2026/06/09/412442.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第780回",
-        "url": "https://bestcarweb.jp/feature/column/1531855"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "BMW『X3』、新エントリーモデル「オリジナル」を7月発売…767万円から",
-        "url": "https://response.jp/article/2026/06/09/412426.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "BMWの中国合弁「BMWブリリアンス」、瀋陽工場で累計生産700万台達成…3シリーズがラインオフ",
-        "url": "https://response.jp/article/2026/06/09/412429.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "NVIDIAがフィジカルAIのオープンソーススキルを発表 ロボットや自動運転の分野を加速",
-        "url": "https://response.jp/article/2026/06/09/412431.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "アライ、絶対王者・中須賀克行選手のオープンフェイス版レプリカ『VZ-RAM ナカスガ4』発売",
-        "url": "https://response.jp/article/2026/06/09/412443.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "キッコーマン食品とネスレ日本、関東～関西間で「RORO」活用の海上ラウンド輸送開始…CO2半減へ",
-        "url": "https://response.jp/article/2026/06/09/412436.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "スズキ『ハヤブサ』が全国から集結！ 鳥取県八頭郡で「第16回 隼駅まつり」8月2日開催へ グッズ事前販売開始",
-        "url": "https://response.jp/article/2026/06/09/412441.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "スズキもびっくり！“社食カレー”がJAL国際線機内食に採用［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/06/09/412428.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "トヨタファイナンシャルサービスのMaaSアプリ「my route」、デジタル乗車券を福岡・古賀市の「コガバス」に導入",
-        "url": "https://response.jp/article/2026/06/09/412447.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "ハリアー対RAV4!! 同じトヨタSUVでも“都会派”を選ぶならどっちが幸せ？",
-        "url": "https://bestcarweb.jp/feature/column/1539422"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "パワーよりもハンドリングへ!! 飛ばさない時代の面白い「ホットハッチ乗り比べ」で、最も印象に残ったのは意外なクルマ!?",
-        "url": "https://bestcarweb.jp/feature/column/1542569"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "ホンダらしい走りがEVでも炸裂!! 新型スーパーワンを走らせて見えきた電動ホットハッチの過激すぎる真実",
-        "url": "https://bestcarweb.jp/feature/column/1541964"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "ロングドライブの疲労感が激変！「信号が自然と目に入る」SWANSのサングラス!! ストレスフリーな快適運転",
-        "url": "https://bestcarweb.jp/news/car-accessory/1544773"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "新型CX-5にガチで嫉妬した！ 新型RAV4＆新型フォレスターのオーナーが脱帽する「5つの優越感」",
-        "url": "https://bestcarweb.jp/feature/column/1536440"
+        "title": "Porsche’s Color Wizards Made Paint That Looks Just Like Jeans Thanks to Toy Story",
+        "url": "https://www.thedrive.com/news/porsches-color-wizards-made-paint-that-looks-just-like-jeans-thanks-to-toy-story"
       },
       {
         "source": "Motor1",
         "time": "2026.6.9",
-        "title": "'Had To Pull Some Favors': Woman With No Credit Makes Offer On A $50,000 Chevrolet Silverado. Then She Gets A Response",
-        "url": "https://www.motor1.com/news/798077/50000-dollar-chevrolet-silverado-loan-no-credit/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.8",
-        "title": "Driver Takes Toyota Tundra To Mechanic Because Of Check Engine Light. Then The Mechanic Realizes He Shouldn’t Have: ‘Free Money’",
-        "url": "https://www.motor1.com/news/798076/check-engine-light-loose-gas-cap/"
+        "title": "Porsche Turned Toy Story Characters Into Real Cars—And They're Incredible",
+        "url": "https://www.motor1.com/news/798243/porsche-toy-story-cars-gt3/"
       },
       {
         "source": "InsideEVs",
-        "time": "2026.6.8",
-        "title": "BMW’s Electric M3 Doesn’t Imitate A V8. It Does Something Cooler",
-        "url": "https://insideevs.com/news/798095/bmw-m3-ev-sound-design/"
+        "time": "2026.6.9",
+        "title": "Meet The New(ish) Cheap EV Hitting The U.S. This Summer",
+        "url": "https://insideevs.com/news/798229/mitsubishi-eclipse-cheap-ev-nissan-leaf-2026/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "Spied: Audi Is Already Testing Its Freshly Revealed Nuvolari Supercar at the Nurburgring",
+        "url": "https://www.thedrive.com/news/audi-nuvolari-spy-shots"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.9",
+        "title": "Jeep Recalls 1.1 Million Vehicles That Might Catch Fire",
+        "url": "https://www.motor1.com/news/798221/jeep-wrangler-gladiator-recall-fire-risk/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.9",
+        "title": "One Of America's Favorite Sedans Just Hit A Major Milestone",
+        "url": "https://www.motor1.com/news/798144/honda-accord-50-years-old/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.9",
+        "title": "Rivian's Volume Knob Replacement Is Clever. Maybe Too Clever",
+        "url": "https://www.motor1.com/features/798141/rivian-haptic-halo-controls-review/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "2027 Rivian R2 First Drive Review: The Perfect Car for So Many People",
+        "url": "https://www.thedrive.com/car-reviews/2027-rivian-r2-first-drive-review"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "Rivian R2 Is Getting a Pet Cam — and It Won’t Allow You to Spy on a Human",
+        "url": "https://www.thedrive.com/news/rivian-r2-is-getting-a-pet-cam-and-it-wont-allow-you-to-spy-on-a-human"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "Somehow, Rivian’s Cheaper R2 Is Its Most Refined Vehicle",
+        "url": "https://www.thedrive.com/news/somehow-rivians-cheaper-r2-is-its-most-refined-vehicle"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "The Rivian R2 Needed a Rear Wiper That Didn’t Exist. So Rivian Invented One",
+        "url": "https://www.thedrive.com/news/the-rivian-r2-needed-a-rear-wiper-that-didnt-exist-so-rivian-invented-one"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "Jeep Warns Wrangler, Gladiator Owners Not to Park Inside Due to Fire Risk: TDS",
+        "url": "https://www.thedrive.com/news/jeep-warns-wrangler-gladiator-owners-not-to-park-inside-due-to-fire-risk-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.9",
+        "title": "Audi's Mid-Size SUV Gets A Major Overhaul For 2027",
+        "url": "https://www.motor1.com/news/797940/2027-audi-q7-first-look/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "Audi’s New Q7 Borrows Almost Everything From Its Bigger, More Expensive Flagship",
+        "url": "https://www.thedrive.com/news/audis-new-q7-borrows-almost-everything-from-its-bigger-more-expensive-flagship"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "「ラガー復活ってマジ？」「これは熱すぎる！」ダイハツ『ラガー』30年ぶりの復活なるか!? SNSで期待の声集まる",
+        "url": "https://response.jp/article/2026/06/09/412470.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "「超電導液体水素エンジン」そして「第3世代FC（燃料電池）」も実用化へ爆進!! 技術力は100点でも水素社会実現に足りないものとは？",
+        "url": "https://bestcarweb.jp/feature/column/1544728"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "「鈴鹿8耐」応援の熱中症対策に、スズキアスリートクラブとのコラボボトル＆特性ドリンクを限定発売",
+        "url": "https://response.jp/article/2026/06/09/412472.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "『ハイエース』200系専用「ダッシュボードトレイ」が登場、スマホスタンド＆小物収納一体型",
+        "url": "https://response.jp/article/2026/06/09/412473.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.9",
+        "title": "1名乗り超小型EV「mibot」、中国銀行5拠点で実証実験…20代の総合満足度は100%",
+        "url": "https://response.jp/article/2026/06/09/412462.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.9",
+        "title": "2日で1000台完売！ 特定原付「ENNE ZERO」が再販で注目集める理由",
+        "url": "https://bestcarweb.jp/news/1541696"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27183975614",
-    "sha": "628da3248f22fc83b2ae16a7adf6ab9d26f3be00",
-    "completed_at": "2026-06-09T04:32:59.899Z",
+    "run_id": "27219729147",
+    "sha": "1d7862a99790a89b6d2c408f2221cced8dffe839",
+    "completed_at": "2026-06-09T16:15:34.639Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 28,
-    "queued_articles": 28,
-    "processed": 28,
-    "started_at": "2026-06-09T04:32:07.664Z",
-    "finished_at": "2026-06-09T04:32:59.669Z",
+    "scoped_articles": 35,
+    "queued_articles": 35,
+    "processed": 35,
+    "started_at": "2026-06-09T16:14:07.475Z",
+    "finished_at": "2026-06-09T16:15:34.373Z",
     "success": true,
     "error": ""
   }
