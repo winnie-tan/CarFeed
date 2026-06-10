@@ -1,145 +1,139 @@
 {
   "workflow": {
-    "generated_at": "2026-06-09T16:14:07.169Z",
+    "generated_at": "2026-06-10T04:46:13.302Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 365,
-    "deepseek_untranslated_before_run": 35,
-    "newly_fetched_articles": 35,
-    "newly_fetched_untranslated": 35,
+    "deepseek_translated_before_run": 381,
+    "deepseek_untranslated_before_run": 19,
+    "newly_fetched_articles": 19,
+    "newly_fetched_untranslated": 19,
     "backlog_untranslated": 6,
     "translation_scope": "new_only",
-    "translation_queue_count": 35,
+    "translation_queue_count": 19,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "Porsche’s Color Wizards Made Paint That Looks Just Like Jeans Thanks to Toy Story",
-        "url": "https://www.thedrive.com/news/porsches-color-wizards-made-paint-that-looks-just-like-jeans-thanks-to-toy-story"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.9",
-        "title": "Porsche Turned Toy Story Characters Into Real Cars—And They're Incredible",
-        "url": "https://www.motor1.com/news/798243/porsche-toy-story-cars-gt3/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.9",
-        "title": "Meet The New(ish) Cheap EV Hitting The U.S. This Summer",
-        "url": "https://insideevs.com/news/798229/mitsubishi-eclipse-cheap-ev-nissan-leaf-2026/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "Spied: Audi Is Already Testing Its Freshly Revealed Nuvolari Supercar at the Nurburgring",
-        "url": "https://www.thedrive.com/news/audi-nuvolari-spy-shots"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.9",
-        "title": "Jeep Recalls 1.1 Million Vehicles That Might Catch Fire",
-        "url": "https://www.motor1.com/news/798221/jeep-wrangler-gladiator-recall-fire-risk/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.9",
-        "title": "One Of America's Favorite Sedans Just Hit A Major Milestone",
-        "url": "https://www.motor1.com/news/798144/honda-accord-50-years-old/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.9",
-        "title": "Rivian's Volume Knob Replacement Is Clever. Maybe Too Clever",
-        "url": "https://www.motor1.com/features/798141/rivian-haptic-halo-controls-review/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "2027 Rivian R2 First Drive Review: The Perfect Car for So Many People",
-        "url": "https://www.thedrive.com/car-reviews/2027-rivian-r2-first-drive-review"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "Rivian R2 Is Getting a Pet Cam — and It Won’t Allow You to Spy on a Human",
-        "url": "https://www.thedrive.com/news/rivian-r2-is-getting-a-pet-cam-and-it-wont-allow-you-to-spy-on-a-human"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "Somehow, Rivian’s Cheaper R2 Is Its Most Refined Vehicle",
-        "url": "https://www.thedrive.com/news/somehow-rivians-cheaper-r2-is-its-most-refined-vehicle"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "The Rivian R2 Needed a Rear Wiper That Didn’t Exist. So Rivian Invented One",
-        "url": "https://www.thedrive.com/news/the-rivian-r2-needed-a-rear-wiper-that-didnt-exist-so-rivian-invented-one"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "Jeep Warns Wrangler, Gladiator Owners Not to Park Inside Due to Fire Risk: TDS",
-        "url": "https://www.thedrive.com/news/jeep-warns-wrangler-gladiator-owners-not-to-park-inside-due-to-fire-risk-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.9",
-        "title": "Audi's Mid-Size SUV Gets A Major Overhaul For 2027",
-        "url": "https://www.motor1.com/news/797940/2027-audi-q7-first-look/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "Audi’s New Q7 Borrows Almost Everything From Its Bigger, More Expensive Flagship",
-        "url": "https://www.thedrive.com/news/audis-new-q7-borrows-almost-everything-from-its-bigger-more-expensive-flagship"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "「ラガー復活ってマジ？」「これは熱すぎる！」ダイハツ『ラガー』30年ぶりの復活なるか!? SNSで期待の声集まる",
-        "url": "https://response.jp/article/2026/06/09/412470.html"
+        "time": "2026.6.10",
+        "title": "「価格も魅力的」ホンダ『シビック』にハイブリッドの「RS」登場！ SNSでは「S+ Shiftが気になる」の声も",
+        "url": "https://response.jp/article/2026/06/10/412495.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.9",
-        "title": "「超電導液体水素エンジン」そして「第3世代FC（燃料電池）」も実用化へ爆進!! 技術力は100点でも水素社会実現に足りないものとは？",
-        "url": "https://bestcarweb.jp/feature/column/1544728"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "「鈴鹿8耐」応援の熱中症対策に、スズキアスリートクラブとのコラボボトル＆特性ドリンクを限定発売",
-        "url": "https://response.jp/article/2026/06/09/412472.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "『ハイエース』200系専用「ダッシュボードトレイ」が登場、スマホスタンド＆小物収納一体型",
-        "url": "https://response.jp/article/2026/06/09/412473.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.9",
-        "title": "1名乗り超小型EV「mibot」、中国銀行5拠点で実証実験…20代の総合満足度は100%",
-        "url": "https://response.jp/article/2026/06/09/412462.html"
+        "time": "2026.6.10",
+        "title": "「士別フィン」を知っているか!!? 北海道生まれ×燕三条の職人技と7万5900円でハイラックスの「走り」が変わるって…マジ!??",
+        "url": "https://bestcarweb.jp/news/car-accessory/1545665"
       },
       {
         "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "【特集】誌上開催!! ジャパントラックショー2026 フルロードvol.61 本日（6/10）発売!!",
+        "url": "https://bestcarweb.jp/fullload/1541353"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第781回",
+        "url": "https://bestcarweb.jp/feature/column/1532124"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "3列シート6人乗りのテスラモデルY Lに乗って感じたBEVのSUV最強説！ 実用性と走りのバランスが最高だった件",
+        "url": "https://bestcarweb.jp/feature/test-drive/1544249"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "AIセキュリティ・ガバナンスソリューション、製造業のソフト開発組織向けに提供開始…クリエーションライン",
+        "url": "https://response.jp/article/2026/06/10/412494.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "BMW『M2』に初の4WD、「M xDrive」設定…0‐100km/h加速は0.3秒短縮",
+        "url": "https://response.jp/article/2026/06/10/412483.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "NTTと三菱マテリアル、再生材の循環推進へ…新会社「NTTサーキュラスト」を7月設立",
+        "url": "https://response.jp/article/2026/06/10/412484.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "アウディ『Q7』新型、マイルドハイブリッド＋電動コンプレッサー搭載…全席が電動調整可能に",
+        "url": "https://response.jp/article/2026/06/10/412487.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "いすゞ、大型観光バス『ガーラ』を改良…12速AMT採用と先進安全機能を大幅強化",
+        "url": "https://response.jp/article/2026/06/10/412475.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "シビックe:HEV RSついに試乗で圧倒的な走りの快感!! 「ハイブリッドがつまらない」なんてもう時代遅れ!?",
+        "url": "https://bestcarweb.jp/feature/column/1542694"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "ゼンリン、「文具女子博トーキョー2026」に出店…新商品「47P 地図チーズシリーズ」を先行発売",
+        "url": "https://response.jp/article/2026/06/10/412496.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "ダイハツ『コペン』生産終了、ファン感謝イベント「Keep it OPEN」第2弾開催へ…6月19日",
+        "url": "https://response.jp/article/2026/06/10/412491.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "デンソーウェーブ、次世代工場向けロボット活用を提案へ…ロボットテクノロジージャパン 2026",
+        "url": "https://response.jp/article/2026/06/10/412482.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "ハリアー現行型で終了か!? 「ベストカー 7月10日号発売！」",
+        "url": "https://bestcarweb.jp/backnumber/1533860"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "ルーミーとタンクの違いは顔だけじゃない？ 中古で狙うならどちらが正解？",
+        "url": "https://bestcarweb.jp/feature/column/1525685"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "夜行に重視した運行形態が特徴だった国際興業の東北道高速バスを振り返る",
+        "url": "https://bestcarweb.jp/busmagazine/1518704"
+      },
+      {
+        "source": "The Drive",
         "time": "2026.6.9",
-        "title": "2日で1000台完売！ 特定原付「ENNE ZERO」が再販で注目集める理由",
-        "url": "https://bestcarweb.jp/news/1541696"
+        "title": "Fleet of Secret Service Chevy Suburban HDs With Superchargers Now Available to the Public",
+        "url": "https://www.thedrive.com/news/fleet-of-secret-service-chevy-suburban-hds-with-superchargers-now-available-to-the-public"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.9",
+        "title": "The New Mitsubishi Eclipse Is Actually a Nissan Leaf Underneath",
+        "url": "https://www.thedrive.com/news/the-new-mitsubishi-eclipse-is-actually-a-nissan-leaf-underneath"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 35,
-    "queued_articles": 35,
-    "processed": 35,
-    "started_at": "2026-06-09T16:14:07.475Z",
-    "finished_at": "2026-06-09T16:15:34.373Z",
+    "scoped_articles": 19,
+    "queued_articles": 19,
+    "processed": 19,
+    "started_at": "2026-06-10T04:46:13.615Z",
+    "finished_at": "2026-06-10T04:47:00.507Z",
     "success": true,
     "error": ""
   }
