@@ -1,149 +1,155 @@
 {
   "workflow": {
-    "generated_at": "2026-06-10T04:46:13.302Z",
+    "generated_at": "2026-06-10T16:45:23.893Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 381,
-    "deepseek_untranslated_before_run": 19,
-    "newly_fetched_articles": 19,
-    "newly_fetched_untranslated": 19,
-    "backlog_untranslated": 6,
+    "deepseek_translated_before_run": 356,
+    "deepseek_untranslated_before_run": 44,
+    "newly_fetched_articles": 44,
+    "newly_fetched_untranslated": 44,
+    "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 19,
+    "translation_queue_count": 44,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.10",
-        "title": "「価格も魅力的」ホンダ『シビック』にハイブリッドの「RS」登場！ SNSでは「S+ Shiftが気になる」の声も",
-        "url": "https://response.jp/article/2026/06/10/412495.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "「士別フィン」を知っているか!!? 北海道生まれ×燕三条の職人技と7万5900円でハイラックスの「走り」が変わるって…マジ!??",
-        "url": "https://bestcarweb.jp/news/car-accessory/1545665"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "【特集】誌上開催!! ジャパントラックショー2026 フルロードvol.61 本日（6/10）発売!!",
-        "url": "https://bestcarweb.jp/fullload/1541353"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第781回",
-        "url": "https://bestcarweb.jp/feature/column/1532124"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "3列シート6人乗りのテスラモデルY Lに乗って感じたBEVのSUV最強説！ 実用性と走りのバランスが最高だった件",
-        "url": "https://bestcarweb.jp/feature/test-drive/1544249"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "AIセキュリティ・ガバナンスソリューション、製造業のソフト開発組織向けに提供開始…クリエーションライン",
-        "url": "https://response.jp/article/2026/06/10/412494.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "BMW『M2』に初の4WD、「M xDrive」設定…0‐100km/h加速は0.3秒短縮",
-        "url": "https://response.jp/article/2026/06/10/412483.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "NTTと三菱マテリアル、再生材の循環推進へ…新会社「NTTサーキュラスト」を7月設立",
-        "url": "https://response.jp/article/2026/06/10/412484.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "アウディ『Q7』新型、マイルドハイブリッド＋電動コンプレッサー搭載…全席が電動調整可能に",
-        "url": "https://response.jp/article/2026/06/10/412487.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "いすゞ、大型観光バス『ガーラ』を改良…12速AMT採用と先進安全機能を大幅強化",
-        "url": "https://response.jp/article/2026/06/10/412475.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "シビックe:HEV RSついに試乗で圧倒的な走りの快感!! 「ハイブリッドがつまらない」なんてもう時代遅れ!?",
-        "url": "https://bestcarweb.jp/feature/column/1542694"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "ゼンリン、「文具女子博トーキョー2026」に出店…新商品「47P 地図チーズシリーズ」を先行発売",
-        "url": "https://response.jp/article/2026/06/10/412496.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "ダイハツ『コペン』生産終了、ファン感謝イベント「Keep it OPEN」第2弾開催へ…6月19日",
-        "url": "https://response.jp/article/2026/06/10/412491.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.10",
-        "title": "デンソーウェーブ、次世代工場向けロボット活用を提案へ…ロボットテクノロジージャパン 2026",
-        "url": "https://response.jp/article/2026/06/10/412482.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "ハリアー現行型で終了か!? 「ベストカー 7月10日号発売！」",
-        "url": "https://bestcarweb.jp/backnumber/1533860"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "ルーミーとタンクの違いは顔だけじゃない？ 中古で狙うならどちらが正解？",
-        "url": "https://bestcarweb.jp/feature/column/1525685"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.10",
-        "title": "夜行に重視した運行形態が特徴だった国際興業の東北道高速バスを振り返る",
-        "url": "https://bestcarweb.jp/busmagazine/1518704"
+        "title": "Rivian R3X Is ‘a Couple of Years Away.’ RJ Scaringe Gave Us the First Real Timeline",
+        "url": "https://www.thedrive.com/news/rivian-r3x-is-a-couple-of-years-away-rj-scaringe-gave-us-the-first-real-timeline"
       },
       {
         "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "Fleet of Secret Service Chevy Suburban HDs With Superchargers Now Available to the Public",
-        "url": "https://www.thedrive.com/news/fleet-of-secret-service-chevy-suburban-hds-with-superchargers-now-available-to-the-public"
+        "time": "2026.6.10",
+        "title": "GT7’s New Update Celebrates Le Mans With Four Long-Awaited Hypercars",
+        "url": "https://www.thedrive.com/news/gt7s-new-update-celebrates-le-mans-with-four-long-awaited-hypercars"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.10",
+        "title": "Honda's Ridgeline Pickup Is Getting A Big Redesign. Here's Everything We Know",
+        "url": "https://www.motor1.com/features/798353/2029-honda-ridgeline-updated-specs-price-details/"
       },
       {
         "source": "The Drive",
-        "time": "2026.6.9",
-        "title": "The New Mitsubishi Eclipse Is Actually a Nissan Leaf Underneath",
-        "url": "https://www.thedrive.com/news/the-new-mitsubishi-eclipse-is-actually-a-nissan-leaf-underneath"
+        "time": "2026.6.10",
+        "title": "Rivian’s Charging Network Is 4% of Tesla’s. Here’s RJ Scaringe’s Plan to Change That",
+        "url": "https://www.thedrive.com/news/rivians-charging-network-is-4-of-teslas-heres-rj-scaringes-plan-to-change-that"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.10",
+        "title": "Cops Impound 72 Enthusiast Cars for Driving in the Iconic LA River",
+        "url": "https://www.thedrive.com/news/cops-impound-72-enthusiast-cars-for-driving-in-the-iconic-la-river"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.10",
+        "title": "Rivian Made You Wait 50 Days for Service. RJ Scaringe Says Those Days Are Over",
+        "url": "https://www.thedrive.com/news/rivian-made-you-wait-50-days-for-service-rj-scaringe-says-those-days-are-over"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.10",
+        "title": "This Tesla Model 3 Went Nearly 400 Miles In A Range Test, 30 More Than Its EPA Rating",
+        "url": "https://insideevs.com/news/798359/tesla-moldel-3-edmunds-range/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.10",
+        "title": "No, This Isn't The C9 Corvette",
+        "url": "https://www.motor1.com/news/798351/c9-corvette-leaked-images-not-true/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.10",
+        "title": "R2 Profits. R4 Is ‘Very Cool.’ RAD Variants. Rivian’s CEO Just Gave Us the Roadmap",
+        "url": "https://www.thedrive.com/news/r2-profits-r4-is-very-cool-rad-variants-rivians-ceo-just-gave-us-the-roadmap"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.10",
+        "title": "Honda's CEO Survived A Revolt After The Automaker's Worst Year In Decades: Report",
+        "url": "https://www.motor1.com/news/798267/honda-executives-attempt-remove-ceo/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.10",
+        "title": "GM Wants You to Sell Your EV’s Energy Back to Utilities: TDS",
+        "url": "https://www.thedrive.com/news/gm-wants-you-to-sell-your-evs-energy-back-to-utilities-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.10",
+        "title": "I Took A 10-Year-Old Nissan Xterra Off-Roading—Now I Can't Wait For The New One",
+        "url": "https://www.motor1.com/features/798271/2015-nissan-xterra-off-roading-drive/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "「士別フィン付きアンダーカバー」、トヨタ アップグレード ファクトリーが発売…先代ハイラックスの操安性向上",
+        "url": "https://response.jp/article/2026/06/10/412512.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「PA」",
+        "url": "https://bestcarweb.jp/feature/column/1530487"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "180度カメラとエッジAIを内蔵、手の動きを読み取りロボットを非接触操作…YUASAがロボットテクノロジージャパン 2026出展",
+        "url": "https://response.jp/article/2026/06/10/412514.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.10",
+        "title": "250㏄でＶツイン!! 初回完売で話題沸騰のBENDAナポレオンボブ250が注目される理由",
+        "url": "https://bestcarweb.jp/news/1541698"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "HKS、ER34『スカイライン』とS13『180SX/シルビア』向けフラッグシップ車高調「ハイパーマックスR」発売",
+        "url": "https://response.jp/article/2026/06/10/412528.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.10",
+        "title": "Toyota Might Finally Have A Real Raptor Rival. Here's Everything We Know Everything We Know",
+        "url": "https://www.motor1.com/features/795045/toyota-tundra-trd-hammer-horsepower-specs-details/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "アウディ『Q3スポーツバック』新型、マットカラーの「matte edition」は200台限定…778万円",
+        "url": "https://response.jp/article/2026/06/10/412527.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.10",
+        "title": "アストンマーティン、1090万円のレーシングシミュレーター発表…ルマン参戦『Valkyrie』がモチーフ",
+        "url": "https://response.jp/article/2026/06/10/412507.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27253806073",
-    "sha": "c0874ca85535bf95ef629f6e7e5e10e3b81441bf",
-    "completed_at": "2026-06-10T04:47:00.757Z",
+    "run_id": "27291311568",
+    "sha": "8915379a0883dee3b34dae268c3382094dbd5882",
+    "completed_at": "2026-06-10T16:47:06.975Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 394,
-    "deepseek_untranslated_after_run": 6,
+    "deepseek_translated_after_run": 399,
+    "deepseek_untranslated_after_run": 1,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 19,
-    "queued_articles": 19,
-    "processed": 19,
-    "started_at": "2026-06-10T04:46:13.615Z",
-    "finished_at": "2026-06-10T04:47:00.507Z",
+    "scoped_articles": 44,
+    "queued_articles": 44,
+    "processed": 44,
+    "started_at": "2026-06-10T16:45:24.194Z",
+    "finished_at": "2026-06-10T16:47:06.733Z",
     "success": true,
     "error": ""
   }
