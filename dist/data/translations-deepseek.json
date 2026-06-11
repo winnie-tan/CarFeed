@@ -31601,5 +31601,813 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-11T04:58:27.616Z"
+  },
+  "https://www.thedrive.com/news/the-open-world-monaco-in-clutch-looks-breathtaking": {
+    "title_zh": "《Clutch》中的开放世界摩纳哥令人叹为观止",
+    "summary_short": "前《极限竞速：地平线》开发者新作《Clutch》首曝实机画面，以摩纳哥及南法为舞台的开放世界赛车游戏惊艳亮相。",
+    "summary_long": "由前《极限竞速：地平线》开发者组成的 Maverick Games 工作室公布了新作《Clutch》的首批实机画面。游戏以风景如画的南法地区（包括摩纳哥）为开放世界舞台，不仅包含著名的 F1 赛道，还提供了周边道路的自由探索。从已公开的片段看，游戏画面表现惊艳，开发者选择摩纳哥作为核心场景堪称天才之举。",
+    "highlights_zh": [
+      "前《极限竞速：地平线》开发者新作",
+      "开放世界设定在摩纳哥及南法",
+      "包含 F1 赛道及周边道路自由探索",
+      "首批实机画面展现惊艳视觉效果"
+    ],
+    "entities": [
+      "Clutch",
+      "Maverick Games",
+      "摩纳哥",
+      "极限竞速：地平线"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-123533-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_2374-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_2405-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:38.991Z"
+  },
+  "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/": {
+    "title_zh": "通用汽车或弃 LFP 电池，转向 LMR 技术",
+    "summary_short": "通用汽车可能跳过流行的 LFP 电池，选择 LMR 技术，称其成本相当但能量密度更高。",
+    "summary_long": "通用汽车电池负责人 Kurt Kelty 表示，公司可能不会采用 LFP 电池，而是转向锂锰基（LMR）电池。LMR 被视为 LFP 的替代方案，成本相近但能量密度更高，避免了 LFP 的续航短板。通用已研发 LMR 超过 10 年，计划将其作为主力电池技术。",
+    "highlights_zh": [
+      "通用或弃 LFP",
+      "LMR 成本与 LFP 相当",
+      "通用已研发 LMR 超 10 年",
+      "LFP 因成本低受青睐"
+    ],
+    "entities": [
+      "通用汽车 | General Motors",
+      "LFP",
+      "LMR",
+      "雪佛兰 Bolt"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnznwK/s1/2027-chevy-bolt-first-drive.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/screenshot-2026-06-11-at-192649.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:39.265Z"
+  },
+  "https://www.thedrive.com/news/rivian-heard-you-complaining-about-touchscreens-so-it-over-engineered-scroll-wheels": {
+    "title_zh": "Rivian 回应触屏抱怨，过度工程化滚轮",
+    "summary_short": "Rivian 为 R2 车型开发 Halo 滚轮，融合软件与触觉反馈，提供非机械的点击感，以改善用户交互体验。",
+    "summary_long": "Rivian 针对用户对触屏控制的抱怨，在 R2 车型上推出了创新的 Halo 滚轮。CEO RJ Scaringe 独家透露，这些滚轮通过软件定义实现触觉反馈，其点击感并非来自机械结构，而是精心设计的电子模拟。这一设计旨在平衡科技感与物理操控的直观性，是 Rivian 在用户界面领域的一次重大工程投入。",
+    "highlights_zh": [
+      "Rivian R2 配备 Halo 滚轮",
+      "滚轮点击感为软件模拟",
+      "旨在平衡触屏与物理控制",
+      "CEO 称其为巨大工程投入"
+    ],
+    "entities": [
+      "Rivian",
+      "R2",
+      "Halo 滚轮",
+      "RJ Scaringe"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0255-e1781116377270.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Suburban-HD-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:43.617Z"
+  },
+  "https://insideevs.com/news/798473/byd-dolphin-g-phev-europe/": {
+    "title_zh": "比亚迪海豚 G DM-i 插混掀背车或加速欧洲攻势",
+    "summary_short": "比亚迪首款专为欧洲设计并本地生产的插混车型海豚 G DM-i，瞄准雷诺 Clio 等主流小型车市场。",
+    "summary_long": "比亚迪海豚 G DM-i 是首款专为欧洲市场设计并在欧洲生产的车型，定位插电混动掀背车，直接对标雷诺 Clio 和标致 208 等热门小型车。该车采用 1.5 升发动机与电机组合，提供 172 马力和 209 马力两种动力输出，配备 7.24kWh 或 18.3kWh 电池，纯电续航最高约 90 公里。作为同级唯一插混车型，海豚 G DM-i 有望助力比亚迪在欧洲市场进一步扩张。",
+    "highlights_zh": [
+      "首款欧洲设计并本地生产的比亚迪车型",
+      "同级唯一插混车型",
+      "1.5L 混动系统",
+      "纯电续航最高约 90 公里"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "海豚 G DM-i",
+      "雷诺",
+      "标致",
+      "插电混动"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OjA7/s1/byd-dolphin-g-dm-i.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:43.818Z"
+  },
+  "https://insideevs.com/news/798397/pentagon-byd-largest-automaker-soon/": {
+    "title_zh": "比亚迪称五年内将成为全球最大车企，五角大楼感到紧张",
+    "summary_short": "比亚迪董事长王传福称五年内将成为全球最大车企，五角大楼对此感到紧张。",
+    "summary_long": "比亚迪董事长王传福在年度股东大会上表示，尽管国内销量和股价下滑，但公司目标不变，将在五年内成为全球规模最大的汽车制造商。这意味着不仅要夺回国内市场份额，还要扩大全球足迹，挑战丰田和大众等老牌车企。比亚迪去年销量约 460 万辆，位列全球第六，但仅为丰田的一半。国内竞争加剧促使中国车企寻求海外增长。",
+    "highlights_zh": [
+      "王传福称五年内成为全球最大车企",
+      "去年销量 460 万辆",
+      "国内竞争加剧",
+      "五角大楼对比亚迪感到紧张"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "王传福",
+      "丰田 | Toyota",
+      "大众 | Volkswagen",
+      "五角大楼"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BngL/s1/byd-denza-z9gt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:47.456Z"
+  },
+  "https://www.thedrive.com/news/jeep-will-give-away-100-wranglers-if-america-suddenly-gets-good-at-soccer": {
+    "title_zh": "Jeep 推出世界杯促销：美国队夺冠即送 100 辆牧马人",
+    "summary_short": "Jeep 推出促销：若美国队赢得世界杯，前 100 名注册且名为 George Washington 的美国人将获赠一辆牧马人。",
+    "summary_long": "Jeep 宣布了一项世界杯促销活动：如果美国男子足球队在 2026 年世界杯夺冠，前 100 名注册且合法名为 George Washington 的在世美国人将获得一辆全新的 Jeep Wrangler。该活动旨在结合爱国主题与足球热潮，强调 Jeep 作为“美国最爱国品牌”的形象。目前美国队夺冠赔率为 60:1，活动仅限美国居民参与。",
+    "highlights_zh": [
+      "美国队夺冠即送 100 辆牧马人",
+      "仅限合法名为 George Washington 者",
+      "前 100 名注册者获奖",
+      "美国队夺冠赔率 60:1"
+    ],
+    "entities": [
+      "Jeep",
+      "牧马人",
+      "世界杯",
+      "George Washington"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/BU026_087EV.jpg",
+      "https://i.ytimg.com/vi/5incbA-QgX8/hqdefault.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:47.550Z"
+  },
+  "https://www.motor1.com/news/798464/ford-expedition-recall-peeling-chrome-trim/": {
+    "title_zh": "福特因内饰安全隐患召回近 55 万辆 SUV",
+    "summary_short": "福特因中控台镀铬饰条可能剥落形成锋利边缘，召回近 55 万辆 Expedition SUV，涉及 2018-2024 款车型。",
+    "summary_long": "福特宣布召回 548,463 辆 SUV，原因是中控台镀铬饰条可能起泡并剥落，形成锋利边缘，存在划伤乘客的风险。此次召回涉及 2018-2024 款福特 Expedition。问题源于零件制造不符合规格。福特于 2025 年 9 月通过 NHTSA 车主问卷发现此问题，其中 6 份报告中有 5 份提及乘客手部被划伤。尽管最初认为无需召回，但最终决定采取行动。",
+    "highlights_zh": [
+      "召回近 55 万辆 SUV",
+      "中控台镀铬饰条可能剥落",
+      "涉及 2018-2024 款 Expedition",
+      "已报告多起手部划伤案例"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Expedition",
+      "NHTSA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WERQx/s1/2022-ford-expedition.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:51.632Z"
+  },
+  "https://www.thedrive.com/news/f1-power-unit-changes-are-a-step-in-the-right-direction-but-are-they-enough": {
+    "title_zh": "F1 动力单元调整方向正确，但够吗？",
+    "summary_short": "F1 调整动力单元能量分配，2028 年实现 60/40 内燃机与电机功率比，但渐进式改革能否跟上竞争节奏存疑。",
+    "summary_long": "FIA 公布 F1 动力单元最新规则调整，将内燃机与 MGUK 的功率分配从原定的 50/50（实际约 53/47）逐步调整为 60/40，但该比例要到 2028 年才能实现。2026 年维持 53/47，2027 年变为 58/42，2028 年达到 60/40。内燃机最大功率从 400kW 逐步提升至 450kW，MGUK 最大功率从 350kW 降至 300kW。所有车队一致同意该方案，但梅赛德斯和红牛福特希望 2027 年做出更大调整，而奥迪和法拉利因资源和时间问题反对。主要争议在于燃油流量增加导致油耗上升，赛车需携带更多燃油，影响性能。",
+    "highlights_zh": [
+      "2028 年实现 60/40 内燃机与电机功率比",
+      "内燃机功率升至 450kW",
+      "梅赛德斯和红牛福特希望更大调整",
+      "奥迪和法拉利因资源问题反对激进改革"
+    ],
+    "entities": [
+      "FIA",
+      "梅赛德斯 | Mercedes",
+      "红牛福特",
+      "奥迪 | Audi",
+      "法拉利 | Ferrari"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2280341353.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Suburban-HD-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:51.814Z"
+  },
+  "https://www.thedrive.com/car-reviews/2027-mercedes-benz-cla-350-ev-quick-review": {
+    "title_zh": "2027 款奔驰 CLA350 EV 快速评测：至少它很高效",
+    "summary_short": "奔驰 CLA350 EV 在效率和性能上表现突出，但内饰设计存在多处失误，整体体验令人失望。",
+    "summary_long": "2027 款奔驰 CLA350 EV 在动力系统上实现了高效与性能的平衡，双电机四驱版本拥有 349 马力和 380 磅-英尺扭矩，起售价仅 51,050 美元。然而，评测指出这款小型豪华轿车在内饰设计上存在诸多令人费解的选择，例如超大屏幕缺乏实用性，且选装配置价格高昂，测试车价格高达 67,155 美元。尽管 CLA 系列不再提供燃油版，但电动化并未完全解决其定位问题。",
+    "highlights_zh": [
+      "双电机四驱",
+      "起售价 51",
+      "内饰设计存在多处失误",
+      "超大屏幕实用性存疑"
+    ],
+    "entities": [
+      "奔驰 | Mercedes-Benz",
+      "CLA350",
+      "CLA250+",
+      "AMG Line",
+      "Pinnacle Line"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Mercedes-CLA-350-01.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Mercedes-CLA-350-60.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Mercedes-CLA-350-06.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:55.667Z"
+  },
+  "https://www.thedrive.com/news/new-stuntman-hollywood-trailer-is-the-most-satisfying-car-video-ive-seen-this-year": {
+    "title_zh": "《特技人：好莱坞》预告片汇聚电影名车，打造怀旧宇宙",
+    "summary_short": "《特技人：好莱坞》游戏预告片将《速度与激情》Supra、《回到未来》DeLorean 等经典电影名车串联，带来极致怀旧体验。",
+    "summary_long": "《特技人：好莱坞》游戏预告片以“成为好莱坞特技人”为概念，巧妙融合多部经典影视作品中的标志性车辆，如《速度与激情》的丰田 Supra、《回到未来》的 DeLorean 等。预告片通过流畅的转场和音乐衔接，营造出令人满足的怀旧氛围，尤其《速度与激情》过渡到《迈阿密风云》的片段堪称精彩。",
+    "highlights_zh": [
+      "游戏以“好莱坞特技人”为卖点",
+      "融合《速度与激情》Supra 等经典车型",
+      "预告片转场流畅",
+      "《迈阿密风云》片段尤为出彩"
+    ],
+    "entities": [
+      "《速度与激情》",
+      "《回到未来》",
+      "《迈阿密风云》",
+      "丰田 Supra",
+      "DeLorean"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Stuntman-Hollywood-trailer.jpg",
+      "https://i.ytimg.com/vi/A7NZpeAmdxk/hqdefault.jpg",
+      "https://i.ytimg.com/vi/dEjXPY9jOx8/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:55.977Z"
+  },
+  "https://www.motor1.com/news/798458/new-italian-sports-car/": {
+    "title_zh": "意大利小众品牌 Osca 复活，将推基于路特斯 Emira 的新跑车",
+    "summary_short": "意大利小众品牌 Osca 复活，计划推出基于路特斯 Emira 的新跑车，搭载机械增压 V6 发动机。",
+    "summary_long": "意大利汽车品牌 Osca 在沉寂多年后宣布复活，由 DR Automobiles 创始人 Massimo Di Risio 主导。该品牌曾以跑车闻名，甚至参加过 F1 赛事。此次复活除了推出紧凑型轿跑 SUV MT6 外，还计划推出一款旗舰跑车。从预告图来看，新车很可能基于路特斯 Emira 打造，因为 Osca 已确认与一家欧洲车企合作，并采用机械增压 V6 发动机，这与路特斯的动力配置高度吻合。",
+    "highlights_zh": [
+      "意大利品牌 Osca 复活",
+      "计划推出旗舰跑车",
+      "可能基于路特斯 Emira",
+      "搭载机械增压 V6 发动机"
+    ],
+    "entities": [
+      "Osca",
+      "路特斯",
+      "DR Automobiles",
+      "机械增压 V6 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egRJ3/s1/osca-sports-car-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:59.531Z"
+  },
+  "https://www.thedrive.com/news/ford-trucks-finally-got-their-aluminum-supply-back-after-a-9-month-drought-tds": {
+    "title_zh": "福特卡车终于恢复铝材供应，结束 9 个月短缺",
+    "summary_short": "为福特 F-150 和 Super Duty 供应铝材的 Novelis 工厂在多次火灾后重启生产，结束 9 个月供应短缺。",
+    "summary_long": "位于纽约州的 Novelis 铝材工厂在去年秋季因多次火灾停产，导致福特 F-150 和 Super Duty 等车型的铝材供应中断长达 9 个月。本周该工厂终于恢复生产。期间福特被迫进口铝材，因新关税和中东冲突成本增加。",
+    "highlights_zh": [
+      "Novelis 工厂恢复铝材生产",
+      "福特 F-150 和 Super Duty 供应缓解",
+      "进口铝材因关税和冲突成本上升"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "F-150",
+      "Super Duty",
+      "Novelis"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/cqdam.web_.2400-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Suburban-HD-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:02:59.545Z"
+  },
+  "https://www.motor1.com/news/798382/most-driven-least-driven-cars-america/": {
+    "title_zh": "美国人开得最多和最少的车",
+    "summary_short": "研究显示，克莱斯勒 Pacifica 和 Voyager 年均行驶里程超 2 万英里，而福特 Mustang 年均仅 2092 英里。",
+    "summary_long": "iSeeCars 研究揭示了美国车主年均行驶里程最高和最低的车型。家庭用车占据榜首，克莱斯勒 Pacifica 和 Voyager 年均超 2 万英里，远超汽油车平均的 13,323 英里。雪佛兰 Suburban 以 19,626 英里位列第三。其他上榜的 MPV 包括起亚 Carnival 和丰田 Sequoia。唯一上榜的皮卡是 GMC Sierra 1500 Limited。而行驶里程最少的车型几乎全是跑车，福特 Mustang 以年均 2,092 英里垫底，马自达 MX-5 Miata、雪佛兰 Corvette 和保时捷 911 紧随其后。唯一上榜的 SUV 是奔驰 G 级。",
+    "highlights_zh": [
+      "克莱斯勒 Pacifica 年均超 2 万英里",
+      "福特 Mustang 年均仅 2092 英里",
+      "跑车普遍行驶里程低",
+      "唯一上榜 SUV 是奔驰 G 级"
+    ],
+    "entities": [
+      "克莱斯勒",
+      "福特",
+      "雪佛兰",
+      "保时捷 | Porsche",
+      "iSeeCars"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgElE/s1/c8-chevrolet-corvette.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:03.925Z"
+  },
+  "https://response.jp/article/2026/06/11/412578.html": {
+    "title_zh": "BMW M2 首款四驱版发布，SNS 热议“超想开！”",
+    "summary_short": "BMW M2 首次推出四驱版 M2 with M xDrive，搭载 3.0 升直六发动机，SNS 上引发热议。",
+    "summary_long": "BMW 在欧洲发布了高性能双门轿跑 M2 的首款四驱车型“M2 with M xDrive”。该车搭载 3.0 升直列六缸发动机，最大功率 480 马力，并配备 M xDrive 全轮驱动系统，可根据路况将动力灵活分配至前后轴，提升牵引力和动态表现。系统支持 2WD 模式，并可通过 M Setup 菜单调整响应特性。SNS 上对此反响热烈，不少用户表示“终于等到 M2 四驱版”。",
+    "highlights_zh": [
+      "BMW M2 首款四驱车型发布",
+      "3.0 升直六发动机",
+      "M xDrive 系统支持 2WD 模式",
+      "SNS 上引发“超想开”热议"
+    ],
+    "entities": [
+      "BMW M2",
+      "M xDrive",
+      "M Steptronic"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217854.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217854.jpg",
+      "https://response.jp/imgs/fill2/2217853.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:05.160Z"
+  },
+  "https://response.jp/article/2026/06/11/412575.html": {
+    "title_zh": "吉姆尼诺马德 40mm 升高，TEIN 推出 4x4 减震器运动版",
+    "summary_short": "TEIN 为铃木吉姆尼诺马德推出 4x4 减震器运动版，可升高 40mm，提升越野与公路性能。",
+    "summary_long": "悬挂专业制造商 TEIN 为铃木吉姆尼诺马德（JC74W，2025 年 4 月起）推出全新交叉越野/四驱升高重型减震器“4x4 减震器运动版”，含税售价 12.32 万日元。该减震器兼顾城市与越野行驶，具备高耐久性和通过性，采用螺纹式车高调节机构和 16 段伸缩同步阻尼力调节机构，针对不同车高优化行程和定位值。配备液压缓冲止动器（H.B.S.）以平滑吸收冲击，并采用新屏蔽结构实现高品质与低成本。针对吉姆尼诺马德，该减震器适度抑制车身侧倾，改善原厂重心高和晃动感，重点提升从城市到高速的舒适性和稳定性，同时通过 H.B.S.增强大落差路段的通过性和各种场景下的平顺感。",
+    "highlights_zh": [
+      "TEIN 推出吉姆尼诺马德专用 4x4 减震器",
+      "可升高 40mm",
+      "16 段阻尼可调",
+      "液压缓冲止动器提升舒适与耐久"
+    ],
+    "entities": [
+      "TEIN",
+      "铃木 | Suzuki",
+      "吉姆尼诺马德"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217655.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217655.jpg",
+      "https://response.jp/imgs/fill2/2217653.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:09.466Z"
+  },
+  "https://response.jp/article/2026/06/11/412568.html": {
+    "title_zh": "Eneliver 为零成本为东京世田谷区公寓所有住户安装 EV 充电器",
+    "summary_short": "Eneliver 在东京世田谷区公寓免费为所有住户安装 31 台 6kW EV 充电器，提升便利性与资产价值。",
+    "summary_long": "Eneliver 宣布在东京世田谷区濑田的公寓“Chambord Seta”引入 EV 充电服务。在 30 个车位的停车场中，为所有住户车位安装了 31 台带通信功能的 6kW EV 充电器（平河 Huetec 制造）。此举旨在让居民日常在家充电，同时提升公寓便利性和资产价值，应对未来 EV 需求增长。分售公寓引入充电设施常面临合意形成、费用、电气设备确认、补贴申请及收费管理等复杂问题。",
+    "highlights_zh": [
+      "Eneliver 免费为公寓所有住户安装 EV 充电…",
+      "共 31 台 6kW 充电器覆盖全部车位",
+      "提升公寓便利性与资产价值",
+      "解决分售公寓充电设施引入难题"
+    ],
+    "entities": [
+      "Eneliver",
+      "平河 Huetec",
+      "シャンボール瀬田",
+      "东京世田谷区",
+      "EV 充电器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217841.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217841.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:09.694Z"
+  },
+  "https://www.motor1.com/features/793624/mercedes-cle63-v8-horsepower-engine-details/": {
+    "title_zh": "梅赛德斯打造“极致”CLE V8 版：已知信息全览",
+    "summary_short": "梅赛德斯-AMG 将推出 CLE 顶级性能版，搭载 V8 发动机，功率约 650 马力，外观激进，配大尾翼。",
+    "summary_long": "梅赛德斯-AMG 正在开发一款基于 CLE 的极致性能车型，并非常规的 CLE 63，而是更特别的版本。该车将搭载 V8 发动机，预计输出约 650 马力，外观配备 Panamericana 格栅、激进的下进气口和四出排气，尾部大尾翼凸显其高性能身份。官方此前仅透露该车“基于受欢迎的 CLE”，未正式命名。",
+    "highlights_zh": [
+      "搭载 V8 发动机",
+      "外观激进",
+      "尾部大尾翼彰显极致性能",
+      "非 CLE 63"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "CLE",
+      "V8 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlz0k/s1/mercedes-amg-cle-63-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:13.589Z"
+  },
+  "https://www.thedrive.com/news/growing-pains-the-anatomy-of-audi-rocky-f1-start": {
+    "title_zh": "成长的烦恼：奥迪 F1 开局坎坷解剖",
+    "summary_short": "奥迪首季 F1 征程充满挑战，从可靠性问题到领导层变动，但团队视之为必经的洗礼。",
+    "summary_long": "奥迪在 F1 的首个赛季经历了从赛车可靠性问题到重大领导层变动的重重考验，被视为一次真正的烈火洗礼。尽管开局在澳大利亚站即获得积分，但随后在中国站遭遇退赛，整体表现起伏不定。奥迪运动部门位于德国诺伊堡的尖端设施展示了其科学化赛车研发的极致投入，工程师们相信这种严谨流程是取得成绩的关键。",
+    "highlights_zh": [
+      "首战澳大利亚即获积分",
+      "中国站遭遇退赛波折",
+      "领导层重大调整",
+      "尖端设施支撑研发"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "奥迪 Revolut F1 车队 | Audi Revolut F1 Team",
+      "索伯",
+      "F1"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/A266439.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_1438.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/A268606_large.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:14.190Z"
+  },
+  "https://response.jp/article/2026/06/11/412567.html": {
+    "title_zh": "电通总研开发 SDV 时代汽车企划开发框架 D-TRAX",
+    "summary_short": "电通总研推出 D-TRAX 框架，支持 SDV 时代汽车企划与开发变革，通过双轨并行模式加速价值验证。",
+    "summary_long": "电通总研宣布开发出名为 D-TRAX 的框架，旨在支持 SDV（软件定义汽车）时代汽车企划与开发的变革。该框架全称为 DENTSU SOKEN Dual-Track Architecture eXploration & eXperience Transformation，通过分离并并行运行短期企划开发循环与中长期探索循环，在验证价值假设的同时推进汽车企划与设计开发。自 6 月 9 日起，基于该框架的企划与开发支持咨询服务已开始提供。",
+    "highlights_zh": [
+      "电通总研开发 D-TRAX 框架",
+      "支持 SDV 时代汽车企划开发变革",
+      "双轨并行：短期开发与中长期探索",
+      "6 月 9 日起提供咨询服务"
+    ],
+    "entities": [
+      "电通总研",
+      "D-TRAX",
+      "Software-Defined Vehicle"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217840.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217840.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:17.642Z"
+  },
+  "https://www.motor1.com/features/798467/automatic-transmission-types-explained/": {
+    "title_zh": "三种自动变速箱详解：液力变矩器、双离合与 CVT",
+    "summary_short": "自动变速箱分为液力变矩器式、双离合（DCT）和无级变速（CVT）三种，工作原理各异，但目标相同。",
+    "summary_long": "自动变速箱是现代汽车最复杂的机械部件之一，它通过多档位让发动机在不同速度下高效运转。主流自动变速箱分为三种：传统液力变矩器自动变速箱（俗称“slushbox”），依靠液力耦合传递动力；双离合变速箱（DCT），通过两组离合器实现快速换挡；无级变速箱（CVT），使用钢带或链条实现连续无级变速。每种类型在平顺性、效率和驾驶感受上各有特点。",
+    "highlights_zh": [
+      "自动变速箱分液力变矩器、DCT、CVT 三种",
+      "液力变矩器通过流体传递动力",
+      "DCT 换挡快",
+      "不同变速箱影响驾驶感受和效率"
+    ],
+    "entities": [
+      "自动变速箱",
+      "液力变矩器",
+      "双离合变速箱",
+      "无级变速箱 | CVT"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8bJ4/s1/types-of-transmissions-explainer.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:18.565Z"
+  },
+  "https://bestcarweb.jp/newcar/1547371": {
+    "title_zh": "第八代雷克萨斯 ES 日本上市：HV 与 BEV 双动力，后座如“移动客厅”",
+    "summary_short": "第八代雷克萨斯 ES 日本上市，提供混合动力和纯电动两种选择，后座舒适性堪比“移动客厅”。",
+    "summary_long": "2026 年 6 月 11 日，雷克萨斯在日本推出第八代 ES，这是品牌下一代电动车的先锋车型。新车同时提供混合动力（ES350h）和纯电动（ES350e/ES500e）版本，用户可根据需求选择动力系统。ES 系列自 1989 年诞生以来畅销全球，第七代以静谧性和舒适性著称。第八代进一步强化后座体验，打造“移动客厅”般的乘坐感受。价格方面，ES350h 起价 790 万日元，ES350e 起价 830 万日元，ES500e 起价 950 万日元。",
+    "highlights_zh": [
+      "第八代 ES 日本上市",
+      "后座舒适性堪比“移动客厅”",
+      "ES350h 起价 790 万日元"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "ES",
+      "混合动力",
+      "纯电动"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11172755/3_s.jpg?v=1781166476",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11172755/3_s-600x393.jpg?v=1781166476",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11172334/5bfda2229563b53a5855bc1127e60282-600x436.jpg?v=1781166216"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:22.345Z"
+  },
+  "https://bestcarweb.jp/feature/column/1544844": {
+    "title_zh": "丰田皇冠跨界车实际购买费用详解：总价超 600 万日元",
+    "summary_short": "丰田皇冠跨界车（Crown Crossover）实际购买费用详解：人气 SUV 轿车总价超 600 万日元，含税费及选装件。",
+    "summary_long": "丰田皇冠跨界车（Crown Crossover）作为第 16 代皇冠的首款车型，自 2022 年 9 月上市以来持续热销。2025 年 4 月推出特别版“THE 70th”并调整车身颜色。本文以热销配置“Z”为例，选择珍珠白色车身，计算包含选装件、税费及工时的实际购车总费用。结果显示，总价超过 600 万日元（约合人民币 30 万元），其中税费部分按 4 月注册最高金额计算。",
+    "highlights_zh": [
+      "皇冠跨界车 Z 版总价超 600 万日元",
+      "2025 年 4 月推出 THE 70th 特别版",
+      "选装珍珠白车漆需额外付费",
+      "工时费按 1.32 万日元/小时计算"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "皇冠跨界车",
+      "Z"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09131528/20220715_01_73_s-1.jpg?v=1780978529",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09131528/20220715_01_73_s-1-600x393.jpg?v=1780978529",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10153023/R5_5795-600x401.jpg?v=1781073024"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:23.570Z"
+  },
+  "https://bestcarweb.jp/feature/column/1541384": {
+    "title_zh": "日产 Note Aura NISMO：312 万日元起的“行走的豪华紧凑型车”",
+    "summary_short": "日产 Note Aura NISMO 售价 312 万日元起，比普通版贵 30 万日元，但提供专属外观和运动化调校，是追求驾驶乐趣的豪华紧凑型车。",
+    "summary_long": "日产 Note Aura NISMO 作为紧凑型车，价格不低，2WD 版本起价 312 万 5100 日元，比 G 版贵 30 万 3600 日元，且 WLTC 油耗从 G 版的 27.2km/L 降至 23.3km/L。但 NISMO 并非简单豪华版，而是基于 Aura 的高品质，融入 NISMO 的驾驶调校，拥有专属空气动力学套件、强化底盘和电机控制，带来更锐利的响应。对于追求日常驾驶乐趣的用户，这是一款值得考虑的“浓味”车型。",
+    "highlights_zh": [
+      "售价 312 万 5100 日元起",
+      "比 G 版贵 30 万日元",
+      "油耗从 27.2 降至 23.3km/L",
+      "专属空力套件与运动化调校"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Note Aura NISMO",
+      "紧凑型车",
+      "WLTC 油耗",
+      "空气动力学"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08161352/V4A7535_1.jpg?v=1780902833",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08161352/V4A7535_1-600x400.jpg?v=1780902833",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10153023/R5_5795-600x401.jpg?v=1781073024"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:26.782Z"
+  },
+  "https://bestcarweb.jp/feature/column/1542744": {
+    "title_zh": "丰田 Noah/Voxy 取消燃油版，全系混动化，前脸换新灯，E-Four 新增雪地模式",
+    "summary_short": "丰田 Noah/Voxy 于 2026 年 4 月改款，取消燃油版仅保留混动，前脸换 LED 投影灯，E-Four 新增雪地模式，内饰升级。",
+    "summary_long": "丰田 Noah/Voxy 在 2026 年 4 月进行部分改良，除福祉车外取消汽油版，全系仅提供混合动力。外观方面，高配车型采用 LED 投影式大灯，前脸设计焕新，质感提升。内饰整体质感提升，S-Z 级中控屏从 7 英寸升级至 12.3 英寸。E-Four 四驱系统新增 SNOW EXTRA 雪地模式，提升冬季性能。",
+    "highlights_zh": [
+      "取消燃油版",
+      "前脸换 LED 投影灯",
+      "E-Four 新增雪地模式",
+      "S-Z 级中控屏升级至 12.3 英寸"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ノア",
+      "ヴォクシー",
+      "E-Four",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05215159/00_noah-voxy_hyou.jpg?v=1780663920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05215159/00_noah-voxy_hyou-600x401.jpg?v=1780663920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10153023/R5_5795-600x401.jpg?v=1781073024"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:28.520Z"
+  },
+  "https://bestcarweb.jp/feature/column/1540822": {
+    "title_zh": "普通驾照能开什么车？海狮可以吗？2 吨车呢？",
+    "summary_short": "日本普通驾照根据取得时间不同，可驾驶车辆范围有差异，最新标准为总重 3.5 吨以下、载重 2 吨以下、10 座以下。",
+    "summary_long": "日本驾照种类不同，可驾驶车辆范围各异，普通驾照看似基础，但实际能开不少车型，例如 1.2-1.5 吨货车、10 座以下 MPV 等。然而，普通驾照的准驾范围因取得时间而异，最新标准（2017 年 3 月 12 日后取得）限定车辆总重 3.5 吨以下、最大载重 2 吨以下、乘员 10 人以下。随着时间推移，普通驾照可驾驶的车辆尺寸上限逐渐缩小。",
+    "highlights_zh": [
+      "普通驾照准驾范围因取得时间而异",
+      "最新标准：总重 3.5 吨以下、载重 2 吨以下、1…",
+      "可驾驶 1.2-1.5 吨货车及 10 座以下 MP…",
+      "车辆尺寸上限随时间推移逐渐缩小"
+    ],
+    "entities": [
+      "普通驾照",
+      "车辆总重",
+      "最大载重",
+      "乘员数"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04152033/01A.jpg?v=1780554034",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04152033/01A-600x400.jpg?v=1780554034",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10153023/R5_5795-600x401.jpg?v=1781073024"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:32.175Z"
+  },
+  "https://response.jp/article/2026/06/11/412565.html": {
+    "title_zh": "先锋携车载高端音响 GRAND RESOLUTION 亮相 OTOTEN2026",
+    "summary_short": "先锋与东北先锋将参展 OTOTEN2026，展出搭载 GRAND RESOLUTION 的 GR86 演示车及多款新品音箱。",
+    "summary_long": "先锋与东北先锋将于 6 月 19 日至 21 日参加在东京国际论坛举办的 OTOTEN2026，展出搭载车载高端系列 GRAND RESOLUTION 的 GR86 演示车，该系列采用 TAD 技术，通过 CST 驱动器实现点音源再生，提供自然声场和高真实感。此外，还将展示 7 月发售的箱式音箱 TS-X40、高端音箱 TS-V174S 等，并设有试听区和 DIY 区。同时展出游戏音箱 SOUND TECTOR 系列。",
+    "highlights_zh": [
+      "展出 GRAND RESOLUTION 搭载的 GR…",
+      "采用 TAD 技术的 CST 驱动器实现点音源",
+      "7 月发售的箱式音箱 TS-X40 先行展示",
+      "游戏音箱 SOUND TECTOR 系列亮相"
+    ],
+    "entities": [
+      "先锋",
+      "东北先锋",
+      "GRAND RESOLUTION",
+      "GR86",
+      "TAD"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217816.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217816.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:34.257Z"
+  },
+  "https://response.jp/article/2026/06/11/412572.html": {
+    "title_zh": "倍耐力引入 ISCC PLUS 认证再生钢用于轮胎生产",
+    "summary_short": "倍耐力与兴达合作，将 ISCC PLUS 认证再生钢用于轮胎生产，成为首批采用该材料的轮胎制造商之一。",
+    "summary_long": "意大利轮胎巨头倍耐力宣布，与橡胶补强材料战略供应商中国兴达合作，推进将再生钢纳入 ISCC PLUS 认证材料清单的试点项目。倍耐力是主导并参与该项目的先驱轮胎制造商，成为首批将 ISCC PLUS 认证再生钢用于轮胎生产的公司之一。在此过程中，倍耐力积极参与技术要求和可持续性指南的制定，并在整个认证过程中支持兴达及其上游供应商。",
+    "highlights_zh": [
+      "倍耐力与兴达合作推进再生钢认证",
+      "成为首批采用 ISCC PLUS 再生钢的轮胎制造商",
+      "参与技术要求和可持续性指南制定",
+      "支持兴达及其上游供应商完成认证"
+    ],
+    "entities": [
+      "倍耐力",
+      "兴达",
+      "ISCC PLUS",
+      "再生钢"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217848.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217848.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:35.883Z"
+  },
+  "https://bestcarweb.jp/feature/column/1536825": {
+    "title_zh": "本田 Insight 以 SUV 形态复活！限量 3000 台的纯电动跨界车",
+    "summary_short": "本田 Insight 以纯电动跨界 SUV 身份复活，限量 3000 台，延续历代车型的探索精神。",
+    "summary_long": "本田 Insight 以纯电动跨界 SUV 形态复活，限量 3000 台。初代 Insight 为双门轿跑混合动力车，第二代转为五门掀背车，第三代则成为高品质轿车。新一代车型彻底转向纯电动 SUV，体现了本田对电动化方向的持续探索。",
+    "highlights_zh": [
+      "第四代 Insight 为纯电动跨界 SUV",
+      "限量 3000 台",
+      "历代车型风格各异：轿跑、掀背、轿车到 SUV",
+      "体现本田对电动化的探索"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Insight"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01140858/9e27d8926c12e413cf49b755ba0c3e3f-4.jpg?v=1780290540",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01140858/9e27d8926c12e413cf49b755ba0c3e3f-4-600x338.jpg?v=1780290540",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10153023/R5_5795-600x401.jpg?v=1781073024"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:39.101Z"
+  },
+  "https://bestcarweb.jp/feature/column/1546267": {
+    "title_zh": "丰田 Sienta 销量揭秘：半数用户选择 5 座版",
+    "summary_short": "丰田 Sienta 虽为 7 座紧凑 MPV，但实际销量中 5 座版占半数，用户更看重其宽敞后备箱和实惠价格。",
+    "summary_long": "丰田 Sienta 在 2026 年 3 月日本新车销量中夺冠，但令人意外的是，其销售主力并非 7 座版，而是 5 座版。现行款 Sienta 于 2022 年 8 月上市，2 列 5 座版作为基础配置正式纳入产品线，价格比 7 座版低约 4 万日元。用户选择 5 座版的原因在于：拥有侧滑门的宽敞后排空间，以及作为实用旅行车的性价比。经销商反馈，选择 G 汽油版的用户多倾向 5 座，而选择 Z 混动版的用户则更常选 7 座，整体约半数用户选择 5 座。",
+    "highlights_zh": [
+      "Sienta 销量冠军",
+      "5 座版比 7 座版便宜约 4 万日元",
+      "用户看重侧滑门和宽敞后备箱",
+      "G 汽油版多选 5 座"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "シエンタ",
+      "紧凑 MPV",
+      "5 座版",
+      "7 座版"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10153023/R5_5795.jpg?v=1781073024",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10153023/R5_5795-600x401.jpg?v=1781073024",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05215159/00_noah-voxy_hyou-600x401.jpg?v=1780663920"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:40.848Z"
+  },
+  "https://www.motor1.com/news/798432/2027-ford-explorer-st-sinister-package/": {
+    "title_zh": "2027 款福特 Explorer ST 暗黑套件版",
+    "summary_short": "福特为 2027 款 Explorer ST 推出暗黑套件，外观几乎全黑，动力不变，仍搭载 385 马力 3.0T V6 发动机。",
+    "summary_long": "福特为 2027 款 Explorer ST 推出可选暗黑套件，外观几乎全黑，包括 21 英寸亮黑轮毂、深色 ST 徽章，但前车标可发光，红色刹车卡钳形成对比。动力不变，仍搭载 3.0 升双涡轮增压 V6 发动机，最大功率 385 马力，峰值扭矩 415 磅-英尺，匹配 10 速自动变速箱，可选后驱或四驱。ST 版本销量占比从 2020 年的 16%升至 2025 年的 22%。",
+    "highlights_zh": [
+      "外观几乎全黑",
+      "红色刹车卡钳形成对比",
+      "动力不变",
+      "ST 版本销量占比升至 22%"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Explorer ST"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lWjo/s1/2027-ford-explorer-st-sinister-package.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:43.049Z"
+  },
+  "https://www.motor1.com/news/798268/never-tell-car-salesman-monthly-budget/": {
+    "title_zh": "购车谈判中绝不能说的第一句话",
+    "summary_short": "汽车销售专家警告，购车时主动透露月预算会立刻丧失议价权，让销售员占据上风。",
+    "summary_long": "一位汽车销售员在 TikTok 上揭示，购车者最常犯的错误是主动告诉销售员自己的月预算。一旦说出“我只想每月付 500 美元”，销售员就能据此调整报价和贷款方案，使买家陷入被动。专家建议，购车时应先谈总价，避免透露任何预算信息。",
+    "highlights_zh": [
+      "主动透露月预算会立刻丧失议价权",
+      "销售员会利用预算信息调整报价",
+      "购车时应先谈总价",
+      "保持信息优势是谈判关键"
+    ],
+    "entities": [
+      "购车谈判",
+      "月预算",
+      "销售员",
+      "议价权"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lWVo/s1/no.-1-thing-you-don-t-want-to-tell-car-salesman.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:44.536Z"
+  },
+  "https://www.motor1.com/news/798413/porsche-taycan-timing-not-ideal/": {
+    "title_zh": "保时捷反思首款电动车 Taycan：时机并不理想",
+    "summary_short": "保时捷 CEO 称 Taycan 上市过早，公司“太快拥抱电动化”，导致销量下滑，而电动 Macan 表现更好。",
+    "summary_long": "保时捷 CEO Michael Leiters 在德国汽车论坛上反思，认为 Taycan 于 2019 年底上市为时过早，公司“太快拥抱电动化”，消费者尚未充分理解其价值。尽管保时捷自视为电动化先驱，但 Taycan 销量近年持续下滑，2026 年第一季度交付仅 3420 辆，同比下降 19%。相比之下，电动 Macan 表现更佳，同期交付 8079 辆，但燃油版 Macan 仍以 10130 辆领先。",
+    "highlights_zh": [
+      "保时捷 CEO 称 Taycan 上市过早",
+      "Taycan 一季度销量同比降 19%",
+      "电动 Macan 销量优于 Taycan",
+      "燃油 Macan 仍更受欢迎"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Taycan",
+      "Macan",
+      "Michael Leiters",
+      "电动化"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E638we/s1/2025-porsche-taycan-turbo-gt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:46.958Z"
+  },
+  "https://insideevs.com/news/798421/byd-5-minute-ev-chargers-europe-canada/": {
+    "title_zh": "比亚迪将在欧洲建设数千个 5 分钟快充站，加拿大紧随其后",
+    "summary_short": "比亚迪计划 2027 年前在欧洲部署 3000 个 Flash Charger 超快充桩，支持 1500kW 功率，5 分钟可充 10%-70%，加拿大市场随后跟进。",
+    "summary_long": "比亚迪宣布将在欧洲建设至少 3000 个 Flash Charger 超快充桩，目标 2027 年完成。该充电桩支持高达 1500kW（1.5 兆瓦）功率，但仅搭载最新刀片电池的车型能完全发挥其性能，目前欧洲仅有腾势 Z9GT（售价约 13.3 万美元）可在 5 分钟内完成 10%-70%充电。相比之下，特斯拉在欧洲拥有超过 2 万个直流快充桩，但最新 V4 超充功率仅 500kW，V3 为 250kW。欧洲之后，比亚迪计划将超快充网络扩展至加拿大，已发布相关招聘信息。",
+    "highlights_zh": [
+      "2027 年前欧洲部署 3000 个 Flash C…",
+      "最大功率 1500kW",
+      "仅腾势 Z9GT 等新刀片电池车型可满效",
+      "加拿大市场为下一站"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "腾势 Z9GT | Denza Z9GT",
+      "刀片电池",
+      "Flash Charger",
+      "超快充网络"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K8Qg/s1/byd-flash-charger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:49.334Z"
+  },
+  "https://insideevs.com/news/798417/bmw-ix3-500-miles-real-world-range-test/": {
+    "title_zh": "宝马 iX3 实测续航超 500 英里",
+    "summary_short": "宝马 iX3 长轴版在青海湖环线实测中，单次充电行驶超 500 英里，剩余 2%电量，平均能耗仅 20.2 kWh/100 英里。",
+    "summary_long": "宝马 iX3 长轴版在青海湖环线实测中，单次充电行驶超 500 英里（约 805 公里），剩余 2%电量。测试路线海拔变化达 6500 英尺，气温低至 1°C，平均能耗仅 20.2 kWh/100 英里（12.2 kWh/100 公里）。该车搭载 108.7 kWh 电池和双电机，EPA 续航 434 英里，实测表现超出预期。长轴版专供中国，标准轴距版将在欧洲和美国上市。",
+    "highlights_zh": [
+      "单次充电行驶超 500 英里",
+      "海拔变化 6500 英尺",
+      "平均能耗仅 20.2 kWh/100 英里",
+      "EPA 续航 434 英里"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8xO0/s1/bmw-ix3-50l-xdrive.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:50.641Z"
+  },
+  "https://www.motor1.com/news/798403/mazda-found-problem-rival-hybrids/": {
+    "title_zh": "马自达认为混动车存在大问题，并承诺解决",
+    "summary_short": "马自达 CX-5 项目经理表示，竞品混动车型油门响应延迟，马自达将打造独特的混动系统以消除这一痛点。",
+    "summary_long": "马自达 CX-5 项目经理 Koichiro Yamaguchi 指出，许多竞品混动车型存在油门响应延迟的问题，这让他感到不满。他决心确保马自达的混动系统能提供即时的加速响应。马自达正在开发基于 Skyactiv-Z 发动机的混动系统，预计 2027 年底在新 CX-5 上首发。该系统将结合 2.5 升四缸汽油机和电机，以弥补内燃机低转速动力不足的缺陷，同时实现高效与性能的平衡。",
+    "highlights_zh": [
+      "竞品混动车型油门响应延迟",
+      "马自达将打造独特混动系统",
+      "Skyactiv-Z 发动机+电机组合",
+      "2027 年底新 CX-5 首发"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "Skyactiv-Z"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgGeGj/s1/2026-mazda-cx-5-first-drive-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-11T17:03:53.837Z"
   }
 }
