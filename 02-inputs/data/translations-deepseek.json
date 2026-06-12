@@ -32409,5 +32409,605 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-11T17:03:53.837Z"
+  },
+  "https://response.jp/article/2026/06/12/412597.html": {
+    "title_zh": "铃木吉姆尼变身美式经典：Alpine 风格定制车 Beas 基于“5 型”进化，338 万日元起",
+    "summary_short": "铃木吉姆尼改装车 Beas 系列推出基于 5 型的新版本，保留美式经典设计，适配最新安全装备，售价 338 万日元起。",
+    "summary_long": "Car's Motor 基于铃木吉姆尼/吉姆尼 Sierra 的改款车型“5 型”推出了新版本的定制车 Beas 和 Beas+，将于 2026 年夏季发售。该系列以加州海岸线的美式经典风格为设计灵感，采用镀铬格栅和保险杠，可选方形双灯或四灯 LED 头灯，侧面为倾斜式鼻锥，尾部配镀铬保险杠和圆形尾灯。为适应 5 型新增的间隙声纳和毫米波雷达，车身套件进行了重新设计，在保持经典外观的同时兼容最新安全配置。Beas 起价 338 万日元（含税），Beas+起价 358 万日元。",
+    "highlights_zh": [
+      "基于吉姆尼/吉姆尼 Sierra 5 型改款",
+      "美式经典风格",
+      "适配新安全装备",
+      "Beas 起价 338 万日元"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "吉姆尼 Sierra",
+      "Beas",
+      "Car's Motor"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217946.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217946.jpg",
+      "https://response.jp/imgs/fill2/2217940.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:18.549Z"
+  },
+  "https://response.jp/article/2026/06/12/412604.html": {
+    "title_zh": "奥迪双杯 2026 日本总决赛落幕，四部门日本代表诞生",
+    "summary_short": "奥迪双杯 2026 日本总决赛决出四部门冠军，他们将代表日本参加 7 月世界大会预选赛。",
+    "summary_long": "奥迪日本在爱知县丰桥市培训中心举办了“奥迪双杯 2026 日本总决赛”。比赛分为技术、服务、新车和二手车四个部门，通过车辆实操、课题实操和理论考试，决出各领域顶尖人才。最终，Audiりんくう的宫崎勇希、Audi 宫崎的谷口庸介、Audi 芝浦的三塚洸也和 AAA 有明的大岛淳分别获得各部门第一名，成为日本代表，将于 7 月参加世界大会预选赛。奥迪双杯是奥迪官方经销商技能竞赛，旨在提升服务质量和客户满意度。",
+    "highlights_zh": [
+      "四部门冠军诞生",
+      "技术、服务、新车、二手车各决出第一名",
+      "竞赛含车辆实操、课题实操和理论考试",
+      "奥迪双杯旨在提升经销商服务与客户满意度"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "奥迪双杯 | Audi Twin Cup",
+      "奥迪日本 | Audi Japan",
+      "日本总决赛"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218021.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218021.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:18.625Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532415": {
+    "title_zh": "车名猜谜：第 783 回",
+    "summary_short": "三菱全球运动轿车，2007 年推出轿车版，2008 年推出 5 门掀背版，顶级 Ralliart 搭载 2.0T 发动机和 6 速双离合。",
+    "summary_long": "本栏目为车名猜谜系列第 783 回，介绍一款三菱全球运动轿车。该车以全球标准运动轿车为概念，采用三菱独特驾驶感受和传统逆斜鼻设计。2007 年轿车版问世，2008 年推出 5 门掀背版。顶级 Ralliart 版本搭载 2.0 升直列四缸 MIVEC 中冷涡轮增压发动机，匹配 6 速双离合 SST 变速箱，最大功率 240 马力，峰值扭矩 35.0kgm。",
+    "highlights_zh": [
+      "三菱全球运动轿车",
+      "2008 年推出 5 门掀背版",
+      "顶级 Ralliart：2.0T+6 速双离合",
+      "最大功率 240 马力"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Ralliart"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28134924/main1407_GA_33_F-style_SB.jpg?v=1779943766",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28134924/main1407_GA_33_F-style_SB-600x400.jpg?v=1779943766",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28130948/main_SP00700107-600x400.jpg?v=1779941389"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:23.337Z"
+  },
+  "https://response.jp/article/2026/06/12/412608.html": {
+    "title_zh": "Nexperia 推出 1200V SiC MOSFET QDPAK 封装，用于 EV 车载充电器",
+    "summary_short": "Nexperia 推出 1200V SiC MOSFET，采用 QDPAK 封装，适用于 EV 车载充电器和高压 DC-DC 转换器。",
+    "summary_long": "半导体制造商 Nexperia 宣布推出采用 QDPAK 封装的 1200V 碳化硅（SiC）MOSFET。QDPAK 是一种支持顶部冷却的表面贴装封装，针对高功率密度和严苛热条件进行了优化。该产品是 Nexperia 扩展宽禁带半导体产品组合的一部分，适用于电动汽车车载充电器和高压 DC-DC 转换器。",
+    "highlights_zh": [
+      "1200V SiC MOSFET",
+      "QDPAK 封装支持顶部冷却",
+      "适用于 EV 车载充电器和 DC-DC 转换器",
+      "扩展宽禁带半导体产品组合"
+    ],
+    "entities": [
+      "Nexperia",
+      "SiC MOSFET",
+      "QDPAK",
+      "EV 车载充电器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218045.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218045.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:27.479Z"
+  },
+  "https://bestcarweb.jp/fullload/1545969": {
+    "title_zh": "三菱扶桑 Canter 标配电子手刹，应对 9 月法规",
+    "summary_short": "三菱扶桑 Canter 小型卡车将标配电子手刹，以应对 9 月生效的联合国法规修订，确保停车安全。",
+    "summary_long": "三菱扶桑卡车巴士公司宣布，其小型卡车 Canter 将标配电子手刹（EPB），以应对 9 月生效的联合国法规修订。该法规要求车辆在熄火、开门或解开安全带时自动激活 EPB。此前 EPB 为选装配置，现将在标准版和定制版上标配。",
+    "highlights_zh": [
+      "三菱扶桑 Canter 标配电子手刹",
+      "应对 9 月联合国法规修订",
+      "自动激活条件：熄火、开门、解安全带",
+      "标准版和定制版均标配"
+    ],
+    "entities": [
+      "三菱扶桑 | Mitsubishi Fuso",
+      "Canter",
+      "电子手刹",
+      "联合国法规 | UN R-13"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/10123032/WEB_MY26_Canter_with-EPB_Eyecatch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/04141940/00-aab400a77436cf94_org.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/05111716/00_260610BCW-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:27.886Z"
+  },
+  "https://response.jp/article/2026/06/12/412603.html": {
+    "title_zh": "MINI 柏迁址开业，步行可达 TX 柏之叶校园站",
+    "summary_short": "MINI 柏迁至 TX 柏之叶校园站附近，引入零售新概念，提供可持续环保设计及数字化体验。",
+    "summary_long": "MINI 柏迁址开业，新店位于千叶县柏市，距 TX 柏之叶校园站步行 10 分钟，国道 16 号柏 IC 车程 5 分钟。新店采用 BMW 集团“零售·未来”概念，以客户为中心，注重可持续环保设计，并利用数字工具支持车辆查询和个性化体验。原店自 2007 年运营 19 年，因 TX 沿线发展及区域变化而决定搬迁。",
+    "highlights_zh": [
+      "引入零售·未来概念",
+      "可持续环保设计",
+      "数字化客户体验",
+      "步行 10 分钟可达车站"
+    ],
+    "entities": [
+      "MINI",
+      "BMW",
+      "零售·未来",
+      "柏之叶校园站"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218019.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218019.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:31.737Z"
+  },
+  "https://response.jp/article/2026/06/12/412600.html": {
+    "title_zh": "NTN 移动式独立电源 N3 首次被自卫队采用",
+    "summary_short": "NTN 开发的移动式独立电源 N3 首次被日本自卫队采用，仅靠小型风机和太阳能板供电。",
+    "summary_long": "NTN 开发的移动式独立电源「N3エヌキューブ」被新明和工业用于航空自卫队的「移动集装箱基地」项目。这是该电源首次被防卫领域及自卫队采用。近年来，自卫队正探讨引入能快速在无基地或灾区建立活动据点的「展开型常设基础设施系统」，新明和工业据此开发了搭载住宿、卫生等设备的集装箱，并利用特种车辆运输的「移动集装箱基地」系统。",
+    "highlights_zh": [
+      "NTN 移动电源 N3 首次用于自卫队",
+      "仅靠风能和太阳能供电",
+      "用于快速建立活动据点",
+      "新明和工业开发移动集装箱基地"
+    ],
+    "entities": [
+      "NTN",
+      "N3",
+      "新明和工业",
+      "航空自卫队",
+      "移动集装箱基地"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218010.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218010.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:32.586Z"
+  },
+  "https://response.jp/article/2026/06/12/412598.html": {
+    "title_zh": "Alps Alpine 开发厚度 1.55mm 超薄触觉反馈器",
+    "summary_short": "Alps Alpine 推出厚度仅 1.55mm 的触觉反馈器，比传统产品薄约 70%，支持多种触觉表现。",
+    "summary_long": "Alps Alpine 宣布推出厚度仅 1.55mm 的触觉反馈器“AFDA 系列”，相比传统产品薄约 70%。该产品可实现点击感、滚动感、拨盘操作感等多种触觉表现，有助于创造新的操作体验并推动数字设备轻薄化。随着笔记本电脑和平板电脑等设备日益轻薄化，用户对直观、高品质操作体验的需求不断增长。",
+    "highlights_zh": [
+      "厚度仅 1.55mm",
+      "支持点击、滚动、拨盘等多种触觉表现",
+      "助力数字设备轻薄化与操作体验升级"
+    ],
+    "entities": [
+      "Alps Alpine",
+      "AFDA 系列 | AFDA Series"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217985.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217985.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:36.338Z"
+  },
+  "https://response.jp/article/2026/06/12/412606.html": {
+    "title_zh": "SDV·ADAS·去稀土·二轮 EV：爱思帝描绘下一代移动出行的五大支柱",
+    "summary_short": "爱思帝在 2026 年人车科技展上提出五大支柱：SDV、ADAS、去稀土、二轮 EV 及数字化平台，推动下一代移动出行。",
+    "summary_long": "爱思帝（Astemo）在 2026 年人车科技展上展示了五大产品与解决方案，涵盖电动动力总成、驱动系统、IoV 平台、云协同跨域系统及二轮车技术。其数字化子公司 Cyplemos 提出“车与云协同的数字进化基础”，通过收集分析人车信息、车载或云端 AI 虚拟咨询、OTA 更新 ECU 执行环境，实现“越开越懂你”的用户体验，并支持订阅制按需加载功能。",
+    "highlights_zh": [
+      "五大支柱：SDV、ADAS、去稀土、二轮 EV、数字…",
+      "车与云协同的数字进化基础",
+      "OTA 更新实现 ECU 执行环境升级",
+      "订阅制按需加载功能"
+    ],
+    "entities": [
+      "爱思帝",
+      "Cyplemos",
+      "IoV",
+      "SDV",
+      "OTA"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217888.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217888.jpg",
+      "https://response.jp/imgs/zoom1/2217885.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:36.348Z"
+  },
+  "https://response.jp/article/2026/06/12/412602.html": {
+    "title_zh": "Orix CarShare 6 月 16 日全面更新 App 与服务网站，手机即可完成入会",
+    "summary_short": "Orix CarShare 将于 6 月 16 日全面更新 App 与服务网站，入会、预约、取还车等操作均可通过智能手机完成。",
+    "summary_long": "Orix CarShare 宣布自 6 月 16 日起全面更新其 App 与服务网站，旨在让汽车共享成为日常出行更便捷的选择。新版本优化了用户体验，入会手续（包括身份验证）可在 App 或网站上完成，车辆预约、取车、延长时间、还车等全部操作仅需智能手机。同时，车辆搜索至预约的流程得到改进，地图上可一目了然地查看站点位置、车型及空闲情况，并新增一键重新预约历史使用车辆的功能，提升了日常使用的便利性。Orix 自动车表示将继续以用户视角改善服务，提供更安心可靠的移动出行服务。",
+    "highlights_zh": [
+      "入会手续全程手机完成",
+      "预约、取还车等操作手机搞定",
+      "地图直观显示站点与空闲车辆",
+      "一键重新预约历史车辆"
+    ],
+    "entities": [
+      "オリックスカーシェア",
+      "Orix 自动车",
+      "汽车共享",
+      "智能手机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218018.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218018.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:41.342Z"
+  },
+  "https://bestcarweb.jp/feature/column/1528074": {
+    "title_zh": "日产 Elgrand 能否撼动丰田 Alphard 的霸主地位？",
+    "summary_short": "日产 Elgrand 即将回归，挑战丰田 Alphard 在高档 MPV 市场的统治地位，但 Alphard 凭借品牌力、产品力和保值率构筑了坚固防线。",
+    "summary_long": "日产 Elgrand 曾是高档 MPV 市场的开拓者，如今即将换代归来，直面丰田 Alphard 的强势地位。Alphard 凭借宽敞空间、豪华配置、强大品牌号召力及高保值率，已牢牢占据市场中心，覆盖家庭、商务、VIP 等多重用途。其价格区间从 510 万日元到 1065 万日元，提供 2.5L 汽油、混动及插混动力。Elgrand 需要在行驶质感、静谧性、科技感或定价上展现差异化，才能撼动 Alphard 的统治。",
+    "highlights_zh": [
+      "日产 Elgrand 即将换代回归",
+      "丰田 Alphard 是高档 MPV 标杆",
+      "Alphard 覆盖家庭到 VIP 用途",
+      "Elgrand 需在静音或科技上突破"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "丰田 | Toyota",
+      "Elgrand",
+      "Alphard",
+      "高档 MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08163309/1_1.jpg?v=1780903990",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08163309/1_1-600x400.jpg?v=1780903990",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09174202/245ffe702726465644df2e8d3705b3c7-600x400.jpeg?v=1780994523"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:41.524Z"
+  },
+  "https://bestcarweb.jp/feature/column/1546596": {
+    "title_zh": "车迷的归宿是轻卡？MT 还能防痴呆！推荐铃木 Super Carry 作为终活车",
+    "summary_short": "轻卡不仅实用，MT 车型还能预防痴呆，铃木 Super Carry 是理想的终活车选择。",
+    "summary_long": "轻卡（轻型卡车）作为乘用车也极具魅力，最小转弯半径仅 3.6 米，轻快灵活。MT 车型还能预防痴呆，适合作为终活车。轻卡在美国也受欢迎，过去 5 年销量增长 3 倍，2024 年出口约 7500 辆。",
+    "highlights_zh": [
+      "最小转弯半径 3.6 米",
+      "MT 车型防痴呆",
+      "美国销量 5 年增 3 倍",
+      "2024 年出口约 7500 辆"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Super Carry",
+      "轻卡",
+      "终活车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10181521/color_wbw_pc.png?v=1781082923",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10181521/color_wbw_pc-600x400.png?v=1781082923",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09174202/245ffe702726465644df2e8d3705b3c7-600x400.jpeg?v=1780994523"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:46.034Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530270": {
+    "title_zh": "丰田卡罗拉 Cross 尺寸的意大利 SUV！还是混动！全新阿尔法·罗密欧 Tonale 登场",
+    "summary_short": "阿尔法·罗密欧 2026 年推出全新 Tonale，尺寸与卡罗拉 Cross 相当，搭载 1.5L 混动系统，设计致敬经典 33 Stradale。",
+    "summary_long": "阿尔法·罗密欧于 2026 年 3 月发布全新 Tonale，定位紧凑型 SUV，尺寸与丰田卡罗拉 Cross 相近。新车前脸设计致敬经典车型 33 Stradale，采用纵向格栅和三叶草轮毂造型。动力方面搭载 1.5L 四缸涡轮增压发动机与 48V 电机组成的轻混系统，综合输出 160 马力，WLTC 油耗 16.6km/L。车身长度较上代缩短 10mm，轮距加宽 4mm，兼顾城市灵活性与高速稳定性。",
+    "highlights_zh": [
+      "尺寸与卡罗拉 Cross 相当",
+      "前脸设计致敬 33 Stradale",
+      "1.5L 混动系统",
+      "车身微调提升操控稳定性"
+    ],
+    "entities": [
+      "阿尔法·罗密欧",
+      "阿尔法·罗密欧 Tonale",
+      "阿尔法·罗密欧 33 Stradale",
+      "轻混系统",
+      "紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25190948/00_Tonale_Ibrida_R1_7812_head.jpg?v=1779703789",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/25190948/00_Tonale_Ibrida_R1_7812_head-600x400.jpg?v=1779703789",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09174202/245ffe702726465644df2e8d3705b3c7-600x400.jpeg?v=1780994523"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:46.262Z"
+  },
+  "https://response.jp/article/2026/06/12/412585.html": {
+    "title_zh": "斯巴鲁股价独涨，Ascent 或将进入日本市场？",
+    "summary_short": "斯巴鲁股价独涨，市场关注 Ascent 是否将进入日本市场，本周商业文章排名揭示热点。",
+    "summary_long": "根据 6 月 4 日至 10 日付费会员文章的访问量排名，斯巴鲁股价的独涨成为本周焦点。市场猜测其大型 SUV Ascent 可能进入日本市场，引发投资者关注。",
+    "highlights_zh": [
+      "斯巴鲁股价独涨",
+      "Ascent 或入日本市场",
+      "本周商业文章排名"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "Ascent"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217834.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217834.jpg",
+      "https://response.jp/imgs/zoom/2216302.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:50.240Z"
+  },
+  "https://response.jp/article/2026/06/12/412605.html": {
+    "title_zh": "斯巴鲁 BRZ 2027 年款：搭载最新 EyeSight，今秋美国上市",
+    "summary_short": "斯巴鲁发布 2027 年款 BRZ，全系标配最新一代 EyeSight，手动挡车型也支持，今秋美国上市。",
+    "summary_long": "斯巴鲁在美国发布 2027 年款 BRZ，提供 Limited 和 tS 两个版本，起售价 36140 美元。新车全系标配最新一代 EyeSight 驾驶辅助技术，首次支持手动变速箱车型，并采用广角单目摄像头扩大视野。动力沿用 2.4L 水平对置发动机，最大功率 228 马力，标配 6 速手动变速箱和托森限滑差速器，Limited 可选 6 速自动变速箱。tS 版本继续配备 STI 调校减震器和布雷博刹车，新增后驻车雷达。",
+    "highlights_zh": [
+      "全系标配最新 EyeSight",
+      "2.4L 水平对置发动机",
+      "tS 版配 STI 悬架和布雷博刹车",
+      "今秋美国上市"
+    ],
+    "entities": [
+      "斯巴鲁 | SUBARU",
+      "BRZ",
+      "EyeSight",
+      "STI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218015.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218015.jpg",
+      "https://response.jp/imgs/fill2/2218016.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:51.332Z"
+  },
+  "https://bestcarweb.jp/feature/column/1541773": {
+    "title_zh": "日产 Serena ProPILOT 高速实测：家庭 MPV 的智能驾驶辅助有多实用？",
+    "summary_short": "日产 Serena 的 ProPILOT 辅助系统在高速上可减轻驾驶疲劳，高配版更支持脱手驾驶，是家庭 MPV 长途出行的利器。",
+    "summary_long": "日产 Serena 作为家庭 MPV，在城市中接送和购物固然方便，但其真正价值体现在高速长途行驶中。ProPILOT 系统通过自适应巡航和车道保持辅助，能显著减轻驾驶员在高速上的负担，尤其对于车身较高的 MPV，横风影响下的稳定性得到改善。高配车型 e-POWER LUXION 搭载的 ProPILOT 2.0，在条件允许时甚至可实现脱手驾驶，但驾驶员仍需对车辆负责。",
+    "highlights_zh": [
+      "ProPILOT 减轻高速驾驶疲劳",
+      "高配版支持脱手驾驶",
+      "MPV 横风稳定性提升",
+      "驾驶员仍需负全责"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "セレナ",
+      "ProPILOT",
+      "e-POWER",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09151005/DSC7888_1.jpg?v=1780985407",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09151005/DSC7888_1-600x400.jpg?v=1780985407",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09174202/245ffe702726465644df2e8d3705b3c7-600x400.jpeg?v=1780994523"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:55.193Z"
+  },
+  "https://bestcarweb.jp/feature/column/1527718": {
+    "title_zh": "大发 Copen 魅力不止电动敞篷！2026 年 8 月停产前必知的“指名购买”理由",
+    "summary_short": "大发 Copen 即将停产，其魅力不仅在于电动敞篷，更在于高刚性骨架、多种外观和变速箱选择，成为独一无二的轻量跑车。",
+    "summary_long": "大发 Copen 将于 2026 年 8 月下旬停产，目前库存售完即止。这款车的最大亮点是电动开闭式 Active Top 车顶，但它的魅力远不止于此。Copen 采用高刚性 D-Frame 骨架，提供 Robe、Cero 和 GR SPORT 三种不同设计，每种都有独特个性。变速箱可选 5MT 或 7 速 CVT，兼顾驾驶乐趣与日常实用性。价格方面，Robe 起价 198.33 万日元，Cero 起价 204.05 万日元，GR SPORT 起价 250.14 万日元，作为一款电动敞篷轻跑车，性价比突出。",
+    "highlights_zh": [
+      "电动开闭式 Active Top 车顶",
+      "高刚性 D-Frame 骨架",
+      "5MT 与 CVT 变速箱可选",
+      "WLTC 油耗：CVT 19.2km/L"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "コペン",
+      "Robe",
+      "Cero",
+      "GR SPORT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/02/21150554/16_copen_robe_140619013.jpg?v=1771653955",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/02/21150554/16_copen_robe_140619013-600x400.jpg?v=1771653955",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09174202/245ffe702726465644df2e8d3705b3c7-600x400.jpeg?v=1780994523"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:56.434Z"
+  },
+  "https://www.motor1.com/news/798253/salesman-used-honda-four-seconds/": {
+    "title_zh": "销售员称“见过最快的拒绝”：顾客 4.2 秒决定不买二手本田",
+    "summary_short": "一位顾客仅用 4.2 秒就拒绝了一辆二手本田，销售员称这是见过最快的拒绝。",
+    "summary_long": "一位潜在买家在查看一辆二手本田时，仅用了 4.2 秒就决定不购买。销售员 Greg Got Cars 记录下这一过程，称这是“见过最快的拒绝”。视频显示，顾客打开引擎盖后迅速关闭，并感谢销售员后离开。网友认为顾客的拒绝是明智的。",
+    "highlights_zh": [
+      "顾客 4.2 秒拒绝二手本田",
+      "销售员称最快拒绝",
+      "顾客打开引擎盖后迅速离开"
+    ],
+    "entities": [
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OxXg/s1/salesman-shows-man-a-used-honda.-4.2-seconds-later-he-walks-away.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:58.704Z"
+  },
+  "https://www.motor1.com/news/798338/autozone-customer-chatgpt/": {
+    "title_zh": "顾客在 AutoZone 咨询后，又向 ChatGPT 寻求二次意见",
+    "summary_short": "AutoZone 顾客不信任店员推荐，转而向 ChatGPT 求证，引发员工共鸣。",
+    "summary_long": "一名 AutoZone 顾客向店员咨询如何提升燃油经济性，店员推荐了 Lucas 燃油添加剂，但顾客并不信任，随即掏出手机向 ChatGPT 寻求二次意见。这一行为被店员拍下并分享，引发其他 AutoZone 员工的共鸣，感叹顾客更相信 AI 而非专业建议。",
+    "highlights_zh": [
+      "顾客不信任店员推荐",
+      "转而向 ChatGPT 求证",
+      "店员感到无奈与共鸣"
+    ],
+    "entities": [
+      "AutoZone",
+      "Lucas",
+      "ChatGPT"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnzPZZ/s1/man-asks-autozone-worker-a-question.-the-worker-recommends-lucas.-then-the-man-asks-chatgpt-for-a-second-opinion.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:01:59.862Z"
+  },
+  "https://www.motor1.com/news/798273/woman-buys-volkswagen-tiguan/": {
+    "title_zh": "女子全款购买大众 Tiguan，两个月后仍未提车",
+    "summary_short": "一名女子全款 3 万美元购买二手大众 Tiguan，但两个月后仍未收到车，她将经历发到网上引发关注。",
+    "summary_long": "一名女子在 4 月 16 日试驾了一辆二手大众 Tiguan，4 月 20 日向经销商支付了 3 万美元全款。然而直到 6 月 5 日，她仍未收到车辆。她将这段经历发布在 TikTok 上，引发网友讨论。",
+    "highlights_zh": [
+      "4 月 20 日支付 3 万美元全款",
+      "截至 6 月 5 日仍未提车",
+      "购车经历被发到 TikTok"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "Tiguan"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N41zz/s1/woman-buys-volkswagen-tiguan-outright.-two-months-later-the-dealership-still-hasn-t-handed-it-over.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:02:01.830Z"
+  },
+  "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery/": {
+    "title_zh": "道奇 Charger EV 原型车搭载实验性半固态电池",
+    "summary_short": "Stellantis 开始路测半固态电池，搭载于道奇 Charger EV，能量密度达 375 Wh/kg，充电 15-90% 仅需 18 分钟。",
+    "summary_long": "Stellantis 宣布已开始对半固态电池进行真实世界测试，测试车辆为道奇 Charger Daytona EV。该车搭载了来自 Factorial Energy 的 FEST 电芯，能量密度达 375 Wh/kg，远超传统锂离子电池的 200-300 Wh/kg。电池可在 18 分钟内从 15% 充至 90%，工作温度范围覆盖 -22°F 至 113°F。Stellantis 表示，这一里程碑将半固态电池技术推向客户，有望实现更长续航、更快充电和更低成本。",
+    "highlights_zh": [
+      "Stellantis 开始路测半固态电池",
+      "搭载于道奇 Charger Daytona EV",
+      "能量密度 375 Wh/kg",
+      "工作温度范围 -22°F 至 113°F"
+    ],
+    "entities": [
+      "Stellantis",
+      "道奇 | Dodge",
+      "Charger Daytona EV",
+      "Factorial Energy",
+      "半固态电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WERvK/s1/stellantis-factorial-dodge-charger-daytona-ev-factorial-solid-state-battery.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:02:04.253Z"
+  },
+  "https://www.thedrive.com/news/ford-ceo-jim-farleys-right-to-repair-comment-should-make-every-car-owner-uncomfortable": {
+    "title_zh": "福特 CEO Jim Farley 的维修权言论让车主不安",
+    "summary_short": "福特 CEO 称现代汽车过于复杂，DIY 维修不现实，但若车企垄断维修权，独立修理厂将消失，车主只能选择高价经销商。",
+    "summary_long": "福特 CEO Jim Farley 在参与白宫“维修权”讨论后表示，现代汽车过于复杂，不适合 DIY 爱好者。然而，维修权之争的核心在于：如果车企垄断维修数据与工具，独立修理厂将无法生存，车主最终只能依赖经销商，面临更高的维修费用。Farley 的言论暗示车企倾向于限制维修权，这引发了消费者和独立维修行业的担忧。",
+    "highlights_zh": [
+      "福特 CEO 称现代汽车太复杂",
+      "维修权之争关乎独立修理厂存亡",
+      "若车企垄断维修"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Jim Farley",
+      "维修权 | Right to Repair",
+      "独立修理厂"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Farley-and-Bronco.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/20231005-Rivian-R1T-Dent.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:02:05.873Z"
+  },
+  "https://www.motor1.com/news/798495/new-fiat-models-2026/": {
+    "title_zh": "菲亚特即将推出 5 款新车型",
+    "summary_short": "菲亚特计划在 2026 至 2030 年间推出 13 款新车型，其中至少 5 款已确认，包括紧凑型 SUV Grizzly 等。",
+    "summary_long": "菲亚特作为 Stellantis 四大核心全球品牌之一，正加速产品线扩张。从 2026 年到 2030 年，该品牌计划推出 13 款新车型，其中至少 5 款已明确。这些车型覆盖城市车、紧凑型掀背车、SUV、皮卡和微型车等细分市场。最新亮相的菲亚特 Grizzly 是一款紧凑型 SUV，设计灵感来自 Grande Panda，基于 Stellantis Smart Car 平台，提供汽油、轻混和纯电多种动力。",
+    "highlights_zh": [
+      "菲亚特计划 2026-2030 年推出 13 款新车",
+      "至少 5 款已确认",
+      "Grizzly 基于 Smart Car 平台",
+      "设计灵感源自 Grande Panda"
+    ],
+    "entities": [
+      "菲亚特 | Fiat",
+      "Grizzly",
+      "Stellantis",
+      "Smart Car 平台",
+      "Grande Panda"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJRV0/s1/new-fiat-models-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:02:08.463Z"
+  },
+  "https://www.motor1.com/news/798486/mitsubishi-pajero-ralliart-off-road-variant/": {
+    "title_zh": "三菱全新帕杰罗或将推出 Ralliart 高性能越野版",
+    "summary_short": "三菱确认复活帕杰罗，基于 Triton 皮卡平台打造，有望推出 Ralliart 高性能越野版本，重燃越野与拉力传奇。",
+    "summary_long": "三菱正式宣布复活帕杰罗（Pajero），新车将于今年秋季首发，采用梯形大梁结构，定位硬派越野 SUV。在采访中，三菱澳大利亚产品战略总经理 Bruce Hampel 表示“很乐意看到 Pajero Ralliart”。Ralliart 成立于 1984 年，曾与斯巴鲁 STI 激烈竞争，后因财务压力于 2010 年缩减业务，2020 年重新复活。Hampel 强调，三菱与拉力赛的深厚渊源（如帕杰罗达喀尔、蓝瑟 EVO WRC）是品牌重燃激情的关键。全新帕杰罗将基于 Triton 皮卡平台，配备专属悬架、内饰及四驱系统，成为三菱旗舰车型。",
+    "highlights_zh": [
+      "三菱确认复活帕杰罗",
+      "基于 Triton 皮卡梯形大梁平台",
+      "有望推出 Ralliart 高性能越野版",
+      "Ralliart 曾与斯巴鲁 STI 竞争"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "Ralliart",
+      "Triton",
+      "达喀尔拉力赛"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJMxp/s1/mitsubishi-ralliart.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:02:11.782Z"
+  },
+  "https://www.thedrive.com/news/a-rivian-fender-bender-cost-42000-its-ceo-says-that-should-never-happen": {
+    "title_zh": "Rivian 轻微碰撞维修费高达 4.2 万美元，CEO 称不应发生",
+    "summary_short": "Rivian CEO 表示轻微碰撞不应花费数万美元，解释因铝制车身和一体式侧围设计导致维修昂贵。",
+    "summary_long": "Rivian 的轻微碰撞事故维修费用可高达 4.2 万美元，CEO RJ Scaringe 认为这极不合理。他在采访中指出，R1 车型维修昂贵的主要原因在于采用铝制车身和一体式侧围设计，一旦后翼子板受损，可能需要切割并重新焊接面板，导致成本高昂。",
+    "highlights_zh": [
+      "轻微碰撞维修费高达 4.2 万美元",
+      "CEO 称任何碰撞维修都不应花费数万美元",
+      "铝制车身和一体式侧围是主因",
+      "后翼子板损坏需切割焊接"
+    ],
+    "entities": [
+      "Rivian",
+      "R1",
+      "RJ Scaringe",
+      "铝制车身",
+      "一体式侧围"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/20231005-Rivian-R1T-Dent.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Farley-and-Bronco.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:02:12.531Z"
+  },
+  "https://www.motor1.com/news/798480/more-bmw-wagon-options-coming/": {
+    "title_zh": "宝马或为美国带来更多旅行车：将研究 Touring 概念",
+    "summary_short": "宝马北美产品规划团队正研究为美国市场引入更多旅行车，M5 Touring 销量超预期，与轿车接近五五开。",
+    "summary_long": "宝马北美产品规划副总裁 Michael Keller 表示，M5 Touring 在美国的销量超出预期，与轿车版几乎持平，这促使宝马考虑引入更多旅行车。Keller 称将研究适合美国市场的 Touring 概念，并注意到消费者对 M3 Touring 的请愿。此前宝马认为引入 M5 Touring 是更合理的选择，但未来可能根据需求调整。",
+    "highlights_zh": [
+      "M5 Touring 销量超预期",
+      "宝马将研究更多旅行车引入美国",
+      "消费者请愿引入 M3 Touring",
+      "宝马称 M5 Touring 是更合理选择"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M5 Touring",
+      "M3 Touring",
+      "旅行车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKEQX9/s1/bmw-m3-cs-touring-2025.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T05:02:16.242Z"
   }
 }

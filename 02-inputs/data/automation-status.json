@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-11T17:02:34.588Z",
+    "generated_at": "2026-06-12T05:01:12.034Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 365,
-    "deepseek_untranslated_before_run": 35,
-    "newly_fetched_articles": 35,
-    "newly_fetched_untranslated": 35,
+    "deepseek_translated_before_run": 374,
+    "deepseek_untranslated_before_run": 26,
+    "newly_fetched_articles": 26,
+    "newly_fetched_untranslated": 26,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 35,
+    "translation_queue_count": 26,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "The Open-World Monaco in ‘Clutch’ Looks Breathtaking",
-        "url": "https://www.thedrive.com/news/the-open-world-monaco-in-clutch-looks-breathtaking"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.11",
-        "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
-        "url": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "Rivian Heard You Complaining About Touchscreens So It Over-Engineered Scroll Wheels",
-        "url": "https://www.thedrive.com/news/rivian-heard-you-complaining-about-touchscreens-so-it-over-engineered-scroll-wheels"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.11",
-        "title": "BYD's New PHEV Hatchback Could Supercharge Its European Takeover",
-        "url": "https://insideevs.com/news/798473/byd-dolphin-g-phev-europe/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "Jeep Will Give Away 100 Wranglers if America Suddenly Gets Good at Soccer",
-        "url": "https://www.thedrive.com/news/jeep-will-give-away-100-wranglers-if-america-suddenly-gets-good-at-soccer"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.11",
-        "title": "BYD Says It Will Be The World's Largest Automaker In 5 Years. The Pentagon Is Nervous",
-        "url": "https://insideevs.com/news/798397/pentagon-byd-largest-automaker-soon/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "F1 Power Unit Changes Are a Step in the Right Direction. But Are They Enough?",
-        "url": "https://www.thedrive.com/news/f1-power-unit-changes-are-a-step-in-the-right-direction-but-are-they-enough"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.11",
-        "title": "Ford Recalls Half A Million SUVs Over Potential Interior Safety Issue",
-        "url": "https://www.motor1.com/news/798464/ford-expedition-recall-peeling-chrome-trim/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "Fast and Furious Supra, Back to the Future DeLorean, and More Movie Cars Sneak Into One Nostalgic Universe Here",
-        "url": "https://www.thedrive.com/news/new-stuntman-hollywood-trailer-is-the-most-satisfying-car-video-ive-seen-this-year"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "2027 Mercedes-Benz CLA350 EV Quick Review: At Least It’s Efficient",
-        "url": "https://www.thedrive.com/car-reviews/2027-mercedes-benz-cla-350-ev-quick-review"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.11",
-        "title": "A Forgotten Italian Automaker Is Back With A New Sports Car",
-        "url": "https://www.motor1.com/news/798458/new-italian-sports-car/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "Ford Trucks Finally Got Their Aluminum Supply Back After a 9-Month Drought: TDS",
-        "url": "https://www.thedrive.com/news/ford-trucks-finally-got-their-aluminum-supply-back-after-a-9-month-drought-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.11",
-        "title": "The Cars Americans Drive The Most—And The Least",
-        "url": "https://www.motor1.com/news/798382/most-driven-least-driven-cars-america/"
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "「アウディ ツイン カップ 2026 ジャパン ファイナル」、4部門の日本代表が決定…7月に世界大会予備予選へ",
+        "url": "https://response.jp/article/2026/06/12/412604.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.11",
-        "title": "「めっちゃ乗りたい！」BMWの高性能クーペ『M2』初の4WDモデルにSNS興奮！「可愛い色だな！」の声も",
-        "url": "https://response.jp/article/2026/06/11/412578.html"
+        "time": "2026.6.12",
+        "title": "『ジムニー』がアメリカンクラシックに変身！ アルパインスタイルのカスタムカー『ベアス』が「5型」ベースに進化、338万円から",
+        "url": "https://response.jp/article/2026/06/12/412597.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第783回",
+        "url": "https://bestcarweb.jp/feature/column/1532415"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "9月の法規改正に対応！ 三菱ふそうキャンターが電動パーキングブレーキを標準装備！",
+        "url": "https://bestcarweb.jp/fullload/1545969"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.11",
-        "title": "『ジムニーノマド』を40mmリフトアップ、テインから4WD用「4x4ダンパースポーツ」発売",
-        "url": "https://response.jp/article/2026/06/11/412575.html"
+        "time": "2026.6.12",
+        "title": "EV車載充電器や高電圧DC-DCコンバーターに、1200V SiC MOSFETにQDPAKパッケージ発売…ネクスペリア",
+        "url": "https://response.jp/article/2026/06/12/412608.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.11",
-        "title": "EV充電器を全入居者に、Eneliverが費用負担ゼロで実現…東京世田谷区の分譲マンション",
-        "url": "https://response.jp/article/2026/06/11/412568.html"
+        "time": "2026.6.12",
+        "title": "MINI柏、移転オープン…つくばエクスプレス柏の葉キャンパス駅徒歩圏に",
+        "url": "https://response.jp/article/2026/06/12/412603.html"
       },
       {
-        "source": "The Drive",
-        "time": "2026.6.11",
-        "title": "Growing Pains: The Anatomy of Audi’s Rocky F1 Start",
-        "url": "https://www.thedrive.com/news/growing-pains-the-anatomy-of-audi-rocky-f1-start"
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "NTNの移動型独立電源「N3エヌキューブ」、自衛隊設備に初採用…小型風車と太陽光パネルによる再生可能エネルギーのみで稼働",
+        "url": "https://response.jp/article/2026/06/12/412600.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "SDV・ADAS・脱レアアース・二輪EV、アステモが描く次世代モビリティの5つの柱…人とくるまのテクノロジー展2026",
+        "url": "https://response.jp/article/2026/06/12/412606.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "アルプスアルパイン、厚さ1.55mmの超薄型haptic reactor開発…各種タッチパネル機器などに",
+        "url": "https://response.jp/article/2026/06/12/412598.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "エルグランドこそ高級ミニバン市場の開拓者!! でもアルファード／ヴェルファイアの牙城は崩せるのか!?!?",
+        "url": "https://bestcarweb.jp/feature/column/1528074"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "オリックスカーシェア、アプリとサービスサイトを6月16日全面リニューアル…入会からスマホ完結に",
+        "url": "https://response.jp/article/2026/06/12/412602.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "カローラクロスサイズのイタリアンSUV！ しかもハイブリッド!! 新型アルファロメオ トナーレ登場",
+        "url": "https://bestcarweb.jp/feature/column/1530270"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "クルマ好きが行きつくのは軽トラ!? MTならボケ防止にもなる!! スズキスーパーキャリイを終活車としておススメする理由",
+        "url": "https://bestcarweb.jp/feature/column/1546596"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "スバル『BRZ』に2027年モデル、最新アイサイト搭載…今秋米国発売へ",
+        "url": "https://response.jp/article/2026/06/12/412605.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "スバル株価が独歩高、『アセント』日本市場投入か？…今週のビジネス記事ランキング",
+        "url": "https://response.jp/article/2026/06/12/412585.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "セレナのプロパイロットはどこまで便利？ 高速道路で効く家族ミニバンの先進装備",
+        "url": "https://bestcarweb.jp/feature/column/1541773"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "ダイハツ コペンの魅力は電動オープンだけじゃない!! 2026年8月生産終了前に知りたい“指名買い”の理由",
+        "url": "https://bestcarweb.jp/feature/column/1527718"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.12",
+        "title": "'Fastest No I’ve Ever Seen': Salesman Shows Man A Used Honda. Then The Customer Decides In 4.2 Seconds",
+        "url": "https://www.motor1.com/news/798253/salesman-used-honda-four-seconds/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.11",
-        "title": "Mercedes Is Building An 'Extreme' CLE With A V8—Here's Everything We Know Everything We Know",
-        "url": "https://www.motor1.com/features/793624/mercedes-cle63-v8-horsepower-engine-details/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.11",
-        "title": "SDV時代の自動車企画・開発変革を支援、フレームワーク「D-TRAX」開発…電通総研",
-        "url": "https://response.jp/article/2026/06/11/412567.html"
+        "title": "Man Asks Autozone Worker A Question. The Worker Recommends Lucas. Then The Man Asks ChatGPT For A Second Opinion",
+        "url": "https://www.motor1.com/news/798338/autozone-customer-chatgpt/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.11",
-        "title": "The Three Types Of Automatic Transmissions—And How They Actually Work From torque converters to dual-clutch and CVTs, modern automatics take very different paths to the same job.",
-        "url": "https://www.motor1.com/features/798467/automatic-transmission-types-explained/"
+        "title": "Woman Buys Volkswagen Tiguan. Two Months Later, The Dealership Still Hasn’t Handed It Over: 'Handed A Big, Fat, $30,000 Check'",
+        "url": "https://www.motor1.com/news/798273/woman-buys-volkswagen-tiguan/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27363744391",
-    "sha": "809d3a7a0c4fd41c7dacedc9d4657b1d53fabbed",
-    "completed_at": "2026-06-11T17:03:54.117Z",
+    "run_id": "27395604185",
+    "sha": "fef1308869cae1533ec0736fa2cb2a2bd32e5c6f",
+    "completed_at": "2026-06-12T05:02:16.480Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 35,
-    "queued_articles": 35,
-    "processed": 35,
-    "started_at": "2026-06-11T17:02:34.909Z",
-    "finished_at": "2026-06-11T17:03:53.845Z",
+    "scoped_articles": 26,
+    "queued_articles": 26,
+    "processed": 26,
+    "started_at": "2026-06-12T05:01:12.322Z",
+    "finished_at": "2026-06-12T05:02:16.250Z",
     "success": true,
     "error": ""
   }
