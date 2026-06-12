@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-12T05:01:12.034Z",
+    "generated_at": "2026-06-12T16:28:38.044Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 374,
-    "deepseek_untranslated_before_run": 26,
-    "newly_fetched_articles": 26,
-    "newly_fetched_untranslated": 26,
+    "deepseek_translated_before_run": 373,
+    "deepseek_untranslated_before_run": 27,
+    "newly_fetched_articles": 27,
+    "newly_fetched_untranslated": 27,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 26,
+    "translation_queue_count": 27,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.12",
-        "title": "「アウディ ツイン カップ 2026 ジャパン ファイナル」、4部門の日本代表が決定…7月に世界大会予備予選へ",
-        "url": "https://response.jp/article/2026/06/12/412604.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "『ジムニー』がアメリカンクラシックに変身！ アルパインスタイルのカスタムカー『ベアス』が「5型」ベースに進化、338万円から",
-        "url": "https://response.jp/article/2026/06/12/412597.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第783回",
-        "url": "https://bestcarweb.jp/feature/column/1532415"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "9月の法規改正に対応！ 三菱ふそうキャンターが電動パーキングブレーキを標準装備！",
-        "url": "https://bestcarweb.jp/fullload/1545969"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "EV車載充電器や高電圧DC-DCコンバーターに、1200V SiC MOSFETにQDPAKパッケージ発売…ネクスペリア",
-        "url": "https://response.jp/article/2026/06/12/412608.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "MINI柏、移転オープン…つくばエクスプレス柏の葉キャンパス駅徒歩圏に",
-        "url": "https://response.jp/article/2026/06/12/412603.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "NTNの移動型独立電源「N3エヌキューブ」、自衛隊設備に初採用…小型風車と太陽光パネルによる再生可能エネルギーのみで稼働",
-        "url": "https://response.jp/article/2026/06/12/412600.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "SDV・ADAS・脱レアアース・二輪EV、アステモが描く次世代モビリティの5つの柱…人とくるまのテクノロジー展2026",
-        "url": "https://response.jp/article/2026/06/12/412606.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "アルプスアルパイン、厚さ1.55mmの超薄型haptic reactor開発…各種タッチパネル機器などに",
-        "url": "https://response.jp/article/2026/06/12/412598.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "エルグランドこそ高級ミニバン市場の開拓者!! でもアルファード／ヴェルファイアの牙城は崩せるのか!?!?",
-        "url": "https://bestcarweb.jp/feature/column/1528074"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "オリックスカーシェア、アプリとサービスサイトを6月16日全面リニューアル…入会からスマホ完結に",
-        "url": "https://response.jp/article/2026/06/12/412602.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "カローラクロスサイズのイタリアンSUV！ しかもハイブリッド!! 新型アルファロメオ トナーレ登場",
-        "url": "https://bestcarweb.jp/feature/column/1530270"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "クルマ好きが行きつくのは軽トラ!? MTならボケ防止にもなる!! スズキスーパーキャリイを終活車としておススメする理由",
-        "url": "https://bestcarweb.jp/feature/column/1546596"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "スバル『BRZ』に2027年モデル、最新アイサイト搭載…今秋米国発売へ",
-        "url": "https://response.jp/article/2026/06/12/412605.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "スバル株価が独歩高、『アセント』日本市場投入か？…今週のビジネス記事ランキング",
-        "url": "https://response.jp/article/2026/06/12/412585.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "セレナのプロパイロットはどこまで便利？ 高速道路で効く家族ミニバンの先進装備",
-        "url": "https://bestcarweb.jp/feature/column/1541773"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "ダイハツ コペンの魅力は電動オープンだけじゃない!! 2026年8月生産終了前に知りたい“指名買い”の理由",
-        "url": "https://bestcarweb.jp/feature/column/1527718"
+        "title": "The BMW M Concept Neue Klasse Is the Best Looking M Car in Years",
+        "url": "https://www.thedrive.com/news/the-bmw-m-concept-neue-klasse-is-the-best-looking-m-car-in-years"
       },
       {
         "source": "Motor1",
         "time": "2026.6.12",
-        "title": "'Fastest No I’ve Ever Seen': Salesman Shows Man A Used Honda. Then The Customer Decides In 4.2 Seconds",
-        "url": "https://www.motor1.com/news/798253/salesman-used-honda-four-seconds/"
+        "title": "Genesis Teases Its Racing Future With A Crazy New Concept",
+        "url": "https://www.motor1.com/news/798590/genesis-magma-gt3-concept-racing/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.12",
+        "title": "Rivian’s CEO Says There’s a Big Market for a Small Electric Truck",
+        "url": "https://www.thedrive.com/news/rivians-ceo-says-theres-a-big-market-for-a-small-electric-truck"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.12",
+        "title": "Ford Says 405-HP Ranger Raptor ‘Might Already Have Too Much Power’: TDS",
+        "url": "https://www.thedrive.com/news/ford-says-405-hp-ranger-raptor-might-already-have-too-much-power-tds"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.12",
+        "title": "Rivian’s CEO Says RAD Vehicles Will Be Fundamentally Different",
+        "url": "https://www.thedrive.com/news/rivians-ceo-says-rad-vehicles-will-be-fundamentally-different"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.11",
-        "title": "Man Asks Autozone Worker A Question. The Worker Recommends Lucas. Then The Man Asks ChatGPT For A Second Opinion",
-        "url": "https://www.motor1.com/news/798338/autozone-customer-chatgpt/"
+        "time": "2026.6.12",
+        "title": "BMW Just Revealed The Future Of The M3",
+        "url": "https://www.motor1.com/news/798518/bmw-electric-m3-concept/"
       },
       {
-        "source": "Motor1",
-        "time": "2026.6.11",
-        "title": "Woman Buys Volkswagen Tiguan. Two Months Later, The Dealership Still Hasn’t Handed It Over: 'Handed A Big, Fat, $30,000 Check'",
-        "url": "https://www.motor1.com/news/798273/woman-buys-volkswagen-tiguan/"
+        "source": "The Drive",
+        "time": "2026.6.12",
+        "title": "Over the Hill Preview: Virtual Off-Roading That Will Lower Your Blood Pressure",
+        "url": "https://www.thedrive.com/news/over-the-hill-preview-virtual-off-roading-that-will-lower-your-blood-pressure"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.12",
+        "title": "The Electric BMW M3 Is Coming. Here's What It Might Look Like",
+        "url": "https://insideevs.com/news/798551/bmw-m3-ev-concept-reveal/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.12",
+        "title": "The Rivian R2 Is Now Shipping With A Rare Accessory The Competition Forgot Existed",
+        "url": "https://insideevs.com/news/798568/rivian-r2-rare-accessory/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "「セダン乗るならこれかも」レクサス『ES』新型発表！ SNSでは「最高のショーファードリブン」の声も",
+        "url": "https://response.jp/article/2026/06/12/412630.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "「ミニ」の丸い有機ELセンターディスプレイは使いやすい？ 新世代インテリアの魅力をチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1538988"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "「単体サブウーファー」は手間がかかる…、にもかかわらず一番人気なのはなぜ？［低音を制する者はカーオーディオを制す］",
+        "url": "https://response.jp/article/2026/06/12/412626.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "450万円のランクルってバグでしょ!! 新型ランドクルーザーFJは“小さい本格派”で本当に買いなのか",
+        "url": "https://bestcarweb.jp/feature/column/1536408"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "90kW急速充電器、京浜急行バス久里浜営業所に設置完了…分離型充電器を複数セット運用で効率化",
+        "url": "https://response.jp/article/2026/06/12/412620.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "991.2型ポルシェ911 GT3 RSを精密再現！ 本物は買えなくても1/18モデルに注目！",
+        "url": "https://bestcarweb.jp/news/1541703"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.12",
+        "title": "Genesis Is Going GT3 Racing, and Here’s Its Race Car Concept",
+        "url": "https://www.thedrive.com/news/it-looks-like-genesis-is-preparing-to-go-gt3-racing-and-heres-its-race-car-concept"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "HKS「GT2 S/C×CAIアダプターキット」発売、『GR86/BRZ』でスーパーチャージャーとコールドエアインテークの併用が可能に",
+        "url": "https://response.jp/article/2026/06/12/412631.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "NTT主導、フォトニクス・AI半導体スタートアップに投資…「IOWN AI Fund」組成",
+        "url": "https://response.jp/article/2026/06/12/412616.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.12",
+        "title": "ヴァレオとCalyos、二相冷却チップを共同開発へ…電動化やAIの進展で高まる熱管理の課題に対応",
+        "url": "https://response.jp/article/2026/06/12/412624.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.12",
+        "title": "クルマ好きおじさんの終活車！ やせ我慢はもうしない!! 180万円から買える3L直6のFRクーペ「BMW235i」が最高な訳",
+        "url": "https://bestcarweb.jp/news/entame/1546313"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27395604185",
-    "sha": "fef1308869cae1533ec0736fa2cb2a2bd32e5c6f",
-    "completed_at": "2026-06-12T05:02:16.480Z",
+    "run_id": "27428801574",
+    "sha": "34768dffb6d854d7c7e2693862cc304eb3ee4b1f",
+    "completed_at": "2026-06-12T16:29:41.054Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 26,
-    "queued_articles": 26,
-    "processed": 26,
-    "started_at": "2026-06-12T05:01:12.322Z",
-    "finished_at": "2026-06-12T05:02:16.250Z",
+    "scoped_articles": 27,
+    "queued_articles": 27,
+    "processed": 27,
+    "started_at": "2026-06-12T16:28:38.336Z",
+    "finished_at": "2026-06-12T16:29:40.803Z",
     "success": true,
     "error": ""
   }

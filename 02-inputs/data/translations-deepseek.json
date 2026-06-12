@@ -33009,5 +33009,641 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-12T05:02:16.242Z"
+  },
+  "https://www.thedrive.com/news/the-bmw-m-concept-neue-klasse-is-the-best-looking-m-car-in-years": {
+    "title_zh": "宝马 M Concept Neue Klasse：多年来最漂亮的 M 车型",
+    "summary_short": "宝马发布 M Concept Neue Klasse，预览电动 M3 设计，采用激进宽体与赛车元素，同时确认下一代 M3 将保留燃油版。",
+    "summary_long": "宝马 M Concept Neue Klasse 首次将 Neue Klasse 设计语言应用于运动轿车，展示了电动 M3 的外观方向。概念车采用夸张的宽体轮拱、方形赛道灯和黄色日行灯等赛车化元素，灵感源自勒芒耐力赛。尽管主打电动，宝马确认下一代 M3 仍将提供燃油版。电动版将配备四轮独立电机和新型电池化学，支持更快充电与能量回收。",
+    "highlights_zh": [
+      "宝马发布 M Concept Neue Klasse",
+      "采用宽体轮拱、赛道灯等赛车化设计",
+      "确认下一代 M3 将同时提供燃油版",
+      "电动版配备四轮电机与新型电池技术"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M3",
+      "Neue Klasse",
+      "勒芒 24 小时耐力赛"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/P90643902-highRes-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/P90643898-highRes-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/P90643884-highRes-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:42.844Z"
+  },
+  "https://www.motor1.com/news/798590/genesis-magma-gt3-concept-racing/": {
+    "title_zh": "Genesis Magma GT3 概念车：赛车未来预告",
+    "summary_short": "Genesis 发布 Magma GT3 概念车，基于 GT 打造，拥有巨大尾翼和加宽轮距，预示品牌赛车未来。",
+    "summary_long": "Genesis 与 Hyundai Motorsport 合作推出 Magma GT3 概念车，这是一项独立研究，旨在探索赛车架构、空气动力学和工程原理如何影响未来 Genesis 性能车型。该车采用性能优先设计，符合 GT3 技术规格，拥有加宽轮距、大型前分流器和扩大进气口，以及门板鳍片、固定尾翼和后扩散器以优化空气动力学与热管理。目前该概念仍处于探索阶段。",
+    "highlights_zh": [
+      "基于 GT 打造",
+      "加宽轮距、巨大尾翼和分流器",
+      "与 Hyundai Motorsport 合作开发",
+      "探索赛车技术对量产车的影响"
+    ],
+    "entities": [
+      "Genesis",
+      "Magma GT3",
+      "Hyundai Motorsport",
+      "GT3",
+      "概念车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzj6W/s1/genesis-magma-gt3-concept-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:43.264Z"
+  },
+  "https://www.thedrive.com/news/rivians-ceo-says-theres-a-big-market-for-a-small-electric-truck": {
+    "title_zh": "Rivian CEO：小型电动皮卡市场巨大",
+    "summary_short": "Rivian CEO RJ Scaringe 表示小型电动皮卡市场机会巨大，但 R2T 短期内不会推出。",
+    "summary_long": "Rivian CEO RJ Scaringe 在接受 The Drive 采访时表示，小型电动皮卡存在巨大市场机会。他指出，当前电动产品中许多细分市场尚未被开发，例如真正的中型 SUV 和小型皮卡。Scaringe 强调，Rivian 的 R3 和 R4 车型将面向这些领域，但小型皮卡 R2T 不会很快推出。",
+    "highlights_zh": [
+      "小型电动皮卡市场机会巨大",
+      "R2T 短期内不会推出",
+      "中型 SUV 市场也未被充分开发",
+      "R3 和 R4 将面向新细分市场"
+    ],
+    "entities": [
+      "Rivian",
+      "RJ Scaringe",
+      "R1T",
+      "R2T",
+      "R3"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/gemini-rendering-rivian-r2t.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Farley-and-Bronco.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:46.261Z"
+  },
+  "https://www.thedrive.com/news/ford-says-405-hp-ranger-raptor-might-already-have-too-much-power-tds": {
+    "title_zh": "福特称 Ranger Raptor 的 405 马力可能已经过剩",
+    "summary_short": "福特表示 Ranger Raptor 的 405 马力可能已经过剩，暂无推出更硬核 Raptor R 版本的计划。",
+    "summary_long": "福特高性能车部门首席工程师 Carl Widmann 表示，Ranger Raptor 的 405 马力可能已经过剩，因此公司暂无计划推出更硬核的 Ranger Raptor R 或 Bronco Raptor R 版本。此外，福特将召回超过 50 万辆 2018-2024 款 Expedition SUV，原因是中控台镀铬装饰可能起泡剥落，产生锋利边缘伤及乘客。",
+    "highlights_zh": [
+      "福特称 Ranger Raptor 的 405 马力…",
+      "暂无 Ranger Raptor R 或 Bronc…",
+      "福特将召回超 50 万辆 Expedition SU…"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Ranger Raptor",
+      "Bronco Raptor",
+      "Expedition"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/02/2025-ford-ranger-raptor-review-jerry-perez-8.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Farley-and-Bronco.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:46.553Z"
+  },
+  "https://www.thedrive.com/news/rivians-ceo-says-rad-vehicles-will-be-fundamentally-different": {
+    "title_zh": "Rivian CEO：RAD 车型将进行根本性硬件升级",
+    "summary_short": "Rivian CEO 表示，其高性能部门 RAD 的车型将进行实质性硬件改造，而非仅贴标，旨在重新定义性能车。",
+    "summary_long": "Rivian CEO RJ Scaringe 透露，其秘密高性能部门 RAD（Rivian Adventure Department）的车型将进行根本性硬件升级，而非仅更换徽章。这些改变将提升车辆性能，融合赛车灵感与冒险能力，重新定义性能车。",
+    "highlights_zh": [
+      "RAD 车型将进行实质性硬件改造",
+      "非仅贴标或外观升级",
+      "融合赛车灵感与冒险能力",
+      "重新定义性能车"
+    ],
+    "entities": [
+      "Rivian",
+      "RAD",
+      "RJ Scaringe"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2024/03/08/1.png",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Farley-and-Bronco.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:49.283Z"
+  },
+  "https://www.motor1.com/news/798518/bmw-electric-m3-concept/": {
+    "title_zh": "宝马 M3 电动化未来揭晓",
+    "summary_short": "宝马发布 M Concept Neue Klasse 概念车，预览明年量产的电动 M3，采用四电机驱动和激进设计。",
+    "summary_long": "宝马在勒芒赛上发布了 M Concept Neue Klasse 概念车，预览将于明年推出的电动 M3。该车基于 2027 款 i3 电动轿车，配备四电机驱动系统，外观采用夸张的轮拱、V 形引擎盖通风口、前分流器和后扩散器，这些部件由天然纤维复合材料制成。设计上融合了鲨鱼鼻前脸和鸭尾扰流板等经典元素，并配有中心锁止轮毂和赛车风格后视镜。",
+    "highlights_zh": [
+      "四电机驱动系统",
+      "天然纤维复合材料部件",
+      "鲨鱼鼻前脸与鸭尾设计",
+      "基于 2027 款 i3 平台"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M3",
+      "i3",
+      "M Concept Neue Klasse",
+      "电动轿车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Qe7V81/s1/bmw-m-concept-neue-klasse-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:50.869Z"
+  },
+  "https://www.thedrive.com/news/over-the-hill-preview-virtual-off-roading-that-will-lower-your-blood-pressure": {
+    "title_zh": "《Over the Hill》预览：一款能降低血压的虚拟越野游戏",
+    "summary_short": "《Over the Hill》是一款由《Art of Rally》创作者打造的越野冒险游戏，强调享受旅程与风景，而非复杂任务。",
+    "summary_long": "《Over the Hill》是《Art of Rally》创作者 Dune Casu 的新作，今日发布公开试玩版。游戏以越野穿越为主题，玩家需操作卡车应对地形挑战，但核心体验并非像《Snowrunner》那样强调复杂任务，而是更自由、放松的探索。游戏氛围宁静，配乐类似 C418 的《Minecraft》原声，旨在让玩家享受旅程与风景。",
+    "highlights_zh": [
+      "由《Art of Rally》创作者打造",
+      "强调放松与探索",
+      "氛围宁静",
+      "今日发布公开试玩版"
+    ],
+    "entities": [
+      "Over the Hill",
+      "Art of Rally",
+      "Snowrunner",
+      "Spintires",
+      "Minecraft"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/ss_a2e13f746b0b12f611af1c14033959aade0ca720.1920x1080.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/over-the-hill-6_12_2026-8_17_46-AM.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Sign-in-to-Steam-6_12_2026-8_17_00-AM.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:53.118Z"
+  },
+  "https://insideevs.com/news/798551/bmw-m3-ev-concept-reveal/": {
+    "title_zh": "电动宝马 M3 即将到来：外观预览",
+    "summary_short": "宝马首款电动 M 车型 i3 M 概念车在勒芒亮相，外观接近量产，但规格仍保密。",
+    "summary_long": "宝马在勒芒展示了 Neue Klasse M 概念车，这是对即将于 2027 年推出的电动 M3（即 i3 M）的预览。概念车外观与近期谍照中的伪装原型车高度相似，采用 M 车型特有的轮拱凸起、V 形引擎盖、鲨鱼鼻设计以及赛车风格黄色日行灯。尽管宝马未公布任何技术细节，但概念车揭示了量产版的设计方向，包括大型前分流器、后扩散器、鸭尾扰流板以及独特的 M 风格后视镜。",
+    "highlights_zh": [
+      "宝马首款电动 M 车型 i3 M 概念车亮相勒芒",
+      "外观接近量产",
+      "V 形引擎盖和鲨鱼鼻前脸增强攻击性",
+      "赛车风格黄色日行灯和大型空气动力学套件"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 i3 M | BMW i3 M",
+      "Neue Klasse M 概念车",
+      "电动 M3 | Electric M3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEAyV/s1/bmw-m-concept-neue-klasse-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:57.953Z"
+  },
+  "https://insideevs.com/news/798568/rivian-r2-rare-accessory/": {
+    "title_zh": "Rivian R2 标配罕见备胎，竞品早已遗忘",
+    "summary_short": "Rivian R2 上市，可选 755 美元备胎套件，包含紧凑型备胎、千斤顶和扳手，竞品多无此配置。",
+    "summary_long": "Rivian R2 已开始交付，并同步推出官方配件商店。其中一项独特配件是售价 755 美元的紧凑型备胎套件，包含备胎、手动千斤顶和扳手，可收纳于后备箱地板下。该备胎需充气至标准尺寸，因此车主需另备气泵。相比之下，特斯拉 Model Y、现代 Ioniq 5、福特 Mustang Mach-E、起亚 EV6 和雪佛兰 Equinox EV 等竞品均未提供备胎，仅配备补胎工具。R2 作为同级中少有的具备真正越野能力的电动 SUV，备胎的加入显得尤为合理。其他配件包括 5248 美元的 20 英寸全地形轮毂、4508 美元的 21 英寸四季轮毂、700 美元的车顶横杆等。",
+    "highlights_zh": [
+      "Rivian R2 可选 755 美元备胎套件",
+      "竞品如 Model Y、Ioniq 5 等均无备胎",
+      "备胎需充气",
+      "R2 是同级唯一真正适合越野的电动 SUV"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "特斯拉 Model Y | Tesla Model Y",
+      "现代 Ioniq 5 | Hyundai Ioniq 5",
+      "福特 Mustang Mach-E"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KWRO/s1/2027-rivian-r2-first-drive-on--and-off-road.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:28:58.515Z"
+  },
+  "https://bestcarweb.jp/feature/column/1538988": {
+    "title_zh": "Mini 圆形 OLED 中控屏好用吗？新一代内饰魅力实测",
+    "summary_short": "Mini 新一代车型采用圆形 OLED 中控屏，集仪表、导航、车辆设置于一体，操作直观且充满趣味。",
+    "summary_long": "Mini 新一代车型（Cooper、Aceman、Countryman）搭载了直径 240mm 的圆形 OLED 中控屏，取代传统仪表盘和导航屏幕。该屏幕不仅显示车速和行驶信息，还整合了导航、音频、车辆设置和驾驶辅助功能，成为操作核心。虽然圆形屏幕初看可能让人担心使用不便，但实际触控和滑动操作类似智能手机，菜单显示直观。配合 Mini Operating System 9 和语音助手“Hey Mini”，可通过语音控制导航、电话、空调等，兼顾实用性与品牌特有的玩乐精神。",
+    "highlights_zh": [
+      "圆形 OLED 屏直径 240mm",
+      "触控操作类似智能手机",
+      "支持“Hey Mini”语音控制导航、空调等",
+      "兼顾实用性与 Mini 特有的玩乐精神"
+    ],
+    "entities": [
+      "Mini",
+      "Cooper",
+      "Aceman",
+      "Countryman",
+      "Mini Operating System 9"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04175734/mini-F66-ICE-gallery-interior-wide_1.jpg?v=1780563455",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04175734/mini-F66-ICE-gallery-interior-wide_1-600x400.jpg?v=1780563455",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/24220817/00_s_Luftgekuhlt_002-600x400.jpg?v=1779628098"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:03.479Z"
+  },
+  "https://response.jp/article/2026/06/12/412630.html": {
+    "title_zh": "雷克萨斯全新 ES 发布：SNS 热议“最棒的司机座驾”",
+    "summary_short": "雷克萨斯发布第八代 ES，提供 HEV 和 BEV 两种动力，设计灵感源自次世代 BEV 主题，后座舒适性大幅提升。",
+    "summary_long": "雷克萨斯于 6 月 11 日通过全国经销商发布了全新第八代 ES 轿车。新车作为雷克萨斯次世代电动化阵容的先驱，同时提供混合动力（HEV）和纯电动（BEV）版本，以电动化技术追求更高的静谧性和乘坐舒适性。设计上汲取了次世代 BEV 设计主题“Provocative Simplicity”，内饰首次采用“Responsive Hidden Switch”将物理开关融入内饰，并配备六种氛围灯的“Interior Illumi Package”。新增的“Rr Comfort package”针对 ES350e 提供后座躺椅、脚托及副驾前倒功能，强化后座体验。动力方面，HEV 有 ES350h（FWD/AWD），BEV 有 ES350e（FWD）和 ES500e（AWD），ES350e 续航最大 670km，ES500e 续航 636km，150kW 快充下 10%-80%充电约 28 分钟。",
+    "highlights_zh": [
+      "第八代 ES 同时提供 HEV 和 BEV",
+      "设计主题“Provocative Simplicit…",
+      "后座舒适包带躺椅和脚托",
+      "ES350e 续航达 670km"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "ES",
+      "ES350e",
+      "ES500e",
+      "ES350h"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218191.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218191.jpg",
+      "https://response.jp/imgs/fill2/2218079.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:03.534Z"
+  },
+  "https://response.jp/article/2026/06/12/412626.html": {
+    "title_zh": "为何单装低音炮最费事却最受欢迎？",
+    "summary_short": "单装低音炮需自备箱体和功放，安装最复杂，但因型号丰富、音质可定制，成为资深玩家的首选。",
+    "summary_long": "在汽车音响中，低音炮用于弥补车门扬声器低频不足。单装低音炮是裸单元，需额外购买箱体和功放，安装门槛最高。然而，它拥有最丰富的产品线，深受资深爱好者青睐，是低音炮中最主流的选择。相比之下，家用音响用户多直接购买成品音箱。",
+    "highlights_zh": [
+      "单装低音炮是裸单元",
+      "安装最复杂",
+      "资深玩家首选",
+      "家用音响用户多买成品音箱"
+    ],
+    "entities": [
+      "单装低音炮",
+      "箱体",
+      "功放",
+      "低音炮"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217863.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217863.jpg",
+      "https://response.jp/imgs/fill2/2217862.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:08.013Z"
+  },
+  "https://bestcarweb.jp/feature/column/1536408": {
+    "title_zh": "450 万日元的兰德酷路泽是 BUG 吗？全新兰德酷路泽 FJ 是否真的值得购买",
+    "summary_short": "丰田兰德酷路泽 FJ 以 450 万日元起售，成为系列最便宜车型，小巧车身却保留硬派越野基因，性价比突出。",
+    "summary_long": "2026 年 5 月 14 日，丰田正式推出兰德酷路泽 FJ，起售价仅 450 万 100 日元（含税），成为兰德酷路泽系列中最便宜的车型。该车以“Freedom & Joy”为理念，旨在让更多人轻松享受兰德酷路泽的越野乐趣。车身尺寸紧凑（长 4575mm、宽 1855mm、高 1960mm），比兰德酷路泽 250 短 350mm、窄 125mm，但采用梯形车架、高张力钢板及加强结构，确保越野刚性和操控稳定性。标配电控后差速锁，兼顾日常实用性与硬派越野能力。",
+    "highlights_zh": [
+      "起售价 450 万日元",
+      "车身紧凑但保留梯形车架和电控后差速锁",
+      "比兰德酷路泽 250 短 350mm",
+      "高张力钢板车身"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽 FJ",
+      "兰德酷路泽 250 | Land Cruiser 250",
+      "梯形车架",
+      "电控后差速锁"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01114057/9e27d8926c12e413cf49b755ba0c3e3f-3.jpg?v=1780281658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/01114057/9e27d8926c12e413cf49b755ba0c3e3f-3-600x338.jpg?v=1780281658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/24220817/00_s_Luftgekuhlt_002-600x400.jpg?v=1779628098"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:08.443Z"
+  },
+  "https://response.jp/article/2026/06/12/412620.html": {
+    "title_zh": "京滨急行巴士久里滨营业所完成 90kW 快速充电器安装",
+    "summary_short": "京滨急行巴士在久里滨营业所增设第二套分离型 90kW 快速充电器，提升 EV 巴士充电效率。",
+    "summary_long": "京滨急行巴士位于神奈川县横须贺市的久里滨营业所，完成了 EV 用 90kW 快速充电器的安装工程。该工程由 Terra Charge 子公司 EV Construction 承建，该公司是日本巴士协会会员，负责 EV 充电器的设置与施工。此次为第二套分离型快速充电器的增设，充电器由 3 台分配器组成，旨在有限空间内实现高效充电运营。",
+    "highlights_zh": [
+      "京滨急行巴士久里滨营业所增设 90kW 快充",
+      "采用分离型充电器",
+      "施工方为 Terra Charge 子公司 EV C…",
+      "旨在提升 EV 巴士充电效率"
+    ],
+    "entities": [
+      "京滨急行巴士",
+      "Terra Charge",
+      "EV Construction",
+      "久里滨营业所"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218144.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218144.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:12.139Z"
+  },
+  "https://bestcarweb.jp/news/1541703": {
+    "title_zh": "1/18 AUTOart 保时捷 911 GT3 RS 模型：精密复刻实车细节",
+    "summary_short": "AUTOart 推出 1/18 保时捷 911 GT3 RS 模型，基于实车 3D 扫描，全开闭件，7 色可选，2026 年 6 月发售。",
+    "summary_long": "AUTOart 推出 1/18 保时捷 911（991.2）GT3 RS 模型，采用实车 3D 扫描与官方数据，结合专利复合压铸工艺，精准再现车身线条与细节。模型包含大型固定尾翼、前唇、宽体轮拱及扩散器等 GT3 RS 标志性元素，并提供魏斯阿赫套件版本。全车具备多开闭功能，共 7 种颜色可选，2026 年 6 月下旬发售。",
+    "highlights_zh": [
+      "1/18 比例",
+      "基于实车 3D 扫描",
+      "魏斯阿赫套件可选",
+      "7 种颜色"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3 RS",
+      "AUTOart",
+      "魏斯阿赫套件"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05160656/26d737f9a1edbe7eb4464b7016596bd7.jpg?v=1780643217",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/05160656/26d737f9a1edbe7eb4464b7016596bd7-600x400.jpg?v=1780643217",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10160412/f412d68d590846f5d4543282562e011c-600x400.jpg?v=1781075053"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:13.419Z"
+  },
+  "https://www.thedrive.com/news/it-looks-like-genesis-is-preparing-to-go-gt3-racing-and-heres-its-race-car-concept": {
+    "title_zh": "捷尼赛思将参加 GT3 赛事，发布赛车概念车",
+    "summary_short": "捷尼赛思在勒芒 24 小时耐力赛上发布 Magma GT3 概念车，预示将进军 GT3 赛事，并计划作为客户赛车销售。",
+    "summary_long": "捷尼赛思在勒芒 24 小时耐力赛上展示了 Magma GT3 概念车，标志着其正式进军 GT3 赛事。该车由现代赛车运动部门开发，虽仍为概念车，但已接近量产状态。捷尼赛思首席创意官 Luc Donckerwolke 和现代赛车运动负责人 Cyril Abiteboul 在介绍中确认，GT3 将完善捷尼赛思的赛车生态，并作为客户赛车出售给车队和车手。此举有助于捷尼赛思扩大在欧洲的影响力，推动韩国在全球赛车运动中的发展。",
+    "highlights_zh": [
+      "捷尼赛思发布 Magma GT3 概念车",
+      "由现代赛车运动部门开发",
+      "计划作为客户赛车销售",
+      "旨在扩大欧洲市场影响力"
+    ],
+    "entities": [
+      "捷尼赛思 | Genesis",
+      "Magma GT3",
+      "现代赛车运动 | Hyundai Motorsport",
+      "勒芒 24 小时耐力赛"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Genesis-Magma-GT3-Concept_1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Genesis-Magma-GT3-Concept_4.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Genesis-Magma-GT3-Concept_3.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:16.375Z"
+  },
+  "https://response.jp/article/2026/06/12/412631.html": {
+    "title_zh": "HKS 推出 GR86/BRZ 用 GT2 机械增压×冷进气适配器套件",
+    "summary_short": "HKS 为 GR86/BRZ 推出 GT2 机械增压与冷进气适配器套件，售价 1.98 万日元，允许用户升级时保留原有进气部件。",
+    "summary_long": "HKS 发布了针对丰田 GR86（ZN8）和斯巴鲁 BRZ（ZD8）的“GT2 S/C×CAI 适配器套件”，售价 1.98 万日元。该套件允许原本仅用于自然吸气车型的冷进气套件与 GT2 机械增压套件组合使用，用户升级时无需废弃原有进气部件。套件通过专用部件封闭冷进气的侧导管，避免吸入发动机舱热空气，并更换支架以防止与牵引液罐干涉。GT2 机械增压套件的副控制系统和 Mastery ECU Phase 3 可直接沿用。兼容冷进气箱套件和进气导管，但不兼容碳纤维进气套件。",
+    "highlights_zh": [
+      "适配 GR86/BRZ",
+      "允许冷进气与机械增压套件组合",
+      "升级时无需废弃原有进气部件",
+      "不兼容碳纤维进气套件"
+    ],
+    "entities": [
+      "HKS",
+      "丰田 | Toyota",
+      "GR86",
+      "斯巴鲁 | Subaru",
+      "BRZ"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217596.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217596.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:18.835Z"
+  },
+  "https://response.jp/article/2026/06/12/412616.html": {
+    "title_zh": "NTT 主导成立 IOWN AI 基金，投资光子学与 AI 半导体初创",
+    "summary_short": "NTT 联合多方成立 IOWN AI 基金，投资光子学与 AI 半导体初创，推动 IOWN 生态建设。",
+    "summary_long": "NTT、Young Sohn、SK 集团、中华电信及日本政策投资银行共同宣布成立“IOWN AI Fund”，旨在通过投资 AI 时代前沿技术，构建 IOWN 生态系统并创造新业务。同时，在硅谷和东京设立基金管理公司 Catalight Capital，全球发掘和支持有潜力的初创企业。随着物理 AI 和代理 AI 的发展，AI 应用正从大规模模型训练转向实时性和个性化推理。",
+    "highlights_zh": [
+      "NTT 联合多方成立 IOWN AI 基金",
+      "投资光子学与 AI 半导体初创",
+      "设立 Catalight Capital 全球运营",
+      "AI 应用转向实时推理与个性化"
+    ],
+    "entities": [
+      "NTT",
+      "SK 集团",
+      "中华电信",
+      "日本政策投资银行",
+      "IOWN AI Fund"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218093.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218093.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:20.200Z"
+  },
+  "https://response.jp/article/2026/06/12/412624.html": {
+    "title_zh": "法雷奥与 Calyos 合作开发两相冷却芯片，应对电动化与 AI 热管理挑战",
+    "summary_short": "法雷奥与 Calyos 签署协议，共同开发高性能、无源两相冷却芯片，用于电动汽车和数据中心，应对热管理挑战。",
+    "summary_long": "法雷奥与 Calyos 宣布签署谅解备忘录，将联合开发并工业化一种高性能、独立式芯片冷却解决方案。该方案采用被动式先进两相冷却技术，结合双方专长，旨在实现高效、紧凑、免维护且高可靠性的冷却系统，主要面向电动汽车和数据中心市场，以应对电动化与人工智能发展带来的热管理挑战。",
+    "highlights_zh": [
+      "法雷奥与 Calyos 签署合作备忘录",
+      "开发无源两相冷却芯片技术",
+      "面向电动汽车与数据中心市场",
+      "应对电动化与 AI 热管理挑战"
+    ],
+    "entities": [
+      "法雷奥",
+      "Calyos",
+      "两相冷却",
+      "热管理",
+      "电动汽车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218166.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218166.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:22.284Z"
+  },
+  "https://bestcarweb.jp/news/entame/1546313": {
+    "title_zh": "BMW M235i 轿跑：180 万日元起的 3.0 升直六 FR，车迷大叔的终极座驾",
+    "summary_short": "BMW M235i 轿跑以 180 万日元起售，搭载 3.0 升直六发动机，前置后驱，是 50 岁以上车迷的理想终活车。",
+    "summary_long": "对于 50 岁以上、曾为家庭放弃爱好的车迷来说，BMW M235i 轿跑是一款价格亲民且充满驾驶乐趣的选择。该车搭载 3.0 升直列六缸发动机，前置后驱布局，提供手动变速箱选项，让驾驶者重温年轻时的激情。文章强调，无需过度消费，这款车就能带来满足感，堪称“终活车”的典范。",
+    "highlights_zh": [
+      "180 万日元起",
+      "3.0 升直六+FR",
+      "手动挡可选",
+      "紧凑车身"
+    ],
+    "entities": [
+      "BMW",
+      "M235i",
+      "E46 M3",
+      "终活车",
+      "前置后驱"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10160412/f412d68d590846f5d4543282562e011c.jpg?v=1781075053",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10160412/f412d68d590846f5d4543282562e011c-600x400.jpg?v=1781075053",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02115631/c638bcd7a166468ac76188c91cbc5f91-600x392.jpg?v=1780368992"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:25.006Z"
+  },
+  "https://response.jp/article/2026/06/12/412627.html": {
+    "title_zh": "大发“乐拼送迎”系统引入认知症小规模设施",
+    "summary_short": "大发工业与长谷工集团合作，将“乐拼送迎”运行管理系统引入认知症小规模设施，提升福祉接送效率。",
+    "summary_long": "大发工业于 6 月 12 日宣布，与长谷工集团旗下株式会社故乡签订合同，将福祉介护·运行管理系统“乐拼送迎”引入认知症小规模设施。该系统自 2018 年发售以来，已在日本全国通所介护设施中广泛应用，2025 年 10 月升级后，已导入全国 200 多家法人机构。",
+    "highlights_zh": [
+      "大发“乐拼送迎”系统引入认知症小规模设施",
+      "与长谷工集团旗下株式会社故乡合作",
+      "系统覆盖送迎前中后各环节",
+      "2025 年升级后已导入 200 多家法人"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "长谷工集团",
+      "乐拼送迎",
+      "认知症",
+      "福祉介护"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218217.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218217.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:26.178Z"
+  },
+  "https://response.jp/article/2026/06/12/412623.html": {
+    "title_zh": "仓地电产加入迈斯特工程集团，扩大丰田集团控制设计业务",
+    "summary_short": "迈斯特工程集团宣布与仓地电产合作，将其纳入集团，以应对制造业自动化需求，强化控制设计能力。",
+    "summary_long": "迈斯特工程集团宣布通过业务资本合作，将从事自动控制装置设计、制造和施工的仓地电产纳入集团。近年来，制造业因人手不足和提升生产率的需求，加速了省人化和自动化设备投资，控制设计和控制盘制作的重要性日益凸显，但人才短缺和技术传承成为难题。迈斯特工程集团以“机电一体化”和“超重要基础设施”维护两大业务为核心，推进“技术服务联邦”经营模式，通过与拥有高专业技术的企业合作解决课题。",
+    "highlights_zh": [
+      "仓地电产加入迈斯特工程集团",
+      "应对制造业自动化与人才短缺",
+      "强化控制设计与控制盘制作能力",
+      "推进“技术服务联邦”经营模式"
+    ],
+    "entities": [
+      "迈斯特工程集团",
+      "仓地电产",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218164.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218164.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:29.398Z"
+  },
+  "https://bestcarweb.jp/newcar/1544003": {
+    "title_zh": "斯巴鲁森林人对决马自达 CX-5：驾驶乐趣与家庭安心感如何选？",
+    "summary_short": "斯巴鲁森林人与马自达 CX-5 同日改款，前者强化涡轮与四驱安心感，后者换代后空间与科技大幅提升。",
+    "summary_long": "斯巴鲁森林人与马自达 CX-5 同日推出改款与换代。森林人新增 1.8T 涡轮增压车型，标配对称四驱和 EyeSight X，强调全天候安心感。CX-5 则迎来第三代，采用 2.5L 混动系统，车身尺寸增大，轴距加长至 2815mm，后备箱容积达 466L，可容纳 4 个高尔夫球包，并配备大屏与谷歌车载系统。两者价格相近，森林人约 399 万日元，CX-5 从 330 万至 430 万日元不等。选择取决于用户更看重驾驶乐趣与科技感（CX-5），还是恶劣路况下的稳定与四驱性能（森林人）。",
+    "highlights_zh": [
+      "森林人新增 1.8T 涡轮增压",
+      "CX-5 换代后轴距加长",
+      "CX-5 搭载 2.5L 混动",
+      "森林人 EyeSight X 强化安全辅助"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "森林人",
+      "马自达 | Mazda",
+      "CX-5",
+      "EyeSight X"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09125806/2024da802ae7d2f2d6d7c2bdad7ff3a6.jpg?v=1780977487",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09125806/2024da802ae7d2f2d6d7c2bdad7ff3a6-600x400.jpg?v=1780977487",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11172755/3_s-600x393.jpg?v=1781166476"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:31.570Z"
+  },
+  "https://bestcarweb.jp/feature/column/1528217": {
+    "title_zh": "丰田普锐斯后排和行李厢真的小吗？实用性到底如何？",
+    "summary_short": "丰田普锐斯因低矮造型引发后排和行李厢空间担忧，实际体验显示日常使用足够，但头部空间不如 SUV。",
+    "summary_long": "丰田普锐斯现款车型造型低矮流畅，引发对后排和行李厢实用性的质疑。车身尺寸为长 4600mm、宽 1780mm、高 1430/1435mm，轴距 2750mm。后排腿部空间对日常家庭使用足够，但受车高限制，头部空间和进出便利性不如传统 MPV 或 SUV。建议高个子用户购车前亲自试坐后排。",
+    "highlights_zh": [
+      "后排腿部空间日常够用",
+      "头部空间受低车高影响",
+      "高个子需试坐后再决定"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "普锐斯"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/03092940/20221116_01_02.jpg?v=1780446582",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/03092940/20221116_01_02-600x400.jpg?v=1780446582",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/24220817/00_s_Luftgekuhlt_002-600x400.jpg?v=1779628098"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:33.516Z"
+  },
+  "https://www.motor1.com/news/798541/audi-nuvolari-video-track-test/": {
+    "title_zh": "奥迪全新超跑 Nuvolari 赛道测试视频曝光",
+    "summary_short": "奥迪 Nuvolari 插电混动超跑在意大利 Nardò赛道进行测试，伪装车亮相，与兰博基尼 Temerario 共享动力系统。",
+    "summary_long": "奥迪上周突然发布全新超跑 Nuvolari，近日该车在意大利 Nardò赛道进行测试，尽管已正式亮相，测试车仍带有伪装。Nuvolari 是一款插电混动超跑，搭载与兰博基尼 Temerario 同源的 4.0 升双涡轮增压 V8 发动机，转速可达 10000rpm，综合输出 987 马力。奥迪 CEO 暗示未来可能推出敞篷版。",
+    "highlights_zh": [
+      "Nuvolari 在 Nardò赛道进行伪装测试",
+      "搭载 4.0 升双涡轮 V8",
+      "综合输出 987 马力",
+      "CEO 暗示敞篷版或将推出"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Nuvolari",
+      "兰博基尼",
+      "Temerario",
+      "Nardò赛道"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OjO8/s1/2027-audi-nuvolari.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:36.091Z"
+  },
+  "https://www.motor1.com/news/798122/pilot-226-dollar-authorization-hold/": {
+    "title_zh": "女子在 Pilot 加油站被收取 226 美元预授权，银行误判为欺诈",
+    "summary_short": "一名女子在阿拉巴马州的 Pilot 加油站加油时，被收取 226 美元预授权，导致银行两次拦截交易，引发欺诈警报。",
+    "summary_long": "一名女子在阿拉巴马州旅行时，前往 Pilot 加油站加油，却遭遇信用卡被拒。她发现银行将交易标记为欺诈，原因是加油站尝试了 226 美元的预授权，而非通常的 1 美元。她尝试使用另一张卡，同样被拒。最终她进入店内询问，才得知是预授权金额异常所致。",
+    "highlights_zh": [
+      "女子在 Pilot 加油站被收取 226 美元预授权",
+      "银行两次拦截交易",
+      "通常预授权仅为 1 美元",
+      "女子进店询问才得知原因"
+    ],
+    "entities": [
+      "Pilot"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJRp6/s1/woman-goes-to-pilot-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:37.781Z"
+  },
+  "https://insideevs.com/news/798532/volvo-ex30-ownership-review-rough/": {
+    "title_zh": "Edmunds 拥有一辆沃尔沃 EX30 一年：“过程很艰难”",
+    "summary_short": "Edmunds 长期测试沃尔沃 EX30 一年后，指出软件故障、续航不足、充电慢和钥匙问题，称其为“令人沮丧的车”。",
+    "summary_long": "Edmunds 在拥有 2025 款沃尔沃 EX30 Twin Motor Performance 一年、行驶约 8000 英里后，总结该车“非常令人沮丧”。尽管 EX30 尺寸小巧、加速快（0-60 英里/小时仅 3.6 秒）、座椅舒适且设计有创意，但存在软件故障、续航不足、充电速度慢、钥匙反应迟钝等问题。驾驶员监控系统过于敏感，且操作中控屏时容易触发警报，进一步影响体验。",
+    "highlights_zh": [
+      "软件故障频繁",
+      "实际续航低于预期",
+      "充电速度慢",
+      "钥匙反应迟钝"
+    ],
+    "entities": [
+      "Edmunds",
+      "沃尔沃 | Volvo",
+      "EX30",
+      "特斯拉 Model Y | Tesla Model Y",
+      "保时捷 911 | Porsche 911"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3QmYG/s1/2025-volvo-ex30-in-edmunds-fleet.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-12T16:29:40.794Z"
   }
 }
