@@ -1,139 +1,115 @@
 {
   "workflow": {
-    "generated_at": "2026-06-13T04:48:49.910Z",
+    "generated_at": "2026-06-13T15:13:22.019Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 381,
-    "deepseek_untranslated_before_run": 19,
-    "newly_fetched_articles": 19,
-    "newly_fetched_untranslated": 19,
+    "deepseek_translated_before_run": 385,
+    "deepseek_untranslated_before_run": 15,
+    "newly_fetched_articles": 15,
+    "newly_fetched_untranslated": 15,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 19,
+    "translation_queue_count": 15,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.13",
-        "title": "“和の守護者”がモチーフ、オージーケーカブトの定番・軽量フルフェイス「AEROBLADE-6」に新グラフィック登場",
-        "url": "https://response.jp/article/2026/06/13/412636.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "「再生」という第三の選択肢!! ジャパントラックショー2026で注目集めた栗山自動車のリファービッシュトラックとは？",
-        "url": "https://bestcarweb.jp/fullload/1543692"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.13",
-        "title": "「流石のアメリカンサイズ」日本に“再上陸”する日産『ムラーノ』にSNS注目！「左ハンドル!?」「800万もすんの!?」の声も",
-        "url": "https://response.jp/article/2026/06/13/412642.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.13",
-        "title": "【CARTUNE】今週のお題は「魅せるサイドライン」！ 投稿募集中",
-        "url": "https://response.jp/article/2026/06/13/412639.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "【バス運転士日誌】ある日の多くあり過ぎた出来事は運転士としての感覚を呼び起こさせるものだった！",
-        "url": "https://bestcarweb.jp/busmagazine/1535424"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第784回",
-        "url": "https://bestcarweb.jp/feature/column/1532169"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.13",
-        "title": "2トン級のフル電動SUV、BMW『iX5M』のスクープに成功---ガソリンエンジンのX5Mを圧倒か",
-        "url": "https://response.jp/article/2026/06/13/412635.html"
+        "title": "Someone Illegally Dumped Hundreds of Tires on This Guy’s Property Without Him Knowing",
+        "url": "https://www.thedrive.com/news/someone-illegally-dumped-hundreds-of-tires-on-this-guys-property-without-him-knowing"
       },
       {
         "source": "Motor1",
         "time": "2026.6.13",
-        "title": "The 65 Most Expensive Cars In The World From Aston Martin to Zenvo, these are the most expensive supercars and hypercars ever made.",
-        "url": "https://www.motor1.com/features/308149/most-expensive-new-cars-ever/"
+        "title": "Chevrolet Driver Goes To Mechanic Because He Thinks The Check Engine Light Is On. Then He Sees What It Really Is: 'Tires Are Good'",
+        "url": "https://www.motor1.com/news/798600/chevy-bald-tire-warning/"
       },
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.6.13",
-        "title": "ギリギリ間に合う？ 2026年8月生産終了のダイハツ コペンを今買うならベストチョイスはどれ？",
-        "url": "https://bestcarweb.jp/feature/column/1527631"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "テスラ「巨大EVトラック」に追い風到来!? 航続800km「セミ」が物流業界で再注目される理由",
-        "url": "https://bestcarweb.jp/feature/column/1538814"
+        "title": "Someone Crashed a McLaren GT, So Why Not Buy the Carbon Fiber Shell and Turn It Into a Race Car Bed?",
+        "url": "https://www.thedrive.com/news/someone-crashed-a-mclaren-gt-so-why-not-buy-the-carbon-fiber-shell-and-turn-it-into-a-race-car-bed"
       },
       {
         "source": "Motor1",
         "time": "2026.6.13",
-        "title": "'Don’t Race It': Man Buys Honda EG. Then He Challenges A Hellcat To A Drag Race. It Accepts",
-        "url": "https://www.motor1.com/news/798370/dodge-challenger-honda-civic-drag-race/"
+        "title": "'Before I Even Drove A Mile': Woman Pays Kia Dealership $3,299 To Fix Alternator. Then She Tries To Drive Off The Lot",
+        "url": "https://www.motor1.com/news/798514/dealership-flubs-kia-repair/"
       },
       {
-        "source": "Motor1",
-        "time": "2026.6.12",
-        "title": "'Call Corporate!!!': Woman Tries To Pay For Enterprise Rental. They Refuse—Then 1 Day Later Take The Car For Failure To Pay",
-        "url": "https://www.motor1.com/news/798491/enterprise-takes-rental-back/"
+        "source": "Response.jp",
+        "time": "2026.6.13",
+        "title": "“中免ハーレー”が生産終了、中国生産のハーレーダビッドソン『X350』と『X500』限定販売へ",
+        "url": "https://response.jp/article/2026/06/13/412648.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.13",
+        "title": "「さすがの風格！」メルセデスベンツ『Sクラス』新型登場にSNS興奮！「星マークのインパクトすごい」の声も",
+        "url": "https://response.jp/article/2026/06/13/412650.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「坂出」",
+        "url": "https://bestcarweb.jp/feature/column/1535870"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "170馬力じゃ足りなかった!? 日本人が絶賛したスポーツワゴンの誤算！ 海外で初代「レヴォーグ」が伸び悩んだ理由",
+        "url": "https://bestcarweb.jp/feature/column/1538679"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.13",
+        "title": "LUUPで死亡事故、電動キックボードなど「特定原付」3万4804件の違反",
+        "url": "https://response.jp/article/2026/06/13/412646.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "クラウンスポーツを買うならG、Z、RSどれが正解？ 価格差と装備で考えるベストグレード",
+        "url": "https://bestcarweb.jp/feature/column/1530961"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "ダイハツは市販車だけじゃない!! 日本グランプリや世界のラリーを震撼させた「伝説のレーシングカー」たちを振り返る！",
+        "url": "https://bestcarweb.jp/feature/column/1542981"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "モリゾウ選手がニュルで見つけた“宝もの”をプレゼント!! ROOKIE RacingがInstagramキャンペーンを開催中！！",
+        "url": "https://bestcarweb.jp/news/motorsport/1548775"
       },
       {
         "source": "InsideEVs",
-        "time": "2026.6.12",
-        "title": "The Rivian R2 Is Finally Here. The CEO Just Shared When To Expect More Models",
-        "url": "https://insideevs.com/news/798608/rivian-r2-r3-r2t-timeline/"
+        "time": "2026.6.13",
+        "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
+        "url": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.12",
-        "title": "A Hotter Lamborghini Revuelto Should Show Up Later This Year",
-        "url": "https://www.motor1.com/news/798621/lamborghini-revuelto-sv-debut/"
+        "time": "2026.6.13",
+        "title": "AutoZone Worker Claims Product Is Sold Out. Then The Customer Pulls An Uno Reverse: 'We Are Cooked'",
+        "url": "https://www.motor1.com/news/798595/autozone-stock-chatgpt/"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.12",
-        "title": "Woman Buys Used Subaru. Then She Realizes It Has A Secret Feature: 'It Took My Mechanic Telling Me'",
-        "url": "https://www.motor1.com/news/798492/subaru-outback-remote-start/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.12",
-        "title": "Honda Recalls 880,000 SUVs For Wheels That Could Fall Off",
-        "url": "https://www.motor1.com/news/798614/honda-recalls-suvs-rust-rear-wheels-fall-off/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.12",
-        "title": "Ultimate Harbor Freight Go-Kart Engine Cost $8,725 to Build—For Real",
-        "url": "https://www.thedrive.com/news/ultimate-harbor-freight-go-kart-engine-cost-8725-to-build-for-real"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.12",
-        "title": "Spied: Lamborghini's Next Temerario Is Already On The Way",
-        "url": "https://www.motor1.com/news/798601/lamborghini-temerario-spyder-spied-testing/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.12",
-        "title": "Want Faster Lap Times? Try Leaving Traction Control On",
-        "url": "https://www.thedrive.com/news/want-faster-lap-times-try-leaving-traction-control-on"
+        "time": "2026.6.13",
+        "title": "'Cute But Dangerous': Toyota Driver Buys Hello Kitty Car Accessory. Then Her Car Starts Malfunctioning",
+        "url": "https://www.motor1.com/news/798512/push-start-car-accessory/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 19,
-    "queued_articles": 19,
-    "processed": 19,
-    "started_at": "2026-06-13T04:48:50.086Z",
-    "finished_at": "2026-06-13T04:49:33.189Z",
+    "scoped_articles": 15,
+    "queued_articles": 15,
+    "processed": 15,
+    "started_at": "2026-06-13T15:13:22.308Z",
+    "finished_at": "2026-06-13T15:13:57.272Z",
     "success": true,
     "error": ""
   }

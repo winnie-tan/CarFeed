@@ -34087,5 +34087,352 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-13T04:49:33.178Z"
+  },
+  "https://www.thedrive.com/news/someone-illegally-dumped-hundreds-of-tires-on-this-guys-property-without-him-knowing": {
+    "title_zh": "数百条轮胎被非法倾倒在他人地产上",
+    "summary_short": "俄勒冈州一男子购买地产后，发现数百条轮胎被非法倾倒，堆至六英尺高，政府无法协助清理。",
+    "summary_long": "俄勒冈州波特兰居民 Khanh Tran 在四月购买了一处 1.2 英亩的地产，计划进行修缮。上周末他前往查看时，发现数百条轮胎被非法倾倒，堆至六英尺高，甚至有人用轮胎搭建了临时房间。Tran 和邻居怀疑有人假借回收服务收集轮胎，并借助擅自占地者进行倾倒。当地政府正在寻找肇事者，但无法协助清理。",
+    "highlights_zh": [
+      "数百条轮胎堆至六英尺高",
+      "地产主人在购买后 90 天内发现",
+      "轮胎被用来搭建临时房间",
+      "政府无法协助清理"
+    ],
+    "entities": [
+      "波特兰",
+      "Khanh Tran",
+      "俄勒冈州",
+      "非法倾倒"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-3.54.23-PM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-3.54.04-PM.jpeg?strip=all",
+      "https://i.ytimg.com/vi/l2ZotqBNCgM/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:26.542Z"
+  },
+  "https://www.motor1.com/news/798600/chevy-bald-tire-warning/": {
+    "title_zh": "雪佛兰车主误将牵引力控制灯当发动机故障灯，轮胎已磨平",
+    "summary_short": "加州雪佛兰车主因感觉行驶“跳跃”且灯亮去修车，技师发现轮胎已磨平，闪烁的其实是牵引力控制灯。",
+    "summary_long": "一位南加州雪佛兰车主将 2014 款 Silverado 1500 开进修理厂，抱怨单上写着“高速上感觉跳跃，轮胎没问题，发动机故障灯闪烁”。技师检查后发现轮胎已磨平，备胎漏气，闪烁的灯其实是牵引力控制系统在检测到车轮打滑时亮起，而非发动机故障灯。该视频由 Concept 3 Performance 发布，已获超 8.1 万次观看。",
+    "highlights_zh": [
+      "车主误将牵引力控制灯当作发动机故障灯",
+      "轮胎已磨平",
+      "技师发现“轮胎没问题”是错误判断",
+      "视频由加州修理厂发布"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Silverado 1500",
+      "牵引力控制",
+      "轮胎磨损",
+      "Concept 3 Performance"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWjr7/s1/chevy-driver-tells-mechanic-car-feels-skippy-and-check-engine-light-is-on.-then-the-mechanic-takes-a-closer-look.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:27.330Z"
+  },
+  "https://www.thedrive.com/news/someone-crashed-a-mclaren-gt-so-why-not-buy-the-carbon-fiber-shell-and-turn-it-into-a-race-car-bed": {
+    "title_zh": "有人撞毁了迈凯伦 GT，何不买下碳纤维壳子改成赛车床？",
+    "summary_short": "eBay 上出售一辆撞毁的迈凯伦 GT 碳纤维单体壳，仅售 2624 美元，可改装成赛车床或艺术品。",
+    "summary_long": "一辆撞毁的迈凯伦 GT 的碳纤维单体壳正在 eBay 上以 2624.99 美元的价格出售，远低于原车约 21 万美元的售价。卖家来自 417 Motoring，位于密苏里州，需另付 1200 美元运费。该单体壳后部和左前侧有损伤，挡风玻璃和车顶玻璃虽包含在内但已开裂。尽管单体壳本身坚固，但鉴于修复成本高昂，将其改造成赛车床或展示品或许是更经济的选择。",
+    "highlights_zh": [
+      "迈凯伦 GT 碳纤维单体壳仅售 2624 美元",
+      "原车售价约 21 万美元",
+      "后部和左前侧有损伤",
+      "适合改装成赛车床或展示品"
+    ],
+    "entities": [
+      "迈凯伦 | McLaren",
+      "迈凯伦 GT | McLaren GT",
+      "Monocell"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/McLaren-GT-chassis-hero.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/McLaren-GT-chassis-rear-quarter.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/McLaren-GT-chassis-front.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:30.668Z"
+  },
+  "https://www.motor1.com/news/798514/dealership-flubs-kia-repair/": {
+    "title_zh": "女子花 3299 美元修车，刚开出 4S 店就出问题",
+    "summary_short": "一位起亚 Telluride 车主支付 3299 美元维修发电机后，刚开出经销商停车场就出现新故障，质疑经销商测试不充分。",
+    "summary_long": "一位起亚 Telluride 车主在支付 3299 美元维修发电机、更换电池并完成召回工作后，刚开出经销商停车场就发现车辆出现新的严重问题。她表示经销商声称进行了 10 英里路试，但车辆连停车场都开不出去，质疑其维修质量。该事件在 TikTok 上引发关注，视频观看量超过 2.6 万次。",
+    "highlights_zh": [
+      "支付 3299 美元维修发电机",
+      "刚开出停车场就出问题",
+      "经销商声称路试 10 英里",
+      "TikTok 视频观看超 2.6 万次"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "Telluride",
+      "发电机",
+      "经销商",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzjqJ/s1/woman-pays-kia-dealership.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:31.769Z"
+  },
+  "https://response.jp/article/2026/06/13/412648.html": {
+    "title_zh": "哈雷 X350 与 X500 中国产车型停产，限量销售最后库存",
+    "summary_short": "哈雷戴维森中国生产的 X350 和 X500 车型停产，日本市场将限量销售最后库存，约 70 万日元起。",
+    "summary_long": "哈雷戴维森日本公司宣布，中国生产的 X350 和 X500 车型将停产，并于 6 月 10 日起限量销售最后库存。这两款车型由美国设计、中国制造，以轻量化、敏捷操控和品牌经典风格为特点，尤其 X350 以 350cc 排量和约 70 万日元的价格吸引了众多入门骑士。库存售罄后即停止销售，不再追加供应。",
+    "highlights_zh": [
+      "哈雷 X350 与 X500 中国产车型停产",
+      "日本市场限量销售最后库存",
+      "X350 约 70 万日元起",
+      "不再追加生产"
+    ],
+    "entities": [
+      "哈雷戴维森 | Harley-Davidson",
+      "X350",
+      "X500",
+      "哈雷戴维森日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218496.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218496.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:35.530Z"
+  },
+  "https://response.jp/article/2026/06/13/412650.html": {
+    "title_zh": "梅赛德斯-奔驰全新 S 级登场，SNS 热议“星徽震撼”",
+    "summary_short": "梅赛德斯-奔驰日本发布全新 S 级，前格栅扩大 20%，首次采用发光格栅，起售价 1598 万日元。",
+    "summary_long": "梅赛德斯-奔驰日本于 6 月 11 日开启全新 S 级旗舰轿车的预订。新车前脸格栅较现款扩大约 20%，镀铬饰条从 3 根增至 4 根，并首次采用发光格栅，配合星徽图案数字大灯，辨识度极高。车侧配备新设计的品牌投影灯，夜间可照亮地面。尾部采用全新星徽造型尾灯，搭配镀铬饰条。S 450 d 4MATIC 售价 1598 万日元，S 580 4MATIC 长轴版将于 9 月后交付。",
+    "highlights_zh": [
+      "前格栅扩大 20%",
+      "星徽数字大灯与投影灯提升辨识度",
+      "全新星徽尾灯搭配镀铬饰条",
+      "S 450 d 4MATIC 起售价 1598 万日…"
+    ],
+    "entities": [
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "S 级"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218128.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218128.jpg",
+      "https://response.jp/imgs/fill2/2218124.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:35.908Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535870": {
+    "title_zh": "难读地名测验：坂出",
+    "summary_short": "介绍香川县难读地名“坂出”的正确读法，以及濑户大桥等观光信息，适合驾车旅行。",
+    "summary_long": "日本各地存在许多容易读错的地名，本文聚焦香川县坂出市，介绍其正确读音“さかいで”。坂出市位于香川县中部，是连接本州与四国的濑户大桥的门户，拥有美丽的濑户内海和田园风光。濑户大桥由六座长桥组成，全长约 13 公里，是世界最大级的公路铁路两用桥，中央的与岛停车区可俯瞰濑户内海群岛。",
+    "highlights_zh": [
+      "难读地名“坂出”读作“さかいで”",
+      "坂出是濑户大桥的玄关",
+      "濑户大桥全长 13 公里",
+      "与岛停车区可眺望濑户内海"
+    ],
+    "entities": [
+      "坂出",
+      "香川县",
+      "濑户大桥",
+      "濑户内海",
+      "与岛停车区"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114558/0ece31e4c1bdfe47f74b2dd7b245dbb4.jpg?v=1780195559",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114558/0ece31e4c1bdfe47f74b2dd7b245dbb4-600x400.jpg?v=1780195559",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/03112050/crown-049-600x400.jpg?v=1780453252"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:40.098Z"
+  },
+  "https://bestcarweb.jp/feature/column/1538679": {
+    "title_zh": "170 马力不够用？初代斯巴鲁 Levorg 在海外遇冷的真正原因",
+    "summary_short": "初代斯巴鲁 Levorg 在日本大获成功，但出口欧洲后因 170 马力动力不足和价格偏高导致销量低迷。",
+    "summary_long": "初代斯巴鲁 Levorg（2014 年推出）最初为日本市场专属，凭借出色的设计和性能迅速获得成功，上市 7 个月销量突破 3 万台。然而，2015 年进入欧洲市场后，仅提供 170 马力的 1.6L 涡轮增压发动机，在高速巡航为主的欧洲显得动力不足。同时，作为进口车，其价格高于欧洲本土竞品，导致性价比不足，最终销售表现远不及预期。",
+    "highlights_zh": [
+      "日本市场 7 个月售出 3 万台以上",
+      "欧洲仅提供 170 马力 1.6T 发动机",
+      "高速巡航动力不足成短板",
+      "进口身份导致价格偏高"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "レヴォーグ",
+      "レガシィ",
+      "欧洲市场",
+      "动力不足"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02185027/00_Subaru-Levorg-2016_head.jpg?v=1780393828",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02185027/00_Subaru-Levorg-2016_head-600x400.jpg?v=1780393828",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/03112050/crown-049-600x400.jpg?v=1780453252"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:40.402Z"
+  },
+  "https://response.jp/article/2026/06/13/412646.html": {
+    "title_zh": "LUUP 电动滑板车致死事故，特定原付违规达 3.48 万件",
+    "summary_short": "LUUP 共享电动滑板车发生致死事故，特定原付违规达 3.48 万件，其中通行区分违规占六成。",
+    "summary_long": "LUUP 于 6 月 9 日公布，6 月 2 日在东京北区发生一起汽车与特定小型原动自行车（特定原付）的交通事故，导致其服务用户死亡。警方正在调查，LUUP 表示将全面配合并加强交通安全宣传。此次事故再次引发对 2023 年 7 月启动的特定原付制度（如电动滑板车）的讨论。警察厅数据显示，截至 2025 年 11 月底，特定原付违规件数达 3.48 万，其中通行区分违规占六成，信号无视占两成，显示用户对交通规则理解不足。此外，近九成事故涉及租赁车辆，警察厅强调共享运营商需加强规则宣传和安全教育。",
+    "highlights_zh": [
+      "LUUP 用户死亡事故引发关注",
+      "特定原付违规达 3.48 万件",
+      "通行区分违规占六成",
+      "近九成事故为租赁车辆"
+    ],
+    "entities": [
+      "LUUP",
+      "特定原付",
+      "电动滑板车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218121.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218121.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:44.820Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530961": {
+    "title_zh": "皇冠运动版选 G、Z 还是 RS？价格差与配置决定最佳等级",
+    "summary_short": "丰田皇冠运动版提供 G、Z、RS 三个等级，价格从 520 万到 765 万日元，配置差异明显，Z 级被认为是长期持有的最佳选择。",
+    "summary_long": "丰田皇冠运动版作为皇冠家族中最具运动感的车型，提供 HEV 的 G 和 Z 等级以及 PHEV 的 RS 等级，价格分别为 520 万、590 万和 765 万日元。G 级以 520 万日元的价格提供了皇冠运动版的核心价值，包括 2.5L 混合动力、E-Four 四驱和 21 英寸轮胎，外观满足度高。Z 级比 G 级贵 70 万日元，但增加了 12.3 英寸高清显示屏（支持互联导航）和副驾驶肩部电动座椅开关等舒适配置，长期使用更不易后悔。RS 级作为 PHEV 版本，价格高达 765 万日元，但拥有 90 公里纯电续航。综合考虑，Z 级在性价比和长期满意度上最为推荐。",
+    "highlights_zh": [
+      "G 级 520 万日元",
+      "Z 级 590 万日元",
+      "RS 级 765 万日元",
+      "Z 级为长期持有最佳选择"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "皇冠运动版 | Crown Sport",
+      "G",
+      "Z",
+      "RS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/03112050/crown-049.jpg?v=1780453252",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/03112050/crown-049-600x400.jpg?v=1780453252",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114558/0ece31e4c1bdfe47f74b2dd7b245dbb4-600x400.jpg?v=1780195559"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:45.238Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1548775": {
+    "title_zh": "Morizo 在纽博格林发现的“宝藏”大放送！ROOKIE Racing Instagram 活动进行中",
+    "summary_short": "ROOKIE Racing 的 Morizo 选手在纽博格林 24 小时耐力赛期间为粉丝挑选了汽车主题纪念品，通过 Instagram 抽奖赠送。",
+    "summary_long": "ROOKIE Racing 的 Morizo 选手在 5 月德国纽博格林 24 小时耐力赛期间，亲自挑选了多款汽车主题纪念品，通过 Instagram 活动抽奖赠送给 14 名粉丝。奖品包括徽章、贴纸、别针、T 恤及 Morizo 签名商品等，所有中奖者还将额外获得 Morizo 选手贴纸。这些物品跨越品牌界限，充满汽车热爱，部分在日本难以见到。",
+    "highlights_zh": [
+      "Morizo 选手亲自挑选纽博格林纪念品",
+      "抽选 14 名幸运粉丝赠送",
+      "奖品含徽章、贴纸、签名商品等",
+      "所有中奖者获赠 Morizo 选手贴纸"
+    ],
+    "entities": [
+      "ROOKIE Racing",
+      "モリゾウ",
+      "纽博格林",
+      "Instagram"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13152308/C4221FC5-8EDA-4556-A298-E3920D2B31CC.jpg?v=1781331790",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13152308/C4221FC5-8EDA-4556-A298-E3920D2B31CC-600x338.jpg?v=1781331790",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12110442/de260a45d45713686f373d9db7782e61-1-600x400.jpg?v=1781229884"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:49.549Z"
+  },
+  "https://bestcarweb.jp/feature/column/1542981": {
+    "title_zh": "大发不止造家用车！回顾震撼日本 GP 与 WRC 的传奇赛车",
+    "summary_short": "大发时隔 14 年重启赛车运动，回顾其从 1964 年首胜到 P-5 赛车称霸日本 GP 的辉煌历史。",
+    "summary_long": "2022 年，大发汽车在时隔约 14 年后重启了赛车运动。事实上，大发在早期曾积极参与赛车活动，从 1964 年 Compagno Berlina 在 KSCC 爬山赛夺冠开始，便开启了赛车历史。随后，大发成立了 DCCS（大发运动汽车俱乐部），并于 1965 年基于 Berlina 打造了首款原型车 P-1。经过 P-2 的进化，1966 年大发开发出 1261cc DOHC 4 气门发动机，并搭载于专用车身，在第三届日本大奖赛上首次亮相即夺得组别冠军。最终进化型 P-5 采用中置发动机、四轮独立悬架和四轮盘式刹车，于 1967 年诞生，并在 1968 年日本大奖赛上获得总成绩第 10 名和组别冠军。",
+    "highlights_zh": [
+      "2022 年大发时隔 14 年重返赛车运动",
+      "1964 年 Compagno Berlina 首胜…",
+      "P-5 中置引擎赛车称霸 1968 年日本 GP"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Compagno Berlina",
+      "P-5",
+      "日本大奖赛"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06181124/00_s_daihatsu_25_head.jpg?v=1780737085",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06181124/00_s_daihatsu_25_head-600x400.jpg?v=1780737085",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/03112050/crown-049-600x400.jpg?v=1780453252"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:49.893Z"
+  },
+  "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/": {
+    "title_zh": "通用汽车推动钠离子电池与车网互联技术",
+    "summary_short": "通用汽车正从汽车制造商转型为能源公司，开发钠离子电池储能系统，并计划到 2030 年将 5.2 万辆电动汽车接入电网。",
+    "summary_long": "通用汽车在旧金山活动中宣布，正在开发用于储能系统的钠离子电池，并计划到本十年末将 5.2 万辆电动汽车接入电网。同时推出 Energy Pass 工具，整合主要充电网络的支付功能，简化充电体验。通用汽车电池战略已扩展至多种化学体系：磷酸铁锂用于经济型车型和近期储能项目，高镍 NMC 用于当前多数车型，富锂锰基用于大型电动卡车和 SUV，钠离子为最新补充。",
+    "highlights_zh": [
+      "开发钠离子电池用于储能系统",
+      "计划到 2030 年将 5.2 万辆 EV 接入电网",
+      "推出 Energy Pass 简化充电支付",
+      "电池战略覆盖 LFP、NMC、LMR 和钠离子"
+    ],
+    "entities": [
+      "通用汽车",
+      "钠离子电池",
+      "车网互联",
+      "Energy Pass",
+      "Chevy Bolt"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4VKE/s1/gm-empower.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:53.764Z"
+  },
+  "https://www.motor1.com/news/798595/autozone-stock-chatgpt/": {
+    "title_zh": "AutoZone 员工称产品缺货，顾客用 ChatGPT 反驳",
+    "summary_short": "AutoZone 员工告知顾客产品缺货，顾客却用 ChatGPT 的回复来反驳，引发对 AI 影响客户服务的思考。",
+    "summary_long": "一位 AutoZone 员工告诉顾客某产品缺货，顾客离开后不久返回，声称 AI（ChatGPT）告诉他该店确实有库存。这一事件在 TikTok 上引发热议，凸显了 AI 在日常生活中的渗透以及人们对其过度信任的现象。客户服务人员现在不仅要面对自以为是的顾客，还要应对那些引用 AI 未经验证信息的人。",
+    "highlights_zh": [
+      "顾客用 ChatGPT 反驳店员缺货说法",
+      "AI 信任度超越人类专家",
+      "客户服务面临新挑战"
+    ],
+    "entities": [
+      "AutoZone",
+      "ChatGPT",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WER6p/s1/autozone-worker-claims-product-is-sold-out.-then-the-customer-pulls-an-uno-reverse-we-are-cooked.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:54.139Z"
+  },
+  "https://www.motor1.com/news/798512/push-start-car-accessory/": {
+    "title_zh": "丰田车主加装 Hello Kitty 一键启动装饰，导致车辆故障",
+    "summary_short": "丰田车主在启动按钮上加装 Hello Kitty 装饰后，车辆出现启动困难、电池亏电等问题，提醒其他车主注意配件安全。",
+    "summary_long": "一位丰田车主在车辆的启动按钮上加装了 Hello Kitty 装饰配件，随后车辆出现启动困难、电池亏电等问题。她最初以为是巧合，但调查后发现类似装饰可能干扰车辆启动系统，甚至导致“钥匙未检测到”的警告。该事件提醒车主，非原厂配件可能影响车辆电子系统。",
+    "highlights_zh": [
+      "Hello Kitty 装饰导致启动故障",
+      "车辆出现电池亏电",
+      "显示“钥匙未检测到”警告",
+      "车主提醒注意配件安全"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Hello Kitty"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WERYY/s1/toyota-driver-buys-hello-kitty-car-accessory.-then-her-car-starts-malfunctioning.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-13T15:13:57.263Z"
   }
 }
