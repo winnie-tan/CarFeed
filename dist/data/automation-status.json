@@ -1,145 +1,139 @@
 {
   "workflow": {
-    "generated_at": "2026-06-12T16:28:38.044Z",
+    "generated_at": "2026-06-13T04:48:49.910Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 373,
-    "deepseek_untranslated_before_run": 27,
-    "newly_fetched_articles": 27,
-    "newly_fetched_untranslated": 27,
+    "deepseek_translated_before_run": 381,
+    "deepseek_untranslated_before_run": 19,
+    "newly_fetched_articles": 19,
+    "newly_fetched_untranslated": 19,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 27,
+    "translation_queue_count": 19,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.12",
-        "title": "The BMW M Concept Neue Klasse Is the Best Looking M Car in Years",
-        "url": "https://www.thedrive.com/news/the-bmw-m-concept-neue-klasse-is-the-best-looking-m-car-in-years"
+        "source": "Response.jp",
+        "time": "2026.6.13",
+        "title": "“和の守護者”がモチーフ、オージーケーカブトの定番・軽量フルフェイス「AEROBLADE-6」に新グラフィック登場",
+        "url": "https://response.jp/article/2026/06/13/412636.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "「再生」という第三の選択肢!! ジャパントラックショー2026で注目集めた栗山自動車のリファービッシュトラックとは？",
+        "url": "https://bestcarweb.jp/fullload/1543692"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.13",
+        "title": "「流石のアメリカンサイズ」日本に“再上陸”する日産『ムラーノ』にSNS注目！「左ハンドル!?」「800万もすんの!?」の声も",
+        "url": "https://response.jp/article/2026/06/13/412642.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.13",
+        "title": "【CARTUNE】今週のお題は「魅せるサイドライン」！ 投稿募集中",
+        "url": "https://response.jp/article/2026/06/13/412639.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "【バス運転士日誌】ある日の多くあり過ぎた出来事は運転士としての感覚を呼び起こさせるものだった！",
+        "url": "https://bestcarweb.jp/busmagazine/1535424"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第784回",
+        "url": "https://bestcarweb.jp/feature/column/1532169"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.13",
+        "title": "2トン級のフル電動SUV、BMW『iX5M』のスクープに成功---ガソリンエンジンのX5Mを圧倒か",
+        "url": "https://response.jp/article/2026/06/13/412635.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.13",
+        "title": "The 65 Most Expensive Cars In The World From Aston Martin to Zenvo, these are the most expensive supercars and hypercars ever made.",
+        "url": "https://www.motor1.com/features/308149/most-expensive-new-cars-ever/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "ギリギリ間に合う？ 2026年8月生産終了のダイハツ コペンを今買うならベストチョイスはどれ？",
+        "url": "https://bestcarweb.jp/feature/column/1527631"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.13",
+        "title": "テスラ「巨大EVトラック」に追い風到来!? 航続800km「セミ」が物流業界で再注目される理由",
+        "url": "https://bestcarweb.jp/feature/column/1538814"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.13",
+        "title": "'Don’t Race It': Man Buys Honda EG. Then He Challenges A Hellcat To A Drag Race. It Accepts",
+        "url": "https://www.motor1.com/news/798370/dodge-challenger-honda-civic-drag-race/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.12",
-        "title": "Genesis Teases Its Racing Future With A Crazy New Concept",
-        "url": "https://www.motor1.com/news/798590/genesis-magma-gt3-concept-racing/"
+        "title": "'Call Corporate!!!': Woman Tries To Pay For Enterprise Rental. They Refuse—Then 1 Day Later Take The Car For Failure To Pay",
+        "url": "https://www.motor1.com/news/798491/enterprise-takes-rental-back/"
       },
       {
-        "source": "The Drive",
+        "source": "InsideEVs",
         "time": "2026.6.12",
-        "title": "Rivian’s CEO Says There’s a Big Market for a Small Electric Truck",
-        "url": "https://www.thedrive.com/news/rivians-ceo-says-theres-a-big-market-for-a-small-electric-truck"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.12",
-        "title": "Ford Says 405-HP Ranger Raptor ‘Might Already Have Too Much Power’: TDS",
-        "url": "https://www.thedrive.com/news/ford-says-405-hp-ranger-raptor-might-already-have-too-much-power-tds"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.12",
-        "title": "Rivian’s CEO Says RAD Vehicles Will Be Fundamentally Different",
-        "url": "https://www.thedrive.com/news/rivians-ceo-says-rad-vehicles-will-be-fundamentally-different"
+        "title": "The Rivian R2 Is Finally Here. The CEO Just Shared When To Expect More Models",
+        "url": "https://insideevs.com/news/798608/rivian-r2-r3-r2t-timeline/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.12",
-        "title": "BMW Just Revealed The Future Of The M3",
-        "url": "https://www.motor1.com/news/798518/bmw-electric-m3-concept/"
+        "title": "A Hotter Lamborghini Revuelto Should Show Up Later This Year",
+        "url": "https://www.motor1.com/news/798621/lamborghini-revuelto-sv-debut/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.12",
+        "title": "Woman Buys Used Subaru. Then She Realizes It Has A Secret Feature: 'It Took My Mechanic Telling Me'",
+        "url": "https://www.motor1.com/news/798492/subaru-outback-remote-start/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.12",
+        "title": "Honda Recalls 880,000 SUVs For Wheels That Could Fall Off",
+        "url": "https://www.motor1.com/news/798614/honda-recalls-suvs-rust-rear-wheels-fall-off/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.12",
-        "title": "Over the Hill Preview: Virtual Off-Roading That Will Lower Your Blood Pressure",
-        "url": "https://www.thedrive.com/news/over-the-hill-preview-virtual-off-roading-that-will-lower-your-blood-pressure"
+        "title": "Ultimate Harbor Freight Go-Kart Engine Cost $8,725 to Build—For Real",
+        "url": "https://www.thedrive.com/news/ultimate-harbor-freight-go-kart-engine-cost-8725-to-build-for-real"
       },
       {
-        "source": "InsideEVs",
+        "source": "Motor1",
         "time": "2026.6.12",
-        "title": "The Electric BMW M3 Is Coming. Here's What It Might Look Like",
-        "url": "https://insideevs.com/news/798551/bmw-m3-ev-concept-reveal/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.12",
-        "title": "The Rivian R2 Is Now Shipping With A Rare Accessory The Competition Forgot Existed",
-        "url": "https://insideevs.com/news/798568/rivian-r2-rare-accessory/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "「セダン乗るならこれかも」レクサス『ES』新型発表！ SNSでは「最高のショーファードリブン」の声も",
-        "url": "https://response.jp/article/2026/06/12/412630.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "「ミニ」の丸い有機ELセンターディスプレイは使いやすい？ 新世代インテリアの魅力をチェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1538988"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "「単体サブウーファー」は手間がかかる…、にもかかわらず一番人気なのはなぜ？［低音を制する者はカーオーディオを制す］",
-        "url": "https://response.jp/article/2026/06/12/412626.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "450万円のランクルってバグでしょ!! 新型ランドクルーザーFJは“小さい本格派”で本当に買いなのか",
-        "url": "https://bestcarweb.jp/feature/column/1536408"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "90kW急速充電器、京浜急行バス久里浜営業所に設置完了…分離型充電器を複数セット運用で効率化",
-        "url": "https://response.jp/article/2026/06/12/412620.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "991.2型ポルシェ911 GT3 RSを精密再現！ 本物は買えなくても1/18モデルに注目！",
-        "url": "https://bestcarweb.jp/news/1541703"
+        "title": "Spied: Lamborghini's Next Temerario Is Already On The Way",
+        "url": "https://www.motor1.com/news/798601/lamborghini-temerario-spyder-spied-testing/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.12",
-        "title": "Genesis Is Going GT3 Racing, and Here’s Its Race Car Concept",
-        "url": "https://www.thedrive.com/news/it-looks-like-genesis-is-preparing-to-go-gt3-racing-and-heres-its-race-car-concept"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "HKS「GT2 S/C×CAIアダプターキット」発売、『GR86/BRZ』でスーパーチャージャーとコールドエアインテークの併用が可能に",
-        "url": "https://response.jp/article/2026/06/12/412631.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "NTT主導、フォトニクス・AI半導体スタートアップに投資…「IOWN AI Fund」組成",
-        "url": "https://response.jp/article/2026/06/12/412616.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.12",
-        "title": "ヴァレオとCalyos、二相冷却チップを共同開発へ…電動化やAIの進展で高まる熱管理の課題に対応",
-        "url": "https://response.jp/article/2026/06/12/412624.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.12",
-        "title": "クルマ好きおじさんの終活車！ やせ我慢はもうしない!! 180万円から買える3L直6のFRクーペ「BMW235i」が最高な訳",
-        "url": "https://bestcarweb.jp/news/entame/1546313"
+        "title": "Want Faster Lap Times? Try Leaving Traction Control On",
+        "url": "https://www.thedrive.com/news/want-faster-lap-times-try-leaving-traction-control-on"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 27,
-    "queued_articles": 27,
-    "processed": 27,
-    "started_at": "2026-06-12T16:28:38.336Z",
-    "finished_at": "2026-06-12T16:29:40.803Z",
+    "scoped_articles": 19,
+    "queued_articles": 19,
+    "processed": 19,
+    "started_at": "2026-06-13T04:48:50.086Z",
+    "finished_at": "2026-06-13T04:49:33.189Z",
     "success": true,
     "error": ""
   }
