@@ -1,115 +1,121 @@
 {
   "workflow": {
-    "generated_at": "2026-06-13T15:13:22.019Z",
+    "generated_at": "2026-06-14T05:04:23.564Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 385,
-    "deepseek_untranslated_before_run": 15,
-    "newly_fetched_articles": 15,
-    "newly_fetched_untranslated": 15,
+    "deepseek_translated_before_run": 384,
+    "deepseek_untranslated_before_run": 16,
+    "newly_fetched_articles": 16,
+    "newly_fetched_untranslated": 16,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 15,
+    "translation_queue_count": 16,
     "translation_queue_preview": [
       {
+        "source": "Best Car Web",
+        "time": "2026.6.14",
+        "title": "“今回限り”になっちゃうかも!? 新潟の「かぼちゃ電車バス」に乗って旧電車線沿いを走破するバスツアー開催!",
+        "url": "https://bestcarweb.jp/busmagazine/1546871"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.14",
+        "title": "「こいつはバクアゲだぜ！！」光岡の新型オープンカー予告にSNS興奮！ ベースとなるのは「あの車」？",
+        "url": "https://response.jp/article/2026/06/14/412655.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.14",
+        "title": "「異色すぎて笑った」ホンダとサンリオ、「クロミ」仕様マシンで鈴鹿8耐に参戦！ SNSでは「このまんま売って」の声も",
+        "url": "https://response.jp/article/2026/06/14/412663.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.14",
+        "title": "『ヤリスハイブリッド』の適合が追加、ブリッツの純正交換タイプ「SUSパワー・エアフィルターLMD」が発売",
+        "url": "https://response.jp/article/2026/06/14/412658.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.14",
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「FMC」",
+        "url": "https://bestcarweb.jp/feature/column/1530496"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.14",
+        "title": "150万円以下で狙える本格SUV!! 前期型と後期型どちらがお得？ 3代目エクストレイルの選び方とは",
+        "url": "https://bestcarweb.jp/feature/column/1535797"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.14",
+        "title": "HKS、アバルト『595/695』用「VIITS タイミングベルト」発売、純正比1.5倍の耐久性",
+        "url": "https://response.jp/article/2026/06/14/412662.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.14",
+        "title": "SpaceXがNASDAQに上場、資産が台湾のGDP超えたイーロン・マスク「世界初のトリリオネア」に",
+        "url": "https://response.jp/article/2026/06/14/412653.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.14",
+        "title": "プリウスはファミリーカーとして使える？ カッコよさと実用性をリアルチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1529453"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.14",
+        "title": "'Tried To Scam This Old Man': Dealership Claims Acura With 4,700 Miles Needs A New Transmission. Then He Gets A Second Opinion",
+        "url": "https://www.motor1.com/news/798629/acura-4700-miles-new-transmission/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.13",
+        "title": "Woman Drives Honda Civic. Then She Realizes It Runs On A Little-Known Type Of Gas: ‘Never Seen Anything Like This Before’",
+        "url": "https://www.motor1.com/news/798587/natural-gas-honda-civic/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.13",
+        "title": "'EV Nightmare': Man Forgets To Charge EV. Then He Realizes The Battery Has 0 Miles Left While Driving On The Highway",
+        "url": "https://www.motor1.com/news/798356/ev-range-anxiety/"
+      },
+      {
         "source": "The Drive",
         "time": "2026.6.13",
-        "title": "Someone Illegally Dumped Hundreds of Tires on This Guy’s Property Without Him Knowing",
-        "url": "https://www.thedrive.com/news/someone-illegally-dumped-hundreds-of-tires-on-this-guys-property-without-him-knowing"
+        "title": "Canadians in a Garage Might Complete a Range-Extended Ram Before Ram Does",
+        "url": "https://www.thedrive.com/news/canadians-in-a-garage-might-complete-a-range-extended-ram-before-ram-does"
       },
       {
         "source": "Motor1",
         "time": "2026.6.13",
-        "title": "Chevrolet Driver Goes To Mechanic Because He Thinks The Check Engine Light Is On. Then He Sees What It Really Is: 'Tires Are Good'",
-        "url": "https://www.motor1.com/news/798600/chevy-bald-tire-warning/"
+        "title": "‘Saved My Battery’: Subaru Driver Goes Camping. Then She Discovers A Trick To Keep The Trunk Open WIthout Draining The Battery",
+        "url": "https://www.motor1.com/news/798517/subaru-trunk-battery-trick/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.13",
-        "title": "Someone Crashed a McLaren GT, So Why Not Buy the Carbon Fiber Shell and Turn It Into a Race Car Bed?",
-        "url": "https://www.thedrive.com/news/someone-crashed-a-mclaren-gt-so-why-not-buy-the-carbon-fiber-shell-and-turn-it-into-a-race-car-bed"
+        "title": "The Most Single Cab Truck Ever Was Built to Haul Construction Materials",
+        "url": "https://www.thedrive.com/news/the-most-single-cab-truck-ever-was-built-to-haul-construction-materials"
       },
       {
         "source": "Motor1",
         "time": "2026.6.13",
-        "title": "'Before I Even Drove A Mile': Woman Pays Kia Dealership $3,299 To Fix Alternator. Then She Tries To Drive Off The Lot",
-        "url": "https://www.motor1.com/news/798514/dealership-flubs-kia-repair/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.13",
-        "title": "“中免ハーレー”が生産終了、中国生産のハーレーダビッドソン『X350』と『X500』限定販売へ",
-        "url": "https://response.jp/article/2026/06/13/412648.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.13",
-        "title": "「さすがの風格！」メルセデスベンツ『Sクラス』新型登場にSNS興奮！「星マークのインパクトすごい」の声も",
-        "url": "https://response.jp/article/2026/06/13/412650.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「坂出」",
-        "url": "https://bestcarweb.jp/feature/column/1535870"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "170馬力じゃ足りなかった!? 日本人が絶賛したスポーツワゴンの誤算！ 海外で初代「レヴォーグ」が伸び悩んだ理由",
-        "url": "https://bestcarweb.jp/feature/column/1538679"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.13",
-        "title": "LUUPで死亡事故、電動キックボードなど「特定原付」3万4804件の違反",
-        "url": "https://response.jp/article/2026/06/13/412646.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "クラウンスポーツを買うならG、Z、RSどれが正解？ 価格差と装備で考えるベストグレード",
-        "url": "https://bestcarweb.jp/feature/column/1530961"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "ダイハツは市販車だけじゃない!! 日本グランプリや世界のラリーを震撼させた「伝説のレーシングカー」たちを振り返る！",
-        "url": "https://bestcarweb.jp/feature/column/1542981"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.13",
-        "title": "モリゾウ選手がニュルで見つけた“宝もの”をプレゼント!! ROOKIE RacingがInstagramキャンペーンを開催中！！",
-        "url": "https://bestcarweb.jp/news/motorsport/1548775"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.13",
-        "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
-        "url": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.13",
-        "title": "AutoZone Worker Claims Product Is Sold Out. Then The Customer Pulls An Uno Reverse: 'We Are Cooked'",
-        "url": "https://www.motor1.com/news/798595/autozone-stock-chatgpt/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.13",
-        "title": "'Cute But Dangerous': Toyota Driver Buys Hello Kitty Car Accessory. Then Her Car Starts Malfunctioning",
-        "url": "https://www.motor1.com/news/798512/push-start-car-accessory/"
+        "title": "Crazy Taxi Is Back—And It Looks Awesome. Watch The Trailer",
+        "url": "https://www.motor1.com/news/798618/crazy-taxi-world-tour-details-trailer/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 15,
-    "queued_articles": 15,
-    "processed": 15,
-    "started_at": "2026-06-13T15:13:22.308Z",
-    "finished_at": "2026-06-13T15:13:57.272Z",
+    "scoped_articles": 16,
+    "queued_articles": 16,
+    "processed": 16,
+    "started_at": "2026-06-14T05:04:23.877Z",
+    "finished_at": "2026-06-14T05:04:58.549Z",
     "success": true,
     "error": ""
   }
