@@ -34805,5 +34805,258 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-14T05:04:58.542Z"
+  },
+  "https://www.motor1.com/news/798641/man-ignores-check-engine-light/": {
+    "title_zh": "男子无视发动机故障灯继续驾驶：我的银行账户说不行",
+    "summary_short": "一名男子无视发动机故障灯继续驾驶，引发安全讨论。专家提醒，故障灯可能指示小问题或严重故障，需及时检查。",
+    "summary_long": "一名加州男子在发动机故障灯亮起后继续驾驶，并拍摄视频表示“我的银行账户说不行”。该视频在 TikTok 上获得 260 万次观看。AAA 专家指出，故障灯可能指示如油箱盖松动等小问题，也可能预示催化转换器等严重故障。建议车主根据指示灯行为判断紧急程度，但不应长期忽视。",
+    "highlights_zh": [
+      "男子无视发动机故障灯继续驾驶",
+      "视频获 260 万次观看",
+      "故障灯可能指示小问题或严重故障",
+      "专家建议及时检查"
+    ],
+    "entities": [
+      "AAA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKRLn/s1/man-s-check-engine-light-comes-on.-then-he-keeps-driving.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:04.620Z"
+  },
+  "https://www.thedrive.com/news/new-colorado-law-gets-it-right-by-requiring-responsible-ev-battery-recycling": {
+    "title_zh": "科罗拉多州新法要求车企负责 EV 电池回收",
+    "summary_short": "科罗拉多州签署全美首部法律，强制车企回收或再利用电动汽车电池，并设定关键材料回收率。",
+    "summary_long": "科罗拉多州州长签署《促进电动汽车电池负责任报废管理法案》，要求车企必须回收或再利用其持有及第三方来源的电池组，并免费从报废车辆中收集电池。法律设定了镍、钴回收率 90%、锂回收率 50%（2031 年升至 80%）的目标，并要求车企提交回收报告。该法案旨在确保电池不被随意丢弃，推动循环经济。",
+    "highlights_zh": [
+      "全美首部强制 EV 电池回收法律",
+      "车企须免费回收报废车辆电池",
+      "镍、钴回收率需达 90%",
+      "锂回收率 2031 年升至 80%"
+    ],
+    "entities": [
+      "科罗拉多州 | Colorado",
+      "电动汽车 | EV",
+      "电池回收 | battery recycling",
+      "Union of Concerned Scientists"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/message-editor/1504673206887-2018_nissan_leaf_us_12.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Original-12906-DB2021AL00095large.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Large-13043-Batteryrecyclingpilotplant.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:04.945Z"
+  },
+  "https://www.thedrive.com/news/big-trucks-like-the-ford-super-duty-and-ram-hd-eluded-safety-evaluations-until-now": {
+    "title_zh": "福特 Super Duty 和 Ram HD 等重型卡车终于接受安全评估",
+    "summary_short": "IIHS 首次对重型皮卡进行安全测试，评估安全带及气囊等基本配置，结果尚可接受。",
+    "summary_long": "美国公路安全保险协会（IIHS）首次对重型皮卡和商用货车进行安全评估，测试了福特 Super Duty、Ram HD 等车型的安全带提醒、预紧器及气囊配置。尽管联邦法规未要求这些车辆配备此类安全装置，但 IIHS 的测试结果相对乐观。",
+    "highlights_zh": [
+      "IIHS 首次测试重型皮卡安全性能",
+      "涉及福特 Super Duty、Ram HD 等车型",
+      "联邦法规未要求重型车配备基本安全装置",
+      "测试结果未如预期糟糕"
+    ],
+    "entities": [
+      "IIHS",
+      "福特 | Ford",
+      "Ram",
+      "雪佛兰",
+      "Super Duty"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Ford-Super-Duty-V8-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/2016-Chevrolet-Express-007.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/2025-Ram-3500.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:09.217Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1549586": {
+    "title_zh": "丰田 4 年雪耻！第 92 届勒芒 24 小时耐力赛第 6 次总冠军",
+    "summary_short": "丰田在第 92 届勒芒 24 小时耐力赛中夺得总冠军，7 号车第一，8 号车第二，实现 4 年后的雪耻。",
+    "summary_long": "第 92 届勒芒 24 小时耐力赛，丰田 Racing 7 号车在 Hypercar 组别中夺得总冠军，8 号车获得亚军。这是丰田自 2022 年后再次夺冠，也是“丰田 Racing”新体制下的首场胜利。尽管排位赛仅列第 14、15 位，但凭借稳定发挥和策略，丰田在最后阶段升至前五，最终包揽前两名。",
+    "highlights_zh": [
+      "丰田 7 号车夺冠",
+      "4 年后重夺勒芒总冠军",
+      "排位赛第 14、15 位逆袭",
+      "新体制“丰田 Racing”首胜"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "勒芒 24 小时耐力赛",
+      "Hypercar",
+      "丰田 Racing"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/14220556/85836-tjp2613ju12895-web-lr.jpg?v=1781442357",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/14220556/85836-tjp2613ju12895-web-lr-600x404.jpg?v=1781442357",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13152308/C4221FC5-8EDA-4556-A298-E3920D2B31CC-600x338.jpg?v=1781331790"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:10.756Z"
+  },
+  "https://www.motor1.com/news/798640/flat-tire-road-debris/": {
+    "title_zh": "女子轮胎被扎，未婚夫检查后震惊：竟是一把扳手",
+    "summary_short": "佛罗里达一名女子的轮胎被一把扳手刺穿，未婚夫检查后震惊不已，感叹道路遗撒物之危险。",
+    "summary_long": "佛罗里达一名女子的轮胎被道路遗撒物刺穿，未婚夫检查后发现竟是一把完整的扳手嵌入轮胎中。该事件被拍摄成视频在 TikTok 上走红，引发对道路施工遗撒物危险的关注。",
+    "highlights_zh": [
+      "轮胎被扳手刺穿",
+      "未婚夫检查后震惊",
+      "视频在 TikTok 走红",
+      "提醒道路遗撒物危险"
+    ],
+    "entities": [
+      "佛罗里达",
+      "TikTok",
+      "扳手"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZERV1/s1/florida-woman-gets-a-flat-tire.-then-her-fiance-checks-what-caused-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:13.485Z"
+  },
+  "https://bestcarweb.jp/feature/column/1542999": {
+    "title_zh": "大发对敞篷车的执着令人惊叹！回顾那些震撼世界的“认真概念车”",
+    "summary_short": "大发虽少参展海外，但在国内车展上推出了众多极具个性的概念车，尤其是小型敞篷车系列，展现了其独特的设计理念。",
+    "summary_long": "大发汽车主要参加日本国内车展，如东京车展和日本移动展，并在此展示了大量“认真”的概念车。这些概念车不仅包括运动型车型如 X-021、初代和二代 Copen 概念车、D-X，还有众多小型敞篷车如 BASKET，以及个性车型如 MUD MASTER-C、FC 凸 DECK 和 WAIWAI。这些车型体现了大发对敞篷车的执着追求和独特的设计哲学。",
+    "highlights_zh": [
+      "大发专注国内车展",
+      "小型敞篷车是大发概念车的核心",
+      "代表车型包括 X-021、Copen、D-X 等",
+      "个性车型如 MUD MASTER-C、WAIWAI"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "コペン",
+      "X-021",
+      "D-X",
+      "BASKET"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06194526/00_daihatsu_con_head.jpg?v=1780742727",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/06194526/00_daihatsu_con_head-600x400.jpg?v=1780742727",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27145634/HONDA-FREED_025-600x400.jpg?v=1779861395"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:16.117Z"
+  },
+  "https://response.jp/article/2026/06/14/412670.html": {
+    "title_zh": "标致 205 GTI：锐利引擎与操控吸引车迷【怀旧车型目录】",
+    "summary_short": "标致 205 GTI 凭借锐利引擎和精准操控成为经典小钢炮，回顾其 1.6L 至 1.9L 进化历程。",
+    "summary_long": "标致 205 于 1983 年问世，是一款填补 104 与 305 之间空白的紧凑型两厢车，外观由标致与宾尼法利纳共同设计。1984 年推出的高性能版 205 GTI，甚至比大众高尔夫 GTI 更具运动形象，成为系列中的标志车型。日本市场自 1986 年由奥斯汀·罗孚日本进口，1988 年起也通过铃木经销商销售。动力方面，初期搭载 1.6L SOHC 四缸发动机，输出 105ps，后提升至 115ps；1986 年 12 月排量扩至 1.9L，最终达到 120ps。配备 5 速手动或 4 速自动变速箱，以及动力转向、四轮盘刹和前后防倾杆。",
+    "highlights_zh": [
+      "1984 年推出高性能版 GTI",
+      "1.6L 升级至 1.9L 发动机",
+      "最终输出 120ps/15.2kgm",
+      "配备四轮盘刹和防倾杆"
+    ],
+    "entities": [
+      "标致",
+      "205 GTI",
+      "高尔夫 GTI",
+      "宾尼法利纳",
+      "1.9L 发动机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218645.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218645.jpg",
+      "https://response.jp/imgs/fill2/2218647.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:20.048Z"
+  },
+  "https://response.jp/article/2026/06/13/412649.html": {
+    "title_zh": "轮胎种类与选择方法详解：高级、经济、运动、高抓地力的区别",
+    "summary_short": "轮胎是车辆唯一接触地面的部件，选择需根据用途：高级胎重舒适，经济胎省油，运动胎重操控，高抓地力胎适合赛道。",
+    "summary_long": "轮胎是车辆唯一接触地面的部件，其接地面仅约明信片大小，却直接影响加速、减速和转弯性能。选择轮胎需明确使用场景：日常通勤可选舒适型高级轮胎；注重燃油经济性和维护成本可选经济轮胎；追求操控乐趣可选运动轮胎；赛道驾驶则需高抓地力轮胎。每种类型各有优劣，应结合自身需求而非单纯追求高性能。",
+    "highlights_zh": [
+      "轮胎接地面仅约明信片大小",
+      "高级胎侧重舒适性",
+      "经济胎注重燃油经济性",
+      "运动胎提升操控感"
+    ],
+    "entities": [
+      "高级轮胎",
+      "经济轮胎",
+      "运动轮胎 | Sport Tire",
+      "高抓地力轮胎"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218297.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218297.jpg",
+      "https://response.jp/imgs/p/2lMgPWAa6QGqet-mNL0FG4RP30HRQkNERUZH/1862484.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:20.752Z"
+  },
+  "https://www.motor1.com/news/798639/autozone-obd-reader/": {
+    "title_zh": "AutoZone 员工递上 OBD 读取器让顾客自己查故障码",
+    "summary_short": "一名女性在 AutoZone 寻求免费诊断服务时，员工递上 OBD 读取器让她自己操作，引发网上热议。",
+    "summary_long": "一名女性在 AutoZone 门店希望员工为其解读发动机故障灯，结果员工递上 OBD 读取器后便离开，让她自己操作。该视频在 TikTok 上获得超 34 万次观看，并引发关于该零售商“免费诊断服务”是否一致提供的讨论。AutoZone 官网宣传该服务由员工操作，一分钟内完成并打印报告，但实际执行情况因店而异。",
+    "highlights_zh": [
+      "员工递上 OBD 读取器后离开",
+      "视频获 34 万+观看",
+      "引发免费诊断服务争议",
+      "AutoZone 官网承诺员工操作"
+    ],
+    "entities": [
+      "AutoZone",
+      "OBD 读取器",
+      "TikTok",
+      "FixFinder"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZ0VZ/s1/woman-goes-to-autozone.-then-a-worker-hands-her-an-obd-reader.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:25.321Z"
+  },
+  "https://response.jp/article/2026/06/14/412659.html": {
+    "title_zh": "《赛马娘》痛车集结：塔玛莫克罗斯涂装 Skyline 与阿斯顿马娘 Vantage 等超豪华阵容",
+    "summary_short": "《赛马娘》痛车齐聚 ARC Championship，塔玛莫克罗斯涂装 Skyline 与阿斯顿马娘 Vantage 等超豪华阵容亮相。",
+    "summary_long": "在滋贺县奥伊吹摩托公园举办的 ARC Championship 痛车展上，多款《赛马娘》主题痛车亮相。其中，日产 Skyline 采用塔玛莫克罗斯涂装，加装空气套件，白蓝红三色彰显力量感。而阿斯顿·马丁 Vantage 则被改造为“阿斯顿马娘”主题，绿色基调设计帅气十足，名字关联巧妙。",
+    "highlights_zh": [
+      "日产 Skyline 塔玛莫克罗斯涂装",
+      "阿斯顿·马丁 Vantage“阿斯顿马娘”",
+      "白蓝红三色力量感配色",
+      "绿色基调帅气设计"
+    ],
+    "entities": [
+      "赛马娘",
+      "日产 | Nissan",
+      "スカイライン",
+      "阿斯顿·马丁",
+      "ヴァンテージ"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218598.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218564.jpg",
+      "https://response.jp/imgs/zoom1/2218599.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:25.673Z"
+  },
+  "https://insideevs.com/news/798648/model-y-serious-battery-degradation/": {
+    "title_zh": "低里程 2025 款特斯拉 Model Y 电池衰减严重",
+    "summary_short": "一辆仅行驶 1.3 万英里的 2025 款特斯拉 Model Y，电池健康度降至 88%，续航减少 36 英里。",
+    "summary_long": "一辆 2025 款特斯拉 Model Y Long Range RWD 在行驶 1.3 万英里后，电池健康度降至 88%，续航从新车的 338 英里降至 302 英里。车主通过特斯拉内置电池健康测试发现，该车在 6000 英里时健康度为 95%，1.1 万英里时降至 90%，衰减速度异常。测试过程耗时 12 小时，结果被认为准确。",
+    "highlights_zh": [
+      "行驶 1.3 万英里后电池健康度仅 88%",
+      "续航从 338 英里降至 302 英里",
+      "6000 英里时健康度 95%"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9myop1/s1/tesla-model-y.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-14T15:20:29.271Z"
   }
 }
