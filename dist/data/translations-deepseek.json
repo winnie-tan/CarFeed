@@ -35058,5 +35058,599 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-14T15:20:29.271Z"
+  },
+  "https://response.jp/article/2026/06/15/412693.html": {
+    "title_zh": "物理 AI 霸权争夺：专利信息揭示自动驾驶与类人机器人赢家候选",
+    "summary_short": "基于专利信息分析物理 AI 领域，聚焦自动驾驶与类人机器人，揭示特斯拉、英伟达等主要玩家战略与赢家候选。",
+    "summary_long": "该研讨会以专利信息为起点，剖析物理 AI 领域的霸权争夺。物理 AI 是 AI 从虚拟走向现实的代表，包括 E2E 自动驾驶车和类人机器人。特斯拉正开发类人机器人 Optimus，与 E2E 自动驾驶车协同，是典型的物理 AI 标的。分析涵盖类人机器人（如 UBTECH、Fourier、Agibot、Boston Dynamics、SANCTUARY AI、小米/小鹏、特斯拉、英伟达）和自动驾驶车（如百度、Zoox、丰田、博世、Waymo、Aurora、本田、英伟达、现代、英特尔、华为、特斯拉）的主要玩家战略，最终总结出最受关注的玩家，包括平台型英伟达、谷歌以及追求独特世界观的特斯拉。",
+    "highlights_zh": [
+      "物理 AI 代表：E2E 自动驾驶与类人机器人",
+      "特斯拉开发 Optimus",
+      "英伟达、谷歌、特斯拉争夺霸权",
+      "专利信息揭示赢家候选"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "英伟达",
+      "Waymo",
+      "百度",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218043.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218043.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:34.438Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1549684": {
+    "title_zh": "“森桑，你准备好了！”勒芒夺冠后“吵架”升级？丰田赛车副社长中嶋裕树发表评论",
+    "summary_short": "丰田赛车副社长中嶋裕树在勒芒夺冠后发表评论，延续与森桑（丰田章男）的“竞争”，誓言用胜利证明自己。",
+    "summary_long": "丰田赛车副社长中嶋裕树在勒芒 24 小时耐力赛夺冠后发表评论，延续年初与 GR 负责人森桑（丰田章男）的“竞争”话题。中嶋曾公开表示要脱离 GR 成立丰田赛车，并誓言用勒芒冠军奖杯“砸向”森桑。此次夺冠后，他再次喊话，展现出丰田内部良性竞争与对极致性能的追求。",
+    "highlights_zh": [
+      "勒芒夺冠后中嶋副社长喊话森桑",
+      "年初与森桑的“吵架”是良性竞争",
+      "中嶋代表想独立造好车的工程师",
+      "用冠军奖杯证明自己的道路"
+    ],
+    "entities": [
+      "丰田赛车 | Toyota Racing",
+      "GR",
+      "中嶋裕树",
+      "丰田章男",
+      "勒芒 24 小时耐力赛"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15075310/SPJ_8864-1.jpg?v=1781477592",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15075310/SPJ_8864-1-600x400.jpg?v=1781477592",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15070522/85917-tjp2614ju50190-600x426.jpg?v=1781474724"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:34.641Z"
+  },
+  "https://bestcarweb.jp/newcar/1545680": {
+    "title_zh": "全新帕杰罗将取消分动箱操纵杆，历史首次",
+    "summary_short": "全新三菱帕杰罗或将取消传统分动箱操纵杆，改用电子旋钮或按键，成为该车系历史首次。",
+    "summary_long": "传统硬派越野车的标志性配置——分动箱操纵杆，在全新一代三菱帕杰罗上可能被取消，改为电子旋钮或按键控制。目前日本市场在售车型中，仅铃木吉姆尼和丰田兰德酷路泽 70 仍保留此设计。三菱旗下欧蓝德 PHEV、Triton 和得利卡 D:5 均已采用旋钮式切换。",
+    "highlights_zh": [
+      "全新帕杰罗或取消分动箱操纵杆",
+      "改用电子旋钮或按键控制",
+      "现售车型仅吉姆尼和兰德酷路泽 70 保留",
+      "三菱其他车型已全面切换"
+    ],
+    "entities": [
+      "帕杰罗",
+      "三菱 | Mitsubishi",
+      "吉姆尼",
+      "兰德酷路泽 70 | Land Cruiser 70",
+      "分动箱操纵杆"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161007/1dd6e95de4b13470e0df11e28220c089.jpg?v=1781075409",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161007/1dd6e95de4b13470e0df11e28220c089-600x400.jpg?v=1781075409",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10145148/s-hari-CX-5-600x440.jpg?v=1781070709"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:38.418Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532140": {
+    "title_zh": "【车名猜谜】第 785 回：你知道这款名车或珍车吗？",
+    "summary_short": "日产蓝鸟（Bluebird）从 1959 年诞生到 2001 年停产，历经 10 代 42 年，与丰田 Corona 的“BC 战争”成为经典。",
+    "summary_long": "日产蓝鸟（Bluebird）自 1959 年诞生以来，历经 10 代 42 年，从达特桑时代起便书写历史。曾与丰田 Corona 激烈竞争，催生了“BC 战争”一词。末代 10 代目（U14 型）仅提供轿车版本，取消了硬顶车型，最高动力为 150 马力的 SSS 系列，另有 2.0L 汽油、柴油及 1.8L 汽油发动机。2001 年蓝鸟历史终结，车名由 Bluebird Sylphy 继承。",
+    "highlights_zh": [
+      "日产蓝鸟历经 10 代 42 年",
+      "与丰田 Corona 的“BC 战争”",
+      "末代 U14 型仅轿车版",
+      "2001 年停产"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "蓝鸟",
+      "丰田 | Toyota",
+      "Corona",
+      "Bluebird Sylphy"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28131417/main_SP01210503-1.jpg?v=1779941658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28131417/main_SP01210503-1-600x400.jpg?v=1779941658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28133617/main_P1J09035l-600x400.jpg?v=1779942979"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:38.477Z"
+  },
+  "https://response.jp/article/2026/06/15/412673.html": {
+    "title_zh": "定量数据解读日本 BEV 用户真实选择：特斯拉、比亚迪与混动车主",
+    "summary_short": "日本 BEV 市场渗透率仍低，特斯拉与比亚迪两大品牌形成鲜明对比，用户选择背后有何逻辑？",
+    "summary_long": "日本 BEV 市场渗透率长期在 2-3%徘徊，2026 年 5 月虽创下 3.5%新高，但仍远低于其他地区。在此背景下，特斯拉凭借创新与品牌力引领市场，比亚迪则以成本与开发速度抢占份额。本次研讨会将基于定量数据，剖析日本 BEV 用户的真实购买动机与行为差异。",
+    "highlights_zh": [
+      "日本 BEV 渗透率仅 3.5%",
+      "特斯拉与比亚迪形成鲜明对比",
+      "用户选择反映品牌力与成本考量",
+      "混动车型仍具竞争力"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "比亚迪 | BYD",
+      "BEV",
+      "日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217960.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217960.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:42.631Z"
+  },
+  "https://response.jp/article/2026/06/15/412698.html": {
+    "title_zh": "富士技术研究将展出 3D 扫描仪和 AI 文档管理系统",
+    "summary_short": "富士技术研究将在 2026 名古屋人车技术展上展示高精度 3D 扫描仪、间隙测量仪及光纤传感系统等汽车制造检测设备。",
+    "summary_long": "富士技术研究（FTR）将于 2026 年 6 月 17 日至 19 日在爱知天空展览中心举办的“人车技术展 2026 名古屋”上展出多款检测设备。展品包括高精度便携式 3D 扫描仪 HandySCAN3D 和 MetraSCAN3D，适用于汽车零部件质量管控、座椅设计、铸造锻造检验等领域；便携式间隙/台阶测量仪 GAPGUN PRO2，用于飞机和汽车装配检查；以及光纤传感系统 FBI-Gauge，可进行应变、温度分布测量及损伤检测，应用于发动机舱温度测量、白车身扭转刚度测试等。",
+    "highlights_zh": [
+      "展出 HandySCAN3D 和 MetraSCAN…",
+      "GAPGUN PRO2 便携式间隙/台阶测量仪",
+      "FBI-Gauge 光纤传感系统用于应变和温度测量",
+      "应用于汽车、航空及重工业的质量检测"
+    ],
+    "entities": [
+      "富士技术研究",
+      "HandySCAN3D",
+      "MetraSCAN3D",
+      "GAPGUN PRO2",
+      "FBI-Gauge"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218745.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218745.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:43.320Z"
+  },
+  "https://response.jp/article/2026/06/15/412697.html": {
+    "title_zh": "BBS 摄影大赛 2026：纪念新标语“Performance Driven”，Instagram 征集作品",
+    "summary_short": "BBS 日本举办第五届摄影大赛，纪念新标语“Performance Driven”，设四个主题，通过 Instagram 征集作品。",
+    "summary_long": "BBS 日本株式会社举办第五届“Performance Driven BBS Photo Contest 2026”摄影大赛，以纪念 2026 年 1 月启用的新标语“Performance Driven”。该标语体现了 BBS 以赛车运动为原点、追求极致性能与功能美的理念。大赛新设“Performance Driven”、“Timeless Classic”、“BBS Legends”、“Motorsport”四个部门，参赛者需通过 Instagram 提交作品，仅限 BBS 车主参与。入选者将获得印有参赛照片的 BBS 标志相框及原创周边，作品还有机会入选 2027 年 BBS 原创台历。",
+    "highlights_zh": [
+      "BBS 日本举办第五届摄影大赛",
+      "纪念新标语“Performance Driven”",
+      "设四个主题部门",
+      "入选作品可获相框及台历刊登"
+    ],
+    "entities": [
+      "BBS",
+      "Performance Driven",
+      "Instagram"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218729.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218729.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:46.104Z"
+  },
+  "https://response.jp/article/2026/06/15/412695.html": {
+    "title_zh": "Terra Charge 在福岛度假酒店安装 EV 充电器",
+    "summary_short": "Terra Charge 在福岛县双叶町的度假酒店安装 6kW 普通充电器 3 口，并更新充电 App。",
+    "summary_long": "Terra Charge 宣布，在大和 Life Next 运营的度假酒店“FUTATABI FUTABA FUKUSHIMA”安装了 3 台 6kW 普通充电器（共 3 口），并已开始服务。此举旨在响应日本经济产业省 2030 年 EV 充电器 30 万口的目标，推动 EV 普及和充电基础设施建设。同时，公司对 iOS 和 Android 版充电 App“Terra Charge”进行了改版，提升用户体验。未来将加强与合作伙伴和地方政府合作，构建可持续的移动出行环境。",
+    "highlights_zh": [
+      "在福岛度假酒店安装 3 口 6kW 充电器",
+      "响应日本 2030 年 30 万口充电目标",
+      "充电 App“Terra Charge”改版升级",
+      "推动可持续移动出行环境建设"
+    ],
+    "entities": [
+      "Terra Charge",
+      "FUTATABI FUTABA FUKUSHIMA",
+      "福岛县",
+      "EV 充电器",
+      "大和ライフネクスト"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218723.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218723.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:47.571Z"
+  },
+  "https://response.jp/article/2026/06/15/412687.html": {
+    "title_zh": "GM 与 Redwood 合作，将 EV 电池再利用为 1.5MW 储能系统",
+    "summary_short": "通用汽车与 Redwood 合作，在密歇根工厂部署由约 100 个 EV 电池包组成的 1.5MW 储能系统，预计节省电费超 300 万美元。",
+    "summary_long": "通用汽车（GM）与电池回收企业 Redwood Materials 合作，在密歇根州工厂部署由约 100 个 GM 电动车电池包组成的储能系统，容量为 1.5MW/7.2MWh，用于分布式供电。预计运行期间可节省电费超 300 万美元，展示 EV 电池技术降低制造成本的潜力。此举使 GM 成为首家在电池生命周期各阶段（生产废料回收、废旧电池回收、电池再利用于能源基础设施）与 Redwood 全面合作的汽车制造商。",
+    "highlights_zh": [
+      "GM 与 Redwood 合作部署 1.5MW 储能…",
+      "使用约 100 个 GM EV 电池包",
+      "预计节省电费超 300 万美元",
+      "GM 成为全生命周期合作的首家车企"
+    ],
+    "entities": [
+      "通用汽车",
+      "Redwood Materials",
+      "EV 电池"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218703.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218703.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:49.990Z"
+  },
+  "https://response.jp/article/2026/06/15/412688.html": {
+    "title_zh": "NXP 推出车载雷达 SoC SAF8444，单芯片实现 L2/L2+ ADAS",
+    "summary_short": "NXP 发布 28nm RFCMOS 雷达 SoC SAF8444，单芯片实现 L2/L2+ ADAS，降低系统成本，推动经济型车辆普及。",
+    "summary_long": "NXP 半导体推出新型车载雷达系统级芯片（SoC）SAF8444，采用 28nm RFCMOS 单芯片架构，集成雷达与 ADAS 处理功能。该芯片通过创新 RF 设计实现高性能与低功耗，简化热管理并易于车辆集成，有助于降低系统整体成本，尤其适合电动汽车平台。SAF8444 旨在促进 L2 及 L2+级 ADAS 功能在经济型与入门级车型中的普及。",
+    "highlights_zh": [
+      "28nm RFCMOS 单芯片架构",
+      "单芯片实现 L2/L2+ ADAS 处理",
+      "降低系统成本",
+      "优化热管理"
+    ],
+    "entities": [
+      "NXP",
+      "SAF8444",
+      "ADAS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218704.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218704.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:51.293Z"
+  },
+  "https://response.jp/article/2026/06/15/412675.html": {
+    "title_zh": "奥迪 A6 新款日本上市前特别内览会",
+    "summary_short": "奥迪日本将于今夏发售新款 A6，并在东京、名古屋、大阪举办特别内览会，展示 MHEV plus 轻混系统及静音升级。",
+    "summary_long": "奥迪日本宣布，将于今夏在日本市场推出全新一代奥迪 A6。为让用户提前体验，将在东京、名古屋、大阪三地举办特别内览会。新车搭载 MHEV plus 轻混系统，可额外提供 230 牛·米扭矩和 18 千瓦功率，同时降低 CO2 排放。车内静音性能较上一代提升 30%，19 英寸及以上轮胎标配噪音吸收器。",
+    "highlights_zh": [
+      "三城巡展：东京、名古屋、大阪",
+      "MHEV plus 轻混系统",
+      "静音提升 30%",
+      "今夏日本发售"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A6"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218540.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218540.jpg",
+      "https://response.jp/imgs/fill2/2218542.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:53.391Z"
+  },
+  "https://bestcarweb.jp/feature/column/1523607": {
+    "title_zh": "丰田 Aqua 入门版 X 是否值得买？",
+    "summary_short": "丰田 Aqua 入门版 X 售价低于 250 万日元，虽配置精简但油耗和安全装备出色，适合务实用户。",
+    "summary_long": "丰田 Aqua 最便宜的 X 版售价 248.6 万日元起，比 G 版便宜 16.83 万日元，比 Z 版便宜 33.88 万日元。它搭载与高配相同的 1.5L 混动系统，WLTC 油耗达 34.3km/L，为全系最佳。安全方面标配 Toyota Safety Sense，包括预碰撞安全、车道循迹辅助、自适应巡航等。X 版适合不追求内饰质感和大屏幕、注重油耗和基本安全的用户，如通勤族、家庭第二辆车或法人用户。",
+    "highlights_zh": [
+      "X 版起价 248.6 万日元",
+      "油耗 34.3km/L",
+      "标配 Toyota Safety Sense 安全套…",
+      "适合务实通勤或第二辆车用户"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "アクア",
+      "Toyota Safety Sense"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27142909/0M0A6565-1.jpg?v=1779859751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/27142909/0M0A6565-1-600x400.jpg?v=1779859751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12161034/AdobeStock_339897041-600x400.jpeg?v=1781248235"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:55.594Z"
+  },
+  "https://response.jp/article/2026/06/15/412699.html": {
+    "title_zh": "UACJ 将在 2026 名古屋人车技术展介绍铝回收与热管理技术",
+    "summary_short": "UACJ 将在 2026 名古屋人车技术展展示铝回收与汽车热管理技术，助力碳中和。",
+    "summary_long": "铝综合制造商 UACJ 宣布将参加 2026 年 6 月 17 日至 19 日在爱知天空展览中心举办的“人车技术展 2026 NAGOYA”。该展会是日本最大规模的汽车技术展会，自 1992 年起每年举办。UACJ 自 2016 年起连续参展，今年将以“为汽车行业实现碳中和做贡献”为主题，重点通过演讲介绍铝回收举措和汽车热管理技术。展位号为 353，免费入场但需提前注册，线上展会同步进行。",
+    "highlights_zh": [
+      "UACJ 连续 10 年以上参展",
+      "聚焦铝回收与热管理技术",
+      "助力汽车行业碳中和",
+      "展会免费但需提前注册"
+    ],
+    "entities": [
+      "UACJ",
+      "人车技术展 2026 NAGOYA"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218746.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218746.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:57.480Z"
+  },
+  "https://response.jp/article/2026/06/15/412696.html": {
+    "title_zh": "Autobacs 推出“爱车生日积分” 提前两个月提醒车检",
+    "summary_short": "Autobacs 将于 2026 年 10 月推出新积分制度，以车检到期日为基准提前两个月赠送积分，鼓励车主按时保养。",
+    "summary_long": "日本汽车用品连锁 Autobacs 宣布，自 2026 年 10 月起更新会员积分制度，新增“爱车生日积分”。该制度将车检到期日定义为“爱车生日”，每年在到期日约两个月前（月初）向符合条件的会员赠送积分，最高每年 2000 点（Autobacs 限定 V 点），有效期约 3 个月。此举旨在应对车龄上升带来的保养需求，解决车主“不知何时保养”或“拖延保养”的痛点。获得积分需满足：车辆信息中登记了车检到期日、已注册 V 点卡、且过去一年内到店消费。积分可用于全国 Autobacs 门店的维修保养及汽车用品购买。",
+    "highlights_zh": [
+      "2026 年 10 月起实施",
+      "车检到期日定义为“爱车生日”",
+      "提前约 2 个月赠送积分",
+      "最高每年 2000 点"
+    ],
+    "entities": [
+      "オートバックス"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218726.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218726.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:26:59.942Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530562": {
+    "title_zh": "三菱 Delica D:5 首次搭载 S-AWC，19 年进化终成完全体",
+    "summary_short": "三菱 Delica D:5 在 2026 年改款中首次搭载 S-AWC 四驱系统，强化雪地、泥泞及日常操控稳定性，成为更全能的越野 MPV。",
+    "summary_long": "三菱 Delica D:5 在 2026 年 1 月的大改款中，终于搭载了品牌引以为傲的 S-AWC（Super-All Wheel Control）电子四驱系统。该系统整合了 4WD、AYC、ASC 和 ABS，不仅优化前后驱动力分配，还通过左右轮制动控制提升弯道和稳定性。这使得 Delica D:5 在雪地、泥泞、雨天高速及山路等场景下表现更出色，弥补了大型 MPV 操控上的不足。新车提供 G、G-Power Package、P 三个等级，售价分别为 451 万、474.65 万和 494.45 万日元，WLTC 油耗 12.9km/L，虽不及混动车型，但柴油机的强劲扭矩和四驱系统带来的安心感是其独特价值。",
+    "highlights_zh": [
+      "首次搭载 S-AWC 电子四驱系统",
+      "整合 4WD、AYC、ASC、ABS",
+      "提升雪地、泥泞及日常操控稳定性",
+      "柴油动力+四驱"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Delica D:5",
+      "S-AWC",
+      "AYC",
+      "ASC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08144120/0M0A7218_1.jpg?v=1780897281",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08144120/0M0A7218_1-600x400.jpg?v=1780897281",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12161034/AdobeStock_339897041-600x400.jpeg?v=1781248235"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:04.785Z"
+  },
+  "https://bestcarweb.jp/fullload/1541387": {
+    "title_zh": "富士田汽车工业开发轻量化坡道板，载重提升 200kg",
+    "summary_short": "富士田汽车工业在 2026 日本卡车展上展示新型轻量化坡道板，用于其主力车型 Dump Loader，载重能力提升 200kg。",
+    "summary_long": "香川县的富士田汽车工业以定制平板车身和重型机械运输车闻名，在 2026 日本卡车展上展示了新型轻量化坡道板。该坡道板专为其主力车型 Dump Loader 设计，采用液压自动展开系统，可收纳于车底，减轻驾驶员操作负担。相比前代产品，新型坡道板可多承载 200kg，并支持左右位置调整，适应不同轮距的重型机械。Dump Loader 自 1970 年问世，1980 年推出固定式车身底盘，是长期畅销车型。",
+    "highlights_zh": [
+      "载重能力提升 200kg",
+      "液压自动展开",
+      "支持左右位置调整",
+      "专为 Dump Loader 车型设计"
+    ],
+    "entities": [
+      "富士田汽车工业",
+      "Dump Loader",
+      "坡道板",
+      "日本卡车展 2026"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/05115457/00_395A8292-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/05124636/00-Renault-Trucks-MY-2027-3.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/08110422/180ed02e657b8b59c1b8194190b4bc55-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:05.154Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1537687": {
+    "title_zh": "巴士座椅偏好：硬座还是软座？",
+    "summary_short": "日本公共交通座椅普遍偏软，作者对比国内外体验，探讨硬座与软座的偏好差异。",
+    "summary_long": "作者基于个人观察指出，日本无论是日常路线巴士还是长途高速巴士，座椅普遍偏软，甚至电车座椅也以柔软著称。相比之下，海外生活的作者认为日本座椅的柔软度令人印象深刻。文章探讨了座椅硬度与舒适度的主观感受差异，并提及日本巴士座椅常用莫克特或合成皮革材质，触感舒适。",
+    "highlights_zh": [
+      "日本巴士座椅普遍偏软",
+      "座椅硬度感受因人而异",
+      "莫克特和合皮革材质触感舒适"
+    ],
+    "entities": [
+      "巴士",
+      "座椅",
+      "日本"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/02084521/bs_satsthd_01-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/11102335/kbd10083_2-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/30105541/f40d3c853bfe740e32c3818d0b8e19cc.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:08.071Z"
+  },
+  "https://response.jp/article/2026/06/15/412694.html": {
+    "title_zh": "菲亚特发布全新 C 级 SUV Grizzly，全球战略车型",
+    "summary_short": "菲亚特发布全新 C 级 SUV Grizzly 及轿跑版，主打紧凑车身与宽敞空间，提供多种动力，2026 年下半年上市。",
+    "summary_long": "菲亚特正式公开了全新 C 级 SUV Grizzly 及轿跑版 Grizzly Fastback 的官方图片。两款车型基于全球通用平台开发，体现“人人易用”理念。Grizzly 以直立紧凑比例实现宽敞内部空间和同级领先后备箱容积，适合家庭用户；Fastback 则拥有流畅溜背造型，强调动态美学与纵向储物能力。动力涵盖汽油到纯电动，配备标志性 LED 日行灯。计划 2026 年下半年在欧洲、中东及非洲上市，并利用多生产基地实现全球布局。",
+    "highlights_zh": [
+      "全新 C 级 SUV Grizzly 及轿跑版 Fa…",
+      "紧凑车身（<4.5m）实现宽敞空间",
+      "提供汽油至纯电动多种动力",
+      "2026 年下半年欧洲等地上市"
+    ],
+    "entities": [
+      "菲亚特",
+      "Grizzly",
+      "Grizzly Fastback",
+      "C 级 SUV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218720.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218720.jpg",
+      "https://response.jp/imgs/fill2/2218721.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:09.738Z"
+  },
+  "https://response.jp/article/2026/06/14/412666.html": {
+    "title_zh": "Proto 开始在日本交付 BENDA 拿破仑 Bob 250 和 Morbidelli C252V",
+    "summary_short": "Proto 开始在日本交付 BENDA 拿破仑 Bob 250 和 Morbidelli C252V，首批已售罄，下一批 7 月到货。",
+    "summary_long": "Proto 作为日本正规进口商，开始交付 BENDA 拿破仑 Bob 250 和 Morbidelli C252V 两款摩托车。首批车辆已售罄，下一批预计 7 月到货。BENDA 是 2016 年成立于中国杭州的新兴摩托车品牌，年产约 10 万辆，产品涵盖 125cc 至 700cc 巡航车及 ATV/UTV。拿破仑 Bob 250 是 BENDA 在日本的首款车型，搭载 249cc 水冷 V 型双缸发动机，最大功率 26.2ps，配备独特的多连杆前悬架和三角形后摇臂，座高 750mm，标配 ABS 和 TCS。Morbidelli 品牌源自 1960 年代的意大利摩托车制造商，2021 年于博洛尼亚重建，其创始人 Giancarlo Morbidelli 曾在 1970 年代 WGP 赛事中多次夺冠。",
+    "highlights_zh": [
+      "首批车辆已售罄",
+      "BENDA 拿破仑 Bob 250 搭载 249cc…",
+      "座高 750mm",
+      "Morbidelli 品牌源自意大利"
+    ],
+    "entities": [
+      "Proto",
+      "贝纳",
+      "拿破仑 Bob 250 | NapoleonBob 250",
+      "莫比代利",
+      "C252V"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218292.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218292.jpg",
+      "https://response.jp/imgs/fill2/2218547.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:12.567Z"
+  },
+  "https://response.jp/article/2026/06/15/412701.html": {
+    "title_zh": "AUTOart 推出 1/18 保时捷 911 GT3 RS 魏斯阿赫套件模型",
+    "summary_short": "AUTOart 推出 1/18 保时捷 911 GT3 RS 模型，含魏斯阿赫套件，7 色可选，售价 37400 日元起。",
+    "summary_long": "AUTOart 将于 6 月下旬发售 1/18 比例的保时捷 911（991.2）GT3 RS 模型。该模型采用 3D 扫描和复合压铸工艺，精准再现了发动机舱、驾驶舱等细节。提供魏斯阿赫套件 4 色和标准版 3 色共 7 种涂装，价格从 37400 日元起。",
+    "highlights_zh": [
+      "1/18 比例压铸模型",
+      "3D 扫描精准复刻实车细节",
+      "魏斯阿赫套件与标准版共 7 色",
+      "售价 37400 日元起"
+    ],
+    "entities": [
+      "AUTOart",
+      "保时捷 | Porsche",
+      "911 GT3 RS",
+      "魏斯阿赫套件"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218734.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218734.jpg",
+      "https://response.jp/imgs/fill2/2218739.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:13.165Z"
+  },
+  "https://www.motor1.com/news/798664/discount-tire-gives-free-tire/": {
+    "title_zh": "女子无力支付轮胎维修费，Discount Tire 员工免费更换让她重拾信心",
+    "summary_short": "一位女子因轮胎损坏无法修复且无力支付费用，Discount Tire 员工免费为她更换新轮胎，令她感动落泪。",
+    "summary_long": "一位名为@lokells 的用户在 TikTok 上分享了一段视频，讲述她在 Discount Tire 的暖心经历。她的轮胎受损无法修复，但无力承担更换费用。然而，店员们不仅没有收费，还为她免费安装了新轮胎。这一善举让她感动落泪，并称“这些员工真的不知道他们今天下午让我重拾了多少信心”。视频中展示了新轮胎安装在前乘客侧的画面。",
+    "highlights_zh": [
+      "轮胎损坏无法修复",
+      "无力支付更换费用",
+      "员工免费安装新轮胎",
+      "女子感动落泪"
+    ],
+    "entities": [
+      "Discount Tire"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lR6K/s1/woman-goes-to-discount-tire-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:16.584Z"
+  },
+  "https://www.motor1.com/news/798665/new-vs-35000-miles-transmission-fluid/": {
+    "title_zh": "变速箱油到底该多久换？35,000 英里后颜色惊人",
+    "summary_short": "美国修理工对比新旧变速箱油，指出厂家宣称的 10 万英里换油周期过长，35,000 英里后油液已严重变质。",
+    "summary_long": "美国佛罗里达州一家独立修理厂通过视频对比了全新变速箱油和行驶 35,000 英里后的油液，后者颜色已如机油般浑浊。修理厂指出，许多制造商宣称的“终身免维护”或 10 万英里换油周期并不合理，实际油液在远低于此里程时已严重劣化。视频还展示了原厂与后市场变速箱油温控制阀的差异，原厂阀使油温保持在 200-220 华氏度，而后市场件可降至 140 华氏度，有助于延长油液寿命。该视频引发广泛讨论，反映了行业内对变速箱油更换周期的长期争议。",
+    "highlights_zh": [
+      "35",
+      "厂家宣称 10 万英里换油周期被质疑",
+      "后市场油温控制阀可将油温降至 140°F",
+      "视频播放超 110 万次"
+    ],
+    "entities": [
+      "变速箱油",
+      "换油周期",
+      "油温控制阀",
+      "Griffis Automotive Clinic Inc."
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONok4/s1/mechanic-checks-brand-new-transmission-fluid..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:18.714Z"
+  },
+  "https://www.motor1.com/news/798663/audi-customer-negotiates-fresh-eggs/": {
+    "title_zh": "奥迪女销售为成交附赠一盒鸡蛋",
+    "summary_short": "美国奥迪女销售为促成交易，将同事送的鲜鸡蛋作为赠品送给客户，引发热议。",
+    "summary_long": "美国加州一名奥迪女销售员为促成交易，将同事早上送给她的一盒鲜鸡蛋作为额外赠品送给客户，最终成功签单。她在社交媒体上分享这一经历，询问同行是否也有类似“怪招”成交的经历，引发广泛讨论。",
+    "highlights_zh": [
+      "销售员用一盒鸡蛋促成交易",
+      "客户获得额外赠品后签约",
+      "引发汽车销售行业热议"
+    ],
+    "entities": [
+      "奥迪"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OjQo/s1/audi-car-dealership-worker-needs-to-close-a-deal.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:19.867Z"
+  },
+  "https://www.motor1.com/news/798662/first-generation-toyota-tacoma-starts-after-fire/": {
+    "title_zh": "丰田 Tacoma 内饰烧毁后仍能启动",
+    "summary_short": "一辆第一代丰田 Tacoma 在火灾中内饰完全烧毁，但车主尝试启动时，发动机竟然成功运转，引发网友热议。",
+    "summary_long": "一辆第一代丰田 Tacoma 在火灾中内饰被完全烧毁，但车主尝试启动时，发动机竟然成功运转。视频显示，车内布满灰尘和烟灰，座椅破损，仪表盘完全缺失，但机械部件似乎完好。车主插入钥匙后，发动机顺利启动。这一事件引发网友评论，称第四代车型可能无法做到。",
+    "highlights_zh": [
+      "第一代 Tacoma 火灾后仍能启动",
+      "内饰完全烧毁但机械部件完好",
+      "网友：第四代做不到"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tacoma"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WERjX/s1/toyota-tacoma-s-interior-gets-destroyed-in-a-fire.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:22.903Z"
+  },
+  "https://www.thedrive.com/news/darn-some-chevy-corvette-zr1-owners-report-paint-chipping-at-180-mph-and-above": {
+    "title_zh": "雪佛兰科尔维特 ZR1 车主报告：时速 180 英里以上漆面开裂",
+    "summary_short": "部分雪佛兰科尔维特 ZR1 车主反映，在高速行驶时后扰流板产生的下压力导致漆面开裂，通用已承担维修费用。",
+    "summary_long": "雪佛兰科尔维特 ZR1 在追求极致性能时遇到了新问题：部分车主报告，选装 ZTK 性能套件的大尺寸后扰流板在时速超过 180 英里时产生巨大下压力，导致扰流板支架与车身接触点附近的漆面开裂。一位名为 Wheelr_的车主在代托纳赛道以 185 英里时速行驶后首次发现此问题，其朋友在 Z06 车型上安装同款扰流板后也出现类似情况。通用汽车已为受影响车主免费修复漆面，但尚未提供泡沫垫等预防措施。",
+    "highlights_zh": [
+      "后扰流板下压力导致漆面开裂",
+      "问题出现在时速 180 英里以上",
+      "通用已免费修复但未提供预防方案",
+      "涉及 ZTK 性能套件车型"
+    ],
+    "entities": [
+      "雪佛兰",
+      "科尔维特 ZR1 | Corvette ZR1",
+      "ZTK 性能套件",
+      "代托纳赛道"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/08/Corvette-ZR1-top.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-4.51.35-PM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Farley-and-Bronco.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:23.763Z"
+  },
+  "https://www.motor1.com/news/798623/hybrid-engine-efficiency-breakthrough/": {
+    "title_zh": "东风新混动发动机热效率达 45.5%",
+    "summary_short": "东风全新 2.0T 混动发动机获中汽研认证，热效率达 45.5%，采用 MAKC 燃烧技术，燃油经济性提升 3-10%。",
+    "summary_long": "东风汽车宣布其全新 Mach Power 2.0T 混动发动机已获得中汽研华诚认证，峰值热效率达到 45.5%。该发动机专为混动 SUV 及大型车辆设计，兼顾性能、拖拽能力与效率。核心采用名为 MAKC 的新型燃烧系统，通过长行程设计（行程缸径比 1.29）、350 巴高压直喷和高能点火系统，实现高压缩比并保持高效。冷却低压 EGR 系统进一步降低燃烧温度，可提升燃油经济性 3-10%。",
+    "highlights_zh": [
+      "热效率达 45.5%",
+      "采用 MAKC 燃烧技术",
+      "350 巴高压直喷",
+      "燃油经济性提升 3-10%"
+    ],
+    "entities": [
+      "东风",
+      "Mach Power 2.0T",
+      "中汽研华诚"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJGlE/s1/il-motore-ibrido-da-record-con-efficienza-al-45-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T05:27:26.512Z"
   }
 }

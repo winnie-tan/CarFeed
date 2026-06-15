@@ -1,86 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-14T15:19:59.880Z",
+    "generated_at": "2026-06-15T05:26:29.651Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 389,
-    "deepseek_untranslated_before_run": 11,
-    "newly_fetched_articles": 11,
-    "newly_fetched_untranslated": 11,
+    "deepseek_translated_before_run": 374,
+    "deepseek_untranslated_before_run": 26,
+    "newly_fetched_articles": 26,
+    "newly_fetched_untranslated": 26,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 11,
+    "translation_queue_count": 26,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.14",
-        "title": "New Colorado Law Gets It Right by Requiring Responsible EV Battery Recycling",
-        "url": "https://www.thedrive.com/news/new-colorado-law-gets-it-right-by-requiring-responsible-ev-battery-recycling"
+        "source": "Best Car Web",
+        "time": "2026.6.15",
+        "title": "「モリゾウさん覚悟しておいてください」 ル・マン優勝で喧嘩に進展!!? トヨタレーシング「ジャイアーノ」中嶋裕樹副社長がコメント",
+        "url": "https://bestcarweb.jp/news/motorsport/1549684"
       },
       {
-        "source": "Motor1",
-        "time": "2026.6.14",
-        "title": "Man’s Check Engine Light Comes On. Then He Keeps Driving Anyway: ‘My Bank Account Said No Thank You’",
-        "url": "https://www.motor1.com/news/798641/man-ignores-check-engine-light/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.14",
-        "title": "Big Trucks Like the Ford Super Duty and Ram HD Eluded Safety Evaluations, Until Now",
-        "url": "https://www.thedrive.com/news/big-trucks-like-the-ford-super-duty-and-ram-hd-eluded-safety-evaluations-until-now"
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 フィジカルAIの覇権争いを特許情報起点で炙り出す－自動運転・ヒューマノイド・主要プレイヤー分析と勝ち組候補－",
+        "url": "https://response.jp/article/2026/06/15/412693.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.14",
-        "title": "【速報】トヨタ4年ぶり雪辱果たす!! ル・マン24時間レース6度目の総合優勝を飾る",
-        "url": "https://bestcarweb.jp/news/motorsport/1549586"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.14",
-        "title": "Woman Gets A Flat Tire. Then Her Fiancé Checks What Caused It—And It Sends Him Reeling: ‘I Wish I Was Making This Up’",
-        "url": "https://www.motor1.com/news/798640/flat-tire-road-debris/"
+        "time": "2026.6.15",
+        "title": "【独自】新型パジェロで歴史上初の装備が!? トランスファーレバー廃止でかわるパジェロの姿",
+        "url": "https://bestcarweb.jp/newcar/1545680"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.14",
-        "title": "オープンカーへのアツいこだわりが凄すぎる!! ダイハツが世界に魅せた「本気のコンセプトカー」たちを今こそプレイバック!!",
-        "url": "https://bestcarweb.jp/feature/column/1542999"
+        "time": "2026.6.15",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第785回",
+        "url": "https://bestcarweb.jp/feature/column/1532140"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.14",
-        "title": "キレのあるエンジンとハンドリングがマニアを惹きつけた…プジョー『205 GTI』【懐かしのカーカタログ】",
-        "url": "https://response.jp/article/2026/06/14/412670.html"
+        "time": "2026.6.15",
+        "title": "3DスキャナーやAI文書管理システム、富士テクニカルリサーチが展示へ…人とくるまのテクノロジー展 2026 NAGOYA",
+        "url": "https://response.jp/article/2026/06/15/412698.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.14",
-        "title": "タイヤの種類と選び方を解説、プレミアム・エコ・スポーツ・ハイグリップの違い～カスタムHOW TO～",
-        "url": "https://response.jp/article/2026/06/13/412649.html"
+        "time": "2026.6.15",
+        "title": "7/22申込締切 【誰も語らない】テスラを買う人、BYDを選ぶ人、ハイブリッドに乗り続ける人～なぜその選択なのか？定量データで読み解く日本のBEVユーザーのリアル～",
+        "url": "https://response.jp/article/2026/06/15/412673.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.14",
-        "title": "タマモクロス仕様の「スカイライン」に、アストンマーチャン仕様の「アストンマーティン」!? 超高級車も登場した『ウマ娘』痛車まとめ【ARCChampionship 2026フォトレポ】",
-        "url": "https://response.jp/article/2026/06/14/412659.html"
+        "time": "2026.6.15",
+        "title": "BBSフォトコンテスト2026、新タグライン「Performance Driven」記念…Instagramで作品募集",
+        "url": "https://response.jp/article/2026/06/15/412697.html"
       },
       {
-        "source": "Motor1",
-        "time": "2026.6.14",
-        "title": "‘Figure Out Your Own Problems’: Woman Goes To AutoZone. Then A Worker Hands Her An OBD Reader",
-        "url": "https://www.motor1.com/news/798639/autozone-obd-reader/"
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "EV充電器「テラチャージ」、福島のリトリート型ホテル「FUTATABI FUTABA FUKUSHIMA」に設置",
+        "url": "https://response.jp/article/2026/06/15/412695.html"
       },
       {
-        "source": "InsideEVs",
-        "time": "2026.6.14",
-        "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
-        "url": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/"
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "GMがEVバッテリーを米工場に再利用、1.5MWの蓄電システム導入へ…Redwoodと協力",
+        "url": "https://response.jp/article/2026/06/15/412687.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "NXPセミコンダクターズ、車載レーダーSoC「SAF8444」発表…L2/L2+ ADAS処理をセンサー単体で実現",
+        "url": "https://response.jp/article/2026/06/15/412688.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "アウディ A6 新型、今夏の日本発売前に特別内覧会…東京・名古屋・大阪で開催",
+        "url": "https://response.jp/article/2026/06/15/412675.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.15",
+        "title": "アクアは250万円切りのベースグレードで十分!? 装備削っても後悔しないひと&後悔するひと",
+        "url": "https://bestcarweb.jp/feature/column/1523607"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "アルミリサイクルと熱マネジメント技術、UACJが紹介へ…人とくるまのテクノロジー展 2026 NAGOYA",
+        "url": "https://response.jp/article/2026/06/15/412699.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "オートバックス、「クルマのバースデーポイント」10月開始… 車検満了日の約2カ月前にポイント付与",
+        "url": "https://response.jp/article/2026/06/15/412696.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.15",
+        "title": "これまでより200kg多く積めるようになりました！ フジタ自動車工業が開発した重機運搬車用「軽量型歩み板」に迫る！",
+        "url": "https://bestcarweb.jp/fullload/1541387"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.15",
+        "title": "デビュー19年目にして初採用!! 新型デリカD:5にやっと載った機能は何がすごい!?",
+        "url": "https://bestcarweb.jp/feature/column/1530562"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.15",
+        "title": "バスの座席ならどちらがお好み? しっかり硬めのクッションか……ふわふわな柔らかシートか?",
+        "url": "https://bestcarweb.jp/busmagazine/1537687"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "フィアット、新型CセグSUV『グリズリー』の写真公開…グローバル戦略車に",
+        "url": "https://response.jp/article/2026/06/15/412694.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "プロト、ベンダ 『ナポレオンボブ250』とモルビデリ『C252V』の日本デリバリー開始",
+        "url": "https://response.jp/article/2026/06/14/412666.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.15",
+        "title": "ポルシェ911 GT3 RSヴァイザッハ・パッケージ、1/18のミニカー登場…AUTOart",
+        "url": "https://response.jp/article/2026/06/15/412701.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27503218661",
-    "sha": "65d6dd723bc204962937b78f5e912950a85b96a6",
-    "completed_at": "2026-06-14T15:20:29.522Z",
+    "run_id": "27525930493",
+    "sha": "d7f77e4c28fbc57d147e012f94e7873090cd1c25",
+    "completed_at": "2026-06-15T05:27:26.776Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -91,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 11,
-    "queued_articles": 11,
-    "processed": 11,
-    "started_at": "2026-06-14T15:20:00.191Z",
-    "finished_at": "2026-06-14T15:20:29.281Z",
+    "scoped_articles": 26,
+    "queued_articles": 26,
+    "processed": 26,
+    "started_at": "2026-06-15T05:26:29.958Z",
+    "finished_at": "2026-06-15T05:27:26.528Z",
     "success": true,
     "error": ""
   }
