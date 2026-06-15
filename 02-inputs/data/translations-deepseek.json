@@ -35652,5 +35652,899 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-15T05:27:26.512Z"
+  },
+  "https://www.motor1.com/news/798771/new-chevrolet-camaro-performance-variant/": {
+    "title_zh": "新一代雪佛兰 Camaro 将推高性能版",
+    "summary_short": "新一代雪佛兰 Camaro 将推出高性能版，可能搭载机械增压 6.7 升 V8 发动机，功率超 700 马力。",
+    "summary_long": "据 GM Authority 报道，新一代雪佛兰 Camaro 将推出高性能版，被描述为“辛辣”，令车迷兴奋。该车基于下一代凯迪拉克 CT5 平台，标准版可能搭载 6.7 升 V8 发动机，而高性能版或将采用机械增压，功率超 700 马力，超越现款 ZL1 的 650 马力。",
+    "highlights_zh": [
+      "新一代 Camaro 将推高性能版",
+      "可能搭载机械增压 6.7 升 V8",
+      "功率超 700 马力",
+      "基于下一代 CT5 平台"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Camaro",
+      "凯迪拉克",
+      "CT5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwokL/s1/2028-chevrolet-camaro-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:23.735Z"
+  },
+  "https://www.thedrive.com/news/bmw-confirms-next-m3-wont-be-a-hybrid-and-yeah-that-makes-sense": {
+    "title_zh": "宝马确认下一代 M3 不会是混动，这很合理",
+    "summary_short": "宝马确认下一代 M3 将提供纯电和纯燃油版本，而非混动。M 部门 CEO 表示将追求极致，而非折中方案。",
+    "summary_long": "宝马 M 部门 CEO Frank Van Meel 确认，下一代 M3 将不会采用插电混动系统，而是提供纯电四电机版本和纯燃油版本。燃油版将搭载经过大幅改进的 S58 3.0 升双涡轮增压直列六缸发动机，配备宝马专利的 M Ignite 预燃室点火系统，以满足欧 7 排放标准。Van Meel 表示，团队专注于“完美的燃烧原理”，将走向极端而非折中。",
+    "highlights_zh": [
+      "下一代 M3 不提供混动版本",
+      "将推出纯电四电机版和纯燃油版",
+      "燃油版搭载改进的 S58 发动机",
+      "M 部门追求极致"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M3",
+      "S58",
+      "M Ignite",
+      "欧 7"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/BMW-M3-ICE-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/P90643900-highRes-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/P90643898-highRes-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:23.943Z"
+  },
+  "https://www.motor1.com/news/798766/iihs-driver-aids-work-test/": {
+    "title_zh": "IIHS 揭示哪些驾驶辅助系统真正有效",
+    "summary_short": "IIHS 研究显示，部分驾驶辅助系统可能增加分心，而驾驶员监控系统有助于保持专注。",
+    "summary_long": "美国公路安全保险协会（IIHS）指出，虽然前碰撞预防等系统可将追尾事故减少 50%，但自适应巡航和车道居中技术并未带来明显安全效益，反而可能让驾驶员更容易分心。解决方案是增加驾驶员监控系统，通过摄像头和算法检测分心或疲劳驾驶，确保驾驶员视线保持在前方。",
+    "highlights_zh": [
+      "前碰撞预防系统减少 50%追尾事故",
+      "车道偏离预警和盲点监测有益安全",
+      "自适应巡航和车道居中未显示安全效益",
+      "驾驶员监控系统可减少分心"
+    ],
+    "entities": [
+      "IIHS",
+      "前碰撞预防",
+      "车道偏离预警",
+      "盲点监测",
+      "自适应巡航"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZ0we/s1/mazda-safety-system.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:27.500Z"
+  },
+  "https://insideevs.com/news/798584/luxeed-rx-ferrari-purosangue-connection/": {
+    "title_zh": "中国汽车品牌称聘请前法拉利设计师，法拉利要求指名道姓",
+    "summary_short": "Luxeed 声称前法拉利首席设计师参与新车设计，法拉利中国公关总监公开质疑并要求提供姓名。",
+    "summary_long": "中国汽车品牌 Luxeed 宣称其新款 SUV RX 由前法拉利首席设计师参与设计，但法拉利中国公关总监 Ingrid Sun 在社交媒体上公开要求 Luxeed 提供该设计师姓名，随后删除该帖。Luxeed 由华为和奇瑞支持，此前还挖角了宝马和阿斯顿·马丁的底盘工程师。法拉利自 2010 年以来首席设计官一直为 Flavio Manzoni，因此 Luxeed 所指的可能并非最高级别设计师。Luxeed RX 的设计与法拉利 Purosangue 高度相似，侧面轮廓几乎一致，但前后脸有所不同。",
+    "highlights_zh": [
+      "Luxeed 称前法拉利首席设计师参与新车设计",
+      "法拉利中国公关总监公开质疑并要求提供姓名",
+      "Luxeed RX 与法拉利 Purosangue…",
+      "法拉利自 2010 年以来首席设计官未变"
+    ],
+    "entities": [
+      "Luxeed",
+      "法拉利 | Ferrari",
+      "Luxeed RX",
+      "Purosangue",
+      "华为"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGRz1/s1/luxeed-rx.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:29.497Z"
+  },
+  "https://www.thedrive.com/news/jeep-grand-cherokee-trailhawk-overland-4x4-models-are-back-for-2027": {
+    "title_zh": "Jeep Grand Cherokee Trailhawk 和 Overland 4×4 车型将于 2027 年回归",
+    "summary_short": "Jeep 宣布 Grand Cherokee Trailhawk 和 Overland 4×4 车型将在 2027 年重返市场，此前它们于 2026 年因 4xe 动力总成停产而消失。",
+    "summary_long": "Jeep Grand Cherokee 的 Trailhawk 和 Overland 4×4 车型在 2026 年因 4xe 插电混动动力总成停产而缺席，但将于 2027 年回归。Jeep 品牌 CEO Bob Broderdorf 强调，Trailhawk 体现了“无所不能”的品牌精神，具备 Trail Rated 认证的越野能力；Overland 则结合了越野性能与豪华配置。2027 款车型预计不会有重大改动，因为 2026 款刚完成更新。",
+    "highlights_zh": [
+      "Trailhawk 和 Overland 4×4 车…",
+      "2026 年因 4xe 动力总成停产而缺席",
+      "Trailhawk 具备 Trail Rated 越…",
+      "Overland 兼顾越野与豪华配置"
+    ],
+    "entities": [
+      "Jeep Grand Cherokee",
+      "Trailhawk",
+      "Overland",
+      "4xe"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/jgc-holly-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/JP027_008GC.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/JP027_009GC.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:31.898Z"
+  },
+  "https://www.thedrive.com/news/hot-wheels-infinite-rush-preview-die-cast-playground-goes-open-world": {
+    "title_zh": "风火轮无限冲刺预览：合金小车游乐场变身开放世界",
+    "summary_short": "《风火轮无限冲刺》将系列从封闭赛道转向开放世界，提供四个充满秘密和收集要素的迷你城市环境，驾驶手感与《乐高 2K 竞速》相似。",
+    "summary_long": "《风火轮无限冲刺》是 Milestone 工作室继《风火轮释放》后的新作，将玩具车竞速带入开放世界。游戏包含四个开放世界环境，充满秘密、收集品和多种赛事类型。车辆分为通用、速度、漂移和泰坦四类，通过不同驾驶方式获得加速。预览版手感优于前作，风格类似《乐高 2K 竞速》。",
+    "highlights_zh": [
+      "开放世界取代封闭赛道",
+      "四类车辆：通用、速度、漂移、泰坦",
+      "类似《乐高 2K 竞速》的玩法风格",
+      "首发包含 150 辆合金小车"
+    ],
+    "entities": [
+      "风火轮 | Hot Wheels",
+      "风火轮无限冲刺 | Hot Wheels Infinite Rush",
+      "Milestone",
+      "风火轮释放",
+      "乐高 2K 竞速 | Lego 2K Drive"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/HighresScreenshot00979.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/HighresScreenshot00983.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/HighresScreenshot00964.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:33.884Z"
+  },
+  "https://www.motor1.com/news/798749/bmw-confrims-no-m3-hybrid/": {
+    "title_zh": "宝马确认下一代 M3 不推混动版",
+    "summary_short": "宝马确认下一代 M3 不会推出插电混动版，仅提供燃油版和纯电版，燃油版将搭载轻度混动系统。",
+    "summary_long": "宝马 M 部门负责人 Frank Van Meel 确认，下一代 M3 将不会推出插电混动版本，而是坚持纯燃油和纯电动两条路线。燃油版 M3 将搭载升级后的 S58 直列六缸发动机，并配备 48 伏轻度混动系统，以提升效率而不增加过多重量，这与采用插电混动系统的全新 M5 形成鲜明对比。纯电版 M3 则基于 Neue Klasse 平台打造，将实现更高水平的车辆动态性能，不仅直线加速快，在赛道圈速上也将有出色表现。",
+    "highlights_zh": [
+      "下一代 M3 无插电混动版",
+      "燃油版配 48V 轻混系统",
+      "纯电版基于 Neue Klasse 平台",
+      "纯电版将具备更强赛道性能"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M3",
+      "S58",
+      "Neue Klasse"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3QrQb/s1/2027-bmw-m3-cs-handschalter.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:36.185Z"
+  },
+  "https://www.thedrive.com/news/new-electric-car-sales-bounced-back-big-in-april-tds": {
+    "title_zh": "美国电动汽车销量 4 月强劲反弹",
+    "summary_short": "美国电动汽车销量在 2026 年 4 月仅同比下降 9.8%，创下年内最佳表现，较前几个月大幅改善。",
+    "summary_long": "尽管美国电动汽车销量在联邦税收抵免结束后低于此前水平，但自 2026 年初以来逐月走强。4 月新注册量仅同比下降 9.8%，较 1 月 41%、2 月 37%、3 月 25%的降幅显著收窄，显示市场正在回暖。此外，Stellantis 旗下美国品牌负责人 Tim Kuniskis 透露，将于 8 月 8 日的 Roadkill Nights 活动上推出一款惊喜车型，可能延续此前 Dodge Charger Daytona SRT 概念车和 Hornet 的发布传统。",
+    "highlights_zh": [
+      "4 月 EV 销量仅降 9.8%",
+      "1 月降 41%",
+      "Stellantis 计划 8 月发布惊喜车型"
+    ],
+    "entities": [
+      "Stellantis",
+      "Dodge",
+      "Charger Daytona SRT",
+      "Hornet",
+      "Roadkill Nights"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2269134969-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/jgc-holly-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:38.255Z"
+  },
+  "https://insideevs.com/news/798734/rivian-r1t-towing-cost/": {
+    "title_zh": "Rivian R1T 拖挂大拖车行驶 1500 英里：续航虽降，成本仍低于燃油车",
+    "summary_short": "Rivian R1T 拖挂 4500 磅拖车穿越落基山脉，续航降至 160-170 英里，但充电成本仍低于燃油，总耗时仅增加 10 小时。",
+    "summary_long": "Rivian R1T 拖挂 4500 磅拖车完成 1500 英里长途穿越，途经落基山脉。虽然续航从 314 英里降至 160-170 英里，需要 14 次充电，但充电成本仍低于燃油车。车主表示，考虑到原本就是三天行程，额外 10 小时充电时间完全可以接受。",
+    "highlights_zh": [
+      "拖挂 4500 磅后续航降至 160-170 英里",
+      "全程充电 14 次",
+      "充电成本仍低于燃油车",
+      "车主认为额外时间可接受"
+    ],
+    "entities": [
+      "Rivian R1T",
+      "落基山脉",
+      "拖挂",
+      "续航",
+      "充电成本"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZ06m/s1/rivian-r1t-towing-a-4-500-pound-trailer.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:40.417Z"
+  },
+  "https://www.motor1.com/features/798617/aston-martin-vanquish-designer-interview-story/": {
+    "title_zh": "阿斯顿·马丁 Vanquish 设计师：为何它至今仍如此重要",
+    "summary_short": "阿斯顿·马丁 Vanquish 问世 25 年，设计师 Ian Callum 讲述其设计理念与 V12 发动机的传奇故事。",
+    "summary_long": "阿斯顿·马丁 Vanquish 问世已 25 年，至今仍是品牌最具辨识度的车型之一。其原创设计师 Ian Callum 解释了这款车的持久魅力。尽管 V12 发动机常被视为阿斯顿·马丁的标志，但品牌早期曾使用四缸、直六和 V8 发动机，直到福特时代才将 V12 确立为核心哲学。Vanquish 的传奇始于 Callum 的一幅草图，他后来还设计了日产 R390、福特 RS200 和捷豹 F-Type 等经典车型。",
+    "highlights_zh": [
+      "Vanquish 问世 25 年",
+      "设计师 Ian Callum 讲述其设计理念",
+      "V12 发动机并非阿斯顿·马丁的永恒传统",
+      "Vanquish 的传奇始于一张草图"
+    ],
+    "entities": [
+      "阿斯顿·马丁 | Aston Martin",
+      "Vanquish",
+      "Ian Callum",
+      "V12 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8RX0/s1/aston-martin-vanquish-design-story.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:42.370Z"
+  },
+  "https://response.jp/article/2026/06/15/412719.html": {
+    "title_zh": "AI 博览会首次在东海地区举办，50 多家企业及 30 多场演讲汇聚名古屋",
+    "summary_short": "AI 博览会首次登陆东海地区，50 多家企业参展，30 多场演讲，聚焦制造业 AI 解决方案。",
+    "summary_long": "由运营国内最大级 AI 门户媒体“AIsmiley”的 Ismiley 公司主办的“AI 博览会 Nagoya 2026”将于 6 月 16 日至 17 日在名古屋会展中心举行。这是该博览会首次在东海地区举办，自 2024 年启动以来已累计吸引 5 万人到场。东海地区作为日本制造业的核心，面临人手不足和技能传承等课题，本次博览会将汇集从 IT 到制造现场的多领域 AI 技术，包括物理 AI、设备监控、AI 代理、生成 AI、LLM、图像识别、外观检查、人脸识别等产品与服务。此外，还设有“初创企业专区”，展示日本初创公司的 AI 开发成果，为企业提供针对性的解决方案。",
+    "highlights_zh": [
+      "首次在东海地区举办",
+      "50 多家企业参展",
+      "30 多场演讲",
+      "聚焦制造业 AI 解决方案"
+    ],
+    "entities": [
+      "AI 博览会",
+      "名古屋",
+      "东海地区",
+      "AIsmiley",
+      "物理 AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218835.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218835.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:45.981Z"
+  },
+  "https://response.jp/article/2026/06/15/412724.html": {
+    "title_zh": "丰田 GR86 新增“雷霆”车色，SNS 好评如潮",
+    "summary_short": "丰田 GR86 2027 款新增“雷霆”灰色车漆，内饰可选红色主题，操控与舒适性升级，SNS 获好评。",
+    "summary_long": "丰田在加州“Fuel Fest”活动上发布了 GR86 2027 年款，新增“雷霆”固体灰车色，随光线变化展现不同质感，凸显车身雕塑线条。内饰新增“座舱红”配色，搭配黑色超麂皮与红色皮革。操控方面，优化了油门响应和换挡手感，4-5 挡互锁倒角加宽 0.5mm，降挡更顺畅。车重维持轻量化，手动版约 1275kg，自动版约 1293kg。",
+    "highlights_zh": [
+      "新增“雷霆”固体灰车色",
+      "内饰可选“座舱红”主题",
+      "优化油门响应与换挡手感",
+      "车重保持轻量化（约 1275kg）"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR86",
+      "雷霆",
+      "座舱红"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218837.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218837.jpg",
+      "https://response.jp/imgs/fill2/2218838.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:46.833Z"
+  },
+  "https://response.jp/article/2026/06/15/412715.html": {
+    "title_zh": "Booost 供应链数据平台升级，强化企业间数据主权",
+    "summary_short": "Booost 升级供应链数据平台 booost Data EX-PF，强化数据主权、商业秘密保护与互操作性，支持日本企业应对全球环境法规。",
+    "summary_long": "Booost 宣布升级其供应链数据平台 booost Data EX-PF，以符合 ODP（开放数据平台）最新规范。该平台基于 ODS-RAM 技术规格，升级后加强了企业间数据主权、商业秘密保护和互操作性。平台遵循 WBCSD/PACT 数据模型，旨在帮助日本企业应对欧盟 CBAM、ESPR 等环境法规，实现供应链全链条数据追踪。",
+    "highlights_zh": [
+      "平台升级符合 ODP 最新规范",
+      "强化数据主权与商业秘密保护",
+      "支持欧盟 CBAM、ESPR 等法规合规",
+      "遵循 WBCSD/PACT 数据模型"
+    ],
+    "entities": [
+      "Booost",
+      "booost Data EX-PF",
+      "ODP",
+      "CBAM",
+      "ESPR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218814.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218814.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:51.186Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543419": {
+    "title_zh": "日产全新 Elgrand 能否撼动丰田 Alphard 霸主地位？",
+    "summary_short": "日产全新 Elgrand 将于 2026 年夏季推出，搭载第 3 代 e-POWER 和 e-4ORCE，挑战丰田 Alphard 在高端 MPV 市场的统治地位。",
+    "summary_long": "日产全新 Elgrand 计划于 2026 年夏季推出，将搭载第 3 代 e-POWER 混动系统和 e-4ORCE 四驱技术，并提供 AUTECH、AUTECH LINE、VIP 等衍生版本，展现日产对该车型的重视。然而，其最大对手是丰田 Alphard，后者凭借宽敞空间、豪华感和品牌力长期占据高端 MPV 市场主导地位。现款 Elgrand（E52）自 2010 年上市以来已有 16 年未换代，销量持续低迷，近年仅为 Alphard 的 5%。尽管 Elgrand 以操控性著称，但用户更青睐 Alphard 的直观魅力。全新 Elgrand 能否通过技术升级和差异化策略扭转局面，值得关注。",
+    "highlights_zh": [
+      "2026 年夏季推出",
+      "提供 AUTECH、VIP 等衍生版本",
+      "现款销量仅为 Alphard 的 5%",
+      "挑战 Alphard 的豪华 MPV 霸主地位"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "丰田 | Toyota",
+      "エルグランド",
+      "アルファード",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08070204/9e27d8926c12e413cf49b755ba0c3e3f-5.jpg?v=1780869725",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08070204/9e27d8926c12e413cf49b755ba0c3e3f-5-600x338.jpg?v=1780869725",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1-600x400.jpg?v=1780988712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:51.480Z"
+  },
+  "https://response.jp/article/2026/06/15/412708.html": {
+    "title_zh": "DS7 后继车型 DS N°7 欧洲开启订购，提供纯电与混动",
+    "summary_short": "DS N°7 作为 DS7 后继车型，提供纯电与混动版本，纯电版续航最高 740km，混动版碳排放最低 120g/km。",
+    "summary_long": "DS 品牌正式在欧洲开启 DS N°7 的订购，该车是 DS7 的后继车型，提供三种纯电动力和一种 48V 轻混动力。纯电版最大功率 375hp，长续航前驱版 WLTP 续航达 740km，主要部件在法国生产。混动版 CO2 排放仅 120-126g/km，为同级最低。车身设计灵感来自 DS AERO SPORT LOUNGE 概念车，风阻系数 0.26Cx，配备 DS LIGHT BLADE 灯光系统，内饰空间优化，后备箱容积最大 560 升。",
+    "highlights_zh": [
+      "纯电版续航最高 740km",
+      "混动版碳排放 120-126g/km",
+      "风阻系数 0.26Cx",
+      "主要部件法国本土生产"
+    ],
+    "entities": [
+      "DS",
+      "DS N°7",
+      "DS7",
+      "DS AERO SPORT LOUNGE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218767.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218767.jpg",
+      "https://response.jp/imgs/fill2/2218758.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:56.186Z"
+  },
+  "https://response.jp/article/2026/06/15/412710.html": {
+    "title_zh": "大西川将展示 EV、舒适空间与环境最新技术",
+    "summary_short": "大西川将在 2026 名古屋汽车技术展上展示 EV、舒适空间与环境三大领域的最新技术，包括集成概念内饰和新型发光控制皮革。",
+    "summary_long": "大西川（ダイキョーニシカワ）将于 6 月 17 日至 19 日参加在爱知县常滑市爱知天空展览中心举办的“人与车技术展 2026 名古屋”，同时在线展出至 7 月 1 日。其展位（#224）将围绕“舒适空间”、“环境”和“EV”三大类别，展示提供新附加值的产品和技术。基于 2024 年公开的内饰概念模型“C2035”，公司整合了个别开发的技术，实现了“和谐内饰概念”。其中，“发光控制皮革”是一种能大幅减少表皮颜色对透射光影响、提高清晰度并实现更锐利图标显示的材料。",
+    "highlights_zh": [
+      "展出三大类别：舒适空间、环境、EV",
+      "基于 C2035 概念模型开发",
+      "实现“和谐内饰概念”",
+      "新型发光控制皮革提升显示清晰度"
+    ],
+    "entities": [
+      "大西川 | ダイキョーニシカワ",
+      "C2035",
+      "人とくるまのテクノロジー展 2026 NAGOYA",
+      "发光控制皮革"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218794.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218794.jpg",
+      "https://response.jp/imgs/fill2/2218795.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:04:57.360Z"
+  },
+  "https://response.jp/article/2026/06/15/412707.html": {
+    "title_zh": "LUUP 死亡事故拷问特定原付的“期待”与“现实”",
+    "summary_short": "LUUP 用户死亡事故引发对电动滑板车等特定原付安全性的关注，其作为“最后一公里”交通工具的定位与现实差距凸显。",
+    "summary_long": "LUUP 于 6 月 9 日公布，其服务用户在东京都发生的特定小型原动机自行车（特定原付）事故中死亡。特定原付是 2023 年 7 月制度化、涵盖电动滑板车等的新车辆类别。国家与行业对其寄予厚望，视其为补充公共交通的“最后一公里”移动手段。然而，此次事故重新引发对其安全性及制度设计的质疑。背景包括老龄化、驾照返还增加、地方公交萎缩等社会课题。",
+    "highlights_zh": [
+      "LUUP 用户死亡事故",
+      "特定原付安全性受质疑",
+      "最后一公里移动手段定位",
+      "老龄化等社会背景"
+    ],
+    "entities": [
+      "LUUP",
+      "特定原付",
+      "国土交通省",
+      "电动滑板车",
+      "最后一公里"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218656.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218656.jpg",
+      "https://response.jp/imgs/fill2/2218659.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:01.438Z"
+  },
+  "https://response.jp/article/2026/06/15/412705.html": {
+    "title_zh": "SDV 时代下的底盘控制：ZF 描绘下一代出行蓝图",
+    "summary_short": "ZF 在 2026 横滨技术展上展示 SDV 相关技术，包括底盘控制、HEV、被动安全及商用车压缩机技术。",
+    "summary_long": "ZF 在“人とくるまのテクノロジー展 2026 YOKOHAMA”上以“控制赋智，革新驾乘”为主题，展示了 SDV 相关技术。重点展品包括支撑 SDV 的底盘控制技术、最新 HEV 技术、进化后的被动安全技术以及面向商用车的新型压缩机技术。ZF 拥有从底盘控制到变速箱、驱动系统及安全功能的广泛技术组合。ZF 日本公司表示，其优势在于长期积累的设计与制造能力，并计划将日本市场作为创新发信地和全球出口基地，强化本地化生产，例如电动驻车制动器（EPB）将于 2027 年在日本开始生产。",
+    "highlights_zh": [
+      "ZF 展示 SDV 时代底盘控制技术",
+      "重点包括 HEV、被动安全及商用车压缩机",
+      "电动驻车制动器 2027 年在日本生产",
+      "日本市场定位为创新与出口基地"
+    ],
+    "entities": [
+      "ZF",
+      "SDV",
+      "底盘控制",
+      "HEV",
+      "电动驻车制动器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2216513.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2216513.jpg",
+      "https://response.jp/imgs/fill2/2216524.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:02.469Z"
+  },
+  "https://press.piaggiogroup.com/en_EN/post/show/352278/the-piaggio-group-and-rome-cel.html": {
+    "title_zh": "Piaggio 集团与罗马共庆 Vespa 80 周年",
+    "summary_short": "Vespa 迎来 80 周年，罗马将举办史上最大规模 Vespa 活动，全球车迷齐聚永恒之城。",
+    "summary_long": "Piaggio 集团与罗马市共同庆祝 Vespa 诞生 80 周年，宣布将于 2026 年举办名为“VESPA ROMA 2026”的盛大活动。这将是史上最大规模的 Vespa 集会，为期四天，吸引来自世界各地的爱好者骑行参与。罗马作为赞助方和主办城市，将见证这一标志性踏板车的辉煌历史。",
+    "highlights_zh": [
+      "Vespa 80 周年庆典",
+      "罗马举办史上最大 Vespa 活动",
+      "四天节日吸引全球车迷"
+    ],
+    "entities": [
+      "Piaggio 集团 | Piaggio Group",
+      "Vespa",
+      "罗马"
+    ],
+    "gallery_images": [
+      "https://media.lulop.com/media/getimage/l/352278/8/640,480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:06.438Z"
+  },
+  "https://response.jp/article/2026/06/15/412712.html": {
+    "title_zh": "SOLIZE 集团将展示 SDV 开发与 AI 活用解决方案",
+    "summary_short": "SOLIZE 集团将在 2026 名古屋人车技术展上展示 SDV 开发、AI 活用等解决方案，助力汽车开发流程数字化转型。",
+    "summary_long": "SOLIZE 集团将于 6 月 17-19 日参加在爱知县国际展示场举办的“人车技术展 2026 NAGOYA”，展出主题为“变化的汽车，变化的开发——实现从企划、开发到制造、维护的‘连接流程 DX’”。当前汽车开发因软硬件融合而复杂化，为与海外 OEM 竞争，亟需大幅缩短开发时间，重新审视开发流程。SOLIZE 强调，各负责人需共享决策及设计意图，确保开发流程无缝衔接。展位将介绍从整体优化到个别解决方案的最新技术与案例。",
+    "highlights_zh": [
+      "展出 SDV 开发与 AI 活用解决方案",
+      "主题：连接流程 DX 实现开发变革",
+      "应对软硬件融合与开发周期缩短需求",
+      "展示从整体优化到个别解决方案的案例"
+    ],
+    "entities": [
+      "SOLIZE 集团",
+      "人车技术展 2026 NAGOYA",
+      "SDV",
+      "AI",
+      "DX"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218801.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218801.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:06.476Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545920": {
+    "title_zh": "WR-V 能否用于车内过夜？检查行李厢空间与平整性能",
+    "summary_short": "本田 WR-V 作为入门 SUV，行李厢空间达 458L，后排放倒后长度约 218cm，通过调整可实现单人车内过夜。",
+    "summary_long": "本田 WR-V 起售价约 214 万日元，虽为紧凑 SUV，但 5 座状态下行李厢容量达 458L，车身尺寸 4325×1790×1650mm。后排放倒后行李厢长度约 218cm，宽度 1020-1350mm，配合前排座椅前移，可满足身高较高者躺卧。开口宽大、离地间隙 195mm，便于装载露营装备。不过仅靠后排放倒长度约 172cm，需调整前排才能实现车内过夜。",
+    "highlights_zh": [
+      "5 座时行李厢 458L",
+      "后排放倒长度约 218cm",
+      "需前移前排座椅才能躺平",
+      "离地间隙 195mm 适合露营"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "WR-V",
+      "行李厢",
+      "车内过夜"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10150546/s-_DSC0507.jpg?v=1781071547",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10150546/s-_DSC0507-600x399.jpg?v=1781071547",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1-600x400.jpg?v=1780988712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:11.360Z"
+  },
+  "https://response.jp/article/2026/06/15/412714.html": {
+    "title_zh": "爱信高丘携手 TOWING 在印尼启动生物炭碳信用项目",
+    "summary_short": "爱信高丘与 TOWING 在印尼加里曼丹岛启动利用棕榈残渣生物炭的碳信用项目，进行可行性评估。",
+    "summary_long": "爱信高丘与 TOWING 在印度尼西亚加里曼丹岛共同启动了一项可行性研究，旨在利用棕榈残渣制成的生物炭开展碳信用创造业务。随着全球气候变化对策的紧迫性增加，不仅需要减少温室气体排放，利用“负排放技术”固定和吸收大气中二氧化碳的方法也备受关注。其中，将植物源生物质碳化后施用于农田的生物炭技术，被视为一种能够长期将碳封存在土壤中的有效手段。",
+    "highlights_zh": [
+      "爱信高丘与 TOWING 合作",
+      "印尼加里曼丹岛启动可行性研究",
+      "利用棕榈残渣生产生物炭",
+      "旨在创造碳信用"
+    ],
+    "entities": [
+      "爱信高丘",
+      "TOWING",
+      "印度尼西亚",
+      "生物炭",
+      "碳信用"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218812.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218812.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:11.638Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545955": {
+    "title_zh": "三菱 欧蓝德 PHEV 评测：露营最强 SUV？84 万日元补贴与供电功能看性价比",
+    "summary_short": "三菱欧蓝德 PHEV 凭借 84 万日元补贴、AC100V/1500W 供电及四驱系统，成为露营热门选择，性价比突出。",
+    "summary_long": "三菱欧蓝德 PHEV 凭借 84 万日元 CEV 补贴、AC100V/1500W 供电功能、双电机四驱及宽敞空间，成为露营爱好者的关注焦点。M 版起价 529 万日元，扣除补贴后约 445 万日元，WLTC 油耗 17.6km/L，纯电续航 106km，适合短途露营。G 版增加 7 座选项、20 英寸轮毂及电动尾门，补贴后约 507 万日元起。供电功能支持电水壶、微波炉等大功率电器，极大提升露营便利性。",
+    "highlights_zh": [
+      "84 万日元 CEV 补贴降低购车门槛",
+      "AC100V/1500W 供电支持大功率电器",
+      "双电机四驱+S-AWC 应对复杂路况",
+      "G 版可选 7 座及电动尾门"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "欧蓝德 PHEV",
+      "CEV 补贴",
+      "供电功能",
+      "S-AWC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11103414/img_03_06_1.jpg?v=1781141655",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11103414/img_03_06_1-600x400.jpg?v=1781141655",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1-600x400.jpg?v=1780988712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:16.319Z"
+  },
+  "https://response.jp/article/2026/06/15/412721.html": {
+    "title_zh": "川崎 Eliminator 400 2027 款发布，SE 及 Plaza Edition 同步上市",
+    "summary_short": "川崎推出 2027 款 Eliminator 400 系列，含 SE 和 Plaza Edition，起售价 85.8 万日元，7 月 18 日发售。",
+    "summary_long": "川崎摩托车日本公司宣布，2027 款 Eliminator 400 系列将于 7 月 18 日发售，起售价 85.8 万日元。该系列为低长造型的巡航车，搭载 398cc 并列双缸发动机，兼顾低速扭矩和高速动力。标配圆形全数字液晶仪表和 ETC2.0。SE 版增加头灯整流罩、前后行车记录仪和 USB-C 接口，采用双色座椅和前叉护套。Plaza Edition 为川崎 Plaza 专卖店限定，采用专属糖果翡翠绿配色，同样配备记录仪和 USB-C 接口。",
+    "highlights_zh": [
+      "2027 款 Eliminator 400 系列 7…",
+      "起售价 85.8 万日元",
+      "SE 版增配记录仪、USB-C 及头灯整流罩",
+      "Plaza Edition 为专卖店限定专属配色"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "エリミネーター",
+      "SE",
+      "Plaza Edition"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218783.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218783.jpg",
+      "https://response.jp/imgs/fill2/2218778.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:17.267Z"
+  },
+  "https://bestcarweb.jp/feature/column/1527768": {
+    "title_zh": "大发 Copen 二手价格会涨吗？现款停产后的市场走势",
+    "summary_short": "大发 Copen 现款将于 2026 年 8 月停产，热门配置二手车价可能走强，但整体不会暴涨。",
+    "summary_long": "大发 Copen 现款车型计划于 2026 年 8 月下旬停产，新车售完即止。这引发了对二手价格的关注：热门配置和车况良好的车型价格可能上涨，但并非所有 Copen 都会出现溢价。Copen 自 2002 年推出，2014 年换代，市场保有量并不稀少。当前二手车价格区间为 19 万至 358 万日元，均价约 135 万日元。由于新车无法自由选配，部分买家可能转向二手市场，推动特定车型价格走强。",
+    "highlights_zh": [
+      "现款 Copen 2026 年 8 月停产",
+      "热门配置二手车价可能上涨",
+      "整体不会出现全面溢价",
+      "新车无法自由选配"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Copen"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/19235043/42_copen03_cero_copen_150618006.jpg?v=1776610245",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/19235043/42_copen03_cero_copen_150618006-600x324.jpg?v=1776610245",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1-600x400.jpg?v=1780988712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:21.180Z"
+  },
+  "https://response.jp/article/2026/06/15/412709.html": {
+    "title_zh": "丰田股价大幅上涨，霍尔木兹海峡开放提振市场",
+    "summary_short": "丰田股价随日经指数大涨，因美伊停战协议及霍尔木兹海峡开放预期，投资者情绪改善。",
+    "summary_long": "6 月 15 日日经平均股价较上周末上涨 3297 日元，收于 69317 日元，首次突破 69000 日元大关。受美国与伊朗达成停战协议及霍尔木兹海峡开放预期影响，投资者信心增强，人工智能、半导体相关股票领涨。丰田股价大幅续涨，市场看好其供应链稳定性。纽约道琼斯指数也上涨 353 美元，特斯拉等电动车股走高。",
+    "highlights_zh": [
+      "日经指数首次突破 69000 日元",
+      "美伊停战协议提振市场",
+      "丰田股价大幅续涨",
+      "特斯拉等电动车股走高"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "特斯拉 | Tesla",
+      "日经平均股价",
+      "霍尔木兹海峡"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218800.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218800.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:21.699Z"
+  },
+  "https://response.jp/article/2026/06/15/412716.html": {
+    "title_zh": "日本推进无人机防灾物流，呼吁设立防灾厅",
+    "summary_short": "日本召开第二次“无阶段物流基础设施实现会议”，探讨利用无人机实现平时与灾害时无缝连接的物流体系，并向政府提出政策建议。",
+    "summary_long": "全国新智能物流推进协议会召开了第二次“无阶段物流基础设施实现会议”。该会议旨在实现平时与灾害时无缝连接的“无阶段型物流基础设施”，由专家、省厅官员、地方政府和民间企业等参与，于 2025 年 12 月成立，主席为东京大学生产技术研究所副教授沼田宗纯。“无阶段”是一种新的防灾理念，不区分平时和灾害时，使日常使用的商品和服务在灾害时也能发挥作用。会议确认了向政府提出政策建议，包括推动无人机在防灾物流中的应用以及设立防灾厅。",
+    "highlights_zh": [
+      "第二次“无阶段物流基础设施实现会议”召开",
+      "目标实现平时与灾害时无缝物流",
+      "确认向政府提议设立防灾厅",
+      "无人机活用是核心议题"
+    ],
+    "entities": [
+      "全国新智能物流推进协议会",
+      "无阶段型物流基础设施",
+      "东京大学",
+      "沼田宗纯",
+      "防灾厅"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218817.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218817.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:25.896Z"
+  },
+  "https://bestcarweb.jp/feature/column/1541394": {
+    "title_zh": "日产 Note 与本田 Fit 怎么选？e-POWER 与 e:HEV 价格油耗对比",
+    "summary_short": "日产 Note e-POWER 与本田 Fit e:HEV 对比：价格接近但驾驶感受与实用性差异明显，Fit 油耗略优且空间更灵活。",
+    "summary_long": "日产 Note 全系搭载 e-POWER 混动，发动机仅发电，电机驱动带来电动车般的加速感，城市驾驶轻快。本田 Fit 提供汽油版和 e:HEV 混动版，其中 e:HEV 版 WLTC 油耗 29.0km/L，略高于 Note 的 28.4km/L，且入门版价格更低。Fit 凭借本田 MM 理念（中心油箱布局）拥有更宽敞的后排和行李厢空间，视野开阔，日常实用性更强。Note 车身稍长，造型更舒展，驾驶感更接近电动车。两者价格相近（Note X 约 232.9 万日元，Fit e HOME 约 240.5 万日元），选择取决于用户更看重驾驶乐趣还是空间实用性。",
+    "highlights_zh": [
+      "Note e-POWER 油耗 28.4km/L",
+      "Fit e:HEV 入门版比 Note X 便宜约…",
+      "Note 电机驱动加速直接",
+      "两者价格接近"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "本田 | Honda",
+      "Note",
+      "Fit",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11092845/note-fit.jpg?v=1781137727",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11092845/note-fit-600x400.jpg?v=1781137727",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1-600x400.jpg?v=1780988712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:27.743Z"
+  },
+  "https://bestcarweb.jp/feature/column/1549920": {
+    "title_zh": "本田复活三张王牌！5 座 Sienta 热卖原因 人气文章 TOP20",
+    "summary_short": "本田复活三张王牌，5 座 Sienta 热卖原因，Delica Mini 舒适功能，CX-5 让 RAV4 和森林人车主嫉妒等热门文章 TOP20。",
+    "summary_long": "本期 Best Car Web 人气文章 TOP20（2026 年 6 月 7 日至 13 日）中，本田复活的三张王牌成为焦点，同时 5 座版 Sienta 的热卖原因引人关注。其他上榜文章包括 Delica Mini 的必备舒适功能、新款 CX-5 让 RAV4 和森林人车主嫉妒的五大优越感，以及 Spacia Gear 高配版的性价比分析等。",
+    "highlights_zh": [
+      "本田复活三张王牌",
+      "5 座 Sienta 热卖原因",
+      "Delica Mini 舒适功能",
+      "CX-5 让 RAV4 和森林人车主嫉妒"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "シエンタ",
+      "デリカミニ",
+      "CX-5",
+      "RAV4"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15145415/samune-1.jpg?v=1781502857",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15145415/samune-1-600x379.jpg?v=1781502857",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1-600x400.jpg?v=1780988712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:31.512Z"
+  },
+  "https://response.jp/article/2026/06/15/412689.html": {
+    "title_zh": "马自达 RX-7 与 RX-8 推出纪念徽章，庆祝转子发动机 60 周年",
+    "summary_short": "马自达官方推出 RX-7 与 RX-8 四款历代车型的纪念徽章，庆祝转子发动机 60 周年，售价 1800 日元。",
+    "summary_long": "为纪念 1967 年首款转子发动机车型 Cosmo Sport 上市 60 周年，马自达官方授权品牌 BUTTON&CUFFLINKS 推出第二弹徽章系列，涵盖 RX-7（SA、FC、FD）及 RX-8 共四款车型。徽章细节精致，附赠火柴盒尺寸包装，售价 1800 日元。同期还发售 T 恤、帽子及 RX-7 FD 模型车等纪念品。",
+    "highlights_zh": [
+      "四款转子跑车徽章：RX-7 SA/FC/FD 及 R…",
+      "官方授权",
+      "纪念转子发动机 60 周年",
+      "同步推出 T 恤、帽子等周边"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "RX-7",
+      "RX-8",
+      "转子发动机",
+      "Cosmo Sport"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218694.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218694.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:32.686Z"
+  },
+  "https://bestcarweb.jp/feature/column/1538971": {
+    "title_zh": "MINI Countryman 变大，成为日本 SUV 的对手？",
+    "summary_short": "全新 MINI Countryman 尺寸增大，全长达 4445mm，价格 480 万日元起，与日本中级 SUV 竞争。",
+    "summary_long": "MINI Countryman 已进化为一款全长达 4445mm 的 SUV，宽度 1845mm，轴距 2690mm，尺寸接近日本中级 SUV。其外观兼具圆形大灯的可爱与硬朗线条，展现出强烈的进口 SUV 风格。价格区间为 480 万至 683 万日元，与日本高级 SUV 重叠。行李厢容量 505L，后排放倒可扩展至 1530L，实用性出色。",
+    "highlights_zh": [
+      "全长达 4445mm",
+      "价格 480 万日元起",
+      "行李厢容量 505L",
+      "最小转弯半径 5.5m"
+    ],
+    "entities": [
+      "MINI",
+      "Countryman",
+      "John Cooper Works"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1.jpg?v=1780988712",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09160511/P90518547_highRes_mini-countryman-se-a_1-600x400.jpg?v=1780988712",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/19235043/42_copen03_cero_copen_150618006-600x324.jpg?v=1776610245"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:35.726Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1549885": {
+    "title_zh": "勒芒胜利归功于工程师的辛勤付出！去年的遗憾成为夺冠动力",
+    "summary_short": "丰田 7 号车在勒芒夺冠，工程师们以去年失利为动力，通过艰苦努力实现胜利。",
+    "summary_long": "丰田车队在今年的勒芒 24 小时耐力赛中，由迈克·康威、小林可梦伟和尼克·德弗里斯驾驶的 7 号车夺得冠军。这一胜利源于工程师们以去年失利为动力，通过艰苦努力提升车辆性能。丰田赛车部门秉持“For the Engineering Race”理念，专注于技术磨练。去年丰田 7 号车和 8 号车表现不佳，分别获得第 5 和第 15 名，未能登上领奖台。动力总成公司总裁上原隆史主导了全面分析，找出与冠军法拉利的差距，并逐一改进。丰田章男会长指示采用 BtoB 模式，消除工程师的犹豫，专注于技术提升。",
+    "highlights_zh": [
+      "丰田 7 号车勒芒夺冠",
+      "工程师以去年失利为动力",
+      "上原隆史主导技术改进",
+      "BtoB 模式助力工程师专注"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "勒芒 24 小时耐力赛",
+      "小林可梦伟",
+      "上原隆史",
+      "法拉利 | Ferrari"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15121601/ecb2cbc38731c2d9234e6ad48c80d89d.jpg?v=1781493363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15121601/ecb2cbc38731c2d9234e6ad48c80d89d-600x400.jpg?v=1781493363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12163217/7f84436ad5d523b55a6f50a951e66fc1-1-600x400.jpg?v=1781249538"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:38.122Z"
+  },
+  "https://insideevs.com/news/798721/xiaomi-product-tesla-promised/": {
+    "title_zh": "小米推出自动充电机器人，实现特斯拉未量产的概念",
+    "summary_short": "小米发布自动充电机器人，可在车主不在时自动插拔充电枪，预计今年第四季度上市，实现特斯拉十年前展示但未量产的概念。",
+    "summary_long": "小米推出了一款自动充电机器人，外形纤薄（宽度小于 152 毫米），适合狭窄车库或公共停车位。该机器人可无缝集成到小米智能家居生态系统中。其核心功能包括：车辆停稳后自动开始充电、电池充满后自动拔枪、以及支持远程启动充电。机器人通过 AI 视觉识别实现亚毫米级精度插接，并能与车辆通信以打开或关闭充电口盖。该产品预计于 2026 年第四季度上市，而特斯拉十年前展示的类似概念从未量产。",
+    "highlights_zh": [
+      "自动插拔充电枪",
+      "AI 视觉识别",
+      "支持远程启动充电",
+      "预计 2026 年第四季度上市"
+    ],
+    "entities": [
+      "小米 | Xiaomi",
+      "特斯拉 | Tesla",
+      "自动充电机器人",
+      "AI 视觉识别"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3RyB/s1/xiaomi-robotic-charging-arm.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:40.375Z"
+  },
+  "https://www.motor1.com/news/798702/fastest-production-car-quarter-mile/": {
+    "title_zh": "科尼赛克 Jesko Absolut 创下量产车四分之一英里速度纪录",
+    "summary_short": "科尼赛克 Jesko Absolut 以 305.39 公里/小时创下量产车四分之一英里速度纪录，同时打破半英里纪录。",
+    "summary_long": "科尼赛克 Jesko Absolut 在瑞典Ängelholm 机场创下两项速度纪录：四分之一英里时速达 305.39 公里/小时（189.76 英里/小时），成为首款突破 300 公里/小时关口的量产车；半英里时速达 373.87 公里/小时（232.31 英里/小时）。该车为纯后驱、无混合动力辅助，在未预处理路面和量产轮胎条件下完成，数据经 Racelogic 独立验证。0-100 公里/小时加速仅需 2.35 秒，0-300 公里/小时仅 8.3 秒。科尼赛克计划通过 OTA 升级为现有车主推送相关优化。",
+    "highlights_zh": [
+      "四分之一英里时速 305.39 公里/小时",
+      "半英里时速 373.87 公里/小时",
+      "纯后驱、无混动",
+      "0-100 公里/小时仅 2.35 秒"
+    ],
+    "entities": [
+      "科尼赛克 | Koenigsegg",
+      "Jesko Absolut",
+      "Racelogic"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4V74/s1/koenigsegg-jesko-absolut.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:42.438Z"
+  },
+  "https://www.motor1.com/news/798666/autozone-vs-oreilly-install-battery/": {
+    "title_zh": "AutoZone 拒绝更换电池，O'Reilly 接手赢得客户",
+    "summary_short": "一名女子在 AutoZone 更换电池遭拒，转而求助 O'Reilly 成功安装，引发关于汽车配件店服务政策的讨论。",
+    "summary_long": "一名女子声称她的汽车在 AutoZone 更换电池时被拒绝服务，但 O'Reilly Auto Parts 成功为她安装了新电池。该女子在视频中称赞 O'Reilly 员工，并指出 AutoZone 因此损失了 286 美元的销售额。视频引发评论区对汽车配件店服务政策的讨论。",
+    "highlights_zh": [
+      "AutoZone 拒绝更换电池",
+      "O'Reilly 成功安装",
+      "AutoZone 损失 286 美元销售额",
+      "引发服务政策讨论"
+    ],
+    "entities": [
+      "AutoZone",
+      "O'Reilly Auto Parts"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8RLV/s1/autozone-worker-refuses-to-change-woman-s-battery..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:44.090Z"
+  },
+  "https://insideevs.com/news/798700/ford-affordable-electric-pickup-closer-look/": {
+    "title_zh": "福特 3 万美元电动皮卡：近距离观察",
+    "summary_short": "福特正在开发一款约 3 万美元的中型电动皮卡，采用全新 UEV 平台和巨型铸件，预计 2027 年亮相。",
+    "summary_long": "福特并未因 F-150 Lightning 的停产而放弃电动皮卡，其正在开发一款约 3 万美元的中型电动皮卡，预计 2027 年亮相。在最新发布的视频系列中，福特展示了该车的冬季测试、激进的新装配工艺以及潜在最终设计。设计草图显示该车为方正造型，配备垂直头灯和类似轿车的轮廓，伪装原型车则表明其尺寸与 Maverick 相当，货箱较短。该车基于全新的通用电动汽车（UEV）平台，将大量使用巨型铸件以减少零件数量。",
+    "highlights_zh": [
+      "福特正在开发约 3 万美元的中型电动皮卡",
+      "采用全新 UEV 平台和巨型铸件技术",
+      "设计方正",
+      "预计 2027 年亮相"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "F-150 Lightning",
+      "Maverick",
+      "Ranchero",
+      "UEV 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YRGM/s1/ford-s-30-000-electric-pickup-truck.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:47.205Z"
+  },
+  "https://www.motor1.com/news/798690/nissan-skyline-debut-winter-2026/": {
+    "title_zh": "全新日产 Skyline 将于 2026 年冬季亮相",
+    "summary_short": "日产 CEO 确认全新 Skyline 将于 2026 年冬季发布，开发周期仅 26 个月，较上一代缩短一半。",
+    "summary_long": "日产 CEO Ivan Espinosa 宣布，新一代 Skyline 将于 2026 年冬季正式亮相，开发周期仅 26 个月，较上一代车型的 55 个月大幅缩短。新车将延续四门轿车形态，并首次应用 AI 和数字工具优化设计、测试和制造流程。北美市场将以英菲尼迪品牌销售，可能命名为 Q50，并有望提供后驱和手动变速箱。",
+    "highlights_zh": [
+      "开发周期仅 26 个月",
+      "2026 年冬季正式发布",
+      "北美市场以英菲尼迪品牌销售",
+      "可能提供后驱和手动变速箱"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Skyline",
+      "英菲尼迪",
+      "Q50"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo77RK/s1/nissan-skyline-teasers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:47.977Z"
+  },
+  "https://www.motor1.com/news/798680/bovensiepen-bmw-m5-touring/": {
+    "title_zh": "前宝马设计师让 M5 旅行版更优雅",
+    "summary_short": "前宝马设计师 Frank Stephenson 与 Bovensiepen 合作，为 M5 旅行版打造更优雅低调的外观，并优化舒适性。",
+    "summary_long": "由 Alpina 家族创立的 Bovensiepen 公司与著名设计师 Frank Stephenson 合作，推出了宝马 M5 旅行版的低调版本——Bovensiepen 05 GT。该车并非 Alpina，而是专注于舒适性的豪华旅行车，通过 Eibach 弹簧、新倍耐力轮胎等悬挂调校，提供更轻松的驾乘体验。外观上，不锈钢格栅、分体式后扰流板和 21 英寸锻造轮毂等细节，使其比原版 M5 旅行版更显优雅。",
+    "highlights_zh": [
+      "Bovensiepen 与 Frank Stephe…",
+      "基于 M5 旅行版打造",
+      "悬挂调校侧重舒适性",
+      "不锈钢格栅和 21 英寸锻造轮毂"
+    ],
+    "entities": [
+      "Bovensiepen",
+      "Frank Stephenson",
+      "宝马 | BMW",
+      "M5 旅行版",
+      "Alpina"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8Rzv/s1/bovensiepen-05-gt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-15T18:05:52.073Z"
   }
 }
