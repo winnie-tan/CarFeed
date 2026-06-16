@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-16T05:30:20.057Z",
+    "generated_at": "2026-06-16T18:11:57.565Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 359,
+    "deepseek_untranslated_before_run": 41,
+    "newly_fetched_articles": 41,
+    "newly_fetched_untranslated": 41,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 41,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.6.16",
-        "title": "「いいバイクなのに」“中免ハーレー”『X350』販売終了にSNSでは惜しむ声",
-        "url": "https://response.jp/article/2026/06/16/412747.html"
+        "title": "Tesla Cybercab Finally Reveals Key Specs—Including 418 Miles Of Range",
+        "url": "https://www.motor1.com/news/798917/tesla-cybercab-specs-small-cars/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.16",
+        "title": "Ford’s $30,000 Electric Truck Is Real and Here’s Proof of Life",
+        "url": "https://www.thedrive.com/news/fords-30000-electric-truck-is-real-and-heres-proof-of-life"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.16",
+        "title": "Lucid Cosmos: Tesla Model Y and Rivian R2 Rival Revealed In Patent Images",
+        "url": "https://insideevs.com/news/798906/lucid-cosmos-patent-images/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.16",
+        "title": "Great News: The Audi A6 Allroad Is Coming To The US",
+        "url": "https://www.motor1.com/news/798914/new-audi-a6-allroad-coming-us/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.16",
+        "title": "Who Makes Your Car's Audio System? We Visited One Of The Industry's Biggest Players",
+        "url": "https://www.motor1.com/features/798903/car-audio-systems-jbl-tour/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.16",
+        "title": "Chevy Now Makes New 350, 400, and 409 V8s—Just Like the Old Days",
+        "url": "https://www.thedrive.com/news/chevy-now-makes-new-350-400-and-409-v8s-just-like-the-old-days"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.16",
+        "title": "2027 Chevy Silverado Enters the Fight With New Small-Block V8s, Fresh Looks",
+        "url": "https://www.thedrive.com/news/2027-chevy-silverado-enters-the-fight-with-new-small-block-v8s-fresh-looks"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.16",
+        "title": "The 2027 Chevy Silverado Is Here With Two New V8 Engines",
+        "url": "https://www.motor1.com/news/798889/2027-chevrolet-silverado-1500-trims-engines-details/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.16",
+        "title": "2026 Genesis GV80 Coupe Quick Review: Beats the Germans, but Not Around Corners",
+        "url": "https://www.thedrive.com/car-reviews/2026-genesis-gv80-coupe-quick-review"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.16",
+        "title": "New Audi A6 Allroad Is Bigger, Meaner, and a Damn Good Omen for the RS6 Avant",
+        "url": "https://www.thedrive.com/news/the-new-audi-a6-allroad-is-bigger-meaner-and-a-damn-good-omen-for-the-rs6-avant"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.16",
+        "title": "Ian Callum Finally Built The Aston Martin Vanquish He Always Wanted",
+        "url": "https://www.motor1.com/features/798804/ian-callum-aston-martin-vanquish-interview/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.16",
+        "title": "AMG Will Bring 27 New Cars in 3 Years, Starting With V8 SUVs: TDS",
+        "url": "https://www.thedrive.com/news/amg-will-bring-27-new-cars-in-3-years-starting-with-v8-suvs-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.16",
+        "title": "This Rugged Jeep Grand Cherokee Trim Is Back For 2027",
+        "url": "https://www.motor1.com/news/798793/2027-jeep-grand-cherokee-overland-trailhawk-trims-specs-details/"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.16",
-        "title": "「カローラ＝安い」はもう古い!? 装備満載で350万円級に！ トヨタ人気セダンのリアル支払額とは",
-        "url": "https://bestcarweb.jp/feature/column/1525189"
+        "title": "“RS”の称号が身近な存在に!? 今なら100万円台から狙える「中古RSモデル」",
+        "url": "https://bestcarweb.jp/feature/column/1547947"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.16",
-        "title": "「知らなかった……」が続出!? ライト・給油口・エアコンの意外な使い方！ 愛車に隠された便利機能",
-        "url": "https://bestcarweb.jp/feature/column/1538610"
+        "title": "「エンジニアには情熱しかない！」 中嶋裕樹会長が教えてくれたトヨタレーシングに組織を変え、ル・マンに参戦した本当の狙いとは？",
+        "url": "https://bestcarweb.jp/news/motorsport/1551152"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.16",
+        "title": "80万人超の知見データベース活用、ビザスクがマッチングサービス紹介へ…人とくるまのテクノロジー展 2026 NAGOYA",
+        "url": "https://response.jp/article/2026/06/16/412765.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.16",
+        "title": "EV・電動化向け統合試験ソリューション、クロマジャパンが披露へ…人とくるまのテクノロジー展 2026 NAGOYA",
+        "url": "https://response.jp/article/2026/06/16/412767.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.16",
-        "title": "「運転の疲れが全然違う」と絶賛の嵐！ SWANSの傑作ドライビングサングラスが販売終了目前",
-        "url": "https://bestcarweb.jp/news/car-accessory/1549358"
+        "title": "N-BOXの収納不足を解決！ 専用ダッシュボードトレイが話題の理由",
+        "url": "https://bestcarweb.jp/news/1548345"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.16",
-        "title": "『Sクラス』改良新型から、メルセデスベンツが究極のカスタムプログラム開始…外装100色以上・内装400色以上",
-        "url": "https://response.jp/article/2026/06/16/412731.html"
+        "title": "RAV4の音が激変！ モレル3ウェイ化で広がった高音質カスタムの世界［car audio newcomer］by SOUND WAVE 後編",
+        "url": "https://response.jp/article/2026/06/16/412776.html"
       },
       {
-        "source": "Best Car Web",
+        "source": "InsideEVs",
         "time": "2026.6.16",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第786回",
-        "url": "https://bestcarweb.jp/feature/column/1532417"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "AI商談アプリ「ボイスバリュー」、リアルタイムモニタリング機能を追加…自動車ディーラーなどに向け",
-        "url": "https://response.jp/article/2026/06/16/412745.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "ARCHION、トヨタ主体のCJPTに参画…日野・三菱ふそう統合の新持株会社が物流課題解決へ",
-        "url": "https://response.jp/article/2026/06/16/412728.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "EMC試験や校正サービス、日本品質保証機構が紹介へ…人とくるまのテクノロジー展 2026 NAGOYA",
-        "url": "https://response.jp/article/2026/06/16/412756.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "EV・自動化対応の最先端ソリューション、第一実業が紹介へ…人とくるまのテクノロジー展 2026 NAGOYA",
-        "url": "https://response.jp/article/2026/06/16/412744.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.16",
-        "title": "PHEVの元祖が今お買い得!? 大幅改良後モデルが200万円台前半！ 三菱「アウトランダーPHEV」の狙い目とは",
-        "url": "https://bestcarweb.jp/feature/column/1536049"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "カーオーディオ用DSPコントローラー機能搭載USBプレーヤー「DSD-Z100」発売 イース・コーポレーション",
-        "url": "https://response.jp/article/2026/06/16/412749.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.16",
-        "title": "クラウンスポーツ対ハリアー!! 同じトヨタの上級SUVで選ぶならどっち？",
-        "url": "https://bestcarweb.jp/news/1531028"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "スーパーフォーミュラ、学生向けキャリアイベント『おしごとセッション』を富士スピードウェイで開催…7月17日",
-        "url": "https://response.jp/article/2026/06/16/412750.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.16",
-        "title": "デリカD:5を買うならどのグレード!? 「G」「G-Power Package」「P」の装備差と価格差を大分析!!",
-        "url": "https://bestcarweb.jp/feature/column/1530429"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "トヨタ自動車、正社員の平均年収初の「1000万円超え」［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/06/16/412732.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.16",
-        "title": "ハンドリングいいけど、、、クラウンエステート1年乗ってわかったマルとバツ",
-        "url": "https://bestcarweb.jp/feature/column/1541721"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "プジョー『E-208 GTi』、市販版を発表…Bセグ最強の281馬力電動ホットハッチに",
-        "url": "https://response.jp/article/2026/06/16/412739.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "ブリヂストン、国内市販用タイヤを平均5%値上げ…9月から",
-        "url": "https://response.jp/article/2026/06/16/412754.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.16",
-        "title": "ホンダの電動二輪車と部品共用、電動パワーユニット「eGX」に高出力3機種…6月17日世界初公開へ",
-        "url": "https://response.jp/article/2026/06/16/412735.html"
+        "title": "Rivian’s Latest Partnership Unlocks Cheaper Home EV Charging",
+        "url": "https://insideevs.com/news/798838/rivian-partnership-cheaper-home-charging/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27596333153",
-    "sha": "56d71a846d95d05514608310e7c09ae5b5d8da56",
-    "completed_at": "2026-06-16T05:31:38.441Z",
+    "run_id": "27638228591",
+    "sha": "1c39f26d21e037371c91436bdf8f6bdaba5b39d9",
+    "completed_at": "2026-06-16T18:13:25.880Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-06-16T05:30:20.356Z",
-    "finished_at": "2026-06-16T05:31:38.203Z",
+    "scoped_articles": 41,
+    "queued_articles": 41,
+    "processed": 41,
+    "started_at": "2026-06-16T18:11:57.835Z",
+    "finished_at": "2026-06-16T18:13:25.652Z",
     "success": true,
     "error": ""
   }

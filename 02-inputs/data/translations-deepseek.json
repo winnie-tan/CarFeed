@@ -37280,5 +37280,964 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-16T05:31:38.188Z"
+  },
+  "https://www.thedrive.com/news/fords-30000-electric-truck-is-real-and-heres-proof-of-life": {
+    "title_zh": "福特 3 万美元电动皮卡实车曝光，明年上市",
+    "summary_short": "福特 3 万美元电动皮卡原型测试视频曝光，采用全新平台和简化工艺，计划明年上市。",
+    "summary_long": "福特即将推出的 3 万美元电动皮卡原型车测试视频曝光，该车被福特称为“Model T 时刻”，基于全新通用 EV 平台打造，采用“一体化铸造”技术减少零件数量。视频显示组装过程极为简便，线束比 Mustang Mach-E 缩短 4000 英尺、减重 22 磅。新车计划明年上市，将成为福特最亲民的电动车型。",
+    "highlights_zh": [
+      "3 万美元电动皮卡原型测试视频曝光",
+      "采用通用 EV 平台和一体化铸造技术",
+      "线束比 Mach-E 缩短 4000 英尺、减重 2…",
+      "计划明年上市"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Mustang Mach-E",
+      "通用 EV 平台"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-122422-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-125727-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-125659-copy.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:01.211Z"
+  },
+  "https://www.motor1.com/news/798917/tesla-cybercab-specs-small-cars/": {
+    "title_zh": "特斯拉 Cybercab 最终规格揭晓：续航 418 英里",
+    "summary_short": "特斯拉 Cybercab 获 EPA 认证，搭载 50 kWh 电池和 219 马力前电机，续航达 418 英里，车重仅 3113 磅。",
+    "summary_long": "特斯拉 Cybercab 的 EPA 认证文件揭示了其关键规格：该车为单电机前驱，电机功率 219 马力，电池容量约 48 kWh（50 kWh），车重 3113 磅，是市面上最轻的电动车之一。得益于轻量化设计，其 EPA 续航达到 418.2 英里，远超同电池容量的其他车型。",
+    "highlights_zh": [
+      "单电机前驱",
+      "电池约 48 kWh",
+      "车重 3113 磅"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Cybercab",
+      "EPA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/kolnBn/s1/tesla-cybercab-robotaxi.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:01.567Z"
+  },
+  "https://www.motor1.com/news/798914/new-audi-a6-allroad-coming-us/": {
+    "title_zh": "奥迪 A6 Allroad 即将登陆美国",
+    "summary_short": "奥迪确认 2027 年将全新 A6 Allroad 旅行车引入美国市场，该车基于 A6 Avant 打造，底盘升高 1.3 英寸，标配 Quattro 四驱和后轮转向。",
+    "summary_long": "奥迪已确认将于 2027 年在美国推出全新 A6 Allroad 旅行车。该车基于 A6 Avant 打造，底盘升高 1.3 英寸，标配 Quattro 全时四驱和后轮转向系统。动力方面，美规车型尚未公布具体配置，但全球版本提供插电混动系统，由 2.0 升四缸涡轮增压发动机与电机组成，综合输出 362 马力和 360 磅-英尺扭矩，0-62 英里/小时加速 5.5 秒。",
+    "highlights_zh": [
+      "2027 年登陆美国",
+      "底盘升高 1.3 英寸",
+      "标配 Quattro 四驱",
+      "插混版 362 马力"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A6 Allroad",
+      "A6 Avant",
+      "Quattro"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPJyw/s1/audi-a6-allroad-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:05.356Z"
+  },
+  "https://insideevs.com/news/798906/lucid-cosmos-patent-images/": {
+    "title_zh": "Lucid Cosmos：特斯拉 Model Y 与 Rivian R2 的竞争对手在专利图中曝光",
+    "summary_short": "Lucid 即将推出约 5 万美元的 Cosmos 跨界车，对标特斯拉 Model Y 和 Rivian R2，专利图首次展示其设计。",
+    "summary_long": "Lucid 计划于今年年底前推出其首款面向大众市场的电动跨界车 Cosmos，售价约 5 万美元，直接对标特斯拉 Model Y 和 Rivian R2。该车采用类似缩小版 Gravity 的驾驶室前移设计，前脸带有巨大的 Lucid 标志，造型雕塑感强且激进。专利图由 Lucid 以旧名 Atieva Inc.向欧盟知识产权局提交，首次公开了 Cosmos 的外观。Lucid 希望通过这款车型实现盈利，正如 Model 3 和 Model Y 推动特斯拉走向主流。",
+    "highlights_zh": [
+      "售价约 5 万美元",
+      "采用驾驶室前移设计",
+      "专利图首次公开",
+      "计划年底上市"
+    ],
+    "entities": [
+      "Lucid",
+      "Cosmos",
+      "Tesla Model Y",
+      "Rivian R2",
+      "Gravity"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMz0OP/s1/lucid-cosmos-patent-images.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:06.006Z"
+  },
+  "https://www.motor1.com/features/798903/car-audio-systems-jbl-tour/": {
+    "title_zh": "谁在制造你的汽车音响？探访行业巨头 Harman",
+    "summary_short": "Motor1 探访 Harman 总部，揭秘全球近半车载音响系统的幕后制造者，涵盖 JBL、Bowers & Wilkins 等品牌。",
+    "summary_long": "Motor1 探访了 Harman 位于加州 Northridge 的设施，这里也是 JBL 的主园区。Harman 旗下拥有 Bowers & Wilkins、Infinity、Mark Levinson、Lexicon、Polk、AKG、Harman/Kardon 和 JBL 等众多音频品牌，几乎占据全球车载音响系统 50%的市场份额。在美国，大多数汽车的扬声器、功放和主机都来自 Harman 旗下的品牌。此次参观展示了 Harman Experience Center 和 JBL 研发团队的工作环境，揭示了这家巨头如何主导汽车音响行业。",
+    "highlights_zh": [
+      "Harman 占据全球近 50%车载音响市场",
+      "旗下品牌包括 JBL、Bowers & Wilkin…",
+      "探访加州 Northridge 总部及研发中心"
+    ],
+    "entities": [
+      "Harman",
+      "JBL",
+      "Bowers & Wilkins",
+      "车载音响系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZGBM/s1/jbl-audio-systems-tour.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:09.343Z"
+  },
+  "https://www.thedrive.com/news/chevy-now-makes-new-350-400-and-409-v8s-just-like-the-old-days": {
+    "title_zh": "雪佛兰复活经典排量：350、400、409 V8 发动机",
+    "summary_short": "雪佛兰推出三款新 V8 发动机，排量分别为 350、400 和 409 立方英寸，致敬经典小缸体时代。",
+    "summary_long": "雪佛兰在 2027 款科尔维特 Grand Sport 上率先搭载全新 6.7 升 LS6 V8（409 立方英寸），随后将在 2027 款 Silverado 半吨皮卡上推出 5.7 升（350）和 6.6 升（400）两款新 V8，取代现有的 5.3 升和 6.2 升发动机。其中 6.6 升 V8 将成为半吨级中最强大的自然吸气 V8。",
+    "highlights_zh": [
+      "全新 LS6 V8：6.7 升",
+      "5.7 升 V8 回归",
+      "6.6 升 V8 成半吨级最强自吸",
+      "致敬经典 350、400、409 排量"
+    ],
+    "entities": [
+      "雪佛兰 | Chevy",
+      "科尔维特",
+      "Silverado",
+      "LS6",
+      "V8"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MY27_Chevrolet_Silverado_Pack-Shot_HERO.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MY27_Chevrolet_Silverado_Trail-Boss.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:09.467Z"
+  },
+  "https://www.thedrive.com/news/2027-chevy-silverado-enters-the-fight-with-new-small-block-v8s-fresh-looks": {
+    "title_zh": "2027 款雪佛兰 Silverado：新小缸体 V8 与焕新设计",
+    "summary_short": "2027 款雪佛兰 Silverado 引入新一代小缸体 V8 发动机，外观内饰全面革新，标配 16.3 英寸中控屏。",
+    "summary_long": "2027 款雪佛兰 Silverado 迎来重大升级，搭载新一代小缸体 V8 发动机，这是近年来半吨级皮卡首次引入全新 V8 动力。外观采用堆叠式 LED 头灯和 C 形日行灯，尾灯同样为 LED，车身侧面线条和重新设计的货箱侧板使其与老款区分。内饰全面现代化，全系标配 16.3 英寸中控屏和 12.2 英寸数字仪表盘，High Country 和 ZR2 车型还配备 11.5 英寸副驾屏。",
+    "highlights_zh": [
+      "新一代小缸体 V8 发动机",
+      "堆叠式 LED 头灯与 C 形日行灯",
+      "全系标配 16.3 英寸中控屏",
+      "High Country 和 ZR2 配副驾屏"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Silverado"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/2027-Chevy-Silverado-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MY27-Chevrolet_Silverado_ZR2_Interior.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MY27_Chevrolet_Silverado_High-Country_Multi-Flex.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:13.268Z"
+  },
+  "https://www.motor1.com/news/798889/2027-chevrolet-silverado-1500-trims-engines-details/": {
+    "title_zh": "2027 款雪佛兰 Silverado 发布：两款全新 V8 发动机",
+    "summary_short": "2027 款雪佛兰 Silverado 1500 换装全新外观内饰，新增 5.7 升和 6.6 升 V8 发动机，提供四种动力选择。",
+    "summary_long": "雪佛兰对 2027 款 Silverado 1500 进行了全面更新，包括大胆的外观设计、重新设计的座舱以及两款全新的 V8 发动机。新车将提供七种配置和四种动力选项：2.7 升 TurboMax 四缸涡轮增压、3.0 升 Duramax V6 柴油机，以及新增的 5.7 升和 6.6 升 V8 自然吸气发动机。其中 6.6 升 V8 是系列中最强大的自然吸气 V8，但具体参数尚未公布。内饰标配 12.2 英寸驾驶员显示屏和 16.3 英寸信息娱乐屏幕，并采用怀挡设计。",
+    "highlights_zh": [
+      "新增 5.7 升和 6.6 升 V8 发动机",
+      "提供四种动力选项",
+      "全新外观与内饰设计",
+      "标配双大屏和怀挡"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Silverado",
+      "V8 发动机",
+      "Duramax"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O9Pg/s1/2027-chevrolet-silverado-1500-trail-boss.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:13.925Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-genesis-gv80-coupe-quick-review": {
+    "title_zh": "2026 款捷尼赛思 GV80 Coupe 快速评测：超越德国对手，但弯道表现除外",
+    "summary_short": "2026 款捷尼赛思 GV80 Coupe 在豪华感上超越宝马和奔驰，但操控性仍是德国车的强项。",
+    "summary_long": "作为捷尼赛思的旗舰 SUV，GV80 Coupe 提供了比宝马和奔驰更奢华、更精致的驾乘体验。外观设计优雅，内饰采用高档 Nappa 皮革和开孔木纹饰板，科技配置丰富。然而，在弯道操控方面，德国对手依然更胜一筹。",
+    "highlights_zh": [
+      "豪华感超越宝马和奔驰",
+      "内饰用料考究",
+      "弯道操控不及德国对手"
+    ],
+    "entities": [
+      "捷尼赛思 | Genesis",
+      "GV80 Coupe",
+      "宝马 | BMW",
+      "奔驰 | Mercedes"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6386.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6395.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6396.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:16.269Z"
+  },
+  "https://www.thedrive.com/news/the-new-audi-a6-allroad-is-bigger-meaner-and-a-damn-good-omen-for-the-rs6-avant": {
+    "title_zh": "全新奥迪 A6 Allroad 更大更猛，为 RS6 Avant 铺路",
+    "summary_short": "全新奥迪 A6 Allroad 车身加宽 4.3 英寸，标配 quattro，明年登陆美国，为 RS6 Avant 预热。",
+    "summary_long": "全新一代奥迪 A6 Allroad 全球首发，采用更宽大的车身（加宽 4.3 英寸）、外扩轮拱和标配 quattro 四驱系统，设计更具攻击性。奥迪美国发言人确认该车将于明年进入美国市场。此次发布也为后续高性能版 RS6 Avant 的到来释放了积极信号。",
+    "highlights_zh": [
+      "车身加宽 4.3 英寸",
+      "标配 quattro 四驱",
+      "明年登陆美国",
+      "为 RS6 Avant 预热"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A6 Allroad",
+      "RS6 Avant",
+      "quattro"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/43520-a263070-large-e1781618491143.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/43515-a263075-large.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/43516-a263074-large.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:16.850Z"
+  },
+  "https://www.thedrive.com/news/amg-will-bring-27-new-cars-in-3-years-starting-with-v8-suvs-tds": {
+    "title_zh": "AMG 三年内推 27 款新车，V8 SUV 打头阵",
+    "summary_short": "梅赛德斯-AMG 计划三年内推出 27 款新车，发动机种类从 10 种缩减至 4 种，V8 占比提升。全新 GLS63 和 GLE63S 搭载 603 马力 V8 引擎。",
+    "summary_long": "梅赛德斯-AMG 正推进产品攻势，CEO Michael Schiebe 透露未来三年将推出超过 27 款新车，同时发动机种类从 10 种缩减至 4 种，V8 发动机占比将提升。全新 AMG GLS63 和 GLE63S 率先登场，搭载 M177 Evo 4.0 升平面曲轴 V8 发动机，最大功率 603 马力，峰值扭矩 627 磅-英尺。",
+    "highlights_zh": [
+      "三年内推出 27 款新车",
+      "发动机种类从 10 种减至 4 种",
+      "V8 发动机占比提升",
+      "GLS63 和 GLE63S 率先搭载新 V8"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "Mercedes-AMG GLS63",
+      "Mercedes-AMG GLE63S",
+      "V8 发动机",
+      "M177 Evo"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/pre-media_26c0073_001-source-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MY27_Chevrolet_Silverado_Pack-Shot_HERO.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:20.206Z"
+  },
+  "https://www.motor1.com/features/798804/ian-callum-aston-martin-vanquish-interview/": {
+    "title_zh": "伊恩·卡勒姆终于打造出他梦寐以求的阿斯顿·马丁 Vanquish",
+    "summary_short": "传奇设计师伊恩·卡勒姆通过 Vanquish 25 项目，对经典车型进行了现代化升级，实现了自己 25 年前的原始愿景。",
+    "summary_long": "传奇设计师伊恩·卡勒姆在 25 年前完成了阿斯顿·马丁 Vanquish 的初稿。如今，他通过自己的设计公司推出了 Vanquish 25，对这款经典 V12 旅行车进行了现代化重新诠释。新车保留了原始造型，但融入了进化式升级，如新侧镜、改进的车窗边框和新轮毂等。卡勒姆表示，这是唯一一款完全属于他的车，他借此机会修正了原版中令他沮丧的细节。",
+    "highlights_zh": [
+      "卡勒姆 25 年后重新设计自己的经典作品",
+      "Vanquish 25 保留原始造型但细节全面升级",
+      "修正了原版中拼凑的捷豹零件等缺陷",
+      "卡勒姆称这是唯一完全属于他的车"
+    ],
+    "entities": [
+      "伊恩·卡勒姆 | Ian Callum",
+      "阿斯顿·马丁 | Aston Martin",
+      "Vanquish 25",
+      "V12"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kbg39q/s1/ian-callum-vanquish-25-interior.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:20.955Z"
+  },
+  "https://www.motor1.com/news/798793/2027-jeep-grand-cherokee-overland-trailhawk-trims-specs-details/": {
+    "title_zh": "2027 款 Jeep Grand Cherokee Trailhawk 与 Overland 回归",
+    "summary_short": "Jeep 为 2027 款 Grand Cherokee 新增 Trailhawk 和 Overland 版本，Trailhawk 配备 Quadra-Trac II 四驱、空气悬架等越野装备。",
+    "summary_long": "Jeep 在 2026 年推出改款 Grand Cherokee 时仅提供三个版本，现为 2027 年扩充阵容，带回 Overland 和 Trailhawk。Trailhawk 标配 Quadra-Trac II 四驱系统、Selec-Terrain 牵引力控制（含岩石模式）和 Quadra-Lift 空气悬架，配备后桥电子限滑差速器和 30.5 英寸 Goodyear Wrangler Territory 全地形轮胎。底盘有六块高强度钢护板，离地间隙 11.4 英寸，接近角 36 度，离去角 30.3 度，均优于前代。动力为 2.0 升涡轮增压 Hurricane 4 发动机，最大功率 324 马力，峰值扭矩 332 磅-英尺，匹配八速自动变速箱。外观采用改进的前脸以提升接近角，红色拖钩、哑光黑引擎盖贴花和 18 英寸轮毂。内饰为黑色 Nappa 真皮座椅配红色缝线。",
+    "highlights_zh": [
+      "2027 款新增 Trailhawk 和 Overl…",
+      "Trailhawk 标配 Quadra-Trac I…",
+      "离地间隙 11.4 英寸",
+      "2.0T 发动机 324 马力"
+    ],
+    "entities": [
+      "Jeep",
+      "Grand Cherokee",
+      "Trailhawk",
+      "Overland",
+      "Quadra-Trac II"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egRzp/s1/2027-jeep-grand-cherokee-trailhawk-front-3-4.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:24.923Z"
+  },
+  "https://bestcarweb.jp/feature/column/1547947": {
+    "title_zh": "RS 称号触手可及？百万日元级二手 RS 车型推荐",
+    "summary_short": "各品牌 RS 车型解读不同，但均强调驾驶乐趣。本文推荐三款百万日元级二手 RS 车型，包括丰田 Vitz RS 等。",
+    "summary_long": "RS 是各品牌赋予运动车型的称号，虽定义各异，但共同点是强调驾驶乐趣。本文介绍了几款价格亲民的二手 RS 车型，如丰田 Vitz RS，其最终版在悬架、刹车等方面进行了运动化调校，搭载 1.5L 自然吸气发动机，可选 CVT 或 5MT 变速箱。二手车市场起步价约 50 万日元，2014 年改款后车型也仅需 70 万日元左右，性价比极高。",
+    "highlights_zh": [
+      "RS 车型价格亲民",
+      "丰田 Vitz RS 配备运动化悬架和碟刹",
+      "提供 5MT 手动变速箱",
+      "二手车市场 50 万日元起"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Vitz RS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12120958/crown_image1.jpg?v=1781233800",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12120958/crown_image1-600x400.jpg?v=1781233800",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10132400/bc6b44637773ee8e99e67c6e7e40c045-600x400.jpg?v=1781065441"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:25.705Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1551152": {
+    "title_zh": "“工程师只有热情！”丰田赛车会长中嶋裕树谈组织变革与勒芒参赛的真正目的",
+    "summary_short": "丰田赛车会长中嶋裕树透露，从 GR 更名为 TR 参赛勒芒，旨在重燃工程师造车热情，挑战自我而非仅求胜利。",
+    "summary_long": "在第 94 届勒芒 24 小时耐力赛中，丰田以“丰田赛车（TR）”而非此前的“GAZOO Racing（GR）”名义参赛，并夺得冠军。丰田赛车会长中嶋裕树表示，此次更名参赛的真正目的并非单纯追求胜利，而是为了激发工程师的热情与挑战精神。他回忆丰田章男会长曾问：“中嶋，你在让他们挑战吗？”这让他反思当前年轻工程师因害怕失败而不敢追求梦想的现状。中嶋认为，过去首席工程师拥有极大自主权，能造自己梦想的汽车，而如今这种热情正在消退。因此，他希望通过组织变革，让工程师重拾“想造的车”的激情。",
+    "highlights_zh": [
+      "丰田以 TR 名义参赛勒芒并夺冠",
+      "中嶋裕树：参赛旨在重燃工程师热情",
+      "丰田章男一句“在让他们挑战吗",
+      "年轻工程师因怕失败而不敢追求梦想"
+    ],
+    "entities": [
+      "丰田赛车 | Toyota Racing",
+      "GAZOO Racing",
+      "勒芒 24 小时耐力赛 | Le Mans 24 Hours",
+      "中嶋裕树",
+      "丰田章男"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16171219/85839-tjp2613ju12906.jpg?v=1781597540",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16171219/85839-tjp2613ju12906-600x378.jpg?v=1781597540",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15121601/ecb2cbc38731c2d9234e6ad48c80d89d-600x400.jpg?v=1781493363"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:30.235Z"
+  },
+  "https://response.jp/article/2026/06/16/412765.html": {
+    "title_zh": "Visasq 将参展 2026 名古屋汽车技术展，活用超 80 万人知识数据库提供匹配服务",
+    "summary_short": "Visasq 将参展 2026 名古屋汽车技术展，展示其基于超 80 万人知识数据库的匹配服务，助力汽车行业应对 CASE、SDV 等技术创新。",
+    "summary_long": "运营全球知识平台的 Visasq 将于 2026 年 6 月 17 日至 19 日参加在日本爱知县国际展示场举办的“人与汽车技术展 2026 NAGOYA”。该公司拥有国内外超过 80 万人的知识数据库，提供将个人经验与研发、新业务开发、DX 推进等需求相匹配的服务。当前汽车行业在 CASE、SDV、碳中和等方向上面临快速技术革新，而市场真实需求、竞争对手动向等信息难以通过常规研究获取，Visasq 的服务旨在填补这一空白。",
+    "highlights_zh": [
+      "Visasq 参展 2026 名古屋汽车技术展",
+      "超 80 万人知识数据库提供匹配服务",
+      "应对 CASE、SDV、碳中和等创新需求",
+      "弥补市场真实需求与竞争情报的获取缺口"
+    ],
+    "entities": [
+      "Visasq",
+      "人とくるまのテクノロジー展 2026 NAGOYA",
+      "CASE",
+      "SDV",
+      "碳中和"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219081.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219081.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:30.788Z"
+  },
+  "https://bestcarweb.jp/news/1548345": {
+    "title_zh": "解决 N-BOX 收纳不足！专用仪表盘托盘受关注",
+    "summary_short": "本田 N-BOX 专用仪表盘托盘，无需工具 30 秒安装，集成收纳与手机支架，解决小物放置难题。",
+    "summary_long": "针对本田 N-BOX（JF5/JF6）车主反映的驾驶座周边收纳空间不足、手机支架安装不便等问题，汽车配件品牌 CRAFTWORKS 推出了专用仪表盘托盘。该产品无需工具即可在约 30 秒内完成安装，将收纳空间与手机支架合二为一，有效提升车内实用性。参考售价 2880 日元起，在亚马逊、乐天市场等官方商店有售。",
+    "highlights_zh": [
+      "无需工具",
+      "收纳与手机支架一体化",
+      "专为 N-BOX JF5/JF6 设计",
+      "参考售价 2880 日元起"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "N-BOX",
+      "CRAFTWORKS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13003539/7dbb54fa682b6f62f0e29b6172de96db.jpg?v=1781278540",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13003539/7dbb54fa682b6f62f0e29b6172de96db-600x400.jpg?v=1781278540",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13010709/c5ab68f174dd90e4ef0be259815792f8-600x600.jpg?v=1781280430"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:34.328Z"
+  },
+  "https://response.jp/article/2026/06/16/412767.html": {
+    "title_zh": "EV 电动化综合测试方案，Chroma Japan 将在 2026 名古屋人车技术展上展示",
+    "summary_short": "Chroma Japan 将在 2026 名古屋人车技术展上展示面向 EV 电动化的综合测试解决方案，覆盖电池、电机、逆变器、车载半导体及充电基础设施。",
+    "summary_long": "Chroma Japan 宣布将参加 2026 年 6 月 17 日至 19 日在爱知县国际展示场举办的“人车技术展 2026 NAGOYA”。随着汽车行业电动化加速，对电池、电机、逆变器、车载半导体及充电基础设施的高效、高可靠、符合国际标准的测试需求日益增长。作为电源、电池、EV/EVSE 及半导体测试领域的全球领导者，Chroma Japan 将展示从研发到量产和质量保证的最新测试技术，重点提供接近真实环境的跨领域测试方案，包括电池组测试、EV/EVSE 模拟、电网模拟、实时仿真、电机/逆变器/eAxle 测试以及充电标准（CHAdeMO、CCS1/2、GB/T、NACS）合规测试。",
+    "highlights_zh": [
+      "Chroma Japan 展示 EV 电动化综合测试…",
+      "覆盖电池、电机、逆变器、半导体测试",
+      "支持 CHAdeMO、CCS、GB/T、NACS 充…",
+      "提供从研发到量产的跨领域测试技术"
+    ],
+    "entities": [
+      "Chroma Japan",
+      "人车技术展",
+      "电池",
+      "电机",
+      "充电标准"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219085.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219085.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:34.632Z"
+  },
+  "https://response.jp/article/2026/06/16/412776.html": {
+    "title_zh": "RAV4 音质巨变：Morel 三分频系统打造高音质定制世界",
+    "summary_short": "丰田 RAV4 车主通过更换 Morel 三分频扬声器并加装低音炮，实现音质飞跃，并激发进一步升级梦想。",
+    "summary_long": "丰田 RAV4 车主大畑先生为提升爱车音质，更换了前门扬声器，并在 SOUND WAVE 店安装 Morel Piccolo/Hybrid 系列扬声器，实现三分频系统。音质大幅提升后，他通过车友会交流，了解到加装低音炮不仅能增强低音，还能改善中高频厚度，从而萌生下一步升级计划。",
+    "highlights_zh": [
+      "更换 Morel 三分频扬声器",
+      "音质大幅提升",
+      "加装低音炮改善中高频",
+      "车友交流激发升级梦想"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "RAV4",
+      "Morel",
+      "SOUND WAVE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217910.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217910.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:38.360Z"
+  },
+  "https://insideevs.com/news/798838/rivian-partnership-cheaper-home-charging/": {
+    "title_zh": "Rivian 新合作降低家庭充电成本",
+    "summary_short": "Rivian 与 ChargeScape 合作，通过智能充电管理让车主在非高峰时段自动充电，每年可节省数千美元。",
+    "summary_long": "Rivian 与车辆电网集成平台 ChargeScape 达成合作，使 R1S、R1T 和 R2 车主能够自动在非高峰时段充电，每年可节省数千美元。未来 R2 还将支持双向充电，在电价低时储电、高时售电，进一步增加收益。目前该功能仅提供智能充电管理，车辆与电力公司通信以选择最经济的充电时间。",
+    "highlights_zh": [
+      "与 ChargeScape 合作实现智能充电",
+      "非高峰时段自动充电",
+      "未来 R2 支持双向充放电",
+      "帮助平衡电网负荷"
+    ],
+    "entities": [
+      "Rivian",
+      "R1S",
+      "R1T",
+      "R2",
+      "ChargeScape"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3Qm48/s1/rivian-r2-charging.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:38.723Z"
+  },
+  "https://www.motor1.com/features/795755/2028-chevrolet-camaro-horsepower-specs-price-details/": {
+    "title_zh": "雪佛兰 Camaro 即将复活：2028 年第七代车型前瞻",
+    "summary_short": "雪佛兰计划于 2028 年复活 Camaro，基于新平台打造，搭载 V8 及四缸发动机，预计 2027 年底投产。",
+    "summary_long": "雪佛兰正在筹备第七代 Camaro，预计 2028 年上市，2027 年底在密歇根州兰辛工厂投产。新车将基于通用汽车新性能平台，与下一代凯迪拉克 CT5 共享架构，提供 V8 和涡轮增压四缸发动机。首秀可能在 2026 年底。",
+    "highlights_zh": [
+      "第七代 Camaro 预计 2028 年上市",
+      "基于新平台",
+      "提供 V8 及四缸涡轮增压发动机",
+      "2027 年底在密歇根州工厂投产"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Camaro",
+      "凯迪拉克",
+      "CT5",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwokL/s1/2028-chevrolet-camaro-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:42.185Z"
+  },
+  "https://response.jp/article/2026/06/16/412777.html": {
+    "title_zh": "XCR 冲刺杯第 3 战：横滨轮胎 Geolandar 包揽 XC-2 组领奖台",
+    "summary_short": "XCR 冲刺杯第 3 战在秋田县大馆市举行，横滨轮胎 Geolandar 装备车包揽 XC-2 组领奖台，新赛车三菱 Triton 和 Outlander PHEV 亮相。",
+    "summary_long": "XCR 冲刺杯第 3 战于 6 月 13 日在秋田县大馆市举行，这是该系列赛首次在本州举办。比赛与第 44 届“橡子八公拉力赛”同期进行，赛道为狭窄的砂石路面，全长 26.244 公里，包含 5 个特殊赛段。全 47 台参赛车中，XCR 组别有 15 台，其中 7 台装备了横滨轮胎的 Geolandar 轮胎，最终该轮胎包揽了 XC-2 组的领奖台。此外，CUSCO Racing 带来了三菱 Triton 新车，而浅井明幸/古川和树组则换用三菱 Outlander PHEV 参赛。",
+    "highlights_zh": [
+      "横滨轮胎 Geolandar 包揽 XC-2 组前三",
+      "三菱 Triton 和 Outlander PHEV…",
+      "赛道为狭窄砂石路",
+      "XCR 组 15 台车中 7 台使用 Geoland…"
+    ],
+    "entities": [
+      "XCR 冲刺杯",
+      "横滨轮胎",
+      "Geolandar",
+      "三菱 | Mitsubishi",
+      "三菱 Triton | Mitsubishi Triton"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219277.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219277.jpg",
+      "https://response.jp/imgs/fill2/2219278.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:43.681Z"
+  },
+  "https://response.jp/article/2026/06/16/412779.html": {
+    "title_zh": "XCR 斯普林特杯第 3 战“橡子八公拉力赛”，东洋轮胎阵营称霸多组别",
+    "summary_short": "东洋轮胎装备的斯巴鲁森林人在 XCR 斯普林特杯第 3 战中夺冠，实现三连胜。",
+    "summary_long": "6 月 13 日在秋田县大馆市举行的 XCR 斯普林特杯系列赛第 3 战“第 44 届橡子八公拉力赛”中，搭载东洋轮胎“OPEN COUNTRY”的斯巴鲁森林人夺得 XC-2S 组别冠军。XCR 斯普林特杯自 2022 年系列化以来，原仅限北海道举办，因参赛车辆增加及全国关注，2026 年起扩展至本州。本次比赛以狭窄林道为主，路况多变，对轮胎的操控稳定性、耐久性和驱动力要求极高。首次参加 XC-2S 组的“WISTERIA with TOYO TIRES”车队，在暴雨中凭借 OPEN COUNTRY R/T 轮胎的出色性能，实现连续三战夺冠。",
+    "highlights_zh": [
+      "东洋轮胎阵营在 XCR 第 3 战多组别称霸",
+      "斯巴鲁森林人搭载 OPEN COUNTRY R/T…",
+      "暴雨中实现三连胜",
+      "赛事 2026 年起扩展至本州"
+    ],
+    "entities": [
+      "XCR 斯普林特杯",
+      "东洋轮胎",
+      "斯巴鲁 | Subaru",
+      "森林人",
+      "OPEN COUNTRY"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219311.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219311.jpg",
+      "https://response.jp/imgs/fill2/2219310.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:47.025Z"
+  },
+  "https://response.jp/article/2026/06/16/412771.html": {
+    "title_zh": "爱信集团旗下 FT Techno 将介绍认证评估服务",
+    "summary_short": "爱信集团旗下 FT Techno 将参展 2026 名古屋人车技术展，展示认证评估与开发评估服务，涵盖主动安全、被动安全及 AD/ADAS、EV 领域。",
+    "summary_long": "爱信集团旗下从事汽车测试评估的 FT Techno 将参加 2026 年 6 月 17 日至 19 日举办的“人车技术展 2026 名古屋”。作为独立的第三方测试机构，该公司提供从商谈到交付的一站式认证评估与开发评估服务，拥有测试跑道、试验设备和专业人员，能灵活适应客户开发阶段的需求。展会将重点介绍两项服务：一是基于汽车法规的主动安全（碰撞减轻制动测试）和被动安全（滑车测试）认证评估，该服务曾获 2024 年度 Good Design 奖；二是开发评估服务，涵盖实车评估及产品/部件功能评估，并展示对 AD/ADAS 和 EV 领域的最新应对。此外，还将介绍其位于爱知县丰田市的藤冈试验场和北海道丰顷町的丰顷试验场。",
+    "highlights_zh": [
+      "FT Techno 提供一站式认证与开发评估服务",
+      "主动安全与被动安全评估获 Good Design 奖",
+      "展示 AD/ADAS 及 EV 领域测试能力",
+      "拥有藤冈与丰顷两处测试跑道"
+    ],
+    "entities": [
+      "爱信",
+      "FT Techno",
+      "人车技术展",
+      "Good Design 奖",
+      "藤冈试验场"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219275.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219275.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:48.200Z"
+  },
+  "https://response.jp/article/2026/06/16/412768.html": {
+    "title_zh": "铃木吉姆尼也要电动化？次代车型设计大胆预测",
+    "summary_short": "铃木吉姆尼次代车型或引入混动技术，预计 2030 年前后登场，设计预测图已曝光。",
+    "summary_long": "铃木旗下轻型越野车吉姆尼的下一代车型预计将在 2030 年前后推出，最大看点在于混合动力或电动辅助技术的引入。现款第四代吉姆尼于 2018 年上市，已销售 8 年，但作为长寿车型仍持续改进。由于吉姆尼采用梯形大梁、副变速箱分时四驱和轻量化车身，简单电动化会导致重量增加，影响越野性能。因此，基于铃木小型车轻混技术的系统被认为最有可能，而非纯电或全混。",
+    "highlights_zh": [
+      "次代吉姆尼预计 2030 年前后登场",
+      "或采用轻混技术",
+      "现款已销售 8 年",
+      "设计预测图由合作设计师制作"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "轻混",
+      "越野车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2217693.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2217693.jpg",
+      "https://response.jp/imgs/fill2/2217694.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:50.912Z"
+  },
+  "https://bestcarweb.jp/news/1548362": {
+    "title_zh": "MOTTERU MagSafe 车载支架：强力磁石+真空吸盘，手机不滑落",
+    "summary_short": "MOTTERU 推出 MagSafe 车载支架 MOT-MGCH02，采用强力磁石与真空吸盘双重固定，耐高温，解决行车中手机滑落问题。",
+    "summary_long": "MOTTERU 推出 MagSafe 车载支架 MOT-MGCH02，采用强力钕磁铁与旋钮式真空凝胶吸盘双重固定，确保手机在行驶中不位移、不脱落。该支架支持-15℃至 60℃环境温度，即使在夏季高温车内也能保持稳定吸附，解决了传统吸盘支架在高温下易失效的痛点。",
+    "highlights_zh": [
+      "强力磁石+真空吸盘双重固定",
+      "耐温范围-15℃至 60℃",
+      "适配 MagSafe 手机",
+      "解决高温下吸盘脱落问题"
+    ],
+    "entities": [
+      "MOTTERU",
+      "MagSafe",
+      "MOT-MGCH02",
+      "车载支架"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13010709/c5ab68f174dd90e4ef0be259815792f8.jpg?v=1781280430",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13010709/c5ab68f174dd90e4ef0be259815792f8-600x600.jpg?v=1781280430",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16171219/85839-tjp2613ju12906-600x378.jpg?v=1781597540"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:52.210Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548435": {
+    "title_zh": "不只是 BRZ！YouTuber 哈鲁卡斯的限量 300 台特别版",
+    "summary_short": "女 YouTuber 哈鲁卡斯展示爱车 BRZ STI Sport Yellow Edition，限量 300 台，黄色外观与专属调校令人瞩目。",
+    "summary_long": "在《Best Car》杂志连载企划中，20 多岁的女性 YouTuber 哈鲁卡斯公开了她的爱车——斯巴鲁 BRZ STI Sport Yellow Edition。这款车是内外装和底盘经过特别调校的限量 300 台特别仕样车，黄色涂装格外耀眼。哈鲁卡斯身高仅 147cm，却对跑车情有独钟，从 BMW Z4 到马自达 Roadster，再到如今的 BRZ，她不断追求驾驶乐趣。她因向往兰博基尼而联系知名 YouTuber“あま猫”，从而开启了自己的 YouTube 频道，希望让更多年轻人爱上汽车。未来，她还计划开发针对矮个子驾驶者的汽车用品。",
+    "highlights_zh": [
+      "限量 300 台的 BRZ STI Sport Ye…",
+      "女 YouTuber 哈鲁卡斯的爱车大公开",
+      "从 BMW Z4 到马自达 Roadster 再到…",
+      "计划开发矮个子驾驶者专用汽车用品"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "BRZ",
+      "STI Sport Yellow Edition",
+      "马自达 | Mazda",
+      "Roadster"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12164925/9f969c95cf125fac0317e91e087bae6c.jpg?v=1781250567",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12164925/9f969c95cf125fac0317e91e087bae6c-600x353.jpg?v=1781250567",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12120958/crown_image1-600x400.jpg?v=1781233800"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:55.956Z"
+  },
+  "https://response.jp/article/2026/06/16/412778.html": {
+    "title_zh": "Daytona 发布全新 RESO 系列摩托车对讲机：全系标配 AI 降噪与 IP67 防水",
+    "summary_short": "Daytona 推出 RESO 系列摩托车对讲机，三款型号均配备 AI 降噪和 IP67 防水，旗舰款支持 Mesh 与网络双模通信。",
+    "summary_long": "Daytona 发布 RESO 系列摩托车对讲机，包括旗舰 PILOT PRO、中端 PILOT NEO 和入门 PILOT LITE 三款。全系标配 AI 降噪和 IP67 防水。旗舰 PRO 搭载 DuoSync 技术，融合 Mesh 与网络通信，Mesh 下最大 2km，网络下距离不限，支持 30 人同时连接，并具备 GPS 轨迹记录和 SOS 功能。中端 NEO 采用 UniSync 硬件 Mesh，支持 15 人连接，通信距离 2km。PRO 电池 1950mAh，续航 13 小时，支持快充。",
+    "highlights_zh": [
+      "全系标配 AI 降噪与 IP67 防水",
+      "旗舰 PRO 支持 Mesh+网络双模通信",
+      "PRO 续航 13 小时",
+      "NEO 支持 15 人 Mesh 连接"
+    ],
+    "entities": [
+      "デイトナ",
+      "レソ",
+      "PILOT PRO",
+      "PILOT NEO",
+      "DuoSync"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219294.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219294.jpg",
+      "https://response.jp/imgs/fill2/2219293.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:56.915Z"
+  },
+  "https://response.jp/article/2026/06/16/412764.html": {
+    "title_zh": "丰田股价回落：美伊达成协议但中东局势仍存警惕",
+    "summary_short": "丰田股价回落，尽管美伊达成停火协议，中东局势仍令市场警惕。日经指数续涨，盘中一度突破 7 万点。",
+    "summary_long": "16 日日经平均指数连续第四日上涨，盘中一度突破 7 万点大关，但丰田股价却出现回落。尽管美国与伊朗就结束战斗达成协议，市场对中东局势的警惕情绪仍未消退。纽约道琼斯指数受美伊协议提振连续三日上涨，纳斯达克市场也同步走高，特斯拉股价上涨 1.16%。",
+    "highlights_zh": [
+      "丰田股价回落",
+      "美伊达成停火协议",
+      "日经指数盘中破 7 万点",
+      "特斯拉股价上涨"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "特斯拉 | Tesla",
+      "日经平均指数",
+      "中东局势"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219144.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219144.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:12:59.595Z"
+  },
+  "https://bestcarweb.jp/feature/column/1541410": {
+    "title_zh": "日产 Note Autech Line 与标准版 X 有何不同？11 万日元差的外观与内饰对比",
+    "summary_short": "日产 Note Autech Line 相比标准版 X 贵 11 万日元，外观内饰更精致，提供专属设计元素与座椅。",
+    "summary_long": "日产 Note 在 2025 年 8 月改款中新增 Autech Line 版本，基于标准版 X 打造，售价 243.87 万日元，比 X 贵 11 万日元。Autech Line 在外观上采用深金属灰前格栅、金属质感门把手和专属 16 英寸铝合金轮毂，内饰则配备专属座椅，营造更高级的氛围。动力方面与 X 一致，均搭载 e-POWER 系统，WLTC 油耗 28.4km/L。Autech Line 定位为“稍高品质”的版本，适合追求个性与质感的用户。",
+    "highlights_zh": [
+      "Autech Line 比 X 贵 11 万日元",
+      "外观采用深金属灰格栅和专属轮毂",
+      "内饰配备专属座椅提升质感",
+      "动力与油耗与标准版 X 相同"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "オーテックライン",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10143020/250828-01-j_002_NMC_1.jpg?v=1781069422",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10143020/250828-01-j_002_NMC_1-600x400.jpg?v=1781069422",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12120958/crown_image1-600x400.jpg?v=1781233800"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:01.920Z"
+  },
+  "https://bestcarweb.jp/news/1541337": {
+    "title_zh": "日产 Note 选 X 就够？含 AUTECH LINE 和 AUTECH CROSSOVER 的最佳配置分析",
+    "summary_short": "日产 Note 全系 e-POWER，X 版性价比最高，AUTECH LINE 加 11 万日元获专属内外饰，AUTECH CROSSOVER 价格接近 Note Aura。",
+    "summary_long": "日产 Note 是一款全系搭载 e-POWER 混动系统的紧凑型车，提供标准 X、AUTECH LINE 和 AUTECH CROSSOVER 三种配置。X 售价 232.87 万日元，WLTC 油耗 28.4km/L，安全配置齐全，作为日常代步工具性价比极高。AUTECH LINE 售价 243.87 万日元，比 X 贵 11 万日元，增加专属座椅、格栅、轮毂等内外饰细节，燃效略降至 27.6km/L，但个性化提升明显。AUTECH CROSSOVER 售价 279.73 万日元，比 X 贵 46.86 万日元，拥有 SUV 风格外观和专属调校悬架，但价格已接近更高阶的 Note Aura。综合来看，X 是最务实的选择。",
+    "highlights_zh": [
+      "X 版性价比最高",
+      "AUTECH LINE 加 11 万日元获专属内外饰",
+      "AUTECH CROSSOVER 价格接近 Note…",
+      "全系标配升级版智能紧急制动"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "e-POWER",
+      "オーテックライン",
+      "オーテッククロスオーバー"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11113113/s-note-all.jpg?v=1781145075",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11113113/s-note-all-600x400.jpg?v=1781145075",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13010709/c5ab68f174dd90e4ef0be259815792f8-600x600.jpg?v=1781280430"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:05.069Z"
+  },
+  "https://response.jp/article/2026/06/16/412759.html": {
+    "title_zh": "布加迪 W16 Mistral 发布“飞虫”定制版，灵感来自蜻蜓",
+    "summary_short": "布加迪推出 W16 Mistral“飞虫”定制版，灵感源自蜻蜓，车身颜色随光线在蓝与青绿间变化。",
+    "summary_long": "布加迪通过其 Sur Mesure 定制计划，发布了 W16 Mistral 的“飞虫”定制版。该车是布加迪与一位皇家收藏家长期合作的第四款作品，主题为“自然之美”，此前已有 Veyron Grand Sport Vitesse“地狱虫”、Chiron“地狱蜂”和 Divo“瓢虫”。新车灵感源自蜻蜓，其彩虹色翅膀和轻盈速度象征布加迪的永恒优雅。专属车漆“蜻蜓蓝”可在蓝色和青绿色之间随光线变化，再现蜻蜓翅膀的闪耀光泽。车身采用椭圆形图案，从车头向车尾密度递增，并融入进气口暗部。内饰在门板和扶手两侧应用图形图案，椭圆形徽章中嵌入布加迪马卡龙纹章，体现了多项技术挑战。",
+    "highlights_zh": [
+      "灵感源自蜻蜓",
+      "专属车漆“蜻蜓蓝”随光线变色",
+      "车身图案密度向车尾递增",
+      "内饰融入布加迪马卡龙纹章"
+    ],
+    "entities": [
+      "布加迪",
+      "W16 Mistral",
+      "Veyron",
+      "Chiron",
+      "Divo"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219028.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219028.jpg",
+      "https://response.jp/imgs/fill2/2219031.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:07.154Z"
+  },
+  "https://response.jp/article/2026/06/16/412769.html": {
+    "title_zh": "次世代车载 HMI 开发：ProtoPie×Unity 亮相人车技术展 2026 名古屋",
+    "summary_short": "Borne Digital 与 Studio XID 联合展出，展示 ProtoPie 与 Unity 结合的无代码车载 HMI 原型开发方案。",
+    "summary_long": "Borne Digital 与 Studio XID 将在 2026 年 6 月 17-19 日于爱知县国际展示场举办的“人车技术展 2026 名古屋”上联合展出。双方在 61 号展位展示“ProtoPie × Unity 实现次世代车载 HMI 原型开发环境”。ProtoPie 是 Studio XID 开发的 UI/UX 原型工具，支持与多种硬件和传感器联动，无需编码即可实现 Figma 难以完成的高级交互和接近实机的验证。展位常驻 ProtoPie 工作人员解答疑问，并设置简易座椅模拟车载环境供体验。同时介绍 Unity 用于 HMI 的 3 化，展示两者结合的开发工作流。",
+    "highlights_zh": [
+      "ProtoPie 与 Unity 联合展示车载 HM…",
+      "无需编码实现高级交互与实机验证",
+      "展位常驻 ProtoPie 工作人员并提供体验区",
+      "聚焦车载 UI/UX 的 3D 化与高效开发流程"
+    ],
+    "entities": [
+      "ボーンデジタル",
+      "Studio XID",
+      "ProtoPie",
+      "ユニティ",
+      "人车技术展 2026 名古屋"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219216.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219216.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:09.874Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543449": {
+    "title_zh": "英菲尼迪全新 QX65：SUV 版 GT-R，日产设计复兴",
+    "summary_short": "英菲尼迪发布全新轿跑 SUV QX65，低趴姿态与流线造型酷似 GT-R，彰显日产设计复兴决心。",
+    "summary_long": "2026 年 3 月，日产旗下豪华品牌英菲尼迪正式发布全新轿跑 SUV QX65。新车采用低矮宽大的车身姿态和流畅的 Fastback 造型，让人联想到曾被誉为“SUV 版 GT-R”的英菲尼迪 FX，整体充满运动感与力量感。前脸以日本竹林为灵感设计立体格栅，搭配数字钢琴灯组和横贯式日行灯；尾部则借鉴飞机垂直尾翼造型。车身尺寸为长 5042mm、宽 1979mm、高 1770mm，轴距 2900mm，离地间隙 149mm，配合外扩轮拱和大尺寸轮毂，静态下即传递出高性能气场。QX65 的推出标志着英菲尼迪在设计语言上的全面复兴。",
+    "highlights_zh": [
+      "低趴宽体姿态",
+      "Fastback 轿跑造型",
+      "竹林灵感格栅与数字钢琴灯",
+      "长 5042mm"
+    ],
+    "entities": [
+      "英菲尼迪",
+      "QX65",
+      "GT-R",
+      "FX",
+      "日产 | Nissan"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08072515/9e27d8926c12e413cf49b755ba0c3e3f-6.jpg?v=1780871117",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08072515/9e27d8926c12e413cf49b755ba0c3e3f-6-600x338.jpg?v=1780871117",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12120958/crown_image1-600x400.jpg?v=1781233800"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:11.970Z"
+  },
+  "https://insideevs.com/news/798875/audi-a6-allroad-plug-in-hybrid-specs-range/": {
+    "title_zh": "奥迪 A6 Allroad 插电混动版：对抗无聊 SUV 的解药",
+    "summary_short": "奥迪 A6 Allroad 首次推出插电混动版，纯电续航近 60 英里，成为 SUV 之外的个性之选。",
+    "summary_long": "奥迪 A6 Allroad 首次搭载插电混动系统，配备 2.0 升汽油发动机和集成电机的 7 速双离合变速箱，标配 quattro 四驱。电池容量 25.9 千瓦时（可用 20.7 千瓦时），WLTP 纯电续航达 59 英里。充电仅支持 11 千瓦交流慢充，约 2.5 小时充满，无直流快充。新车采用 CTP 电池封装技术，提升能量密度。",
+    "highlights_zh": [
+      "纯电续航 59 英里（WLTP）",
+      "2.0T+电机插混系统",
+      "标配 quattro 四驱",
+      "仅支持 11kW 交流充电"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A6 Allroad"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4zlx/s1/audi-a6-allroad-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:14.118Z"
+  },
+  "https://www.thedrive.com/news/how-toyotas-first-le-mans-win-in-4-years-highlights-the-races-fighting-ethos": {
+    "title_zh": "丰田时隔 4 年再夺勒芒冠军，展现赛事拼搏精神",
+    "summary_short": "丰田在 2026 年勒芒 24 小时耐力赛中凭借 7 号车组夺冠，尽管遭遇技术故障和对手挑战，仍以微弱优势获胜，展现顽强斗志。",
+    "summary_long": "丰田在 2026 年勒芒 24 小时耐力赛中凭借 7 号车组（由小林可梦伟、迈克·康威和尼克·德弗里斯驾驶）夺冠，这是丰田自 2022 年后的首场胜利。比赛过程充满戏剧性，7 号车因传感器问题频繁进入安全模式，损失高达 8 公里/小时的速度，但最终以 10.6 秒的优势击败宝马 M Hybrid V8，创下历史第四小冠亚军差距。丰田技术总监大卫·弗卢里透露，赛车在整个赛事中一直与间歇性故障作斗争，但团队凭借坚韧不拔的精神克服困难。此次胜利不仅终结了法拉利的三连冠，也凸显了勒芒赛事中拼搏至上的精神。",
+    "highlights_zh": [
+      "丰田 7 号车组以 10.6 秒优势夺冠",
+      "赛车因传感器问题损失速度仍获胜",
+      "终结法拉利勒芒三连冠",
+      "德弗里斯成为第三位荷兰冠军"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "勒芒 24 小时耐力赛 | 24 Hours of Le Mans",
+      "宝马 | BMW",
+      "法拉利 | Ferrari",
+      "小林可梦伟"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2281061178.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2281065218.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2281068455.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:17.225Z"
+  },
+  "https://www.motor1.com/news/798779/dealership-takes-customer-to-movies/": {
+    "title_zh": "男子将车送去保养，竟让经销商送他去电影院",
+    "summary_short": "一男子在 4S 店保养车辆时，让工作人员送他去电影院，引发网友热议，称经销商常提供此类服务。",
+    "summary_long": "一名男子将车送到经销商处进行保养，但他没有在休息室等待，而是让工作人员送他去电影院看电影。这段视频在网络上走红，观看量超过 14.6 万次。许多网友评论说，经销商经常提供这样的接送服务，他们以后也会效仿。",
+    "highlights_zh": [
+      "男子让经销商送他去电影院",
+      "视频观看量超 14.6 万次",
+      "网友称经销商常提供此类服务"
+    ],
+    "entities": [
+      "经销商"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3QmNG/s1/man-takes-car-to-dealership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:17.328Z"
+  },
+  "https://insideevs.com/news/798847/ev-charger-off-grid-route-66-california/": {
+    "title_zh": "66 号公路上的离网 EV 充电站，比竞争对手更便宜",
+    "summary_short": "加州 Barstow 新开一座离网太阳能 EV 充电站，由 Coral Charge 运营，价格低于周边对手。",
+    "summary_long": "加州 Barstow 的 66 号公路旁新开一座离网 EV 充电站，由初创公司 Coral Charge 运营。该站配备约 600 块太阳能板和 3 台 DC 快充桩（Imecar 制造），内置电池储能 140kWh，单桩最高输出 180kW，可同时为 6 辆车充电。支持 CCS1 和 NACS 插头，价格 0.50 美元/kWh 加 1 美元服务费，低于周边非特斯拉充电站。无需 App，通过读卡器支付。",
+    "highlights_zh": [
+      "完全离网",
+      "单桩最高 180kW 快充",
+      "价格 0.50 美元/kWh",
+      "支持 CCS1 和 NACS 插头"
+    ],
+    "entities": [
+      "Coral Charge",
+      "Imecar",
+      "66 号公路 | Route 66",
+      "Barstow"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6N2KM/s1/coral-charge-s-off-grid-ev-charging-station-in-barstow-california.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:21.250Z"
+  },
+  "https://www.motor1.com/news/798841/new-audi-a6-allroad/": {
+    "title_zh": "全新奥迪 A6 Allroad：完美的 SUV 替代品",
+    "summary_short": "奥迪 A6 Allroad 基于 Avant 打造，标配四驱和抬升悬架，车身加宽 111 毫米，提供 21 英寸轮毂，并配备后轮转向。",
+    "summary_long": "奥迪在推出 A6 Avant 一年多后，带来了其 Allroad 版本。这款越野旅行车延续了经典配方：抬升悬架、标配 Quattro 四驱，但首次采用了比基础车型更宽的车身，宽度增加 111 毫米，此前这一特征仅见于旗舰 RS6。离地间隙增加 34 毫米，前后轴加宽以容纳最大 21 英寸轮毂。标配后轮转向系统，低速时后轮可反向转动最多 5 度以提升灵活性，高速时同向转动增强稳定性。自适应空气悬架专为 Allroad 调校。奥迪已确认新车将于明年进入美国市场。",
+    "highlights_zh": [
+      "车身加宽 111 毫米",
+      "离地间隙增加 34 毫米",
+      "标配后轮转向",
+      "提供 19 至 21 英寸轮毂"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A6 Allroad",
+      "A6 Avant",
+      "Quattro",
+      "RS6"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgZzm/s1/audi-a6-allroad-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:21.559Z"
+  },
+  "https://www.motor1.com/news/798821/bmw-new-door-handle-design/": {
+    "title_zh": "全新宝马 X5 隐藏式门把手设计",
+    "summary_short": "下一代宝马 X5 将门把手集成到腰线中，实现更流畅的车身轮廓和更好的空气动力学性能。",
+    "summary_long": "宝马即将发布下一代 X5，其门把手被巧妙地隐藏在腰线中，使车身侧面更简洁流畅。这种设计不仅提升了空气动力学效率，也符合 Neue Klasse 设计语言“精简”的理念。纯电动版 iX5 将搭载最大电池组（欧洲 141kWh/美国 144kWh）。该设计首次出现在宝马 Skytop 概念车上，X5 是首款量产应用车型。",
+    "highlights_zh": [
+      "门把手集成到腰线中",
+      "提升空气动力学效率",
+      "纯电 iX5 搭载最大电池组",
+      "Skytop 概念车首次采用"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5",
+      "iX5",
+      "Neue Klasse",
+      "Skytop"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPjRl/s1/bmw-x5-2026-in-der-finalen-erprobung.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:24.977Z"
+  },
+  "https://www.motor1.com/news/798830/mercedes-amg-product-blitz-incoming/": {
+    "title_zh": "AMG 史上最大产品攻势：36 个月内推出超 27 款新车",
+    "summary_short": "梅赛德斯-AMG 计划三年内推出超 27 款新车，聚焦六缸和八缸发动机及性能电动车，目标年销 20 万辆。",
+    "summary_long": "梅赛德斯-AMG 计划在未来三年内推出超过 27 款新车，以追赶宝马 M 部门。产品攻势包括搭载全新 V8 发动机的 GLE 63 和 GLS 63、纯电 GT 四门轿跑、硬核 V8 CLE Mythos、G63 敞篷版、GT Black Series 以及六缸 C53 等。AMG CEO 表示，发动机变体将从 10 种减少至 4 种，核心为升级版六缸和全新 V8。四缸车型的未来尚未明确，但 AMG 目标在 2020 年代末实现年销 20 万辆。",
+    "highlights_zh": [
+      "三年内推出超 27 款新车",
+      "聚焦六缸和八缸发动机",
+      "纯电 GT 四门轿跑已发布",
+      "目标年销 20 万辆"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "宝马 M | BMW M",
+      "CLE",
+      "G63",
+      "GT Black Series"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9ezo/s1/mercedes-amg-gt-black-series.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-16T18:13:25.644Z"
   }
 }
