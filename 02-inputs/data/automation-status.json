@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-15T18:04:19.229Z",
+    "generated_at": "2026-06-16T05:30:20.057Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 362,
-    "deepseek_untranslated_before_run": 38,
-    "newly_fetched_articles": 38,
-    "newly_fetched_untranslated": 38,
+    "deepseek_translated_before_run": 368,
+    "deepseek_untranslated_before_run": 32,
+    "newly_fetched_articles": 32,
+    "newly_fetched_untranslated": 32,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 38,
+    "translation_queue_count": 32,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.6.15",
-        "title": "The New Camaro Should Have A High-Performance Variant: Report",
-        "url": "https://www.motor1.com/news/798771/new-chevrolet-camaro-performance-variant/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.15",
-        "title": "BMW Confirms Next M3 ‘Won’t Be a Hybrid,’ And Yeah, That Makes Sense",
-        "url": "https://www.thedrive.com/news/bmw-confirms-next-m3-wont-be-a-hybrid-and-yeah-that-makes-sense"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.15",
-        "title": "The IIHS Tells Us Which Driver Aids Actually Work—And Which Don't",
-        "url": "https://www.motor1.com/news/798766/iihs-driver-aids-work-test/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.15",
-        "title": "A Chinese Car Brand Says It Hired A Top Ferrari Designer. Ferrari Wants A Name",
-        "url": "https://insideevs.com/news/798584/luxeed-rx-ferrari-purosangue-connection/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.15",
-        "title": "Jeep Grand Cherokee Trailhawk, Overland 4×4 Models Are Back for 2027",
-        "url": "https://www.thedrive.com/news/jeep-grand-cherokee-trailhawk-overland-4x4-models-are-back-for-2027"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.15",
-        "title": "Hot Wheels Infinite Rush Preview: Die-Cast Playground Goes Open-World",
-        "url": "https://www.thedrive.com/news/hot-wheels-infinite-rush-preview-die-cast-playground-goes-open-world"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.15",
-        "title": "BMW Confirms: The Next M3 'Won't Be Hybrid'",
-        "url": "https://www.motor1.com/news/798749/bmw-confrims-no-m3-hybrid/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.15",
-        "title": "New Electric Car Sales Bounced Back Big in April: TDS",
-        "url": "https://www.thedrive.com/news/new-electric-car-sales-bounced-back-big-in-april-tds"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.15",
-        "title": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Less Than Gas",
-        "url": "https://insideevs.com/news/798734/rivian-r1t-towing-cost/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.15",
-        "title": "The Aston Martin Vanquish's Designer Tells Us Why It's Still So Important",
-        "url": "https://www.motor1.com/features/798617/aston-martin-vanquish-designer-interview-story/"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "「AI博覧会」を東海エリアで初開催、50社・30講演以上が名古屋に集結…6月16‐17日",
-        "url": "https://response.jp/article/2026/06/15/412719.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "「この色好きだわ」トヨタ『GR86』の新色“サンダー”に高評価、SNSでは「日本でも出るよね？」と期待の声",
-        "url": "https://response.jp/article/2026/06/15/412724.html"
+        "time": "2026.6.16",
+        "title": "「いいバイクなのに」“中免ハーレー”『X350』販売終了にSNSでは惜しむ声",
+        "url": "https://response.jp/article/2026/06/16/412747.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.15",
-        "title": "900万円級でも勝算あり!? 日産「新型エルグランド」はアルファードの牙城を崩せるか",
-        "url": "https://bestcarweb.jp/feature/column/1543419"
+        "time": "2026.6.16",
+        "title": "「カローラ＝安い」はもう古い!? 装備満載で350万円級に！ トヨタ人気セダンのリアル支払額とは",
+        "url": "https://bestcarweb.jp/feature/column/1525189"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.16",
+        "title": "「知らなかった……」が続出!? ライト・給油口・エアコンの意外な使い方！ 愛車に隠された便利機能",
+        "url": "https://bestcarweb.jp/feature/column/1538610"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.16",
+        "title": "「運転の疲れが全然違う」と絶賛の嵐！ SWANSの傑作ドライビングサングラスが販売終了目前",
+        "url": "https://bestcarweb.jp/news/car-accessory/1549358"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "Booostのサプライチェーン向けデータ連携基盤、ODP対応にバージョンアップ…企業間データ主権を強化",
-        "url": "https://response.jp/article/2026/06/15/412715.html"
+        "time": "2026.6.16",
+        "title": "『Sクラス』改良新型から、メルセデスベンツが究極のカスタムプログラム開始…外装100色以上・内装400色以上",
+        "url": "https://response.jp/article/2026/06/16/412731.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.16",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第786回",
+        "url": "https://bestcarweb.jp/feature/column/1532417"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "DS7 後継、「DS N°7」はEVとハイブリッド設定…欧州受注開始",
-        "url": "https://response.jp/article/2026/06/15/412708.html"
+        "time": "2026.6.16",
+        "title": "AI商談アプリ「ボイスバリュー」、リアルタイムモニタリング機能を追加…自動車ディーラーなどに向け",
+        "url": "https://response.jp/article/2026/06/16/412745.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "EV・快適空間・環境の最新技術、ダイキョーニシカワが披露へ…人とくるまのテクノロジー展 2026 NAGOYA",
-        "url": "https://response.jp/article/2026/06/15/412710.html"
+        "time": "2026.6.16",
+        "title": "ARCHION、トヨタ主体のCJPTに参画…日野・三菱ふそう統合の新持株会社が物流課題解決へ",
+        "url": "https://response.jp/article/2026/06/16/412728.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "LUUP死亡事故で問われる特定原付の「期待」と「現実」",
-        "url": "https://response.jp/article/2026/06/15/412707.html"
+        "time": "2026.6.16",
+        "title": "EMC試験や校正サービス、日本品質保証機構が紹介へ…人とくるまのテクノロジー展 2026 NAGOYA",
+        "url": "https://response.jp/article/2026/06/16/412756.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "SDV時代におけるシャシー制御とは？「制御に知を、走りに革新を」ZFが描く次世代モビリティの姿",
-        "url": "https://response.jp/article/2026/06/15/412705.html"
+        "time": "2026.6.16",
+        "title": "EV・自動化対応の最先端ソリューション、第一実業が紹介へ…人とくるまのテクノロジー展 2026 NAGOYA",
+        "url": "https://response.jp/article/2026/06/16/412744.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.16",
+        "title": "PHEVの元祖が今お買い得!? 大幅改良後モデルが200万円台前半！ 三菱「アウトランダーPHEV」の狙い目とは",
+        "url": "https://bestcarweb.jp/feature/column/1536049"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.15",
-        "title": "SDV開発やAI活用などのソリューション、SOLIZEグループが披露へ…人とくるまのテクノロジー展 2026 NAGOYA",
-        "url": "https://response.jp/article/2026/06/15/412712.html"
+        "time": "2026.6.16",
+        "title": "カーオーディオ用DSPコントローラー機能搭載USBプレーヤー「DSD-Z100」発売 イース・コーポレーション",
+        "url": "https://response.jp/article/2026/06/16/412749.html"
       },
       {
-        "source": "Vespa",
-        "time": "2026.6.15",
-        "title": "The Piaggio Group and Rome celebrate the Vespa’s 80th anniversary",
-        "url": "https://press.piaggiogroup.com/en_EN/post/show/352278/the-piaggio-group-and-rome-cel.html"
+        "source": "Best Car Web",
+        "time": "2026.6.16",
+        "title": "クラウンスポーツ対ハリアー!! 同じトヨタの上級SUVで選ぶならどっち？",
+        "url": "https://bestcarweb.jp/news/1531028"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.16",
+        "title": "スーパーフォーミュラ、学生向けキャリアイベント『おしごとセッション』を富士スピードウェイで開催…7月17日",
+        "url": "https://response.jp/article/2026/06/16/412750.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.16",
+        "title": "デリカD:5を買うならどのグレード!? 「G」「G-Power Package」「P」の装備差と価格差を大分析!!",
+        "url": "https://bestcarweb.jp/feature/column/1530429"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.16",
+        "title": "トヨタ自動車、正社員の平均年収初の「1000万円超え」［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/06/16/412732.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.16",
+        "title": "ハンドリングいいけど、、、クラウンエステート1年乗ってわかったマルとバツ",
+        "url": "https://bestcarweb.jp/feature/column/1541721"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.16",
+        "title": "プジョー『E-208 GTi』、市販版を発表…Bセグ最強の281馬力電動ホットハッチに",
+        "url": "https://response.jp/article/2026/06/16/412739.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.16",
+        "title": "ブリヂストン、国内市販用タイヤを平均5%値上げ…9月から",
+        "url": "https://response.jp/article/2026/06/16/412754.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.16",
+        "title": "ホンダの電動二輪車と部品共用、電動パワーユニット「eGX」に高出力3機種…6月17日世界初公開へ",
+        "url": "https://response.jp/article/2026/06/16/412735.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27566115940",
-    "sha": "9088866eedd347e242b6a05d60c467882439131e",
-    "completed_at": "2026-06-15T18:05:52.342Z",
+    "run_id": "27596333153",
+    "sha": "56d71a846d95d05514608310e7c09ae5b5d8da56",
+    "completed_at": "2026-06-16T05:31:38.441Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 38,
-    "queued_articles": 38,
-    "processed": 38,
-    "started_at": "2026-06-15T18:04:19.527Z",
-    "finished_at": "2026-06-15T18:05:52.083Z",
+    "scoped_articles": 32,
+    "queued_articles": 32,
+    "processed": 32,
+    "started_at": "2026-06-16T05:30:20.356Z",
+    "finished_at": "2026-06-16T05:31:38.203Z",
     "success": true,
     "error": ""
   }
