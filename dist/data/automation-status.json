@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-17T05:14:31.875Z",
+    "generated_at": "2026-06-17T16:44:18.434Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 362,
+    "deepseek_untranslated_before_run": 38,
+    "newly_fetched_articles": 38,
+    "newly_fetched_untranslated": 38,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 38,
     "translation_queue_preview": [
       {
+        "source": "InsideEVs",
+        "time": "2026.6.17",
+        "title": "Tesla Owners Are Using Doll Heads To Fool Full Self-Driving",
+        "url": "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.17",
+        "title": "Porsche Killed Its Best Cars Because You Didn’t Buy Them",
+        "url": "https://www.thedrive.com/news/porsche-killed-its-best-cars-because-you-didnt-buy-them"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.17",
+        "title": "License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets",
+        "url": "https://www.thedrive.com/news/license-plate-cameras-will-soon-track-phones-wearables-infotainment-and-even-your-pets"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.17",
+        "title": "Is BMW Making A New Alpina Flagship Sedan? Here's Everything We Know",
+        "url": "https://www.motor1.com/features/799036/bmw-alpina-sedan-details-specs-engine/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.17",
+        "title": "Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Diesel",
+        "url": "https://www.thedrive.com/news/base-chevy-silverado-1500-work-truck-finally-gets-the-duramax-diesel"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.17",
+        "title": "Ford Thinks It Has A Solution To Its Recall Problem",
+        "url": "https://www.motor1.com/news/799030/ford-fix-recall-problem-teardown-engines/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.17",
+        "title": "GM Said It Crushed Every 4.5L Duramax V8 Prototype. One Is in Sweden",
+        "url": "https://www.thedrive.com/news/gm-said-it-crushed-every-4-5l-duramax-v8-prototype-one-is-in-sweden"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.17",
+        "title": "This Startling Statistic Is Why Seatbelt Reminders Have Gotten So Annoying",
+        "url": "https://www.motor1.com/news/799014/modern-seatbelt-reminders-annoying/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.17",
+        "title": "GM Says High Gas Prices Have Driven Small-Car Shift Faster Than Expected: TDS",
+        "url": "https://www.thedrive.com/news/gm-says-high-gas-prices-have-driven-small-car-shift-faster-than-expected-tds"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.17",
+        "title": "Jeremy Clarkson Has Been Diagnosed With Prostate Cancer",
+        "url": "https://www.thedrive.com/news/jeremy-clarkson-has-been-diagnosed-with-prostate-cancer"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.17",
+        "title": "Heavy-Duty Trucks Are Finally Getting The Safety Ratings They Need",
+        "url": "https://www.motor1.com/news/798928/big-trucks-safety-crash-tests/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.17",
+        "title": "Porsche Looked at Hyundai and Said, ‘We’ll Have What They’re Having’",
+        "url": "https://www.thedrive.com/news/porsche-looked-at-hyundai-and-said-well-have-what-theyre-having"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.6.17",
-        "title": "「乗ればいい」から「見ていい」へ…新型ネオレトロに異業種コラボ、二輪デザイントップが明かすスズキの“変化”と“進化”の理由",
-        "url": "https://response.jp/article/2026/06/17/412800.html"
+        "title": "“歯みがき”のサンスター、「鈴鹿8耐」でスズキに最新の「環境負荷低減型ブレーキ」提供へ 昨年よりも性能向上",
+        "url": "https://response.jp/article/2026/06/17/412831.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.17",
+        "title": "「この変態デザイン、かなり好き」DSの新型SUV『N°7』がSNSで注目！「ジャンル不明な感じがたまらん」の声も",
+        "url": "https://response.jp/article/2026/06/17/412830.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.17",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第787回",
-        "url": "https://bestcarweb.jp/feature/column/1532419"
+        "title": "「僕のコメディの師匠は柴田恭兵クン」南条弘も帰ってきた!? 舘ひろしさん映画『免許返納!?』インタビュー",
+        "url": "https://bestcarweb.jp/news/entame/1551760"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.17",
-        "title": "30年目の『TE37』がWEKFESTへ、RAYSが向き合う“性能”と“自己表現”",
-        "url": "https://response.jp/article/2026/06/17/412802.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "7/30申込締切 ドイツの自動車産業の業績は政府支援で回復するか？",
-        "url": "https://response.jp/article/2026/06/17/412789.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "JFEテクノリサーチ、全固体電池・EVモーター・燃料電池の評価技術を紹介…人とくるまのテクノロジー展 2026 NAGOYA",
-        "url": "https://response.jp/article/2026/06/17/412788.html"
+        "title": "『カローラクロス ハイブリッド GRスポーツ』がカプラーオンでパワーアップ！ ブリッツ「パワコンX」が適合",
+        "url": "https://response.jp/article/2026/06/17/412833.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.17",
-        "title": "WR-Vはなぜハイブリッドなしでも売れる？ 1.5Lガソリン一本勝負の説得力!!",
-        "url": "https://bestcarweb.jp/feature/column/1545639"
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「R&D」",
+        "url": "https://bestcarweb.jp/feature/column/1530946"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.17",
-        "title": "アウディ『A6オールロード』新型、A6アバント比で111mmワイド・最低地上高も34mmアップ…欧州発表",
-        "url": "https://response.jp/article/2026/06/17/412792.html"
+        "title": "AI中古車仕入れ分析システム導入、在庫最適化へ…AOZORA COMPANY",
+        "url": "https://response.jp/article/2026/06/17/412827.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.17",
-        "title": "アウディ『A8』、最終モデル「ファイナルエディション」発売…88台限定で1598万円",
-        "url": "https://response.jp/article/2026/06/17/412785.html"
+        "title": "EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置",
+        "url": "https://response.jp/article/2026/06/17/412829.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.17",
-        "title": "アプティ、昭和自動車を完全子会社化…新会社「デファクト」として整備工場を運営",
-        "url": "https://response.jp/article/2026/06/17/412806.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "エアバッグ端材バッグ、飛騨の中学生2700名に寄贈…豊田合成のエシカルブランド「Re-S」",
-        "url": "https://response.jp/article/2026/06/17/412801.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "オートリブ、「イノベーションセンター」をスウェーデンに開設…安全技術開発を加速",
-        "url": "https://response.jp/article/2026/06/17/412795.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "オンセミ、窒化ガリウム半導体「GaNEXUS」発表…EVの充電など向けに高効率化",
-        "url": "https://response.jp/article/2026/06/17/412797.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "カーナビ大手のアルプスアルパインも下請法「買いたたき」違反、公取委が再発防止を勧告［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/06/17/412787.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.17",
-        "title": "セダン＆ステーションワゴンは本当におじさんっぽいのか!? 時代おくれという声を一蹴して今こそ選ぶ強い理由",
-        "url": "https://bestcarweb.jp/feature/column/1548749"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "ゼンリン、地図デザインの法人向けギフト製作…新サービス「Map Design GALLERY＋」開始",
-        "url": "https://response.jp/article/2026/06/17/412803.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "タウ、損害車販売サイトをリニューアル…125ヵ国以上の購入環境を強化",
-        "url": "https://response.jp/article/2026/06/17/412799.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "タクシーアプリ『GO』、羽田空港第3ターミナルP5駐車場8階に新アプリのりば対応開始",
-        "url": "https://response.jp/article/2026/06/17/412794.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.17",
-        "title": "デリカミニにN-BOXやランクル……やっぱ人気の秘訣は圧倒的にわかりやすい名前!?",
-        "url": "https://bestcarweb.jp/feature/column/1548132"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "トヨタが『カローラクロス・ピックアップ』開発中か？ 日本市場でヒットの予感",
-        "url": "https://response.jp/article/2026/06/17/412798.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.17",
-        "title": "ノートオーラ オーテック スポーツスペックはNISMOより大人味か？ 走り系オーラの選び方!!",
-        "url": "https://bestcarweb.jp/news/1541482"
+        "title": "JVCケンウッド、SOMPOサステナビリティ・インデックスに2年連続選定",
+        "url": "https://response.jp/article/2026/06/17/412819.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-06-17T05:14:32.177Z",
-    "finished_at": "2026-06-17T05:15:37.064Z",
+    "scoped_articles": 38,
+    "queued_articles": 38,
+    "processed": 38,
+    "started_at": "2026-06-17T16:44:18.715Z",
+    "finished_at": "2026-06-17T16:45:36.385Z",
     "success": true,
     "error": ""
   }

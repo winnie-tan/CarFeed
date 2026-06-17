@@ -38979,5 +38979,884 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-17T05:15:37.050Z"
+  },
+  "https://www.thedrive.com/news/porsche-killed-its-best-cars-because-you-didnt-buy-them": {
+    "title_zh": "保时捷砍掉最佳车型，只因销量不佳",
+    "summary_short": "2027 款 Taycan 取消 Sport Turismo 和 Cross Turismo 旅行版，保时捷称因销量不佳而停产。",
+    "summary_long": "2027 款保时捷 Taycan 发布，取消了 Sport Turismo 和 Cross Turismo 旅行版车型。保时捷发言人证实，由于销量不佳，这两款旅行车已停产。此前 Panamera Sport Turismo 也因同样原因在 2023 年停产。讽刺的是，宝马 M5 旅行版和奥迪 RS6 Avant 在美国市场销量远超预期。",
+    "highlights_zh": [
+      "2027 款 Taycan 取消旅行版",
+      "Sport Turismo 和 Cross Turi…",
+      "保时捷归咎于销量不佳",
+      "宝马 M5 和奥迪 RS6 旅行版却热销"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Taycan",
+      "Sport Turismo",
+      "Cross Turismo",
+      "Panamera"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/12/s-hero-front-IMG_8969.webp",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Tundra-Towing-Trailer-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:22.009Z"
+  },
+  "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/": {
+    "title_zh": "特斯拉车主用玩偶头欺骗全自动驾驶系统",
+    "summary_short": "特斯拉车主利用玩偶头欺骗车内摄像头，让全自动驾驶系统误以为驾驶员在专注路况。",
+    "summary_long": "特斯拉车主发现，通过在车内后视镜前放置玩偶头，可以欺骗 Autopilot 和全自动驾驶系统，使其认为驾驶员始终注视前方。中国电商平台已开始销售专为特斯拉车主设计的“旅行伴侣”——乒乓球大小的玩偶头，甚至包括名人造型。这些玩偶头被置于车内摄像头前，系统通过监测头部和眼睛位置判断注意力，因此玩偶头足以让系统误判。一名车主在 400 英里行程中使用了 250 英里，期间单手嗑瓜子并拍摄视频，30 分钟未受干扰。",
+    "highlights_zh": [
+      "玩偶头欺骗车内摄像头",
+      "中国电商销售特斯拉专用玩偶头",
+      "系统误判驾驶员注意力",
+      "车主单手嗑瓜子行驶 250 英里"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Autopilot",
+      "全自动驾驶 | Full Self-Driving",
+      "玩偶头"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJmYV/s1/tesla-fsd-driver-monitoring-doll-head-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:22.704Z"
+  },
+  "https://www.thedrive.com/news/license-plate-cameras-will-soon-track-phones-wearables-infotainment-and-even-your-pets": {
+    "title_zh": "车牌摄像头将追踪手机、可穿戴设备、车载系统甚至宠物",
+    "summary_short": "新型车牌摄像头可同时抓取手机、手表等智能设备标识，将数据整合后提供给执法机构，实现人车关联追踪。",
+    "summary_long": "国防承包商 Leonardo 推出 SignalTrace 技术，在自动车牌读取器（ALPR）基础上增加传感器，可抓取手机、平板、可穿戴设备、AirTag 甚至宠物微芯片的唯一标识符。该技术旨在“弥合车辆与乘员之间的鸿沟”，使执法机构能将车牌影像与个人设备关联，从而追踪特定个体的行踪。",
+    "highlights_zh": [
+      "SignalTrace 可抓取蓝牙耳机、车载热点等设…",
+      "技术旨在关联车辆与乘员",
+      "宠物微芯片也被列为潜在追踪入口",
+      "数据将提供给警方、边境安全等政府机构"
+    ],
+    "entities": [
+      "Leonardo",
+      "SignalTrace",
+      "自动车牌读取器",
+      "AirTag"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2157492330-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-114533.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:25.799Z"
+  },
+  "https://www.motor1.com/features/799036/bmw-alpina-sedan-details-specs-engine/": {
+    "title_zh": "宝马正在打造全新阿尔宾娜旗舰轿车？",
+    "summary_short": "宝马收购阿尔宾娜后，将基于 7 系打造全新旗舰轿车，预计明年亮相，融合豪华与性能。",
+    "summary_long": "宝马集团今年正式收购阿尔宾娜，并发布 Vision BMW Alpina 概念车，预示未来设计方向。全新旗舰轿车将基于最新 7 系平台，共享动力总成，提供独特驾驶体验，被视为 B7 的精神继承者。该车将于明年首次亮相。",
+    "highlights_zh": [
+      "宝马收购阿尔宾娜后首款车型",
+      "基于 7 系打造的四门轿车",
+      "预计明年亮相",
+      "继承 B7 性能基因"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "阿尔宾娜 | Alpina",
+      "7 系 | 7 Series",
+      "B7"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O9xP/s1/alpina-bmw-7-series-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:25.856Z"
+  },
+  "https://www.thedrive.com/news/base-chevy-silverado-1500-work-truck-finally-gets-the-duramax-diesel": {
+    "title_zh": "基础版雪佛兰 Silverado 1500 工作卡车终于搭载 Duramax 柴油机",
+    "summary_short": "2027 款雪佛兰 Silverado WT 首次可选 3.0 升 Duramax 柴油机，搭配钢轮毂，兼顾经济与扭矩。",
+    "summary_long": "2027 款雪佛兰 Silverado 1500 工作卡车（WT）首次提供 3.0 升 Duramax 柴油发动机选项，此前仅搭载 2.7 升四缸或 5.3 升 V8 发动机。该柴油机可输出 495 磅-英尺扭矩，匹配 10 速自动变速箱，预计将提供最佳燃油经济性和平顺牵引体验，最大牵引能力达 13300 磅。基础版仍保留 2.7 升 TurboMax 四缸发动机，但升级为 10 速变速箱；5.3 升 V8 被新一代 5.7 升 V8 取代。",
+    "highlights_zh": [
+      "2027 款 Silverado WT 首次可选 D…",
+      "3.0 升直六柴油机扭矩达 495 磅-英尺",
+      "匹配 10 速自动变速箱",
+      "基础发动机仍为 2.7 升四缸"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Silverado 1500",
+      "Duramax"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Silverado-WT-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/2023-Silverado-3.0L-Diesel-Duramax_Front-Right.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2024/07/Screen-Shot-2024-07-08-at-5.25.45-PM.png?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:29.304Z"
+  },
+  "https://www.motor1.com/news/799030/ford-fix-recall-problem-teardown-engines/": {
+    "title_zh": "福特每日拆解一台发动机以降低召回率",
+    "summary_short": "福特通过每日拆解一台发动机来提前发现质量问题，旨在减少大规模召回，数据显示保修索赔已快速下降。",
+    "summary_long": "福特为应对频繁的召回问题，在其工厂实施了一项极端策略：每天从装配线随机抽取一台发动机进行拆解测试，以在问题影响消费者之前发现潜在缺陷。该计划由埃塞克斯发动机工厂经理尼尔·威尔逊主导，据称已带来保修索赔的“快速下降”，有望减少未来召回数量。福特在 2025 年共发起 152 次召回，涉及近 1300 万辆汽车，今年迄今已超过 50 次。威尔逊表示，这一举措正从被动应对转向主动预防。",
+    "highlights_zh": [
+      "每日拆解一台发动机以提前发现缺陷",
+      "2025 年召回 152 次",
+      "保修索赔已出现快速下降",
+      "从被动应对转向主动预防"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "埃塞克斯发动机工厂",
+      "Road & Track"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJKLE/s1/ford-mustang-dark-horse-coyote-5.0-liter-v8.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:30.070Z"
+  },
+  "https://www.thedrive.com/news/gm-said-it-crushed-every-4-5l-duramax-v8-prototype-one-is-in-sweden": {
+    "title_zh": "通用汽车称已销毁所有 4.5L Duramax V8 原型机，但有一台在瑞典",
+    "summary_short": "通用汽车曾计划推出革命性的 4.5 升 Duramax V8 柴油机，但因 2008 年金融危机搁置。官方称原型机已全部销毁，但至少一台幸存并出现在瑞典。",
+    "summary_long": "近二十年前，通用汽车即将推出一款革命性发动机——4.5 升涡轮增压柴油 V8，代号“Baby Duramax”，它本可改写皮卡历史。该发动机扭矩超越当时所有半吨级皮卡，燃油经济性优于竞品，并搭载超前技术。然而 2008 年金融危机爆发，通用申请破产，项目被搁置。通用声称所有原型机已被销毁，但至少有一台发动机流出，目前位于瑞典。",
+    "highlights_zh": [
+      "4.5L Duramax V8 原型机本可改写皮卡历…",
+      "2008 年金融危机导致项目搁置",
+      "通用声称已销毁所有原型机",
+      "至少一台幸存"
+    ],
+    "entities": [
+      "通用汽车",
+      "Duramax V8",
+      "Baby Duramax",
+      "LMK"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/DRIVECASTHEROFINAL1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MY27_Chevrolet_Silverado_Pack-Shot_HERO.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:33.321Z"
+  },
+  "https://www.motor1.com/news/799014/modern-seatbelt-reminders-annoying/": {
+    "title_zh": "安全带提醒为何越来越烦人？这个惊人数据告诉你原因",
+    "summary_short": "美国车祸死者中近半未系安全带，IIHS 新规促使车企强化提醒，导致安全带提示音变得愈发持久且恼人。",
+    "summary_long": "美国公路安全保险协会（IIHS）自 2022 年起评估新车安全带提醒系统，发现尽管车辆安全性大幅提升，美国交通事故死亡人数却呈上升趋势，其中约一半死者未系安全带。2024 年数据显示，22713 名车祸死者中 48%未系安全带。为此，IIHS 要求获得“良好”评级的车辆，其前排及第二排未系安全带提醒必须持续 90 秒以上。这一标准促使近 70%的 2025 款车型升级了提醒系统，但也让提示音变得更为持久和烦人。",
+    "highlights_zh": [
+      "美国车祸死者中近半未系安全带",
+      "IIHS 要求提醒持续 90 秒以上",
+      "近 70%新车获“良好”评级",
+      "安全带提示音愈发持久恼人"
+    ],
+    "entities": [
+      "Insurance Institute for Highway Safety",
+      "National Highway Traffic Safety Administration",
+      "安全带提醒",
+      "车祸死亡率"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgkmY/s1/seatbelt-70th-anniversary.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:34.544Z"
+  },
+  "https://www.thedrive.com/news/gm-says-high-gas-prices-have-driven-small-car-shift-faster-than-expected-tds": {
+    "title_zh": "通用汽车：高油价加速小型车转型",
+    "summary_short": "通用汽车高管表示，高油价正推动消费者从小型车转向更经济车型，速度远超预期。",
+    "summary_long": "受伊朗战争影响，汽油价格高涨，新车买家正以通用汽车预期一半的速度放弃大型 SUV 和卡车，转向更实惠、更高效的车型。通用北美总裁 Duncan Aldred 表示，虽然尚不确定这一趋势是否永久，但已观察到皮卡和全尺寸 SUV 需求萎缩，低价位细分市场增长。",
+    "highlights_zh": [
+      "高油价推动消费者转向小型车",
+      "转型速度是通用预期的一半",
+      "皮卡和全尺寸 SUV 需求萎缩",
+      "低价位车型市场增长"
+    ],
+    "entities": [
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2208538010-copy-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Tundra-Towing-Trailer-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:36.358Z"
+  },
+  "https://www.thedrive.com/news/jeremy-clarkson-has-been-diagnosed-with-prostate-cancer": {
+    "title_zh": "杰里米·克拉克森确诊前列腺癌",
+    "summary_short": "《Top Gear》前主持人杰里米·克拉克森在《克拉克森的农场》季终集中宣布自己确诊前列腺癌，所幸发现及时。",
+    "summary_long": "前《Top Gear》及《The Grand Tour》主持人杰里米·克拉克森（66 岁）在《克拉克森的农场》季终集中宣布确诊前列腺癌。他在 Instagram 预告视频中称该集“难以观看”，并在节目中透露癌症于去年 5 月常规体检时发现，属于早期。",
+    "highlights_zh": [
+      "克拉克森在《克拉克森的农场》季终集公开病情",
+      "癌症于去年 5 月常规体检中发现",
+      "属于早期"
+    ],
+    "entities": [
+      "杰里米·克拉克森 | Jeremy Clarkson",
+      "Top Gear",
+      "The Grand Tour",
+      "克拉克森的农场",
+      "前列腺癌"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/04/GettyImages-2160419336.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MY27_Chevrolet_Silverado_Pack-Shot_HERO.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:37.713Z"
+  },
+  "https://www.motor1.com/news/798928/big-trucks-safety-crash-tests/": {
+    "title_zh": "重型卡车终于迎来必要的安全评级",
+    "summary_short": "IIHS 首次对重型卡车进行安全评估，涵盖安全气囊、安全带提醒等关键项目，旨在降低 16%的道路死亡。",
+    "summary_long": "与乘用车不同，商用车辆（包括重型卡车和货车）此前无需通过相同的联邦机动车安全标准，也没有 NHTSA 的星级评级或 IIHS 的独立评估。如今，IIHS 首次发布商用车辆评估，测试了乘用车必备但大型车辆通常不评估的安全功能，包括标准前/侧安全气囊、安全带预紧器、限力器及安全带提醒。今年晚些时候还将发布自动紧急制动和车灯数据。评估采用通过/不通过方式，四款车型（BrightDrop 400、Ram ProMaster 2500、2026 款雪佛兰 3500HD、2025 款福特 F-350）获得满分，而部分车型在安全带提醒或限力器项目上未通过。",
+    "highlights_zh": [
+      "IIHS 首次评估重型卡车安全",
+      "测试安全气囊、安全带提醒等 5 项",
+      "四款车型获得满分",
+      "目标降低 16%道路死亡"
+    ],
+    "entities": [
+      "IIHS",
+      "NHTSA",
+      "BrightDrop 400",
+      "Ram ProMaster 2500",
+      "雪佛兰 | Chevrolet 3500HD"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9mNV20/s1/2023-ford-super-duty-f-350-first-drive-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:40.802Z"
+  },
+  "https://www.thedrive.com/news/porsche-looked-at-hyundai-and-said-well-have-what-theyre-having": {
+    "title_zh": "保时捷看齐现代：2027 款 Taycan 引入虚拟换挡与模拟声浪",
+    "summary_short": "2027 款保时捷 Taycan 新增虚拟换挡和模拟声浪，其中 E-Shift 功能灵感源自现代汽车，可选 8 速手动或自动模式。",
+    "summary_long": "2027 款保时捷 Taycan 正式发布，新增虚拟换挡（E-Shift）和更富情感的电动运动声浪。虚拟换挡通过方向盘拨片模拟 8 个挡位，提供可感知的换挡动作，支持自动和手动模式。该功能灵感源自现代汽车，保时捷将其作为选装配置，Turbo GT 版本则为标配。此外，新车还配备了类似特斯拉的 NACS 充电接口。",
+    "highlights_zh": [
+      "2027 款 Taycan 新增虚拟换挡 E-Shi…",
+      "方向盘拨片模拟 8 个挡位",
+      "Turbo GT 标配",
+      "灵感源自现代汽车"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Taycan",
+      "现代 | Hyundai",
+      "E-Shift",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/m25-e1781699536315.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/m08.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/m06_0707_e-shift_BKOS1743_edit_V03.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:41.106Z"
+  },
+  "https://response.jp/article/2026/06/17/412831.html": {
+    "title_zh": "Sunstar 为铃鹿 8 耐提供新一代环保刹车，性能较去年提升",
+    "summary_short": "Sunstar 连续三年为铃鹿 8 耐的铃木 CN 挑战车队提供环保刹车，今年性能进一步提升。",
+    "summary_long": "以口腔护理和健康食品闻名的 Sunstar，连续第三年为参加铃鹿 8 耐的“Team Suzuki CN Challenge”提供环保刹车盘和刹车片。今年刹车片经过改良，制动性能和操控性均超越去年。该车队使用生物燃料和环保部件，旨在实现碳中和。Sunstar 通过取消热处理工艺，使刹车盘制造中的 CO2 排放减少约 50%，同时采用凹坑设计提升清洁和耐久性。刹车片在保持同等制动性能的同时，磨损量减少约 15%。",
+    "highlights_zh": [
+      "Sunstar 连续三年为铃鹿 8 耐提供环保刹车",
+      "刹车盘取消热处理",
+      "刹车片磨损量降低 15%",
+      "铃木 CN 挑战车队使用生物燃料和环保部件"
+    ],
+    "entities": [
+      "Sunstar",
+      "铃木",
+      "GSX-R1000R",
+      "铃鹿 8 耐",
+      "环保刹车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219664.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219664.jpg",
+      "https://response.jp/imgs/fill2/2219666.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:45.713Z"
+  },
+  "https://response.jp/article/2026/06/17/412830.html": {
+    "title_zh": "DS 全新电动 SUV N°7 欧洲开订，独特设计引热议",
+    "summary_short": "DS 全新电动 SUV N°7 欧洲开启预订，独特设计引发热议，风阻系数 0.26Cx，空间与科技感兼备。",
+    "summary_long": "DS 全新电动 SUV N°7 已在欧洲开启预订，该车基于 DS AERO SPORT LOUNGE 概念车打造，是 DS 7 的后继车型。其设计独特，在社交媒体上引发热议，风阻系数仅为 0.26Cx。车身尺寸方面，配备 19 至 21 英寸轮毂，后门加长便于上下车，侧窗面积增大 30%，可选全景天窗面积增大 40%。后备箱容积最大 560 升，后排座椅可 40/20/40 放倒形成平坦空间。前脸采用 DS N°8 首次使用的 V 形 DS LIGHT BLADE 灯组，高配车型配备发光格栅，尾部同样采用纵向灯组，提升辨识度。",
+    "highlights_zh": [
+      "DS 全新电动 SUV N°7 欧洲开订",
+      "独特设计引发社交媒体热议",
+      "风阻系数低至 0.26Cx",
+      "后备箱容积最大 560 升"
+    ],
+    "entities": [
+      "DS",
+      "DS N°7",
+      "DS AERO SPORT LOUNGE",
+      "DS 7",
+      "DS N°8"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219728.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219728.jpg",
+      "https://response.jp/imgs/fill2/2219725.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:46.093Z"
+  },
+  "https://bestcarweb.jp/news/entame/1551760": {
+    "title_zh": "馆广主演电影《驾照返还!?》专访：南条弘回归",
+    "summary_short": "馆广时隔两年再登 Best Car，谈新片《驾照返还!?》与南条弘角色的回归，称其为无停歇驾驶喜剧。",
+    "summary_long": "馆广在 2024 年《归来的危险刑警》后，时隔两年再次接受 Best Car 专访。他主演的新片《驾照返还!?》将于 6 月 19 日上映，片中他再次饰演南条弘一角。该片被宣传为“馆广史上最佳无停歇驾驶喜剧”，馆广透露，在拍摄《归来的危险刑警》时，制片人提出制作《驾照没了！》的衍生故事，他当即答应。谈及角色，馆广表示南条弘是他自身喜剧与硬汉特质的一部分。",
+    "highlights_zh": [
+      "馆广时隔两年再登 Best Car",
+      "新片《驾照返还",
+      "南条弘角色回归",
+      "馆广称角色融合自身喜剧与硬汉特质"
+    ],
+    "entities": [
+      "馆广 | 舘ひろし",
+      "南条弘",
+      "驾照返还!? | 免許返納!?",
+      "归来的危险刑警",
+      "驾照没了！"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16210011/6d30d0f1f2059f57da27aa198090523b.jpg?v=1781611213",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16210011/6d30d0f1f2059f57da27aa198090523b-600x400.jpg?v=1781611213",
+      "https://img.bestcarweb.jp/wp-content/uploads/2023/11/17170552/IMG_20160202_111732-1-600x450.jpg?v=1700208357"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:50.774Z"
+  },
+  "https://response.jp/article/2026/06/17/412833.html": {
+    "title_zh": "卡罗拉 Cross 混动 GR Sport 适配 Blitz Power Con X，马力提升",
+    "summary_short": "Blitz 为丰田卡罗拉 Cross 混动 GR Sport 推出 Power Con X，插接安装，功率提升约 10.7 马力。",
+    "summary_long": "改装零件制造商 Blitz 为其发动机输出提升装置 Power Con X 新增了对丰田卡罗拉 Cross 混动 GR Sport（MXGH15，2025 年 8 月后生产）的适配，含税售价 2.86 万日元。Power Con X 是前代产品的进化版，侧面新增 OFF/模式 1/模式 2 切换开关：模式 2 提供与传统产品相同的输出提升，模式 1 则将提升幅度减半，实现更平顺的动力输出。此外，通过开关即可恢复原厂设置，无需拆卸插头。该产品采用完全插接设计，无需接线加工，附带所有安装所需短零件，可在发动机舱内轻松完成安装。据 Blitz 底盘测试，安装后最大功率提升约 10.7 马力，最大扭矩提升约 12.6 牛·米。",
+    "highlights_zh": [
+      "Blitz Power Con X 新增适配卡罗拉…",
+      "含税价 2.86 万日元",
+      "三模式切换：关闭/温和/强劲",
+      "功率提升约 10.7 马力"
+    ],
+    "entities": [
+      "Blitz",
+      "丰田 | Toyota",
+      "卡罗拉 Cross",
+      "GR Sport",
+      "Power Con X"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219339.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219339.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:51.606Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530946": {
+    "title_zh": "汽车界缩写谜题：R&D 是什么的缩写？",
+    "summary_short": "汽车行业缩写众多，R&D 代表 Research and Development，即研究开发，是车企长期投资的关键。",
+    "summary_long": "汽车行业与商业世界一样，充斥着各种英文缩写。本文以问答形式介绍汽车相关缩写，本期谜题是“R&D”。R&D 全称 Research and Development，指研究开发活动，是车企为长期利益进行的先行投资。例如丰田集团的丰台中央研究所、本田的本田技术研究所（Honda R&D）等。",
+    "highlights_zh": [
+      "R&D 全称 Research and Develo…",
+      "代表研究开发活动",
+      "车企长期利益的前期投资",
+      "丰田、本田均有专门研发机构"
+    ],
+    "entities": [
+      "R&D",
+      "Research and Development",
+      "丰田 | Toyota",
+      "本田 | Honda",
+      "研发"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110705/03.png?v=1779761227",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110705/03-600x400.png?v=1779761227",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07120051/4150330-s660_010H-600x400.jpg?v=1780801252"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:54.774Z"
+  },
+  "https://response.jp/article/2026/06/17/412827.html": {
+    "title_zh": "AOZORA COMPANY 引入 AI 二手车采购分析系统，优化库存",
+    "summary_short": "AOZORA COMPANY 引入 AI 二手车采购分析系统，通过分析销售数据、市场行情等，自动计算最优采购方案，以应对采购价上涨和库存优化挑战。",
+    "summary_long": "AOZORA COMPANY 宣布引入 AI 驱动的二手车采购分析系统，旨在提升采购精度并优化库存。该系统综合过去销售业绩、各门店销售趋势、库存周转率及市场行情等数据，自动计算每家门店的最佳采购车型、预算分配及配车数量。当前二手车市场因新车供应受限和半导体短缺导致价格飙升，采购决策失误对利润影响加大，数据驱动决策的重要性日益凸显。",
+    "highlights_zh": [
+      "AI 分析销售、库存、市场数据",
+      "自动计算最优采购方案",
+      "应对采购价上涨挑战",
+      "提升数据驱动决策能力"
+    ],
+    "entities": [
+      "AOZORA COMPANY"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219658.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219658.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:55.787Z"
+  },
+  "https://response.jp/article/2026/06/17/412829.html": {
+    "title_zh": "Terra Charge 在冲绳眼镜店部署 EV 充电器",
+    "summary_short": "Terra Charge 在冲绳两家眼镜店部署 6kW 普通充电器，并更新充电 App 提升用户体验。",
+    "summary_long": "Terra Charge 于 6 月 17 日宣布，在冲绳县的眼镜店“眼镜一番”新都心店和名护店启动 EV 普通充电服务。新都心店配备 1 台 6kW 双口充电器，名护店配备 2 台 6kW 单口充电器（共 2 口）。同时，公司对 EV 充电 App“Terra Charge”进行了 iOS 和 Android 版更新，实现更直观易用的界面和操作。未来将加速在商业设施、酒店、旅游景点等生活动线上的充电基础设施部署，加强与地区企业、地方政府和合作伙伴的协作。",
+    "highlights_zh": [
+      "冲绳两家眼镜店部署 6kW 充电器",
+      "新都心店 1 台双口",
+      "充电 App 全面更新",
+      "加速生活动线充电网络建设"
+    ],
+    "entities": [
+      "Terra Charge",
+      "眼镜一番",
+      "冲绳"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219660.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219660.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:58.235Z"
+  },
+  "https://response.jp/article/2026/06/17/412819.html": {
+    "title_zh": "JVC 建伍连续两年入选 SOMPO 可持续发展指数",
+    "summary_short": "JVC 建伍连续两年入选 SOMPO 可持续发展指数，该指数由约 300 只 ESG 表现优异的股票组成，公司将用于构建可持续投资组合。",
+    "summary_long": "JVC 建伍于 6 月 17 日宣布，连续第二年入选由 SOMPO 资产管理公司运营的“SOMPO 可持续发展指数”。该指数由约 300 只注重 ESG（环境、社会和治理）的企业股票组成。JVC 建伍计划将该指数用于其“可持续运营”投资组合的构建，该产品面向养老基金和机构投资者，旨在基于 ESG 高评分企业进行长期投资。指数成分股每年根据 ESG 评估结果进行调整。",
+    "highlights_zh": [
+      "连续两年入选 SOMPO 可持续发展指数",
+      "指数由约 300 只 ESG 股票组成",
+      "用于构建可持续投资组合",
+      "面向养老基金和机构投资者"
+    ],
+    "entities": [
+      "JVC 建伍 | JVCケンウッド",
+      "SOMPO 可持续发展指数 | SOMPOサステナビリティ・インデックス",
+      "ESG",
+      "可持续运营"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219550.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219550.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:44:59.000Z"
+  },
+  "https://response.jp/article/2026/06/17/412825.html": {
+    "title_zh": "ST 微电子发布车规级 48V 预驱动器 L98GD8E，面向轻度混合动力等应用",
+    "summary_short": "ST 微电子推出车规级 48V 预驱动器 L98GD8E，符合 ISO 21780 标准，支持 8 通道灵活驱动，适用于轻度混合动力等 48V 电气系统。",
+    "summary_long": "ST 微电子（STMicroelectronics）发布了车规级 48V 预驱动器 L98GD8E，其绝对最大额定电压为 75V，符合 ISO 21780 标准。该器件集成 8 通道高边/低边驱动电路，每个输出可独立配置为驱动外部高边 N 沟道或 P 沟道 MOSFET，以及低边 N 沟道 MOSFET，从而灵活适应多种负载配置，主要面向轻度混合动力等 48V 汽车电气系统。",
+    "highlights_zh": [
+      "75V 绝对最大额定电压",
+      "符合 ISO 21780 标准",
+      "8 通道可配置高边/低边驱动",
+      "支持 N 沟道和 P 沟道 MOSFET"
+    ],
+    "entities": [
+      "ST 微电子",
+      "L98GD8E",
+      "48V 预驱动器",
+      "ISO 21780",
+      "轻度混合动力"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219657.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219657.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:02.239Z"
+  },
+  "https://response.jp/article/2026/06/17/412817.html": {
+    "title_zh": "NAVITIME 驾驶助手在高速逆行多发点提供提醒功能",
+    "summary_short": "NAVITIME 驾驶助手在 65 处高速逆行多发点新增提醒功能，通过地图、语音和图像引导正确路线。",
+    "summary_long": "NAVITIME 日本于 6 月 17 日在导航应用“NAVITIME 驾驶助手”中推出高速道路逆行多发地点的提醒功能。针对全国 65 处高速公司公布的“重点对策地点”，应用会在地图上显示“逆行注意点”和“误进入注意点”的弹出提示，并伴有语音提醒。此外，还会以示意图形式展示该地点的实际道路结构，清晰引导正确路线。高速逆行每年发生约 220 起，其中 50 起导致事故（2024 年国土交通省数据）。该功能旨在通过分析逆行地点并开发引导图像，减少逆行事故。",
+    "highlights_zh": [
+      "覆盖全国 65 处高速逆行多发点",
+      "地图弹出提示+语音提醒",
+      "示意图引导正确路线",
+      "每年 220 起逆行"
+    ],
+    "entities": [
+      "NAVITIME 驾驶助手 | NAVITIMEドライブサポーター",
+      "NAVITIME 日本",
+      "国土交通省"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219545.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219545.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:02.435Z"
+  },
+  "https://www.motor1.com/news/798967/2027-porsche-taycan-fake-gear-changes/": {
+    "title_zh": "保时捷 Taycan 新增八速模拟换挡功能",
+    "summary_short": "保时捷为 2027 款 Taycan 提供 E-Shift 按钮，通过拨片激活八速模拟换挡，并配有虚拟转速表和声浪。",
+    "summary_long": "保时捷为 2027 款 Taycan 推出可选 E-Shift 功能，通过方向盘后的换挡拨片激活八速模拟挡位。该功能旨在模仿燃油车的换挡体验，包括虚拟转速表、换挡指示灯和虚拟转速限制器，同时车内扬声器会发出随车型变化的模拟声浪。此前保时捷曾认为电动车无需模拟换挡，但如今态度转变，甚至称赞现代汽车的 N e-Shift 系统。",
+    "highlights_zh": [
+      "方向盘新增蓝色 E-Shift 按钮",
+      "八速模拟挡位通过拨片切换",
+      "虚拟转速表与换挡指示灯",
+      "模拟声浪随车型自动调整"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Taycan",
+      "Panamera",
+      "E-Shift",
+      "模拟换挡"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMz0Nv/s1/2027-porsche-taycan.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:06.250Z"
+  },
+  "https://response.jp/article/2026/06/17/412828.html": {
+    "title_zh": "汽车租赁公司“迪普拉斯”在大阪开设第二家门店——D-Plus 枚方店开业",
+    "summary_short": "迪普拉斯在大阪枚方市开设第二家门店，提供零首付、月定额、含车检税金的汽车租赁服务，支持国产全品牌新车。",
+    "summary_long": "迪普拉斯（D-Plus）在大阪府枚方市开设了“D-Plus 枚方店”，这是继 2026 年 2 月岸和田店之后的大阪第二家门店，也是全国第 17 家门店。公司指出，随着车辆价格和维护成本上升，“从拥有到使用”的观念日益普及，希望通过汽车租赁业务减轻枚方地区的家庭负担。服务特点为零首付、月定额，费用包含车检和税金，支持所有国产汽车品牌，主要提供新车。门店位于大阪府枚方市三栗 1 丁目 28-15，营业时间 10:00-19:00，周二周三休息。迪普拉斯计划通过关西地区的第二家门店扩大品牌认知和服务网络，为 2030 年全国扩张奠定基础。",
+    "highlights_zh": [
+      "大阪第二家门店",
+      "零首付月定额",
+      "支持国产全品牌新车",
+      "目标 2030 年全国扩张"
+    ],
+    "entities": [
+      "迪普拉斯 | D-Plus",
+      "D-Plus 枚方店",
+      "汽车租赁",
+      "大阪"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219659.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219659.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:06.683Z"
+  },
+  "https://response.jp/article/2026/06/17/412821.html": {
+    "title_zh": "佳能开发 OpenXR 兼容 XR 协作软件 MREAL Collaborator，7 月起面向制造业提供",
+    "summary_short": "佳能推出 OpenXR 兼容 XR 协作软件 MREAL Collaborator，旨在降低制造业 XR 应用门槛，7 月上旬开始提供。",
+    "summary_long": "佳能宣布将于 7 月上旬开始提供 XR 协作软件 MREAL Collaborator，该软件支持 XR 行业标准 OpenXR，可让不同设备共享 3DCG 内容。随着 XR 市场扩大，制造业对 XR 应用的期待高涨，但设备操作复杂、数据准备繁琐等运营负担阻碍了正式引入。此外，操作者熟练度差异导致作业时间和画质参差，造成设备利用率下降和对熟练工的依赖。MREAL Collaborator 旨在解决这些问题，简化操作并统一体验。",
+    "highlights_zh": [
+      "佳能发布 OpenXR 兼容 XR 协作软件",
+      "面向制造业",
+      "降低 XR 应用门槛",
+      "解决熟练度差异导致的效率问题"
+    ],
+    "entities": [
+      "佳能",
+      "MREAL Collaborator",
+      "OpenXR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219555.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219555.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:10.550Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548188": {
+    "title_zh": "卡罗拉旅行版选双倍快乐？推荐配置解析",
+    "summary_short": "卡罗拉旅行版 2026 年改款，X 配置升级，新增 60 周年纪念版，推荐 G 或 W×B 配置。",
+    "summary_long": "卡罗拉旅行版 2026 年 5 月改款，X 配置升级，新增 60 周年纪念版 Active Sport。价格区间 244.75 万至 349.69 万日元。X 配置性价比高，适合实用派；G 配置平衡价格、装备和油耗，为一般用户首选；W×B（双倍快乐）配置更高级，适合追求品质的用户。",
+    "highlights_zh": [
+      "X 配置升级",
+      "G 配置油耗全系最佳",
+      "W×B 配备 10.5 英寸屏、12.3 英寸仪表",
+      "60 周年纪念版 Active Sport 限量发售"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉旅行版",
+      "W×B"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15120242/003_COROLLA_SDN_WGN_60th_202605-1.jpg?v=1781492563",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15120242/003_COROLLA_SDN_WGN_60th_202605-1-600x400.jpg?v=1781492563",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07120051/4150330-s660_010H-600x400.jpg?v=1780801252"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:11.157Z"
+  },
+  "https://bestcarweb.jp/news/1548356": {
+    "title_zh": "Vmoto CU 电动踏板车日本上市",
+    "summary_short": "澳大利亚电动品牌 Vmoto 推出原付一种电动踏板车 CU，家用插座 4 小时充满，续航 55 公里。",
+    "summary_long": "澳大利亚电动两轮品牌 Vmoto（ヴイモト）的日本总代理 MS Solutions 开始预售新型电动踏板车 Vmoto CU。该车属于原付一种级别，以“风格与舒适融合”为理念，搭载 72V/24Ah 可拆卸锂电池，使用家用 100V 插座约 4 小时可充满，最大续航 55 公里，车重 75 公斤，适合日常通勤和购物。",
+    "highlights_zh": [
+      "家用插座 4 小时充满",
+      "最大续航 55 公里",
+      "可拆卸锂电池",
+      "车重 75 公斤"
+    ],
+    "entities": [
+      "Vmoto",
+      "Vmoto CU",
+      "MS Solutions",
+      "电动踏板车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13005228/fba44d6b5e4e8de7344aa774bc34f195.jpg?v=1781279550",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13005228/fba44d6b5e4e8de7344aa774bc34f195-600x381.jpg?v=1781279550",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13010524/d962f27b519f02fc4a6a304e0dd9740b-600x600.jpg?v=1781280325"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:15.235Z"
+  },
+  "https://bestcarweb.jp/news/1548360": {
+    "title_zh": "吉姆尼载物能力升级！变形车顶行李架登场",
+    "summary_short": "日本 Proto 公司推出可变形车顶行李架，适配吉姆尼等车型，通过改变形状满足不同载物需求。",
+    "summary_long": "日本 Proto 公司为吉姆尼/吉姆尼 Sierra/吉姆尼 Nomad 及 Jeep Wrangler 等带排水槽车型推出“3D U ACE 变形车顶行李架 XL 尺寸”。该行李架可切换平放和篮筐两种形态，平放时适合装载冲浪板、SUP 等长物件，篮筐状态则能稳固固定露营装备和储物箱。这一设计已获得日本专利，解决了小型 SUV 载物空间不足的痛点。",
+    "highlights_zh": [
+      "可切换平放与篮筐两种形态",
+      "适配吉姆尼、吉姆尼 Sierra 等车型",
+      "已获日本专利",
+      "解决小型 SUV 载物空间不足问题"
+    ],
+    "entities": [
+      "Proto",
+      "吉姆尼",
+      "吉姆尼 Sierra",
+      "吉姆尼 Nomad",
+      "Jeep Wrangler"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13010524/d962f27b519f02fc4a6a304e0dd9740b.jpg?v=1781280325",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13010524/d962f27b519f02fc4a6a304e0dd9740b-600x600.jpg?v=1781280325",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16210011/6d30d0f1f2059f57da27aa198090523b-600x400.jpg?v=1781611213"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:15.505Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548373": {
+    "title_zh": "丰田 TeamMate 与 e:HEV：那些难记的汽车术语",
+    "summary_short": "汽车行业术语繁多，有些名称难读难记，如丰田 TeamMate、本田 e:HEV 等，用户难以理解其含义。",
+    "summary_long": "汽车行业存在大量专业术语，尤其是高科技功能名称和环保相关用语。虽然有些名称易于记忆，但像丰田 TeamMate（自动泊车与驾驶辅助技术）和本田 e:HEV（混合动力系统）等，因发音拗口或含义模糊，用户难以理解。此外，CAFE（企业平均燃油经济性标准）因发音柔和，缺乏紧迫感，也容易被误解。",
+    "highlights_zh": [
+      "丰田 TeamMate 是自动泊车与驾驶辅助技术",
+      "本田 e:HEV 混合动力系统名称难读",
+      "CAFE 标准因发音柔和缺乏紧迫感"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "本田 | Honda",
+      "TeamMate",
+      "e:HEV",
+      "CAFE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12155956/00_meisyou_son_head.jpg?v=1781247597",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12155956/00_meisyou_son_head-600x400.jpg?v=1781247597",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07120051/4150330-s660_010H-600x400.jpg?v=1780801252"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:19.543Z"
+  },
+  "https://response.jp/article/2026/06/17/412832.html": {
+    "title_zh": "杜卡迪百年庆典：World Ducati Week 2026 将于 7 月 3-5 日举行",
+    "summary_short": "杜卡迪创百年庆典 World Ducati Week 2026 将于 7 月 3-5 日在米萨诺赛道举行，马奎斯等冠军车手齐聚。",
+    "summary_long": "为庆祝品牌创立 100 周年，杜卡迪将于 2026 年 7 月 3 日至 5 日在意大利米萨诺世界赛道举办 World Ducati Week 2026。活动以“Live the Legend - Celebrate 100 Years Together”为口号，包含 Lenovo Race of Champions、冠军荣誉圈、限定车型展示、骑行体验、海滩派对和夜间表演等。参赛车手包括 MotoGP 的马克·马奎斯、巴尼亚亚、迪·詹南托尼奥、莫比代利，以及 WSBK 的布雷加、雷库奥纳等，传奇车手斯通纳、卡皮罗西、贝利斯、福加蒂也将出席。",
+    "highlights_zh": [
+      "7 月 3-5 日意大利米萨诺赛道举行",
+      "Lenovo 冠军赛：马奎斯、巴尼亚亚等参战",
+      "48 次世界冠军齐聚荣誉圈",
+      "百年庆典：展示、骑行、派对与夜秀"
+    ],
+    "entities": [
+      "杜卡迪 | Ducati",
+      "World Ducati Week 2026",
+      "马克·马奎斯",
+      "米萨诺世界赛道",
+      "Lenovo Race of Champions"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219556.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219556.jpg",
+      "https://response.jp/imgs/fill2/2219570.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:20.679Z"
+  },
+  "https://insideevs.com/news/798932/lucid-gravity-robotaxi-houston-expansion-uber-nuro/": {
+    "title_zh": "Lucid 与 Uber 将在休斯顿推出 Robotaxi 服务",
+    "summary_short": "Lucid、Uber 与 Nuro 合作，计划 2027 年中在休斯顿推出基于 Gravity SUV 的自动驾驶出租车服务。",
+    "summary_long": "Lucid、Uber 与自动驾驶技术公司 Nuro 宣布，将扩大其 Robotaxi 合作至休斯顿，计划于 2027 年中启动。此前三方于 2025 年 7 月宣布合作，计划年底前在旧金山部署基于 Gravity SUV 的自动驾驶出租车。休斯顿的运营中心将配备 4 兆瓦电力、40 个快充桩和 15 个服务车位，于 2027 年初启用。目前 Nuro 的工程车队已增至近 100 辆 Gravity，在加州和德州进行地图绘制和数据收集。",
+    "highlights_zh": [
+      "2027 年中在休斯顿推出 Robotaxi",
+      "基于 Gravity SUV",
+      "运营中心配备 40 个快充桩",
+      "工程车队已增至近 100 辆"
+    ],
+    "entities": [
+      "Lucid",
+      "Uber",
+      "Nuro",
+      "Gravity",
+      "Waymo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rK7epO/s1/uber-nuro-lucid-gravity-robotaxi-partnership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:24.280Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543531": {
+    "title_zh": "仅 4 座初代 Elgrand Royal Line：超前的高端 MPV",
+    "summary_short": "日产初代 Elgrand Royal Line 仅 4 座，专注后排舒适性，超前定义了高端 MPV 概念，其理念或延续至新一代 Elgrand VIP。",
+    "summary_long": "日产初代 Elgrand（E50）于 1997 年推出，率先将乘用车般的驾驶质感与豪华感带入多人 MPV 市场。1998 年，日产与 Autech Japan 联合推出 Elgrand Royal Line，仅设 4 座，后排空间与舒适性对标皇冠、Cima 等旗舰轿车，利用厢式车优势提供远超轿车的腿部与头部空间。Royal Line 的理念超前于丰田 Alphard 和雷克萨斯 LM，如今高端 MPV 已成为豪华轿车替代品，而新一代 Elgrand VIP 或继承其精髓。",
+    "highlights_zh": [
+      "仅 4 座布局",
+      "1998 年推出",
+      "空间对标旗舰轿车",
+      "理念或延续至新一代 Elgrand VIP"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "エルグランド",
+      "Royal Line",
+      "丰田 | Toyota",
+      "アルファード"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08082352/9e27d8926c12e413cf49b755ba0c3e3f-7.jpg?v=1780874633",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08082352/9e27d8926c12e413cf49b755ba0c3e3f-7-600x338.jpg?v=1780874633",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07120051/4150330-s660_010H-600x400.jpg?v=1780801252"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:24.797Z"
+  },
+  "https://www.motor1.com/news/798909/take-5-worth-it/": {
+    "title_zh": "男子路过 Take 5 快保店，质疑其可靠性",
+    "summary_short": "一名男子路过空荡荡的 Take 5 快保店，质疑其是否真的有人光顾，引发对快速换油店可靠性的讨论。",
+    "summary_long": "佛罗里达州男子 Shane Sutton 在驾车经过一家 Take 5 快保店时，发现店内几乎空无一人，于是质疑该连锁店的实际客流量。他在视频中引用其广告语“地球上最快的换油”，并反问“这真的靠谱吗？”尽管视频显示服务区有两辆车，但无法确认是否有其他顾客或员工在场。此事引发了对快速换油店可靠性的讨论。",
+    "highlights_zh": [
+      "男子路过空荡的 Take 5 快保店",
+      "质疑其广告语“最快换油”",
+      "引发对快保店可靠性的讨论"
+    ],
+    "entities": [
+      "Take 5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8Gg1/s1/take-5-shop.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:28.341Z"
+  },
+  "https://insideevs.com/news/798968/mobileye-robotaxi-us-launch-2027/": {
+    "title_zh": "Mobileye 将在美国推出自有 Robotaxi 车队",
+    "summary_short": "英特尔旗下 Mobileye 计划明年在美国部署约 100 辆自动驾驶出租车，五年内增至 1.7 万辆，通过 Moovit 应用提供服务。",
+    "summary_long": "Mobileye 作为英特尔子公司，以向传统车企提供高级驾驶辅助系统闻名，现决定进军自动驾驶出租车领域。明年起，首批约 100 辆 Robotaxi 将在美国某主要大都市区部署，若进展顺利，未来五年内将增至 1.7 万辆。这些自动驾驶出租车将通过 Mobileye 旗下的 Moovit 应用提供预约服务。Mobileye 的自动驾驶技术已被大众旗下 MOIA 等公司采用，用于测试 ID. Buzz 电动面包车。此举使 Mobileye 同时扮演技术供应商和运营商角色，但公司强调不会影响现有合作关系。",
+    "highlights_zh": [
+      "Mobileye 明年在美国部署约 100 辆 Ro…",
+      "五年内计划扩至 1.7 万辆",
+      "通过 Moovit 应用提供服务",
+      "技术已用于大众 ID. Buzz 测试"
+    ],
+    "entities": [
+      "Mobileye",
+      "英特尔",
+      "Moovit",
+      "大众 | Volkswagen",
+      "ID. Buzz"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lJzb/s1/mobileye-autonomous-taxi.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:29.180Z"
+  },
+  "https://www.motor1.com/news/798952/vw-t-roc-cabrio-production-cut/": {
+    "title_zh": "大众最后一款敞篷车也难逃需求下滑",
+    "summary_short": "大众因需求低迷削减 T-Roc 敞篷版产量，该车将于明年中停产，工厂未来或转向军工。",
+    "summary_long": "大众宣布因敞篷 SUV 需求低迷，将削减德国奥斯纳布吕克工厂的 T-Roc 敞篷版产量。该工厂暑期将延长一周，未来更多天无车下线。T-Roc 敞篷版作为大众唯一在售敞篷车，将于明年中停产，工厂未来可能转向军工生产，但尚未正式决定。目前 2300 名员工因减产将每周仅工作四天。",
+    "highlights_zh": [
+      "大众削减 T-Roc 敞篷版产量",
+      "该车将于 2027 年中停产",
+      "工厂暑期延长一周",
+      "员工每周仅工作四天"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "T-Roc 敞篷版",
+      "奥斯纳布吕克工厂",
+      "敞篷车",
+      "需求下滑"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlxk9y/s1/vw-t-roc-cabriolet-edition-grey-2022.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:31.708Z"
+  },
+  "https://insideevs.com/news/798955/bmw-i3-orders-ahead-of-schedule/": {
+    "title_zh": "宝马因需求旺盛提前开启 i3 订单",
+    "summary_short": "宝马因 i3 需求远超预期，提前数月开放订单，首推 i3 50 xDrive 版，续航约 440 英里。",
+    "summary_long": "宝马原计划今年秋季开放纯电动 3 系（i3）的订单，但因客户需求远超预期，公司决定提前至本周在德国开启“1st Edition”i3 的预订。首款车型为 i3 50 xDrive，搭载宝马自研的 800 伏动力系统和圆柱电池，EPA 续航约 440 英里，双电机输出 469 马力，电池容量约 107 千瓦时，支持 400 千瓦快充，10%-80%充电仅需 22 分钟。生产计划不受影响，仍将于 8 月启动。未来还将推出更小电池和后驱版本。",
+    "highlights_zh": [
+      "i3 订单提前数月开放",
+      "首推 i3 50 xDrive 版",
+      "续航约 440 英里",
+      "支持 400 千瓦快充"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "i3",
+      "iX3",
+      "800 伏动力系统",
+      "圆柱电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3ojw/s1/the-new-bmw-i3.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:32.908Z"
+  },
+  "https://www.motor1.com/news/798943/mazda-says-screens-safer-than-buttons/": {
+    "title_zh": "马自达：大屏幕不比实体按键更分散注意力",
+    "summary_short": "马自达为 CX-5 的大屏设计辩护，称屏幕位于视线水平，减少驾驶员视线偏离道路，比低头找实体按键更安全。",
+    "summary_long": "马自达为其新一代 CX-5 采用大尺寸触摸屏、几乎取消实体按键的设计进行辩护。项目负责人 Koichiro Yamaguchi 表示，空调等常用功能若使用实体按键，通常位于较低位置，驾驶员需低头从 15 个相似开关中寻找，反而增加视线离开道路的时间。而大屏幕位于视线水平，操作更直观，能减少分心。此前马自达已多次强调该设计基于客户反馈和减少驾驶员分心的目标。",
+    "highlights_zh": [
+      "大屏幕位于视线水平",
+      "实体按键位置低",
+      "设计基于客户反馈和减少分心目标"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Z23wp/s1/2026-mazda-cx-5-first-drive-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:35.393Z"
+  },
+  "https://www.motor1.com/news/798902/car-dealership-4000-dollar-repair/": {
+    "title_zh": "4S 店报价 4000 美元维修，女子求助父亲后揭穿骗局",
+    "summary_short": "女子因发动机灯亮去 4S 店，被告知需近 4000 美元维修，其机械师父亲检查后称多数项目不必要。",
+    "summary_long": "一名女子因散热风扇异常和发动机故障灯亮起前往 4S 店检查，4S 店给出近 4000 美元的维修报价，包括更换节温器（600 美元）和冷却液管路泄漏维修（600 美元）等。女子随后求助其机械师父亲，父亲检查后指出多数维修项目并非必要，质疑 4S 店存在欺诈行为。此事引发对 4S 店维修诚信的讨论。",
+    "highlights_zh": [
+      "4S 店报价近 4000 美元维修",
+      "女子父亲称多数项目不必要",
+      "引发对 4S 店诚信的质疑"
+    ],
+    "entities": [
+      "4S 店",
+      "维修",
+      "欺诈",
+      "机械师"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/RqkOy3/s1/dealership-tells-woman-she-needs-4-000-of-car-repairs.-then-she-calls-her-dad.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-17T16:45:36.376Z"
   }
 }
