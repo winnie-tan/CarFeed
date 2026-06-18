@@ -40640,5 +40640,999 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-18T05:01:45.210Z"
+  },
+  "https://www.motor1.com/news/799105/new-volkswagen-models-2026/": {
+    "title_zh": "大众 2026 年将推出 10 多款新车型",
+    "summary_short": "大众 2026 年将推出 10 多款新车型，包括 ID. Polo 等电动车，以应对竞争并重振市场地位。",
+    "summary_long": "大众汽车计划在 2026 年推出超过 10 款新车型，并对现有车型进行大幅更新，其中电动车占据主导。最重要的车型是入门级电动车 ID. Polo，起售价€24,995，提供多种动力和配置，并回归物理按键。此外，大众还将推出 ID. Golf、ID. Tiguan 等电动车型，以及多款燃油和混动车型的改款或换代，以应对中国品牌等竞争对手的挑战。",
+    "highlights_zh": [
+      "ID. Polo 起售价€24",
+      "ID. Polo 回归物理按键",
+      "2026 年产品攻势以电动车为主",
+      "大众面临中国品牌竞争压力"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID. Polo",
+      "ID. Golf",
+      "ID. Tiguan"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzAkv/s1/volkswagen-2026-models.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:00.236Z"
+  },
+  "https://www.motor1.com/news/799166/slate-truck-ev-details-options/": {
+    "title_zh": "Slate 电动皮卡新细节：起售价约 2.5 万美元，提供高度定制化",
+    "summary_short": "Slate Automotive 电动皮卡将于今年晚些时候交付，起售价约 2.5 万美元，提供 54 种基础贴膜和可定制车身面板，甚至可改装为 SUV。",
+    "summary_long": "Slate Automotive 的电动皮卡即将投产，计划今年晚些时候开始交付。车辆出厂时配备灰色塑料车身面板，用户可通过贴膜添加颜色，基础款有 54 种选择，另有 50 多种金属色和图案。CEO Peter Faricy 表示明年起将提供定制图案打印服务。定制化是核心体验，用户购车后仍可订购新功能，甚至可将皮卡改装为 SUV，座椅和安全带等部件内置传感器确保安装正确，App 会提示改装难度。最初宣称起售价低于 2 万美元，现调整为 2.5 万美元左右。",
+    "highlights_zh": [
+      "起售价约 2.5 万美元",
+      "出厂为灰色塑料面板",
+      "支持购后定制",
+      "传感器确保改装安全"
+    ],
+    "entities": [
+      "Slate Automotive",
+      "电动皮卡",
+      "Peter Faricy",
+      "定制化"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N0vZB/s1/slate-truck---exterior-driving-on-a-road.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:00.870Z"
+  },
+  "https://www.thedrive.com/news/a-gmc-dealer-sold-99-of-its-cars-gm-still-calls-it-a-failure-and-wont-send-more": {
+    "title_zh": "GMC 经销商售出 99%库存，通用仍称其失败并拒绝补货",
+    "summary_short": "纽约一家 GMC 经销商 2024 年售出 99%库存，通用却削减供货，导致其无法完成销售目标，经销商已起诉通用索赔 1500 万美元。",
+    "summary_long": "纽约长岛的 Sun GMC 经销商在 2024 年售出了 99%的分配库存，但通用汽车却将其供货量削减至不到所需的一半，导致该店无法完成销售目标。经销商指控通用故意限制库存，损害其业务和商誉，已提起诉讼索赔 1500 万美元。通用建议经销商从其他门店调货，但此举导致客户投诉服务质量下降。",
+    "highlights_zh": [
+      "Sun GMC 2024 年售出 99%库存",
+      "通用供货量不足所需一半",
+      "经销商起诉通用索赔 1500 万美元",
+      "通用建议从其他门店调货遭投诉"
+    ],
+    "entities": [
+      "GMC",
+      "Sun GMC",
+      "通用汽车",
+      "经销商诉讼"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/11/GettyImages-2207804972-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2157492330-copy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:04.164Z"
+  },
+  "https://insideevs.com/news/799157/general-motors-silicon-anodes-solid-state-batteries/": {
+    "title_zh": "通用汽车押注硅负极电池，称其将颠覆市场",
+    "summary_short": "通用汽车认为硅负极电池是下一代技术，相比固态电池更早商业化，能提升续航、充电速度和安全性。",
+    "summary_long": "通用汽车押注硅负极电池作为下一代电动车电池技术，认为其将先于固态电池实现商业化。硅负极可大幅提升电池能量密度、充电速度和安全性，同时减少对石墨的依赖，而石墨加工高度集中于中国且环境成本高。通用汽车电池与可持续发展副总裁 Kurt Kelty 表示，硅是下一代负极材料。",
+    "highlights_zh": [
+      "硅负极电池比固态电池更早商业化",
+      "提升续航、充电速度和安全性",
+      "减少对石墨的依赖"
+    ],
+    "entities": [
+      "通用汽车",
+      "Amprius Technologies",
+      "硅负极电池",
+      "固态电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eoBKEW/s1/2026-gmc-sierra-ev.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:04.478Z"
+  },
+  "https://www.motor1.com/news/799141/koenigsegg-lego-fastest-69-mph/": {
+    "title_zh": "全球最快乐高汽车：时速 69 英里",
+    "summary_short": "乐高与科尼赛克合作打造全尺寸可驾驶乐高汽车，以 69 英里时速刷新纪录，耗时超 9000 小时。",
+    "summary_long": "乐高与科尼赛克合作，基于 Sadair's Spear 超跑打造全尺寸可驾驶乐高 Technic 模型，使用 327,906 块积木，重约 3,968 磅。在古德伍德速度节上，由科尼赛克官方测试车手 Markus Lundh 驾驶，以 69 英里时速刷新大型乐高 Technic 车辆速度纪录，此前纪录为 31 英里。该模型设计建造耗时超 9,400 小时，配备“幽灵模式”一键开启车门、引擎盖和镜子。",
+    "highlights_zh": [
+      "全尺寸可驾驶乐高汽车时速 69 英里",
+      "使用 327",
+      "设计建造耗时超 9",
+      "配备一键开启车门等功能的“幽灵模式”"
+    ],
+    "entities": [
+      "乐高 | Lego",
+      "科尼赛克",
+      "Sadair's Spear",
+      "古德伍德"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3Qpw1/s1/world-s-fastest-lego-koenigsegg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:08.557Z"
+  },
+  "https://insideevs.com/news/799151/waymo-robotaxi-recall/": {
+    "title_zh": "Waymo 因自动驾驶出租车可能驶入封闭施工车道而召回",
+    "summary_short": "Waymo 召回 3871 辆第五代自动驾驶出租车，因车辆可能高速驶入高速公路封闭施工车道，这是两个月内第二次召回。",
+    "summary_long": "Waymo 于 6 月 18 日召回所有搭载第五代自动驾驶系统的 3871 辆机器人出租车，原因是车辆可能高速驶入高速公路封闭施工车道。此前在 4 月和 5 月，亚利桑那州凤凰城和加州旧金山湾区多次发生此类事件。Waymo 表示，问题源于系统不恰当地优先规避其他危险，或未能识别施工区域。这是继上个月因车辆可能驶入积水道路后的第二次召回。",
+    "highlights_zh": [
+      "召回 3871 辆第五代自动驾驶出租车",
+      "车辆可能高速驶入封闭施工车道",
+      "两个月内第二次召回",
+      "涉及凤凰城和旧金山湾区多起事件"
+    ],
+    "entities": [
+      "Waymo",
+      "第五代自动驾驶系统 | 5th Generation Automated Driving System",
+      "凤凰城",
+      "旧金山湾区"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMgxNr/s1/waymo-los-angeles.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:08.882Z"
+  },
+  "https://www.thedrive.com/news/mazda-once-the-loudest-critic-of-touchscreens-now-says-theyre-safer-than-buttons-tds": {
+    "title_zh": "马自达改口：触屏比物理按键更安全",
+    "summary_short": "马自达曾强烈批评触屏，如今 CX-5 项目负责人表示，一排 15 个相似物理按键迫使驾驶员低头更久，反而更危险。",
+    "summary_long": "马自达曾是最强烈批评触屏的汽车制造商，认为物理按键更安全。但如今其 CX-5 项目负责人 Koichiro Yamaguchi 表示，一排 15 个相似物理按键迫使驾驶员低头更久以选择正确按键，反而增加分心风险。因此，将空调等控制集成到屏幕上，可以减少驾驶员视线离开道路的时间。",
+    "highlights_zh": [
+      "马自达曾强烈批评触屏",
+      "15 个相似物理按键迫使驾驶员低头",
+      "触屏可减少视线离开道路的时间",
+      "马自达 CX-5 项目负责人表态"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "触屏",
+      "物理按键",
+      "驾驶安全"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/26-Mazda-CX-5-Interior-IMG_0012.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2157492330-copy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:12.745Z"
+  },
+  "https://www.motor1.com/news/799053/land-rover-us-suv-production/": {
+    "title_zh": "路虎将在美国生产 SUV，合作伙伴竟是 Stellantis",
+    "summary_short": "路虎与 Stellantis 合作，将在美国生产 Defender，以扩大北美市场份额，目标是将美国业务增长三倍。",
+    "summary_long": "英国汽车制造商路虎从未在美国生产过车辆，但这一情况即将改变。路虎与 Stellantis 签署了非约束性谅解备忘录，将在美国生产 Defender 车型，首款产品将基于新的 EMA 平台，提供混动和纯电动力。路虎 CEO 表示，目标是让美国业务规模达到整个 JLR 当前的水平，而美国市场目前占 JLR 全球销量的 30%，这意味着需要增长超过 300%。",
+    "highlights_zh": [
+      "路虎首次在美国生产车辆",
+      "与 Stellantis 合作生产 Defender",
+      "基于 EMA 平台",
+      "目标：美国业务增长三倍"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "Defender",
+      "Stellantis",
+      "JLR",
+      "EMA 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzm4l/s1/land-rover-american-production.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:12.966Z"
+  },
+  "https://www.motor1.com/news/798934/how-to-remove-stabilizer-links/": {
+    "title_zh": "机械师用冲击扳手拆卸稳定杆连杆引发争议",
+    "summary_short": "一位日产技师用冲击扳手拆卸稳定杆连杆，引发关于维修方法正确性的激烈争论。",
+    "summary_long": "一位日产技师在 TikTok 上演示用冲击扳手快速拆卸稳定杆连杆，并告诫“永远不要相信 Facebook 上的机械师”，引发观众激烈讨论。支持者认为这是高效实用的方法，反对者则质疑其是否属于粗劣工艺。视频观看量超过 21.3 万次，凸显了维修行业中关于效率与工艺标准的深层分歧。",
+    "highlights_zh": [
+      "冲击扳手拆卸稳定杆连杆引发争议",
+      "技师告诫不要相信 Facebook 上的机械师",
+      "支持者认为高效实用",
+      "视频观看量超 21.3 万次"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "稳定杆连杆",
+      "冲击扳手",
+      "维修方法"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3B794/s1/nissan-mechanic-demonstrates-right-way-to-remove-stabilizer-links.-then-fellow-mechanics-weigh-in.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:15.899Z"
+  },
+  "https://response.jp/article/2026/06/18/412891.html": {
+    "title_zh": "Bimota TESI H2 TERA 日本上市，售价 638 万日元",
+    "summary_short": "Bimota TESI H2 TERA 搭载 Kawasaki 机械增压引擎与 Hub-Center 转向系统，售价 638 万日元，7 月 1 日发售。",
+    "summary_long": "Kawasaki 日本公司于 6 月 5 日宣布，意大利高端手工摩托车品牌 Bimota 的新车型 TESI H2 TERA 将在日本上市。该车结合了 Kawasaki Z H2 的机械增压发动机与 Bimota 标志性的 TESI 中心轮毂转向系统，是一款激进的跨界车型。低中转速区间提供强劲扭矩，高转速区间性能出色，带来超越同级车型的加速感。新开发的 TERA 转向系统在保证大转向角度的同时，实现了骑手与前轮的直连感，并具备防俯冲/防抬升特性，操控顺滑精准。售价 638 万日元（含税），仅限 Bimota 授权经销商销售。",
+    "highlights_zh": [
+      "搭载 Kawasaki Z H2 机械增压发动机",
+      "Bimota 标志性 Hub-Center 转向系统",
+      "新开发 TERA 转向系统",
+      "售价 638 万日元"
+    ],
+    "entities": [
+      "Bimota",
+      "Kawasaki",
+      "TESI H2 TERA",
+      "Z H2",
+      "Hub-Center 转向系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220226.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220226.jpg",
+      "https://response.jp/imgs/fill2/2218775.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:18.534Z"
+  },
+  "https://response.jp/article/2026/06/18/412890.html": {
+    "title_zh": "丰田海狮专用 LED 控制台盒升级：螺栓固定提升贴合度",
+    "summary_short": "CRAFTWORKS 推出丰田海狮专用 LED 控制台盒新款，采用螺栓固定，提升贴合度，支持无线充电，售价 2.38 万日元起。",
+    "summary_long": "CRAFTWORKS 品牌推出丰田海狮专用 LED 控制台盒新款，基于用户反馈改进。安装方式从放置型改为螺栓固定，提升贴合度；优化杯架位置，避免干扰换挡杆。提供普通和无线充电两种版本，售价 2.38 万日元起。产品配备 LED 杯架、手机支架、USB 端口等，后部也有杯架和 USB 接口。兼容丰田海狮、雷吉斯海狮（H200 系）及马自达邦戈布罗尼面包车。",
+    "highlights_zh": [
+      "螺栓固定安装",
+      "杯架重新布局",
+      "提供无线充电版本",
+      "前后排均配备 USB 接口"
+    ],
+    "entities": [
+      "CRAFTWORKS",
+      "丰田 | Toyota",
+      "海狮",
+      "雷吉斯海狮",
+      "马自达 | Mazda"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220132.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220132.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:20.533Z"
+  },
+  "https://bestcarweb.jp/feature/tieup/1538824": {
+    "title_zh": "异色合作：东洋轮胎开放乡村轮胎装上野生动物园斑马车",
+    "summary_short": "东洋轮胎开放乡村轮胎与野生动物园斑马纹工作车合作，专业司机实测好评，强调三菱帕杰罗等硬派车型的适配性。",
+    "summary_long": "东洋轮胎的开放乡村系列（Open Country）深受陆地巡洋舰、吉姆尼等越野车用户喜爱。本文作者在游览野生动物园时，突发奇想将这款轮胎安装到园内标志性的斑马纹工作车上。实际测试中，车辆在未铺装路面行驶，专业饲养员兼司机反馈轮胎性能出色，尤其适合三菱帕杰罗、得利卡等硬派越野车。文章还提到编辑长和作者本人也分别在其陆地巡洋舰 70 和欧蓝德 PHEV 上使用该系列轮胎。",
+    "highlights_zh": [
+      "东洋轮胎开放乡村系列获越野车用户热捧",
+      "斑马纹工作车装上越野胎",
+      "三菱帕杰罗和得利卡是理想搭配车型",
+      "实测在未铺装路面表现优异"
+    ],
+    "entities": [
+      "东洋轮胎",
+      "开放乡村",
+      "三菱帕杰罗 | Mitsubishi Pajero",
+      "三菱得利卡 | Mitsubishi Delica",
+      "陆地巡洋舰"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03013208/02e0a817a158836f06895d4697c8eca7.jpg?v=1780417929",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03013208/02e0a817a158836f06895d4697c8eca7-600x338.jpg?v=1780417929",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12145605/2ef9fe7df95fe92b90eb45aa07b6d0e8-600x400.jpg?v=1781243767"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:24.686Z"
+  },
+  "https://response.jp/article/2026/06/18/412876.html": {
+    "title_zh": "阿斯顿·马丁 Vantage RS 开发中？纽博格林捕获最强车型",
+    "summary_short": "阿斯顿·马丁正在开发 Vantage 最强硬核车型，疑似 Vantage RS，纽博格林测试谍照曝光。",
+    "summary_long": "阿斯顿·马丁正在开发 Vantage 系列的最强硬核车型，可能命名为 Vantage RS。该车在德国纽博格林赛道附近进行测试，被视为 Vantage 史上最强型号。约两个月前曾出现配备八出排气管的测试车，但此次原型车更接近量产，采用四出排气管和专属扩散器，并配备大型尾翼以提升空气动力学性能。车头则采用更大的进气格栅、改进的空气帘和碳纤维前唇，整体造型比标准版及 Vantage S 更具攻击性。",
+    "highlights_zh": [
+      "纽博格林捕获 Vantage 最强原型车",
+      "四出排气取代八出",
+      "大型尾翼与碳纤维前唇强化空力",
+      "或命名 Vantage RS"
+    ],
+    "entities": [
+      "阿斯顿·马丁",
+      "Vantage RS",
+      "Vantage S",
+      "纽博格林"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2218975.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2218975.jpg",
+      "https://response.jp/imgs/fill2/2218979.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:25.679Z"
+  },
+  "https://response.jp/article/2026/06/18/412880.html": {
+    "title_zh": "宝马集团与 Mistral AI 合作，将工业数据用于碰撞模拟",
+    "summary_short": "宝马集团与 Mistral AI 合作，利用工业数据提升碰撞模拟的 AI 能力，推动价值创造。",
+    "summary_long": "宝马集团与 Mistral AI 宣布合作，在碰撞模拟领域推进 AI 应用。合作将结合宝马的工程数据与 Mistral AI 的模型学习能力，宝马 CIO Franz Decker 强调工业数据是 AI 创造价值的关键。",
+    "highlights_zh": [
+      "宝马与 Mistral AI 合作碰撞模拟",
+      "结合工程数据与 AI 模型学习",
+      "工业数据是 AI 价值创造关键"
+    ],
+    "entities": [
+      "宝马集团 | BMW Group",
+      "Mistral AI",
+      "碰撞模拟"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220125.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220125.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:27.731Z"
+  },
+  "https://response.jp/article/2026/06/18/412875.html": {
+    "title_zh": "NTT 东日本与 NTT Mobility 携手东京武藏野市，推动自动驾驶社会实施",
+    "summary_short": "NTT 东日本、NTT Mobility 与东京武藏野市签署协议，共同推进自动驾驶在区域公共交通中的社会实施。",
+    "summary_long": "东京武藏野市、NTT 东日本东京武藏野支店及 NTT Mobility 三方宣布签署“区域公共交通引入自动驾驶合作协议”。面对全国公交司机短缺导致的减班问题，以及老龄化与出行需求多样化，武藏野市计划逐步推进自动驾驶及 AI、大数据在交通领域的数字化转型，以改善司机工作方式并应对人手不足。但由于市区住宅密集、生活道路狭窄，自动驾驶的实施需要高水平技术验证。",
+    "highlights_zh": [
+      "三方签署自动驾驶合作协议",
+      "应对公交司机短缺与老龄化",
+      "推进交通领域数字化转型",
+      "市区狭窄道路需技术验证"
+    ],
+    "entities": [
+      "NTT 东日本",
+      "NTTモビリティ",
+      "武藏野市"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220090.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220090.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:29.371Z"
+  },
+  "https://response.jp/article/2026/06/18/412878.html": {
+    "title_zh": "WECARS 两家门店获得指定工厂认证",
+    "summary_short": "WECARS 宣布其札幌清田店和名取店获得指定工厂认证，提升车检与维修服务能力。",
+    "summary_long": "WECARS 宣布，其位于札幌清田和名取的两家门店新获得指定工厂认证。指定工厂制度要求企业具备高水平技术和严格管理体系，此次认证将增强公司在车检、点检和维修领域的服务能力。",
+    "highlights_zh": [
+      "WECARS 两家门店获指定工厂认证",
+      "认证要求高水平技术与严格管理",
+      "提升车检与维修服务能力"
+    ],
+    "entities": [
+      "WECARS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220123.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220123.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:30.829Z"
+  },
+  "https://bestcarweb.jp/news/1545968": {
+    "title_zh": "三菱 欧蓝德 PHEV：不只是雪地强者，84 万日元补贴下的 S-AWC 实力",
+    "summary_short": "三菱欧蓝德 PHEV 凭借 84 万日元 CEV 补贴，价格更亲民。其 S-AWC 四驱系统不仅雪地强悍，日常驾驶也提供稳定安心感。",
+    "summary_long": "三菱欧蓝德 PHEV 常被视作雪地强者，但其真正魅力不止于此。在 84 万日元 CEV 补贴下，价格更具吸引力：5 座 M 版约 445 万日元起。核心 S-AWC 系统结合前后双电机，精准控制四轮动力与制动，在雨雪、山路、紧急避让等场景均能保持车身稳定。WLTC 油耗 17.6km/L，纯电续航 106km，兼顾日常电动与长途燃油，是一款实用且安全的电动 SUV。",
+    "highlights_zh": [
+      "CEV 补贴 84 万日元",
+      "S-AWC 四驱系统",
+      "WLTC 油耗 17.6km/L",
+      "双电机 4WD"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "欧蓝德",
+      "S-AWC",
+      "CEV 补贴"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11155350/0M0A5996_1.jpg?v=1781160831",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11155350/0M0A5996_1-600x400.jpg?v=1781160831",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13013046/7caafa13794b5d89d9901fe4640c3d81-600x338.jpg?v=1781281847"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:34.356Z"
+  },
+  "https://response.jp/article/2026/06/18/412877.html": {
+    "title_zh": "酒精检测管理系统“Alkiller NEX”获国土交通省认定：支持业务前后自动点名",
+    "summary_short": "Pi-R 的酒精检测管理系统“Alkiller NEX”获日本国土交通省认定，支持业务前后自动点名，减轻管理者负担。",
+    "summary_long": "Pi-R 宣布其酒精检测管理系统“Alkiller NEX”的自动点名功能已获得日本国土交通省认定，涵盖业务前和业务后两种场景。该认定旨在减轻运输企业管理者在司机点名环节的负担，同时确保安全。业务后自动点名自 2023 年 1 月起实施，业务前自动点名于 2025 年 4 月解禁。",
+    "highlights_zh": [
+      "获国土交通省业务前、业务后双认定",
+      "自动点名功能减轻管理者负担",
+      "业务后自动点名 2023 年 1 月解禁",
+      "业务前自动点名 2025 年 4 月解禁"
+    ],
+    "entities": [
+      "Alkiller NEX",
+      "Pi-R",
+      "国土交通省",
+      "自动点名",
+      "酒精检测"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220114.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220114.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:34.532Z"
+  },
+  "https://response.jp/article/2026/06/18/412869.html": {
+    "title_zh": "岐阜 ITreat 将玻璃镀膜纳入福利，为全体员工私家车提供",
+    "summary_short": "岐阜 ITreat 公司为约 30 名员工私家车提供免费拨水玻璃镀膜，作为福利制度，费用由公司全额承担。",
+    "summary_long": "从事医疗机构网络营销业务的 ITreat 公司宣布，将针对全体员工约 30 人的私家车实施“拨水玻璃镀膜福利”。该福利于 2026 年 6 月内陆续实施，采用当地汽车销售店“Maruei Cars”推荐的 DIY 用玻璃镀膜剂，由员工自行施工，费用全部由公司承担。",
+    "highlights_zh": [
+      "全员工私家车免费镀膜",
+      "采用 DIY 玻璃镀膜剂",
+      "费用公司全额承担",
+      "当地车店推荐产品"
+    ],
+    "entities": [
+      "ITreat",
+      "Maruei Cars",
+      "玻璃镀膜",
+      "福利制度",
+      "岐阜"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220084.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220084.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:37.987Z"
+  },
+  "https://response.jp/article/2026/06/18/412882.html": {
+    "title_zh": "川崎 W230 与 MEGURO S1 因转向灯不亮被召回",
+    "summary_short": "川崎因转向灯灯泡缺陷召回 W230 和 MEGURO S1 共 9857 台，涉及 2024 年 11 月至 2026 年 2 月生产的车辆。",
+    "summary_long": "川崎汽车公司于 6 月 11 日向日本国土交通省提交召回报告，针对旗下 W230 和 MEGURO S1 两款车型的转向灯（信号灯）缺陷进行召回。缺陷原因是灯泡制造过程中工艺管理不当，导致灯泡内混入异物或出现裂纹，可能造成灯丝早期损坏，使转向灯无法点亮。召回对象为 2024 年 11 月 5 日至 2026 年 2 月 27 日期间生产的 1 个型号、2 款车型，共计 9857 台。",
+    "highlights_zh": [
+      "川崎召回 W230 和 MEGURO S1",
+      "转向灯灯泡缺陷可能导致不亮",
+      "涉及 9857 台车",
+      "生产日期：2024 年 11 月-2026 年 2…"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "W230",
+      "MEGURO S1"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220056.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220056.jpg",
+      "https://response.jp/imgs/fill2/2220061.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:39.090Z"
+  },
+  "https://response.jp/article/2026/06/18/412886.html": {
+    "title_zh": "Blitz 推出适配铃木 Crossbe 的电视导航跳线器",
+    "summary_short": "Blitz 为铃木 Crossbe 推出电视导航跳线器，让乘客在行驶中看电视和操作导航，无需改装线路。",
+    "summary_long": "Blitz 正在销售的“TV-NAVI JUMPER”（电视导航跳线器）新增了对铃木 Crossbe 原厂显示屏音频的适配。该产品为“TV 切换”类型（型号 NSZ06），含税售价 27280 日元。它无需切割或加工车辆线路，即可实现行驶中乘客观看电视以及设置导航目的地等操作。产品附带超小型开关，并支持多种安装方式。",
+    "highlights_zh": [
+      "行驶中乘客可看电视",
+      "可操作导航设置目的地",
+      "无需改装线路",
+      "支持多种开关安装方式"
+    ],
+    "entities": [
+      "Blitz",
+      "铃木 | Suzuki",
+      "クロスビー",
+      "电视导航跳线器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219341.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219341.jpg",
+      "https://response.jp/imgs/fill2/2219342.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:41.844Z"
+  },
+  "https://response.jp/article/2026/06/18/412873.html": {
+    "title_zh": "Stellantis 与 TotalEnergies 扩大发动机油战略合作，覆盖全部 10 个品牌",
+    "summary_short": "Stellantis 与 TotalEnergies 更新并扩大发动机油合作，覆盖旗下全部 10 个品牌，合作历史超 50 年。",
+    "summary_long": "TotalEnergies 与 Stellantis 宣布更新并扩大在欧洲的发动机油和润滑油战略合作伙伴关系。双方合作历史超过 50 年，最初始于与雪铁龙的关系，如今已发展为追求信任、性能和技术卓越的驱动力。此次协议在 2021 年覆盖标致、雪铁龙、DS、欧宝、沃克斯豪尔的基础上，新增菲亚特、Jeep、蓝旗亚、阿尔法·罗密欧、阿巴斯，实现 Stellantis 全部 10 个品牌全覆盖。",
+    "highlights_zh": [
+      "合作历史超 50 年",
+      "覆盖 Stellantis 全部 10 个品牌",
+      "新增菲亚特、Jeep、蓝旗亚等品牌",
+      "聚焦发动机油与润滑油领域"
+    ],
+    "entities": [
+      "Stellantis",
+      "TotalEnergies",
+      "雪铁龙",
+      "标致",
+      "菲亚特"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220103.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220103.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:43.035Z"
+  },
+  "https://response.jp/article/2026/06/18/412887.html": {
+    "title_zh": "从跑车到 SUV 齐聚一堂！充满车迷笑容的『PickUpCars2026』",
+    "summary_short": "CARTUNE 官方车聚活动 PickUpCars2026 在埼玉县本庄赛道举办，汇聚跑车、SUV 等各类车型，展现多元改装文化。",
+    "summary_long": "CARTUNE 官方车聚活动『PickUpCars2026』于 5 月 30 日在埼玉县本庄赛道举办，这是该活动第二次在此举行。当天天气晴朗，来自全国的车迷齐聚一堂，参展车辆涵盖跑车、轿车、MPV、旅行车、SUV 及越野 4WD 等丰富类型，体现了 CARTUNE 社区的多样性。改装风格也各具特色，从赛道取向到外观改装、户外风格乃至原厂风格，令人目不暇接。活动还设有互动环节，参与者可将糖果放入心仪车辆的篮中，促进交流。",
+    "highlights_zh": [
+      "活动涵盖跑车、SUV、MPV 等多元车型",
+      "改装风格从赛道到户外各具特色",
+      "参与者通过投糖果互动增进交流"
+    ],
+    "entities": [
+      "CARTUNE",
+      "PickUpCars2026",
+      "本庄赛道"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219768.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219768.webp",
+      "https://response.jp/imgs/fill2/2219800.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:46.742Z"
+  },
+  "https://response.jp/article/2026/06/18/412884.html": {
+    "title_zh": "丰田技术开发获“白金库鲁敏 Plus”认证",
+    "summary_short": "丰田技术开发公司获厚生劳动省最高等级“白金库鲁敏 Plus”认证，表彰其在工作与育儿、不孕治疗两立方面的卓越支持。",
+    "summary_long": "丰田技术开发公司（TTDC）于 6 月 18 日宣布获得厚生劳动省认证制度中最上级别的“白金库鲁敏 Plus 认定”。该认证不仅要求企业在工作与育儿两立支援方面达到高水平，还需在不孕治疗与工作两立支援方面获得认可。TTDC 持续致力于为员工创造安心工作的环境，2020 年已获得丰田市首个“えるぼし认定”，此后还取得了“库鲁敏 Plus”和“健康经营优良法人”等认证。",
+    "highlights_zh": [
+      "获厚劳省最高等级认证",
+      "工作与育儿两立支援获好评",
+      "不孕治疗与工作两立也受认可",
+      "此前已获多项相关认证"
+    ],
+    "entities": [
+      "丰田技术开发 | Toyota Technical Development",
+      "白金库鲁敏 Plus",
+      "厚生劳动省",
+      "工作与育儿两立"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220127.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220127.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:46.895Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1552235": {
+    "title_zh": "SWANS 驾驶眼镜：让红灯瞬间映入眼帘的科学设计",
+    "summary_short": "SWANS 推出专为驾驶设计的眼镜，采用特殊镜片增强信号灯和刹车灯辨识度，提升行车安全。",
+    "summary_long": "日本 SWANS 品牌推出“驾驶眼镜”，采用“ULTRA LENS for DRIVING”镜片，由赛车手山野哲也监制，历经十年研发。该眼镜能增强红色、黄色等警示信号的辨识度，使信号灯、前车刹车灯和转向灯更易被察觉，从而提升驾驶安全。目前该产品正在限时 20%折扣促销。",
+    "highlights_zh": [
+      "SWANS 驾驶眼镜采用特殊镜片",
+      "由赛车手山野哲也监制",
+      "提升刹车灯、转向灯可见性",
+      "限时 20%折扣至 2026 年 6 月 30 日"
+    ],
+    "entities": [
+      "SWANS",
+      "山野哲也",
+      "ULTRA LENS for DRIVING",
+      "驾驶眼镜"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17132525/samune-0618.jpg?v=1781670326",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17132525/samune-0618-600x421.jpg?v=1781670326",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/14143135/samune0616-600x375.jpg?v=1781415097"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:51.371Z"
+  },
+  "https://bestcarweb.jp/feature/column/1541426": {
+    "title_zh": "日产 Note Autech Crossover：小 SUV 体验？与普通 Note 的差异",
+    "summary_short": "日产 Note Autech Crossover 以跨界外观和专属配置，提供类似 SUV 的驾驶体验，但保持紧凑尺寸。",
+    "summary_long": "日产 Note Autech Crossover 是 Note 车系中的跨界版本，外观采用专属前格栅、银色防护板、轮拱饰条等，搭配 16 英寸轮毂，营造 SUV 风格。尽管视觉上更粗犷，但车宽仍控制在 1.7 米以内，维持 5 号车牌的紧凑尺寸，兼顾通过性与灵活性。价格方面，标准 Note X 约 232 万日元，而 Autech Crossover 约 279 万日元，差价近 47 万日元。",
+    "highlights_zh": [
+      "外观专属套件",
+      "车宽保持 1.7 米内",
+      "价格比标准版高约 47 万日元",
+      "搭载 e-POWER 系统"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "ノート オーテック クロスオーバー",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10152115/250828-01-j_004_NMC_1.jpg?v=1781072477",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10152115/250828-01-j_004_NMC_1-600x400.jpg?v=1781072477",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12210956/00_PU-koime_head-600x400.jpg?v=1781266197"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:51.664Z"
+  },
+  "https://bestcarweb.jp/news/1548363": {
+    "title_zh": "丰田 Noah/Voxy 专用仪表台托盘：30 秒安装，前座收纳力大增",
+    "summary_short": "丰田 Noah/Voxy 90 系专用仪表台托盘，无需工具 30 秒安装，提升收纳力并带手机支架功能。",
+    "summary_long": "丰田 Noah/Voxy 90 系车主常面临手机、太阳镜等小物无处放置的困扰。CRAFTWORKS 品牌推出专用仪表台托盘，利用导航后方闲置空间，增加收纳区域，可整齐放置手机、钥匙等物品。产品经过专业技师实车验证，贴合内饰设计，安装自然无违和感。",
+    "highlights_zh": [
+      "30 秒安装",
+      "利用导航后方闲置空间",
+      "带手机支架功能",
+      "专车专用"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ノア",
+      "ヴォクシー",
+      "CRAFTWORKS",
+      "仪表台托盘"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13011449/1237b0eb0b4c03d45c4fc095362c4ed1.jpg?v=1781280890",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13011449/1237b0eb0b4c03d45c4fc095362c4ed1-600x400.jpg?v=1781280890",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13013046/7caafa13794b5d89d9901fe4640c3d81-600x338.jpg?v=1781281847"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:54.966Z"
+  },
+  "https://response.jp/article/2026/06/18/412888.html": {
+    "title_zh": "Blitz 推出铝制机油盖，新增丰田/本田适配型号，售价 8250 日元",
+    "summary_short": "Blitz 铝制机油盖新增丰田、本田车型适配，采用阳极氧化铝材质，六角形设计，支持钢丝锁，售价 8250 日元。",
+    "summary_long": "Blitz 为其在售的铝制阳极氧化机油盖新增了丰田和本田车型适配版本，于 6 月 17 日开售。该机油盖采用铝制切削并施以阳极氧化处理，具有高耐久性和高刚性。六角形本体便于拆装，能营造机械感和赛车风格的发动机舱。同时考虑赛道使用需求，支持钢丝锁固定。提供红、蓝、黑、银四种颜色，丰田和本田适配型号均有全色可选，含税价均为 8250 日元（本体价 7500 日元）。",
+    "highlights_zh": [
+      "新增丰田、本田车型适配",
+      "铝制阳极氧化",
+      "六角形设计",
+      "支持钢丝锁"
+    ],
+    "entities": [
+      "Blitz",
+      "丰田 | Toyota",
+      "本田 | Honda",
+      "机油盖"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220131.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220131.jpg",
+      "https://response.jp/imgs/fill2/2220130.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:56.752Z"
+  },
+  "https://bestcarweb.jp/news/1548370": {
+    "title_zh": "继勒芒之后，富士 6 小时赛也免费直播！ABEMA 的跑车赛事真有趣",
+    "summary_short": "ABEMA 免费直播 WEC 富士 6 小时和巴林 8 小时赛，继勒芒 24 小时免费后，让跑车赛事更亲民。",
+    "summary_long": "ABEMA 宣布免费直播 2026 赛季 WEC 的富士 6 小时赛和巴林 8 小时赛，此前已免费直播勒芒 24 小时赛。WEC 汇聚丰田、法拉利、保时捷等顶级制造商，Hypercar 与 LMGT3 混战，考验综合实力。",
+    "highlights_zh": [
+      "ABEMA 免费直播富士 6 小时和巴林 8 小时",
+      "勒芒 24 小时已实现 24 小时免费直播",
+      "WEC 汇聚丰田、法拉利、保时捷等名门",
+      "Hypercar 与 LMGT3 混战考验综合实力"
+    ],
+    "entities": [
+      "ABEMA",
+      "FIA 世界耐力锦标赛",
+      "丰田 | Toyota",
+      "法拉利 | Ferrari",
+      "保时捷 | Porsche"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13013046/7caafa13794b5d89d9901fe4640c3d81.jpg?v=1781281847",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13013046/7caafa13794b5d89d9901fe4640c3d81-600x338.jpg?v=1781281847",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16212937/2tatisann2-600x502.jpg?v=1781612978"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:44:58.884Z"
+  },
+  "https://bestcarweb.jp/newcar/1553748": {
+    "title_zh": "三菱 eK クロス EV 改款：约 187 万日元起，新增 1500W 供电插座",
+    "summary_short": "三菱 eK クロス EV 改款，前脸设计革新，新增 1500W 供电插座，补贴后约 187 万日元起，性价比极高。",
+    "summary_long": "三菱 eK クロス EV 发布改款，主要更新包括前脸设计大幅革新，采用进化版“Dynamic Shield”设计语言，更显亲和与科技感。新增 1500W（AC100V）附件插座（P 等级可选），支持 V2L 功能，可利用 20kWh 电池为户外或应急供电。补贴后实际价格约 187 万日元起，性价比突出。",
+    "highlights_zh": [
+      "前脸设计革新",
+      "新增 1500W 附件插座",
+      "补贴后约 187 万日元起",
+      "20kWh 电池可供电户外或应急"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "eK クロス EV",
+      "Dynamic Shield",
+      "V2L"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18161947/img_animation_01_pc_1.jpg?v=1781767188",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18161947/img_animation_01_pc_1-600x400.jpg?v=1781767188",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10163143/A35_2942_1-600x400.jpg?v=1781076704"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:01.001Z"
+  },
+  "https://www.motor1.com/news/798794/toyota-4runner-oil-change/": {
+    "title_zh": "丰田 4Runner 保养被忽视：机械师警告这个步骤每次换油都应做",
+    "summary_short": "纽约一位机械师以丰田 4Runner 为例，展示被忽视的保养步骤——车门铰链润滑和引擎盖润滑，警告车主检查这些细节。",
+    "summary_long": "纽约克林顿的汽车维修技师 NextGen CarCare 以一辆 2019 款丰田 4Runner 为例，指出许多维修店在换油时忽略了一个基本保养步骤：润滑车门铰链和引擎盖卡扣。视频中，这辆 4Runner 的车门铰链因缺乏润滑而生锈，引擎盖卡扣也因未润滑而难以弹开。技师强调，这些步骤应在每次换油时完成，并建议车主自行检查。",
+    "highlights_zh": [
+      "车门铰链和引擎盖卡扣应每次换油时润滑",
+      "忽视润滑会导致铰链生锈、引擎盖难开",
+      "车主可自行检查这些细节"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "4Runner",
+      "NextGen CarCare",
+      "换油保养"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGRLE/s1/man-takes-4runner-to-shop.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:02.909Z"
+  },
+  "https://insideevs.com/news/799116/ferrari-luce-ev-allocation-collectors/": {
+    "title_zh": "跳过法拉利 Luce 可能让收藏家错失心仪车型",
+    "summary_short": "法拉利首款电动车 Luce 被视为忠诚度测试，拒绝购买可能影响未来限量车型的购买资格。",
+    "summary_long": "法拉利首款电动车 Luce 可能引发争议，但忠实收藏家若拒绝购买，可能会影响未来获得限量版车型的资格。法拉利一直通过购买常规量产车型（如 California、FF 等）来评估客户忠诚度，从而决定其能否购买稀有车型。Luce 作为品牌首款电动车，外观独特且价格高昂（64 万美元），可能成为最难销售的车型，但法拉利正利用稀缺策略和忠诚度测试来推动销售。",
+    "highlights_zh": [
+      "法拉利用 Luce 测试客户忠诚度",
+      "拒绝购买可能影响限量车型配额",
+      "Luce 是法拉利首款电动车",
+      "64 万美元售价"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "California",
+      "FF",
+      "GTC4Lusso"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEV6o/s1/ferrari-luce.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:05.558Z"
+  },
+  "https://insideevs.com/news/799110/rivian-r2-tesla-model-y-efficiency-epa/": {
+    "title_zh": "Rivian R2 效率媲美特斯拉 Model Y，尽管更重",
+    "summary_short": "Rivian R2 Performance 比 Model Y Performance 重约 500 磅，但 EPA 能耗相同，均为 32 kWh/100 英里。",
+    "summary_long": "根据 EPA 官方评级，2027 款 Rivian R2 Performance 在能耗上与 2026 款 Tesla Model Y Performance 持平，均为 32 kWh/100 英里（3.12 英里/kWh）。尽管 R2 重约 5000 磅，比 Model Y 重 500 磅，且更高、更宽、离地间隙更大（9.6 英寸 vs 6 英寸），但效率表现依然出色。R2 搭载 87.9 kWh 电池，续航 330 英里；Model Y 搭载 81 kWh 电池，续航 306 英里。",
+    "highlights_zh": [
+      "Rivian R2 Performance 与 Mo…",
+      "R2 重约 5000 磅",
+      "R2 续航 330 英里",
+      "R2 离地间隙 9.6 英寸"
+    ],
+    "entities": [
+      "Rivian",
+      "R2",
+      "Tesla",
+      "Model Y",
+      "EPA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KWRO/s1/2027-rivian-r2-first-drive-on--and-off-road.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:06.687Z"
+  },
+  "https://www.motor1.com/news/799058/maserati-nettuno-v6-hybrid/": {
+    "title_zh": "玛莎拉蒂 Nettuno V6 将推混动版",
+    "summary_short": "玛莎拉蒂确认将推出 Nettuno V6 发动机的混动版本，该发动机将继续在品牌中扮演重要角色。",
+    "summary_long": "玛莎拉蒂高管向 Motor1 确认，计划为 Nettuno V6 发动机推出混动版本。这款发动机自 2020 年随 MC20（现称 MCPura）推出以来，已应用于 Grecale、GranTurismo 等多款车型。首席运营官 Santo Ficili 表示对这款发动机情有独钟，而首席营销官 Cristiano Fiorio 指出混动化将带来另一种性能表现，并为客户提供额外价值。",
+    "highlights_zh": [
+      "Nettuno V6 将推出混动版本",
+      "发动机将继续作为核心动力",
+      "混动化带来新性能体验",
+      "高管称对发动机情有独钟"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "Nettuno V6",
+      "MCPura",
+      "Grecale",
+      "GranTurismo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJKKL/s1/maserati-nettuno-v6.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:09.385Z"
+  },
+  "https://www.motor1.com/news/799092/mitsubishi-us-dealers-montero-2030/": {
+    "title_zh": "三菱经销商称 Montero 将重返美国",
+    "summary_short": "三菱在经销商会议上宣布，新一代非承载式 SUV Pajero 将于 2030 年以 Montero 之名重返美国市场。",
+    "summary_long": "三菱在芝加哥举行的经销商会议上向约 180 位美加零售商展示了未来产品线，其中亮点是一款基于 Triton 皮卡的非承载式 SUV，尺寸明显大于 Outlander，对标丰田 Land Cruiser。该车采用方正造型，垂直头灯与贯穿式灯带相连，尾部为 T 形尾灯，并改用传统尾门而非侧开式。内部提供三排座椅，后排空间宽敞。新车将于今年秋季以 Pajero 之名首发，2030 年以 Montero 之名进入美国。",
+    "highlights_zh": [
+      "三菱秘密经销商会议确认 Montero 回归",
+      "新车基于 Triton 皮卡",
+      "尺寸大于 Outlander",
+      "取消侧开尾门和外挂备胎"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Montero",
+      "Pajero",
+      "Triton",
+      "Outlander"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K24L/s1/mitsubishi-montero-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:10.830Z"
+  },
+  "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/": {
+    "title_zh": "Electrify America 新一代充电站更大更好",
+    "summary_short": "Electrify America 在加州圣巴巴拉开设新一代大型充电站，配备 20 个充电桩和 1.9 兆瓦电池储能系统。",
+    "summary_long": "Electrify America 在美国加州圣巴巴拉开设了最新一代大型直流快充站，拥有 20 个充电桩，每个最高功率 350 千瓦。该站首次配备 1.9 兆瓦电池储能系统，可在电网低负荷时储电、高负荷时放电，从而扩大充电容量并减轻电网压力。这标志着该公司未来充电站的建设蓝图。",
+    "highlights_zh": [
+      "20 个充电桩",
+      "配备 1.9 兆瓦电池储能系统",
+      "位于圣巴巴拉前灰狗巴士站旧址",
+      "加州第四座大型充电站"
+    ],
+    "entities": [
+      "Electrify America",
+      "圣巴巴拉",
+      "加州",
+      "电池储能系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4e7x/s1/electrify-america-large-format-dc-fast-charging-station-in-santa-barbara-california.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:12.661Z"
+  },
+  "https://www.motor1.com/news/799063/maserati-confirms-new-sedan/": {
+    "title_zh": "玛莎拉蒂确认开发新轿车，Ghibli 和 Quattroporte 后继有车",
+    "summary_short": "玛莎拉蒂确认正在开发一款新轿车，以替代 Ghibli 和 Quattroporte，回应客户对 E 级轿车的需求。",
+    "summary_long": "玛莎拉蒂在 2027 款车型更新发布会上向媒体确认，公司正在开发一款新的高性能豪华轿车，以替代已停产的 Ghibli 和 Quattroporte。尽管 SUV 和跨界车风靡市场，但玛莎拉蒂认为轿车细分市场并未消亡，客户对 E 级轿车仍有明确需求。新车型将延续品牌在轿车领域的传统，具体细节尚未公布。",
+    "highlights_zh": [
+      "玛莎拉蒂确认开发新轿车",
+      "替代 Ghibli 和 Quattroporte",
+      "回应客户对 E 级轿车需求",
+      "轿车市场并未消亡"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "Ghibli",
+      "Quattroporte"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8ggG/s1/maserati-quattroporte.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:13.990Z"
+  },
+  "https://www.thedrive.com/news/maserati-reveals-the-new-face-of-its-core-lineup": {
+    "title_zh": "玛莎拉蒂核心阵容焕新：2027 款 GranTurismo、GranCabrio 与 Grecale",
+    "summary_short": "玛莎拉蒂 2027 款 GranTurismo、GranCabrio 和 Grecale 迎来中期改款，外观与动力均有升级，Trofeo 版马力提升至 582 匹。",
+    "summary_long": "玛莎拉蒂对旗下核心车型——GranTurismo 轿跑、GranCabrio 敞篷版以及 Grecale SUV 进行了 2027 款更新。外观方面，新车采用了与 MCXtrema 和 GT2 Stradale 一脉相承的家族式前脸设计，尤其是全新格栅造型。动力上，GranTurismo 和 GranCabrio 的 Trofeo 版本最大功率从 542 马力提升至 582 马力。不过，期待更高性能版本或 V8 发动机的消费者可能会失望。",
+    "highlights_zh": [
+      "2027 款 GranTurismo、GranCab…",
+      "Trofeo 版马力从 542 提升至 582",
+      "全新格栅设计",
+      "暂无 V8 或更高性能版本"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "GranTurismo",
+      "GranCabrio",
+      "Grecale",
+      "Trofeo"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/maser-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/05_NEW-MASERATI-GRANCABRIO.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/05_NEW-MASERATI-GRECALE.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:16.467Z"
+  },
+  "https://www.thedrive.com/news/maserati-sees-future-for-sedans-and-v8s-but-not-plug-in-hybrids": {
+    "title_zh": "玛莎拉蒂看好轿车与 V8 未来，但放弃插电混动",
+    "summary_short": "玛莎拉蒂认为轿车和 V8 发动机仍有未来，但插电混动车型不在计划内。",
+    "summary_long": "玛莎拉蒂在展示 2027 年核心阵容（改款 GranTurismo、GranCabrio 和 Grecale）后，高管透露未来可能推出全新四门轿车，并继续提供 V8 动力。首席运营官 Santo Ficili 表示，尽管 V6 发动机性能优异，但部分高端市场仍需要更大排量。不过，插电混动车型被排除在规划之外。",
+    "highlights_zh": [
+      "玛莎拉蒂计划推出新一代轿车",
+      "V8 发动机将继续提供",
+      "插电混动车型被放弃",
+      "改款车型构成 2027 年核心阵容"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "Quattroporte",
+      "GranTurismo",
+      "GranCabrio",
+      "Grecale"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Maserati-Sedan-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/05_NEW-MASERATI-GRECALE_GRANCABRIO_GRANTURISMO-FOLGORE.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:17.630Z"
+  },
+  "https://www.motor1.com/news/799051/maserati-lineup-2027-update-changes/": {
+    "title_zh": "玛莎拉蒂 2027 年全系大改款：Grecale、GranTurismo、GranCabrio 全面更新",
+    "summary_short": "玛莎拉蒂 2027 年全系更新，Grecale、GranTurismo、GranCabrio 迎来设计、内饰和性能升级。",
+    "summary_long": "玛莎拉蒂计划在 2027 年对全系车型进行重大更新，涉及 Grecale SUV、GranTurismo 轿跑和 GranCabrio 敞篷车。更新内容包括前脸设计调整、内饰数字化升级以及性能提升。GranTurismo Trofeo 版搭载升级版 3.0 升 Nettuno V6 发动机，最大功率 582 马力，0-60 英里/小时加速 3.8 秒，极速接近 200 英里/小时。底盘保留全轮驱动和自适应空气悬架，驾驶模式更注重舒适性或赛道性能。内饰采用全新数字界面、赛车风格方向盘和金属质感换挡杆。",
+    "highlights_zh": [
+      "全系前脸设计优化",
+      "GranTurismo Trofeo 版 582 马…",
+      "内饰升级：数字界面、赛车方向盘、金属换挡杆",
+      "底盘调校分舒适与赛道两种取向"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "Grecale",
+      "GranTurismo",
+      "GranCabrio",
+      "Nettuno V6"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJ22Y/s1/2027-maserati-granturismo-folgore.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:21.525Z"
+  },
+  "https://www.thedrive.com/news/theres-still-room-at-maserati-for-manual-transmissions-exec-says": {
+    "title_zh": "玛莎拉蒂高管：手动变速箱仍有市场",
+    "summary_short": "玛莎拉蒂高管表示，将通过 Bottega Fuoriserie 定制项目为高端客户保留手动变速箱选项，以吸引追求传统驾驶体验的买家。",
+    "summary_long": "玛莎拉蒂首席营销官 Cristiano Fiorio 表示，品牌将通过 Bottega Fuoriserie 定制项目为高端客户保留手动变速箱选项。该项目与阿尔法·罗密欧合作推出，专注于打造定制化、历史修复和性能提升的豪华车型。Fiorio 指出，参与该项目的客户普遍偏爱大排量汽油发动机，并且对传统手动变速箱有浓厚兴趣。因此，玛莎拉蒂计划尽可能长久地提供手动变速箱，以满足这部分小众但忠诚的客户需求。",
+    "highlights_zh": [
+      "玛莎拉蒂高管确认保留手动变速箱",
+      "Bottega Fuoriserie 定制项目提供手…",
+      "客户偏爱大排量汽油发动机和手动变速箱",
+      "手动变速箱将尽可能长久提供"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "阿尔法·罗密欧",
+      "Bottega Fuoriserie",
+      "手动变速箱"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/maserati-granturismo.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2157492330-copy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:21.866Z"
+  },
+  "https://insideevs.com/news/799088/2026-jeep-recon-epa-range-efficiency/": {
+    "title_zh": "2026 款 Jeep Recon EPA 评级确认其能耗较高",
+    "summary_short": "2026 款 Jeep Recon EPA 续航 222 英里，低于预期，能耗较高，与 Rivian R2 等竞品相比表现不佳。",
+    "summary_long": "2026 款 Jeep Recon Moab 的 EPA 续航评级为 222 英里，低于此前预期的 230 英里，尽管搭载了 100 千瓦时的大容量电池。这一续航表现低于特斯拉 Model Y 和 Rivian R2 的所有版本，例如 Rivian R2 Performance AWD 续航达 330 英里。Jeep Recon 作为一款注重越野能力的电动 SUV，配备了电子后差速锁和可拆卸车门，但其方正造型不利于能效。",
+    "highlights_zh": [
+      "EPA 续航 222 英里",
+      "100 千瓦时电池",
+      "注重越野能力",
+      "造型方正"
+    ],
+    "entities": [
+      "Jeep",
+      "Recon",
+      "Rivian R2",
+      "特斯拉 Model Y | Tesla Model Y"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WmzM1/s1/jeep-recon-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:25.420Z"
+  },
+  "https://www.motor1.com/news/799083/toyota-thinks-too-many-models/": {
+    "title_zh": "丰田新社长认为车型过多是个问题",
+    "summary_short": "丰田新任 CEO Kenta Kon 指出，车型阵容过于庞大导致成本上升，计划精简产品线以提升效率。",
+    "summary_long": "丰田新任 CEO Kenta Kon 在视察研发中心后，发现工程师因车型和衍生版本过多而分散精力，导致成本增加。他认为精简产品组合是降低成本的有效途径，但尚未透露具体哪些车型将被削减。此前，雷克萨斯 LF-ZC 电动轿车因市场需求波动和开发工作量问题已被搁置。",
+    "highlights_zh": [
+      "丰田 2025 年销量达 1053.6 万辆",
+      "新 CEO 认为车型过多导致工程师负担过重",
+      "雷克萨斯 LF-ZC 电动轿车已被搁置"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "雷克萨斯 | Lexus",
+      "Kenta Kon",
+      "LF-ZC"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eoRAyP/s1/2024-toyota-land-cruiser-70-series-jdm.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-18T16:45:25.638Z"
   }
 }
