@@ -1,155 +1,155 @@
 {
   "workflow": {
-    "generated_at": "2026-06-17T16:44:18.434Z",
+    "generated_at": "2026-06-18T05:00:26.694Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 362,
-    "deepseek_untranslated_before_run": 38,
-    "newly_fetched_articles": 38,
-    "newly_fetched_untranslated": 38,
-    "backlog_untranslated": 1,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
+    "newly_fetched_articles": 34,
+    "newly_fetched_untranslated": 34,
+    "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 38,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "InsideEVs",
-        "time": "2026.6.17",
-        "title": "Tesla Owners Are Using Doll Heads To Fool Full Self-Driving",
-        "url": "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.17",
-        "title": "Porsche Killed Its Best Cars Because You Didn’t Buy Them",
-        "url": "https://www.thedrive.com/news/porsche-killed-its-best-cars-because-you-didnt-buy-them"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.17",
-        "title": "License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets",
-        "url": "https://www.thedrive.com/news/license-plate-cameras-will-soon-track-phones-wearables-infotainment-and-even-your-pets"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.17",
-        "title": "Is BMW Making A New Alpina Flagship Sedan? Here's Everything We Know",
-        "url": "https://www.motor1.com/features/799036/bmw-alpina-sedan-details-specs-engine/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.17",
-        "title": "Base Chevy Silverado 1500 Work Truck Finally Gets the Duramax Diesel",
-        "url": "https://www.thedrive.com/news/base-chevy-silverado-1500-work-truck-finally-gets-the-duramax-diesel"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.17",
-        "title": "Ford Thinks It Has A Solution To Its Recall Problem",
-        "url": "https://www.motor1.com/news/799030/ford-fix-recall-problem-teardown-engines/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.17",
-        "title": "GM Said It Crushed Every 4.5L Duramax V8 Prototype. One Is in Sweden",
-        "url": "https://www.thedrive.com/news/gm-said-it-crushed-every-4-5l-duramax-v8-prototype-one-is-in-sweden"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.17",
-        "title": "This Startling Statistic Is Why Seatbelt Reminders Have Gotten So Annoying",
-        "url": "https://www.motor1.com/news/799014/modern-seatbelt-reminders-annoying/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.17",
-        "title": "GM Says High Gas Prices Have Driven Small-Car Shift Faster Than Expected: TDS",
-        "url": "https://www.thedrive.com/news/gm-says-high-gas-prices-have-driven-small-car-shift-faster-than-expected-tds"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.17",
-        "title": "Jeremy Clarkson Has Been Diagnosed With Prostate Cancer",
-        "url": "https://www.thedrive.com/news/jeremy-clarkson-has-been-diagnosed-with-prostate-cancer"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.17",
-        "title": "Heavy-Duty Trucks Are Finally Getting The Safety Ratings They Need",
-        "url": "https://www.motor1.com/news/798928/big-trucks-safety-crash-tests/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.17",
-        "title": "Porsche Looked at Hyundai and Said, ‘We’ll Have What They’re Having’",
-        "url": "https://www.thedrive.com/news/porsche-looked-at-hyundai-and-said-well-have-what-theyre-having"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "“歯みがき”のサンスター、「鈴鹿8耐」でスズキに最新の「環境負荷低減型ブレーキ」提供へ 昨年よりも性能向上",
-        "url": "https://response.jp/article/2026/06/17/412831.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "「この変態デザイン、かなり好き」DSの新型SUV『N°7』がSNSで注目！「ジャンル不明な感じがたまらん」の声も",
-        "url": "https://response.jp/article/2026/06/17/412830.html"
+        "time": "2026.6.18",
+        "title": "“クルマ好き”の不変の居場所！ 4×4エンジニアリングが描くヨンクカルチャー",
+        "url": "https://response.jp/article/2026/06/18/412854.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.17",
-        "title": "「僕のコメディの師匠は柴田恭兵クン」南条弘も帰ってきた!? 舘ひろしさん映画『免許返納!?』インタビュー",
-        "url": "https://bestcarweb.jp/news/entame/1551760"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "『カローラクロス ハイブリッド GRスポーツ』がカプラーオンでパワーアップ！ ブリッツ「パワコンX」が適合",
-        "url": "https://response.jp/article/2026/06/17/412833.html"
+        "time": "2026.6.18",
+        "title": "【カロクロとカロツー比較】燃費ほぼ一緒なの!? カローラクロスの納期考え得たらコスパで光るカローラツーリングか!?",
+        "url": "https://bestcarweb.jp/feature/column/1548196"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.17",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「R&D」",
-        "url": "https://bestcarweb.jp/feature/column/1530946"
+        "time": "2026.6.18",
+        "title": "【へっぽこバスガイドの珍道中】旅の記憶を紡ぐ“言の葉”とは？ 心に残る案内を目指すのよっ!!",
+        "url": "https://bestcarweb.jp/busmagazine/1538958"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.18",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第788回",
+        "url": "https://bestcarweb.jp/feature/column/1532421"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "AI中古車仕入れ分析システム導入、在庫最適化へ…AOZORA COMPANY",
-        "url": "https://response.jp/article/2026/06/17/412827.html"
+        "time": "2026.6.18",
+        "title": "3列シートのルノー『グランカングー』、“タフ”なグレーの限定車「クルール」発売…472万円で50台抽選販売",
+        "url": "https://response.jp/article/2026/06/18/412856.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置",
-        "url": "https://response.jp/article/2026/06/17/412829.html"
+        "time": "2026.6.18",
+        "title": "BMW、4モーターの高性能電動セダン提案…『Mコンセプト・ノイエ・クラッセ』発表",
+        "url": "https://response.jp/article/2026/06/18/412859.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.17",
-        "title": "JVCケンウッド、SOMPOサステナビリティ・インデックスに2年連続選定",
-        "url": "https://response.jp/article/2026/06/17/412819.html"
+        "time": "2026.6.18",
+        "title": "GM、ロッキード・マーティンと協力協定…米国防産業基盤を強化へ",
+        "url": "https://response.jp/article/2026/06/18/412847.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "KDDIとAeris、IoTコネクティビティ管理サービス契約を締結…コネクテッドカー4200万台を支援",
+        "url": "https://response.jp/article/2026/06/18/412848.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.18",
+        "title": "アウトランダーPHEVはマンション住まいでも買える？ 補助金84万円と充電なし運用のリアル",
+        "url": "https://bestcarweb.jp/feature/column/1545957"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "スバルの3例シートSUV、『アセント』を日本発売前レビュー！…海外報道",
+        "url": "https://response.jp/article/2026/06/18/412857.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "ソフトバンク合弁CARRO JAPAN、タクシーの次世代安全管理体制構築へ…AI活用の走行データ試験運用開始",
+        "url": "https://response.jp/article/2026/06/18/412853.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.18",
+        "title": "タイプRにNISMOにマツダのKODO……!! クルマ好きなら魂が震える名称をイッキ見！",
+        "url": "https://bestcarweb.jp/feature/column/1548556"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "デンソーテン、RAGを省メモリ化する生成AI技術を開発…車載エッジでの対話アシスタント実現へ",
+        "url": "https://response.jp/article/2026/06/18/412860.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "ドアスピーカーの「アウター化」は音に効く！ いつかはぜひ！［スピーカー交換丸わかり講座］",
+        "url": "https://response.jp/article/2026/06/18/412852.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "トヨタ博物館、はたらくクルマ体験イベントを7月17日から開催…『メガクルーザー』にも乗車可能",
+        "url": "https://response.jp/article/2026/06/17/412822.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.18",
+        "title": "ハイラックスで注目の「士別フィン」とは？走りが変わるアンダーカバーがスゴすぎる!!",
+        "url": "https://bestcarweb.jp/news/1548350"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "ブレイズの4輪特定小型原付『イーカーゴ』、名古屋本社で試乗会…6月20日から4日間開催",
+        "url": "https://response.jp/article/2026/06/18/412858.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "ベトナムに精密ばね製造拠点を本格稼働、アジア供給体制を強化…光洋",
+        "url": "https://response.jp/article/2026/06/18/412862.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.18",
+        "title": "ボケ防止になる！ おじさんにおススメの絶滅寸前「素うどん的なフツーのMT車」200万円以下で安い！ これぞクルマの原点だ！",
+        "url": "https://bestcarweb.jp/news/entame/1552917"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.18",
+        "title": "ホンダ『プレリュード』新型、「2027 リミテッドエディション」8月発売…深紅の内外装",
+        "url": "https://response.jp/article/2026/06/18/412863.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27704930197",
-    "sha": "daaa23a954d05883da290f6ea5536a68ac6450dc",
-    "completed_at": "2026-06-17T16:45:36.618Z",
+    "run_id": "27737801686",
+    "sha": "45c79ceefe221c55c30676db3688fa97b7eecb35",
+    "completed_at": "2026-06-18T05:01:45.513Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 399,
-    "deepseek_untranslated_after_run": 1,
+    "deepseek_translated_after_run": 400,
+    "deepseek_untranslated_after_run": 0,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 38,
-    "queued_articles": 38,
-    "processed": 38,
-    "started_at": "2026-06-17T16:44:18.715Z",
-    "finished_at": "2026-06-17T16:45:36.385Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-06-18T05:00:27.018Z",
+    "finished_at": "2026-06-18T05:01:45.220Z",
     "success": true,
     "error": ""
   }
