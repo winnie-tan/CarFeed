@@ -41634,5 +41634,746 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-18T16:45:25.638Z"
+  },
+  "https://response.jp/article/2026/06/19/412919.html": {
+    "title_zh": "电池战争 2036：10 年后的产业地图",
+    "summary_short": "BEV 是否真的失速？电池多极化走向何方？中国新规是贸易壁垒还是世界标准？解析电池产业的结构性变化。",
+    "summary_long": "世界电池市场正经历数字增长与体感失速并存的矛盾局面。BEV 市场持续扩大，但欧美政策退坡与战略修正频现，电驱动化进入调整期。本研讨会从汽车、能源、地缘政治三个层面，剖析电池产业的深层变革。核心议题包括：BEV 失速是暂时噪音还是结构性信号？LFP、钠离子、全固态电池的多极化趋势？中国 GB38031-2025 安全法规是技术标准还是隐形贸易壁垒？该法规的解读将深刻影响日系、欧美系电池厂商及 OEM 的中长期战略。",
+    "highlights_zh": [
+      "BEV 失速论：噪音还是信号",
+      "电池多极化：LFP、钠离子、全固态",
+      "中国 GB38031-2025：隐形贸易壁垒",
+      "地缘政治：谁掌握电池标准"
+    ],
+    "entities": [
+      "BEV",
+      "LFP",
+      "钠离子电池",
+      "全固态电池",
+      "GB38031-2025"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219956.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219956.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:22:48.446Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1535492": {
+    "title_zh": "巴士司机日记：休息日的小东京之旅",
+    "summary_short": "巴士司机在休息日体验公共交通，从神社参拜到都电荒川线，推荐沿线的旅行路线。",
+    "summary_long": "本文是富士快线临时巴士司机的日记，讲述休息日如何利用公共交通进行一日游。作者从文京区的樱木神社开始，乘坐都营新宿线、丸之内线、都营巴士和都电荒川线，沿途拍摄并体验东京的公共交通魅力。",
+    "highlights_zh": [
+      "休息日不驾车",
+      "从樱木神社参拜开始一日行程",
+      "乘坐都电荒川线并拍摄贷切车",
+      "推荐沿线的旅行路线"
+    ],
+    "entities": [
+      "富士快线",
+      "都电荒川线",
+      "都营巴士",
+      "樱木神社"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/01123507/IMGL1477.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/03110541/LINE_ALBUM_20260521_260603_2-1024x768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/05/13221139/00_202605_bstp_001_head.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:22:49.358Z"
+  },
+  "https://bestcarweb.jp/money-insurance/car-insurance/1553389": {
+    "title_zh": "年行驶 5000 公里是分界线？详解里程联动保险是否划算",
+    "summary_short": "里程联动保险适合低里程用户，年行驶 5000 公里是分界线，超过则传统保险更划算。",
+    "summary_long": "里程联动保险根据行驶距离计算保费，适合不常开车的用户。年行驶 5000 公里是分界线，低于此里程可节省保费，高于则传统保险更划算。选择时需结合自身行驶习惯，避免盲目追求低价。",
+    "highlights_zh": [
+      "年行驶 5000 公里是分界线",
+      "低里程用户可节省保费",
+      "高里程用户传统保险更优",
+      "需结合自身行驶习惯选择"
+    ],
+    "entities": [
+      "里程联动保险",
+      "传统保险",
+      "行驶距离",
+      "保费"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18134912/s-AdobeStock_1965803084.jpg?v=1781758153",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18134912/s-AdobeStock_1965803084-600x327.jpg?v=1781758153",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02165734/AdobeStock_1133685024-1-600x337.jpeg?v=1780387055"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:22:51.219Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532423": {
+    "title_zh": "【猜车名】这些名车、珍车，你知道吗？第 789 回",
+    "summary_short": "猜车名系列第 789 回，聚焦第二代斯巴鲁 Legacy，回顾其设计、性能与市场成功。",
+    "summary_long": "猜车名系列第 789 回，聚焦第二代斯巴鲁 Legacy。该车于 1993 年发布，车长增加 60mm 但仍保持 5 号车尺寸。1996 年改款后，发动机输出提升至 280ps，媲美当时国产跑车。1995 年推出基于旅行版升高底盘的 Legacy Grand Wagon（即后来的 Outback）。第二代 Legacy 累计销量超 49 万辆，成为历代最畅销车型。",
+    "highlights_zh": [
+      "第二代 Legacy 于 1993 年发布",
+      "1996 年改款后马力达 280ps",
+      "1995 年推出 Grand Wagon（Outba…",
+      "累计销量超 49 万辆"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "Legacy",
+      "Outback"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28153524/main_subaru.jpg?v=1779950126",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28153524/main_subaru-600x400.jpg?v=1779950126",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28143449/main_former_0043l-600x400.jpg?v=1779946490"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:22:53.676Z"
+  },
+  "https://response.jp/article/2026/06/19/412915.html": {
+    "title_zh": "41 年专注四驱改装，JAOS 在 FIELD STYLE 展会上展现说服力",
+    "summary_short": "JAOS 在 FIELD STYLE 展会上展示改装版吉姆尼诺马德、RAV4 和得利卡 D:5，凭借 41 年四驱改装经验，让普通观众也能感受到与量产车的不同气场。",
+    "summary_long": "在 FIELD STYLE 展会现场，一对普通情侣被 JAOS 改装的铃木吉姆尼诺马德、丰田 RAV4 和三菱得利卡 D:5 所吸引，尽管他们并不了解改装车，但仍能感受到这些车辆散发出的独特气场和硬朗风格。JAOS 公关负责人吉田哲也表示，底盘升高是改装的关键。这家拥有 41 年四驱改装历史的品牌，通过专业技术和经验，让改装车即使对普通观众也展现出超越量产车的魅力。",
+    "highlights_zh": [
+      "普通情侣被 JAOS 改装车吸引",
+      "JAOS 展示吉姆尼诺马德、RAV4、得利卡 D:5…",
+      "41 年专注四驱改装",
+      "改装车与量产车空气感截然不同"
+    ],
+    "entities": [
+      "JAOS",
+      "铃木吉姆尼诺马德 | Suzuki Jimny Nomad",
+      "丰田 RAV4 | Toyota RAV4",
+      "三菱得利卡 D:5 | Mitsubishi Delica D:5",
+      "FIELD STYLE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219145.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219145.jpg",
+      "https://response.jp/imgs/fill2/2219150.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:22:56.566Z"
+  },
+  "https://response.jp/article/2026/06/19/412921.html": {
+    "title_zh": "AI 四足机器人将实现自卫队驻地自主警卫",
+    "summary_short": "GMO 互联网与未来机器人公司合作，为日本陆上自卫队开发搭载 AI 的四足步行机器人，实现驻地 24 小时自主巡逻警卫。",
+    "summary_long": "日本陆上自卫队为在全国驻地实现 24 小时自主警卫，委托 GMO 互联网集团与未来机器人公司共同开展“警卫用机器人（四足步行型）系统导入验证业务”。该项目旨在利用国产 AI 四足步行机器人自主巡逻驻地，将民间机器人技术与通信、安全技术应用于防卫领域。未来机器人负责机器人的企划、设计、开发，GMO 互联网集团负责项目统筹、通信基础设施构建、安全验证及质量管理，特别重视通信基础设施的坚固性和信息安全管理。",
+    "highlights_zh": [
+      "GMO 互联网与未来机器人联合承接自卫队警卫机器人项…",
+      "四足步行机器人搭载国产 AI",
+      "项目旨在将民间技术应用于防卫领域",
+      "通信安全与信息管理是重点"
+    ],
+    "entities": [
+      "GMO 互联网集团",
+      "未来机器人",
+      "陆上自卫队",
+      "四足步行机器人"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220151.gif",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220150.gif",
+      "https://response.jp/imgs/zoom1/2220152.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:22:57.405Z"
+  },
+  "https://response.jp/article/2026/06/19/412907.html": {
+    "title_zh": "CSPI 2026：国际建设·测量展创纪录规模，展示建设 DX 最前沿",
+    "summary_short": "第 8 届国际建设·测量展在幕张展览馆举办，606 家企业参展，展位达 3450 个，聚焦建设 DX 与自动化技术。",
+    "summary_long": "第 8 届国际建设·测量展（CSPI 2026）于 6 月 17 日至 20 日在千叶市幕张展览馆举行，展览面积约 6 万平方米，参展企业 606 家，展位数量达 3450 个，创历史新高。展会涵盖建设作业机械、测量仪器、无人机、远程操作及自动驾驶技术等，重点展示建设 DX、电动化、自动化及机器人应用，旨在解决行业劳动力短缺问题并提升生产效率。",
+    "highlights_zh": [
+      "606 家企业参展",
+      "聚焦建设机械自动化与电动化",
+      "无人机与远程操作技术成亮点",
+      "机器人应用应对人手不足"
+    ],
+    "entities": [
+      "国际建设·测量展 | CSPI",
+      "建设 DX",
+      "幕张展览馆",
+      "远程操作",
+      "无人机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220231.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220231.jpg",
+      "https://response.jp/imgs/fill2/2220237.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:00.183Z"
+  },
+  "https://response.jp/article/2026/06/19/412913.html": {
+    "title_zh": "NTN 平面天线减重 47%，NICT、夏普、三菱化学等联合开发，瞄准车载应用",
+    "summary_short": "NICT、夏普、三菱化学等联合开发 NTN 平面天线，成功减重 47%，为车载化铺路。",
+    "summary_long": "日本国立研究开发法人信息通信研究机构（NICT）、夏普、三菱化学及 TechLab 联合宣布，成功将 NTN（非地面网络）用平面天线重量减轻 47%，从 5.5kg 降至 2.9kg。NTN 利用卫星或高空平台（HAPS）实现山区、海上、离岛等地面通信困难区域的高速通信。该天线需具备高散热性能以应对卫星追踪产生的大量热量，同时为适配多种移动载体，超小型化与轻量化至关重要。",
+    "highlights_zh": [
+      "重量从 5.5kg 降至 2.9kg",
+      "由 NICT、夏普、三菱化学等联合开发",
+      "旨在实现车载等移动场景应用",
+      "解决卫星追踪高发热与轻量化矛盾"
+    ],
+    "entities": [
+      "NICT",
+      "夏普",
+      "三菱化学 | Mitsubishi Chemical",
+      "NTN",
+      "平面天线"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220307.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220307.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:01.330Z"
+  },
+  "https://response.jp/article/2026/06/19/412918.html": {
+    "title_zh": "Uber Eats 在轻井泽町和伊东市启动服务，拓展至两大度假区",
+    "summary_short": "Uber Eats 在长野县轻井泽町和静冈县伊东市启动服务，为度假区居民和游客提供便利。",
+    "summary_long": "Uber Eats Japan 宣布在长野县轻井泽町和静冈县伊东市启动服务。这两个地区是日本著名的度假胜地，吸引大量游客，同时近年也成为热门移居地。由于住宅区和别墅区分布广泛、旅游旺季交通需求增加以及老龄化带来的出行问题，当地对餐饮和购物便利性的需求日益增长。Uber Eats 将针对不同地区特点提供价值：在轻井泽町提升分散住宅区的便利性，在伊东市支持老龄化社区的日常生活。自 2016 年 9 月进入日本以来，Uber Eats 目前已覆盖全国 47 个都道府县，拥有 12 万家活跃加盟店和 12 万名活跃配送伙伴。",
+    "highlights_zh": [
+      "Uber Eats 在轻井泽町和伊东市启动服务",
+      "两大度假区面临住宅分散、交通需求高、老龄化等问题",
+      "服务旨在提升便利性",
+      "Uber Eats 已覆盖日本 47 都道府县"
+    ],
+    "entities": [
+      "Uber Eats",
+      "轻井泽町",
+      "伊东市",
+      "日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220329.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220329.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:03.972Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545669": {
+    "title_zh": "本田 WR-V 特别版“黑风格”值不值？差价 8.58 万日元",
+    "summary_short": "本田 WR-V 推出黑风格特别版，外观内饰黑化处理，Z 版差价 8.58 万日元，Z+版差价 3.08 万日元。",
+    "summary_long": "本田 WR-V 推出特别版车型“黑风格”，基于 Z 和 Z+配置打造，主要对外观和内饰进行黑化处理。外观方面，电动折叠后视镜、车门把手、鲨鱼鳍天线采用水晶黑珍珠色，17 英寸铝合金轮毂为贝尔利纳黑并配黑色轮毂螺母。内饰方面，配备黑色缝线真皮方向盘、钢琴黑方向盘装饰、黑色缝线软垫以及 Prime Smooth×织物组合座椅。动力总成不变，仍为 1.5L 汽油发动机配 CVT 变速箱，仅前驱，WLTC 油耗 16.2km/L。Z 版普通型与黑风格差价 8.58 万日元，Z+版差价 3.08 万日元。",
+    "highlights_zh": [
+      "外观内饰全面黑化",
+      "Z 版差价 8.58 万日元",
+      "动力油耗不变",
+      "提升精致感与高级感"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "WR-V",
+      "黑风格"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15094951/DSC0383_1.jpg?v=1781484593",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15094951/DSC0383_1-600x400.jpg?v=1781484593",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11153004/DSC2248_1-600x400.jpg?v=1781159405"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:05.529Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545620": {
+    "title_zh": "WR-V 对比 フロンク斯：本田的性价比 vs 铃木的全能",
+    "summary_short": "本田 WR-V 与铃木 Fronx 对比：WR-V 起价 214 万日元，主打低价；Fronx 起价 254 万日元，配置更丰富。",
+    "summary_long": "本田 WR-V 与铃木 Fronx 是两款备受关注的 200 万日元级 SUV。WR-V 以 214.94 万日元的起售价主打低价，而 Fronx 以 254.1 万日元起售，但配置更全面。WR-V 尺寸更大（长 4325mm），外观更硬朗，离地间隙 195mm；Fronx 则更紧凑（长 3995mm），搭载 1.5L 轻混系统，油耗更低（19.0km/L vs 16.4km/L）。安全配置方面，WR-V 全系标配 Honda SENSING，但 Fronx 在舒适性装备上更胜一筹。选择取决于用户更看重低价还是丰富配置。",
+    "highlights_zh": [
+      "WR-V 起价 214.94 万日元",
+      "WR-V 尺寸更大",
+      "Fronx 油耗更低",
+      "WR-V 全系标配 Honda SENSING"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "WR-V",
+      "铃木 | Suzuki",
+      "Fronx",
+      "Honda SENSING"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11153004/DSC2248_1.jpg?v=1781159405",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11153004/DSC2248_1-600x400.jpg?v=1781159405",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11134922/for20250701low_1-2-600x401.jpg?v=1781153363"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:08.451Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545914": {
+    "title_zh": "WR-V vs 雅力士 Cross：价格、空间、油耗全面对决",
+    "summary_short": "本田 WR-V 与丰田雅力士 Cross 两款热门紧凑型 SUV 对比，WR-V 空间大价格低，雅力士 Cross 油耗更优选择更多。",
+    "summary_long": "本田 WR-V 和丰田雅力士 Cross 是 200 万日元级别的人气紧凑型 SUV。WR-V 以宽敞空间和亲民价格见长，全系搭载 1.5L 汽油发动机，配置简洁；雅力士 Cross 则凭借出色的燃油经济性和丰富的动力选择（汽油/混动）吸引消费者。价格方面，WR-V 入门价略高，但中配 Z 版比雅力士 Cross 同配置便宜约 22 万日元，且尺寸更大、后排和行李厢更宽敞。油耗上，雅力士 Cross 混动版可达 30.8km/L，远优于 WR-V 的 16.4km/L。选择哪款取决于用户对空间或经济性的侧重。",
+    "highlights_zh": [
+      "WR-V 空间更大",
+      "雅力士 Cross 油耗优势明显",
+      "WR-V 全系仅 1.5L 汽油+CVT",
+      "雅力士 Cross 有混动可选"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "丰田 | Toyota",
+      "WR-V",
+      "雅力士 Cross",
+      "紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11093949/WR-V-065_1.jpg?v=1781138390",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11093949/WR-V-065_1-600x400.jpg?v=1781138390",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11153004/DSC2248_1-600x400.jpg?v=1781159405"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:10.337Z"
+  },
+  "https://response.jp/article/2026/06/19/412892.html": {
+    "title_zh": "五十铃与横滨市启动电池更换式电动垃圾车实证实验",
+    "summary_short": "五十铃与横滨市合作，启动电池更换式电动垃圾车实证实验，约 3 分钟完成电池更换，旨在验证实用性与稳定运行。",
+    "summary_long": "五十铃汽车与横滨市宣布，将在横滨市内启动电池更换式电动垃圾车的实证实验。该实验基于双方 2023 年 10 月签署的碳中和合作协定，旨在推动商用车的脱碳化。电池更换约 3 分钟完成，相比传统固定式电动车大幅缩短停机时间。垃圾车行驶路线固定，且频繁启停的特性与低噪音电动车高度契合，但电力消耗大，电池更换式车辆成为有效解决方案。",
+    "highlights_zh": [
+      "电池更换仅需约 3 分钟",
+      "验证实用性与稳定运行",
+      "基于 2023 年碳中和合作协定",
+      "推动“工作卡车”脱碳化"
+    ],
+    "entities": [
+      "五十铃",
+      "横滨市",
+      "电动垃圾车",
+      "电池更换式 EV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220128.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220128.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:12.410Z"
+  },
+  "https://response.jp/article/2026/06/19/412922.html": {
+    "title_zh": "H-One 2026 年 6 月人事变动",
+    "summary_short": "H-One 公布 2026 年 6 月 1 日及 7 月 1 日执行董事变动及外部董事辞职信息。",
+    "summary_long": "株式会社 H-One（总部位于埼玉县大宫区）宣布了 2026 年 4 月 1 日外部董事辞职，以及 6 月 1 日和 7 月 1 日执行董事的职务变动和委任事项变更。",
+    "highlights_zh": [
+      "外部董事于 4 月 1 日辞职",
+      "6 月 1 日执行董事变动",
+      "7 月 1 日委任事项变更"
+    ],
+    "entities": [
+      "H-One"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/1884670.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/1884670.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:13.204Z"
+  },
+  "https://response.jp/article/2026/06/19/412925.html": {
+    "title_zh": "Caterham SEVEN 340 SUPERSPRINT EDITION 日本限量 27 台",
+    "summary_short": "Caterham 推出 SEVEN 340 SUPERSPRINT EDITION，日本限量 27 台，售价 1249.6 万日元，致敬 1960 年代经典赛车。",
+    "summary_long": "Caterham Cars Japan 于 6 月 19 日发布 SEVEN 340 SUPERSPRINT EDITION，日本限量 27 台，售价 1249.6 万日元（含税）。该车基于 SEVEN 340R，灵感源自 1960 年代的 SEVEN SPRINT 和 SEVEN SUPER SPRINT，配备多项专属装备。英国工厂已于 5 月投产，预计 2026 年冬季交付。",
+    "highlights_zh": [
+      "日本限量 27 台",
+      "售价 1249.6 万日元",
+      "致敬 1960 年代经典赛车",
+      "2026 年冬季交付"
+    ],
+    "entities": [
+      "ケータハム",
+      "SEVEN 340 SUPERSPRINT EDITION",
+      "SEVEN 340R",
+      "SEVEN SPRINT",
+      "SEVEN SUPER SPRINT"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220380.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220380.jpg",
+      "https://response.jp/imgs/fill2/2220382.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:15.695Z"
+  },
+  "https://response.jp/article/2026/06/19/412920.html": {
+    "title_zh": "铃木将携 Hustler Tough Wild 和 Every J Limited 亮相 2026 东京户外展",
+    "summary_short": "铃木宣布参加 2026 东京户外展，展出 Hustler Tough Wild 和 Every J Limited 两款特别版车型。",
+    "summary_long": "铃木将于 6 月 26 日至 28 日在幕张展览馆举办的东京户外展 2026 上展出两款特别版车型：5 月 27 日改款上市的 Hustler Tough Wild 和 5 月 8 日改款上市的 Every J Limited。Hustler Tough Wild 采用粗犷前格栅和字母车标，新增林地卡其金属色；Every J Limited 基于 Every Join Turbo 打造，配备专属贴纸、枪金属色轮毂盖、LED 头灯及黑色门把手和保险杠，突出休闲风格。",
+    "highlights_zh": [
+      "铃木参展 2026 东京户外展",
+      "展出 Hustler Tough Wild 和 Ev…",
+      "Hustler Tough Wild 新增林地卡其色",
+      "Every J Limited 强化户外休闲风格"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Hustler Tough Wild",
+      "Every J Limited",
+      "东京户外展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220334.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220334.jpg",
+      "https://response.jp/imgs/fill2/2220335.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:16.808Z"
+  },
+  "https://response.jp/article/2026/06/19/412912.html": {
+    "title_zh": "动态地图在 Hugging Face 发布 AI 原生数据：自动驾驶交叉路口数据集",
+    "summary_short": "动态地图平台在 Hugging Face 上公开了面向自动驾驶的交叉路口多模态数据集，包含点云、图像、高精地图等，用于场景理解与安全验证。",
+    "summary_long": "动态地图平台（Dynamic Map Platform）在机器学习社区平台 Hugging Face 上公开了面向自动驾驶的“AI 原生数据”样本——交叉路口数据集。该数据集整合了点云、多视角相机图像、高精度位置信息、轨迹数据、高精度 3D 地图、语义标注及 3D 高斯泼溅（3DGS）数据，形成时空对齐的多模态数据。数据针对事故风险高的真实城市交叉路口，可用于高级场景理解与安全性验证。此举是该公司推进物理 AI 数据集业务、强化“Data for AI”数据供给的具体举措。",
+    "highlights_zh": [
+      "公开 AI 原生数据样本",
+      "多模态数据包括点云、图像、高精地图等",
+      "针对高事故风险的真实城市交叉路口",
+      "推动物理 AI 数据集业务与 Data for AI…"
+    ],
+    "entities": [
+      "动态地图平台",
+      "Hugging Face",
+      "自动驾驶",
+      "交叉路口数据集",
+      "多模态数据"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220303.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220303.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:19.637Z"
+  },
+  "https://bestcarweb.jp/feature/column/1552234": {
+    "title_zh": "轮胎转三圈就能看透一辆车？专业车手教你如何选到好车",
+    "summary_short": "专业车手分享选车秘诀：通过开门、坐姿、转向和短距离行驶，就能判断车辆本质，避免被外观和配置迷惑。",
+    "summary_long": "选车时，外观、品牌和配置往往容易让人忽略车辆的本质。专业车手指出，通过开门、坐姿、转向和短距离行驶，就能感受到车辆的做工和调校。轮胎转三圈，车辆的本质便会显现。在有限的试驾时间内，培养对车辆动态的感知能力，是选到好车的关键。",
+    "highlights_zh": [
+      "轮胎转三圈",
+      "开门、坐姿、转向感受做工",
+      "短距离行驶判断调校品质",
+      "避免被外观和配置迷惑"
+    ],
+    "entities": [
+      "专业车手"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17143444/5f866a79a8e8030885cbba8ebf8f1079.jpg?v=1781674486",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17143444/5f866a79a8e8030885cbba8ebf8f1079-600x400.jpg?v=1781674486",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11153004/DSC2248_1-600x400.jpg?v=1781159405"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:20.869Z"
+  },
+  "https://response.jp/article/2026/06/19/412895.html": {
+    "title_zh": "丰田海狮改款：符合联合国车辆安全法规，7 月 1 日发售",
+    "summary_short": "丰田海狮改款，座椅强度等符合联合国安全法规，7 月 1 日发售，保留预碰撞安全等配置。",
+    "summary_long": "丰田汽车 6 月 18 日宣布，对海狮（HiAce）系列（包括 Van、Wagon、Commuter）进行部分改良，将于 7 月 1 日发售。本次改良主要针对座椅周边安全性能，使其符合联合国欧洲经济委员会（UNECE）关于座椅强度、固定方式及头枕的车辆安全法规。此外，车辆继续搭载预碰撞安全系统（通过毫米波雷达与单眼摄像头检测行人、自行车、摩托车）、雷达巡航控制（全速域）及全景影像监视器等安全配置。",
+    "highlights_zh": [
+      "座椅强度等符合联合国安全法规",
+      "7 月 1 日发售",
+      "保留预碰撞安全系统",
+      "搭载雷达巡航与全景影像"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "海狮",
+      "联合国欧洲经济委员会",
+      "预碰撞安全系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220133.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220133.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:23.131Z"
+  },
+  "https://bestcarweb.jp/feature/column/1544109": {
+    "title_zh": "斯巴鲁森林人运动 EX 黑色精选版：外观党值得买吗？",
+    "summary_short": "斯巴鲁森林人运动 EX 黑色精选版以黑色外观套件提升精悍感，价格比普通版高 11 万日元，外观党满意度高。",
+    "summary_long": "斯巴鲁森林人运动 EX 黑色精选版是基于 1.8L 直喷涡轮增压发动机的运动 EX 车型打造的特别版，售价 430.1 万日元，比普通运动 EX 贵 11 万日元。该车通过黑色系外观套件（如深金属色 18 英寸轮毂、深灰色前后保险杠护板、侧裙及 D 柱饰板）强化了精悍气质，同时保留了森林人一贯的实用感和户外风格。车身提供 5 种颜色，包括独特的亮青铜金属色，兼顾户外感与高级感。对于追求外观个性的消费者来说，这款特别版车型的满意度很高。",
+    "highlights_zh": [
+      "黑色套件提升精悍感",
+      "比普通版贵 11 万日元",
+      "可选亮青铜金属色",
+      "保留实用与户外风格"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "森林人",
+      "运动 EX 黑色精选版"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11134922/for20250701low_1-2.jpg?v=1781153363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11134922/for20250701low_1-2-600x401.jpg?v=1781153363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11153004/DSC2248_1-600x400.jpg?v=1781159405"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:25.079Z"
+  },
+  "https://response.jp/article/2026/06/19/412903.html": {
+    "title_zh": "宾利东京塔特别灯光秀，影片《FULL SEND》超级跑车日本首秀",
+    "summary_short": "宾利将于 6 月 20 日在东京塔举办活动，展示影片《FULL SEND》中使用的特别版超级跑车，并点亮东京塔为赛车绿。",
+    "summary_long": "宾利与日本经销商 Cornes Motors 将于 6 月 20 日在东京塔南侧停车场举办“Bentley Supersports and New Continental GT S Launch”活动。现场将首次在日本展示今年 1 月发布的影片《SUPERSPORTS: FULL SEND》中使用的特别版新型超级跑车，同时展出新型 Continental GT S。当晚 19:15 至 24:00，东京塔将点亮宾利传统的“赛车绿”灯光。特别版车型基于后驱新型超级跑车，最大功率 666PS，并加装了液压手刹等专用装备，由传奇车手 Travis Pastrana 在宾利总部进行精准漂移表演时使用。",
+    "highlights_zh": [
+      "6 月 20 日东京塔南侧停车场举办宾利新车发布活动",
+      "影片《FULL SEND》特别版超级跑车日本首次公开",
+      "新型 Continental GT S 亮相",
+      "东京塔当晚点亮宾利赛车绿灯光"
+    ],
+    "entities": [
+      "宾利",
+      "Continental GT S",
+      "超级跑车",
+      "东京塔",
+      "Travis Pastrana"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220160.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220160.jpg",
+      "https://response.jp/imgs/fill2/2220171.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:27.641Z"
+  },
+  "https://response.jp/article/2026/06/19/412899.html": {
+    "title_zh": "保时捷 911 GT3 日本限定 30 台“匠韵版”融合江户切子与蓝染，售价 5357 万日元",
+    "summary_short": "保时捷日本为纪念成立 30 周年，推出 911 GT3 日本限定 30 台的“匠韵版”，融合江户切子与蓝染工艺，售价 5357 万日元。",
+    "summary_long": "保时捷日本为庆祝成立 30 周年，推出 911 GT3 日本限定特别版“匠韵版”，限量 30 台，仅提供左舵 6 速手动变速箱，售价 5357 万日元。该车由保时捷独家定制部门与德国总部合作打造，首次为日本市场设计，将 911 GT3 的赛道性能与日本传统工艺江户切子（玻璃雕刻）和蓝染（靛蓝染色）相结合。动力搭载 4.0 升自然吸气水平对置六缸发动机，最大功率 510 马力，峰值扭矩 450 牛·米，并标配 Manthey 套件，包括可调悬架、高性能刹车和碳纤维空气动力学组件，提升赛道表现的同时兼顾日常实用性。",
+    "highlights_zh": [
+      "日本限定 30 台",
+      "融合江户切子与蓝染传统工艺",
+      "4.0L 水平对置六缸 510 马力",
+      "标配 Manthey 套件"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3",
+      "Manthey 套件",
+      "江户切子",
+      "蓝染"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220134.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220134.jpg",
+      "https://response.jp/imgs/fill2/2220135.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:29.458Z"
+  },
+  "https://bestcarweb.jp/feature/column/1549255": {
+    "title_zh": "丰田兰德酷路泽 75 年历史回顾：从 BJ 到 70 系，硬派 SUV 传奇",
+    "summary_short": "丰田兰德酷路泽 75 年历史回顾，从 1951 年 BJ 型到 70 系，硬派 SUV 传奇车型的进化与传承。",
+    "summary_long": "丰田兰德酷路泽作为日本硬派 SUV 的代表，自 1951 年诞生以来已走过 75 年。从初代丰田吉普 BJ 型，到 1954 年更名为兰德酷路泽，再到 20 系、40 系、60 系及 70 系的演进，每一代都强化了越野性能与可靠性。40 系创造了“ヨンマル”传奇，而 70 系则延续了硬派基因，至今仍受全球用户信赖。",
+    "highlights_zh": [
+      "1951 年丰田吉普 BJ 型诞生",
+      "1954 年正式命名兰德酷路泽",
+      "40 系创造“ヨンマル”传奇",
+      "70 系延续硬派 SUV 基因"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽",
+      "BJ 型",
+      "40 系",
+      "70 系"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17111736/s-LAND-CRUISER-FJ_045.jpg?v=1781662657",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17111736/s-LAND-CRUISER-FJ_045-600x400.jpg?v=1781662657",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/11153004/DSC2248_1-600x400.jpg?v=1781159405"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:31.825Z"
+  },
+  "https://www.motor1.com/news/798792/audi-retainer-clip-mobile-mechanic-100-dollars/": {
+    "title_zh": "移动修理工收 100 美元修好奥迪异响，零件仅 5 美元引争议",
+    "summary_short": "移动修理工用 5 美元刹车卡扣解决奥迪异响，收费 100 美元引发 TikTok 热议，用户质疑价格是否过高。",
+    "summary_long": "一位移动修理工为一名奥迪车主诊断并修复了持续数月的前轮异响，仅更换了一个价值 5 美元的刹车卡扣，但收取了 100 美元服务费。车主起初感激，但随后在 TikTok 上分享经历，引发网友对收费是否合理的激烈讨论。视频观看量超过 7 万次，部分观众认为修理工收费过高，忽略了其经验和便利性的价值。",
+    "highlights_zh": [
+      "零件成本仅 5 美元",
+      "服务费 100 美元",
+      "TikTok 观看超 7 万次",
+      "引发收费合理性讨论"
+    ],
+    "entities": [
+      "奥迪 | Audi"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPjA6/s1/mobile-mechanic-charges-woman-100-to-fix-audi..jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:32.750Z"
+  },
+  "https://www.thedrive.com/news/a-lamborghini-for-23-turos-renting-italian-cars-crazy-cheap-as-a-world-cup-promo": {
+    "title_zh": "23 美元租兰博基尼？Turo 借世界杯促销意大利车",
+    "summary_short": "Turo 推出世界杯促销，意大利车日租仅 23 美元，包括兰博基尼等车型，覆盖 11 个城市。",
+    "summary_long": "汽车共享平台 Turo 推出“Turo Takes Italy to the Game”促销活动，本周末部分意大利车型日租仅 23 美元。虽然意大利未晋级 2026 年世界杯，但该活动让用户以超低价租到兰博基尼等意大利车。活动从 6 月 17 日午夜开始，先到先得，覆盖亚特兰大、波士顿、休斯顿等 11 个城市，租期从 6 月 19 日上午 10 点至 22 日上午 10 点。",
+    "highlights_zh": [
+      "意大利车日租仅 23 美元",
+      "包括兰博基尼等车型",
+      "覆盖 11 个北美城市",
+      "先到先得"
+    ],
+    "entities": [
+      "Turo",
+      "兰博基尼 | Lamborghini",
+      "世界杯",
+      "意大利"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/turo-lambo.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Italian-Turo2.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:34.954Z"
+  },
+  "https://www.motor1.com/news/799202/waymo-robotaxis-recall-construction-zones/": {
+    "title_zh": "Waymo 因自动驾驶出租车可能驶入高速公路施工区发起大规模召回",
+    "summary_short": "Waymo 召回近 4000 辆自动驾驶出租车，因软件问题可能导致车辆驶入封闭的高速公路施工区，这是两个月内第二次召回。",
+    "summary_long": "Alphabet 旗下 Waymo 在美国召回 3871 辆自动驾驶出租车，原因是车辆可能驶入封闭的高速公路施工区。该问题源于软件缺陷，Waymo 正在开发修复方案，期间车辆将被限制在高速公路行驶。NHTSA 记录显示至少发生 13 起相关事件，分别发生在凤凰城和旧金山。这是 Waymo 两个月内第二次召回，此前因车辆在得克萨斯州驶入积水道路而召回。",
+    "highlights_zh": [
+      "近 4000 辆 Waymo 因软件问题被召回",
+      "车辆可能驶入封闭高速公路施工区",
+      "至少 13 起相关事件",
+      "两个月内第二次召回"
+    ],
+    "entities": [
+      "Waymo",
+      "Alphabet",
+      "NHTSA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo2wXX/s1/waymo-jaguar-i-pace.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:35.964Z"
+  },
+  "https://www.motor1.com/news/798937/does-honda-accord-have-spare-tire/": {
+    "title_zh": "女子购买本田雅阁混动版，发现缺少备胎引发争议",
+    "summary_short": "一位车主发现 2022 款本田雅阁混动版没有备胎，引发关于现代汽车是否应标配备胎的讨论。",
+    "summary_long": "一位 TikTok 用户 Andrea Crisalli 购买了一辆 2022 款本田雅阁混动版，随后发现车辆没有配备备胎，只有补胎和充气工具包。她在视频中表达不满，引发网友热议。部分评论指出混动车型通常不配备胎以减轻重量和节省空间，但车主认为在高速爆胎时补胎工具难以应对严重损坏。",
+    "highlights_zh": [
+      "车主发现 2022 款本田雅阁混动版无备胎",
+      "车辆仅提供补胎和充气工具包",
+      "网友争论混动车是否应标配备胎"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅阁 | Accord"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWkMy/s1/woman-buys-2022-honda-accord-hybrid.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:38.145Z"
+  },
+  "https://www.motor1.com/news/799185/gordon-murray-t50s-niki-lauda-customer-car/": {
+    "title_zh": "Gordon Murray 首台 T.50s Niki Lauda 即将交付",
+    "summary_short": "Gordon Murray 首台 T.50s Niki Lauda 客户车亮相，致敬 1974 年 F1 首胜，搭载 Cosworth V12 引擎，限量 25 台已售罄。",
+    "summary_long": "Gordon Murray 发布了首台 T.50s Niki Lauda 客户车，该车为赛道版超跑，灵感源自 Murray 在 1974 年南非大奖赛的首个 F1 胜利。车身采用白色涂装和南非国旗风格拉花，搭载 3.9 升 Cosworth V12 发动机，最大功率 761 马力，匹配六速拨片换挡变速箱。中央驾驶座配合可调空气动力学套件可产生 2645 磅下压力。该车限量 25 台，起售价 300 万美元，已全部售罄，将在古德伍德速度节首次公开亮相。",
+    "highlights_zh": [
+      "致敬 1974 年 F1 首胜",
+      "3.9 升 Cosworth V12",
+      "中央驾驶座",
+      "限量 25 台"
+    ],
+    "entities": [
+      "Gordon Murray",
+      "T.50s Niki Lauda",
+      "Cosworth",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KZ13/s1/gordon-murray-t.50s-niki-lauda.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:40.019Z"
+  },
+  "https://www.thedrive.com/news/broken-down-on-the-side-of-a-mountain-rivians-ceo-says-theyll-come-to-you": {
+    "title_zh": "Rivian CEO：无论你在哪，我们都来救援",
+    "summary_short": "Rivian CEO 表示，其移动服务车队约 800 辆车，配备专用卡车，可到达任何地点为用户提供维修服务。",
+    "summary_long": "Rivian CEO RJ Scaringe 在接受 The Drive 采访时透露，公司拥有约 800 辆移动服务车辆，其中包含专用卡车，能够到达任何地点为用户提供维修服务。此前 Rivian 曾因服务等待时间长达 40-50 天而备受诟病，但 Scaringe 表示这些问题已成为过去，移动服务是解决方案的关键部分。",
+    "highlights_zh": [
+      "Rivian 移动服务车队约 800 辆车",
+      "配备专用卡车可到达任何地点",
+      "此前服务等待时间长达 40-50 天",
+      "CEO 称服务问题已成过去"
+    ],
+    "entities": [
+      "Rivian",
+      "R2",
+      "移动服务",
+      "RJ Scaringe"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/QUAD.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2157492330-copy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:41.034Z"
+  },
+  "https://insideevs.com/news/799184/honda-quantumscape-solid-state-batteries/": {
+    "title_zh": "本田与 QuantumScape 合作开发固态电池",
+    "summary_short": "本田与固态电池初创公司 QuantumScape 达成联合研究协议，共同开发下一代固态电池及制造工艺。",
+    "summary_long": "本田与电池初创公司 QuantumScape 宣布达成联合研究协议，共同开发固态电池及制造工艺。本田此前已秘密评估 QuantumScape 的技术，如今双方进入下一阶段并公开合作。固态电池被视为电池技术的“圣杯”，理论上比现有锂离子电池更安全、充电更快、能量密度更高，但量产难度大。本田近期取消了基于通用平台的多款下一代电动车计划，但仍看好电动车长期前景。",
+    "highlights_zh": [
+      "本田与 QuantumScape 达成固态电池联合研…",
+      "固态电池被视为更安全、充电更快、能量密度更高的技术",
+      "本田近期取消多款下一代电动车计划"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "QuantumScape",
+      "固态电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgll43/s1/quantumscape-battery-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:43.591Z"
+  },
+  "https://www.motor1.com/news/799060/mazda-cx-5-vs-toyota-rav4/": {
+    "title_zh": "马自达销售员：2026 款 CX-5 相比丰田 RAV4 有一大优势",
+    "summary_short": "马自达销售员指出，2026 款 CX-5 的行李厢采用地毯材质，优于丰田 RAV4 的硬塑料，可减少划痕并提升耐用性。",
+    "summary_long": "在一段 TikTok 视频中，马自达销售员 Bailey Wells 对比了 2026 款 CX-5 与丰田 RAV4，强调 CX-5 的行李厢地毯材质是其关键优势。他指出，RAV4 无论哪个配置级别，行李厢均为硬塑料，容易在装卸货物时产生划痕；而 CX-5 的地毯材质能更好地保护内饰，长期使用后仍能保持良好外观。",
+    "highlights_zh": [
+      "CX-5 行李厢采用地毯材质",
+      "RAV4 行李厢为硬塑料",
+      "地毯材质可保护内饰外观"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "丰田 | Toyota",
+      "RAV4"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WEqqR/s1/mazda-salesman-says-the-2926-cx-5-has-one-major-advantage.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:44.379Z"
+  },
+  "https://www.motor1.com/news/799177/porsche-911-gt3-envy/": {
+    "title_zh": "保时捷推出稀有 911 GT3 Earls Court 51 版",
+    "summary_short": "保时捷为庆祝进入英国 75 周年，推出限量 51 台的 911 GT3 Earls Court 51 版，采用经典绿色涂装和复古内饰。",
+    "summary_long": "为纪念保时捷在英国交付 75 周年，保时捷基于 911 GT3 Touring Package 打造了 Earls Court 51 特别版。该车采用 Earls Court Green 金属漆，内饰为夜绿与粉笔灰皮革搭配 Paldao 木饰，并融入 356 风格元素。仅生产 51 台，将于 6 月 20-21 日在银石赛道举办的 Icons of Porsche 活动中首次公开亮相。",
+    "highlights_zh": [
+      "限量 51 台",
+      "采用 Earls Court Green 金属漆",
+      "内饰融合夜绿与粉笔灰皮革及木饰",
+      "配备 356 风格后引擎盖和木制换挡杆"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3",
+      "Earls Court 51 Edition",
+      "银石赛道"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BZG8/s1/porsche-911-gt3-earls-court-51-edition.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T05:23:47.141Z"
   }
 }

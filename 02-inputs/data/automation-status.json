@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-18T16:43:55.880Z",
+    "generated_at": "2026-06-19T05:22:43.025Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 357,
-    "deepseek_untranslated_before_run": 43,
-    "newly_fetched_articles": 43,
-    "newly_fetched_untranslated": 43,
+    "deepseek_translated_before_run": 368,
+    "deepseek_untranslated_before_run": 32,
+    "newly_fetched_articles": 32,
+    "newly_fetched_untranslated": 32,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 43,
+    "translation_queue_count": 32,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.6.18",
-        "title": "Volkswagen Has 10+ New Models Coming In 2026. Here's All Of Them",
-        "url": "https://www.motor1.com/news/799105/new-volkswagen-models-2026/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.18",
-        "title": "Slate Shares Fresh Details On Its 'Mid-$20,000' Electric Truck",
-        "url": "https://www.motor1.com/news/799166/slate-truck-ev-details-options/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.18",
-        "title": "A GMC Dealer Sold 99% of Its Cars. GM Still Calls It a Failure and Won’t Send More",
-        "url": "https://www.thedrive.com/news/a-gmc-dealer-sold-99-of-its-cars-gm-still-calls-it-a-failure-and-wont-send-more"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.18",
-        "title": "Forget Solid-State. This EV Battery Breakthrough Is Ready To Upend The Market Now",
-        "url": "https://insideevs.com/news/799157/general-motors-silicon-anodes-solid-state-batteries/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.18",
-        "title": "This Is The World's Fastest Lego Car",
-        "url": "https://www.motor1.com/news/799141/koenigsegg-lego-fastest-69-mph/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.18",
-        "title": "Waymo Just Recalled A Bunch Of Robotaxis Because They Could Drive Into Closed Highway Construction Lanes",
-        "url": "https://insideevs.com/news/799151/waymo-robotaxi-recall/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.18",
-        "title": "Mazda, Once the Loudest Critic of Touchscreens, Now Says They’re Safer Than Buttons: TDS",
-        "url": "https://www.thedrive.com/news/mazda-once-the-loudest-critic-of-touchscreens-now-says-theyre-safer-than-buttons-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.18",
-        "title": "Land Rover Found An Unlikely Partner To Build SUVs In America",
-        "url": "https://www.motor1.com/news/799053/land-rover-us-suv-production/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.18",
-        "title": "'Never Trust Facebook Mechanics': Mechanic Uses Controversial Method To Work On Car Part. So, What's The Right Way To Do It?",
-        "url": "https://www.motor1.com/news/798934/how-to-remove-stabilizer-links/"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "「このフロントサスは！」ビモータ『TESI H2 TERA』に注目！ 638万円の価格に「欲しいけど金はない」の声も",
-        "url": "https://response.jp/article/2026/06/18/412891.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "『ハイエース』専用LEDコンソールボックスが刷新！ ボルト固定でフィット感向上",
-        "url": "https://response.jp/article/2026/06/18/412890.html"
+        "time": "2026.6.19",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 「電池戦争2036」10年後の産業地図－技術・地政学・規制が同時に書き換える世界－",
+        "url": "https://response.jp/article/2026/06/19/412919.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.18",
-        "title": "【異色コラボ!?】サファリパークのクルマに#オプカン!? 日々オフロードするプロも納得のデキ!! しかもパジェロじゃないとダメなんです!! 号泣モノのコメントも【はたらく#オプカン】【PR】",
-        "url": "https://bestcarweb.jp/feature/tieup/1538824"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "8本出しマフラーは？ アストンマーティン『ヴァンテージRS』開発中か ニュルで最強モデルをスクープ",
-        "url": "https://response.jp/article/2026/06/18/412876.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "BMWグループとMistral AI、クラッシュシミュレーションに産業データ活用",
-        "url": "https://response.jp/article/2026/06/18/412880.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "NTT東日本・NTTモビリティ、自動運転を社会実装へ…東京武蔵野市と連携協定",
-        "url": "https://response.jp/article/2026/06/18/412875.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "WECARS、指定工場の承認を2店舗で取得…札幌清田店と名取店",
-        "url": "https://response.jp/article/2026/06/18/412878.html"
+        "time": "2026.6.19",
+        "title": "【バス運転士日誌】乗務のない日にプチ東京旅行？ だけど乗ってしまったからには沿線を案内するぜ！",
+        "url": "https://bestcarweb.jp/busmagazine/1535492"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.18",
-        "title": "アウトランダーは雪道に強いだけじゃない!! 補助金84万円で狙うS-AWCの実力!!",
-        "url": "https://bestcarweb.jp/news/1545968"
+        "time": "2026.6.19",
+        "title": "【年間5000kmが境界線!?】走行距離連動保険は本当に得なのか!? 分岐点となる具体的数値を解説！",
+        "url": "https://bestcarweb.jp/money-insurance/car-insurance/1553389"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.19",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第789回",
+        "url": "https://bestcarweb.jp/feature/column/1532423"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "アルコールチェック管理「アルキラーNEX」、自動点呼機能を国土交通省が認定…業務前・業務後の両方",
-        "url": "https://response.jp/article/2026/06/18/412877.html"
+        "time": "2026.6.19",
+        "title": "41年ヨンクひと筋---FIELD STYLEで見えた『JAOS』の説得力",
+        "url": "https://response.jp/article/2026/06/19/412915.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "ガラスコーティングを福利厚生に、全従業員の自家用車に導入…岐阜のITreat",
-        "url": "https://response.jp/article/2026/06/18/412869.html"
+        "time": "2026.6.19",
+        "title": "AI搭載四足歩行ロボットで自衛隊駐屯地警備を自律化へ GMOインターネットと未来ロボット",
+        "url": "https://response.jp/article/2026/06/19/412921.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.18",
-        "title": "カワサキ『W230』 と『MEGURO S1』をリコール…方向指示器が点灯しない",
-        "url": "https://response.jp/article/2026/06/18/412882.html"
+        "time": "2026.6.19",
+        "title": "CSPI：国際 建設・測量展2026、過去最多3450小間で開催中---建設DX最前線",
+        "url": "https://response.jp/article/2026/06/19/412907.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "NTN向け平面アンテナを47%軽量化、NICT・シャープ・三菱ケミカルらが共同開発…車載化も視野に",
+        "url": "https://response.jp/article/2026/06/19/412913.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "Uber Eats 、軽井沢町・伊東市でサービス開始…リゾート地2エリアに拡大",
+        "url": "https://response.jp/article/2026/06/19/412918.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.19",
+        "title": "WR-Vの特別仕様車ブラックスタイルは買いか？ 8万5800円差の黒コーデをチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1545669"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.19",
+        "title": "WR-V対フロンクス!! 安さのホンダか、全部入りのスズキか!!",
+        "url": "https://bestcarweb.jp/feature/column/1545620"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.19",
+        "title": "WR-V対ヤリスクロス!! 価格、広さ、燃費で選ぶコンパクトSUV対決",
+        "url": "https://bestcarweb.jp/feature/column/1545914"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "いすゞと横浜市、バッテリー交換式EV塵芥車の実証実験へ…約3分で交換完了",
+        "url": "https://response.jp/article/2026/06/19/412892.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "エイチワン・人事情報 2026年6月1日付・7月1日付",
+        "url": "https://response.jp/article/2026/06/19/412922.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "ケータハム『SEVEN 340』、「SUPERSPRINT EDITION」は日本限定27台…1249万6000円",
+        "url": "https://response.jp/article/2026/06/19/412925.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "スズキ、『ハスラー タフワイルド』と『エブリイ Jリミテッド』出展へ…東京アウトドアショー 2026",
+        "url": "https://response.jp/article/2026/06/19/412920.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "ダイナミックマップ、AIネイティブデータを「Hugging Face」で公開…自動運転向け交差点データセット",
+        "url": "https://response.jp/article/2026/06/19/412912.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.19",
+        "title": "タイヤが3回転もすればクルマの本質は見えてくる!? プロドライバーが教える「失敗しない」イイ車の見分け方！",
+        "url": "https://bestcarweb.jp/feature/column/1552234"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "トヨタ『ハイエース』、一部改良で国連の車両安全規則に適合…7月1日発売",
+        "url": "https://response.jp/article/2026/06/19/412895.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.19",
+        "title": "フォレスター スポーツEXブラックセレクションは見た目買いしていい？ 黒系特別仕様車の満足度!!",
+        "url": "https://bestcarweb.jp/feature/column/1544109"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27774919585",
-    "sha": "c3225f0ae0259b52d79afb873da808c8df1745c5",
-    "completed_at": "2026-06-18T16:45:25.903Z",
+    "run_id": "27807182563",
+    "sha": "c3b2927f25617cce1cb23a4457ee4bf202f535fa",
+    "completed_at": "2026-06-19T05:23:47.441Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 43,
-    "queued_articles": 43,
-    "processed": 43,
-    "started_at": "2026-06-18T16:43:56.183Z",
-    "finished_at": "2026-06-18T16:45:25.648Z",
+    "scoped_articles": 32,
+    "queued_articles": 32,
+    "processed": 32,
+    "started_at": "2026-06-19T05:22:43.353Z",
+    "finished_at": "2026-06-19T05:23:47.152Z",
     "success": true,
     "error": ""
   }
