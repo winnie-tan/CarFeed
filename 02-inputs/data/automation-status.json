@@ -1,6 +1,6 @@
 {
   "workflow": {
-    "generated_at": "2026-06-19T05:22:43.025Z",
+    "generated_at": "2026-06-19T16:15:25.209Z",
     "articles_in_feed": 400,
     "deepseek_translated_before_run": 368,
     "deepseek_untranslated_before_run": 32,
@@ -11,130 +11,130 @@
     "translation_queue_count": 32,
     "translation_queue_preview": [
       {
+        "source": "Motor1",
+        "time": "2026.6.19",
+        "title": "The Last New Cars You Can Still Buy For Under $25,000",
+        "url": "https://www.motor1.com/features/799196/new-cars-under-25000-2026/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.19",
+        "title": "Turns Out You Can Buy an Extension Cord for Your EV Charger",
+        "url": "https://www.thedrive.com/news/turns-out-you-can-buy-an-extension-cord-for-your-ev-charger"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.19",
+        "title": "2026 Chevrolet Corvette E-Ray Quick Review: Slept On and Superb",
+        "url": "https://www.thedrive.com/car-reviews/2026-chevrolet-corvette-e-ray-review"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.19",
+        "title": "Why Aren't There More GTI And R Models In America? Volkswagen Explains",
+        "url": "https://www.motor1.com/news/799190/why-arent-there-more-gti-r-models-volkswagen/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.19",
+        "title": "The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packing a V8",
+        "url": "https://www.thedrive.com/news/the-2026-mercedes-benz-amg-e53-wagon-packs-a-lot-of-punch-without-packing-a-v8"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.6.19",
-        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 「電池戦争2036」10年後の産業地図－技術・地政学・規制が同時に書き換える世界－",
-        "url": "https://response.jp/article/2026/06/19/412919.html"
+        "title": "「サブウーファー」は「ボックス」で音が変わる！ そのメカニズムを解説！［低音を制する者はカーオーディオを制す］",
+        "url": "https://response.jp/article/2026/06/19/412942.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "「発売されたら即買い」トヨタ『カローラクロス』がピックアップトラックに!? スクープ情報にSNS興奮",
+        "url": "https://response.jp/article/2026/06/19/412947.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.19",
-        "title": "【バス運転士日誌】乗務のない日にプチ東京旅行？ だけど乗ってしまったからには沿線を案内するぜ！",
-        "url": "https://bestcarweb.jp/busmagazine/1535492"
+        "title": "30kg積める!! 旅や仕事にも使える電動アシスト3輪自転車が注目の理由",
+        "url": "https://bestcarweb.jp/news/1548368"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "AI自律走行トラクターを香港・上海など主要空港に導入、航空貨物の無人化加速…Westwell",
+        "url": "https://response.jp/article/2026/06/19/412932.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "AOZORA COMPANY、北海道でロードサービス開始",
+        "url": "https://response.jp/article/2026/06/19/412941.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.19",
+        "title": "Florida Man Drains All The Oil Out Of A Nissan. Then He Replaces It With Maple Syrup From Dollar General: 'I Think It Runs Better'",
+        "url": "https://www.motor1.com/news/799182/maple-syrup-engine-oil/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "SDV時代に対応、COVESAとJASPARがMoU締結…VSS/VISSとYoriito連携へ",
+        "url": "https://response.jp/article/2026/06/19/412940.html"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.19",
+        "title": "The Best Power-Adder for Aircooled Porsche 911s Just Might Be This Seamless Hybrid System",
+        "url": "https://www.thedrive.com/news/the-best-power-adder-for-aircooled-porsche-911s-just-might-be-this-seamless-hybrid-system"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.19",
+        "title": "The New Chevy Bolt Was Driven Until It Died. Here’s What Its Battery Buffer Looks Like",
+        "url": "https://insideevs.com/news/799204/new-chevy-bolt-ev-battery-buffer-reserve-range/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "TTS、SORACOM Partner Spaceアワード2025最優秀賞を受賞…自動車販売向けにGPS・通信で車両遠隔制御",
+        "url": "https://response.jp/article/2026/06/19/412943.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.19",
+        "title": "クスリのアオキホールディングス、「cars WELLNESS」導入…従業員と社用車向けに",
+        "url": "https://response.jp/article/2026/06/19/412944.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.19",
-        "title": "【年間5000kmが境界線!?】走行距離連動保険は本当に得なのか!? 分岐点となる具体的数値を解説！",
-        "url": "https://bestcarweb.jp/money-insurance/car-insurance/1553389"
+        "title": "コワモテ路線へ回帰で顔つきが激変!! ホンダ N-BOX改良モデル先行公開！ 迫力のカスタム＆黒づくめの特別仕様車ブラックスタイルも降臨!!",
+        "url": "https://bestcarweb.jp/newcar/1554174"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.19",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第789回",
-        "url": "https://bestcarweb.jp/feature/column/1532423"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "41年ヨンクひと筋---FIELD STYLEで見えた『JAOS』の説得力",
-        "url": "https://response.jp/article/2026/06/19/412915.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "AI搭載四足歩行ロボットで自衛隊駐屯地警備を自律化へ GMOインターネットと未来ロボット",
-        "url": "https://response.jp/article/2026/06/19/412921.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "CSPI：国際 建設・測量展2026、過去最多3450小間で開催中---建設DX最前線",
-        "url": "https://response.jp/article/2026/06/19/412907.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "NTN向け平面アンテナを47%軽量化、NICT・シャープ・三菱ケミカルらが共同開発…車載化も視野に",
-        "url": "https://response.jp/article/2026/06/19/412913.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "Uber Eats 、軽井沢町・伊東市でサービス開始…リゾート地2エリアに拡大",
-        "url": "https://response.jp/article/2026/06/19/412918.html"
+        "title": "さらに深化したコンケイブに、大胆な“えぐり”のスポーク!! ワークの放つ「バックレーベル ジースト BSTX」がたまらん迫力",
+        "url": "https://bestcarweb.jp/news/car-accessory/1547929"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.19",
-        "title": "WR-Vの特別仕様車ブラックスタイルは買いか？ 8万5800円差の黒コーデをチェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1545669"
+        "title": "スバル クロストレックは今こそ買いか？ 改良待ちモデルが多いなか選べる貴重なスバル車！",
+        "url": "https://bestcarweb.jp/feature/column/1548503"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.19",
-        "title": "WR-V対フロンクス!! 安さのホンダか、全部入りのスズキか!!",
-        "url": "https://bestcarweb.jp/feature/column/1545620"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "WR-V対ヤリスクロス!! 価格、広さ、燃費で選ぶコンパクトSUV対決",
-        "url": "https://bestcarweb.jp/feature/column/1545914"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "いすゞと横浜市、バッテリー交換式EV塵芥車の実証実験へ…約3分で交換完了",
-        "url": "https://response.jp/article/2026/06/19/412892.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "エイチワン・人事情報 2026年6月1日付・7月1日付",
-        "url": "https://response.jp/article/2026/06/19/412922.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "ケータハム『SEVEN 340』、「SUPERSPRINT EDITION」は日本限定27台…1249万6000円",
-        "url": "https://response.jp/article/2026/06/19/412925.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "スズキ、『ハスラー タフワイルド』と『エブリイ Jリミテッド』出展へ…東京アウトドアショー 2026",
-        "url": "https://response.jp/article/2026/06/19/412920.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "ダイナミックマップ、AIネイティブデータを「Hugging Face」で公開…自動運転向け交差点データセット",
-        "url": "https://response.jp/article/2026/06/19/412912.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "タイヤが3回転もすればクルマの本質は見えてくる!? プロドライバーが教える「失敗しない」イイ車の見分け方！",
-        "url": "https://bestcarweb.jp/feature/column/1552234"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "トヨタ『ハイエース』、一部改良で国連の車両安全規則に適合…7月1日発売",
-        "url": "https://response.jp/article/2026/06/19/412895.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "フォレスター スポーツEXブラックセレクションは見た目買いしていい？ 黒系特別仕様車の満足度!!",
-        "url": "https://bestcarweb.jp/feature/column/1544109"
+        "title": "そんなにリセールや周囲の目が気になるのか!? 愛車くらい好きな色でいいじゃないかと思わせる攻めた色のクルマをイッキ見！",
+        "url": "https://bestcarweb.jp/feature/column/1549172"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27807182563",
-    "sha": "c3b2927f25617cce1cb23a4457ee4bf202f535fa",
-    "completed_at": "2026-06-19T05:23:47.441Z",
+    "run_id": "27836738608",
+    "sha": "52e07544c2381c535abaa7cd3cb407f8cf1745af",
+    "completed_at": "2026-06-19T16:16:41.856Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -148,8 +148,8 @@
     "scoped_articles": 32,
     "queued_articles": 32,
     "processed": 32,
-    "started_at": "2026-06-19T05:22:43.353Z",
-    "finished_at": "2026-06-19T05:23:47.152Z",
+    "started_at": "2026-06-19T16:15:25.517Z",
+    "finished_at": "2026-06-19T16:16:41.610Z",
     "success": true,
     "error": ""
   }

@@ -42375,5 +42375,748 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-19T05:23:47.141Z"
+  },
+  "https://www.thedrive.com/news/turns-out-you-can-buy-an-extension-cord-for-your-ev-charger": {
+    "title_zh": "原来你可以为电动车充电器买一根延长线",
+    "summary_short": "雪佛兰 Silverado EV 因车身过长无法停进车库，作者发现使用 EV 充电器延长线即可解决这一尴尬问题。",
+    "summary_long": "雪佛兰 Silverado EV 车长 19.4 英尺，无法停进作者的车库。对于燃油车，停在户外只是弄脏车身，但电动车需要充电，这成了新难题。作者发现，A2ZEV、EVDance、Vevor、SKYSHALO EV 等公司都生产 J1772 和 NACS 规格的 EV 充电器延长线，可以轻松解决充电距离不足的问题。",
+    "highlights_zh": [
+      "雪佛兰 Silverado EV 车长 19.4 英…",
+      "电动车停在户外面临充电难题",
+      "多家公司提供 J1772 和 NACS 规格延长线",
+      "延长线让户外充电变得简单"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Silverado EV",
+      "A2ZEV",
+      "J1772",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0063_759c80-e1781730257374.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0066_c12593.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0065_245865.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:29.435Z"
+  },
+  "https://www.motor1.com/features/799196/new-cars-under-25000-2026/": {
+    "title_zh": "美国市场仅剩 7 款低于 2.5 万美元的新车",
+    "summary_short": "美国市场低于 2.5 万美元的新车仅剩 7 款，最便宜的现代 Venue 起价 22,650 美元。",
+    "summary_long": "美国市场低于 2.5 万美元的新车正在减少，目前仅剩 7 款。最便宜的是现代 Venue，起价 22,650 美元（含运费），搭载 1.6 升四缸发动机，配备无线 Apple CarPlay 和 Android Auto。其次是雪佛兰 Trax，起价 23,495 美元，是唯一低于 2.5 万美元的美国品牌车型。",
+    "highlights_zh": [
+      "低于 2.5 万美元的新车仅剩 7 款",
+      "最便宜的是现代 Venue",
+      "雪佛兰 Trax 是唯一低于 2.5 万美元的美国车",
+      "所有价格已包含目的地费用"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Venue",
+      "雪佛兰",
+      "Trax"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPZzj/s1/25-000-cars-us.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:29.734Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-chevrolet-corvette-e-ray-review": {
+    "title_zh": "2026 款雪佛兰科尔维特 E-Ray 快速评测：被低估的杰作",
+    "summary_short": "雪佛兰科尔维特 E-Ray 混动四驱版拥有 655 马力，性能远超刻板印象，是 2026 年最后的混动版本。",
+    "summary_long": "2026 款雪佛兰科尔维特 E-Ray 是一款全轮驱动混动跑车，搭载 6.2 升 LT2 V8 发动机（495 马力）和前轴电机（160 马力），综合功率 655 马力。尽管常被戏称为“中年危机”座驾，但实际驾驶体验远超预期。2026 年是 E-Ray 的最后一年，2027 年将更名为 Grand Sport X，配备更大 V8 发动机。",
+    "highlights_zh": [
+      "混动四驱",
+      "6.2 升 V8+前轴电机",
+      "2026 年为最后一代 E-Ray",
+      "2027 年将更名为 Grand Sport X"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "科尔维特 E-Ray | Corvette E-Ray",
+      "Grand Sport X"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Chevrolet-Corvette-E-Ray-01.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Chevrolet-Corvette-E-Ray-21.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Chevrolet-Corvette-E-Ray-20.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:33.870Z"
+  },
+  "https://www.motor1.com/news/799190/why-arent-there-more-gti-r-models-volkswagen/": {
+    "title_zh": "大众解释为何美国市场 GTI 和 R 车型较少",
+    "summary_short": "大众美国产品规划总监解释，GTI 和 R 徽章不能随意使用，必须确保性能名副其实，未来将推出更多有趣车型。",
+    "summary_long": "大众美国产品规划总监 Serban Boldea 解释了为何美国市场只有高尔夫拥有 GTI 和 R 版本。在欧洲，Lupo、Polo、Scirocco 等车型都有 GTI 版本，而 R 版本则覆盖了 Arteon、Passat、Tiguan 等。Boldea 强调，如果贴上 GTI 或 R 徽章，就必须是真正的性能车，不能只是外观套件。他虽未透露未来计划，但承诺将推出更多有趣车型。",
+    "highlights_zh": [
+      "美国仅高尔夫有 GTI 和 R 版本",
+      "欧洲多款车型拥有 GTI/R 版本",
+      "GTI/R 徽章必须名副其实",
+      "大众承诺未来推出更多有趣车型"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "高尔夫",
+      "GTI",
+      "R"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8x34/s1/volkswagen-golf-gti.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:34.059Z"
+  },
+  "https://www.thedrive.com/news/the-2026-mercedes-benz-amg-e53-wagon-packs-a-lot-of-punch-without-packing-a-v8": {
+    "title_zh": "2026 款梅赛德斯-AMG E53 旅行车：无 V8，依然强劲",
+    "summary_short": "2026 款梅赛德斯-AMG E53 旅行车搭载插电混动直列六缸发动机，综合功率 577 马力，纯电续航 41 英里，0-60 英里/小时加速不到 4 秒。",
+    "summary_long": "2026 款梅赛德斯-AMG E53 旅行车是一款高性能插电混动车型，搭载 3.0 升直列六缸发动机与电机，综合输出 577 马力和 413 磅-英尺扭矩，纯电续航 41 英里。0-60 英里/小时加速在 4 秒以内，极速可达 174 英里/小时（选装套件）。尽管动力强劲，但定位低于 V8 驱动的 63 系列，体现了奔驰在 C63 之后对动力系统的重新思考。",
+    "highlights_zh": [
+      "577 马力插电混动系统",
+      "纯电续航 41 英里",
+      "0-60 英里/小时加速低于 4 秒",
+      "直列六缸取代 V8"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-Benz AMG",
+      "E53",
+      "C63",
+      "旅行车 | Wagon"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/e53-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/20260618_102801.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/20260618_102953.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:37.934Z"
+  },
+  "https://response.jp/article/2026/06/19/412942.html": {
+    "title_zh": "低音制胜：汽车音响低音炮箱体如何改变音质",
+    "summary_short": "车内低音不足？低音炮箱体是关键。本文解析箱体如何防止声波抵消，提升低音表现。",
+    "summary_long": "车内低音常因扬声器口径限制而不足，需通过低音炮强化。低音炮箱体的核心作用是封闭振膜背面的声波，防止其与正面声波相互抵消（即“声波抵消”现象）。不同箱体与外部功放的搭配可改变低音特性，这也是发烧友选择独立低音炮的原因。",
+    "highlights_zh": [
+      "车内低音不足",
+      "箱体封闭背面声波",
+      "不同箱体与功放搭配改变低音特性",
+      "独立低音炮受发烧友青睐"
+    ],
+    "entities": [
+      "低音炮",
+      "箱体",
+      "声波抵消",
+      "汽车音响 | Car Audio"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219917.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219917.jpg",
+      "https://response.jp/imgs/fill2/2219918.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:38.550Z"
+  },
+  "https://response.jp/article/2026/06/19/412947.html": {
+    "title_zh": "丰田卡罗拉 Cross 皮卡版？谍照曝光引热议",
+    "summary_short": "丰田卡罗拉 Cross 皮卡版谍照曝光，紧凑型皮卡市场关注度飙升，或成城市新宠。",
+    "summary_long": "丰田卡罗拉 Cross 皮卡版谍照引发热议。这款基于卡罗拉 Cross 打造的紧凑型皮卡，瞄准了城市用户对小型化、易操控皮卡的需求。与大型皮卡如 Hilux 相比，它更灵活实用。目前原型车伪装严密，细节未知，但双排座、加长货箱等特征明显。",
+    "highlights_zh": [
+      "基于卡罗拉 Cross 打造",
+      "紧凑型皮卡",
+      "双排座加长货箱",
+      "或填补 Hilux 以下市场"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉 Cross",
+      "Hilux",
+      "紧凑型皮卡"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220462.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220462.jpg",
+      "https://response.jp/imgs/fill2/2220459.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:42.181Z"
+  },
+  "https://bestcarweb.jp/news/1548368": {
+    "title_zh": "可载 30kg！电动助力三轮自行车 LA SI QUE",
+    "summary_short": "椿本链条推出电动助力三轮自行车 LA SI QUE，可载 30kg，兼具稳定与灵活，面向企业用户。",
+    "summary_long": "椿本链条（Tsubakimoto Chain）推出电动助力三轮自行车“LA SI QUE（らしく）”，专为工厂、旅游景点等场景设计，可同时满足人员移动与货物运输需求。该车采用独特的后轮跟随机构，在保持三轮车稳定性的同时实现接近两轮车的操控感。原型车“多目的 e-Cargo”于 2023 年发布，此次为商品化版本，初期仅面向企业销售。",
+    "highlights_zh": [
+      "可承载 30kg 货物",
+      "独特后轮跟随机构",
+      "面向企业用户",
+      "基于 2023 年原型车开发"
+    ],
+    "entities": [
+      "椿本链条",
+      "LA SI QUE",
+      "电动助力三轮自行车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13012917/74618f687c86db59eceb268c1140e726.jpg?v=1781281758",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13012917/74618f687c86db59eceb268c1140e726-600x337.jpg?v=1781281758",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13013919/5ef1c24f1f9458589c1339b5e948b93b-600x240.jpg?v=1781282360"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:43.851Z"
+  },
+  "https://response.jp/article/2026/06/19/412932.html": {
+    "title_zh": "Westwell AI 自动驾驶牵引车引入香港上海等主要机场，加速航空货运无人化",
+    "summary_short": "Westwell 的 AI 自动驾驶电动牵引车已在香港、上海等全球主要机场部署，推动航空货运无人化进程。",
+    "summary_long": "全球 AI 企业 Westwell 将其自动驾驶电动牵引车引入香港、上海等主要机场，作为其“AI+新能源”战略在机场运营中的实践。该公司已在 30 多个国家和地区服务超过 200 家客户，将 AI 原生解决方案应用于航空货运、海港、铁路、陆路运输和智能工厂等领域。",
+    "highlights_zh": [
+      "AI 自动驾驶牵引车部署于香港、上海等机场",
+      "Westwell 的“AI+新能源”战略落地机场运营",
+      "已在 30 多国服务超 200 家客户",
+      "解决方案覆盖航空货运、海港、铁路等多领域"
+    ],
+    "entities": [
+      "Westwell",
+      "香港",
+      "上海",
+      "AI 自动驾驶牵引车",
+      "航空货运"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220483.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220483.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:46.510Z"
+  },
+  "https://response.jp/article/2026/06/19/412941.html": {
+    "title_zh": "AOZORA COMPANY 在北海道启动道路救援服务",
+    "summary_short": "AOZORA COMPANY 宣布在北海道启动道路救援服务，提供故障车拖运、事故车搬运及自走困难车辆救援。",
+    "summary_long": "AOZORA COMPANY 宣布在北海道地区启动道路救援服务。该公司主营二手车销售和自有贷款业务，此次通过提供车辆故障及事故时的应对服务，强化客户支持体系。服务内容包括使用专用平板车进行故障车辆拖运、事故车辆搬运以及无法自行行驶车辆的救援。",
+    "highlights_zh": [
+      "在北海道启动道路救援服务",
+      "提供故障车拖运与事故车搬运",
+      "强化二手车及贷款客户支持"
+    ],
+    "entities": [
+      "AOZORA COMPANY",
+      "北海道",
+      "道路救援"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220589.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220589.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:46.920Z"
+  },
+  "https://www.motor1.com/news/799182/maple-syrup-engine-oil/": {
+    "title_zh": "佛罗里达男子用枫糖浆替代机油：'我觉得发动机运行更好了'",
+    "summary_short": "佛罗里达一男子将日产车机油排空，换入 Dollar General 的枫糖浆，声称发动机运行更顺畅，视频获 220 万观看。",
+    "summary_long": "佛罗里达一位废旧车场老板将一辆日产车的机油排空，换入四夸脱从 Dollar General 购买的枫糖浆，随后声称发动机运行更好了。该视频于 6 月 16 日发布，一天内获得 220 万次观看，评论区中美国人觉得好笑，而加拿大人则愤怒质疑这并非真正的枫糖浆。视频作者 Crushin Florida 的频道以各种特技和破坏发动机为特色，此次实验再次引发热议。",
+    "highlights_zh": [
+      "排空机油",
+      "声称发动机运行更顺畅",
+      "视频一天获 220 万观看",
+      "加拿大人质疑糖浆真实性"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "枫糖浆",
+      "Dollar General",
+      "Crushin Florida"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m87Zb/s1/florida-man-drains-all-the-oil-out-of-his-nissan.-then-he-replaces-it-with-maple-syrup-from-dollar-general.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:51.010Z"
+  },
+  "https://response.jp/article/2026/06/19/412940.html": {
+    "title_zh": "COVESA 与 JASPAR 签署 MoU，推动 VSS/VISS 与 Yoriito 对接",
+    "summary_short": "COVESA 与 JASPAR 签署 MoU，合作推动 VSS/VISS 与 Yoriito 对接，加速 SDV 时代车辆软件标准化。",
+    "summary_long": "COVESA 与 JASPAR 在 COVESA 全体成员会议上宣布签署 MoU，将合作利用 COVESA 开发的 VSS 和 VISS 规范，对接 JASPAR 的 Yoriito 项目。双方旨在应对 SDV 时代需求，通过标准化 API 和数据模型，提升车辆软件的互操作性和开发效率。",
+    "highlights_zh": [
+      "COVESA 与 JASPAR 签署 MoU",
+      "VSS/VISS 与 Yoriito 对接",
+      "推动 SDV 软件标准化"
+    ],
+    "entities": [
+      "COVESA",
+      "JASPAR",
+      "VSS",
+      "VISS",
+      "Yoriito"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220534.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220534.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:51.084Z"
+  },
+  "https://insideevs.com/news/799204/new-chevy-bolt-ev-battery-buffer-reserve-range/": {
+    "title_zh": "新雪佛兰 Bolt 耗尽电量测试：电池缓冲有多大？",
+    "summary_short": "2026 款雪佛兰 Bolt 续航 262 英里，充电大幅提速。测试显示，电量归零后仍有约 20 英里缓冲里程。",
+    "summary_long": "2026 款雪佛兰 Bolt 成为美国最亲民的电动车，配备 65kWh LFP 电池，EPA 续航 262 英里，10-80%充电仅需 25 分钟。Out Of Spec Testing 的测试表明，当电量显示为 0%时，车辆仍保留约 20 英里的缓冲里程，足以驶至充电站。",
+    "highlights_zh": [
+      "2026 款 Bolt 是美国最便宜的电动车",
+      "65kWh LFP 电池",
+      "10-80%充电仅需 25 分钟",
+      "电量归零后仍有约 20 英里缓冲"
+    ],
+    "entities": [
+      "雪佛兰 | Chevy",
+      "Bolt",
+      "Out Of Spec Testing",
+      "LFP 电池",
+      "EPA 续航"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJR3v/s1/2027-chevrolet-bolt-rs.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:54.883Z"
+  },
+  "https://www.thedrive.com/news/the-best-power-adder-for-aircooled-porsche-911s-just-might-be-this-seamless-hybrid-system": {
+    "title_zh": "风冷保时捷 911 的最佳动力升级：无缝混合系统",
+    "summary_short": "Vonnen Shadow Drive 电机巧妙嵌入发动机与变速箱之间，为风冷保时捷 911 增加高达 150 马力，几乎不改变驾驶体验。",
+    "summary_long": "Vonnen 公司为风冷保时捷 911 开发了一套名为 Shadow Drive 的混合动力系统，将电机安装在发动机与变速箱之间，提供 75 至 150 马力的额外动力，同时保持原车驾驶特性。该系统旨在“隐形”，不改变驾驶感受，仅增加扭矩和功率，适合追求纯粹性能的保时捷爱好者。",
+    "highlights_zh": [
+      "电机嵌入发动机与变速箱之间",
+      "Stage 1 增加 75 马力",
+      "不改变驾驶体验",
+      "专为风冷保时捷 911 设计"
+    ],
+    "entities": [
+      "保时捷 911",
+      "Vonnen",
+      "Shadow Drive",
+      "混合系统"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/911-Hybrid-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/DSC9838-1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/DSC9854-1.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:55.943Z"
+  },
+  "https://response.jp/article/2026/06/19/412943.html": {
+    "title_zh": "TTS 获 SORACOM Partner Space 2025 最优秀奖，用 GPS 和通信实现车辆远程控制",
+    "summary_short": "TTS 凭借 GPS 与通信技术实现车辆远程控制，获 SORACOM Partner Space 2025 最优秀奖，IoT 设备累计签约超 7 万台。",
+    "summary_long": "TTS 宣布在 SORACOM 主办的“SORACOM Partner Space 2025”中荣获最高奖项“Business of the Year 最优秀奖”。该奖项综合评估了参与 SORACOM Partner Space 的企业在利用 IoT 技术实现业务增长、解决社会问题及创新举措方面的成就。TTS 利用通信和位置信息服务，在出行和社会基础设施领域解决课题。自 2024 年 11 月成立以来，约 1 年 7 个月内 GPS 和 IoT 设备累计签约数已突破 7 万台（截至 2026 年 6 月）。",
+    "highlights_zh": [
+      "TTS 获 SORACOM Partner Spac…",
+      "利用 GPS 和通信实现车辆远程控制",
+      "IoT 设备累计签约超 7 万台",
+      "成立仅 1 年 7 个月即获突破"
+    ],
+    "entities": [
+      "TTS",
+      "SORACOM",
+      "GPS",
+      "IoT"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220591.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220591.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:15:59.999Z"
+  },
+  "https://response.jp/article/2026/06/19/412944.html": {
+    "title_zh": "クスリのアオキHD，引入“cars WELLNESS”员工与公务车福利服务",
+    "summary_short": "cars 公司为クスリのアオキHD 提供员工与公务车福利服务“cars WELLNESS”，涵盖换车、车检、维修、保险等一站式服务。",
+    "summary_long": "cars 株式会社面向クスリのアオキホールディングス推出智能汽车生活福利服务“cars WELLNESS”，服务对象包括员工和公务车。该服务整合换车、车检、划痕修理、零件购买安装、轮胎更换、洗车、镀膜、贷款租赁、汽车保险、救援等企业用车相关项目，通过“全部委托”模式提升员工满意度、公务车管理效率及企业品牌价值。",
+    "highlights_zh": [
+      "面向员工与公务车的一站式福利",
+      "覆盖换车、车检、维修、保险等",
+      "提升员工满意度与管理效率",
+      "助力企业品牌价值提升"
+    ],
+    "entities": [
+      "cars WELLNESS",
+      "クスリのアオキホールディングス"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220596.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220596.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:00.402Z"
+  },
+  "https://bestcarweb.jp/newcar/1554174": {
+    "title_zh": "本田 N-BOX 改良版提前公开：回归凶悍路线，定制版与黑色特别版登场",
+    "summary_short": "本田 N-BOX 改良版提前公开，前脸回归凶悍风格，定制版与黑色特别版同步亮相。",
+    "summary_long": "本田提前公开了计划于 2026 年 7 月发售的轻型乘用车 N-BOX 的改良版信息。作为日本新车销量冠军，N-BOX 此次改款重点在于定制版的前脸设计革新，并新增户外版“N-BOX JOY”的特别仕样车。定制版采用暗铬镀铬格栅、新前保险杠及方形雾灯，尾部也加入了暗铬镀铬饰条，重现上一代 N-BOX 的精悍风格。",
+    "highlights_zh": [
+      "前脸回归凶悍设计",
+      "尾部加入暗铬镀铬饰条",
+      "户外版 N-BOX JOY 新增特别仕样车",
+      "系列累计销量已突破 300 万辆"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "N-BOX",
+      "N-BOX CUSTOM",
+      "N-BOX JOY",
+      "轻自动车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19113824/4260618_001H_1.jpg?v=1781836705",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19113824/4260618_001H_1-600x400.jpg?v=1781836705",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18161947/img_animation_01_pc_1-600x400.jpg?v=1781767188"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:05.289Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1547929": {
+    "title_zh": "WORK 推出全新 BACK LABEL ZEAST BSTX 轮毂：深邃凹面与激进镂空辐条",
+    "summary_short": "WORK 旗下 BACK LABEL 推出 2026 年新款 ZEAST BSTX 两片式轮毂，以极致凹面和镂空辐条设计，融合高耐荷重性能，专为硬派改装车打造。",
+    "summary_long": "日本轮毂制造商 WORK 旗下品牌 BACK LABEL 于 2026 年 1 月推出全新产品「BACK LABEL ZEAST BSTX」。该轮毂基于 2024 年发布的 ZEAST STX 改进而来，通过去除原版“国产高端运动”的限制，大幅提升了轮毂偏移量的自由度。设计上采用深度凹面（Concave）和激进镂空辐条，并配备 U 形气嘴槽等细节，旨在满足追求硬朗姿态的 Stance 风格和深唇/深尺寸车辆的需求，兼具视觉冲击力与高承载能力。",
+    "highlights_zh": [
+      "2026 年 1 月上市",
+      "深度凹面与镂空辐条设计",
+      "高自由度偏移量",
+      "U 形气嘴槽等细节提升实用性"
+    ],
+    "entities": [
+      "ワーク",
+      "バックレーベル",
+      "ジースト BSTX",
+      "ジースト STX",
+      "两片式轮毂"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12120725/9b3647ab9642592cf4d830bccf66e187.jpg?v=1781233647",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12120725/9b3647ab9642592cf4d830bccf66e187-600x337.jpg?v=1781233647",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17132525/samune-0618-600x421.jpg?v=1781670326"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:07.028Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548503": {
+    "title_zh": "斯巴鲁 Crosstrek 现在值得买吗？在众多等待改款的车型中，它是难得可选的斯巴鲁车",
+    "summary_short": "斯巴鲁 Crosstrek 凭借适中的尺寸、200mm 离地间隙和 301 万日元起售价，成为当前斯巴鲁阵容中无需等待改款的实用之选。",
+    "summary_long": "斯巴鲁旗下多款热门车型如 Levorg、Layback、WRX S4 等正面临改款等待期，而 Crosstrek 凭借现车供应和均衡产品力脱颖而出。车身尺寸紧凑（长 4480mm、宽 1800mm、高 1575mm），可轻松进入立体停车场，同时保持 200mm 离地间隙，兼顾城市与轻度越野。价格方面，Touring 版起价 301.4 万日元，Limited 版 323.4 万日元，AWD 版本也仅需 323.4 万日元起。动力方面，传统 e-BOXER 混动系统 WLTC 油耗为 15.8-16.4km/L，而新增的 Premium S 强混系统（AWD 专属）油耗提升至 18.9km/L，提供更佳燃油经济性。",
+    "highlights_zh": [
+      "车身尺寸紧凑",
+      "200mm 离地间隙",
+      "起价 301.4 万日元",
+      "新增强混系统"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "クロストレック",
+      "レヴォーグ",
+      "レイバック",
+      "WRX S4"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16090853/CROSSTREK-eBOXER_0019_1.jpg?v=1781568535",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16090853/CROSSTREK-eBOXER_0019_1-600x400.jpg?v=1781568535",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13223233/00_suzuki_jimny_2013_head-600x400.jpg?v=1781357554"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:11.427Z"
+  },
+  "https://bestcarweb.jp/feature/column/1549172": {
+    "title_zh": "别太在意保值率和他人眼光！爱车就该选自己喜欢的颜色",
+    "summary_short": "买车时不必因保值率而放弃心仪颜色，个性色可能带来意外高回报。",
+    "summary_long": "卖车时白色和黑色确实保值稍高，但通常差价仅 5-10 万日元，不值得为此放弃个人喜好。如今连小学生都能自由选择书包颜色，成年人更应大胆选择爱车颜色。个性色虽小众，但若遇到精准买家，反而可能卖出高价，例如红色 Harrier 就极具魅力。",
+    "highlights_zh": [
+      "白黑保值仅高 5-10 万日元",
+      "个性色可能意外卖出高价",
+      "红色 Harrier 是绝佳例子"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日产 | Nissan",
+      "本田 | Honda",
+      "铃木 | Suzuki",
+      "Harrier"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13161506/00_gyakubari_iro_head.jpg?v=1781334907",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13161506/00_gyakubari_iro_head-600x400.jpg?v=1781334907",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13223233/00_suzuki_jimny_2013_head-600x400.jpg?v=1781357554"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:11.813Z"
+  },
+  "https://response.jp/article/2026/06/19/412945.html": {
+    "title_zh": "米其林 Pilot Sport Endurance 助力丰田 TR010 Hybrid 赢得勒芒 24 小时",
+    "summary_short": "米其林新款 Pilot Sport Endurance 轮胎采用 50%可再生材料，助力丰田 TR010 Hybrid 在勒芒 24 小时赛中夺冠。",
+    "summary_long": "米其林在第 94 届勒芒 24 小时耐力赛中为 Hypercar 组别提供了最新款 Pilot Sport Endurance 轮胎。该轮胎使用 50%可再生和回收材料，相比前代产品单圈快约 1 秒，创造了 Hypercar 时代的圈速纪录。其更快的升温速度和更宽的工作窗口，使得车队能够采用更激进的策略，多数车队完成 3 个赛段，部分甚至达到 4 个赛段。",
+    "highlights_zh": [
+      "米其林 Pilot Sport Endurance…",
+      "轮胎含 50%可再生与回收材料",
+      "单圈快约 1 秒",
+      "支持 3-4 赛段策略"
+    ],
+    "entities": [
+      "米其林",
+      "丰田 | Toyota",
+      "TR010 Hybrid",
+      "Pilot Sport Endurance",
+      "勒芒 24 小时"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220601.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220601.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:16.643Z"
+  },
+  "https://response.jp/article/2026/06/19/412933.html": {
+    "title_zh": "丰田兰德酷路泽 75 周年活动：特别版车型亮相，8 月在嬬恋村举办",
+    "summary_short": "丰田兰德酷路泽 75 周年活动将于 8 月在群马县嬬恋村举办，展示特别版车型，并设有车主交流、体验式展览和开发讲解等环节。",
+    "summary_long": "丰田汽车运营的“ランクルBASE”为庆祝兰德酷路泽品牌 75 周年，将于 2026 年 8 月 1 日至 2 日在群马县嬬恋村的無印良品カンパーニャ嬬恋キャンプ場举办特别活动“LAND CRUISER 75th ANNIVERSARY DAY”。活动内容包括展示平时难得一见的特别版兰德酷路泽、车主爱车介绍与故事分享、体验式展览“LAND CRUISER & ME”（让参与者进入历代车型的目录视觉中）、以及开发人员讲解越野性能理念与技术要点。此外，还有开发团队及相关人士的特别谈话环节和篝火自由交谈。活动面向兰德酷路泽车主且为ランクルBASE 会员，报名截止至 7 月 12 日。",
+    "highlights_zh": [
+      "8 月 1-2 日群马县嬬恋村举办",
+      "展示特别版兰德酷路泽",
+      "车主交流与故事分享",
+      "开发人员讲解越野技术"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽",
+      "ランクルBASE",
+      "嬬恋村"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220449.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220449.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:17.566Z"
+  },
+  "https://response.jp/article/2026/06/19/412938.html": {
+    "title_zh": "丰田 2000GT 1/18 比例模型开启预订：实车 3D 扫描还原车身造型",
+    "summary_short": "CAMSHOP 开启 Autoart 丰田 2000GT 1/18 比例模型预订，基于实车 3D 扫描数据，车身线条、内饰及发动机舱细节精良，车门、引擎盖、后舱盖可开闭。",
+    "summary_long": "CAMSHOP 于 6 月 19 日启动 Autoart 制丰田 2000GT 1967（白色）1/18 比例模型的预订。该模型基于实车 3D 扫描数据，忠实再现车身线条，并精雕面板缝隙、头灯、尾灯等细节。内饰与发动机舱内部结构也高度还原。车门、引擎盖及后舱盖均可开闭，闭合时开闭机构不显眼。提供白、红、银、金四色。",
+    "highlights_zh": [
+      "基于实车 3D 扫描数据",
+      "车门、引擎盖、后舱盖可开闭",
+      "内饰与发动机舱精良还原",
+      "四色可选：白、红、银、金"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "2000GT",
+      "CAMSHOP",
+      "Autoart"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220506.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220506.jpg",
+      "https://response.jp/imgs/fill2/2220507.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:21.381Z"
+  },
+  "https://bestcarweb.jp/feature/column/1544141": {
+    "title_zh": "斯巴鲁森林人强混版贵不贵？Premium S EX 与 X-Break S EX 价值解析",
+    "summary_short": "斯巴鲁森林人强混版虽价格不低，但结合油耗、AWD、EyeSight X 及户外实用性，物有所值。",
+    "summary_long": "斯巴鲁森林人强混版（Strong Hybrid）价格看似不低，X-Break S EX 为 452.1 万日元，Premium S EX 为 464.2 万日元。但综合考虑油耗（X-Break S EX 达 19.1km/L，远优于涡轮版的 13.6km/L）、全时四驱、EyeSight X 安全系统以及新增的 AC100V/1500W 户外电源接口，其价值远超普通高配。该车并非简单的高油耗低配，而是能拓展家庭活动范围的实用 SUV。X-Break S EX 侧重户外风格与低油耗，Premium S EX 则更豪华，两者差价 12.1 万日元，可根据需求选择。",
+    "highlights_zh": [
+      "强混版油耗 19.1km/L",
+      "标配 AC100V/1500W 电源接口",
+      "X-Break S EX 主打户外风格",
+      "价格虽高"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "森林人",
+      "X-Break S EX",
+      "Premium S EX",
+      "EyeSight X"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15104832/8429ca3b43fe7c1ab5632ef0cc61fbb9.jpg?v=1781488113",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15104832/8429ca3b43fe7c1ab5632ef0cc61fbb9-600x400.jpg?v=1781488113",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13223233/00_suzuki_jimny_2013_head-600x400.jpg?v=1781357554"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:23.600Z"
+  },
+  "https://response.jp/article/2026/06/19/412936.html": {
+    "title_zh": "JSOL 在冲压仿真软件 JSTAMP 中首次引入 AI 功能，提升高强钢板回弹预测精度",
+    "summary_short": "JSOL 在冲压仿真软件 JSTAMP 中首次引入 AI 功能，提升高强钢板回弹预测精度，减少模具修正次数。",
+    "summary_long": "JSOL 发布了集成 AI 功能“JSTAMP-RealSync for Springback”的冲压成形仿真软件 JSTAMP。该功能旨在提高高强钢板冲压时回弹现象的预测精度。随着汽车车身对碰撞安全与轻量化的要求提升，高强钢板在结构件中的应用日益广泛，但其冲压成形难度高，实际试模中常出现与仿真结果不符的回弹，导致模具需反复修正。新 AI 功能有望通过更精准的预测减少试错成本。",
+    "highlights_zh": [
+      "JSOL 在 JSTAMP 中首次引入 AI 功能",
+      "提升高强钢板回弹预测精度",
+      "减少模具反复修正次数",
+      "应对汽车轻量化与安全需求"
+    ],
+    "entities": [
+      "JSOL",
+      "JSTAMP",
+      "高强钢板"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220484.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220484.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:25.908Z"
+  },
+  "https://insideevs.com/news/799262/dacia-new-ev-spring-confirmed/": {
+    "title_zh": "达契亚新款微型电动车保留 Spring 名称，但变化巨大",
+    "summary_short": "达契亚新款 Spring 微型电动车将基于雷诺 Twingo 平台，生产从中国移至欧洲，成为一款截然不同的平价电动车。",
+    "summary_long": "达契亚即将发布全新一代 Spring 电动车，它仍将是一款小型廉价车型，但生产将从中国转移到欧洲，基于雷诺 Twingo E-Tech 平台打造。新车预计比 Twingo 便宜约 2000 欧元，起售价约 1.75 万欧元，搭载 27.5 千瓦时电池，WLTP 续航 263 公里，电机功率 82 马力。",
+    "highlights_zh": [
+      "生产从中国移至欧洲",
+      "基于雷诺 Twingo 平台",
+      "预计起售价约 1.75 万欧元",
+      "续航 263 公里"
+    ],
+    "entities": [
+      "达契亚 | Dacia",
+      "Spring",
+      "雷诺",
+      "Twingo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkY0MJ/s1/2026-dacia-spring-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:29.668Z"
+  },
+  "https://bestcarweb.jp/feature/column/1549295": {
+    "title_zh": "世界最小硬派越野四驱车：铃木吉姆尼的进化史",
+    "summary_short": "回顾铃木吉姆尼从 1970 年初代至今的演变，作为世界最小硬派 SUV，它衍生出多款车型，成为日本轻自动车越野代表。",
+    "summary_long": "铃木吉姆尼自 1970 年推出初代 LJ10 型以来，一直是世界最小的硬派越野四驱车。它采用轻自动车规格，配备高低速副变速器、坚固的梯形车架和四轮刚性悬架，拥有卓越的越野性能。初代搭载 359cc 空冷二冲程发动机，后升级为水冷及更大排量。第二代于 1981 年问世，增加了 1L 和 1.3L 发动机，并推出涡轮增压版本。1990 年第三代车型搭载 657cc 直列三缸涡轮增压发动机，提供 AT 和 5MT 变速箱，并引入乘用车版本。吉姆尼还衍生出小型车和五门车型，持续巩固其独特地位。",
+    "highlights_zh": [
+      "1970 年初代 LJ10 问世",
+      "搭载高低速副变速器与梯形车架",
+      "衍生出 1.3L、涡轮增压及五门等多款车型",
+      "2026 年回顾吉姆尼 55 年进化历程"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "轻自动车",
+      "硬派越野",
+      "四驱"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13223233/00_suzuki_jimny_2013_head.jpg?v=1781357554",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13223233/00_suzuki_jimny_2013_head-600x400.jpg?v=1781357554",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/12221908/00_gyakubari_MT_head-600x400.jpg?v=1781270349"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:30.482Z"
+  },
+  "https://www.motor1.com/news/799189/mazda-melts-sun/": {
+    "title_zh": "女子新购马自达车身融化，经销商称因居住地阳光强烈属正常磨损不予保修",
+    "summary_short": "美国德州女子新购马自达 CX-30 塑料饰条融化，经销商称因当地阳光强烈属正常磨损，拒绝保修。",
+    "summary_long": "美国德州一名女子租赁的马自达 CX-30 车身塑料饰条出现融化变形，经销商以“当地阳光强烈导致正常磨损”为由拒绝保修。该女子在 TikTok 发布视频后引发关注，马自达美国表示将调查。事件也暴露出马自达内饰部件自 2010 年代初就存在融化问题，以及特定反光建筑可能加剧车辆损坏的现象。",
+    "highlights_zh": [
+      "马自达 CX-30 塑料饰条融化",
+      "经销商称阳光导致正常磨损",
+      "TikTok 视频超 10 万观看",
+      "马自达内饰融化问题可追溯至 2010 年"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-30",
+      "德州",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OXA4/s1/woman-s-new-mazda-starts-melting.-then-her-dealership-says-it-s-normal-wear-and-tear-because-of-where-she-lives.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:34.284Z"
+  },
+  "https://www.thedrive.com/news/no-ferrari-wont-force-you-to-buy-a-luce-ev-to-gain-access-to-higher-models": {
+    "title_zh": "法拉利否认强制购买 Luce EV 以获取高端车型资格",
+    "summary_short": "法拉利首席营销官否认彭博社报道，称公司不会要求客户购买 Luce EV 来获得高端车型的购买资格。",
+    "summary_long": "针对彭博社报道称法拉利鼓励客户购买 Luce EV 以获取更高端“Special Series”车型的购买资格或优先排队权，法拉利首席营销官 Enrico Galliera 明确否认，称该报道“完全不实”。Galliera 表示，法拉利从一开始就明确 Luce EV 面向不同目标群体，不会强迫客户购买，因为强迫销售会导致客户成为负面传播者。",
+    "highlights_zh": [
+      "法拉利 CMO 称报道“完全不实”",
+      "Luce EV 面向不同目标群体",
+      "强迫销售会制造负面传播者",
+      "客户购买需基于自愿"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce EV",
+      "Enrico Galliera",
+      "Special Series"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_9451.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_9455.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_9457.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:34.581Z"
+  },
+  "https://www.motor1.com/news/799216/vw-group-simplify-lineup/": {
+    "title_zh": "继丰田之后，大众也认为车型过多",
+    "summary_short": "大众集团计划精简产品组合，削减车型和变体数量，优先发展高销量产品，以降低成本并提高效率。",
+    "summary_long": "大众集团正在推进成本削减计划，2025 年德国工厂成本已削减超 20%，计划到本世纪末裁员 5 万人。在年度股东大会上，大众提出八项转型举措，首要任务是简化产品组合，减少车型和变体数量，聚焦高销量产品。同时，大众还将减少平台和电子架构数量，以降低成本、加速开发，并解决工厂产能过剩问题。",
+    "highlights_zh": [
+      "大众计划削减车型和变体数量",
+      "聚焦高销量产品",
+      "减少平台与电子架构数量",
+      "解决工厂产能过剩问题"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "奥迪 | Audi",
+      "保时捷 | Porsche",
+      "CARIAD",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:37.988Z"
+  },
+  "https://www.motor1.com/news/799237/2026-bmw-i3-first-edition/": {
+    "title_zh": "需求强劲，宝马提前推出新款 i3",
+    "summary_short": "宝马因需求强劲，提前在欧洲推出新款 i3 电动轿车，首发版售价 75,340 欧元，提供多种定制选项。",
+    "summary_long": "宝马因市场需求强劲，将新款 i3 电动轿车的上市时间提前至今年秋季之前。目前欧洲市场仅提供首发版，售价 75,340 欧元，标配 M 运动套件、发光格栅、加热座椅等。买家可选 6 种外观颜色、4 种轮毂设计及多种内饰材质，还可选装全景玻璃天窗、白色方向盘等配置。",
+    "highlights_zh": [
+      "宝马提前推出新款 i3",
+      "首发版售价 75",
+      "提供 6 种外观颜色和 4 种轮毂",
+      "标配 M 运动套件和 Harman Kardon 音…"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "i3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJ2qr/s1/bmw-i3-50-xdrive-2026-first-edition.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:38.158Z"
+  },
+  "https://www.motor1.com/news/799213/porsche-taycan-wagons-continue-outside-us/": {
+    "title_zh": "保时捷 Taycan 旅行版将在美国以外市场继续销售",
+    "summary_short": "保时捷 Taycan Sport Turismo 和 Cross Turismo 虽在美国停产，但将继续在其他市场销售。",
+    "summary_long": "保时捷向 Motor1 确认，Taycan Sport Turismo 和 Cross Turismo 在美国市场已停产，但将在其他市场继续销售。斯图加特工厂将继续生产这两款更实用的电动车型。此外，Taycan 轿车在欧洲首次突破 700 公里续航里程，后驱版搭配大电池和低滚阻轮胎可达 435 英里（WLTP）。Taycan 自 2019 年底推出，是保时捷最老的车型之一。",
+    "highlights_zh": [
+      "Taycan 旅行版在美国停产",
+      "Taycan 轿车欧洲 WLTP 续航突破 700…",
+      "后驱版配大电池可达 435 英里续航",
+      "Taycan 是保时捷最老车型之一"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Taycan",
+      "Sport Turismo",
+      "Cross Turismo",
+      "Macan"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkWW86/s1/2022-porsche-taycan-gts-sport-turismo.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-19T16:16:41.600Z"
   }
 }
