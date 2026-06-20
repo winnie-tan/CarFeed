@@ -1,145 +1,127 @@
 {
   "workflow": {
-    "generated_at": "2026-06-19T16:15:25.209Z",
+    "generated_at": "2026-06-20T04:39:19.344Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 383,
+    "deepseek_untranslated_before_run": 17,
+    "newly_fetched_articles": 17,
+    "newly_fetched_untranslated": 17,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 17,
     "translation_queue_preview": [
       {
+        "source": "Response.jp",
+        "time": "2026.6.20",
+        "title": "「何回見てもいい」「エロい」ホンダ『プレリュード』の特別仕様車「2027 リミテッドエディション」にSNS絶賛！",
+        "url": "https://response.jp/article/2026/06/20/412952.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.20",
+        "title": "「私がYSPを選んだ理由」ヤマハの新車購入者による「台本の無い座談会」開催へ…参加者を募集",
+        "url": "https://response.jp/article/2026/06/20/412956.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.20",
+        "title": "【バス運転士不足問題】こんな運転はやめて!! その運転が子や孫に迷惑をかけることに……だと!?",
+        "url": "https://bestcarweb.jp/busmagazine/1538960"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.20",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第790回",
+        "url": "https://bestcarweb.jp/feature/column/1532425"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.20",
+        "title": "200系ハイエース専用ダッシュボードトレイ登場！ 30秒装着で車内収納が激変!!",
+        "url": "https://bestcarweb.jp/news/1548365"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.20",
+        "title": "20年ぶり、サファリの衝撃再び!? 待望の復活を果たすパトロールは2027年発売!!",
+        "url": "https://bestcarweb.jp/feature/column/1549193"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.20",
+        "title": "カロッツェリア新商品体験会で見えた進化、車内エンターテインメントの新時代到来！",
+        "url": "https://response.jp/article/2026/06/20/412955.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.20",
+        "title": "スズキ、2026年のユーザー向け3イベントの開催日程を発表",
+        "url": "https://response.jp/article/2026/06/20/412959.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.20",
+        "title": "スズキ「鈴鹿8耐」に向け社内壮行会、鈴木社長「カーボンニュートラルに勝つ」と檄",
+        "url": "https://response.jp/article/2026/06/20/412951.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.20",
+        "title": "プジョー、シトロエン、フィアットで計1001台をリコール…火災に至るおそれ",
+        "url": "https://response.jp/article/2026/06/20/412962.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.20",
+        "title": "商用車メーカー5社合弁CJPTにアーチオン加入！ 脱炭素トラックの社会実装へ加速",
+        "url": "https://bestcarweb.jp/fullload/1550768"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.20",
+        "title": "Woman Buys STP Oil At Autozone. Then She Tries To Use Her Dad‘s Points",
+        "url": "https://www.motor1.com/news/799297/use-dads-autozone-points/"
+      },
+      {
         "source": "Motor1",
         "time": "2026.6.19",
-        "title": "The Last New Cars You Can Still Buy For Under $25,000",
-        "url": "https://www.motor1.com/features/799196/new-cars-under-25000-2026/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.19",
-        "title": "Turns Out You Can Buy an Extension Cord for Your EV Charger",
-        "url": "https://www.thedrive.com/news/turns-out-you-can-buy-an-extension-cord-for-your-ev-charger"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.19",
-        "title": "2026 Chevrolet Corvette E-Ray Quick Review: Slept On and Superb",
-        "url": "https://www.thedrive.com/car-reviews/2026-chevrolet-corvette-e-ray-review"
+        "title": "Woman Is On Her Drive Home. Then She Receives An Urgent Warning From Her Cybertruck: ‘On A Dark Road... Full DEFCON 1'",
+        "url": "https://www.motor1.com/news/799208/illinois-cybertruck-critical-issue-detected/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.19",
-        "title": "Why Aren't There More GTI And R Models In America? Volkswagen Explains",
-        "url": "https://www.motor1.com/news/799190/why-arent-there-more-gti-r-models-volkswagen/"
+        "title": "No, Ferrari Isn't Forcing Customers To Buy The Luce",
+        "url": "https://www.motor1.com/news/799319/ferrari-not-forcing-customers-to-buy-luce/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.19",
-        "title": "The 2026 Mercedes-Benz AMG E53 Wagon Packs a Lot of Punch Without Packing a V8",
-        "url": "https://www.thedrive.com/news/the-2026-mercedes-benz-amg-e53-wagon-packs-a-lot-of-punch-without-packing-a-v8"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "「サブウーファー」は「ボックス」で音が変わる！ そのメカニズムを解説！［低音を制する者はカーオーディオを制す］",
-        "url": "https://response.jp/article/2026/06/19/412942.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "「発売されたら即買い」トヨタ『カローラクロス』がピックアップトラックに!? スクープ情報にSNS興奮",
-        "url": "https://response.jp/article/2026/06/19/412947.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "30kg積める!! 旅や仕事にも使える電動アシスト3輪自転車が注目の理由",
-        "url": "https://bestcarweb.jp/news/1548368"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "AI自律走行トラクターを香港・上海など主要空港に導入、航空貨物の無人化加速…Westwell",
-        "url": "https://response.jp/article/2026/06/19/412932.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "AOZORA COMPANY、北海道でロードサービス開始",
-        "url": "https://response.jp/article/2026/06/19/412941.html"
+        "title": "Why Nobody Is Actually Responsible for Fixing Your Street: Explained",
+        "url": "https://www.thedrive.com/news/why-nobody-is-actually-responsible-for-fixing-your-street-explained"
       },
       {
         "source": "Motor1",
         "time": "2026.6.19",
-        "title": "Florida Man Drains All The Oil Out Of A Nissan. Then He Replaces It With Maple Syrup From Dollar General: 'I Think It Runs Better'",
-        "url": "https://www.motor1.com/news/799182/maple-syrup-engine-oil/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "SDV時代に対応、COVESAとJASPARがMoU締結…VSS/VISSとYoriito連携へ",
-        "url": "https://response.jp/article/2026/06/19/412940.html"
+        "title": "‘Can’t Make This Up’: Florida Woman Buys A Buick. Then It Breaks Down The Second Time She Drives It",
+        "url": "https://www.motor1.com/news/799073/used-buick-enclave-breaks-down-second-drive/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.19",
-        "title": "The Best Power-Adder for Aircooled Porsche 911s Just Might Be This Seamless Hybrid System",
-        "url": "https://www.thedrive.com/news/the-best-power-adder-for-aircooled-porsche-911s-just-might-be-this-seamless-hybrid-system"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.19",
-        "title": "The New Chevy Bolt Was Driven Until It Died. Here’s What Its Battery Buffer Looks Like",
-        "url": "https://insideevs.com/news/799204/new-chevy-bolt-ev-battery-buffer-reserve-range/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "TTS、SORACOM Partner Spaceアワード2025最優秀賞を受賞…自動車販売向けにGPS・通信で車両遠隔制御",
-        "url": "https://response.jp/article/2026/06/19/412943.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.19",
-        "title": "クスリのアオキホールディングス、「cars WELLNESS」導入…従業員と社用車向けに",
-        "url": "https://response.jp/article/2026/06/19/412944.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "コワモテ路線へ回帰で顔つきが激変!! ホンダ N-BOX改良モデル先行公開！ 迫力のカスタム＆黒づくめの特別仕様車ブラックスタイルも降臨!!",
-        "url": "https://bestcarweb.jp/newcar/1554174"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "さらに深化したコンケイブに、大胆な“えぐり”のスポーク!! ワークの放つ「バックレーベル ジースト BSTX」がたまらん迫力",
-        "url": "https://bestcarweb.jp/news/car-accessory/1547929"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "スバル クロストレックは今こそ買いか？ 改良待ちモデルが多いなか選べる貴重なスバル車！",
-        "url": "https://bestcarweb.jp/feature/column/1548503"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.19",
-        "title": "そんなにリセールや周囲の目が気になるのか!? 愛車くらい好きな色でいいじゃないかと思わせる攻めた色のクルマをイッキ見！",
-        "url": "https://bestcarweb.jp/feature/column/1549172"
+        "title": "Here’s Why Honda Prelude and Civic Type R Have Gas Caps While Others Don’t",
+        "url": "https://www.thedrive.com/news/heres-why-honda-prelude-and-civic-type-r-have-gas-caps-while-others-dont"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-06-19T16:15:25.517Z",
-    "finished_at": "2026-06-19T16:16:41.610Z",
+    "scoped_articles": 17,
+    "queued_articles": 17,
+    "processed": 17,
+    "started_at": "2026-06-20T04:39:19.660Z",
+    "finished_at": "2026-06-20T04:39:57.030Z",
     "success": true,
     "error": ""
   }
