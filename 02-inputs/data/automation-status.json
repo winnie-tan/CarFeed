@@ -1,125 +1,155 @@
 {
   "workflow": {
-    "generated_at": "2026-06-20T15:16:53.222Z",
+    "generated_at": "2026-06-21T05:17:01.681Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 385,
-    "deepseek_untranslated_before_run": 15,
-    "newly_fetched_articles": 15,
-    "newly_fetched_untranslated": 15,
+    "deepseek_translated_before_run": 379,
+    "deepseek_untranslated_before_run": 21,
+    "newly_fetched_articles": 21,
+    "newly_fetched_untranslated": 21,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 15,
+    "translation_queue_count": 21,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.20",
-        "title": "BMW Dealer Forced to Pay $5,000 Extra for Used X3 Over AI Chatbot Error",
-        "url": "https://www.thedrive.com/news/bmw-dealer-forced-to-pay-5000-extra-for-used-x3-over-ai-chatbot-error"
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "「売れまくる予感」「かっこいいじゃん」日産『キックス』新型発売にSNSでは大興奮！ デザインに高評価の声",
+        "url": "https://response.jp/article/2026/06/21/412970.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "「逆襲のシャア」ニューガンダムが革小物に！ ネイビーレザーに“アムロ”マーク入り、5種が予約受付中",
+        "url": "https://response.jp/article/2026/06/21/412981.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "『ランドクルーザーFJ』の走行中でも純正ナビでテレビ視聴！ データシステムの「TV-KIT」が適合",
+        "url": "https://response.jp/article/2026/06/21/412976.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "『爆走兄弟レッツ&ゴー!!』30周年記念、コラボミニ四駆や貴重なイラストグッズも",
+        "url": "https://response.jp/article/2026/06/21/412973.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "【アルファロメオ トナーレ 新型試乗】SUVであることを忘れさせる「イブリダ ヴェローチェ」の走り…島崎七生人",
+        "url": "https://response.jp/article/2026/06/21/412978.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.21",
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「MT」",
+        "url": "https://bestcarweb.jp/feature/column/1530956"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "200系ハイエースを左ハンドル化!? 旧き良きアメリカを宿した唯一無二の一台…CARTUNE PickUpCars 2026",
+        "url": "https://response.jp/article/2026/06/21/412977.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.21",
+        "title": "760万円超えのロードスター!! ぶっちゃけ価値は感じれるの!? 短所もわかったMSRロードスター正直評価",
+        "url": "https://bestcarweb.jp/feature/column/1545799"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "オージーケーカブト『SHUMA』に新グラフィックモデル「スカリオン」登場 価格は4万1800円",
+        "url": "https://response.jp/article/2026/06/21/412975.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.21",
+        "title": "カローラクロス買えないなら何選ぶ!? 納期1〜2カ月で実用性も抜群！ 本気でオススメしたい人気SUVたちの実力",
+        "url": "https://bestcarweb.jp/feature/column/1543033"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.21",
+        "title": "クロストレックは雪道最強コンパクトSUVか？ 最低地上高200mmとAWDの安心感",
+        "url": "https://bestcarweb.jp/feature/column/1548619"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "スピーカーを強固に支える「インナーバッフル」、音が良いのは？［カー用音響機材・チョイスの極意…パーツ＆部材編］",
+        "url": "https://response.jp/article/2026/06/21/412968.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "ドゥカティ『デスモ250 MX』発表、レブリミット15000rpmのデスモドロミック単気筒搭載",
+        "url": "https://response.jp/article/2026/06/21/412982.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.21",
+        "title": "まるで路面電車のような「基幹バス」!! 名古屋だけのこの謎シス交通は意外に歴史があるのだった！",
+        "url": "https://bestcarweb.jp/busmagazine/1539091"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.21",
+        "title": "Woman Goes In For An Oil Change. Then Her Mechanic Calls Her And Says It’ll Cost $10,000: ‘What Makes You Think I Have $10,000?’",
+        "url": "https://www.motor1.com/news/799210/oil-change-10000-dollar-repair-bill/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.20",
-        "title": "‘The Light Turns Green And The Waymos Won’t Move’: Woman Gets Behind 2 Waymos At Stoplight. 50 Minutes Later, They Haven’t Budged",
-        "url": "https://www.motor1.com/news/799289/stuck-behind-waymos-50-minutes/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.20",
-        "title": "Carvana Now Offers (Some) Test Drives, and There’s No Salesman to Twist Your Arm",
-        "url": "https://www.thedrive.com/news/carvana-now-offers-some-test-drives-and-theres-no-salesman-to-twist-your-arm"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.20",
-        "title": "The Volvo EX60 And EX90 Get An Important EV Fast-Charging Upgrade",
-        "url": "https://insideevs.com/news/799188/volvo-ex60-ex90-ev-plug-and-charge/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.20",
-        "title": "Deal Hunter Intel: The Secret List of Stuff Amazon Is Eager To Move, Minus the Junk",
-        "url": "https://www.thedrive.com/news/deal-hunter-intel-the-secret-list-of-stuff-amazon-is-eager-to-move-minus-the-junk"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.20",
-        "title": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
-        "url": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/"
+        "title": "Man Goes To Car Dealership. Then His Car Salesman Does Deal With Delivrd: 'He Had A Client All The Way In North Carolina'",
+        "url": "https://www.motor1.com/news/799300/is-delivrd-worth-it/"
       },
       {
         "source": "Motor1",
         "time": "2026.6.20",
-        "title": "‘They’re Also The Best Car You Can Buy’: Car Salesman Says Old Hondas And Toyotas Are The Hardest To Sell. Then He Reveals Why",
-        "url": "https://www.motor1.com/news/799284/used-hondas-toyotas-hard-to-sell/"
+        "title": "Woman’s Volkswagen Repeatedly Brake-Checks Her. Then She Realizes The Strange Reason Why: ‘Worst Feature Ever’",
+        "url": "https://www.motor1.com/news/799295/volkswagen-emergency-assist-brake-check-spinner-knob/"
       },
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.20",
-        "title": "「カッコいい！」「いかつくなってる」ホンダ『N-BOX』改良新型で表情一新！SNSで話題に",
-        "url": "https://response.jp/article/2026/06/20/412965.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.20",
-        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「碧南」",
-        "url": "https://bestcarweb.jp/feature/column/1535871"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.20",
-        "title": "JAOSのトヨタ『RAV4 Adventure』用カスタムパーツが販売拡大、公式オンラインショップなどで一般販売",
-        "url": "https://response.jp/article/2026/06/20/412963.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.20",
-        "title": "イオンバイク、電動アシスト自転車「WILLGOファミリー」発売…チャイルドシート標準装備で10万9780円",
-        "url": "https://response.jp/article/2026/06/20/412964.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.20",
-        "title": "スバル版ビッグホーンやホンダ ビガーの混迷!? 中身は最高だけど車名やブランドで世間に埋もれた損なクルマたち",
-        "url": "https://bestcarweb.jp/feature/column/1548009"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.20",
-        "title": "ノートオーラを買うならG、G レザーエディション、NISMOどれが正解？ 価格差と満足度で選ぶ!!",
-        "url": "https://bestcarweb.jp/feature/column/1541372"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.20",
-        "title": "License Plate Cameras Are About To Start Tracking A Lot More Than Just Your Car",
-        "url": "https://insideevs.com/news/799191/alpr-cameras-track-more-devices/"
+        "title": "8,600-Acre Wildfire Decimates Massive Idaho Salvage Yard With 8,000 Cars",
+        "url": "https://www.thedrive.com/news/massive-8600-acre-wildfire-decimates-idaho-salvage-yard-with-8000-cars"
       },
       {
         "source": "Motor1",
         "time": "2026.6.20",
-        "title": "‘Thought That Walmart Would Have Everything They Needed’: Woman Gets Oil Changed At Walmart. Then She Goes To Advance Auto Parts",
-        "url": "https://www.motor1.com/news/799282/walmart-oil-change-bring-filter-advance-auto-parts/"
+        "title": "Woman Buys Ford Bronco. Then She Gets The Sasquatch Package—For One Oddly Specific Reason: 'Facts'",
+        "url": "https://www.motor1.com/news/799291/ford-bronco-sasquatch-package-hit-curbs/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.20",
+        "title": "Another State Makes UTVs Road Legal. Is That a Good Thing?",
+        "url": "https://www.thedrive.com/news/another-state-makes-utvs-road-legal-is-that-a-good-thing"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27875241328",
-    "sha": "a2a3bdc96438b99f587b4281c36fe49671fe33e8",
-    "completed_at": "2026-06-20T15:17:24.825Z",
+    "run_id": "27894474118",
+    "sha": "200dcc5731a96bd6bc693af3dfa74c0c06e0176a",
+    "completed_at": "2026-06-21T05:17:46.309Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 400,
-    "deepseek_untranslated_after_run": 0,
+    "deepseek_translated_after_run": 399,
+    "deepseek_untranslated_after_run": 1,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 15,
-    "queued_articles": 15,
-    "processed": 15,
-    "started_at": "2026-06-20T15:16:53.524Z",
-    "finished_at": "2026-06-20T15:17:24.575Z",
+    "scoped_articles": 21,
+    "queued_articles": 21,
+    "processed": 21,
+    "started_at": "2026-06-21T05:17:01.990Z",
+    "finished_at": "2026-06-21T05:17:46.050Z",
     "success": true,
     "error": ""
   }
