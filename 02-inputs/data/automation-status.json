@@ -1,140 +1,80 @@
 {
   "workflow": {
-    "generated_at": "2026-06-21T05:17:01.681Z",
+    "generated_at": "2026-06-21T15:18:27.585Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 379,
-    "deepseek_untranslated_before_run": 21,
-    "newly_fetched_articles": 21,
-    "newly_fetched_untranslated": 21,
-    "backlog_untranslated": 0,
+    "deepseek_translated_before_run": 390,
+    "deepseek_untranslated_before_run": 10,
+    "newly_fetched_articles": 10,
+    "newly_fetched_untranslated": 10,
+    "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 21,
+    "translation_queue_count": 10,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.21",
-        "title": "「売れまくる予感」「かっこいいじゃん」日産『キックス』新型発売にSNSでは大興奮！ デザインに高評価の声",
-        "url": "https://response.jp/article/2026/06/21/412970.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "「逆襲のシャア」ニューガンダムが革小物に！ ネイビーレザーに“アムロ”マーク入り、5種が予約受付中",
-        "url": "https://response.jp/article/2026/06/21/412981.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "『ランドクルーザーFJ』の走行中でも純正ナビでテレビ視聴！ データシステムの「TV-KIT」が適合",
-        "url": "https://response.jp/article/2026/06/21/412976.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "『爆走兄弟レッツ&ゴー!!』30周年記念、コラボミニ四駆や貴重なイラストグッズも",
-        "url": "https://response.jp/article/2026/06/21/412973.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "【アルファロメオ トナーレ 新型試乗】SUVであることを忘れさせる「イブリダ ヴェローチェ」の走り…島崎七生人",
-        "url": "https://response.jp/article/2026/06/21/412978.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.21",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「MT」",
-        "url": "https://bestcarweb.jp/feature/column/1530956"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "200系ハイエースを左ハンドル化!? 旧き良きアメリカを宿した唯一無二の一台…CARTUNE PickUpCars 2026",
-        "url": "https://response.jp/article/2026/06/21/412977.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.21",
-        "title": "760万円超えのロードスター!! ぶっちゃけ価値は感じれるの!? 短所もわかったMSRロードスター正直評価",
-        "url": "https://bestcarweb.jp/feature/column/1545799"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "オージーケーカブト『SHUMA』に新グラフィックモデル「スカリオン」登場 価格は4万1800円",
-        "url": "https://response.jp/article/2026/06/21/412975.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.21",
-        "title": "カローラクロス買えないなら何選ぶ!? 納期1〜2カ月で実用性も抜群！ 本気でオススメしたい人気SUVたちの実力",
-        "url": "https://bestcarweb.jp/feature/column/1543033"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.21",
-        "title": "クロストレックは雪道最強コンパクトSUVか？ 最低地上高200mmとAWDの安心感",
-        "url": "https://bestcarweb.jp/feature/column/1548619"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "スピーカーを強固に支える「インナーバッフル」、音が良いのは？［カー用音響機材・チョイスの極意…パーツ＆部材編］",
-        "url": "https://response.jp/article/2026/06/21/412968.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.21",
-        "title": "ドゥカティ『デスモ250 MX』発表、レブリミット15000rpmのデスモドロミック単気筒搭載",
-        "url": "https://response.jp/article/2026/06/21/412982.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.21",
-        "title": "まるで路面電車のような「基幹バス」!! 名古屋だけのこの謎シス交通は意外に歴史があるのだった！",
-        "url": "https://bestcarweb.jp/busmagazine/1539091"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.21",
-        "title": "Woman Goes In For An Oil Change. Then Her Mechanic Calls Her And Says It’ll Cost $10,000: ‘What Makes You Think I Have $10,000?’",
-        "url": "https://www.motor1.com/news/799210/oil-change-10000-dollar-repair-bill/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.20",
-        "title": "Man Goes To Car Dealership. Then His Car Salesman Does Deal With Delivrd: 'He Had A Client All The Way In North Carolina'",
-        "url": "https://www.motor1.com/news/799300/is-delivrd-worth-it/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.20",
-        "title": "Woman’s Volkswagen Repeatedly Brake-Checks Her. Then She Realizes The Strange Reason Why: ‘Worst Feature Ever’",
-        "url": "https://www.motor1.com/news/799295/volkswagen-emergency-assist-brake-check-spinner-knob/"
+        "title": "Extremely Normal Ford F-150 on Bring a Trailer Begs the Question: Do Boring Vehicles Belong on Auction Sites?",
+        "url": "https://www.thedrive.com/news/extremely-normal-ford-f-150-on-bring-a-trailer-begs-the-question-do-boring-vehicles-belong-on-auction-sites"
       },
       {
         "source": "The Drive",
-        "time": "2026.6.20",
-        "title": "8,600-Acre Wildfire Decimates Massive Idaho Salvage Yard With 8,000 Cars",
-        "url": "https://www.thedrive.com/news/massive-8600-acre-wildfire-decimates-idaho-salvage-yard-with-8000-cars"
+        "time": "2026.6.21",
+        "title": "Big, Bad Chevy Silverado ZR2 Off-Roader Has 60 Inches of Screens… For Some Reason",
+        "url": "https://www.thedrive.com/news/big-bad-chevy-silverado-zr2-off-roader-has-60-inches-of-screens-for-some-reason"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.20",
-        "title": "Woman Buys Ford Bronco. Then She Gets The Sasquatch Package—For One Oddly Specific Reason: 'Facts'",
-        "url": "https://www.motor1.com/news/799291/ford-bronco-sasquatch-package-hit-curbs/"
+        "time": "2026.6.21",
+        "title": "Woman Drives Honda Accord For 3 Years. Then She Checks Trunk And Realizes Something Essential Is Missing: ‘Nobody Told Me’",
+        "url": "https://www.motor1.com/news/799293/honda-accord-spare-tire/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.6.20",
-        "title": "Another State Makes UTVs Road Legal. Is That a Good Thing?",
-        "url": "https://www.thedrive.com/news/another-state-makes-utvs-road-legal-is-that-a-good-thing"
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "「一気にデザインが近代化したな」三菱の軽EV『eKクロス EV』デザイン刷新に反響！「未来感がアップしていいね」の声",
+        "url": "https://response.jp/article/2026/06/21/412984.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.21",
+        "title": "Man Gets Denied A Car Loan. Then He Comes Back—And Uses A Loophole To Get Approved By Someone Else: ‘It Was Weird’",
+        "url": "https://www.motor1.com/news/799321/man-denied-car-loan-bad-credit/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "ヤマハ『YZシリーズ』2027年モデル試乗会を全国7会場で開催へ…「BLU Camp」8月29日から",
+        "url": "https://response.jp/article/2026/06/21/412974.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "リコール16万1190台、トヨタ『シエンタ』のシートベルトに不具合",
+        "url": "https://response.jp/article/2026/06/21/412987.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "ワールドカップ日本対戦国：チュニジアは成長中、輸出40億ユーロ",
+        "url": "https://response.jp/article/2026/06/20/412960.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.21",
+        "title": "人機一体に聞く「人型重機とフィジカルAI」～人を拡張するロボット…オンラインセミナー 7月17日",
+        "url": "https://response.jp/article/2026/06/18/412842.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.21",
+        "title": "Man Goes To Discount Tire Needing $100 Part. Then A Worker Steps In And Quotes Him $1,500: 'I'm Not Going To Touch That Unless...'",
+        "url": "https://www.motor1.com/news/799211/discount-tire-sensor-sale-upsell/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27894474118",
-    "sha": "200dcc5731a96bd6bc693af3dfa74c0c06e0176a",
-    "completed_at": "2026-06-21T05:17:46.309Z",
+    "run_id": "27908676914",
+    "sha": "94bcc007a36e8cf9777796f2a7494659cb0d5481",
+    "completed_at": "2026-06-21T15:18:49.272Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +85,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 21,
-    "queued_articles": 21,
-    "processed": 21,
-    "started_at": "2026-06-21T05:17:01.990Z",
-    "finished_at": "2026-06-21T05:17:46.050Z",
+    "scoped_articles": 10,
+    "queued_articles": 10,
+    "processed": 10,
+    "started_at": "2026-06-21T15:18:27.891Z",
+    "finished_at": "2026-06-21T15:18:49.032Z",
     "success": true,
     "error": ""
   }
