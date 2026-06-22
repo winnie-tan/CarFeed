@@ -45175,5 +45175,911 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-22T05:29:31.501Z"
+  },
+  "https://www.thedrive.com/news/car-enthusiasts-hate-on-the-honda-prelude-but-the-real-world-loves-it": {
+    "title_zh": "本田 Prelude：车迷吐槽，路人狂爱",
+    "summary_short": "试驾 2026 款本田 Prelude 数周，发现普通路人对其外观和设计赞不绝口，与车迷的负面评价形成鲜明对比。",
+    "summary_long": "作者在数周试驾 2026 款本田 Prelude 期间，发现普通路人对其外观和设计表现出极大热情，几乎每天都有路人拍照、竖大拇指或引起围观。这与车迷圈中对 Prelude 性能、价格和定位的强烈批评形成鲜明对比。作者认为，尽管车迷对马力、价格等细节不满，但普通消费者并不在意这些，而是被其造型和整体魅力所吸引。",
+    "highlights_zh": [
+      "试驾期间每天都有路人拍照或点赞",
+      "在蒙特利尔大奖赛期间引起街头轰动",
+      "车迷批评性能与价格",
+      "普通消费者更看重外观和设计"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Prelude",
+      "蒙特利尔大奖赛"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_8298.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_8455.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_8175.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:43.112Z"
+  },
+  "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison": {
+    "title_zh": "黑客送车：他将传奇黑客送进监狱，却获赠梦想座驾",
+    "summary_short": "Shawn Nunley 曾用录音机协助抓获黑客 Kevin Mitnick，数十年后 Mitnick 赠予他足够的钱购买梦想中的保时捷 911 GTS。",
+    "summary_long": "Shawn Nunley 在 1990 年代协助 FBI 抓获了臭名昭著的黑客 Kevin Mitnick，当时他用一台录音机录下了 Mitnick 的犯罪证据。多年后，Mitnick 改邪归正成为安全顾问，并在去世前留给 Nunley 一笔钱，让他得以购买梦想中的保时捷 911 GTS。这个故事展现了两人之间从敌对到和解的奇特缘分。",
+    "highlights_zh": [
+      "Shawn Nunley 用录音机协助抓获黑客 Ke…",
+      "Mitnick 后来成为安全顾问",
+      "Mitnick 去世前赠款助 Nunley 购买保时…"
+    ],
+    "entities": [
+      "Kevin Mitnick",
+      "Shawn Nunley",
+      "保时捷 911 GTS | Porsche 911 GTS"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nun-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nunley-hero.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nun-exhaust.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:43.387Z"
+  },
+  "https://www.motor1.com/news/799372/honda-pilot-sway-bar/": {
+    "title_zh": "本田 Pilot 高速抖动，维修师发现真正问题",
+    "summary_short": "加州维修师检查一辆 2020 款本田 Pilot 时发现，损坏的防倾杆和悬挂部件可能是因车主高速过减速带所致。",
+    "summary_long": "一位加州维修师在检查一辆 2020 款本田 Pilot 时，发现其防倾杆损坏、悬挂部件磨损，并指出问题根源在于车主高速冲过减速带的驾驶习惯。该车仅行驶 5.5 万英里，但悬挂系统已出现异常磨损。维修师在视频中演示了损坏部件，并警告这种驾驶方式会导致高昂维修费用。",
+    "highlights_zh": [
+      "2020 款本田 Pilot 因高速抖动送修",
+      "维修师发现防倾杆损坏",
+      "车主高速过减速带是主因",
+      "低里程车出现异常悬挂磨损"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Pilot",
+      "防倾杆",
+      "悬挂",
+      "减速带"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4nKk/s1/man-s-honda-pilot-starts-shaking-.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:47.496Z"
+  },
+  "https://insideevs.com/news/799478/xiaomi-yu7-nurburgring-driverless-lap/": {
+    "title_zh": "小米 YU7 GT 无人驾驶跑完纽博格林，我们仍有疑问",
+    "summary_short": "小米 YU7 GT 以 10 分 29 秒 483 完成纽博格林无人驾驶圈速，虽不及人类驾驶，但标志着自动驾驶技术的新应用场景。",
+    "summary_long": "小米 YU7 GT 电动跨界车在纽博格林北环完成了全自动驾驶圈速，用时 10 分 29 秒 483。虽然这一成绩远低于该车由人类驾驶时的 7 分 34 秒 931（最快 SUV 圈速），但无人驾驶圈速仍是一项重大成就，表明自动驾驶技术可能超越公共道路，进入赛道领域。小米此前凭借 SU7 Ultra 曾创下电动车圈速纪录，后被比亚迪仰望 U9 超越。",
+    "highlights_zh": [
+      "小米 YU7 GT 无人驾驶纽博格林圈速 10:29…",
+      "人类驾驶下 YU7 GT 为最快 SUV",
+      "自动驾驶技术或拓展至赛道场景",
+      "小米 SU7 Ultra 曾创电动车圈速纪录"
+    ],
+    "entities": [
+      "小米 | Xiaomi",
+      "YU7 GT",
+      "SU7 Ultra",
+      "纽博格林",
+      "比亚迪 | BYD"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3Qgkx/s1/xiaomi-yu7-gt-autonomous-lap-record.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:47.737Z"
+  },
+  "https://www.thedrive.com/news/formula-drift-debuts-in-connecticut-signs-three-year-contract-with-track": {
+    "title_zh": "Formula Drift 首次登陆康涅狄格州，与赛道签订三年合约",
+    "summary_short": "Formula Drift 在康涅狄格州 Stafford Motor Speedway 开启新分站，签订三年合约，首站创下观众满座纪录并出现全爱尔兰领奖台。",
+    "summary_long": "Formula Drift 确认将在康涅狄格州的 Stafford Motor Speedway 举办比赛，并已签署三年合约。本周末的首次赛事采用全新布局，观众爆满，并出现了全爱尔兰领奖台的惊喜结果。该站是今年三个新分站中的第一个，取代了因场地问题未能续约的新泽西 Old Bridge Raceway Park。新英格兰地区凭借其活跃的汽车文化和强大的草根漂移社群 Lock City Drift 赢得了这一机会。",
+    "highlights_zh": [
+      "三年合约锁定康涅狄格州",
+      "首站观众爆满创纪录",
+      "全爱尔兰领奖台惊喜出现",
+      "取代新泽西传奇赛道"
+    ],
+    "entities": [
+      "Formula Drift",
+      "Stafford Motor Speedway",
+      "Old Bridge Raceway Park",
+      "Lock City Drift",
+      "康涅狄格州"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/AS-RTR-IMG_6597-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/as-7-LY2_8705-scaled-1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/as-4-LY2_3708-scaled-1.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:51.741Z"
+  },
+  "https://www.motor1.com/news/799464/ford-gt40-restomod-800-hp-v8/": {
+    "title_zh": "重生福特 GT40 并非福特制造",
+    "summary_short": "南非 Cape Advanced Vehicles 推出致敬福特 GT40 的复刻跑车 CAV GT MkII，搭载双增压 4.2 升 V8 发动机，最大功率 800 马力。",
+    "summary_long": "南非 Cape Advanced Vehicles（CAV）推出全新定制跑车 CAV GT MkII，致敬经典福特 GT40。该车基于奥迪 R8 底盘打造，采用碳纤维复合车身和铝碳纤维空间框架，整备质量仅 2976 磅。动力方面搭载双增压 4.2 升 V8 发动机，配备锻造内部构件、直喷、干式油底壳润滑、碳纤维进气歧管和铬镍铁合金排气，最大功率 800 马力，峰值扭矩 627 磅·英尺。提供六速单离合半自动、双离合或手动变速箱，并配备全轮驱动。官方宣称 0-62 英里/小时加速时间 3.0 秒，极速超过 205 英里/小时。",
+    "highlights_zh": [
+      "800 马力双增压 V8 发动机",
+      "基于奥迪 R8 底盘打造",
+      "0-62 英里/小时加速 3.0 秒",
+      "可选手动变速箱"
+    ],
+    "entities": [
+      "Cape Advanced Vehicles",
+      "Ford GT40",
+      "Audi R8",
+      "CAV GT MkII"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3ynRL/s1/cav-gt-mkii.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:52.209Z"
+  },
+  "https://www.thedrive.com/news/jeep-just-confirmed-the-cherokee-trailhawk-is-coming-back": {
+    "title_zh": "Jeep 确认 Cherokee Trailhawk 回归",
+    "summary_short": "Jeep 确认 Cherokee Trailhawk 回归，新车将具备更强越野能力，弥补此前承诺的不足。",
+    "summary_long": "Jeep CEO Bob Broderdorf 此前承诺全新 Cherokee 将具备越野能力，但该承诺一直未兑现。如今 Jeep 正式确认 Cherokee Trailhawk 回归，并公布了首张预告图。新车采用改进的前脸设计，配备红色拖车钩，预计将提升接近角和离去角，并可能采用更小的轮毂和更大的轮胎，以增强越野性能。",
+    "highlights_zh": [
+      "Jeep 确认 Cherokee Trailhawk…",
+      "新车具备更强越野能力",
+      "改进前脸",
+      "预计提升接近角和离去角"
+    ],
+    "entities": [
+      "Jeep",
+      "Cherokee Trailhawk",
+      "Bob Broderdorf"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/JP027_001CH-e1782140751195.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nun-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:55.251Z"
+  },
+  "https://insideevs.com/news/799466/lucid-layoffs-midsize-ev-platform-restructuring/": {
+    "title_zh": "Lucid 裁员 18%并削减亚利桑那工厂产量",
+    "summary_short": "Lucid Motors 宣布裁员 18%，并取消亚利桑那工厂第二生产班次，作为重组计划的一部分，预计节省 1.58 亿美元。",
+    "summary_long": "Lucid Motors 在 SEC 文件中宣布将裁减美国员工 18%，并取消其亚利桑那 AMP-1 工厂的第二生产班次。这是该公司 2026 年第二轮裁员，此前 2 月已裁员 12%。重组计划预计节省约 1.58 亿美元，但将产生约 3200 万美元的遣散费和相关成本。同时，COO Marc Winterhoff 离职，该职位被取消。此前 CEO Peter Rawlinson 已于年初离职，新任 CEO Silvio Napoli 上任。此外，多名高级工程师也相继离开。Lucid 正面临电动汽车销售增长缓慢和竞争加剧的挑战。",
+    "highlights_zh": [
+      "裁员 18%",
+      "取消亚利桑那工厂第二班次",
+      "COO 职位被取消",
+      "重组预计节省 1.58 亿美元"
+    ],
+    "entities": [
+      "Lucid",
+      "Air",
+      "Gravity",
+      "AMP-1 工厂",
+      "Silvio Napoli"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlRKEy/s1/2026-insideevs-breakthrough-awards-editor-s-choice-lucid-gravity.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:56.223Z"
+  },
+  "https://www.motor1.com/features/799452/onx-off-road-maps-app-trail-tested/": {
+    "title_zh": "这款 App 可能是最重要的越野工具",
+    "summary_short": "OnX Offroad 越野地图 App 实测：在犹他州偏远地区驾驶福特 Bronco，导航成为关键。",
+    "summary_long": "越野最重要的不是轮胎或差速锁，而是导航。OnX Offroad 是一款专为越野设计的导航应用，提供详细的小径地图和土地信息。作者在犹他州 Moab 驾驶福特 Bronco 实地测试，体验了该应用在复杂地形中的实用性。OnX 还为 2017 年后的福特车主提供一年精英会员。",
+    "highlights_zh": [
+      "越野核心是导航",
+      "OnX Offroad 专为小径导航设计",
+      "在 Moab 驾驶 Bronco 实地测试",
+      "福特车主可获一年精英会员"
+    ],
+    "entities": [
+      "OnX Offroad",
+      "福特",
+      "Bronco",
+      "Moab",
+      "越野导航"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbgG2A/s1/onx-offroad-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:54:59.275Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-mazda-cx-90-plug-in-hybrid-review": {
+    "title_zh": "2026 款马自达 CX-90 插电混动版评测：终于准备好迎接黄金时代",
+    "summary_short": "马自达 CX-90 插电混动版经过多项改进，解决了早期问题，纯电续航足以满足日常通勤，成为一款更成熟的三排座 SUV。",
+    "summary_long": "2026 款马自达 CX-90 插电混动版在保留涡轮增压直列六缸车型优缺点的同时，提供了足够的纯电续航里程，日常接送孩子基本无需用油。经过多项更新，它不再像早期版本那样有原型车的感觉。12.3 英寸数字仪表盘和 12.3 英寸中控屏成为标配，座椅配置也有所调整，21 英寸轮毂成为标准配置。外观上，PHEV 版本与燃油版差异细微，仅通过充电口盖、翼子板标识和尾门徽章区分。内饰与燃油版相同，部分空间妥协源于电池组布局。",
+    "highlights_zh": [
+      "纯电续航满足日常通勤",
+      "12.3 英寸双屏成为标配",
+      "21 英寸轮毂全系标配",
+      "外观细节低调区分 PHEV 身份"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-90"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/04/untitled-0021_0f16d5-e1777912760664.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/untitled-0024_b2cb4c.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/04/untitled-0009_52abce.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:00.705Z"
+  },
+  "https://www.thedrive.com/news/the-era-of-autonomous-nurburgring-records-has-begun-and-its-slow-tds": {
+    "title_zh": "自动驾驶纽博格林圈速纪录时代开启，但速度很慢",
+    "summary_short": "小米 YU7 GT 以 10 分 29 秒完成纽博格林北环首个全自动驾驶圈速纪录，虽慢但标志着新纪元。",
+    "summary_long": "小米 YU7 GT 电动 SUV 以 10 分 29.483 秒的成绩创造了纽博格林北环首个全自动驾驶圈速纪录。尽管该车拥有约 1000 马力，人类驾驶时曾跑出 7 分 22 秒，但自动驾驶圈速仅达 130 英里/小时极速，比人类慢约 3 分钟。小米表示这只是起点，未来车企能否缩小人机差距值得关注。",
+    "highlights_zh": [
+      "小米 YU7 GT 创下纽博格林首个自动驾驶圈速纪录",
+      "圈速 10 分 29 秒",
+      "车辆拥有 1000 马力",
+      "小米称此为起点"
+    ],
+    "entities": [
+      "小米",
+      "YU7 GT",
+      "纽博格林北环"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/xiao-nurb.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nun-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:02.721Z"
+  },
+  "https://www.thedrive.com/news/you-cant-buy-a-new-defender-discovery-or-range-rover-and-its-because-of-the-airbags": {
+    "title_zh": "因安全气囊缺陷，路虎暂停销售 Defender、Discovery 和 Range Rover",
+    "summary_short": "JLR 因安全气囊潜在缺陷，对 Defender、Discovery 和 Range Rover 发起召回并停止销售，涉及 2019 年 4 月至 2026 年 6 月生产的车辆。",
+    "summary_long": "捷豹路虎（JLR）宣布对旗下路虎品牌的三款车型——Defender、Discovery 和 Range Rover——实施自愿召回并暂停销售。原因是内部测试发现驾驶员侧安全气囊存在潜在缺陷。此次召回涉及 2019 年 4 月至 2026 年 6 月期间生产的车辆，具体数量尚未公布。JLR 发言人向 The Drive 确认了该消息。",
+    "highlights_zh": [
+      "JLR 召回并停售 Defender、Discove…",
+      "原因：驾驶员侧安全气囊潜在缺陷",
+      "涉及 2019 年 4 月至 2026 年 6 月生…"
+    ],
+    "entities": [
+      "捷豹路虎 | Jaguar Land Rover",
+      "路虎 | Land Rover",
+      "Defender",
+      "Discovery",
+      "Range Rover"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/R0003394-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nun-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:04.003Z"
+  },
+  "https://press.piaggiogroup.com/en_EN/post/show/352861/80-years-of-an-icon-the-exhibi.html": {
+    "title_zh": "Vespa 80 周年纪念展“80 Years of an Icon”将在罗马举行",
+    "summary_short": "Vespa 80 周年纪念展“80 Years of an Icon”将于 6 月 25 日至 28 日在罗马 Foro Italico 举办，展示品牌历史与文化影响。",
+    "summary_long": "为庆祝 Vespa 诞生 80 周年，一场名为“80 Years of an Icon”的展览将于 6 月 25 日至 28 日在罗马的 Foro Italico 举行。展览由 Giacomo Bretzel 策划，通过前所未见的图片和独特车型，回顾 Vespa 品牌的历史及其全球文化影响。",
+    "highlights_zh": [
+      "展览时间：6 月 25 日至 28 日",
+      "地点：罗马 Foro Italico",
+      "策展人：Giacomo Bretzel",
+      "展示罕见图片与独特车型"
+    ],
+    "entities": [
+      "Vespa",
+      "Foro Italico",
+      "罗马 | Rome",
+      "80 周年纪念展"
+    ],
+    "gallery_images": [
+      "https://media.lulop.com/media/getimage/l/352861/7/640,480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:06.016Z"
+  },
+  "https://response.jp/article/2026/06/22/413033.html": {
+    "title_zh": "从更换扬声器开始，轻松体验音质进化的乐趣！专业店家传授“初级铁板方案”",
+    "summary_short": "从更换扬声器入手，即可大幅提升车内音质。专业店家推荐初级方案，低音与高音质感变化明显。",
+    "summary_long": "驾驶与音乐密不可分，而更换扬声器是提升车内音质最直接有效的方法。大阪府高槻市的专业店家“Car Audio Club”的高桥先生表示，扬声器作为声音的出口，其性能直接影响听感。原厂扬声器与市售产品的性能差距巨大，更换后低音表现和高音质感会有显著改善，即使是初学者也能轻松感受到音质的进化。",
+    "highlights_zh": [
+      "更换扬声器是音质升级的入门首选",
+      "原厂与市售扬声器性能差距巨大",
+      "低音与高音质感变化明显",
+      "专业店家推荐初级铁板方案"
+    ],
+    "entities": [
+      "Car Audio Club"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220913.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220913.jpg",
+      "https://response.jp/imgs/fill2/2220914.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:09.014Z"
+  },
+  "https://bestcarweb.jp/feature/column/1552671": {
+    "title_zh": "眼镜娘形象崩塌？时东 ami 的 V6 双涡轮增压保时捷生活",
+    "summary_short": "眼镜娘偶像时东 ami 公开爱车保时捷 Macan S，分享驾驶乐趣与家庭回忆，颠覆传统形象。",
+    "summary_long": "以眼镜娘形象走红的偶像时东 ami，在 Best Car Web 上公开了自己的爱车——保时捷 Macan S。她表示“果然还是大的好”，并透露后备箱常备某物。时东 ami 回忆父亲热爱驾驶，家庭拥有大型轿车和小型车，受此影响她偏爱带天窗的车型。她在四年前生子后考取驾照，期间需兼顾育儿与学车，过程辛苦但充满乐趣。",
+    "highlights_zh": [
+      "眼镜娘偶像时东 ami 公开爱车保时捷 Macan…",
+      "后备箱常备神秘物品",
+      "受父亲影响",
+      "生子后考取驾照"
+    ],
+    "entities": [
+      "时东 ami",
+      "保时捷 | Porsche",
+      "Macan S"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17161925/samune-2.jpg?v=1781680767",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17161925/samune-2-600x368.jpg?v=1781680767",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H-600x397.jpg?v=1781850078"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:11.288Z"
+  },
+  "https://response.jp/article/2026/06/22/413039.html": {
+    "title_zh": "DUCATI DAY 2026：杜卡迪粉丝的狂欢盛宴",
+    "summary_short": "杜卡迪在铃鹿赛道举办品牌体验活动，日本首发三款新车，包括 Desmo450 MX Factory、Monster+和 Panigale V4 R。",
+    "summary_long": "6 月 6 日，杜卡迪日本在铃鹿赛道举办了品牌体验活动“DUCATI DAY 2026”，庆祝杜卡迪成立 100 周年。活动吸引了众多杜卡迪粉丝和骑行爱好者，现场展示了三款日本首次公开的新车型：Desmo450 MX Factory、Monster+和 Panigale V4 R。295 辆摩托车参加了巡游，Mini DRE 和试驾活动名额提前报满。Desmo450 MX Factory 是杜卡迪进军越野摩托车领域的首款车型，搭载 Desmodromic 机构，最大功率 63.5 马力，扭矩 5.46kgm，整备质量 104kg。新款 Monster+是运动街车的进化版，轻量化且操控敏捷，最大功率 111 马力，扭矩 9.3kgm，整备质量 175kg。Panigale V4 R 继承了 MotoGP DNA，是旗舰超级跑车，最大功率 237 马力，扭矩 12.1kgm，整备质量 184kg。",
+    "highlights_zh": [
+      "三款日本首发新车亮相",
+      "295 台摩托车参与巡游",
+      "Desmo450 MX Factory 进军越野",
+      "Panigale V4 R 旗舰性能 237 马力"
+    ],
+    "entities": [
+      "杜卡迪 | Ducati",
+      "Desmo 450 MX Factory",
+      "Monster+",
+      "Panigale V4 R",
+      "铃鹿赛道"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221162.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221162.jpg",
+      "https://response.jp/imgs/fill2/2221139.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:13.885Z"
+  },
+  "https://bestcarweb.jp/news/1548372": {
+    "title_zh": "2026 年版ゼンリン地图加持！7 英寸便携导航为何受关注",
+    "summary_short": "OVER TIME 推出搭载 2026 版 Zenrin 地图的 7 英寸便携导航，支持 1seg 电视、安全驾驶辅助，满足车载导航实用需求。",
+    "summary_long": "尽管手机导航普及，但无需担心通信和电量的专用车载导航仍有需求，尤其商用车和家庭多车用户青睐便携式。OVER TIME 品牌发布 7 英寸触摸屏便携导航（OT-ZN715AK），搭载 2026 年春版 Zenrin 地图数据，收录新开通道路、最新设施及“るるぶDATA”约 3.9 万条旅游信息。支持地址、电话、设施名称搜索，功能全面。",
+    "highlights_zh": [
+      "搭载 2026 年春版 Zenrin 地图",
+      "收录约 3.9 万条旅游信息",
+      "支持 1seg 电视录制",
+      "地址/电话/设施多方式搜索"
+    ],
+    "entities": [
+      "OVER TIME",
+      "ゼンリン",
+      "便携导航"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13013212/6e78b31bb56c1e05f09c8f76c5d57b8a.jpg?v=1781281933",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13013212/6e78b31bb56c1e05f09c8f76c5d57b8a-600x377.jpg?v=1781281933",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/13014058/b51d157ef4756fc9af3175bd9a52132a-600x600.jpg?v=1781282459"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:15.961Z"
+  },
+  "https://bestcarweb.jp/news/entame/1557277": {
+    "title_zh": "本田奥德赛将于 2026 年度结束国内销售？真相调查",
+    "summary_short": "本田奥德赛被传 2026 年度停售，官方未确认，经销商回应引发热议。",
+    "summary_long": "2026 年 6 月 19 日有报道称，本田奥德赛将于 2026 年度（2027 年 3 月底）结束国内销售。经向本田公关部求证，对方表示该报道并非官方发布，且暂无相关计划。奥德赛自 1994 年推出以来历经 5 代，曾拯救本田于危机并开创日本 MPV 热潮。2021 年末因狭山工厂关闭停止国内生产，2023 年 12 月以中国产进口车形式重新销售，但表现平平。经销商对此消息态度谨慎，用户则对这款经典车型的终结感到惋惜。",
+    "highlights_zh": [
+      "奥德赛被传 2026 年度停售",
+      "本田官方称未正式发布",
+      "5 代 32 年历史经典 MPV",
+      "中国产进口版销售不佳"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "奥德赛",
+      "MPV",
+      "进口车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22183153/4251106-odyssey_001H-600x400-1.jpg?v=1782120714",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16212937/2tatisann2-600x502.jpg?v=1781612978",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17183731/077c00bc6352c865fdec108a1b9ee1ce.jpg?v=1781689052"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:18.651Z"
+  },
+  "https://bestcarweb.jp/feature/column/1544467": {
+    "title_zh": "700 万日元入手 460 马力 V8？第七代雪佛兰科尔维特二手车行情",
+    "summary_short": "第七代雪佛兰科尔维特二手车约 620 万日元起，700 万日元可购 460 马力 V8，超跑性能却相对亲民。",
+    "summary_long": "第七代雪佛兰科尔维特（2014-2018 年）搭载 6.2L V8 OHV 发动机，最大功率 466 马力，匹配 6 速 AT 或 7MT（2014 年 12 月后 AT 升级为 8 速）。高性能版 Z51 和超高性能版 Z06 亦存在。目前日本市场流通约 30 台，稀有度高。Z06 总价超 1200 万日元，但普通版（含 Z51）总价 700 万日元起即可找到车况良好的车型。Z06 虽具 659 马力，但购买二手时需仔细检查，基础版更为稳妥。",
+    "highlights_zh": [
+      "700 万日元可入手 460 马力 V8",
+      "全国仅约 30 台",
+      "Z06 超 1200 万",
+      "基础版二手更稳妥"
+    ],
+    "entities": [
+      "雪佛兰",
+      "科尔维特",
+      "Z51",
+      "Z06",
+      "V8"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08173202/00_Chevrolet-Corvette_C7_Stingray_head.jpg?v=1780907523",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08173202/00_Chevrolet-Corvette_C7_Stingray_head-600x400.jpg?v=1780907523",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H-600x397.jpg?v=1781850078"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:20.262Z"
+  },
+  "https://response.jp/article/2026/06/22/413024.html": {
+    "title_zh": "宝马 X5 新一代：五种动力系统可选，开发进入最终阶段",
+    "summary_short": "宝马新一代 X5 将首次提供 BEV、氢燃料电池、汽油、柴油和 PHEV 五种动力系统，开发进入最终阶段。",
+    "summary_long": "宝马宣布新一代 X5（第五代 SAV）开发进入最终阶段，并在美国斯帕坦堡工厂周边进行最终测试。该车首次提供五种动力系统选择：纯电动 iX5、氢燃料电池 iX5 Hydrogen（2028 年上市）、48V 轻混汽油/柴油版以及插电混动版。测试中包括 X5 40 xDrive、X5 50e xDrive PHEV 和 iX5 60 xDrive 三款车型。纯电动 iX5 采用第六代 eDrive 和 800V 技术，电池容量达 144kWh，为宝马史上最大。",
+    "highlights_zh": [
+      "五种动力系统：BEV、氢、汽油、柴油、PHEV",
+      "纯电 iX5 采用 800V 技术",
+      "氢燃料版 iX5 Hydrogen 2028 年量产",
+      "最终测试在美进行"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5",
+      "iX5",
+      "iX5 Hydrogen",
+      "eDrive"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221044.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221044.jpg",
+      "https://response.jp/imgs/fill2/2221048.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:23.567Z"
+  },
+  "https://bestcarweb.jp/feature/column/1552248": {
+    "title_zh": "CR-V 是否值得从 VEZEL 升级？价格与尺寸差异下的本田 SUV 选择",
+    "summary_short": "本田 VEZEL 与 CR-V 价格差约 185 万日元，尺寸更大，但 VEZEL 更适合城市通勤，CR-V 空间和长途舒适性更优。",
+    "summary_long": "本田 VEZEL 是畅销 SUV，但 2026 年 2 月复活的 CR-V 提供了更高级的选择。VEZEL 售价 275-396 万日元，CR-V e:HEV RS FF 约 512 万日元，差价约 185 万日元。尺寸上，CR-V 更长（4700mm vs 4340mm）、更宽（1865mm vs 1790mm），车内宽度多 120mm，后排座椅可滑动和 8 级倾斜，长途舒适性更好。但 VEZEL 油耗更低（25.3km/L vs 19.8km/L），更适合日常通勤和购物。如果主要在城市使用，VEZEL 足够；若追求空间和长途驾驶质感，CR-V 值得升级。",
+    "highlights_zh": [
+      "VEZEL 与 CR-V 价差约 185 万日元",
+      "CR-V 更长更宽",
+      "VEZEL 油耗更低",
+      "CR-V 座椅可滑动倾斜"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CR-V",
+      "VEZEL"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17165515/C015CR-V_1.jpg?v=1781682916",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17165515/C015CR-V_1-600x400.jpg?v=1781682916",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H-600x397.jpg?v=1781850078"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:25.528Z"
+  },
+  "https://response.jp/article/2026/06/22/413035.html": {
+    "title_zh": "泰克发布面向 EV 等的高压差分探头和宽带分流器",
+    "summary_short": "泰克推出两款新品：高压差分探头和宽带分流器，应对 EV 及 SiC/GaN 技术带来的高速开关测试挑战。",
+    "summary_long": "泰克发布两款针对电力电子设计的新产品：THDP0400 型高压差分探头和 IsoVu 隔离型电流探头用宽带分流器（TICP 系列）。随着电动汽车、工业系统、AI 数据中心等领域中 SiC 和 GaN 技术的普及，开关速度持续提升，这些产品旨在满足高速、高电压测试需求。",
+    "highlights_zh": [
+      "发布 THDP0400 高压差分探头",
+      "推出 TICP 系列宽带分流器",
+      "针对 SiC/GaN 高速开关测试",
+      "适用于 EV、AI 数据中心等场景"
+    ],
+    "entities": [
+      "泰克",
+      "THDP0400",
+      "TICP 系列",
+      "SiC",
+      "GaN"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221128.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221128.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:27.268Z"
+  },
+  "https://response.jp/article/2026/06/22/413034.html": {
+    "title_zh": "高化学强化 EV 用高性能润滑剂 EBS 销售，今夏名古屋开设库存基地",
+    "summary_short": "高化学为应对 EV 等领域对高性能润滑剂 EBS 的需求增长，宣布强化销售体制，今夏将在名古屋近郊开设库存基地，实现快速供应。",
+    "summary_long": "高化学（ハイケム）宣布强化高性能润滑剂“乙烯双硬脂酰胺（EBS）”的销售体制。随着需求扩大，公司将于 2026 年夏季在爱知县名古屋市近郊设立库存基地，构建面向国内制造业的快速供应体系。EBS 是一种用于塑料和橡胶加工的化学润滑剂，具有三大主要功能。",
+    "highlights_zh": [
+      "EV 等领域需求扩大",
+      "今夏名古屋开设库存基地",
+      "实现快速供应体制",
+      "EBS 用于塑料和橡胶加工"
+    ],
+    "entities": [
+      "高化学 | ハイケム",
+      "エチレンビスステアラミド",
+      "名古屋",
+      "润滑剂",
+      "EV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221076.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221076.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:28.914Z"
+  },
+  "https://www.motor1.com/news/799207/audi-115-dollar-stop-notification-fee/": {
+    "title_zh": "奥迪 Q3 车主因在外保养收到持续通知，经销商称关闭需付 115 美元",
+    "summary_short": "一位奥迪 Q3 车主因在非经销商处更换机油，车辆持续发出保养提醒，经销商称关闭通知需支付 115 美元，车主直呼“骗局”。",
+    "summary_long": "一位奥迪 Q3 车主在行驶至 2 万英里后，选择在本地修理厂而非经销商处更换机油，随后车辆每次启动都会显示“保养到期”通知。车主联系经销商后被告知，关闭该通知需支付 115 美元费用，引发车主不满。该事件在 TikTok 上引发热议，凸显了现代汽车数字化服务与用户自主选择之间的冲突。",
+    "highlights_zh": [
+      "车主在非经销商处换油后",
+      "经销商要求支付 115 美元才能关闭通知",
+      "车主称该收费为“骗局”",
+      "事件在 TikTok 上引发广泛讨论"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "奥迪 Q3 | Audi Q3",
+      "经销商",
+      "保养通知",
+      "收费"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koK9mN/s1/woman-s-new-audi-won-t-stop-sending-her-notifications.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:31.647Z"
+  },
+  "https://response.jp/article/2026/06/22/413026.html": {
+    "title_zh": "AI 科技公司股价涨停，自动驾驶前景引投机买入",
+    "summary_short": "受自动驾驶业务增长预期推动，AI 科技公司股价一度涨停，日经指数续创新高。",
+    "summary_long": "AI 科技公司股价在 22 日交易中一度触及涨停，市场预期其自动驾驶业务将迎来增长，引发投机性买入。同日，日经平均指数连续第 8 个交易日上涨，盘中首次突破 72000 点关口，半导体和人工智能相关股票领涨。尽管上周五美国股市因假日休市，但海外资金对股指期货的买盘推动日本市场走高。外汇市场上日元贬值至 1 美元兑 161 日元后半段，汽车股涨跌互现。",
+    "highlights_zh": [
+      "AI 科技公司股价一度涨停",
+      "自动驾驶业务增长预期推动买盘",
+      "日经指数首次突破 72000 点",
+      "半导体和 AI 相关股票领涨"
+    ],
+    "entities": [
+      "AI 科技公司",
+      "日经平均指数",
+      "自动驾驶",
+      "半导体",
+      "人工智能"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221077.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221077.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:32.505Z"
+  },
+  "https://response.jp/article/2026/06/22/413029.html": {
+    "title_zh": "起亚 PV5 展示会 6 月 27-28 日在东京南町田举行",
+    "summary_short": "Toy Factory 将于 6 月 27-28 日在东京南町田举办起亚 PBV PV5 展示会，展出乘用版和货运版两款实车。",
+    "summary_long": "Toy Factory 将于 6 月 27 日至 28 日在东京南町田 Grandberry Park 举办起亚 PBV PV5 展示会，这是该公司首次展出起亚 PBV 实车。展示车型包括乘用版 PV5 Passenger（5 座）和货运版 PV5 Cargo（2 座）。展示结束后，Toy Factory 东京店将于 2026 年 7 月底更名为“Kia PBV 东名横滨”并常设展示。",
+    "highlights_zh": [
+      "Toy Factory 首次实车展示起亚 PBV",
+      "展出 PV5 Passenger 和 PV5 Car…",
+      "展示后东京店将常设 PBV 展示"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5",
+      "Toy Factory",
+      "南町田 Grandberry Park"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221065.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221065.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:36.337Z"
+  },
+  "https://response.jp/article/2026/06/22/413027.html": {
+    "title_zh": "卡纳维时间强化“距离优先”路线，为轻型出租车解禁做准备",
+    "summary_short": "日本导航应用卡纳维时间强化“距离优先”路线功能，新增三级优先级设置，为轻型出租车解禁做准备。",
+    "summary_long": "日本导航公司 Navitime Japan 于 6 月 22 日宣布，旗下汽车导航应用“卡纳维时间”及配送专用应用“配送 NAVITIME”将强化“距离优先”路线功能。新功能在路线搜索条件中新增“距离优先”选项，用户可设置“标准”、“强”、“非常强”三级优先级。设为“非常强”时，系统会在考虑安全性和易驾驶性的同时，尽可能缩短行驶距离。此外，“卡纳维时间”还新增了按时间、高速费用、距离排序的路线搜索结果排序功能。该公司改进了路径搜索技术，利用历史行驶数据，在缩短总距离的同时兼顾驾驶体验，有望减少信号灯通过次数和拥堵路段行驶距离。此前，该应用已根据专业司机意见提供“出租车模式”和“捷径路线”等功能，此次更新回应了用户对更短路线引导的需求。",
+    "highlights_zh": [
+      "新增“距离优先”路线选项",
+      "优先级分“标准”“强”“非常强”三级",
+      "利用历史数据平衡距离与驾驶体验",
+      "为轻型出租车解禁优化路线引导"
+    ],
+    "entities": [
+      "卡纳维时间 | カーナビタイム",
+      "配送 NAVITIME",
+      "ナビタイムジャパン",
+      "距离优先",
+      "轻型出租车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221054.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221054.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:36.849Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556256": {
+    "title_zh": "轿车过时了？别再用“化石语”！人气文章 TOP20",
+    "summary_short": "Best Car Web 发布一周人气文章 TOP20，涵盖轿车过时论、丰田 Sienta 热销、普锐斯家用性等话题。",
+    "summary_long": "Best Car Web 汇总了 2026 年 6 月 14 日至 20 日的人气文章 TOP20。榜单包括“轿车过时了？别再用‘化石语’！”等话题性内容，以及丰田 Sienta 半数买家选择 5 座版、普锐斯作为家用车的实用性、经典发动机车型推荐、斯巴鲁 Levorg 初代在海外表现不佳等深度分析。",
+    "highlights_zh": [
+      "轿车被指“大叔味”过时",
+      "丰田 Sienta 半数选 5 座版",
+      "普锐斯家用性实测",
+      "经典发动机车型推荐"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "普锐斯",
+      "Sienta",
+      "Levorg",
+      "轿车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21115412/samune-3.jpg?v=1782010453",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21115412/samune-3-600x390.jpg?v=1782010453",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H-600x397.jpg?v=1781850078"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:41.175Z"
+  },
+  "https://response.jp/article/2026/06/22/413040.html": {
+    "title_zh": "JAOS 推出 Delica D:5 轮眉饰条与 Jimny Nomad 侧踏板",
+    "summary_short": "JAOS 为三菱 Delica D:5 和铃木 Jimny Nomad 推出新配件，提升越野风格与功能性。",
+    "summary_long": "JAOS（ジャオス）为三菱 Delica D:5（CV1W，2026 年 1 月后车型）推出“JAOSフェンダーガーニッシュ type-X”轮眉饰条，以及为铃木 Jimny Nomad（JC74 系）推出“JAOSサイドステップ ブラック”侧踏板。两款配件均旨在强化车辆的硬派形象，升级为真正的越野风格。Delica D:5 的轮眉饰条设计在保持车身宽度的同时增加立体感，单侧加宽不超过 10mm，左右合计小于 20mm，通常无需结构变更手续。提供未涂装版（可自行喷漆）和哑光黑（纹理涂装）两种选择。Jimny Nomad 的侧踏板则兼顾耐久性与功能性。",
+    "highlights_zh": [
+      "Delica D:5 轮眉饰条单侧加宽<10mm",
+      "Jimny Nomad 侧踏板强调耐久性",
+      "未涂装版可自定义颜色",
+      "左右合计加宽<20mm"
+    ],
+    "entities": [
+      "JAOS",
+      "三菱 | Mitsubishi",
+      "Delica D:5",
+      "铃木 | Suzuki",
+      "Jimny Nomad"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221094.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221094.jpg",
+      "https://response.jp/imgs/fill2/2221089.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:41.388Z"
+  },
+  "https://response.jp/article/2026/06/22/413025.html": {
+    "title_zh": "Socionext 连续两年入选 SOMPO 可持续发展指数",
+    "summary_short": "Socionext 连续第二年入选 SOMPO 可持续发展指数，该指数基于 ESG 评估，涵盖约 300 家优秀企业。",
+    "summary_long": "Socionext 宣布连续第二年入选 SOMPO 资产管理公司设立的“SOMPO 可持续发展指数”。该指数基于 SOMPO 风险管理公司实施的“环境经营调查”和“ESG 经营调查”的 ESG 评估，由约 300 家 ESG 表现优异的企业组成，已被多家养老基金等机构投资者采用。Socionext 将可持续发展视为重要经营课题，致力于通过全球合作推动创新。",
+    "highlights_zh": [
+      "连续两年入选 SOMPO 可持续发展指数",
+      "基于 ESG 评估",
+      "被多家机构投资者采用",
+      "将可持续发展视为重要经营课题"
+    ],
+    "entities": [
+      "ソシオネクスト",
+      "SOMPO 可持续发展指数"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221061.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221061.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:44.764Z"
+  },
+  "https://response.jp/article/2026/06/22/413023.html": {
+    "title_zh": "Dynamic Map 将携高精 3D 地图数据亮相 AVTE 2026，助力自动驾驶开发",
+    "summary_short": "Dynamic Map 将在德国 AVTE 2026 展出高精度 3D 地图数据，用于自动驾驶仿真与 AI 数据应用。",
+    "summary_long": "Dynamic Map Platform 将于 6 月 23 日至 25 日参加在德国斯图加特举办的自动驾驶与 ADAS 技术国际展会 AVTE 2026。展会上将重点展示基于高精度 3D 地图数据的交通仿真，以及公司在 Hugging Face 上发布的 AI 原生数据应用方法。面向 OEM、Tier 1 供应商和软件提供商，展示支撑自动驾驶与 ADAS 开发的数据平台具体应用场景。该公司的高精度 3D 地图数据以厘米级精度测量现实世界，可高效构建反映复杂道路和交通环境的 3D 模型，大幅减少传统仿真道路建模所需的时间和人力。",
+    "highlights_zh": [
+      "展出高精度 3D 地图数据驱动的交通仿真",
+      "介绍 Hugging Face 上的 AI 原生数据…",
+      "厘米级精度地图助力高效仿真建模",
+      "面向 OEM、Tier1 及软件商的数据平台展示"
+    ],
+    "entities": [
+      "ダイナミックマッププラットフォーム",
+      "AVTE 2026",
+      "高精度 3D 地图数据",
+      "交通仿真",
+      "AI 原生数据"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221041.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221041.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:46.296Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543216": {
+    "title_zh": "不买普锐斯也行？日产 Note Aura 品质与驾驶感超预期",
+    "summary_short": "受订单积压影响，丰田普锐斯暂停接单。日产 Note Aura 作为替代选择，内外质感与驾驶性能均超预期，尤其 NISMO 版本更具个性。",
+    "summary_long": "由于长期等待导致订单暂停，许多热门丰田车型难以购买。本文探讨了丰田普锐斯的替代车型，推荐日产 Note Aura。Note Aura 作为 Note 的高端版本，车身更紧凑但内外装潢更精致，动力性能优于普通 Note，车身宽度达到 3 号牌标准。其中 Note Aura NISMO 版本基于 G grade，加装空力套件、运动内饰及调校悬挂，价格仅增加约 30 万日元，比普锐斯更具个性与驾驶乐趣。",
+    "highlights_zh": [
+      "丰田普锐斯因长交期暂停接单",
+      "日产 Note Aura 作为替代车型推荐",
+      "Note Aura NISMO 版运动感强于普锐斯",
+      "价格仅比普通版贵约 30 万日元"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "普锐斯",
+      "日产 | Nissan",
+      "Note Aura",
+      "Note Aura NISMO"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07141254/00_daida_prius_15_head.jpg?v=1780809175",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07141254/00_daida_prius_15_head-600x400.jpg?v=1780809175",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H-600x397.jpg?v=1781850078"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:49.616Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551092": {
+    "title_zh": "马自达 2 即将停产，但 Demio 的魂动精神将以 SUV 形式延续？新型 CX-3 揭示马自达小型车新战略",
+    "summary_short": "马自达 2 将于 2026 年 8 月停产，但 Demio 的魂动精神可能通过新型 CX-3 以 SUV 形式延续，揭示马自达小型车新战略。",
+    "summary_long": "马自达 2（基于第四代 Demio）将于 2026 年 8 月结束国内生产，标志着 Demio 自 1996 年诞生以来 30 年历史的终结。同时，其衍生 SUV CX-3 也已在 2026 年 2 月停产。然而，马自达计划推出新型 CX-3，可能继承 Demio 的魂动设计理念和驾驶乐趣，以 SUV 形式延续小型车基因。初代 Demio 曾帮助马自达走出经营危机，第四代则转向高品质运动化路线。",
+    "highlights_zh": [
+      "马自达 2 将于 2026 年 8 月停产",
+      "CX-3 已于 2026 年 2 月停产",
+      "新型 CX-3 计划中",
+      "Demio 30 年历史将终结"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "马自达 2 | MAZDA2",
+      "デミオ",
+      "CX-3"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16053507/9e27d8926c12e413cf49b755ba0c3e3f-8.jpg?v=1781555708",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16053507/9e27d8926c12e413cf49b755ba0c3e3f-8-600x338.jpg?v=1781555708",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H-600x397.jpg?v=1781850078"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:50.789Z"
+  },
+  "https://bestcarweb.jp/feature/column/1554855": {
+    "title_zh": "3 代目本田奥德赛：低矮车身颠覆 MPV 印象",
+    "summary_short": "回顾 2003 年第三代本田奥德赛，低矮车身与轿车化操控颠覆了 MPV 传统，至今仍是经典。",
+    "summary_long": "2003 年推出的第三代本田奥德赛以低矮车身（全高 1550mm）和低重心设计，打破了 MPV“箱型家庭车”的固有印象。它兼具 MPV 的实用性，却拥有超越轿车的操控性能，成为一代传奇。本文通过珍贵图片回顾这款经典车型的魅力，包括运动版“Absolute”配备 17 英寸轮胎、深灰色轮毂及单侧双出排气管，标准版则采用更圆润柔和的外观以提升高级感。",
+    "highlights_zh": [
+      "2003 年推出",
+      "全高仅 1550mm",
+      "Absolute 版配备 17 英寸轮毂与运动排气",
+      "标准版外观更圆润"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "奥德赛",
+      "Absolute"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H.jpg?v=1781850078",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19152117/am_od0310176H-600x397.jpg?v=1781850078",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18154402/27616b7d338c03653069ef5e7403b29e-600x400.jpg?v=1781765043"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:53.830Z"
+  },
+  "https://insideevs.com/news/799424/sweden-questions-tesla-fsd-europe/": {
+    "title_zh": "特斯拉 FSD 终抵欧洲，但超速问题或阻碍其扩张",
+    "summary_short": "瑞典警告欧盟，若特斯拉 FSD 允许超速，则不应批准其全欧推广。",
+    "summary_long": "特斯拉全自动驾驶系统（FSD）首次在荷兰获批上路，看似即将在全欧铺开。然而瑞典交通管理局（TRV）致信欧盟汽车技术委员会（TCMV），建议投票反对 FSD 当前形式的推广，因其“速度偏移”功能允许车辆超速，可能破坏法律框架和自动驾驶的安全预期。此外，FSD 在冬季冰雪条件下的表现未经测试，且名称具有误导性。TCMV 将于 6 月 30 日投票决定是否将荷兰的批准扩展至全欧盟。",
+    "highlights_zh": [
+      "瑞典建议欧盟否决特斯拉 FSD 全欧推广",
+      "FSD 的“速度偏移”功能可超速行驶",
+      "冬季冰雪条件下 FSD 表现未经测试",
+      "TCMV 将于 6 月 30 日投票决定"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "全自动驾驶",
+      "瑞典交通管理局",
+      "欧盟汽车技术委员会",
+      "荷兰"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJB6K/s1/tesla-fsd-europe-quiz-netherlands.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:54.755Z"
+  },
+  "https://www.motor1.com/news/799212/dealership-sells-man-stolen-car/": {
+    "title_zh": "经销商出售被盗车辆，买家退款遭拒",
+    "summary_short": "豪华车经销商从另一家经销商处购入被盗车辆，警方扣押后要求退款遭拒，对方称自己也是受害者。",
+    "summary_long": "新泽西州豪华车经销商 J&S Autohaus 的老板 George J. Saliba 从另一家经销商处购买了一辆汽车，随后发现该车为被盗车辆并被警方扣押。Saliba 要求对方退款，但对方经销商声称自己也是受害者，在交易时并不知情，拒绝承担财务责任。事件被发布在 TikTok 上，引发关注。",
+    "highlights_zh": [
+      "购车后发现是赃车",
+      "警方扣押车辆",
+      "卖家拒绝退款",
+      "双方均称是受害者"
+    ],
+    "entities": [
+      "J&S Autohaus",
+      "George J. Saliba",
+      "新泽西州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZE98J/s1/dealership-sells-man-a-stolen-vehicle.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:57.103Z"
+  },
+  "https://www.motor1.com/news/799402/porsche-sell-fewer-cars-more-profits/": {
+    "title_zh": "保时捷新战略：减产保利润",
+    "summary_short": "保时捷计划削减产能以应对销量下滑，但通过提高利润率来增加利润，并推出新车型吸引客户。",
+    "summary_long": "保时捷 CEO Michael Leiters 宣布，公司将减少产量以匹配疲软的需求，同时通过优先考虑更高利润率而非销量来增加利润。2023 年保时捷销量创历史新高，但随后在中国市场因竞争加剧而下滑，且 Macan 和 718 车型因未满足欧洲网络安全法规而停售，导致 2025 年交付量降至 279,449 辆。2026 年第一季度需求再降 15%。Leiters 表示，即使销量减少，保时捷仍能通过提高现有和未来产品的利润率来盈利。产品线将扩大，包括 718 跑车回归，并提供燃油和纯电两种动力。此前计划的大型三排座 SUV（定位高于 Cayenne）的未来尚不确定。",
+    "highlights_zh": [
+      "保时捷计划削减产能以应对需求下滑",
+      "优先提高利润率而非追求销量",
+      "718 跑车将回归",
+      "大型三排座 SUV 未来不确定"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Macan",
+      "718",
+      "Cayenne"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N49gx/s1/porsche-cayenne-turbo-coupe-electric-2026-das-exterieur.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:55:59.072Z"
+  },
+  "https://www.motor1.com/news/799383/new-smart-interior-photos/": {
+    "title_zh": "全新 Smart #2 内饰曝光：采用长条座椅设计",
+    "summary_short": "Smart #2 内饰官图发布，采用独特的贯穿式长条座椅设计，提升空间灵活性，虽为双座车但中央可折叠。",
+    "summary_long": "Smart #2 内饰首次曝光，最大亮点是贯穿式长条座椅设计。尽管车辆尺寸小巧且严格为双座布局，但中央部分可折叠放下，形成连续座椅表面，既营造更宽敞的视觉效果，也方便在狭窄停车位从另一侧下车。中控台呈 S 形曲线，搭配涡轮式出风口，整体风格接近奔驰。该车目前仍为概念状态，但量产版预计数月内亮相。",
+    "highlights_zh": [
+      "贯穿式长条座椅",
+      "双座布局",
+      "S 形中控台",
+      "概念车状态"
+    ],
+    "entities": [
+      "Smart #2",
+      "奔驰 | Mercedes"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPZJ6/s1/smart-concept-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:56:00.939Z"
+  },
+  "https://www.motor1.com/news/799376/2026-renault-megaine/": {
+    "title_zh": "电动雷诺梅甘娜改款：新前脸、更长续航",
+    "summary_short": "雷诺梅甘娜 E-Tech 电动版迎来中期改款，采用全新前脸设计，续航提升至 280 英里，充电速度更快，并保留物理按键。",
+    "summary_long": "雷诺为梅甘娜 E-Tech 电动版推出中期改款，重新设计前脸，采用钻石主题灯光和格栅，尾部增加三维效果尾灯和扩散器。续航从标准版的 280 英里提升至 WLTP 标准，长续航版可达 280 英里，充电功率从 130kW 增至 170kW。车内保留物理空调按键，12 英寸竖屏信息娱乐系统升级，新增暖灰色内饰和隔音玻璃。动力方面，标准版输出 130kW（180 马力），长续航版 160kW（218 马力），扭矩均为 300 牛·米。",
+    "highlights_zh": [
+      "全新前脸设计",
+      "续航提升至 280 英里",
+      "保留物理空调按键",
+      "新增暖灰色内饰和隔音玻璃"
+    ],
+    "entities": [
+      "雷诺 | Renault",
+      "梅甘娜 | Megane",
+      "E-Tech Electric",
+      "WLTP"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3yGO3/s1/renault-megane-e-tech-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-22T17:56:03.583Z"
   }
 }

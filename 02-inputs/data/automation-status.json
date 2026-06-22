@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-22T05:28:27.674Z",
+    "generated_at": "2026-06-22T17:54:38.701Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 374,
-    "deepseek_untranslated_before_run": 26,
-    "newly_fetched_articles": 26,
-    "newly_fetched_untranslated": 26,
+    "deepseek_translated_before_run": 361,
+    "deepseek_untranslated_before_run": 39,
+    "newly_fetched_articles": 39,
+    "newly_fetched_untranslated": 39,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 26,
+    "translation_queue_count": 39,
     "translation_queue_preview": [
       {
+        "source": "The Drive",
+        "time": "2026.6.22",
+        "title": "Car Enthusiasts Hate on the Honda Prelude, But the Real World Loves it",
+        "url": "https://www.thedrive.com/news/car-enthusiasts-hate-on-the-honda-prelude-but-the-real-world-loves-it"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.22",
+        "title": "This Man Was Gifted His Dream Car by the Notorious Hacker He Put in Prison",
+        "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.22",
+        "title": "Man Takes Honda Pilot To The Shop Because It Shakes At High Speeds. Then The Mechanic Discovers The Real Problem",
+        "url": "https://www.motor1.com/news/799372/honda-pilot-sway-bar/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.22",
+        "title": "A Driverless Xiaomi Electric SUV Just Lapped The Ring. We Have Questions",
+        "url": "https://insideevs.com/news/799478/xiaomi-yu7-nurburgring-driverless-lap/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.22",
+        "title": "This Reborn Ford GT40 Isn't A Ford At All",
+        "url": "https://www.motor1.com/news/799464/ford-gt40-restomod-800-hp-v8/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.22",
+        "title": "Formula Drift Debuts in Connecticut, Signs Three-Year Contract With Track",
+        "url": "https://www.thedrive.com/news/formula-drift-debuts-in-connecticut-signs-three-year-contract-with-track"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.22",
+        "title": "Lucid Lays Off 18% Of Its Workers And Cuts Production At Arizona Plant",
+        "url": "https://insideevs.com/news/799466/lucid-layoffs-midsize-ev-platform-restructuring/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.22",
+        "title": "Jeep Just Confirmed the Cherokee Trailhawk Is Coming Back",
+        "url": "https://www.thedrive.com/news/jeep-just-confirmed-the-cherokee-trailhawk-is-coming-back"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.22",
+        "title": "This App Might Be The Most Important Off-Road Tool You Can Buy",
+        "url": "https://www.motor1.com/features/799452/onx-off-road-maps-app-trail-tested/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.22",
+        "title": "2026 Mazda CX-90 Plug-In Hybrid Review: Finally Ready for Prime Time",
+        "url": "https://www.thedrive.com/car-reviews/2026-mazda-cx-90-plug-in-hybrid-review"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.22",
+        "title": "The Era of Autonomous Nurburgring Records Has Begun, and It’s Slow: TDS",
+        "url": "https://www.thedrive.com/news/the-era-of-autonomous-nurburgring-records-has-begun-and-its-slow-tds"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.22",
+        "title": "You Can’t Buy a New Defender, Discovery, or Range Rover — and It’s Because of the Airbags",
+        "url": "https://www.thedrive.com/news/you-cant-buy-a-new-defender-discovery-or-range-rover-and-its-because-of-the-airbags"
+      },
+      {
+        "source": "Vespa",
+        "time": "2026.6.22",
+        "title": "“80 Years of an Icon”: the exhibition celebrating Vespa’s 80th anniversary arrives at Rome’s Foro Italico from June 25 to 28",
+        "url": "https://press.piaggiogroup.com/en_EN/post/show/352861/80-years-of-an-icon-the-exhibi.html"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.6.22",
-        "title": "「こいつはカッコいい」タフ感マシマシの日産『キックス ROCK CREEK』が話題に！「相当売れるぞこのクルマ」",
-        "url": "https://response.jp/article/2026/06/22/413007.html"
+        "title": "「スピーカー交換」から始めて、音が進化する楽しさを手軽に体験！［音を良くする“初級鉄板プラン”をプロが伝授］",
+        "url": "https://response.jp/article/2026/06/22/413033.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.22",
-        "title": "【6月22日発売】巻頭特集は「宮城交通グループ」!! ほか楽しいバスの企画満載のバスマガジン133号!!",
-        "url": "https://bestcarweb.jp/busmagazine/1549907"
+        "title": "「メガネ女子」のイメージ崩壊!? 時東ぁみがV6ツインターボを鳴らす「ガチすぎるポルシェライフ」",
+        "url": "https://bestcarweb.jp/feature/column/1552671"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.22",
+        "title": "「最高の一日」「カッコよかったー」ドゥカティスタの祭典「DUCATI DAY 2026」にファン歓喜",
+        "url": "https://response.jp/article/2026/06/22/413039.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.22",
-        "title": "【コンパクト版パジェロの正体】ファミリー復活嬉しいけど次に出るのはパジェロジュニア!? パジェロイオのどっち!?!?",
-        "url": "https://bestcarweb.jp/feature/column/1544851"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "【日産 リーフ 新型】次世代EVのスタンダードを描いた、“スーパーエアロ”と“スーパーフラッシュ”デザイン",
-        "url": "https://response.jp/article/2026/06/22/413016.html"
+        "title": "2026年版ゼンリン地図搭載！ 話題の7インチポータブルナビが注目される理由",
+        "url": "https://bestcarweb.jp/news/1548372"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.22",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第791回",
-        "url": "https://bestcarweb.jp/feature/column/1532427"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "3Dプリントで大型モックアップを軽量・分割化、製造業の展示会課題を解決するサービス開始…Bfull",
-        "url": "https://response.jp/article/2026/06/22/413005.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "JALや商船三井、「空飛ぶ船」シーグライダー実用化へ…日本初の船級認証プロジェクト始動",
-        "url": "https://response.jp/article/2026/06/22/412998.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "SDV時代、進化するアフターマーケットの“今”と“未来”が一堂に…「アウトメカニカ フランクフルト 2026」9月8～12日開催PR",
-        "url": "https://response.jp/article/2026/06/22/413008.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "アイシン・人事情報 2026年5月1日付",
-        "url": "https://response.jp/article/2026/06/22/413003.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "いすゞ、エルフミオやキャンピングカー専用シャシー4台を展示…東京アウトドアショー2026",
-        "url": "https://response.jp/article/2026/06/22/412990.html"
+        "title": "5代32年の歴史を誇るオデッセイが2026年度で販売終了という話は本当か？ 泣けてきた！ まだ買えるのかディーラーを直撃！",
+        "url": "https://bestcarweb.jp/news/entame/1557277"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.22",
-        "title": "ガソリン価格高騰より深刻!? ナフサ不足で迫る「愛車が直せなくなる日」",
-        "url": "https://bestcarweb.jp/feature/column/1550685"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.22",
-        "title": "カローラ ツーリングはなぜまだ売れる？ SUV全盛でも選ばれるワゴンの実力",
-        "url": "https://bestcarweb.jp/feature/column/1548354"
+        "title": "700万円で460馬力のV8が手に入る!? スーパーカー級なのに意外と現実的！ 7代目シボレー「コルベット」の中古車事情",
+        "url": "https://bestcarweb.jp/feature/column/1544467"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.22",
-        "title": "コンビ、新チャイルドシートをアカチャンホンポで6月26日発売…回転・着脱を1つのグリップに集約",
-        "url": "https://response.jp/article/2026/06/22/413009.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "ステーションワゴンの常識を超えたレヴォーグ、BLUELOVEさんが作り上げた理想形…CARTUNE PickUpCars 2026",
-        "url": "https://response.jp/article/2026/06/22/413006.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "ソフトバンクロボティクス、物流自動化ソリューション出展へ…九州・東アジア 国際物流総合展 2026",
-        "url": "https://response.jp/article/2026/06/22/413013.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "トヨタ×クラスターのXR体験「爆創クラブ」、世界最大AR/VRアワードのファイナリストに選出",
-        "url": "https://response.jp/article/2026/06/22/413011.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "ペット×アウトドアや車中泊向け電力ソリューション、EcoFlowが提案へ…TOKYO OUTDOOR SHOW 2026",
-        "url": "https://response.jp/article/2026/06/22/413010.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "ホンダ、パワーユニット『eGX』シリーズを拡充…電動化トレンドを見る",
-        "url": "https://response.jp/article/2026/06/22/413004.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.22",
-        "title": "もう信号を見落とさない！ 日本の老舗SWANSが生んだ「運転特化型サングラス」の特殊レンズが革新的だった",
-        "url": "https://bestcarweb.jp/news/car-accessory/1554113"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.22",
-        "title": "保存ではなく走らせる旧車、S123型メルセデスベンツ280TEの美学～CARTUNE PickUpCars 2026～",
-        "url": "https://response.jp/article/2026/06/19/412946.html"
+        "title": "BMW『X5』新型、5種類のパワートレイン設定で開発最終段階へ---プロトタイプの写真を公開",
+        "url": "https://response.jp/article/2026/06/22/413024.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "27931615629",
-    "sha": "8cc367717bc2c4086732b4a570c62d9d690e73cc",
-    "completed_at": "2026-06-22T05:29:31.777Z",
+    "run_id": "27972963125",
+    "sha": "e7dd88edba5fb7ddec64c092c4d17f955ff79a9d",
+    "completed_at": "2026-06-22T17:56:03.855Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 26,
-    "queued_articles": 26,
-    "processed": 26,
-    "started_at": "2026-06-22T05:28:27.993Z",
-    "finished_at": "2026-06-22T05:29:31.513Z",
+    "scoped_articles": 39,
+    "queued_articles": 39,
+    "processed": 39,
+    "started_at": "2026-06-22T17:54:39.016Z",
+    "finished_at": "2026-06-22T17:56:03.599Z",
     "success": true,
     "error": ""
   }
