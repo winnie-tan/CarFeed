@@ -46778,5 +46778,844 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-23T04:20:10.791Z"
+  },
+  "https://www.thedrive.com/news/40-off-leatherman-and-more-great-edc-deals-at-amazon-prime-day-live-now": {
+    "title_zh": "亚马逊 Prime Day：Leatherman 等 EDC 工具低至 6 折",
+    "summary_short": "亚马逊 Prime Day 期间，Leatherman、Gerber 等品牌 EDC 刀具和多功能工具大幅折扣，最高优惠 40%。",
+    "summary_long": "亚马逊 Prime Day 正在进行中，Leatherman Charge Plus TTI 19 合 1 多功能工具降价 40%，引发了一波 EDC 配件抢购潮。此外，Gerber utility blade 等小工具也值得关注，轻便且刀片易更换。",
+    "highlights_zh": [
+      "Leatherman Charge Plus TTI…",
+      "Gerber utility blade 轻便且刀片…",
+      "多款 EDC 刀具和工具参与 Prime Day 促…"
+    ],
+    "entities": [
+      "Leatherman",
+      "Gerber",
+      "Victorinox",
+      "亚马逊 Prime Day"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/EDC-top.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Leatherman1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/leatherman2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:06:58.042Z"
+  },
+  "https://www.motor1.com/news/799484/alpine-porsche-rival-debut/": {
+    "title_zh": "Alpine 下一代保时捷竞争对手将于下月亮相",
+    "summary_short": "Alpine 将于 7 月 9 日在古德伍德速度节发布第三代 A110，首款纯电车型，对标保时捷 Cayman，采用 800V 架构和铝制车身。",
+    "summary_long": "法国汽车制造商 Alpine 将于 2026 年 7 月 9 日在古德伍德速度节上发布第三代 A110 原型车。这款车是 Alpine 首款纯电动跑车，基于全新 Alpine Performance Platform（APP）打造，采用 800V 架构和双后置电机，保持 40:60 重量分配。铝制车身将整备质量控制在 1400 公斤，配合主动扭矩矢量控制，确保驾驶乐趣。新车将推出轿跑和敞篷版本，并计划衍生出 2+2 布局的大型跑车。Alpine F1 车队车手皮埃尔·加斯利和弗兰科·科拉平托将出席发布活动。",
+    "highlights_zh": [
+      "7 月 9 日古德伍德速度节首发",
+      "首款纯电车型",
+      "800V 架构",
+      "铝制车身"
+    ],
+    "entities": [
+      "Alpine",
+      "A110",
+      "保时捷 Cayman",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3yn93/s1/alpine-future-sports-car-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:06:59.427Z"
+  },
+  "https://www.thedrive.com/news/amazon-prime-day-obd-scanner-deals-top-three-best-buys": {
+    "title_zh": "亚马逊 Prime Day OBD 扫描仪优惠：三大最佳选择",
+    "summary_short": "亚马逊 Prime Day 期间，OBD2 扫描仪大幅降价，从专业级到高性价比均有好价。",
+    "summary_long": "亚马逊 Prime Day 正在进行中（持续至 6 月 26 日），是购买 OBD 扫描仪的好时机。本文推荐了三款产品：Topdon One 专业级扫描仪（原价 889 美元，现价 699 美元，折扣 21%），适合深度诊断；BlueDriver Pro Next Gen（原价 129 美元，现价 74.94 美元，折扣 42%），小巧易用，可配对手机，提供详细故障码解读。",
+    "highlights_zh": [
+      "Topdon One 专业级扫描仪",
+      "BlueDriver Pro Next Gen 42…",
+      "OBD2 扫描仪适合故障码读取与诊断"
+    ],
+    "entities": [
+      "亚马逊 | Amazon",
+      "Topdon One",
+      "BlueDriver Pro Next Gen"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/OBD-top.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/topdon-one.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/BlueDriver-Next-Gen.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:01.741Z"
+  },
+  "https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why": {
+    "title_zh": "自 2009 年以来行人死亡人数增加 75%，大型卡车和 SUV 是主因",
+    "summary_short": "研究表明，大型卡车和 SUV 的普及导致美国行人死亡人数自 2009 年增加 75%，若车辆尺寸不变，每年可避免 200-400 人死亡。",
+    "summary_long": "自 2009 年以来，美国行人死亡人数持续上升，与车辆尺寸增大密切相关。《纽约时报》与公路安全保险协会的研究显示，若过去 25 年车辆尺寸保持不变，每年可避免 200-400 名行人死亡，约占近期增幅的 10%。大型皮卡和 SUV 的普及是重要因素。",
+    "highlights_zh": [
+      "行人死亡人数自 2009 年增加 75%",
+      "大型皮卡和 SUV 是主因",
+      "若车辆尺寸不变",
+      "约占近期增幅的 10%"
+    ],
+    "entities": [
+      "SUV",
+      "皮卡",
+      "公路安全保险协会",
+      "行人安全"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/SUPERDUTY.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nun-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:02.718Z"
+  },
+  "https://www.motor1.com/news/799474/mitsubishi-evs-easy-route/": {
+    "title_zh": "三菱称无力独立开发电动汽车",
+    "summary_short": "三菱表示无力独立开发电动汽车，将通过与日产等合作推出贴牌车型，如基于日产 Leaf 的 Eclipse Sportback。",
+    "summary_long": "三菱汽车 CEO 加藤隆夫在 6 月 18 日的股东大会上坦言，公司无力承担从零开发电动汽车所需的巨额投资，且全球 EV 增长放缓，若销量不及预期将导致重大管理问题。因此，三菱将采取合作策略，例如与日产合作推出基于 Leaf 的 Eclipse Sportback。相比之下，本田近期取消 0 系列 EV 项目并承担近 160 亿美元重组成本，而三菱 2025 年销量仅 88 万辆，难以承受类似风险。",
+    "highlights_zh": [
+      "三菱 CEO 称无力承担独立开发 EV 的巨额投资",
+      "全球 EV 增长放缓",
+      "Eclipse Sportback 实为日产 Lea…",
+      "三菱销量远低于本田"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "日产 | Nissan",
+      "Eclipse Sportback",
+      "Leaf"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWVGG/s1/mitsubishi-ev-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:05.923Z"
+  },
+  "https://www.thedrive.com/news/one-of-our-favorite-off-road-tire-inflators-is-35-off-for-amazon-prime-day": {
+    "title_zh": "亚马逊 Prime Day：Etenwolf S6 越野轮胎充气泵享 35%折扣",
+    "summary_short": "Etenwolf S6 重型轮胎充气泵在亚马逊 Prime Day 期间降价 35%，仅售 104.49 美元，适合越野爱好者。",
+    "summary_long": "Etenwolf S6 是一款重型自给式轮胎充气泵，也是作者所在越野学校的首选工具。在亚马逊 Prime Day（6 月 23-26 日）期间，该产品从 159.99 美元降至 104.49 美元，优惠 55.50 美元。它配备双缸电机，气流达 1.5 CFM（42 升/分钟），可将 31 英寸卡车轮胎从 30 PSI 充至 35 PSI 仅需约一分钟，并带有集成泄气阀，方便调整胎压。",
+    "highlights_zh": [
+      "原价$159.99",
+      "双缸电机",
+      "31 英寸轮胎充气仅需 1 分钟",
+      "集成泄气阀"
+    ],
+    "entities": [
+      "Etenwolf S6",
+      "亚马逊 Prime Day",
+      "越野轮胎充气泵"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Prime-Day-Etenwolf-Deal.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/etenwolf1.webp",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:06.524Z"
+  },
+  "https://www.motor1.com/news/799534/ian-callum-jaguar-type-00-concept-interview/": {
+    "title_zh": "前设计总监 Ian Callum 谈捷豹 Type 00 概念车：缺少一个关键元素",
+    "summary_short": "前捷豹设计总监 Ian Callum 批评 Type 00 概念车缺乏情感，认为新设计方向过于激进，但认可品牌转型的必要性。",
+    "summary_long": "前捷豹设计总监 Ian Callum 在接受 Motor1 采访时，对捷豹全新 Type 00 概念车提出了批评。他认为这款车缺乏情感和灵魂，设计过于激进，与捷豹的历史传承脱节。Callum 在捷豹任职 20 年，主导了多款经典车型的设计。尽管他对新方向持保留态度，但也承认品牌转型的必要性。捷豹计划推出 Type 01 纯电豪华轿车，对标宾利和劳斯莱斯，但市场反应褒贬不一。",
+    "highlights_zh": [
+      "Callum 批评 Type 00 缺乏情感",
+      "新设计过于激进",
+      "认可品牌转型必要性",
+      "Type 01 将挑战宾利、劳斯莱斯"
+    ],
+    "entities": [
+      "捷豹 | Jaguar",
+      "Ian Callum",
+      "Type 00",
+      "Type 01",
+      "Aston Martin Vanquish"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m87nl/s1/jaguar-type-00-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:10.305Z"
+  },
+  "https://www.thedrive.com/news/toyota-rav4-based-truck-is-quite-appealing-top-engineer-says-tds": {
+    "title_zh": "丰田 RAV4 皮卡？首席工程师称“相当有吸引力”",
+    "summary_short": "丰田 RAV4 首席工程师表示，虽然暂无官方计划，但基于 RAV4 打造承载式皮卡的想法“相当有吸引力”，市场潜力值得关注。",
+    "summary_long": "丰田 RAV4 首席工程师 Yoshinori Futonagane 透露，尽管目前没有基于 RAV4 打造承载式皮卡（与福特 Maverick 竞争）的官方计划，但该想法和市场“相当有吸引力”。他坦言，内心深处大家都觉得“那会很有趣”。这表明丰田内部对拓展紧凑型皮卡市场持开放态度，但尚未进入实施阶段。",
+    "highlights_zh": [
+      "暂无官方计划",
+      "目标竞争福特 Maverick 等紧凑型承载式皮卡",
+      "内部共识：打造 RAV4 皮卡会很有趣"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "RAV4",
+      "福特",
+      "Maverick",
+      "承载式皮卡"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/05/RAV4-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/SUPERDUTY.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:10.355Z"
+  },
+  "https://www.motor1.com/news/799502/kia-k5-computer-wont-register-park/": {
+    "title_zh": "起亚 K5 电脑故障：无法识别挂入 P 挡，车主被困",
+    "summary_short": "一位起亚 K5 车主因车辆电脑无法识别已挂入 P 挡，导致无法熄火和启动，该问题并非个例。",
+    "summary_long": "一位名为 Mom With a Dream 的起亚 K5 车主在社交媒体上反映，她的车辆电脑系统出现故障，无法识别已挂入 P 挡，导致无法熄火和启动。她表示，车辆仪表盘显示所有警告信息，并持续提示“请挂入 P 挡”，尽管挡位已在 P 挡。该问题并非个例，有 Reddit 用户在 r/kiastinger 板块报告了完全相同的问题，其性能轿车也遭遇了同样的故障。",
+    "highlights_zh": [
+      "起亚 K5 电脑无法识别 P 挡",
+      "车辆无法熄火或启动",
+      "非个例"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "起亚 K5 | Kia K5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJWVr/s1/woman-s-kia-breaks-down.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:14.303Z"
+  },
+  "https://response.jp/article/2026/06/23/413070.html": {
+    "title_zh": "马自达 787B 徽章登场，纪念勒芒夺冠 35 周年",
+    "summary_short": "马自达推出 787B 徽章，纪念 1991 年勒芒 24 小时耐力赛夺冠 35 周年，售价 1800 日元。",
+    "summary_long": "为纪念 1991 年 6 月 23 日马自达在勒芒 24 小时耐力赛中凭借 787B 赛车夺得总冠军 35 周年，原创品牌 BUTTON&CUFFLINKS 推出了 MAZDA 787B 徽章。该徽章精细还原了赛车细节，并配有火柴盒大小的模型车风格包装。此外，该系列还包括 T 恤、杯子等纪念商品，于马自达官方精品网店发售。",
+    "highlights_zh": [
+      "纪念勒芒夺冠 35 周年",
+      "精细还原赛车细节",
+      "售价 1800 日元",
+      "配模型车风格包装"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MAZDA 787B",
+      "勒芒 24 小时耐力赛",
+      "BUTTON&CUFFLINKS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221420.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221420.jpg",
+      "https://response.jp/imgs/fill2/2221421.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:14.941Z"
+  },
+  "https://bestcarweb.jp/feature/column/1553583": {
+    "title_zh": "手动挡驾驶技术更好？MT 车主的“优越感”真相",
+    "summary_short": "探讨手动挡车主认为 MT 驾驶技术更优的常见说法，分析其真实性及驾驶技术的全面性。",
+    "summary_long": "日本汽车市场自动挡占绝对多数，但仍有人选择手动挡。手动挡爱好者认为 MT 操作更复杂，能锻炼驾驶技术，但驾驶技术不仅限于换挡，还包括转向、巡航、变道等多方面。文章分析了 MT 车主常见优越感的真伪。",
+    "highlights_zh": [
+      "手动挡操作复杂",
+      "驾驶技术不限于换挡",
+      "MT 优越感说法存疑"
+    ],
+    "entities": [
+      "手动挡 | MT",
+      "自动挡",
+      "驾驶技术"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18135218/01-1-1.jpg?v=1781758339",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18135218/01-1-1-600x400.jpg?v=1781758339",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20141817/mazda6_image1-600x400.jpg?v=1781932698"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:18.385Z"
+  },
+  "https://response.jp/article/2026/06/23/413092.html": {
+    "title_zh": "Blitz DAMPER ZZ-R 系列更新，适配三菱 Delica Mini 和 eK Space",
+    "summary_short": "Blitz 更新 DAMPER ZZ-R 系列避震，适配三菱 Delica Mini 和 eK Space，提升舒适性与操控性。",
+    "summary_long": "Blitz 对其 DAMPER ZZ-R 及 DAMPER ZZ-R SpecDSC Plus 系列避震进行更新，新增适配三菱 Delica Mini（B37A/B38A，2023 年 5 月后）和 eK Space（B37A，2023 年 5 月后）。该系列采用单筒式结构，配备Φ44 大直径活塞，提供 32 段阻尼可调，兼顾街道与赛道需求。针对新车型，前后行程、阻尼及弹簧刚度均重新调校，附赠前短稳定连杆，4WD/NA/Turbo 全系通用，含税价 22 万日元。",
+    "highlights_zh": [
+      "适配三菱 Delica Mini 与 eK Spac…",
+      "单筒式结构",
+      "32 段阻尼可调",
+      "含税价 22 万日元"
+    ],
+    "entities": [
+      "Blitz",
+      "DAMPER ZZ-R",
+      "三菱 | Mitsubishi",
+      "デリカミニ",
+      "eKスペース"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221312.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221312.jpg",
+      "https://response.jp/imgs/fill2/2221311.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:19.525Z"
+  },
+  "https://response.jp/article/2026/06/23/413094.html": {
+    "title_zh": "Carstay 在 TOKYO DOG SHOW 2026 展出基于 HiAce 和 Vanette 的露营车 SAny.VAN",
+    "summary_short": "Carstay 将在 TOKYO DOG SHOW 2026 展出 SAny.VAN 露营车，基于 HiAce 和 Vanette 打造，购车者约八成是爱犬人士，起售价 242 万日元。",
+    "summary_long": "Carstay 宣布参加 TOKYO DOG SHOW 2026，展出其露营车 SAny.VAN。该车基于丰田 HiAce 或日产 Vanette 等车型打造，可选用新车、二手车或客户自带车辆进行改装。标准配置包括沙发床、水槽和电池，可选装空调、太阳能板等。购车者中约 80%是爱犬人士，因此车辆设计注重宠物友好，内饰可扩展。起售价 242 万日元（含税），改装周期最短 1.5 个月。此外，Carstay 还提供露营车共享平台，允许车主在闲置时出租车辆以获取额外收入。",
+    "highlights_zh": [
+      "基于 HiAce 和 Vanette 改装",
+      "购车者约八成是爱犬人士",
+      "起售价 242 万日元",
+      "提供露营车共享平台赚取收入"
+    ],
+    "entities": [
+      "Carstay",
+      "SAny.VAN",
+      "丰田 | Toyota HiAce",
+      "日产 | Nissan Vanette",
+      "TOKYO DOG SHOW"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221639.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221639.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:22.999Z"
+  },
+  "https://response.jp/article/2026/06/23/413079.html": {
+    "title_zh": "汽车技术会“Kids Engineer 2026”提供 32 种体验学习",
+    "summary_short": "汽车技术会将于 7 月 24-25 日在横滨举办儿童体验学习活动，提供 32 种项目，旨在培养孩子对科学和制造的兴趣。",
+    "summary_long": "汽车技术会将于 2026 年 7 月 24 日至 25 日在横滨太平洋会展中心举办“Kids Engineer 2026”体验学习活动。该活动面向小学生，旨在培养他们对汽车相关科学技术和制造的兴趣，并响应文部科学省的“儿童体验活动推进宣言”。活动自 2008 年开始，今年为第 18 届，横滨举办为第 9 届。现场将提供 20 种教室型项目和 12 种展示型项目，由在职工程师和教师指导。展示型项目无需提前报名，数量较 2024 年横滨举办时翻倍。",
+    "highlights_zh": [
+      "32 种体验学习项目",
+      "教室型 20 种+展示型 12 种",
+      "无需提前报名",
+      "培养未来工程师兴趣"
+    ],
+    "entities": [
+      "汽车技术会",
+      "Kids Engineer 2026",
+      "横滨"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221539.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221539.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:23.060Z"
+  },
+  "https://response.jp/article/2026/06/23/413077.html": {
+    "title_zh": "Shippio 将展示 AI 通关业务效率化服务，亮相九州东亚国际物流展",
+    "summary_short": "Shippio 将在九州东亚国际物流展上展示 AI 通关系统等贸易 DX 服务，助力物流效率化。",
+    "summary_long": "贸易 DX 企业 Shippio 将于 6 月 24-25 日参加在福冈举办的九州东亚国际物流综合展，展示面向货主和物流企业的多项服务。货主方面包括数字货代服务“Shippio Forwarding”和云端贸易信息管理“Shippio Cargo”；物流企业方面则有沟通平台“Shippio Works”和 AI 通关效率化云服务“Shippio Clear”。该公司以“让国际物流更先进”为愿景，推动贸易数字化。",
+    "highlights_zh": [
+      "Shippio 出展九州东亚国际物流展",
+      "展示 AI 通关云服务 Shippio Clear",
+      "提供数字货代与贸易信息管理",
+      "推动贸易 DX 与物流效率化"
+    ],
+    "entities": [
+      "Shippio"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221545.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221545.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:27.252Z"
+  },
+  "https://bestcarweb.jp/news/1553232": {
+    "title_zh": "首都高防灾公开课：古坂大魔王与中学生共学隧道逃生",
+    "summary_short": "首都高速道路在东京中学举办防灾公开课，邀请曾遭遇山手隧道火灾的古坂大魔王分享逃生经验，向学生普及避难知识。",
+    "summary_long": "首都高速道路为提升公众对防灾减灾的理解，在东京品川区青稜中学举办公开课。课程介绍了首都高作为日均通行 105 万辆车的交通动脉，其隧道、高架桥等设施的防灾措施。曾于 2025 年 12 月在山手隧道遭遇火灾并成功逃生的艺人古坂大魔王作为嘉宾，向 50 名学生讲述亲身经历，强调隧道内遇险时保持冷静、听从广播指引的重要性。",
+    "highlights_zh": [
+      "首都高在中学举办防灾公开课",
+      "古坂大魔王分享隧道火灾逃生经历",
+      "学生了解首都高基础设施与防灾对策",
+      "强调隧道内遇险应听从广播指引"
+    ],
+    "entities": [
+      "首都高速道路",
+      "山手隧道",
+      "古坂大魔王",
+      "青稜中学"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18111438/030.jpg?v=1781748879",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18111438/030-600x400.jpg?v=1781748879",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19223143/ef83aa4dde3b3ca7b3b8d2c0bde26aba-600x338.jpg?v=1781875904"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:27.385Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551153": {
+    "title_zh": "丰田 C-HR+：续航 607km 的纯电 SUV，日本不引入太可惜",
+    "summary_short": "丰田 C-HR+纯电 SUV 欧洲发布，续航 607km，功率 343ps，基于 e-TNGA 平台，日本暂不引入。",
+    "summary_long": "丰田 C-HR+是专为欧洲市场打造的纯电动 SUV，基于 e-TNGA 平台，与 bZ4X 共享架构，但尺寸更紧凑。该车续航达 607km，输出功率 343ps，设计时尚。初代 C-HR 于 2023 年在日本停产，而 C-HR+目前无日本引入计划，令人惋惜。",
+    "highlights_zh": [
+      "续航 607km",
+      "功率 343ps",
+      "基于 e-TNGA 平台",
+      "日本未引入"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "C-HR+",
+      "bZ4X",
+      "e-TNGA"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16093158/871b8570a0f65c1e79dbe468cf265869.jpg?v=1781569920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16093158/871b8570a0f65c1e79dbe468cf265869-600x400.jpg?v=1781569920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20141817/mazda6_image1-600x400.jpg?v=1781932698"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:30.802Z"
+  },
+  "https://response.jp/article/2026/06/23/413085.html": {
+    "title_zh": "HKS 卫星店『HKS GATE OSAKA』6 月 24 日开业",
+    "summary_short": "HKS 在大阪箕面市开设卫星店，展示 GR86、思域 Type R 等车型改装件。",
+    "summary_long": "HKS（エッチ・ケー・エス）的第四家卫星店「HKS GATE OSAKA」将于 2026 年 6 月 24 日开业，位于大阪府箕面市同日开业的「A PIT AUTOBACS PERFORMANCE FACTORY 大阪」店内。该店延续“看、摸、咨询”理念，展示 GR86/BRZ、思域 Type R、GR Yaris 等热门车型的改装部件。",
+    "highlights_zh": [
+      "HKS 第四家卫星店开业",
+      "位于大阪箕面市 Autobacs 店内",
+      "展示 GR86、思域 Type R 等改装件",
+      "提供看、摸、咨询体验"
+    ],
+    "entities": [
+      "HKS",
+      "GR86",
+      "BRZ",
+      "思域 Type R",
+      "GR Yaris"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221550.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221550.jpg",
+      "https://response.jp/imgs/fill2/2221547.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:31.191Z"
+  },
+  "https://bestcarweb.jp/news/1555379": {
+    "title_zh": "MAXWIN 推出新型车载循环扇 K-FAN17，360°送风提升空调效率",
+    "summary_short": "MAXWIN 推出 K-FAN17 车载循环扇，支持 3 种安装方式和 360°角度调节，有效促进车内空气循环，解决前后排温差问题。",
+    "summary_long": "夏季车内即使开启空调，前后排也容易产生温差。MAXWIN 推出的车载循环扇 K-FAN17，支持空调出风口、头枕、吸盘三种安装方式，并具备 360°角度调节功能，可将冷风送至后排。该产品旨在优化车内空气循环，尤其适合空间较大的 MPV、SUV 和卡车等车型。",
+    "highlights_zh": [
+      "3 种安装方式：空调出风口、头枕、吸盘",
+      "360°角度调节",
+      "提升空调效率",
+      "适合 MPV、SUV 等大空间车型"
+    ],
+    "entities": [
+      "MAXWIN",
+      "K-FAN17",
+      "车载循环扇",
+      "空调效率"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19224147/598c64dee0ee1ba7fc8a6cd2d82da418.jpg?v=1781876508",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19224147/598c64dee0ee1ba7fc8a6cd2d82da418-600x600.jpg?v=1781876508",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19223143/ef83aa4dde3b3ca7b3b8d2c0bde26aba-600x338.jpg?v=1781875904"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:34.410Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551649": {
+    "title_zh": "日产奇骏能车中泊吗？从行李厢空间与 e-POWER 静谧性看周末 SUV",
+    "summary_short": "日产奇骏 2 列版行李厢 575L，室内长近 2 米，配合 e-POWER 静谧性，适合周末车中泊。",
+    "summary_long": "日产奇骏在 2025 年 8 月大幅改良后，商品力提升。对于周末用户，车中泊能力是关注焦点。2 列版行李厢容量 575L，座椅 4:2:4 分割可倒，室内长 1980-1990mm，可满足 1-2 人简易过夜。3 列版更适合多人乘坐，若频繁车中泊，2 列版更实用。全系搭载 e-POWER，发动机仅发电，电机驱动，行驶静谧性出色，有助于长途后车内休息。",
+    "highlights_zh": [
+      "2 列版行李厢 575L",
+      "座椅 4:2:4 分割",
+      "e-POWER 静谧性适合车中泊休息",
+      "3 列版更适合多人"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "奇骏",
+      "e-POWER",
+      "车中泊"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19140653/NISSAN-X-TRAIL_058_1.jpg?v=1781845614",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19140653/NISSAN-X-TRAIL_058_1-600x400.jpg?v=1781845614",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20141817/mazda6_image1-600x400.jpg?v=1781932698"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:36.424Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551638": {
+    "title_zh": "日产奇骏 vs 斯巴鲁森林人：电动四驱 e-4ORCE 与斯巴鲁 AWD 安心感对决",
+    "summary_short": "日产奇骏 e-4ORCE 与斯巴鲁森林人 AWD 对比：电动四驱的平顺 vs 传统四驱的越野安心感。",
+    "summary_long": "日产奇骏与斯巴鲁森林人是雪地性能出色的中型 SUV。奇骏 2025 年 8 月改款强化产品力，森林人 2026 年 5 月改款提升配置。奇骏全系搭载 e-POWER 电机驱动，e-4ORCE 四驱系统控制加速与减速姿态，雪地起步平顺、弯道稳定。森林人全系标配对称 AWD，X-Break S EX 车型离地间隙 220mm，优于奇骏的 185mm，在深雪、车辙等恶劣路况下更具优势。选择奇骏可享受电动化平顺驾驶体验，选择森林人则获得更强的越野通过性。",
+    "highlights_zh": [
+      "奇骏 e-4ORCE 电动四驱",
+      "森林人离地间隙 220mm",
+      "奇骏改款搭载 Google 车机与 3D 全景影像",
+      "森林人价格与油耗平衡"
+    ],
+    "entities": [
+      "日产奇骏 | Nissan X-Trail",
+      "斯巴鲁森林人 | Subaru Forester",
+      "e-4ORCE",
+      "对称 AWD",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18113702/0162d7c1425fe9fbaa9e6bda6660fcc5.jpg?v=1781750223",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18113702/0162d7c1425fe9fbaa9e6bda6660fcc5-600x400.jpg?v=1781750223",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20141817/mazda6_image1-600x400.jpg?v=1781932698"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:39.368Z"
+  },
+  "https://response.jp/article/2026/06/23/413093.html": {
+    "title_zh": "川崎 Z900RS 墨染 T 恤与久米纤维联名款 6 月 27 日发售",
+    "summary_short": "川崎与久米纤维合作推出 Z900RS 主题墨染 T 恤，采用传统染色工艺，每件独一无二，6 月 27 日发售。",
+    "summary_long": "川崎摩托车日本公司与久米纤维合作，以人气车型 Z900RS 为灵感推出联名墨染 T 恤。该 T 恤采用日本传统墨染工艺，呈现沉稳色调与独特纹理，穿着越久越有韵味。提供橙色/浓墨和黑色/中墨两种配色，分别对应 Z900RS Fireball 和 Black Ball Edition 的涂装风格。设计融入品牌传承标识与风动图案，右袖印有 Z900RS 标志。售价 8360 日元，6 月 27 日起在全国 96 家川崎 Plaza 门店发售。",
+    "highlights_zh": [
+      "川崎与久米纤维联名推出 Z900RS 墨染 T 恤",
+      "采用传统墨染工艺",
+      "两种配色：橙/浓墨、黑/中墨",
+      "售价 8360 日元"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Z900RS",
+      "久米纤维",
+      "墨染 T 恤"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221606.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221606.jpg",
+      "https://response.jp/imgs/fill2/2221608.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:41.407Z"
+  },
+  "https://response.jp/article/2026/06/23/413080.html": {
+    "title_zh": "云 WMS 与 AI 模型，CINET 在九州首次展示",
+    "summary_short": "CINET 将在福冈物流展首次展示云 WMS 和 AI 模型，旨在解决九州物流课题，推动可持续物流新时代。",
+    "summary_long": "云仓库管理系统（WMS）开发商 CINET 宣布，将于 6 月 24 日至 25 日在福冈 Marine Messe 举办的“九州·东亚国际物流综合展 INNOVATION EXPO 2026”上出展。该展会首次在九州福冈举办，九州是半导体产业集聚地和农产品供应基地，物流课题众多。CINET 连续 14 年云 WMS 市场份额第一，本次将展示主力产品 ci.Himalayas/R2 和多语言版 ci.Himalayas/GLOBAL，旨在从福冈这一九州·东亚门户出发，传递可持续物流新时代。",
+    "highlights_zh": [
+      "CINET 在福冈物流展首次展示云 WMS 和 AI…",
+      "九州是半导体和农产品物流课题先进地区",
+      "连续 14 年云 WMS 市场份额第一",
+      "展示多语言版 WMS"
+    ],
+    "entities": [
+      "シーネット",
+      "ci.Himalayas/R2",
+      "ci.Himalayas/GLOBAL",
+      "云 WMS",
+      "九州·东亚国际物流综合展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221559.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221559.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:44.007Z"
+  },
+  "https://response.jp/article/2026/06/23/413089.html": {
+    "title_zh": "Daytona 新款蓝牙耳机 RESO 系列发布，摩托车用户关注",
+    "summary_short": "Daytona 推出 RESO 系列摩托车蓝牙耳机，含三款型号，支持 Mesh 与网络通信，最长续航 24 小时，售价 33,000 日元起。",
+    "summary_long": "Daytona 发布了面向摩托车骑手的 RESO 系列蓝牙耳机，包括旗舰款 PILOT PRO、中端 PILOT NEO 和入门款 PILOT LITE。PRO 型号采用独家 Mesh 技术 DuoSync，可无缝切换 Mesh 与手机网络通信，实现最大 2km（一对一）或无限距离通话，支持最多 30 人同时连接，电池容量 1950mAh，续航约 13 小时，支持快充（5 分钟充电可用 2 小时），售价 48,400 日元。NEO 型号搭载 UniSync Mesh 技术，一键连接，支持最多 15 人，通信距离 2km，电池 1950mAh，续航约 24 小时，同样支持快充，可通过 Reso Link 应用更新固件，售价 33,000 日元。",
+    "highlights_zh": [
+      "三款型号：PILOT PRO、NEO、LITE",
+      "PRO 支持 Mesh 与网络无缝切换",
+      "NEO 续航长达 24 小时",
+      "快充 5 分钟可用 2 小时"
+    ],
+    "entities": [
+      "デイトナ",
+      "RESO",
+      "PILOT PRO",
+      "PILOT NEO",
+      "DuoSync"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221127.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221127.jpg",
+      "https://response.jp/imgs/fill2/2221618.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:46.475Z"
+  },
+  "https://response.jp/article/2026/06/23/413083.html": {
+    "title_zh": "丰田集团将在中部国际机场开设“ALL TOYOTA CIRCULAR STORE”，销售循环型商品",
+    "summary_short": "丰田集团将于 7 月在中部国际机场开设循环商店，销售由废料升级再造的包包和杂货，推动循环经济。",
+    "summary_long": "丰田集团宣布将于 7 月 1 日在日本中部国际机场开设“ALL TOYOTA CIRCULAR STORE”，面向国内外旅客销售循环型商品。该店位于第一航站楼 4 层，面积约 15.8 坪，全年无休。店内将售卖由丰田集团各公司废料升级再造的包包和杂货，如 Tsugi-Craft 手袋、安全气囊废料制成的托特包等，价格从 3300 日元到 10 万日元不等。此举旨在连接制造者、使用者和地区力量，实现更大的循环。",
+    "highlights_zh": [
+      "7 月 1 日在中部国际机场开业",
+      "销售丰田集团废料升级再造商品",
+      "商品包括 Tsugi-Craft 手袋和安全气囊托特…",
+      "价格从 3300 日元到 10 万日元不等"
+    ],
+    "entities": [
+      "丰田集团 | Toyota Group",
+      "ALL TOYOTA CIRCULAR STORE",
+      "中部国际机场",
+      "Tsugi-Craft",
+      "安全气囊"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221573.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221573.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:48.387Z"
+  },
+  "https://response.jp/article/2026/06/23/413081.html": {
+    "title_zh": "Navitime 将“动态管理解决方案”更名为“运输配送管理云”，强化自动配车与检验功能",
+    "summary_short": "Navitime 日本宣布将企业运行管理服务更名为“运输配送管理云”，并强化自动配车、检验等功能，以应对物流行业效率提升需求。",
+    "summary_long": "Navitime 日本于 6 月 23 日宣布，将面向企业的运行管理服务“Business Navitime 动态管理解决方案”更名为“Business Navitime 运输配送管理云”，并进行全面升级。该服务自 2012 年推出以来，一直以动态管理和导航为核心，支持运行管理的现场业务。近年来，受“2024 年问题”引发的法规修订和新物流效率法实施的影响，物流行业要求掌握和减少等待时间、装卸时间，并提高配送效率。同时，司机短缺问题日益突出，急需建立高效配车计划、培养新手司机快速上岗以及维持配送质量的体制。",
+    "highlights_zh": [
+      "服务更名为“运输配送管理云”",
+      "强化自动配车与检验功能",
+      "应对物流效率法与司机短缺"
+    ],
+    "entities": [
+      "ナビタイム",
+      "Business Navitime 运输配送管理云",
+      "物流效率法",
+      "2024 年问题"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221562.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221562.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:50.616Z"
+  },
+  "https://response.jp/article/2026/06/23/413087.html": {
+    "title_zh": "Fit 原厂喇叭也能脱胎换骨！DSP 功放揭示汽车音响的深度",
+    "summary_short": "福田先生在福井县 PARADA 店为爱车 Fit 升级音响，通过 DSP 功放让原厂喇叭音质大幅提升，从此沉迷汽车音响世界。",
+    "summary_long": "福田先生原本热衷于车辆外观改装，受朋友影响开始接触高音质耳机，进而对汽车音响产生兴趣。他在福井县的 custom & car Audio PARADA 店为爱车 Fit 进行音响升级，通过加装 DSP 功放，原厂喇叭的音质得到惊人改善，打造出一台日常使用的音响车，从此彻底沉浸在声音的魅力中。",
+    "highlights_zh": [
+      "从耳机发烧友转向汽车音响",
+      "DSP 功放让原厂喇叭脱胎换骨",
+      "打造日常使用的音响车",
+      "沉迷于声音的世界"
+    ],
+    "entities": [
+      "Fit",
+      "DSP 功放",
+      "custom & car Audio PARADA",
+      "福井县"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2219943.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2219943.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:52.153Z"
+  },
+  "https://bestcarweb.jp/news/1558543": {
+    "title_zh": "本田 Super One 热销，补贴后实付约 150 万日元",
+    "summary_short": "本田 BEV Super One 上市 10 天订单超 1.1 万台，政府与东京都补贴合计 190 万日元，到手价约 150 万日元。",
+    "summary_long": "本田 BEV Super One 于 2026 年 5 月 22 日上市，截至 6 月初订单已超 1.1 万台。该车车重仅 1090kg，搭载 47kW 电机，BOOST 模式下功率提升至 70kW，并模拟 7 速换挡和虚拟声浪。续航 274km。扣除政府 130 万日元和东京都 60 万日元补贴后，实际价格约 150 万日元。经销商表示目前仍可订购，但需关注补贴额度。",
+    "highlights_zh": [
+      "上市 10 天订单超 1.1 万台",
+      "补贴后实付约 150 万日元",
+      "车重 1090kg",
+      "BOOST 模式功率达 70kW"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "スーパーワン",
+      "BEV",
+      "补贴",
+      "东京都"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23173802/IKE_406-164.jpg?v=1782203884",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23173802/IKE_406-164-600x400.jpg?v=1782203884",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19223143/ef83aa4dde3b3ca7b3b8d2c0bde26aba-600x338.jpg?v=1781875904"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:54.297Z"
+  },
+  "https://bestcarweb.jp/news/1555378": {
+    "title_zh": "雷诺 Grand Kangoo 限定车登场！采用酷灰车色的理由",
+    "summary_short": "雷诺 Grand Kangoo 推出限量 50 台的“Couleur”特别版，采用全新“Gris Urbain”灰色车漆，兼具实用性与户外风格。",
+    "summary_long": "雷诺 Grand Kangoo 推出限量特别版“Couleur”，仅售 50 台。新车最大亮点是专属“Gris Urbain”灰色车漆，灵感源自专业工具与装备，强调耐用与实用感。动力沿用 1.3L 涡轮增压汽油发动机配 7 速双离合变速箱，售价 472 万日元。作为 7 座 MPV，其轴距达 3100mm，提供宽敞的 3 排座椅布局和灵活的空间组合。",
+    "highlights_zh": [
+      "限量 50 台",
+      "1.3T+7 速双离合动力",
+      "7 座布局",
+      "售价 472 万日元"
+    ],
+    "entities": [
+      "雷诺",
+      "グランカングー",
+      "Couleur",
+      "Gris Urbain"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19223143/ef83aa4dde3b3ca7b3b8d2c0bde26aba.jpg?v=1781875904",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19223143/ef83aa4dde3b3ca7b3b8d2c0bde26aba-600x338.jpg?v=1781875904",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18111438/030-600x400.jpg?v=1781748879"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:56.047Z"
+  },
+  "https://insideevs.com/news/799560/ex-rental-tesla-batter-degraded/": {
+    "title_zh": "前租车特斯拉电池严重衰减后放缓",
+    "summary_short": "一辆曾作为租车使用的 2022 款特斯拉 Model 3 在两年内电池容量损失 20%，随后衰减速度明显放缓。",
+    "summary_long": "一辆 2022 款特斯拉 Model 3 Long Range Dual Motor 曾作为 Hertz 租车使用，两年内行驶 12.2 万英里，电池容量降至 80%。车主购买后每年测量一次，第一年再降 4%至 76%，14 个月后仅再降 1%至 75%，显示衰减趋缓。频繁快充至 100%和深度放电是早期快速衰减的主因。",
+    "highlights_zh": [
+      "两年租车生涯电池容量损失 20%",
+      "后续 14 个月仅衰减 1%",
+      "频繁快充至满电和深度放电是主因",
+      "特斯拉内置电池健康检测结果准确"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3",
+      "Hertz",
+      "电池衰减",
+      "NMC 电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P33Z1G/s1/tesla-fremont-factory-2-millionth-electric-car-produced-model-3.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:07:58.205Z"
+  },
+  "https://www.motor1.com/news/799555/2026-audi-a3-updates/": {
+    "title_zh": "2026 款奥迪 A3 内饰大改：物理按键进一步减少",
+    "summary_short": "2026 款奥迪 A3 在欧洲迎来技术及外观更新，内饰采用曲面双屏设计，但物理按键进一步减少，方向盘和空调控制均改为触控或滚轮操作。",
+    "summary_long": "奥迪在欧洲对 A3 系列进行技术及外观更新，重点在于内饰设计、曲面显示屏的整合以及驾驶辅助系统的扩展。更新涵盖所有车身风格和动力总成，包括 S3 和 RS3。内饰核心是全新的曲面显示屏，由 11.9 英寸虚拟座舱和 12.8 英寸 MMI 全景显示屏组成。仪表台采用贯穿式装饰条，营造水平设计线。遗憾的是，空调控制失去了物理按键，方向盘也改用机械滚轮。内饰提供四种材质选择，包括碳纤维、Dinamica 超纤以及两种织物。中央扶手区重新设计，手机储物格朝向驾驶员，并配备 25 瓦无线充电。",
+    "highlights_zh": [
+      "内饰采用 11.9 英寸+12.8 英寸曲面双屏",
+      "空调及方向盘物理按键被取消",
+      "提供碳纤维、Dinamica 等四种内饰材质",
+      "手机储物格转向驾驶员"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A3",
+      "S3",
+      "RS3",
+      "MMI 全景显示屏"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OXp7/s1/audi-a3-sportback-e-hybrid-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:08:00.791Z"
+  },
+  "https://www.motor1.com/news/799461/disneyland-must-update-autopia-california/": {
+    "title_zh": "迪士尼乐园经典项目 Autopia 面临改造或关闭",
+    "summary_short": "因排放违规被罚，迪士尼必须在 2027 年前将燃油引擎改为电动，否则将关闭经典项目 Autopia。",
+    "summary_long": "自 1955 年开放以来，迪士尼乐园的经典项目 Autopia 一直使用本田燃油卡丁车引擎。2024 年，因未披露引擎未获排放认证，迪士尼被加州空气资源委员会罚款 56,250 美元，并须在 2027 年 2 月 1 日前完成改造，否则可能永久关闭。迪士尼表示已制定电动化路线图，将加速推进。",
+    "highlights_zh": [
+      "2024 年因排放违规被罚 56",
+      "2027 年 2 月 1 日前必须完成改造",
+      "燃油引擎将替换为电动马达",
+      "否则面临永久关闭风险"
+    ],
+    "entities": [
+      "迪士尼乐园 | Disneyland",
+      "Autopia",
+      "加州空气资源委员会",
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzZRj/s1/disneyland-autopia.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:08:01.484Z"
+  },
+  "https://www.motor1.com/news/799527/mitsubishi-wants-new-lancer-evo/": {
+    "title_zh": "三菱希望复活 Lancer Evolution，但目前尚无计划",
+    "summary_short": "三菱社长表示希望未来能复活 Lancer Evolution 等经典车型，但目前无具体计划。",
+    "summary_long": "三菱社长木下启介在股东大会上承认，目前没有复活 Lancer Evolution、Diamante 和 Galant 的具体计划，但将这些车型视为珍宝，希望未来能打造出有能力让它们重返市场的公司。他强调不会通过贴牌方式简单复活 Evo，而是希望以真正的方式回归。",
+    "highlights_zh": [
+      "三菱社长承认暂无 Lancer Evo 复活计划",
+      "不会通过贴牌方式复活 Evo",
+      "希望未来能打造出有能力复活经典车型的公司",
+      "Pajero 已确认回归"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Lancer Evolution",
+      "Diamante",
+      "Galant",
+      "Pajero"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMxvNB/s1/mitsubishi-lancer-evo-v.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:08:05.013Z"
+  },
+  "https://www.motor1.com/news/799493/carvana-mercedes-7-day-return/": {
+    "title_zh": "女子从 Carvana 自动售货机买奔驰，7 天退货政策实测",
+    "summary_short": "德州女子从 Carvana 自动售货机购买二手奔驰 SUV，在 7 天退货期内送检经销商，结果出乎意料地好。",
+    "summary_long": "一位德州女子从 Carvana 的巨型汽车自动售货机购买了一辆二手奔驰 GLC 级 SUV。提车前她已计划测试 Carvana 的 7 天退货政策，并预约了当地奔驰经销商的全面检查。尽管看到过好坏参半的评价，她仍担心车辆存在问题。然而，检查结果显示一切正常，她最终满意收车，之前的焦虑显得多余。",
+    "highlights_zh": [
+      "女子从 Carvana 自动售货机购车",
+      "提车前预约奔驰经销商检查",
+      "7 天退货期内发现车辆无问题",
+      "最终满意收车"
+    ],
+    "entities": [
+      "Carvana",
+      "奔驰 | Mercedes-Benz",
+      "GLC 级",
+      "德州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPqLl/s1/woman-buys-car-from-carvana-vending-machine..jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:08:05.415Z"
+  },
+  "https://www.motor1.com/news/799514/hyundai-wagon-demand-falling/": {
+    "title_zh": "现代汽车：旅行车需求低迷，未来前景黯淡",
+    "summary_short": "现代汽车欧洲负责人表示，旅行车需求不足且利润低，公司将资源转向 SUV，旅行车前景堪忧。",
+    "summary_long": "继梅赛德斯-奔驰设计主管直言旅行车在美国和中国市场不受欢迎后，现代汽车欧洲负责人 Xavier Martinet 也表达了类似观点。他指出，旅行车细分市场需求停滞，不足以支撑新车型开发；同时，SUV 能带来更高利润，因此公司优先将投资和工程资源分配给 SUV。现代 i30 Estate 已上市近十年，虽仍在部分市场销售，但更新换代的可能性渺茫。",
+    "highlights_zh": [
+      "旅行车需求停滞",
+      "SUV 利润更高",
+      "中美市场对旅行车不感兴趣",
+      "i30 Estate 已近十年未换代"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "i30 Estate",
+      "SUV",
+      "旅行车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2NEEKp/s1/hyundai-i30-kombi-n-line-2024.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:08:09.275Z"
+  },
+  "https://www.motor1.com/news/799505/bmw-says-electric-m3-amazing-drive/": {
+    "title_zh": "宝马：电动 M3 驾驶体验“惊艳”，不盲目追求马力",
+    "summary_short": "宝马首款电动 M3 将于 2027 年上市，强调驾驶乐趣而非极致马力，预计功率超 600 马力。",
+    "summary_long": "宝马正在为首款电动 M3 造势，该车将于 2027 年上市。不同于追求超高功率，电动 M3 将专注于驾驶乐趣。此前发布的 M Concept Neue Klasse 概念车展示了宝马的决心，量产版预计明年亮相。虽然电动 M3 可能成为 M3 系列 40 年历史上最强大的版本，但宝马明确表示不会像 Vision Driving Experience 概念车那样达到 1341 马力。据推测，其功率将超过 600 马力，与 i3 M60 形成区分。宝马车辆动力学工程主管强调，M 车的核心在于精准操控而非单纯马力。",
+    "highlights_zh": [
+      "首款电动 M3 将于 2027 年上市",
+      "不追求极致马力",
+      "预计功率超 600 马力",
+      "强调精准操控而非数字"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "电动 M3 | Electric M3",
+      "M3",
+      "Neue Klasse"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPEAY/s1/bmw-m-concept-neue-klasse-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-23T16:08:09.630Z"
   }
 }

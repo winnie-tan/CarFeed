@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-23T04:18:54.846Z",
+    "generated_at": "2026-06-23T16:06:54.104Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 370,
-    "deepseek_untranslated_before_run": 30,
-    "newly_fetched_articles": 30,
-    "newly_fetched_untranslated": 30,
+    "deepseek_translated_before_run": 364,
+    "deepseek_untranslated_before_run": 36,
+    "newly_fetched_articles": 36,
+    "newly_fetched_untranslated": 36,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 30,
+    "translation_queue_count": 36,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.23",
-        "title": "「それならエンジンを取ったらどうだ」「光と重力はタダだ」スズキ鈴木修氏の名言が「かるた」に",
-        "url": "https://response.jp/article/2026/06/23/413063.html"
+        "title": "40% off Leatherman and More Great EDC Deals at Amazon Prime Day Live Now",
+        "url": "https://www.thedrive.com/news/40-off-leatherman-and-more-great-edc-deals-at-amazon-prime-day-live-now"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.23",
+        "title": "Alpine's Next Porsche Rival Is Coming Next Month",
+        "url": "https://www.motor1.com/news/799484/alpine-porsche-rival-debut/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.23",
+        "title": "Amazon Prime Day OBD Scanner Deals: Top Three Best Buys",
+        "url": "https://www.thedrive.com/news/amazon-prime-day-obd-scanner-deals-top-three-best-buys"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.23",
+        "title": "75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
+        "url": "https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.23",
+        "title": "Mitsubishi Says It Can't Afford To Build Its Own EVs",
+        "url": "https://www.motor1.com/news/799474/mitsubishi-evs-easy-route/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.23",
+        "title": "One of Our Favorite Off-Road Tire Inflators Is 35% Off for Amazon Prime Day",
+        "url": "https://www.thedrive.com/news/one-of-our-favorite-off-road-tire-inflators-is-35-off-for-amazon-prime-day"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.23",
+        "title": "Jaguar's Former Design Boss Has One Big Problem With The Type 00: Interview",
+        "url": "https://www.motor1.com/news/799534/ian-callum-jaguar-type-00-concept-interview/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.23",
+        "title": "Toyota RAV4-Based Truck Is ‘Quite Appealing’ Top Engineer Says: TDS",
+        "url": "https://www.thedrive.com/news/toyota-rav4-based-truck-is-quite-appealing-top-engineer-says-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.23",
+        "title": "‘Now It Won’t Do Anything’: Woman's Kia Breaks Down. Then The Computer Stops Reading",
+        "url": "https://www.motor1.com/news/799502/kia-k5-computer-wont-register-park/"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.23",
-        "title": "『GT-R』生産終了記念、「NISSAN GT-R BE@RBRICK 100% & 400%」…ミッドナイトパープルの限定デザインで7月2日発売",
-        "url": "https://response.jp/article/2026/06/23/413045.html"
+        "title": "「MAZDA 787B」ピンバッジが登場、ル・マン優勝35周年を記念",
+        "url": "https://response.jp/article/2026/06/23/413070.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.23",
-        "title": "【へっぽこバスガイドの珍道中】いつまでもいると思うな上司や先輩!! 貸切バスの旅でとことん向き合ってみた",
-        "url": "https://bestcarweb.jp/busmagazine/1538959"
+        "title": "「MTのほうが運転はうまい」は本当か!? MT乗りの「あるあるマウント」の真偽は？",
+        "url": "https://bestcarweb.jp/feature/column/1553583"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.23",
+        "title": "『デリカミニ』『eKスペース』をスタイリッシュにローダウン！ ブリッツの車高調キット「DAMPER ZZ-R」シリーズがリニューアル",
+        "url": "https://response.jp/article/2026/06/23/413092.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.23",
+        "title": "『ハイエース』や『バネットバン』がベース、Carstayがキャンピングカー「SAny.VAN」展示へ…TOKYO DOG SHOW 2026",
+        "url": "https://response.jp/article/2026/06/23/413094.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.23",
+        "title": "【夏休み】自動車技術会「キッズエンジニア2026」、32種の体験学習を用意",
+        "url": "https://response.jp/article/2026/06/23/413079.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.23",
-        "title": "【リセール良すぎる】先代ラングラーって今200万円でイケんの!? 外さない中古の選び方",
-        "url": "https://bestcarweb.jp/feature/column/1544334"
+        "title": "【黄バイも紹介】首都高が防災のための公開授業 山手トンネル火災遭遇の古坂大魔王さんとともに都内中学生が避難の心構えを学ぶ！",
+        "url": "https://bestcarweb.jp/news/1553232"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.23",
+        "title": "AIで通関業務を効率化、貿易DXサービスをShippioが紹介へ…九州・東アジア 国際物流総合展 2026",
+        "url": "https://response.jp/article/2026/06/23/413077.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.23",
-        "title": "【徹底比較！】カタログだけじゃ見落とす!? 家族で選ぶミドルサイズSUVは後席の実力差に注目!!",
-        "url": "https://bestcarweb.jp/feature/column/1557001"
+        "title": "C-HRがBEVで復活してた!! 航続607km＆343psのトヨタ「C-HR＋」を日本に入れないのはもったいなさすぎる!!",
+        "url": "https://bestcarweb.jp/feature/column/1551153"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.23",
+        "title": "HKSのサテライトショップ『HKS GATE OSAKA』が6月24日オープン…大阪・箕面のオートバックス内に",
+        "url": "https://response.jp/article/2026/06/23/413085.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.23",
-        "title": "【独自入手】新型パジェロイオはどうなる!? タイにヒントがあるゾ!!",
-        "url": "https://bestcarweb.jp/news/scoop/1552111"
+        "title": "エアコンの効きがマシマシに!! 360°送風もできる新型車載サーキュレーター登場!!",
+        "url": "https://bestcarweb.jp/news/1555379"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.23",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第792回",
-        "url": "https://bestcarweb.jp/feature/column/1532433"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "7/23申込締切 欧・米・中・日・印における充電インフラ最新トレンド2026",
-        "url": "https://response.jp/article/2026/06/23/413055.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "AGC、廃フロントガラスを建築用板ガラスに再資源化…国内初の実証実験へ",
-        "url": "https://response.jp/article/2026/06/23/413052.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "BAJA1000参戦車両が千葉・いなげの浜を走る！ BAJA COAST JAM 2026 6月27-28日開催",
-        "url": "https://response.jp/article/2026/06/23/413065.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "インフィニオン、GaN特許侵害でイノサイエンスに3度目・4度目の勝訴…独裁判所が製造・販売禁止命令",
-        "url": "https://response.jp/article/2026/06/23/413056.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.23",
-        "title": "エンジンがきれいになる!? パワーが上がる!? 「ハイオク」にまつわる都市伝説はホント？",
-        "url": "https://bestcarweb.jp/feature/column/1549407"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "オールタイムレンタカーのバリュートープがスタートアップイベント「IVS2026」に出展 7月1日",
-        "url": "https://response.jp/article/2026/06/23/413053.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.23",
-        "title": "クロストレックは“ちょうどいいスバル”の本命か？ 価格、サイズ、AWDで見る現実解",
-        "url": "https://bestcarweb.jp/feature/column/1548604"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.23",
-        "title": "これで最後なの!? ミニバンの先駆者オデッセ「超低床ミニバン」の完成形と至高の内装を改めて確認",
-        "url": "https://bestcarweb.jp/feature/column/1554209"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "ステランティス、仏政府の「フレンチテック」プログラムに参加…スタートアップ連携を加速",
-        "url": "https://response.jp/article/2026/06/23/413059.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "ステランティスやウーバー、ロボタクシー展開で提携…レベル4自動運転を世界規模で",
-        "url": "https://response.jp/article/2026/06/23/413050.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.23",
-        "title": "ダイムラートラックの新グローバルブランドは「軍用車」!? 防衛部門を強化するため単一ブランドに統合！",
-        "url": "https://bestcarweb.jp/fullload/1552238"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "ダンロップ、センサー不要のタイヤ検知技術「センシングコア」出展へ…Automotive Testing Expo Europe 2026",
-        "url": "https://response.jp/article/2026/06/23/413062.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.23",
-        "title": "トヨタ『bZ4X』など4車種4808台にリコール…走行不能となるおそれ",
-        "url": "https://response.jp/article/2026/06/23/413057.html"
+        "title": "エクストレイルは車中泊もいける？ 荷室の広さとe-POWERの静粛性で考える週末SUV",
+        "url": "https://bestcarweb.jp/feature/column/1551649"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 30,
-    "queued_articles": 30,
-    "processed": 30,
-    "started_at": "2026-06-23T04:18:55.179Z",
-    "finished_at": "2026-06-23T04:20:10.802Z",
+    "scoped_articles": 36,
+    "queued_articles": 36,
+    "processed": 36,
+    "started_at": "2026-06-23T16:06:54.412Z",
+    "finished_at": "2026-06-23T16:08:09.642Z",
     "success": true,
     "error": ""
   }
