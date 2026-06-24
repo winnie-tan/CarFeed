@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-24T04:33:32.218Z",
+    "generated_at": "2026-06-24T15:39:16.654Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 365,
-    "deepseek_untranslated_before_run": 35,
-    "newly_fetched_articles": 35,
-    "newly_fetched_untranslated": 35,
+    "deepseek_translated_before_run": 364,
+    "deepseek_untranslated_before_run": 36,
+    "newly_fetched_articles": 36,
+    "newly_fetched_untranslated": 36,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 35,
+    "translation_queue_count": 36,
     "translation_queue_preview": [
       {
+        "source": "The Drive",
+        "time": "2026.6.24",
+        "title": "85-Year-Old Arrested for Allegedly Street Racing His Nissan Z",
+        "url": "https://www.thedrive.com/news/85-year-old-arrested-for-allegedly-street-racing-his-nissan-z"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.24",
+        "title": "Costco Members Can Get A Big Discount On Certain Volkswagen SUVs",
+        "url": "https://www.motor1.com/news/799699/volkswagen-tiguan-atlas-costco-discount/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.24",
+        "title": "The Honda Element Is Returning in 2029 as a US-Built Hybrid Crossover: Report",
+        "url": "https://www.thedrive.com/news/the-honda-element-is-returning-in-2029-as-a-us-built-hybrid-crossover-report"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.24",
+        "title": "Amazon Prime Day Deals: All the Best Buys for Car People",
+        "url": "https://www.thedrive.com/news/amazon-prime-day-deals-all-the-best-buys-for-car-people"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.24",
+        "title": "Texas Real Estate Guy Wants to Make a $21,500 Truck. He Got 5,500 Reservations in Six Days",
+        "url": "https://www.thedrive.com/news/texas-real-estate-guy-wants-to-make-a-21500-truck-he-got-5500-reservations-in-six-days"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.24",
+        "title": "2026 McLaren 750S Spider Review: Proof That Supercars Should Still Be Punishing",
+        "url": "https://www.thedrive.com/car-reviews/2026-mclaren-750s-spider-review"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.24",
+        "title": "This Quirky Honda Is Coming Back: Report",
+        "url": "https://www.motor1.com/news/799693/new-honda-element-returning-2029/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.24",
+        "title": "The Peaq Is Peak Skoda. Too Bad America Can’t Buy It",
+        "url": "https://insideevs.com/news/799691/skoda-peaq-large-electric-suv/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.24",
+        "title": "Toyota and Nissan Admit Their American-Made Cars May Have Thin Paint, Panel Gaps, and Leftover Residue: TDS",
+        "url": "https://www.thedrive.com/news/toyota-and-nissan-admit-their-american-made-cars-may-have-thin-paint-panel-gaps-and-leftover-residue-tds"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.24",
+        "title": "At $24,950, The Slate Truck Will Test What America Really Wants",
+        "url": "https://insideevs.com/news/799661/slate-truck-pricing-official-2026/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.24",
+        "title": "Why The Slate Truck Will Use LFP Batteries After All",
+        "url": "https://insideevs.com/news/799667/slate-truck-lfp-battery-range/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.24",
+        "title": "‘Carvana Is Ruining My Life’: Woman Buys Audi At Carvana. Then It Spends A Month In The Shop—And It Still Isn’t Fixed",
+        "url": "https://www.motor1.com/news/799601/woman-buys-audi-carvana/"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.6.24",
-        "title": "【ドゥカティ モンスター 試乗】歴代初のV2エンジンを採用！自らを“伝説”と謳う実力は…小川勤",
-        "url": "https://response.jp/article/2026/06/24/413113.html"
+        "title": "「103kgで44.5PSはエグイ」ドゥカティの新型モトクロッサー『デスモ250 MX』、そのスペックにファン驚愕",
+        "url": "https://response.jp/article/2026/06/24/413142.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.24",
+        "title": "「お値段2.5億w」ブラバスの限定スーパーカー『BODO』が「マジでカッコいい」とSNSで話題に",
+        "url": "https://response.jp/article/2026/06/24/413138.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.24",
+        "title": "「暗い」「古い」イメージ払拭へ、「大改造計画」始動…有機EL関連部品や光学部品の厚木ミクロ",
+        "url": "https://response.jp/article/2026/06/24/413135.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.24",
+        "title": "『ジムニー』などスズキの5MT車をスパルタンに演出！ HKS「カーボンシフトノブ」発売",
+        "url": "https://response.jp/article/2026/06/24/413146.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.24",
+        "title": "Astemoベトナム工場、製造業AIデータプラットフォーム「CADDi」導入…情報探索工数を削減",
+        "url": "https://response.jp/article/2026/06/24/413133.html"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.24",
+        "title": "Slate’s $24,950 Electric Truck Gets More Range, More Tow Capacity—and 450 More Pounds",
+        "url": "https://www.thedrive.com/news/180000-people-reserved-slates-electric-truck-before-they-knew-it-would-cost-24950"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.24",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第793回",
-        "url": "https://bestcarweb.jp/feature/column/1532438"
+        "title": "SUVなのに運転が楽しい！ ダイナミックモードでクルマ激変!! アルファロメオ新型「トナーレ」の完成度",
+        "url": "https://bestcarweb.jp/feature/column/1546158"
       },
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.6.24",
-        "title": "6色カラー対応の工業用3Dプリンタ新材料「オニキス GF」発売へ、自動車産業など向け…米Markforged",
-        "url": "https://response.jp/article/2026/06/24/413122.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.24",
-        "title": "CR-Vブラックエディションは買いか？ 577万9400円の黒づくめ最上級SUV",
-        "url": "https://bestcarweb.jp/news/1551757"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "NX中国、北京の国際サプライチェーン博覧会に4年連続出展…汎アジア戦略を軸に物流ソリューション紹介",
-        "url": "https://response.jp/article/2026/06/24/413105.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "PLATEAUコンソーシアムに加盟、3D都市モデルと映像技術を融合…ミックウェア",
-        "url": "https://response.jp/article/2026/06/24/413121.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "STマイクロ、車載対応IMU「ASM330LHHG1」発表…高精度な推測航法を実現",
-        "url": "https://response.jp/article/2026/06/24/413106.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "Uber Eats、岡山県瀬戸内市と包括連携協定を締結…地域活性化と買物困難者支援へ",
-        "url": "https://response.jp/article/2026/06/24/413110.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "アップガレージ、長野佐久店・群馬太田店を7月に新規出店…関東・中部エリアで拡大",
-        "url": "https://response.jp/article/2026/06/24/413118.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.24",
-        "title": "エクストレイルの新型「ロッククリーク」ってなんなん？ ワイルドなタフギアっぷりを徹底解説！",
-        "url": "https://bestcarweb.jp/feature/column/1551586"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.24",
-        "title": "キューブの代わりはイマどこに!? 走りの良さや技術だけじゃない日本に最もマッチした日産車はどれだ!?",
-        "url": "https://bestcarweb.jp/feature/column/1555320"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "ジープ『アベンジャー』、新7スロットグリルで表情変化…改良新型を欧州発表",
-        "url": "https://response.jp/article/2026/06/24/413111.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "ステンレス鋼帯「外装用表面仕上げ材」、自動車モールや通信機器筐体向け…日本金属が開発",
-        "url": "https://response.jp/article/2026/06/24/413112.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.24",
-        "title": "スライドドア一択はホント!? プリウスで1年間子育てしてわかったリアル",
-        "url": "https://bestcarweb.jp/feature/column/1556856"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.24",
-        "title": "トップクラスの積載容量と狭小現場の作業性を向上!! 極東開発工業から新型「前吊り式フックロールフルトレーラ」",
-        "url": "https://bestcarweb.jp/fullload/1554722"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "プジョー、ル・マン24時間レース参戦100周年記念車を予告…『208』『308』など5モデルに設定",
-        "url": "https://response.jp/article/2026/06/24/413107.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.24",
-        "title": "フロンクス対ヤリスクロス!! トヨタの王道か、スズキの全部入りか？",
-        "url": "https://bestcarweb.jp/feature/column/1552600"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "ホンダ『シビックタイプR』受注停止のままモデルチェンジへ、登場は2026年秋か…最終デザイン",
-        "url": "https://response.jp/article/2026/06/24/413115.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "マツダ、新型『CX-5』で過ごすアウトドアの楽しみ方を提案…TOKYO OUTDOOR SHOW 2026",
-        "url": "https://response.jp/article/2026/06/24/413120.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "マツダ『CX-5』新型、発売1ヵ月で受注1万台超え…月販計画の5倍を達成",
-        "url": "https://response.jp/article/2026/06/24/413103.html"
+        "title": "The Slate Truck Is More Expensive Than Expected",
+        "url": "https://www.motor1.com/news/799615/slate-truck-suv-price-range-specs/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28075347006",
-    "sha": "d0b9393f353f83284b74063cdb200fd998c4c703",
-    "completed_at": "2026-06-24T04:34:47.878Z",
+    "run_id": "28110525271",
+    "sha": "142973c047e5727b17a33ef627df9b0774a071f0",
+    "completed_at": "2026-06-24T15:40:43.876Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 35,
-    "queued_articles": 35,
-    "processed": 35,
-    "started_at": "2026-06-24T04:33:32.465Z",
-    "finished_at": "2026-06-24T04:34:47.671Z",
+    "scoped_articles": 36,
+    "queued_articles": 36,
+    "processed": 36,
+    "started_at": "2026-06-24T15:39:16.958Z",
+    "finished_at": "2026-06-24T15:40:43.637Z",
     "success": true,
     "error": ""
   }
