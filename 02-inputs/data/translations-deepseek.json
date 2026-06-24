@@ -47617,5 +47617,810 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-23T16:08:09.630Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532438": {
+    "title_zh": "【车名猜谜】第 793 回：你知道这款名车、珍车吗？",
+    "summary_short": "本期猜谜车型为铃木 X-90，一款基于 Escudo 平台的 2 门紧凑型 SUV，采用 T 形天窗，仅生产两年，累计销量约 1300 台。",
+    "summary_long": "本期猜谜车型为铃木 X-90，一款基于 Escudo 平台打造的 2 门紧凑型 SUV。车身尺寸为长 3710mm、宽 1695mm、高 1550mm，搭载 1.6L 发动机，最大功率 100ps，配备分时四驱系统。该车采用可开启的 T 形天窗，但仅有 2 个座位，实用性不足，仅生产两年便停产，累计销量约 1300 台。",
+    "highlights_zh": [
+      "基于 Escudo 平台的 2 门紧凑型 SUV",
+      "搭载 1.6L 发动机",
+      "配备可开启 T 形天窗",
+      "仅生产两年"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "X-90",
+      "Escudo"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28153354/main00.jpg?v=1779950036",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28153354/main00-600x400.jpg?v=1779950036",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28163121/main_35353-600x400.jpg?v=1779953482"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:36.697Z"
+  },
+  "https://response.jp/article/2026/06/24/413113.html": {
+    "title_zh": "杜卡迪 Monster 试驾：历代首款 V2 发动机，自称“传奇”的实力",
+    "summary_short": "杜卡迪第五代 Monster 搭载史上最轻 V2 发动机，注重操控与轻量化，延续传奇。",
+    "summary_long": "杜卡迪第五代 Monster（2026 款）完成全面换代，外观与第四代相似，但内核焕然一新。新车搭载杜卡迪 V 型双缸史上最轻的 V2 发动机，专为中量级设计，采用气门弹簧取代 Desmodromic 机构，实现紧凑化。该车优先考虑易用性和轻量化而非绝对性能，重新定义了造车理念。自 1992 年首代 M900 问世以来，Monster 改变了全球街车格局，成为杜卡迪主力车型。",
+    "highlights_zh": [
+      "第五代 Monster 全面换代",
+      "搭载史上最轻 V2 发动机",
+      "注重操控与轻量化",
+      "延续 1992 年以来的传奇"
+    ],
+    "entities": [
+      "杜卡迪",
+      "Monster",
+      "V2 发动机",
+      "街车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221424.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221424.jpg",
+      "https://response.jp/imgs/fill2/2221429.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:37.306Z"
+  },
+  "https://response.jp/article/2026/06/24/413122.html": {
+    "title_zh": "Markforged 推出 6 色工业 3D 打印新材料 Onyx GF",
+    "summary_short": "Markforged 推出玻璃纤维增强尼龙材料 Onyx GF，支持 6 种颜色，用于汽车等工业领域，实现免涂装彩色打印。",
+    "summary_long": "美国工业 3D 打印机制造商 Markforged 宣布推出新材料 Onyx GF，这是其高强度尼龙 Onyx 系列的新成员，为玻璃纤维增强尼龙，提供红、黄、蓝、绿、灰、白 6 种颜色。该材料旨在帮助制造现场通过颜色进行视觉管理、防错和安全提示，省去传统上为获得颜色而进行的涂装或贴标等后处理工序。",
+    "highlights_zh": [
+      "6 色可选：红、黄、蓝、绿、灰、白",
+      "玻璃纤维增强尼龙",
+      "免后处理",
+      "适用于汽车等工业制造"
+    ],
+    "entities": [
+      "Markforged",
+      "Onyx GF",
+      "Onyx",
+      "3D 打印"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221805.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221805.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:40.353Z"
+  },
+  "https://bestcarweb.jp/news/1551757": {
+    "title_zh": "本田 CR-V 黑色版值得买吗？577 万 9400 日元的全黑旗舰 SUV",
+    "summary_short": "本田 CR-V 黑色版基于 e:HEV RS 4WD 打造，全黑外观配 19 英寸轮毂，售价 577 万 9400 日元，比普通 RS 贵 38 万日元但配置更丰富。",
+    "summary_long": "2026 年 2 月重返日本市场的本田 CR-V 推出了旗舰车型 e:HEV RS 黑色版，售价 577 万 9400 日元。该车基于 e:HEV RS 4WD 打造，车身尺寸为 4700×1865×1690mm，全黑化外观包括格栅、车顶行李架、保险杠饰条、门把手及 19 英寸轮毂，并配备 Honda SENSING 360 和电动全景天窗。相比普通 RS 4WD（539 万日元），黑色版贵了 38 万日元，但提供了专属设计和高阶配置，定位更接近豪华 SUV 如 Harrier 和 Lexus NX。",
+    "highlights_zh": [
+      "全黑外观搭配 19 英寸轮毂",
+      "搭载 Honda SENSING 360",
+      "售价 577 万日元",
+      "比普通 RS 贵 38 万日元"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CR-V",
+      "Harrier",
+      "雷克萨斯 | Lexus",
+      "NX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17170641/V4A3686_1.jpg?v=1781683603",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17170641/V4A3686_1-600x400.jpg?v=1781683603",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19235015/29300d5530fe91db182c1fa977711f53-600x600.jpg?v=1781880616"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:42.755Z"
+  },
+  "https://response.jp/article/2026/06/24/413105.html": {
+    "title_zh": "NX 中国连续四年参展北京国际供应链博览会，展示泛亚洲物流解决方案",
+    "summary_short": "NX 中国连续四年参展北京国际供应链博览会，以泛亚洲战略为核心展示物流解决方案，助力中资品牌出海。",
+    "summary_long": "NX 国际物流（中国）有限公司将连续第四年参展在北京举办的第四届中国国际供应链促进博览会（CISCE）。本届展会新增 AI 专区，聚焦供应链数字化与智能化趋势。NX 中国以泛亚洲战略为核心，展示其在各国构建的物流网络，并提供支持中资品牌海外扩张（出海）的解决方案，助力构建灵活韧性的供应链。",
+    "highlights_zh": [
+      "连续四年参展 CISCE",
+      "聚焦泛亚洲物流网络",
+      "新增 AI 专区展示数字化趋势",
+      "助力中资品牌出海"
+    ],
+    "entities": [
+      "NX 国际物流（中国）有限公司",
+      "中国国际供应链促进博览会",
+      "泛亚洲战略",
+      "出海"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221707.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221707.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:43.837Z"
+  },
+  "https://response.jp/article/2026/06/24/413121.html": {
+    "title_zh": "Mikware 加入 PLATEAU 联盟，融合 3D 城市模型与影像技术",
+    "summary_short": "Mikware 宣布加入 PLATEAU 联盟，将 3D 城市模型与影像技术融合，助力城市数字孪生生态建设。",
+    "summary_long": "Mikware 宣布加入 PLATEAU 联盟，该联盟由日本国土交通省主导，旨在推动 3D 城市模型的开发、利用和开放数据化，构建城市数字孪生生态系统。Mikware 将贡献其在影像技术领域的专长，与地方政府、企业及研究机构合作，促进 3D 城市模型的社会应用。",
+    "highlights_zh": [
+      "Mikware 加入 PLATEAU 联盟",
+      "融合 3D 城市模型与影像技术",
+      "助力城市数字孪生生态建设",
+      "与多方合作推动社会应用"
+    ],
+    "entities": [
+      "Mikware",
+      "PLATEAU",
+      "3D 城市模型"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221803.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221803.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:46.142Z"
+  },
+  "https://response.jp/article/2026/06/24/413106.html": {
+    "title_zh": "ST 微电子发布车规级 IMU ASM330LHHG1，实现高精度推估导航",
+    "summary_short": "ST 微电子推出车规级 IMU ASM330LHHG1，可在-40°C 至 125°C 宽温范围工作，集成低噪声传感器与温度补偿，实现高精度推估导航。",
+    "summary_long": "ST 微电子（STMicroelectronics）发布车规级惯性测量单元（IMU）ASM330LHHG1，可在-40°C 至 125°C 温度范围内工作，适用于车辆内任何区域。该器件集成低噪声双传感器、温度补偿和 6 通道同步输出，满足导航与定位系统对高精度推估导航的需求。随着乘用车、商用车及工业车辆越来越多采用高精度 GNSS 定位技术用于路线引导、追踪、导航和驾驶辅助，在卫星信号中断时保持位置连续性的高质量推估导航变得至关重要。",
+    "highlights_zh": [
+      "车规级 IMU",
+      "集成低噪声传感器与温度补偿",
+      "6 通道同步输出",
+      "适用于卫星信号中断时的连续定位"
+    ],
+    "entities": [
+      "ST 微电子",
+      "ASM330LHHG1",
+      "惯性测量单元 | IMU",
+      "推估导航"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221708.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221708.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:48.201Z"
+  },
+  "https://response.jp/article/2026/06/24/413110.html": {
+    "title_zh": "Uber Eats 与冈山县濑户内市签署全面合作协议",
+    "summary_short": "Uber Eats 日本与冈山县濑户内市签署全面合作协议，旨在通过配送服务支持购物困难群体，促进区域振兴。",
+    "summary_long": "Uber Eats 日本与冈山县濑户内市签署全面合作协议，旨在通过整合双方的人力、物力和智力资源，推动区域振兴和经济发展。Uber Eats 已于 2026 年 4 月 1 日在濑户内市中心启动配送服务。该合作致力于打造便捷、安全的生活环境，提升居民生活质量，并促进育儿家庭迁入和定居。",
+    "highlights_zh": [
+      "Uber Eats 与濑户内市签署全面合作协议",
+      "2026 年 4 月已启动中心城区配送服务",
+      "旨在支持购物困难群体和区域振兴",
+      "官民合作提升生活便利性与安全性"
+    ],
+    "entities": [
+      "Uber Eats",
+      "冈山县濑户内市"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221718.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221718.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:49.960Z"
+  },
+  "https://response.jp/article/2026/06/24/413118.html": {
+    "title_zh": "Up Garage 7 月新开长野佐久店和群马太田店",
+    "summary_short": "Up Garage 7 月将在长野佐久和群马太田开设新店，提供二手车用品及轮胎服务。",
+    "summary_long": "日本二手车用品连锁店 Up Garage 宣布将于 7 月开设两家新店：长野佐久店和群马太田店。长野佐久店位于佐久市，毗邻轮胎流通中心，提供二手车用品和轮胎服务；群马太田店位于工业城市太田市，设有约 60 个停车位，整合了汽车用品、摩托车用品和轮胎销售三大业态。",
+    "highlights_zh": [
+      "7 月新开长野佐久店和群马太田店",
+      "长野佐久店配备轮胎流通中心",
+      "群马太田店整合汽车、摩托车和轮胎服务",
+      "提供高性价比的二手车用品和轮胎"
+    ],
+    "entities": [
+      "アップガレージ",
+      "长野佐久店",
+      "群马太田店",
+      "轮胎流通中心"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221740.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221740.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:51.957Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551586": {
+    "title_zh": "日产奇骏新车型“Rock Creek”详解：硬派越野风格全面解析",
+    "summary_short": "日产奇骏新增 Rock Creek 车型，主打硬派越野风格，配备专属内外饰、防水座椅及 e-4ORCE 电四驱系统。",
+    "summary_long": "日产奇骏在 2025 年 8 月的大改款中新增了 Rock Creek 车型，这是一款主打户外越野风格的版本。外观上拥有专属前格栅、保险杠、19 英寸轮毂及双色车身（峡谷米色/超级黑色），内饰配备防水座椅。动力仅提供 e-4ORCE 电动四驱系统，无两驱版本，兼顾越野性能与日常实用性。价格方面，两排座椅版约 475 万日元，三排座椅版约 488 万日元。",
+    "highlights_zh": [
+      "专属外观设计",
+      "防水座椅",
+      "仅配 e-4ORCE 电四驱",
+      "售价约 475 万日元起"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "奇骏",
+      "Rock Creek",
+      "e-4ORCE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18092703/s-NISSAN-X-TRAIL_023.jpg?v=1781742424",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18092703/s-NISSAN-X-TRAIL_023-600x400.jpg?v=1781742424",
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/04/28173701/3f5c10836528e7b90361c2cb2b84f77e-600x319.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:55.031Z"
+  },
+  "https://bestcarweb.jp/feature/column/1555320": {
+    "title_zh": "日产的 Cube 替代者在哪里？最适合日本的日产车是哪款？",
+    "summary_short": "日产曾推出 Cube 等个性小车，如今销量下滑，但 Note 和 Note Aura 仍是日本市场最适配的车型。",
+    "summary_long": "日产曾拥有 Cube、Tiida 等丰富的紧凑型车，但均已停产。2025 年日产国内销量仅为 2005 年的 47%，排名第五。在面向日本市场的车型中，Note 和 Note Aura 最受关注。Note Aura 是加宽车身的豪华版，内饰更精致，电机性能更强，配置更丰富。价格比 Note 高约 49 万日元，其中 30 万日元用于配置升级，约 20 万日元用于提升内外质感与驾驶性能。",
+    "highlights_zh": [
+      "日产国内销量降至 2005 年的 47%",
+      "Note 和 Note Aura 是最适合日本的日产…",
+      "Note Aura 价格比 Note 高约 49 万…",
+      "Note Aura 通过配置和质感升级提升价值"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Cube",
+      "日产 Note",
+      "日产 Note Aura",
+      "Tiida"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19172516/00_jpn_nissan_head.jpg?v=1781857517",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19172516/00_jpn_nissan_head-600x400.jpg?v=1781857517",
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/04/28173701/3f5c10836528e7b90361c2cb2b84f77e-600x319.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:57.244Z"
+  },
+  "https://response.jp/article/2026/06/24/413111.html": {
+    "title_zh": "Jeep Avenger 改良版欧洲发布：新七孔格栅与科技升级",
+    "summary_short": "Jeep Avenger 改良版欧洲发布，采用 LED 背光七孔格栅、新轮毂与双新色，新增矩阵大灯和 360 度影像，累计订单 27 万台。",
+    "summary_long": "Jeep 在欧洲发布了改良版 Avenger，外观上采用带 LED 背光的七孔格栅、新设计的 17/18 英寸轮毂，并新增“森林”和“竹子”两种车色。技术方面新增 LED 矩阵大灯和 360 度全景影像，提升安全性与便利性。该车自上市以来累计订单达 27 万台，其中 60%为电动化车型，目前是意大利最畅销 SUV，并在欧洲 B-SUV 细分市场中占据重要地位。客户群体年轻化，女性及 40 岁以下买家比例均比品牌平均水平高 35%。",
+    "highlights_zh": [
+      "LED 背光七孔格栅",
+      "新增矩阵大灯与 360 度影像",
+      "累计订单 27 万台",
+      "意大利最畅销 SUV"
+    ],
+    "entities": [
+      "吉普",
+      "吉普·复仇者",
+      "B-SUV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221723.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221723.jpg",
+      "https://response.jp/imgs/fill2/2221731.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:33:59.890Z"
+  },
+  "https://response.jp/article/2026/06/24/413112.html": {
+    "title_zh": "日本金属开发不锈钢带材，用于汽车饰条和通信设备外壳",
+    "summary_short": "日本金属开发出冷轧不锈钢带材，用于汽车外饰条和通信设备外壳，可省略研磨涂装工序，降低环境负荷。",
+    "summary_long": "日本金属宣布开发出冷轧不锈钢带材“外装用表面仕上げ材”，主要面向汽车外饰条和智能手机、移动 PC 等通信设备外壳。该产品采用公司擅长的“线圈对线圈”连续加工工艺，在保证独特外观和稳定品质的同时实现高生产率，可帮助客户省略研磨、涂装和表面处理工序，降低环境负担。",
+    "highlights_zh": [
+      "省略研磨、涂装、表面处理工序",
+      "降低环境负荷",
+      "采用线圈对线圈连续加工工艺",
+      "兼顾外观品质与高生产率"
+    ],
+    "entities": [
+      "日本金属",
+      "不锈钢带材",
+      "汽车饰条",
+      "通信设备外壳"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221735.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221735.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:01.347Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556856": {
+    "title_zh": "滑门是唯一选择？普锐斯育儿一年后的真实感受",
+    "summary_short": "30 系普锐斯能否胜任育儿车？作者用一年实际体验证明，轿车也能满足三口之家的日常需求。",
+    "summary_long": "传统观念认为育儿车非 MPV 或 SUV 莫属，但作者用 30 系丰田普锐斯实际育儿一年后发现，轿车同样可行。通过调整座椅布局（副驾前移作储物空间、后座安装儿童座椅），并利用后备箱放置婴儿车，三人家庭日常出行完全够用。结论是：普锐斯作为育儿车功能足够。",
+    "highlights_zh": [
+      "30 系普锐斯可满足三口之家育儿需求",
+      "副驾前移可作储物空间",
+      "后备箱放婴儿车后仍有剩余空间",
+      "轿车并非不适合育儿"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "普锐斯",
+      "30 系普锐斯",
+      "育儿车",
+      "轿车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/04/28173701/3f5c10836528e7b90361c2cb2b84f77e.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/04/28173701/3f5c10836528e7b90361c2cb2b84f77e-600x319.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18092703/s-NISSAN-X-TRAIL_023-600x400.jpg?v=1781742424"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:04.456Z"
+  },
+  "https://bestcarweb.jp/fullload/1554722": {
+    "title_zh": "极东开发工业新型前吊式钩臂全挂车",
+    "summary_short": "极东开发工业推出新型前吊式钩臂全挂车，提升狭小场地作业效率，载货容量同级领先。",
+    "summary_long": "极东开发工业于 2026 年 6 月 22 日推出改款前吊式钩臂全挂车，大幅提升狭小场地作业性。该车采用与日本 Trex 共同开发的屈折式牵引杆，实现从前方装卸 6 米集装箱（前吊式），为业界顶级容量。相比旧款，装卸所需周围空间减少约 60%，兼顾了狭小现场的作业效率与便利性。",
+    "highlights_zh": [
+      "采用屈折式牵引杆",
+      "可装卸 6 米集装箱",
+      "装卸所需空间减少约 60%",
+      "提升狭小场地作业效率"
+    ],
+    "entities": [
+      "极东开发工业",
+      "日本 Trex",
+      "前吊式钩臂全挂车",
+      "屈折式牵引杆",
+      "6 米集装箱"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/19133204/f153e15d3715b94ee1b853592e95eff4-1024x702.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/17121632/00-26DT112_001.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/19114538/WEB_ISZ-Truck-Chain_Eyecatch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:05.732Z"
+  },
+  "https://response.jp/article/2026/06/24/413107.html": {
+    "title_zh": "标致预告勒芒 24 小时耐力赛参战 100 周年纪念车，5 款车型可选",
+    "summary_short": "标致为纪念勒芒 24 小时耐力赛参战 100 周年，推出 208、308 等 5 款特别版车型，采用黑蓝配色。",
+    "summary_long": "标致宣布将在欧洲推出“标致 24 Hours of Le Mans”特别版车型，以纪念首次参加勒芒 24 小时耐力赛 100 周年。该系列涵盖 208、308、408、3008 和 5008 共 5 款车型，基于 GT 版打造，采用深黑色与勒芒标志性蓝色组合的专属涂装。动力和技术细节将在临近上市时公布。标致与勒芒赛事渊源深厚，自 1926 年首次参赛以来已三次夺冠，此次特别版体现了品牌与赛事共同的创新、耐久与法国传统价值观。",
+    "highlights_zh": [
+      "纪念勒芒 24 小时耐力赛参战 100 周年",
+      "208、308 等 5 款车型推出特别版",
+      "基于 GT 版",
+      "标致自 1926 年参赛"
+    ],
+    "entities": [
+      "标致",
+      "勒芒 24 小时耐力赛 | Le Mans 24 Hours",
+      "Peugeot 208",
+      "Peugeot 308",
+      "Peugeot 408"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221709.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221709.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:09.601Z"
+  },
+  "https://bestcarweb.jp/feature/column/1552600": {
+    "title_zh": "铃木 Fronx vs 丰田 Yaris Cross：谁才是紧凑 SUV 之王？",
+    "summary_short": "丰田 Yaris Cross 与铃木 Fronx 正面交锋，前者以丰富动力和超低油耗见长，后者以高性价比和全面配置吸引买家。",
+    "summary_long": "紧凑型 SUV 市场迎来两大热门对决：丰田 Yaris Cross 凭借汽油、混动、两驱/四驱等多种动力组合，以及 WLTC 工况下混动版最高 30.8km/L 的油耗表现，稳坐“王道”地位。而铃木 Fronx 则以单一 1.5L 轻度混动+6AT 动力总成，两驱版 254.1 万日元起的价格，以及 19.0km/L 的油耗，主打“全部入り”的高性价比策略。两者尺寸相近但性格迥异：Yaris Cross 更长更高，视野和后备箱实用性更强；Fronx 则更注重配置的全面性。最终选择取决于用户对油耗、价格和驾驶感受的偏好。",
+    "highlights_zh": [
+      "Yaris Cross 提供汽油/混动/两驱/四驱多…",
+      "混动版油耗最高 30.8km/L",
+      "Fronx 单一动力",
+      "Yaris Cross 尺寸更大"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Yaris Cross",
+      "铃木 | Suzuki",
+      "Fronx",
+      "紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18143045/fdba2182d5f5002af90a3f62d0312795.jpg?v=1781760646",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18143045/fdba2182d5f5002af90a3f62d0312795-600x400.jpg?v=1781760646",
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/04/28173701/3f5c10836528e7b90361c2cb2b84f77e-600x319.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:11.125Z"
+  },
+  "https://response.jp/article/2026/06/24/413115.html": {
+    "title_zh": "本田思域 Type R 持续停止接单，预计 2026 年秋改款",
+    "summary_short": "本田思域 Type R（FL5）持续停止接单，普通版已下架，仅剩特别版。预计 2026 年秋推出改款，前脸设计将更激进。",
+    "summary_long": "本田思域 Type R（FL5）自 2022 年上市以来备受追捧，长期处于停止接单状态。目前本田官网已下架普通版，仅保留 RACING BLACK Package 特别版，普通版可能就此停售。海外市场方面，欧洲因排放法规已决定停售，但全球市场并未完全终止。据经销商和行业人士预测，2026 年秋季将推出大幅改良版，前脸设计参考东京改装展上的 HRC 概念车，采用更大进气口和新保险杠，空气动力学性能提升，造型更激进。",
+    "highlights_zh": [
+      "普通版已下架",
+      "欧洲因排放法规停售",
+      "预计 2026 年秋推出改款",
+      "前脸设计参考 HRC 概念车"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域 Type R",
+      "HRC 概念车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220468.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220468.jpg",
+      "https://response.jp/imgs/fill2/2221524.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:14.160Z"
+  },
+  "https://response.jp/article/2026/06/24/413120.html": {
+    "title_zh": "马自达在 TOKYO OUTDOOR SHOW 2026 展示新型 CX-5 的户外生活方式",
+    "summary_short": "马自达将在 TOKYO OUTDOOR SHOW 2026 上展示新型 CX-5 的户外使用场景，包括出发、露营和车中泊。",
+    "summary_long": "马自达将于 2026 年 6 月 26 日至 28 日在幕张展览馆举办的 TOKYO OUTDOOR SHOW 2026 上展出。展台以“THE DAY”为主题，通过早晨出发、白天露营和夜晚车中泊三个场景，展示新型 CX-5 的易用性和舒适性。早晨场景利用 360 度视图监视器展示车辆在狭窄道路和停车位的操控便利性；白天场景展示与广岛户外品牌合作的露营装备，如焚火台、帐篷和五右卫门浴缸，体现后备箱空间；夜晚场景通过全景天窗观星、车中泊套件和寝具等，营造舒适车内休息体验。此外，还有免费的工作坊制作原创物品。",
+    "highlights_zh": [
+      "展示新型 CX-5 的户外使用场景",
+      "与广岛户外品牌合作露营装备",
+      "全景天窗观星与车中泊体验",
+      "免费原创物品制作工作坊"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "TOKYO OUTDOOR SHOW 2026",
+      "幕张展览馆"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221800.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221800.jpg",
+      "https://response.jp/imgs/fill2/2221801.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:15.537Z"
+  },
+  "https://response.jp/article/2026/06/24/413103.html": {
+    "title_zh": "马自达全新 CX-5 上市一个月订单超 1 万台，达月销目标 5 倍",
+    "summary_short": "马自达全新 CX-5 上市一个月订单破万，达月销目标 5 倍，高配版占比 65%，白色特别涂装最受欢迎。",
+    "summary_long": "马自达于 2026 年 5 月 21 日推出的全新 CX-5，截至 6 月 21 日国内订单已超 1 万台，达到月销计划的 5 倍。该车基于“新世代情感日常舒适”理念开发，采用大型触控屏，兼顾运动设计与舒适性。高配版 L 占比 65%，特别涂装色“罗丹白金属漆”最受欢迎，占 25%。用户对后排空间、大型显示屏及便利性评价较高。",
+    "highlights_zh": [
+      "上市 1 个月订单超 1 万台",
+      "高配版 L 占比 65%",
+      "特别涂装色罗丹白最受欢迎",
+      "后排空间和大型显示屏获好评"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221655.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221655.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:18.313Z"
+  },
+  "https://bestcarweb.jp/feature/column/1555211": {
+    "title_zh": "日本车如何满足“贪心”的日本人？",
+    "summary_short": "日本车在价格、质感、实用性上全面满足挑剔的日本人，紧凑车身、优秀视野和先进安全装备是关键。",
+    "summary_long": "日本汽车制造商在将销售重心转向海外市场的同时，仍持续为本土市场打造专属车型。面对日本狭窄的道路、有限的停车空间、停滞的薪资以及上涨的车价，日本车通过紧凑的车身、良好的视野、先进的安全装备和高效的空间利用，满足了消费者对价格、质感和实用性的多重需求。目前日本新车销量中近四成为轻型车，小型车和普通车中的紧凑车型也位居销量前列。",
+    "highlights_zh": [
+      "日本道路窄、停车难、薪资停滞",
+      "紧凑车身+优秀视野+先进安全装备是日本车核心",
+      "日本新车近四成是轻型车"
+    ],
+    "entities": [
+      "日本车",
+      "轻型车",
+      "紧凑型车",
+      "安全装备"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19161247/00_jpn_somo_head.jpg?v=1781853168",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19161247/00_jpn_somo_head-600x400.jpg?v=1781853168",
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/04/28173701/3f5c10836528e7b90361c2cb2b84f77e-600x319.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:20.385Z"
+  },
+  "https://bestcarweb.jp/feature/column/1555958": {
+    "title_zh": "退休后的爱车，轿车才是正解！SUV 全盛时代应选的 3 款珠玉车型",
+    "summary_short": "SUV 热潮中，轿车凭借低重心、高稳定性、静音舒适及立体停车便利，成为退休族理想选择。推荐 3 款经典车型。",
+    "summary_long": "SUV 人气持续高涨，尤其受到中高年层青睐，但轿车作为乘用车基本形态，拥有低重心带来的高速稳定性、独立后备箱的静音性、后座舒适性以及立体停车便利等优势。针对退休后追求品质生活的用户，文章推荐了 3 款值得选择的轿车。",
+    "highlights_zh": [
+      "轿车低重心",
+      "独立后备箱",
+      "后座舒适",
+      "可停立体车库"
+    ],
+    "entities": [
+      "SUV",
+      "轿车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20141817/mazda6_image1.jpg?v=1781932698",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20141817/mazda6_image1-600x400.jpg?v=1781932698",
+      "https://img.bestcarweb.jp/wp-content/uploads/2021/04/28173701/3f5c10836528e7b90361c2cb2b84f77e-600x319.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:22.172Z"
+  },
+  "https://www.thedrive.com/news/48-off-a-polisher-and-more-dewalt-prime-day-deals-for-car-people": {
+    "title_zh": "汽车爱好者必看：DeWalt Prime Day 优惠精选",
+    "summary_short": "DeWalt 工具在 Prime Day 大促，抛光机等汽车相关工具低至 48% 折扣，品质与价格兼得。",
+    "summary_long": "亚马逊 Prime Day 期间，DeWalt 工具推出大幅折扣，包括抛光机等汽车爱好者常用工具，最高优惠达 48%。DeWalt 工具以质量与性价比著称，此次促销是入手的好时机。本文推荐了最值得购买的汽车相关工具，并附有其他优惠汇总。",
+    "highlights_zh": [
+      "抛光机等工具低至 48% 折扣",
+      "DeWalt 工具品质可靠",
+      "适合汽车爱好者的 Prime Day 精选"
+    ],
+    "entities": [
+      "DeWalt"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/dewalt-polisher-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/dewalt-polisher.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:23.573Z"
+  },
+  "https://www.motor1.com/news/799600/car-dealership-bring-own-mechanic/": {
+    "title_zh": "买家要求自带技师检查二手车，经销商：这是咄咄逼人还是太磨叽？",
+    "summary_short": "一位买家在二手车行购车时，要求将车开至自己的技师处检查，引发经销商关于销售策略的讨论。",
+    "summary_long": "一位买家在宾夕法尼亚州一家二手车行看中一辆卡车，获得预批准后，将车开至自己的技师处进行全面检查，随后返回车行谈判，但最终表示需要“再考虑一下”便离开了。车行老板在社交媒体上询问同行，是否应该更强势地促成交易。该视频引发热议，多数评论认为买家的做法是明智的购车流程，而经销商允许检查也值得肯定。",
+    "highlights_zh": [
+      "买家预批准后要求自带技师检查车辆",
+      "检查后返回谈判",
+      "经销商询问是否应更强势促成交易",
+      "多数评论支持买家做法"
+    ],
+    "entities": [
+      "Autobahn Prestige Motors"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWOR1/s1/man-goes-to-the-dealership-to-buy-a-new-car.-then-he-asks-to-have-his-own-mechanic-check-it-out.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:26.692Z"
+  },
+  "https://www.motor1.com/news/799609/hyundai-electric-n-cars-future-shift-technology/": {
+    "title_zh": "现代计划让电动 N 系列驾驶感受更真实",
+    "summary_short": "现代将升级下一代电动 N 车型的 N e-shift 模拟换挡技术，加入怠速、回火、振动等燃油车特性，让电动驾驶体验更逼真。",
+    "summary_long": "现代汽车计划在下一代电动 N 性能车型中增强其 N e-shift 模拟换挡技术，可能包括硬件和软件升级。研发负责人 Manfred Harrer 表示，该技术将加入怠速、回火、振动等燃油车特有的驾驶感受，旨在让电动车驾驶体验更真实、更有趣。现代已开始测试该技术，并申请了线控换挡机构专利，可模拟手动变速箱或传统自动变速箱的操作。",
+    "highlights_zh": [
+      "升级 N e-shift 模拟换挡技术",
+      "加入怠速、回火、振动等燃油车特性",
+      "已申请线控换挡机构专利",
+      "研发负责人称要让驾驶更真实"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "N e-shift",
+      "线控换挡",
+      "模拟换挡技术"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Rq6jNr/s1/2025-hyundai-ioniq-5-n-rear-3-4.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:27.668Z"
+  },
+  "https://www.motor1.com/news/799556/state-farm-stolen-car-parts-chevrolet-camaro/": {
+    "title_zh": "雪佛兰 Camaro 引擎被盗，车主联系 State Farm 保险",
+    "summary_short": "男子将雪佛兰 Camaro 停在市中心，下班后发现引擎被盗，连催化转换器也不翼而飞。",
+    "summary_long": "一名亚特兰大车主将新买的雪佛兰 Camaro 停在公司附近，下班后启动失败，打开引擎盖发现整个发动机被盗，催化转换器也被拆走。他在 TikTok 上发布视频，引发广泛关注。目前正联系 State Farm 保险索赔，但能否获赔取决于具体保单条款。",
+    "highlights_zh": [
+      "雪佛兰 Camaro 引擎被盗",
+      "催化转换器也被拆走",
+      "车主在 TikTok 上曝光",
+      "State Farm 保险理赔存疑"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Camaro",
+      "State Farm",
+      "亚特兰大"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwBz3/s1/man-parks-chevrolet-for-4-hour.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:30.106Z"
+  },
+  "https://www.motor1.com/news/799581/toyota-nissan-us-import-models-poor-quality/": {
+    "title_zh": "丰田与日产承认美国产车辆质量不及日本标准",
+    "summary_short": "丰田和日产警告日本买家，进口自美国的车辆可能存在涂装瑕疵、面板缝隙不均等问题，但功能与性能不受影响。",
+    "summary_long": "根据一项贸易协议，丰田和日产将美国制造的坦途、汉兰达和楼兰出口至日本，但向买家发出质量警告：这些车辆按海外规格制造，涂装可能含有灰尘颗粒、密封剂残留、面板错位或缝隙不均，与日本国内标准存在差异。两家公司均强调这些问题不影响功能与性能，可放心使用。",
+    "highlights_zh": [
+      "丰田与日产向日本买家发出质量警告",
+      "美国产车辆涂装与装配标准低于日本国内",
+      "问题包括漆面颗粒、密封剂残留、面板缝隙不均",
+      "功能与性能不受影响"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日产 | Nissan",
+      "坦途",
+      "汉兰达",
+      "楼兰"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XB6w1k/s1/2024-toyota-tundra-trd-pro.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:31.841Z"
+  },
+  "https://insideevs.com/news/799603/ford-mach-e-uev-platform/": {
+    "title_zh": "Mustang Mach-E 不会迁移至福特新 EV 平台",
+    "summary_short": "福特确认 Mustang Mach-E 不会采用全新 UEV 平台，未来换代计划不明，当前销量下滑明显。",
+    "summary_long": "福特 Mustang Mach-E 作为早期成功电动车型，曾让消费者重新考虑特斯拉，但如今面临销量下滑——美国前五月销量同比跌近半至不足万辆。福特在官网问答中明确表示，Mach-E 不会迁移至全新 Universal EV (UEV) 平台，该平台专为提升效率从头设计。这并不意味着 Mach-E 会停产，但其换代前景变得不确定，可能基于现有架构更新，而福特未来电动化战略核心是 UEV 平台。",
+    "highlights_zh": [
+      "福特确认 Mach-E 不采用 UEV 平台",
+      "美国前五月销量同比跌近半",
+      "换代前景不明",
+      "福特电动化重心转向 UEV 平台"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Mustang Mach-E",
+      "Tesla Model Y",
+      "UEV 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkMwQN/s1/2025-ford-mustang-mach-e.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:34.637Z"
+  },
+  "https://www.thedrive.com/news/rivian-has-long-wanted-to-put-a-winch-on-the-r1-rad-might-finally-make-it-happen": {
+    "title_zh": "Rivian 计划为 R1 安装绞盘，RAD 部门或促成",
+    "summary_short": "Rivian CEO 透露长期希望为 R1 车型配备绞盘，新成立的 RAD 部门可能推动这一配件落地。",
+    "summary_long": "Rivian CEO RJ Scaringe 在 The Drivecast 采访中表示，公司一直希望为 R1 车型安装绞盘，但至今未实现。尽管 Rivian 已申请相关专利，但产品尚未推出。新成立的 RAD 部门专注于配件开发，可能使绞盘成为现实。",
+    "highlights_zh": [
+      "Rivian CEO 确认长期计划为 R1 装绞盘",
+      "RAD 部门或推动配件落地",
+      "Rivian 已申请绞盘专利但未量产"
+    ],
+    "entities": [
+      "Rivian",
+      "R1",
+      "RAD",
+      "绞盘"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/02/260225_BRANDON-DELACRUZ_RAD-WRAPS_0034-Final-e1782234953184.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Auto-Unique-Displays-copy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:35.256Z"
+  },
+  "https://www.thedrive.com/news/man-driving-giant-banana-gets-pulled-over-in-montana": {
+    "title_zh": "蒙大拿州交警拦下巨型香蕉车",
+    "summary_short": "一辆基于福特 F-150 的巨型香蕉车在蒙大拿州被交警拦下，车牌号为“SPLIT”，司机未收到罚单。",
+    "summary_long": "一辆外形酷似巨型香蕉的改装车在蒙大拿州比灵斯附近被州警拦下，原因是部分车牌被遮挡。该车基于福特 F-150 皮卡打造，车牌号为“SPLIT”。司机 Steve Braithwaite 未收到罚单。据称，过去十年间他驾驶这辆香蕉车穿越美国，已被拦停数百次。",
+    "highlights_zh": [
+      "巨型香蕉车基于福特 F-150",
+      "车牌号为“SPLIT”",
+      "因遮挡车牌被拦下",
+      "司机未收到罚单"
+    ],
+    "entities": [
+      "福特",
+      "F-150",
+      "蒙大拿州",
+      "巨型香蕉车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_9838.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/05/Auto-Unique-Displays-copy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:37.982Z"
+  },
+  "https://www.motor1.com/news/799544/2026-skoda-peaq-details-specs-photos/": {
+    "title_zh": "斯柯达全新旗舰 SUV Peaq：空间最大化",
+    "summary_short": "斯柯达 Peaq 是品牌最大车型，三排电动 SUV，轴距加长，后备箱最大 1010 升，配备隐藏式门把手和电致变色天窗。",
+    "summary_long": "斯柯达全新旗舰 SUV Peaq 正式亮相，这是一款三排座电动 SUV，基于专用电动平台打造，车长 4874 毫米，轴距 2965 毫米，是斯柯达目前最长的车型。五座版后备箱容积达 1010 升，创下品牌纪录；三排座版在第三排升起时仍有 299 升空间，前备箱还可提供 37 升储物空间。新车首次采用隐藏式门把手，并配备 2.12 平方米的电致变色天窗（9 段可调），以及集成在雨刮片中的挡风玻璃清洗喷嘴。Peaq 将竞争对手锁定为现代 Ioniq 9 和起亚 EV9。",
+    "highlights_zh": [
+      "车长 4874 毫米",
+      "五座版后备箱 1010 升",
+      "首次配备隐藏式门把手和电致变色天窗",
+      "雨刮片集成清洗喷嘴"
+    ],
+    "entities": [
+      "斯柯达 | Skoda",
+      "Peaq",
+      "现代 Ioniq 9 | Hyundai Ioniq 9",
+      "起亚 EV9 | Kia EV9"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3ynOM/s1/skoda-peaq-sportline-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:40.436Z"
+  },
+  "https://insideevs.com/news/799595/cheapest-rivian-r1s-r1t-discontinued-dual-standard/": {
+    "title_zh": "Rivian 停售最便宜 R1T 和 R1S，R2 开始交付",
+    "summary_short": "Rivian 已停售最便宜的 R1T 和 R1S Dual Standard 版本，起售价分别上涨至 79,990 美元和 83,990 美元，同时 R2 开始交付。",
+    "summary_long": "Rivian 已从其配置器中移除最便宜的 R1S 和 R1T Dual Standard 版本，该品牌早在今年 3 月就预告了停产计划。Dual Standard 版本配备双电机和最小电池组，EPA 续航 270 英里，起售价分别为 76,990 美元（R1S）和 72,990 美元（R1T）。如今入门价格上调：R1S Dual 起价 83,990 美元，R1T Dual 起价 79,990 美元，升级大电池后续航可达 329 英里。CEO RJ Scaringe 表示，购买入门版的客户很少。与此同时，Rivian 本月开始交付首款大众市场车型 R2，起售价 57,990 美元，明年将推出 45,000 美元版本。",
+    "highlights_zh": [
+      "Rivian 停售最便宜的 R1T 和 R1S Du…",
+      "入门价格上调：R1S 涨至 83",
+      "R2 本月开始交付",
+      "明年将推出 45"
+    ],
+    "entities": [
+      "Rivian",
+      "R1T",
+      "R1S",
+      "R2"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Z2g8X/s1/rivian-r1t-electric-truck.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:42.922Z"
+  },
+  "https://www.thedrive.com/news/cops-are-already-using-license-plate-readers-to-stalk-people": {
+    "title_zh": "警方已利用车牌读取器进行跟踪",
+    "summary_short": "车牌读取器可监控几乎所有联网设备，且系统已被滥用，警方利用 Flock 等系统跟踪人员。",
+    "summary_long": "车牌读取器现在可以监控几乎所有联网设备，这些系统已被滥用。Flock 公司提供公共空间被动视频监控，声称“隐私优先”，但数据保护记录不佳，上月独立记者发现 Flock 通过多个搜索引擎暴露了警察输入的个人信息和相关搜索查询。",
+    "highlights_zh": [
+      "车牌读取器可追踪手机、穿戴设备及车载娱乐系统",
+      "Flock 系统被警方滥用进行跟踪",
+      "Flock 数据保护记录不佳"
+    ],
+    "entities": [
+      "Flock",
+      "SignalTrace",
+      "车牌读取器",
+      "隐私"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/flog-rtcc.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Solar-PTZ-Video-Camera.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Flock-Mobile-Security-Trailer.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:43.910Z"
+  },
+  "https://www.thedrive.com/news/nocos-best-deal-jump-starters-and-inflators-are-on-sale-for-prime-day": {
+    "title_zh": "NOCO Prime Day 促销：应急启动电源与充气泵最高五折",
+    "summary_short": "NOCO 多款应急启动电源与充气泵在亚马逊 Prime Day 促销，最高可享 50%折扣，GB40 与 GBX155 等热门型号参与活动。",
+    "summary_long": "NOCO 是备受好评的汽车应急启动电源品牌，其产品在性能与价格之间取得了良好平衡。亚马逊 Prime Day 期间，NOCO 多款畅销产品参与促销，最高折扣达 50%。其中 GB40 和 GBX155 应急启动电源是日常车载救援的理想选择，体积小巧、充电快速，足以启动汽车、卡车或船只。",
+    "highlights_zh": [
+      "NOCO 产品最高 50%折扣",
+      "GB40 与 GBX155 热销型号参与",
+      "小巧快速"
+    ],
+    "entities": [
+      "NOCO",
+      "GB40",
+      "GBX155",
+      "Prime Day"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/NOCO-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/nun-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:46.553Z"
+  },
+  "https://www.motor1.com/news/799488/chrysler-pacifica-trade-in-16000-dollars-car-loan/": {
+    "title_zh": "女子购买克莱斯勒 Pacifica 两年后试图置换，发现贷款倒挂 1.6 万美元",
+    "summary_short": "一名女子两年前购买克莱斯勒 Pacifica，如今试图置换时发现贷款倒挂 1.6 万美元，向网友求助。",
+    "summary_long": "一名女子在疫情期间购买了一辆二手克莱斯勒 Pacifica，两年后因车辆出现异响且里程达 12.2 万英里，她决定置换新车，却发现贷款倒挂 1.6 万美元。她此前曾因车辆故障和尺寸问题多次换车，如今陷入财务困境，向网络寻求建议。",
+    "highlights_zh": [
+      "贷款倒挂 1.6 万美元",
+      "车辆出现异响",
+      "里程达 12.2 万英里",
+      "曾多次换车"
+    ],
+    "entities": [
+      "克莱斯勒 | Chrysler",
+      "Pacifica",
+      "丰田 | Toyota",
+      "Highlander"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo94vX/s1/woman-buys-chrysler-pacifica..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-24T04:34:47.662Z"
   }
 }
