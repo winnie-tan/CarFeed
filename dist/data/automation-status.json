@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-24T15:39:16.654Z",
+    "generated_at": "2026-06-25T04:32:08.630Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 364,
-    "deepseek_untranslated_before_run": 36,
-    "newly_fetched_articles": 36,
-    "newly_fetched_untranslated": 36,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
+    "newly_fetched_articles": 34,
+    "newly_fetched_untranslated": 34,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 36,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.24",
-        "title": "85-Year-Old Arrested for Allegedly Street Racing His Nissan Z",
-        "url": "https://www.thedrive.com/news/85-year-old-arrested-for-allegedly-street-racing-his-nissan-z"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.24",
-        "title": "Costco Members Can Get A Big Discount On Certain Volkswagen SUVs",
-        "url": "https://www.motor1.com/news/799699/volkswagen-tiguan-atlas-costco-discount/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.24",
-        "title": "The Honda Element Is Returning in 2029 as a US-Built Hybrid Crossover: Report",
-        "url": "https://www.thedrive.com/news/the-honda-element-is-returning-in-2029-as-a-us-built-hybrid-crossover-report"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.24",
-        "title": "Amazon Prime Day Deals: All the Best Buys for Car People",
-        "url": "https://www.thedrive.com/news/amazon-prime-day-deals-all-the-best-buys-for-car-people"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.24",
-        "title": "Texas Real Estate Guy Wants to Make a $21,500 Truck. He Got 5,500 Reservations in Six Days",
-        "url": "https://www.thedrive.com/news/texas-real-estate-guy-wants-to-make-a-21500-truck-he-got-5500-reservations-in-six-days"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.24",
-        "title": "2026 McLaren 750S Spider Review: Proof That Supercars Should Still Be Punishing",
-        "url": "https://www.thedrive.com/car-reviews/2026-mclaren-750s-spider-review"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.24",
-        "title": "This Quirky Honda Is Coming Back: Report",
-        "url": "https://www.motor1.com/news/799693/new-honda-element-returning-2029/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.24",
-        "title": "The Peaq Is Peak Skoda. Too Bad America Can’t Buy It",
-        "url": "https://insideevs.com/news/799691/skoda-peaq-large-electric-suv/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.24",
-        "title": "Toyota and Nissan Admit Their American-Made Cars May Have Thin Paint, Panel Gaps, and Leftover Residue: TDS",
-        "url": "https://www.thedrive.com/news/toyota-and-nissan-admit-their-american-made-cars-may-have-thin-paint-panel-gaps-and-leftover-residue-tds"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.24",
-        "title": "At $24,950, The Slate Truck Will Test What America Really Wants",
-        "url": "https://insideevs.com/news/799661/slate-truck-pricing-official-2026/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.24",
-        "title": "Why The Slate Truck Will Use LFP Batteries After All",
-        "url": "https://insideevs.com/news/799667/slate-truck-lfp-battery-range/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.24",
-        "title": "‘Carvana Is Ruining My Life’: Woman Buys Audi At Carvana. Then It Spends A Month In The Shop—And It Still Isn’t Fixed",
-        "url": "https://www.motor1.com/news/799601/woman-buys-audi-carvana/"
+        "source": "Best Car Web",
+        "time": "2026.6.25",
+        "title": "“小さなパジェロ”が地球の裏側で大ヒット！ 三菱「パジェロイオ」が愛された理由とは",
+        "url": "https://bestcarweb.jp/feature/column/1538575"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "「103kgで44.5PSはエグイ」ドゥカティの新型モトクロッサー『デスモ250 MX』、そのスペックにファン驚愕",
-        "url": "https://response.jp/article/2026/06/24/413142.html"
+        "time": "2026.6.25",
+        "title": "「3ウェイ」はビギナーには不向き。でもいつかはチャレンジを！［スピーカー交換丸わかり講座］",
+        "url": "https://response.jp/article/2026/06/25/413166.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "「お値段2.5億w」ブラバスの限定スーパーカー『BODO』が「マジでカッコいい」とSNSで話題に",
-        "url": "https://response.jp/article/2026/06/24/413138.html"
+        "time": "2026.6.25",
+        "title": "「トヨタ アップグレード ファクトリー」、先代『RAV4』のリフトアップ事前検査の受付開始…「GORI GORI BLACK」塗装のフェンダーアーチも発売",
+        "url": "https://response.jp/article/2026/06/25/413151.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "「暗い」「古い」イメージ払拭へ、「大改造計画」始動…有機EL関連部品や光学部品の厚木ミクロ",
-        "url": "https://response.jp/article/2026/06/24/413135.html"
+        "time": "2026.6.25",
+        "title": "「第3のエコカー」10年ぶり全面刷新か？ ダイハツ『ミライース』DNGA採用で燃費さらに向上へ",
+        "url": "https://response.jp/article/2026/06/25/413168.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "『ジムニー』などスズキの5MT車をスパルタンに演出！ HKS「カーボンシフトノブ」発売",
-        "url": "https://response.jp/article/2026/06/24/413146.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.24",
-        "title": "Astemoベトナム工場、製造業AIデータプラットフォーム「CADDi」導入…情報探索工数を削減",
-        "url": "https://response.jp/article/2026/06/24/413133.html"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.24",
-        "title": "Slate’s $24,950 Electric Truck Gets More Range, More Tow Capacity—and 450 More Pounds",
-        "url": "https://www.thedrive.com/news/180000-people-reserved-slates-electric-truck-before-they-knew-it-would-cost-24950"
+        "time": "2026.6.25",
+        "title": "【現地レポート】インド自動車市場の最前線、急成長する市場で日本企業の勝機とは…NRI ジェーン・ヴィニート氏［インタビュー］",
+        "url": "https://response.jp/article/2026/06/25/413160.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.24",
-        "title": "SUVなのに運転が楽しい！ ダイナミックモードでクルマ激変!! アルファロメオ新型「トナーレ」の完成度",
-        "url": "https://bestcarweb.jp/feature/column/1546158"
+        "time": "2026.6.25",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第794回",
+        "url": "https://bestcarweb.jp/feature/column/1532440"
       },
       {
-        "source": "Motor1",
-        "time": "2026.6.24",
-        "title": "The Slate Truck Is More Expensive Than Expected",
-        "url": "https://www.motor1.com/news/799615/slate-truck-suv-price-range-specs/"
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "DOBOTが「フィジカルAIプラットフォーム」としてヒューマノイド・四足歩行ロボットなどを披露 …RTJ 2026",
+        "url": "https://response.jp/article/2026/06/25/413158.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "VW『Tクロス』など3車種をリコール…メーターが正しく起動しないおそれ",
+        "url": "https://response.jp/article/2026/06/25/413162.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "アウディA3スポーツバック改良新型、パノラマディスプレイ搭載の新コックピット採用…欧州発表",
+        "url": "https://response.jp/article/2026/06/25/413156.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "いすゞのピックアップトラック『D-MAX』、タイからの並行輸入で7月1日発売…税抜1000万円",
+        "url": "https://response.jp/article/2026/06/25/413172.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "スカイドライブの空飛ぶクルマ、時速100kmの前進飛行試験に成功…2028年商用化へ前進",
+        "url": "https://response.jp/article/2026/06/25/413167.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "スズキ『スイフト』、AWIN製「SUZUKI SPORTボディキット」発売…前後サイドのアンダースポイラーをセット",
+        "url": "https://response.jp/article/2026/06/25/413154.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "スズキとエステーが共同開発、車用消臭芳香剤「エアフォレスト ヨワン」が全国販売へ",
+        "url": "https://response.jp/article/2026/06/25/413148.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "テイン、新開発ショックアブソーバでアジア最大級のクロスカントリーラリー「AXCR 2026」参戦へ",
+        "url": "https://response.jp/article/2026/06/25/413165.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "デンソー、EV走行中の霜取りを実現する熱マネジメント技術で発明賞…冬季のEV航続低下を防ぐ",
+        "url": "https://response.jp/article/2026/06/25/413161.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "トヨタが技術ルールを作る？ 自動車メーカー「他社牽制力」ランキング2025で首位 パテントリザルト",
+        "url": "https://response.jp/article/2026/06/25/413164.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.25",
+        "title": "トヨタの新車を買えない!? 受注停止を繰り返すワケ！ 納期長期化の背景を徹底解説",
+        "url": "https://bestcarweb.jp/feature/column/1543281"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.25",
+        "title": "ノートは軽自動車からの乗り換えにアリ？ 維持費より走りと安心感で選ぶ理由",
+        "url": "https://bestcarweb.jp/feature/column/1555242"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.25",
+        "title": "パジェロシリーズついに復活!!「ベストカー 7月26日号発売！」",
+        "url": "https://bestcarweb.jp/backnumber/1551197"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.25",
+        "title": "ルークス オーテックラインって高すぎない？ 黒内装と専用装備で選ぶ上級軽ワゴン!!",
+        "url": "https://bestcarweb.jp/feature/column/1554905"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 36,
-    "queued_articles": 36,
-    "processed": 36,
-    "started_at": "2026-06-24T15:39:16.958Z",
-    "finished_at": "2026-06-24T15:40:43.637Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-06-25T04:32:08.947Z",
+    "finished_at": "2026-06-25T04:33:39.065Z",
     "success": true,
     "error": ""
   }
