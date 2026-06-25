@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-25T04:32:08.630Z",
+    "generated_at": "2026-06-25T15:47:15.639Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 366,
-    "deepseek_untranslated_before_run": 34,
-    "newly_fetched_articles": 34,
-    "newly_fetched_untranslated": 34,
+    "deepseek_translated_before_run": 362,
+    "deepseek_untranslated_before_run": 38,
+    "newly_fetched_articles": 38,
+    "newly_fetched_untranslated": 38,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 34,
+    "translation_queue_count": 38,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.6.25",
-        "title": "“小さなパジェロ”が地球の裏側で大ヒット！ 三菱「パジェロイオ」が愛された理由とは",
-        "url": "https://bestcarweb.jp/feature/column/1538575"
+        "title": "The Very Best Bosch Tool Deals on Amazon Prime Day 2026",
+        "url": "https://www.thedrive.com/news/the-very-best-bosch-tool-deals-on-amazon-prime-day-2026"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.25",
+        "title": "2027 GMC Sierra Gets Even Fancier With Articulating Screen and Headrest Speakers",
+        "url": "https://www.thedrive.com/news/2027-gmc-sierra-gets-even-fancier-with-articulating-screen-and-headrest-speakers"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.25",
+        "title": "GMC's Best-Selling Truck Just Got a Massive Makeover",
+        "url": "https://www.motor1.com/news/799730/2027-gmc-sierra-1500-engine-trims-features/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.25",
+        "title": "Polestar Is Done Selling New Cars in the US",
+        "url": "https://www.thedrive.com/news/polestar-is-done-selling-new-cars-in-the-us"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.25",
+        "title": "Can Ferrari and Hamilton Stop Either Mercedes Driver This Weekend?",
+        "url": "https://www.thedrive.com/news/can-ferrari-and-hamilton-stop-either-mercedes-driver-this-weekend"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.25",
+        "title": "Polestar Can’t Sell Cars In The US Anymore",
+        "url": "https://www.motor1.com/news/799797/polestar-dead-exits-us-market/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.25",
+        "title": "The U.S. Strongarms Polestar Out Of The American EV Market",
+        "url": "https://insideevs.com/news/799796/polestar-exits-us-market-authorization-denied/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.25",
+        "title": "I Rode in Slate’s $24,950 Electric Truck. It Didn’t Feel Like a $24,950 Electric Truck",
+        "url": "https://www.thedrive.com/news/i-rode-in-slates-24950-electric-truck-it-didnt-feel-like-a-24950-electric-truck"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.25",
+        "title": "Toyota Might Steal GM’s US Sales Crown Thanks to Hybrids: TDS",
+        "url": "https://www.thedrive.com/news/toyota-might-steal-gms-us-sales-crown-thanks-to-hybrids-tds"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.25",
-        "title": "「3ウェイ」はビギナーには不向き。でもいつかはチャレンジを！［スピーカー交換丸わかり講座］",
-        "url": "https://response.jp/article/2026/06/25/413166.html"
+        "title": "『CX-5』新型や「ジムニーノマドVILLAGE」…TOKYO OUTDOOR SHOW 2026 6月26～28日",
+        "url": "https://response.jp/article/2026/06/25/413199.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.25",
-        "title": "「トヨタ アップグレード ファクトリー」、先代『RAV4』のリフトアップ事前検査の受付開始…「GORI GORI BLACK」塗装のフェンダーアーチも発売",
-        "url": "https://response.jp/article/2026/06/25/413151.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "「第3のエコカー」10年ぶり全面刷新か？ ダイハツ『ミライース』DNGA採用で燃費さらに向上へ",
-        "url": "https://response.jp/article/2026/06/25/413168.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "【現地レポート】インド自動車市場の最前線、急成長する市場で日本企業の勝機とは…NRI ジェーン・ヴィニート氏［インタビュー］",
-        "url": "https://response.jp/article/2026/06/25/413160.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.25",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第794回",
-        "url": "https://bestcarweb.jp/feature/column/1532440"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "DOBOTが「フィジカルAIプラットフォーム」としてヒューマノイド・四足歩行ロボットなどを披露 …RTJ 2026",
-        "url": "https://response.jp/article/2026/06/25/413158.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "VW『Tクロス』など3車種をリコール…メーターが正しく起動しないおそれ",
-        "url": "https://response.jp/article/2026/06/25/413162.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "アウディA3スポーツバック改良新型、パノラマディスプレイ搭載の新コックピット採用…欧州発表",
-        "url": "https://response.jp/article/2026/06/25/413156.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "いすゞのピックアップトラック『D-MAX』、タイからの並行輸入で7月1日発売…税抜1000万円",
-        "url": "https://response.jp/article/2026/06/25/413172.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "スカイドライブの空飛ぶクルマ、時速100kmの前進飛行試験に成功…2028年商用化へ前進",
-        "url": "https://response.jp/article/2026/06/25/413167.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "スズキ『スイフト』、AWIN製「SUZUKI SPORTボディキット」発売…前後サイドのアンダースポイラーをセット",
-        "url": "https://response.jp/article/2026/06/25/413154.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "スズキとエステーが共同開発、車用消臭芳香剤「エアフォレスト ヨワン」が全国販売へ",
-        "url": "https://response.jp/article/2026/06/25/413148.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "テイン、新開発ショックアブソーバでアジア最大級のクロスカントリーラリー「AXCR 2026」参戦へ",
-        "url": "https://response.jp/article/2026/06/25/413165.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "デンソー、EV走行中の霜取りを実現する熱マネジメント技術で発明賞…冬季のEV航続低下を防ぐ",
-        "url": "https://response.jp/article/2026/06/25/413161.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "トヨタが技術ルールを作る？ 自動車メーカー「他社牽制力」ランキング2025で首位 パテントリザルト",
-        "url": "https://response.jp/article/2026/06/25/413164.html"
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 テスラ欧州とEV先進国ノルウェー最新動向～ギガ・ベルリン訪問、オランダFSD走行、Nordic EV Summitから～",
+        "url": "https://response.jp/article/2026/06/25/413189.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.25",
-        "title": "トヨタの新車を買えない!? 受注停止を繰り返すワケ！ 納期長期化の背景を徹底解説",
-        "url": "https://bestcarweb.jp/feature/column/1543281"
+        "title": "180万700円から買える最後のちょうどいいSUV!! ライズの5ナンバーサイズな価値を再点検!!",
+        "url": "https://bestcarweb.jp/feature/column/1556703"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "Astemo Cypremos、レスポンスカンファレンス2026にSDV開発ソリューションを出展へ",
+        "url": "https://response.jp/article/2026/06/25/413196.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "CodebeamerとCreo 13が示す新たな価値…SDV時代の開発革新を支えるPTCの戦略",
+        "url": "https://response.jp/article/2026/06/25/413185.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.25",
+        "title": "Saleswoman Checks Her Instagram Stories. Then She Catches Her Client In 4K With Another Car Dealership: 'Thanks Gary'",
+        "url": "https://www.motor1.com/news/799614/mercedes-client-buys-elsewhere/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "U-NEXT、Google搭載車に対応開始…スマホ不要で車載ディスプレイ視聴が可能に",
+        "url": "https://response.jp/article/2026/06/25/413193.html"
+      },
+      {
+        "source": "Vespa",
+        "time": "2026.6.25",
+        "title": "Vespa “Edizione Ottantesimo”",
+        "url": "https://press.piaggiogroup.com/en_EN/post/show/352931/vespa-edizione-ottantesimo.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "アドベンチャーからスーパースポーツまで、ドゥカティ、4車種を日本同時発売 353万円から",
+        "url": "https://response.jp/article/2026/06/25/413197.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.25",
+        "title": "オートバックス「A PIT」、クルマのスポーツカスタムに特化…大阪箕面市に新店舗開業",
+        "url": "https://response.jp/article/2026/06/25/413195.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.25",
-        "title": "ノートは軽自動車からの乗り換えにアリ？ 維持費より走りと安心感で選ぶ理由",
-        "url": "https://bestcarweb.jp/feature/column/1555242"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.25",
-        "title": "パジェロシリーズついに復活!!「ベストカー 7月26日号発売！」",
-        "url": "https://bestcarweb.jp/backnumber/1551197"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.25",
-        "title": "ルークス オーテックラインって高すぎない？ 黒内装と専用装備で選ぶ上級軽ワゴン!!",
-        "url": "https://bestcarweb.jp/feature/column/1554905"
+        "title": "スマホと連携して愛車を守るカーセキュリティ！加藤電機からiVIPERスマートイモビライザーが新登場",
+        "url": "https://bestcarweb.jp/news/car-accessory/1552018"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28147004014",
-    "sha": "7135d2cedabac844e96d84820034d91e1aeda57b",
-    "completed_at": "2026-06-25T04:33:39.319Z",
+    "run_id": "28182486270",
+    "sha": "49cc25042a9aba9e7bad7281894d042ef2e9e493",
+    "completed_at": "2026-06-25T15:48:41.821Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 34,
-    "queued_articles": 34,
-    "processed": 34,
-    "started_at": "2026-06-25T04:32:08.947Z",
-    "finished_at": "2026-06-25T04:33:39.065Z",
+    "scoped_articles": 38,
+    "queued_articles": 38,
+    "processed": 38,
+    "started_at": "2026-06-25T15:47:15.949Z",
+    "finished_at": "2026-06-25T15:48:41.555Z",
     "success": true,
     "error": ""
   }
