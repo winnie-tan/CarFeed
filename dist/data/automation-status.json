@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-26T04:38:25.943Z",
+    "generated_at": "2026-06-26T15:32:10.824Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 363,
-    "deepseek_untranslated_before_run": 37,
-    "newly_fetched_articles": 37,
-    "newly_fetched_untranslated": 37,
+    "deepseek_translated_before_run": 371,
+    "deepseek_untranslated_before_run": 29,
+    "newly_fetched_articles": 29,
+    "newly_fetched_untranslated": 29,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 37,
+    "translation_queue_count": 29,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.6.26",
-        "title": "「アメ車は壊れる」はもう古い!? 実は頑丈で長持ちなモデルも多数！ 意外と知らないアメリカ車の真実とは",
-        "url": "https://bestcarweb.jp/feature/column/1545583"
+        "title": "Toyota Has Too Many Models. These Ones Need To Go",
+        "url": "https://www.motor1.com/news/799918/which-toyota-models-should-go/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.26",
+        "title": "Inside the Globe-Trotting Tent That Broadcasts F1 Around the World Every Weekend",
+        "url": "https://www.thedrive.com/news/inside-the-globe-trotting-tent-that-broadcasts-f1-around-the-world-every-weekend"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.26",
+        "title": "The New Hyundai Elantra Actually Goes Kind of Hard: TDS",
+        "url": "https://www.thedrive.com/news/the-new-hyundai-elantra-actually-goes-kind-of-hard-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.26",
+        "title": "Dodge Could Return To NASCAR Sooner Than Expected",
+        "url": "https://www.motor1.com/news/799914/dodge-nascar-return-possible-2027/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.26",
+        "title": "Domestic Violence Law Has California Car Dealers Sweating July Stop-Sale Deadline",
+        "url": "https://www.thedrive.com/news/domestic-violence-law-has-california-car-dealers-sweating-july-stop-sale-deadline"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.26",
+        "title": "The Corvette ZR1X Is The New King Of Pikes Peak",
+        "url": "https://www.motor1.com/news/799825/corvette-zr1x-pikes-peak-record/"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.26",
-        "title": "『ジムニー』3車種向け「横開き電動リアゲート」が登場！ アルパインニューズ、9万9000円で発売",
-        "url": "https://response.jp/article/2026/06/26/413223.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "『人型重機とフィジカルAI』の社会実装、7月17日にオンラインセミナー…人機一体・金岡博士登壇",
-        "url": "https://response.jp/article/2026/06/25/413182.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 次のステップを模索する中国自動車メーカーの戦略を俯瞰する",
-        "url": "https://response.jp/article/2026/06/26/413215.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.26",
-        "title": "【最終決着】新型エルグランドはアルファードを超えたのか？ 居住性やコスパ 残クレ 納期の違いまで徹底比較!!!",
-        "url": "https://bestcarweb.jp/news/entame/1559601"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.26",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第795回",
-        "url": "https://bestcarweb.jp/feature/column/1532442"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "4D LiDARで大型トラック向け次世代安全システム共同開発、AEVAとベンディックス",
-        "url": "https://response.jp/article/2026/06/26/413218.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "BYDとCEVA Logistics、世界6大陸をカバーする自動車物流で協力強化…3年間のMOU締結",
-        "url": "https://response.jp/article/2026/06/26/413216.html"
+        "title": "「サブウーファーボックス」は、使い勝手にもこだわれる！［低音を制する者はカーオーディオを制す］",
+        "url": "https://response.jp/article/2026/06/26/413248.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.26",
-        "title": "EV充電の新たな選択肢になる!? 三菱ふそうなどがeキャンターを使ったワイヤレス充電の実証を開始",
-        "url": "https://bestcarweb.jp/fullload/1557673"
+        "title": "「ミニバンなのに走りが別モノ!?」で衝撃だった!! ノア/ヴォクシーにGR SPORTを復活させてよ！",
+        "url": "https://bestcarweb.jp/feature/column/1550684"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.26",
-        "title": "GM、米スプリングヒル工場に投資…キャデラックの内燃機関車とターボエンジン強化へ",
-        "url": "https://response.jp/article/2026/06/26/413222.html"
-      },
-      {
-        "source": "Vespa",
-        "time": "2026.6.26",
-        "title": "The Vespa 80th anniversary celebrations have begun in Rome",
-        "url": "https://press.piaggiogroup.com/en_EN/post/show/353212/the-vespa-80th-anniversary-cel.html"
+        "title": "「最強の4WDピックアップ」いすゞ『D-MAX』並行輸入にSNS興奮！積載力にも注目",
+        "url": "https://response.jp/article/2026/06/26/413253.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.26",
-        "title": "VW傘下のCARIAD、AI自動車ソフトウェアキャンパス開設…独ベルリン",
-        "url": "https://response.jp/article/2026/06/26/413229.html"
+        "title": "『ハイラックス』とSUV『フォーチュナー』をKD生産、豊田通商がラオスに新会社設立へ…2028年生産開始",
+        "url": "https://response.jp/article/2026/06/26/413245.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.26",
-        "title": "アウディA6／A6アバント 新型を発売、「MHEV plus」全車搭載…885万円から",
-        "url": "https://response.jp/article/2026/06/26/413211.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "アップガレージ、横浜で「子どもアドベンチャーカレッジ2026」開催…8月5日",
-        "url": "https://response.jp/article/2026/06/26/413224.html"
+        "title": "3Dガウシアンスプラッティング活用、新サービス「ASK 3DGS」開始…アスク",
+        "url": "https://response.jp/article/2026/06/26/413243.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.26",
-        "title": "おじさんの終活車はMT車に決まり！ 自分の思い通りに操れるあの気持ちよさをもう一度！",
-        "url": "https://bestcarweb.jp/news/entame/1561000"
+        "title": "888万8000円……で、でも欲しい!! 光岡「M55 RS」は55台限定の6速MT専用!! ケンメリ風デザインがたまらん",
+        "url": "https://bestcarweb.jp/feature/column/1551300"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.26",
-        "title": "サンデン、CDP「サプライヤーエンゲージメント評価」で初の最高評価…「A」スコア獲得",
-        "url": "https://response.jp/article/2026/06/26/413228.html"
+        "title": "BMW X5に「ファイナル・エディション」、22インチホイールやMカーボン・ファイバー・トリム標準…1398万円",
+        "url": "https://response.jp/article/2026/06/26/413235.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.26",
-        "title": "シェフラーとデレール、欧州でドローン量産ライン構築…1日100機生産へ",
-        "url": "https://response.jp/article/2026/06/26/413214.html"
+        "title": "TOYO TIRE、三重県桑名工場に再生可能エネルギー導入…中部電力ミライズとPPA契約締結",
+        "url": "https://response.jp/article/2026/06/26/413241.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "WECARS、秋田店が7月4日オープンへ",
+        "url": "https://response.jp/article/2026/06/26/413251.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.26",
+        "title": "Woman Buys Extended Warranty For Used GMC. Then She Tries To Use It: 'Headed Back To The Dealership For The THIRD Time'",
+        "url": "https://www.motor1.com/news/799834/gmc-yukon-extended-warranty/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "アキュラ『インテグラ』の「タイプS」、FF車の新記録を達成…パイクスピーク 2026",
+        "url": "https://response.jp/article/2026/06/26/413231.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "かに道楽営業車の『カローラ バン』が大人のトミカに、世界に1台の実車を1/64で再現…かにのオブジェが屋根上に",
+        "url": "https://response.jp/article/2026/06/26/413244.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.26",
-        "title": "シエンタ一強じゃなかった！ 3列シート重視ならフリード!? 取り回し重視ならソリオ!? 注目の代打候補とは",
-        "url": "https://bestcarweb.jp/feature/column/1543334"
+        "title": "ソリオはミニバンとして使えるか？ 5ナンバー背高ワゴンの実用力を再点検",
+        "url": "https://bestcarweb.jp/feature/column/1556735"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.26",
-        "title": "デンソーが「他社牽制力」で首位…自動車部品特許ランキング2025 パテントリザルトしらべ",
-        "url": "https://response.jp/article/2026/06/26/413219.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "トーヨータイヤ、川畑真人選手とマッド・マイク選手が欧州2大自動車イベントに参加 「プロクセス」装着で走行パフォーマンス披露",
-        "url": "https://response.jp/article/2026/06/26/413220.html"
+        "title": "ダイナミックマップ、北米交通当局に橋梁・トンネルのクリアランス管理ソリューション提供開始…衝突事故を防ぐ",
+        "url": "https://response.jp/article/2026/06/26/413246.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 37,
-    "queued_articles": 37,
-    "processed": 37,
-    "started_at": "2026-06-26T04:38:26.262Z",
-    "finished_at": "2026-06-26T04:39:47.596Z",
+    "scoped_articles": 29,
+    "queued_articles": 29,
+    "processed": 29,
+    "started_at": "2026-06-26T15:32:11.140Z",
+    "finished_at": "2026-06-26T15:33:14.097Z",
     "success": true,
     "error": ""
   }

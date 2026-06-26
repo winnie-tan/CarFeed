@@ -51792,5 +51792,675 @@
     "gallery_images": [],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-26T04:39:47.579Z"
+  },
+  "https://www.thedrive.com/news/inside-the-globe-trotting-tent-that-broadcasts-f1-around-the-world-every-weekend": {
+    "title_zh": "全球巡回的 F1 广播帐篷内部揭秘",
+    "summary_short": "F1 每周末向全球 8.2 亿观众转播，背后依赖联想的技术支持，包括电视运营、安全车引导和遥测数据传输。",
+    "summary_long": "F1 作为全球性运动，其核心产品是电视转播。联想作为官方技术合作伙伴，在加拿大站展示了其 Event Technical Center（ETC）如何支持电视运营、安全车引导和遥测数据传输。通过模拟演练，确保每站比赛顺利转播。",
+    "highlights_zh": [
+      "联想是 F1 官方技术合作伙伴",
+      "ETC 支持电视运营、安全车和遥测",
+      "每周末向 8.2 亿观众转播",
+      "加拿大站现场模拟演练"
+    ],
+    "entities": [
+      "联想",
+      "Formula 1",
+      "加拿大站",
+      "Event Technical Center"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/MR_2024_AUSTRALIA-BROADCAST-CENTER_077.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/JPG-RGB-72-DPI-SD_2026_Canada_Podium-Ceremony_035.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/F1-Grand-Prix-of-Miami-6.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:14.952Z"
+  },
+  "https://www.motor1.com/news/799918/which-toyota-models-should-go/": {
+    "title_zh": "丰田车型过多，这些可以砍掉",
+    "summary_short": "丰田 CEO 承认车型过多，美国市场 21 款车型中部分可能被削减，4Runner 等畅销车保留。",
+    "summary_long": "丰田新任 CEO Kenta Kon 表示公司车型阵容过于拥挤。仅在美国市场，丰田就有 21 个独立车系，全球范围内近 80 款车型。为精简阵容，文章分析了美国市场哪些车型值得保留、哪些可能被淘汰。例如，4Runner 已上市 42 年，2025 年销量近 13.7 万辆，2026 年前四个月同比增长 294%，预计将继续保留。",
+    "highlights_zh": [
+      "丰田 CEO 承认车型过多",
+      "美国市场有 21 款车型",
+      "全球近 80 款车型",
+      "4Runner 销量强劲"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Toyota 4Runner",
+      "Jeep Wrangler",
+      "Ford Bronco"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwBxL/s1/which-toyota-models-should-go.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:14.997Z"
+  },
+  "https://www.thedrive.com/news/the-new-hyundai-elantra-actually-goes-kind-of-hard-tds": {
+    "title_zh": "新一代现代伊兰特设计激进，融入 N Vision 74 元素",
+    "summary_short": "现代伊兰特换代，设计借鉴 N Vision 74 概念车，韩国市场率先上市，美国市场 2027 年推出。",
+    "summary_long": "现代汽车发布了新一代 Avante（即伊兰特在韩国市场的名称），外观设计大幅革新，融合了最新 Ioniq 系列、新索纳塔以及 N Vision 74 概念车的设计元素。新车将在数周内进入韩国展厅，预计 2027 年登陆美国市场。",
+    "highlights_zh": [
+      "新一代伊兰特设计借鉴 N Vision 74 概念车",
+      "韩国市场率先上市",
+      "融合 Ioniq 和索纳塔设计语言"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "伊兰特 | Elantra",
+      "Avante",
+      "N Vision 74"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/avante.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Original-3197-681584-1-5-e1782406718657.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:18.208Z"
+  },
+  "https://www.motor1.com/news/799914/dodge-nascar-return-possible-2027/": {
+    "title_zh": "道奇或提前重返 NASCAR",
+    "summary_short": "道奇可能提前至 2027 年重返 NASCAR，已取得关键研发突破，但时间紧迫。",
+    "summary_long": "道奇可能比预期更早重返 NASCAR。据 The Athletic 报道，道奇原计划 2028 年回归，但近期研发突破加速了进程，已初步完成风洞测试并着手发动机生产。不过，2027 年回归仍面临挑战，NASCAR 赛季通常在 2 月开启，道奇仅有不到 8 个月时间完成车辆最终验证。道奇于 2021 年退出 NASCAR，若回归将使系列赛制造商增至四家（雪佛兰、福特、丰田、道奇）。",
+    "highlights_zh": [
+      "原计划 2028 年回归",
+      "已完成初步风洞测试",
+      "时间紧迫",
+      "回归后 NASCAR 将拥有四家制造商"
+    ],
+    "entities": [
+      "道奇",
+      "NASCAR",
+      "Stellantis",
+      "道奇 Charger",
+      "雪佛兰 Camaro"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo94pB/s1/dodge-challenger-nascar-nationwide-series-race-car.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:18.973Z"
+  },
+  "https://www.thedrive.com/news/domestic-violence-law-has-california-car-dealers-sweating-july-stop-sale-deadline": {
+    "title_zh": "加州反家暴法让经销商面临 7 月停售截止日期",
+    "summary_short": "加州新数字隐私法要求联网汽车允许车主终止定位共享，但车企无法在 7 月 1 日前完成合规，经销商可能被迫停售。",
+    "summary_long": "加州 2024 年通过的一项法律要求联网设备制造商在收到限制令证据后，允许车主终止定位追踪服务的共享权限。汽车制造商警告称无法在 7 月 1 日截止日期前完成合规，可能要到 2026 年底才能全面达标。这意味着从下周起，经销商将不得销售任何未合规的联网汽车（新车或二手车）。加州立法机构正在起草 SB 719 法案，拟将首批措施推迟一年，全面实施推迟至 2031 年。",
+    "highlights_zh": [
+      "7 月 1 日起未合规联网汽车禁售",
+      "车企称 2026 年底前无法全面达标",
+      "加州拟立法推迟实施至 2031 年"
+    ],
+    "entities": [
+      "加州",
+      "SB 719",
+      "联网汽车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/toyota-info.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Original-3197-681584-1-5-e1782406718657.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:21.799Z"
+  },
+  "https://www.motor1.com/news/799825/corvette-zr1x-pikes-peak-record/": {
+    "title_zh": "雪佛兰 Corvette ZR1X 刷新派克峰量产车纪录",
+    "summary_short": "2027 款雪佛兰 Corvette ZR1X 以 9 分 30 秒 104 的成绩刷新派克峰量产车纪录，击败保时捷 911 Turbo S。",
+    "summary_long": "2026 年派克峰国际爬山赛上，由 JR Hildebrand 驾驶的 2027 款雪佛兰 Corvette ZR1X 以 9 分 30 秒 104 的成绩创下新的量产车纪录，将此前保时捷 911 Turbo S 保持的 9 分 53 秒 541 纪录大幅提升。该车在完美天气条件下完成挑战，展现了强大的性能。",
+    "highlights_zh": [
+      "2027 款雪佛兰 Corvette ZR1X 创下…",
+      "成绩为 9 分 30 秒 104",
+      "由车手 JR Hildebrand 驾驶",
+      "击败保时捷 911 Turbo S 成为新王者"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Corvette ZR1X",
+      "派克峰",
+      "保时捷 | Porsche",
+      "911 Turbo S"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEG0N1/s1/chevrolet-corvette-zr1x-sets-new-production-car-record-at-pikes-peak.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:22.779Z"
+  },
+  "https://response.jp/article/2026/06/26/413248.html": {
+    "title_zh": "低音制胜：如何选择与定制车载低音炮箱体",
+    "summary_short": "车载低音炮箱体有箱载式和嵌入式两种，定制箱体可兼顾音质与空间利用。",
+    "summary_long": "汽车车门扬声器因尺寸限制难以完美呈现超低音，因此车载音响常采用更大口径的低音炮。低音炮分为三种类型：小型薄型有源低音炮、箱式低音炮和单体低音炮。其中单体低音炮门槛最高，需额外配备箱体和外部功放，但也因此提供了更多定制乐趣。箱体可定制为箱载式（直接放置于后备箱）或嵌入式（埋入后备箱地板或侧壁），前者灵活方便，后者节省空间。",
+    "highlights_zh": [
+      "车门扬声器尺寸有限",
+      "低音炮分三种：小型有源、箱式、单体",
+      "单体低音炮需另配箱体和功放",
+      "箱体可定制为箱载式或嵌入式"
+    ],
+    "entities": [
+      "低音炮",
+      "箱体",
+      "功放",
+      "车载音响 | Car Audio"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222146.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222146.jpg",
+      "https://response.jp/imgs/fill2/2222147.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:27.401Z"
+  },
+  "https://bestcarweb.jp/feature/column/1550684": {
+    "title_zh": "诺亚/沃克西应复活 GR SPORT！",
+    "summary_short": "丰田 GR SPORT 阵容扩大，但作者呼吁为诺亚/沃克西复活 GR SPORT 版本，回顾 G's 品牌历史与 GR 系列进化。",
+    "summary_long": "随着 RAV4 和卡罗拉 Cross 加入 GR SPORT 阵容，该系列车型逐渐增多。但对于从 G's 时代就开始关注的粉丝来说，仍感不足。文章回顾了 G's 品牌历史：2010 年东京改装展上诺亚/沃克西 G's 发布，以强化车身刚性和独特调校赢得支持。2017 年 GR 品牌继承 G's 基因，更注重驾驶乐趣，同时保留日常易用性。作者认为，诺亚/沃克西作为 MPV 却拥有出色操控，应被赋予 GR SPORT 版本。",
+    "highlights_zh": [
+      "GR SPORT 阵容扩大",
+      "G's 品牌以车身刚性和独特调校著称",
+      "GR 系列继承基因",
+      "呼吁复活诺亚/沃克西 GR SPORT"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "诺亚/沃克西",
+      "GR SPORT",
+      "G's"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25164406/20160420_01_05_s-1.jpg?v=1782373447",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25164406/20160420_01_05_s-1-600x425.jpg?v=1782373447",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26111607/260617-01_KICKS_001-1-600x400.jpg?v=1782440168"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:27.975Z"
+  },
+  "https://response.jp/article/2026/06/26/413245.html": {
+    "title_zh": "丰田通商在老挝设立新公司，2028 年起 KD 生产 Hilux 与 Fortuner",
+    "summary_short": "丰田通商在老挝成立新公司，计划 2028 年起以 KD 方式生产 Hilux 和 Fortuner，供应当地市场。",
+    "summary_long": "丰田通商在老挝人民民主共和国成立新公司 Toyota Tsusho Manufacturing Laos（TTML），从事车辆 KD（散件组装）业务。TTML 将作为面向老挝国内市场的生产据点，逐步推进设备投资和人才培养，计划于 2028 年 4 月开始生产。KD 方式是将车辆以零部件形式运至海外，在当地完成组装。",
+    "highlights_zh": [
+      "丰田通商在老挝设立 KD 生产新公司",
+      "生产车型为 Hilux 和 Fortuner",
+      "计划 2028 年 4 月启动生产",
+      "面向老挝国内市场供应"
+    ],
+    "entities": [
+      "丰田通商",
+      "Hilux",
+      "Fortuner",
+      "老挝",
+      "KD 生产"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222428.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222428.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:31.901Z"
+  },
+  "https://response.jp/article/2026/06/26/413253.html": {
+    "title_zh": "最强 4WD 皮卡：五十铃 D-MAX 平行进口引发 SNS 热议",
+    "summary_short": "五十铃 D-MAX 通过平行进口重返日本市场，搭载 3.0L 柴油涡轮引擎与 4WD，SNS 上反响热烈。",
+    "summary_long": "Advance Design Technology 宣布开展平行进口业务，首款车型为五十铃 D-MAX，将于 7 月 1 日发售。该车为 2026 款 VCROSS 3.0L 柴油涡轮增压四驱版，最大功率 190 马力，扭矩 450 牛·米，配备 6AT 变速箱。由于五十铃已退出日本市场，D-MAX 难以购买，此次平行进口满足了日本用户需求。SNS 上对此消息兴奋不已，称赞其最强 4WD 皮卡地位和出色装载能力。",
+    "highlights_zh": [
+      "五十铃 D-MAX 平行进口日本",
+      "3.0L 柴油涡轮+4WD",
+      "SNS 热议“最强 4WD 皮卡”",
+      "7 月 1 日发售"
+    ],
+    "entities": [
+      "五十铃",
+      "D-MAX",
+      "Advance Design Technology",
+      "VCROSS",
+      "4WD"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222528.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222528.jpg",
+      "https://response.jp/imgs/fill2/2222345.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:33.219Z"
+  },
+  "https://response.jp/article/2026/06/26/413243.html": {
+    "title_zh": "ASK 推出 3D 高斯泼溅新服务“ASK 3DGS”",
+    "summary_short": "ASK 推出基于 3D 高斯泼溅技术的新服务，实现实景高速 3D 数字化，应用于数字孪生、虚拟制作等领域。",
+    "summary_long": "ASK 宣布推出新服务“ASK 3DGS”，该服务利用 3D 高斯泼溅（3DGS）技术，可将实景空间快速、逼真地转化为 3D 数字模型。3DGS 通过多张照片或视频重建三维空间并高速渲染，在数字孪生、虚拟制作、建筑、制造、娱乐等领域备受关注。相比传统摄影测量和基于多边形的建模，3DGS 能以轻量数据实现逼真渲染，通过短时拍摄和 GPU 优化处理，实时再现高质感现实空间。",
+    "highlights_zh": [
+      "ASK 推出 3DGS 新服务",
+      "实景快速 3D 数字化",
+      "轻量数据逼真渲染",
+      "多领域应用前景广"
+    ],
+    "entities": [
+      "ASK",
+      "3D 高斯泼溅 | 3D Gaussian Splatting",
+      "数字孪生",
+      "虚拟制作"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222413.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222413.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:35.764Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551300": {
+    "title_zh": "光岡 M55 RS：888 万 8000 日元，55 台限定 6 速 MT，ケンメリ风格设计",
+    "summary_short": "光岡 M55 RS 为创业 55 周年纪念车型，55 台限定，仅提供 6 速手动变速箱，外观致敬 70 年代日产 Skyline“ケンメリ”。",
+    "summary_long": "光岡汽车为纪念创业 55 周年，推出 M55 系列第三弹车型“M55 RS”，限量 55 台，并再次采用 6 速手动变速箱专属设定。该车基于现款本田思域打造，但外观经过大幅改造，呈现出 1970 年代日产 Skyline“ケンメリ”的复古风格，同时融合了现代安全与舒适配置。M55 RS 的推出旨在吸引与公司同龄的怀旧消费群体，其独特的设计和手动变速箱的纯粹驾驶乐趣引发了广泛关注。",
+    "highlights_zh": [
+      "55 台限定",
+      "基于本田思域",
+      "融合 70 年代风格与现代科技",
+      "售价 888 万 8000 日元"
+    ],
+    "entities": [
+      "光岡",
+      "M55 RS",
+      "本田 | Honda",
+      "思域",
+      "ケンメリ"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16111954/4115a2e5525eaab05bd9f061c9b78f09.jpg?v=1781576396",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16111954/4115a2e5525eaab05bd9f061c9b78f09-600x338.jpg?v=1781576396",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26111607/260617-01_KICKS_001-1-600x400.jpg?v=1782440168"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:38.207Z"
+  },
+  "https://response.jp/article/2026/06/26/413235.html": {
+    "title_zh": "宝马 X5 最终版发布，22 英寸轮毂及 M 碳纤维内饰标配，售价 1398 万日元",
+    "summary_short": "宝马日本推出 X5 Final Edition，基于 xDrive40d M Sport，标配 22 英寸轮毂、M 碳纤维内饰等，售价 1398 万日元，7 月起交付。",
+    "summary_long": "宝马日本为 X5 车系新增“Final Edition”版本，基于 X5 xDrive40d M Sport 打造，强化运动与时尚设计。标配 M Sport 套件 Pro、红色高光刹车卡钳、22 英寸 Individual 轻合金轮毂，内饰采用 M 碳纤维饰条和 M Alcantara 车顶内衬，并配备全景天窗。动力搭载 3.0 升直六柴油发动机与 48V 轻混系统，兼顾燃油经济性与平顺驾驶。售价 1398 万日元，预计 7 月开始交付。",
+    "highlights_zh": [
+      "基于 X5 xDrive40d M Sport",
+      "标配 22 英寸轮毂与 M 碳纤维内饰",
+      "搭载 48V 轻混柴油动力",
+      "售价 1398 万日元"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5",
+      "Final Edition",
+      "xDrive40d M Sport"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222389.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222389.jpg",
+      "https://response.jp/imgs/fill2/2222394.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:39.998Z"
+  },
+  "https://response.jp/article/2026/06/26/413241.html": {
+    "title_zh": "TOYO TIRE 在三重县桑名工厂引入可再生能源，与中部电力 Miraiz 签署 PPA 协议",
+    "summary_short": "TOYO TIRE 与中部电力 Miraiz 签署 PPA，自 2026 年 6 月起桑名工厂约 10%用电来自太阳能。",
+    "summary_long": "TOYO TIRE 宣布与中部电力 Miraiz 签署了场外型物理 PPA（电力购买协议）。从 2026 年 6 月 30 日起，其位于三重县的国内主要制造基地桑名工厂将从中部地区的太阳能发电站获得电力供应，覆盖该工厂约 10%的用电量。场外型物理 PPA 是指利用公司场地外设置的可再生能源发电站的长期购电合同。随着可再生能源需求扩大和电价波动风险上升，稳定电力采购已成为企业重要的经营课题。",
+    "highlights_zh": [
+      "与中部电力 Miraiz 签署场外型物理 PPA",
+      "桑名工厂约 10%用电来自太阳能",
+      "2026 年 6 月 30 日起供电",
+      "应对电价波动风险"
+    ],
+    "entities": [
+      "TOYO TIRE",
+      "中部电力 Miraiz | 中部電力ミライズ",
+      "桑名工厂"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222410.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222410.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:42.318Z"
+  },
+  "https://response.jp/article/2026/06/26/413251.html": {
+    "title_zh": "WECARS 秋田店 7 月 4 日开业",
+    "summary_short": "WECARS 宣布 7 月 4 日在秋田市开设新店，提供上门评估服务，致力于成为贴近用户的汽车生活伙伴。",
+    "summary_long": "WECARS 宣布将于 7 月 4 日在秋田县秋田市开设新店「WECARS 秋田店」。店铺位于八桥鯲沼町交叉口附近，交通便利。该店提供上门评估服务，旨在成为贴近当地用户的汽车生活伙伴。营业时间为 10:00 至 19:00，周二休息。",
+    "highlights_zh": [
+      "7 月 4 日开业",
+      "位于秋田市八桥鯲沼町交叉口",
+      "提供上门评估服务",
+      "营业时间 10:00-19:00"
+    ],
+    "entities": [
+      "WECARS",
+      "秋田店"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222463.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222463.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:42.780Z"
+  },
+  "https://www.motor1.com/news/799834/gmc-yukon-extended-warranty/": {
+    "title_zh": "女子购买二手 GMC 延保，三次返修仍未解决",
+    "summary_short": "一名女子为二手 GMC Yukon 购买延保，却因同一车窗问题三次往返经销商，维修后反添新伤。",
+    "summary_long": "一位密歇根州北部的车主为她的 2015 款 GMC Yukon 购买了延长保修，旨在避免维修麻烦。然而，当她因驾驶员侧车窗故障前往当地 GMC 经销商时，维修过程却问题频出：车窗调节器修复后，门饰板破损、内饰布满指纹、开关模块装错。第二次返修后，四个车窗按钮全部松动。她不得不在 TikTok 上公开吐槽，称自己第三次前往同一经销商处理同一问题。",
+    "highlights_zh": [
+      "为 2015 款 GMC Yukon 购买延保",
+      "同一车窗问题三次返修",
+      "维修后门饰板破损、按钮松动",
+      "车主 TikTok 公开吐槽经销商"
+    ],
+    "entities": [
+      "GMC",
+      "GMC Yukon",
+      "延保",
+      "经销商",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3yJN/s1/woman-buys-extended-warranty-for-used-gmc.-then-she-tries-to-use-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:46.668Z"
+  },
+  "https://response.jp/article/2026/06/26/413231.html": {
+    "title_zh": "讴歌 Integra Type S 创 FF 车新纪录：派克峰 2026",
+    "summary_short": "讴歌 Integra Type S 在派克峰爬山赛中以 10 分 33 秒 174 刷新前驱车纪录，比原纪录快约 15 秒。",
+    "summary_long": "讴歌 Integra Type S（DE5）在第 104 届派克峰国际爬山赛中，以 10 分 33 秒 174 的成绩刷新了前轮驱动（FWD）车型的最快纪录，比 2018 年由讴歌 TLX A-Spec 创下的 10 分 48 秒 094 快了约 15 秒。赛车搭载由 HRC US 与 HRC 日本共同开发的 2.0 升 K20C8 涡轮增压发动机，输出超过 360 马力。车手为两届 Formula Drift 冠军、HRC US 车手吉原大二郎（Dai Yoshihara），他在 Time Attack 1 组别中获得第六名。讴歌已连续 16 年参加派克峰赛事，累计获得 12 次组别冠军和 30 多次领奖台。",
+    "highlights_zh": [
+      "刷新前驱车纪录至 10 分 33 秒 174",
+      "比原纪录快约 15 秒",
+      "2.0T 发动机输出超 360 马力",
+      "车手吉原大二郎获组别第六"
+    ],
+    "entities": [
+      "讴歌",
+      "Integra Type S",
+      "派克峰",
+      "HRC",
+      "吉原大二郎"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222352.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222352.jpg",
+      "https://response.jp/imgs/fill2/2222358.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:47.432Z"
+  },
+  "https://response.jp/article/2026/06/26/413244.html": {
+    "title_zh": "丰田卡罗拉面包车（蟹道乐）1/64 比例模型",
+    "summary_short": "Tomica 推出蟹道乐营业车丰田卡罗拉面包车 1/64 比例模型，忠实再现屋顶螃蟹装饰，售价 4950 日元。",
+    "summary_long": "Tommytec 旗下成人收藏模型车系列“Tomica Limited Vintage”推出新品：丰田卡罗拉面包车 DX（蟹道乐），以 1/64 比例再现实车。该车曾是蟹道乐用于拜访客户和供应商的营业车，仅此一辆，活跃于 2017 年左右的近畿地区。模型忠实还原了屋顶的螃蟹装饰、车身侧面标志和“なにわ45た181”车牌，采用压铸车身和静电涂装，品质精良。售价 4950 日元（含税），7 月 9 日 16 时起接受预订，12 月发货。",
+    "highlights_zh": [
+      "1/64 比例压铸模型",
+      "屋顶螃蟹装饰忠实再现",
+      "仅此一辆的实车复刻",
+      "4950 日元"
+    ],
+    "entities": [
+      "Tomica Limited Vintage",
+      "丰田 | Toyota",
+      "卡罗拉面包车",
+      "蟹道乐"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222415.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222415.jpg",
+      "https://response.jp/imgs/fill2/2222416.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:51.592Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556735": {
+    "title_zh": "铃木 Solio 能否当迷你厢型车用？5 座高顶旅行车实用性再检视",
+    "summary_short": "铃木 Solio 以紧凑车身、双滑门和高车顶，提供接近迷你厢型车的日常便利性，适合不想开大车的家庭。",
+    "summary_long": "铃木 Solio 是一款 5 座高顶旅行车，车身尺寸为长 3810mm、宽 1645mm、高 1745mm，属于 5 号车规格，最小转弯半径 4.8m，在狭窄道路和停车场易于操控。虽非 3 排座迷你厢型车，但凭借高车顶和双侧滑门，日常使用便利性非常接近迷你厢型车。车内长 2500mm、宽 1420mm、高 1365mm，后排座椅可滑动和倾斜，提供宽敞腿部空间或灵活载物空间。前排座椅之间可穿行至后排，方便照顾儿童或取放物品，这些设计都体现了迷你厢型车式的实用性。",
+    "highlights_zh": [
+      "全宽 1645mm",
+      "双侧滑门+高车顶",
+      "后排座椅可滑动倾斜",
+      "前排可穿行至后排"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Solio",
+      "迷你厢型车",
+      "5 号车",
+      "高顶旅行车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23165953/20250404-1R9A7602_1_1.jpg?v=1782201594",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23165953/20250404-1R9A7602_1_1-600x400.jpg?v=1782201594",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26111607/260617-01_KICKS_001-1-600x400.jpg?v=1782440168"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:53.375Z"
+  },
+  "https://response.jp/article/2026/06/26/413246.html": {
+    "title_zh": "Dynamic Map 为北美交通部门提供桥梁隧道限高管理方案",
+    "summary_short": "Dynamic Map 利用高精度 3D 数据，为北美交通部门提供桥梁隧道限高管理方案，旨在减少车辆碰撞事故。",
+    "summary_long": "Dynamic Map Platform 利用为出行服务开发的高精度 3D 数据，开始为北美交通部门提供桥梁和隧道限高信息的维护与管理解决方案。美国每年约发生 1.5 万起车辆撞击桥梁事故（NHTSA 2021 年数据），准确掌握和更新限高信息成为重要课题。道路重新铺装后通行高度可能降低数英寸，因此持续更新信息不可或缺。此外，美国各州交通部门因制度修订等推动桥梁信息管理升级，对包含限高信息的详细数据需求日益增长。",
+    "highlights_zh": [
+      "利用高精度 3D 数据",
+      "北美交通部门限高管理",
+      "美国年均 1.5 万起桥梁碰撞",
+      "道路重铺后高度降低需持续更新"
+    ],
+    "entities": [
+      "Dynamic Map",
+      "美国道路交通安全局"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222429.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222429.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:56.764Z"
+  },
+  "https://response.jp/article/2026/06/26/413255.html": {
+    "title_zh": "杜卡迪 Panigale V4 等 6 款车型因后刹车隐患在日本召回",
+    "summary_short": "杜卡迪日本因后刹车软管隔热不足可能导致制动失效，召回 Panigale V4 等 6 款车型共 474 台。",
+    "summary_long": "杜卡迪日本于 6 月 19 日向国土交通省提交召回申请，涉及 Panigale V4、Panigale V4 S、Panigale V4 Tricolore、Panigale V4 Tricolore Italia、Streetfighter V4 和 Streetfighter V4 S 共 6 款车型，生产日期为 2024 年 9 月 23 日至 2025 年 10 月 20 日，总计 474 台。缺陷在于后刹车软管固定器和隔热管设计不当，隔热性能不足，导致排气管辐射热损伤软管表面，可能引发制动液泄漏，极端情况下后刹车失效。解决方案是更换改进后的后刹车软管固定器，若发现软管损伤则一并更换。",
+    "highlights_zh": [
+      "涉及 Panigale V4 等 6 款车型共 47…",
+      "后刹车软管隔热不足",
+      "召回措施：更换改进型固定器及损伤软管"
+    ],
+    "entities": [
+      "杜卡迪",
+      "Panigale V4",
+      "Streetfighter V4",
+      "日本国土交通省"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222121.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222121.jpg",
+      "https://response.jp/imgs/fill2/2222117.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:57.542Z"
+  },
+  "https://response.jp/article/2026/06/26/413239.html": {
+    "title_zh": "丰田股价连续上涨，市场期待资本效率提升",
+    "summary_short": "丰田股价连续上涨，市场期待其资本效率提升。日经指数大幅下跌，但丰田逆势走强。",
+    "summary_long": "6 月 26 日，日经平均指数大幅下跌，但丰田股价连续上涨，市场期待其资本效率提升。尽管美国科技股下跌引发获利回吐，丰田仍吸引买盘。",
+    "highlights_zh": [
+      "丰田股价连续上涨",
+      "市场期待资本效率提升",
+      "日经指数大幅下跌"
+    ],
+    "entities": [
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222414.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222414.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:32:59.451Z"
+  },
+  "https://bestcarweb.jp/feature/column/1555219": {
+    "title_zh": "日产 Note 后排真的宽敞吗？与 Yaris、Aqua 不同的“家庭可用”紧凑感",
+    "summary_short": "日产 Note 后排空间优于丰田 Yaris 和 Aqua，更适合家庭使用，兼顾紧凑车身与宽敞乘坐体验。",
+    "summary_long": "日产 Note 在紧凑车身内实现了 2030mm 的室内长度和 1240mm 的室内高度，后排空间充裕，适合家庭使用。相比之下，丰田 Yaris 室内长仅 1845mm，后排更适合短途；丰田 Aqua 室内长 1830mm，虽轴距接近但实际空间感不及 Note。Note 在保持 5ナンバー尺寸的同时，通过优化轴距和座椅布局，提供了更宽敞的后排体验。",
+    "highlights_zh": [
+      "Note 室内长 2030mm",
+      "Yaris 后排偏短途",
+      "Note 兼顾紧凑车身与宽敞后排",
+      "Aqua 轴距虽长但室内空间不如 Note"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "丰田 | Toyota",
+      "ヤリス",
+      "アクア"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22125839/hybrid-037_1.jpg?v=1782100720",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22125839/hybrid-037_1-600x400.jpg?v=1782100720",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26111607/260617-01_KICKS_001-1-600x400.jpg?v=1782440168"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:33:01.765Z"
+  },
+  "https://bestcarweb.jp/news/1555389": {
+    "title_zh": "免驾照特定小型摩托“Wonkey DX”登场，酷似美式机车",
+    "summary_short": "特定小型摩托市场扩大，WO 推出大型版 Wonkey DX，免驾照可骑，限量 50 台，提升骑行舒适性。",
+    "summary_long": "特定小型原付市场持续增长，WO 公司旗下人气车型“Wonkey”推出旗舰版“Wonkey DX”。该车针对用户对更大尺寸的需求开发，座椅高度增加约 10 厘米，全长延长约 12 厘米，提供更自然的骑行姿势和稳定性。2026 年 6 月 16 日发售，限量 50 台。",
+    "highlights_zh": [
+      "免驾照可骑",
+      "座椅加高 10cm",
+      "限量 50 台"
+    ],
+    "entities": [
+      "特定小型原付",
+      "ウォンキー",
+      "ウォンキーDX",
+      "ダブルオー"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20003009/c48d1bb4c106643e2695d792443ff653.jpg?v=1781883011",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20003009/c48d1bb4c106643e2695d792443ff653-480x600.jpg?v=1781883011",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20002403/bc2f7879f9f190cd0a4002d1591df325-600x446.png?v=1781882645"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:33:03.544Z"
+  },
+  "https://bestcarweb.jp/news/1555383": {
+    "title_zh": "Yupiteru 推出新型行车记录仪，暗视性能史上最强",
+    "summary_short": "Yupiteru 发布新型行车记录仪，搭载史上最强暗视摄像头，可在月光下清晰记录，提升夜间安全性。",
+    "summary_long": "Yupiteru 推出新型行车记录仪，搭载同公司史上最高水平的暗视摄像头，在仅有 0.01Lux 照度的环境下（相当于月光）也能清晰记录影像。该产品针对夜间事故、停车场刮蹭及恶意破坏等场景设计，大幅提升夜间记录能力，为驾驶者提供更强安全保障。",
+    "highlights_zh": [
+      "史上最高暗视性能",
+      "0.01Lux 低照度清晰记录",
+      "应对夜间事故与恶意破坏",
+      "提升停车场监控能力"
+    ],
+    "entities": [
+      "ユピテル"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19234517/187c6d6db305c2bcf467bd0709284ff9.jpg?v=1781880318",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20002403/bc2f7879f9f190cd0a4002d1591df325-600x446.png?v=1781882645",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20003009/c48d1bb4c106643e2695d792443ff653-480x600.jpg?v=1781883011"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:33:06.082Z"
+  },
+  "https://www.motor1.com/news/799618/carmax-method/": {
+    "title_zh": "男子将问题重重的讴歌卖给 CarMax，声称“CarMax 方法”奏效",
+    "summary_short": "男子将一辆存在空调故障、变速箱和轮胎需更换的讴歌 ILX 卖给 CarMax，并声称“CarMax 方法”有效，引发网友热议。",
+    "summary_long": "田纳西州男子 Judah 在视频中展示了一辆存在多种问题的二手讴歌 ILX，包括空调故障、发动机连杆敲击、轮胎磨损和变速箱需要更换。尽管问题重重，他仍成功将车卖给了 CarMax，并声称“CarMax 方法”有效。该视频获得超过 18.8 万次观看，引发对 CarMax 购车安全性的讨论。",
+    "highlights_zh": [
+      "男子将问题车成功卖给 CarMax",
+      "车辆存在空调、变速箱和轮胎问题",
+      "视频引发对 CarMax 购车安全性质疑",
+      "讴歌 ILX 以 2.4 升发动机耐用著称"
+    ],
+    "entities": [
+      "CarMax",
+      "讴歌",
+      "讴歌 ILX",
+      "变速箱",
+      "发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZJgZ/s1/man-s-car-has-no-a-c.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:33:07.757Z"
+  },
+  "https://www.motor1.com/news/799888/vw-100000-job-cuts/": {
+    "title_zh": "大众将裁员 10 万并关闭四家工厂",
+    "summary_short": "大众计划将裁员规模翻倍至 10 万人，并关闭茨维考、埃姆登、汉诺威和内卡苏尔姆四家工厂。",
+    "summary_long": "大众汽车计划大幅加大成本削减力度，将原本的 5 万裁员目标翻倍至 10 万人，并关闭四家工厂。据 Manager Magazin 报道，茨维考工厂生产 ID.3、ID.4 等车型，埃姆登工厂组装 ID.4、ID.7，汉诺威工厂生产商用车和 ID. Buzz，内卡苏尔姆工厂负责奥迪 A5、A6、A8 等车型。此外，大众还考虑将核心品牌和零部件子公司从集团剥离。",
+    "highlights_zh": [
+      "裁员目标翻倍至 10 万人",
+      "关闭四家德国工厂",
+      "涉及 ID.系列和奥迪多款车型",
+      "核心品牌或从集团剥离"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "奥迪 | Audi",
+      "ID.3",
+      "ID. Buzz",
+      "Manager Magazin"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZE06q/s1/2026-vw-id.-polo.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:33:10.124Z"
+  },
+  "https://www.motor1.com/news/799876/mazda-changes-miata-meet-noise-regulations/": {
+    "title_zh": "日本新噪音法规迫使马自达降低 MX-5 Miata 噪音",
+    "summary_short": "为符合日本更严格的噪音法规，马自达对 MX-5 Miata 进行了调整，包括更换更安静的轮胎和更大的消音器，软顶和 RF 车型均受影响。",
+    "summary_long": "日本最新的外部噪音法规迫使马自达对第四代 MX-5 Miata（ND）进行技术调整，以继续在国内市场销售。调整包括更换更安静的轮胎和更大的消音器，其中硬顶版因消音器增大导致本就紧凑的后备箱深度进一步减小。此外，进气系统也进行了修改。该法规于 2024 年 10 月对新车型生效，2026 年 7 月起扩展至所有现有车型。若不调整，马自达将从 7 月起无法在日本销售 Miata。",
+    "highlights_zh": [
+      "马自达为符合日本噪音法规调整 MX-5 Miata",
+      "更换更安静轮胎和更大消音器",
+      "硬顶版后备箱深度进一步减小",
+      "法规 2026 年 7 月扩展至所有现有车型"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MX-5 Miata",
+      "日本噪音法规",
+      "ND"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3yEV/s1/2027-mazda-mx-5-miata-pure-sport-japan.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:33:12.186Z"
+  },
+  "https://www.motor1.com/news/799859/2027-hyundai-elantra-photos-details/": {
+    "title_zh": "2027 款现代伊兰特内外焕新首发",
+    "summary_short": "现代第八代伊兰特在釜山车展首发，尺寸加大、设计革新，轴距加长 30mm，空间接近中型轿车。",
+    "summary_long": "现代汽车在 2026 釜山车展上发布了第八代伊兰特（韩国称 Avante），该车采用全新内外设计，尺寸全面增加。车长增至 4765mm（增加 55mm），轴距达 2750mm（增加 30mm），宽度增加 30mm 至 1855mm，高度微增至 1425mm。外观灵感源自钢铁侠，轮拱外扩、配备隐藏式门把手，新增三角窗使侧面更修长。官方称其空间接近索纳塔等中型轿车。",
+    "highlights_zh": [
+      "第八代伊兰特釜山车展首发",
+      "车长增加 55mm",
+      "宽度增加 30mm",
+      "外观灵感源自钢铁侠"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "伊兰特 | Elantra",
+      "Avante",
+      "索纳塔",
+      "釜山车展"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6Nngo/s1/2027-hyundai-avante-south-korea.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T15:33:14.079Z"
   }
 }
