@@ -50944,5 +50944,853 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-25T15:48:41.544Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545583": {
+    "title_zh": "美国车容易坏？真相是许多车型既坚固又耐用",
+    "summary_short": "美国车并非都容易坏，许多车型坚固耐用，中古市场也有不少高性价比选择。",
+    "summary_long": "美国车常被贴上“容易坏”“维护费高”的标签，但实际上许多车型坚固耐用，设计相对简单，耐久性意外地高。中古市场存在不少价格实惠的车型，如雪佛兰、道奇、福特、Jeep 等。购买时关键看个体车况而非品牌，保养良好的美系车同样可靠。其中 Jeep Renegade 和 Compass 的高年份车型维护成本接近日系车。",
+    "highlights_zh": [
+      "美国车并非都容易坏",
+      "中古市场有高性价比的美系车可选",
+      "购买关键看个体车况",
+      "Jeep Renegade 和 Compass 高年…"
+    ],
+    "entities": [
+      "雪佛兰",
+      "道奇",
+      "福特",
+      "吉普 | Jeep",
+      "Jeep 自由侠 | Jeep Renegade"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09161250/00_Jeep-Compass-2022_head.jpg?v=1780989172",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09161250/00_Jeep-Compass-2022_head-600x400.jpg?v=1780989172",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07201512/00_daida02_01_head-600x400.jpg?v=1780830913"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:31.132Z"
+  },
+  "https://response.jp/article/2026/06/26/413223.html": {
+    "title_zh": "铃木 Jimny 三车型专用横开电动尾门上市，售价 9.9 万日元",
+    "summary_short": "Alpine News 为铃木 Jimny 系列推出横开式电动尾门，支持一键开闭，售价 9.9 万日元。",
+    "summary_long": "Alpine News 发布了专为铃木 Jimny 系列设计的横开式电动尾门 KTX-ERG-JI-64，适配 Jimny（JB64W）、Jimny Sierra（JB74W）和 Jimny Nomad（JC74）三款车型。该产品采用耐用的电动助力撑杆，即使配备备胎也能轻松一键开闭，解决了车主对尾门关闭力度和开启位置控制的需求。此前市场仅有手动半门防止套件，电动尾门尚属首次。产品将于 7 月中旬在 Alpine Style 门店先行发售。",
+    "highlights_zh": [
+      "横开式电动尾门",
+      "一键开闭",
+      "电动助力撑杆",
+      "售价 9.9 万日元"
+    ],
+    "entities": [
+      "Alpine News",
+      "铃木 | Suzuki",
+      "Jimny",
+      "Jimny Sierra",
+      "Jimny Nomad"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222189.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222189.jpg",
+      "https://response.jp/imgs/fill2/2222184.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:31.423Z"
+  },
+  "https://response.jp/article/2026/06/26/413215.html": {
+    "title_zh": "中国车企战略研讨会：探索下一步棋",
+    "summary_short": "中国汽车市场与 NEV 市场迎来转折点，国有、民营及新兴车企纷纷调整战略，研讨会深度解析各企业动向。",
+    "summary_long": "2026 年，中国汽车销量见顶，部分 EV 企业从高速增长转向失速，市场迎来重大转折。国有、民营及新兴车企开始采取应对措施。研讨会邀请当地专家，基于一手信息，全面梳理各企业战略，揭示北京车展等展会之外的真实动态。",
+    "highlights_zh": [
+      "中国汽车销量见顶",
+      "国有、民营、新兴车企战略分化",
+      "北京车展之外的本地动态分析",
+      "专家解读各企业下一步动向"
+    ],
+    "entities": [
+      "中国汽车市场",
+      "NEV",
+      "北京车展",
+      "匠新"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222078.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222078.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:35.223Z"
+  },
+  "https://response.jp/article/2026/06/25/413182.html": {
+    "title_zh": "人型重机与物理 AI 社会实现线上研讨会 7 月 17 日举行",
+    "summary_short": "机器人媒体举办线上研讨会，人机一体金冈博士将讲解人型重机在铁路、建设等领域的实际应用与物理 AI 趋势。",
+    "summary_long": "机器人 AI 专业媒体《Robosta》将于 7 月 17 日举办线上研讨会，主题为“人机一体：人型重机与物理 AI 社会实现的现实——扩展人类的机器人最前沿”。主讲人金冈博士是人机一体公司代表，致力于开发“泛用人型重机”和“多功能铁路重机”等新型工业机器人。研讨会将介绍与 JR 西日本共同开发的人型重机在铁路基础设施维护中的应用，展示如何替代高空和危险作业，并探讨人型机器人的设计理念、手部功能及人机双向臂等操控技术。会后还将与主编进行对谈，讨论实际部署条件与挑战。",
+    "highlights_zh": [
+      "7 月 17 日线上研讨会",
+      "人机一体金冈博士主讲",
+      "人型重机用于铁路与建设",
+      "物理 AI 与人型机器人趋势"
+    ],
+    "entities": [
+      "人机一体",
+      "金冈博士",
+      "人型重机",
+      "物理 AI",
+      "JR 西日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2221957.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221957.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:35.651Z"
+  },
+  "https://bestcarweb.jp/news/entame/1559601": {
+    "title_zh": "最终对决：全新 Elgrand 能否超越 Alphard？全面对比空间、性价比、残值及交付周期",
+    "summary_short": "全新日产 Elgrand 时隔 16 年换代，与丰田 Alphard/Vellfire 展开全面对比，涵盖空间、性价比、残值及交付周期。",
+    "summary_long": "全新日产 Elgrand 将于 2026 年 7 月 16 日正式发布，5 月 28 日起已开始接受预订。作为 16 年来的首次换代，新车在功能和配置上全面革新。在 L 级 MPV 市场，丰田 Alphard（含 Vellfire）月均销量约 9500 台，占据绝对优势。Elgrand 能否挑战其地位？汽车记者渡边阳一郎从空间、性价比、残值及交付周期等维度进行了详尽对比。",
+    "highlights_zh": [
+      "Elgrand 时隔 16 年换代",
+      "Alphard 月销约 9500 台",
+      "对比空间、性价比、残值",
+      "7 月 16 日正式发布"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "丰田 | Toyota",
+      "Elgrand",
+      "Alphard",
+      "Vellfire"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24192723/8548288c5b93852e89bbcca1b56f046f.jpg?v=1782296845",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24192723/8548288c5b93852e89bbcca1b56f046f-600x400.jpg?v=1782296845",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26114041/6c6891d34c122794828082fd6d95cb731-600x400-1.jpg?v=1782441641"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:39.639Z"
+  },
+  "https://bestcarweb.jp/feature/column/1532442": {
+    "title_zh": "车名猜谜：第 795 回——马自达高级轿车",
+    "summary_short": "马自达基于 Sentia 打造的高端轿车，作为Ẽfini 旗舰车型，拥有捷豹般的风范。",
+    "summary_long": "本文是车名猜谜系列第 795 回，介绍一款基于 1991 年 5 月发售的马自达 Sentia 打造的高端轿车，作为Ẽfini 经销店的旗舰车型销售。车身尺寸为长 4925mm、宽 1795mm，具有捷豹般的风格。除外观件和车身颜色外，内部与 Sentia 基本共享，驱动方式为 FR，动力提供 2.5L 和 3.0L V6 发动机。",
+    "highlights_zh": [
+      "基于马自达 Sentia 打造",
+      "Ẽfini 旗舰车型",
+      "车身尺寸 4925×1795mm",
+      "FR 驱动"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "センティア",
+      "Ẽfini"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28162612/main_P1J10319l.jpg?v=1779953173",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28162612/main_P1J10319l-600x401.jpg?v=1779953173",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28162618/main_SP01500033-600x400.jpg?v=1779953180"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:39.887Z"
+  },
+  "https://response.jp/article/2026/06/26/413216.html": {
+    "title_zh": "比亚迪与 CEVA Logistics 深化全球汽车物流合作，签署三年 MOU",
+    "summary_short": "比亚迪与全球物流巨头 CEVA Logistics 签署三年 MOU，强化六大洲汽车物流合作，并授予其 2026 年最佳承运商奖。",
+    "summary_long": "比亚迪集团与全球物流巨头 CEVA Logistics 在法国马赛签署为期三年的谅解备忘录（MOU），旨在进一步巩固双方在全球汽车物流领域的长期合作伙伴关系。该合作覆盖世界六大洲，将提升比亚迪的全球运输效率。签约仪式上，比亚迪还向 CEVA Logistics 颁发了“2026 年最佳承运商奖”，以表彰其卓越的服务和汽车物流专业能力。",
+    "highlights_zh": [
+      "比亚迪与 CEVA Logistics 签署三年 M…",
+      "合作覆盖全球六大洲汽车物流",
+      "CEVA 获颁 2026 年最佳承运商奖"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "CEVA Logistics"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222276.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222276.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:43.638Z"
+  },
+  "https://response.jp/article/2026/06/26/413218.html": {
+    "title_zh": "AEVA 与 Bendix 合作开发 4D LiDAR 大型卡车安全系统",
+    "summary_short": "AEVA 与 Bendix 合作，将 4D LiDAR 集成至 Class 8 卡车 ADAS，提升主动安全与碰撞缓解能力。",
+    "summary_long": "AEVA 与北美商用车 ADAS 供应商 Bendix Commercial Vehicle Systems 签署联合开发协议，共同开发主动安全解决方案。项目将 AEVA 的 4D LiDAR 传感器与感知软件平台，集成至 Bendix 未来量产的 Class 8 重型卡车主动安全与碰撞缓解系统中。北美每年约 30 万辆 Class 8 卡车新售，商用车 ADAS 市场为下一代安全技术提供巨大商机。Bendix 的旗舰 ADAS 产品“Bendix Fusion”已适配多数主要 Class 8 OEM 平台，此次合作有望为大规模部署先进 LiDAR 传感功能提供可扩展路径。",
+    "highlights_zh": [
+      "AEVA 与 Bendix 联合开发 4D LiDA…",
+      "面向 Class 8 重型卡车量产集成",
+      "北美年销约 30 万辆 Class 8 卡车",
+      "Bendix Fusion ADAS 已覆盖主流 O…"
+    ],
+    "entities": [
+      "AEVA",
+      "Bendix",
+      "4D LiDAR",
+      "Class 8 卡车",
+      "ADAS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222277.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222277.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:44.170Z"
+  },
+  "https://response.jp/article/2026/06/26/413222.html": {
+    "title_zh": "通用汽车投资 2.75 亿美元，强化凯迪拉克燃油车与涡轮增压发动机",
+    "summary_short": "通用汽车宣布向美国斯普林希尔工厂投资 2.75 亿美元，用于支持凯迪拉克燃油车型生产及 2.7L 涡轮增压发动机项目。",
+    "summary_long": "通用汽车（GM）宣布向美国田纳西州斯普林希尔制造基地投资总计 2.75 亿美元。其中，超过 1.5 亿美元用于斯普林希尔装配厂，以支持凯迪拉克未来内燃机车型的生产；1.25 亿美元用于斯普林希尔发动机工厂，以延续并强化 2.7L 涡轮增压发动机项目。GM 强调，此举不仅针对单一发动机或产品线，而是将斯普林希尔打造为灵活、长期的制造基地，以应对当前需求、未来新车投放及整体生产体系的强化。",
+    "highlights_zh": [
+      "总投资 2.75 亿美元",
+      "1.5 亿美元用于凯迪拉克燃油车生产",
+      "1.25 亿美元强化 2.7L 涡轮增压发动机",
+      "斯普林希尔将成长期灵活制造基地"
+    ],
+    "entities": [
+      "通用汽车",
+      "凯迪拉克",
+      "斯普林希尔工厂",
+      "2.7L 涡轮增压发动机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222278.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222278.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:47.958Z"
+  },
+  "https://press.piaggiogroup.com/en_EN/post/show/353212/the-vespa-80th-anniversary-cel.html": {
+    "title_zh": "Vespa 80 周年庆典在罗马启动",
+    "summary_short": "Vespa 80 周年庆典在罗马正式启动，Vespa Village 在意大利广场开幕，标志着“Vespa Roma 2026 - 80 年传奇”活动开始。",
+    "summary_long": "Vespa 80 周年庆典在罗马正式启动，Vespa Village 在意大利广场举行剪彩仪式，标志着“Vespa Roma 2026 - 80 年传奇”活动的开始。庆典将展示 Vespa 的历史、文化和设计，吸引全球粉丝参与。",
+    "highlights_zh": [
+      "Vespa 80 周年庆典在罗马启动",
+      "Vespa Village 在意大利广场开幕",
+      "活动名为“Vespa Roma 2026 - 80…"
+    ],
+    "entities": [
+      "Vespa",
+      "罗马"
+    ],
+    "gallery_images": [
+      "https://media.lulop.com/media/getimage/l/353212/4/640,480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:51.771Z"
+  },
+  "https://response.jp/article/2026/06/26/413229.html": {
+    "title_zh": "大众旗下 CARIAD 在柏林开设 AI 汽车软件园区",
+    "summary_short": "大众软件子公司 CARIAD 在柏林开设 AI 汽车软件园区，约 1000 名专家将开发 SDV 相关 AI 技术。",
+    "summary_long": "大众集团旗下软件子公司 CARIAD 在德国柏林开设了“汽车软件园区”，专注于 AI 技术研发。园区将聚集约 1000 名专家，致力于软件定义汽车（SDV）领域的 AI 技术开发，涵盖从自动驾驶环境感知到 AI 语音助手等广泛技术领域。",
+    "highlights_zh": [
+      "CARIAD 在柏林开设汽车软件园区",
+      "约 1000 名专家入驻",
+      "专注 SDV 及 AI 技术开发",
+      "覆盖自动驾驶到语音助手"
+    ],
+    "entities": [
+      "CARIAD",
+      "大众集团 | Volkswagen Group",
+      "软件定义汽车",
+      "柏林",
+      "AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222343.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222343.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:55.028Z"
+  },
+  "https://bestcarweb.jp/fullload/1557673": {
+    "title_zh": "三菱扶桑等启动 eCanter 无线充电实证实验",
+    "summary_short": "三菱扶桑等公司启动 eCanter 电动卡车无线充电实证，探索 EV 充电新选择。",
+    "summary_long": "三菱扶桑、大亨、三菱综合研究所等三家公司作为环境省项目，在名铁 NX 运输的物流现场，使用三菱扶桑小型电动卡车 eCanter，启动了停车中无线充电的实证实验。无线充电分为停车时充电和行驶中充电，后者若实现可从根本上解决电池小型化、续航延长等课题，且与自动驾驶高度兼容。本次实证旨在为行驶中充电的公道实用化积累技术经验。",
+    "highlights_zh": [
+      "三菱扶桑等启动 eCanter 无线充电实证",
+      "停车中无线充电实验在物流现场进行",
+      "目标是为行驶中充电的公道实用化铺路",
+      "无线充电与自动驾驶兼容性高"
+    ],
+    "entities": [
+      "三菱扶桑 | Mitsubishi Fuso",
+      "eCanter",
+      "无线充电",
+      "电动卡车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/23110743/0B5A2024-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/22143456/00-18d0swzqkn3ec4x9.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/19133204/f153e15d3715b94ee1b853592e95eff4-1024x702.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:59.897Z"
+  },
+  "https://response.jp/article/2026/06/26/413211.html": {
+    "title_zh": "奥迪 A6/A6 Avant 日本上市，全系标配 MHEV plus，起价 885 万日元",
+    "summary_short": "奥迪日本推出全新 A6 及 A6 Avant，全系标配 48V 轻混系统，起售价 885 万日元，融合优雅与运动设计。",
+    "summary_long": "奥迪日本于 6 月 25 日通过全国 126 家经销商正式发售全新 A6 轿车及 A6 Avant 旅行车。新车定位高端中型市场，融合四门轿跑的优雅与运动感，全系搭载 48V 轻混系统 MHEV plus，可提供最大 18 千瓦电力辅助和 25 千瓦能量回收。标配数字矩阵 LED 大灯和 MMI 副驾驶显示屏，驾驶辅助功能全面升级。外观采用长引擎盖与长轴距比例，柔顺曲面与凌厉线条结合，体现奥迪精简设计语言。",
+    "highlights_zh": [
+      "全系标配 48V 轻混系统 MHEV plus",
+      "数字矩阵 LED 大灯和 MMI 副驾驶屏为标准配置",
+      "起售价 885 万日元",
+      "融合优雅与运动的设计语言"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A6",
+      "A6 Avant",
+      "MHEV plus",
+      "48V 轻混系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222168.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222168.jpg",
+      "https://response.jp/imgs/fill2/2222171.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:38:59.946Z"
+  },
+  "https://response.jp/article/2026/06/26/413224.html": {
+    "title_zh": "Up Garage 在横滨举办儿童冒险学院 2026",
+    "summary_short": "Up Garage 将于 8 月 5 日在横滨举办小学生体验活动，包括 SDGs 问答、轮毂打磨、轮胎安装及赛车乘坐体验。",
+    "summary_long": "汽车及摩托车用品二手专卖店 Up Garage 将于 8 月 5 日参加横滨市主办的“儿童冒险学院 2026”，为小学生提供体验学习机会。活动内容包括 SDGs 问答、二手轮毂打磨、轮胎安装体验以及赛车驾驶座乘坐与拍照。活动免费，面向横滨市内在住或就读的小学 3-6 年级学生，共 20 个名额，需提前报名抽选。",
+    "highlights_zh": [
+      "8 月 5 日在横滨举办",
+      "面向小学 3-6 年级学生",
+      "免费参加",
+      "体验二手轮毂打磨和赛车乘坐"
+    ],
+    "entities": [
+      "アップガレージ",
+      "横滨",
+      "儿童冒险学院"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222283.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222283.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:03.606Z"
+  },
+  "https://bestcarweb.jp/news/entame/1561000": {
+    "title_zh": "大叔的终活车就选 MT！再次体验随心操控的快感",
+    "summary_short": "MT 车虽仅占新车销量数个百分点，但其驾驶乐趣和脑力锻炼效果让大叔们趋之若鹜，斯巴鲁、日产等厂商也加速回归。",
+    "summary_long": "MT 车曾是汽车主流，如今新车中占比仅数个百分点，但仍有不可替代的价值。驾驶 MT 车能带来纯粹的操控乐趣，手动换挡的过程还能激活大脑，起到“脑锻炼”作用，尤其适合中老年群体。此外，现代 MT 车已配备碰撞缓解制动等先进安全装备，消除了以往“危险”“疲劳”的负面印象。市场方面，斯巴鲁宣布到 2027 年将推出 3 款 MT 车型，日产也为 Z NISMO 增加了 MT 版本，表明厂商正响应日益增长的 MT 需求。",
+    "highlights_zh": [
+      "MT 车仅占新车销量数%",
+      "驾驶乐趣与脑锻炼兼备",
+      "现代 MT 车安全装备齐全",
+      "斯巴鲁、日产加速 MT 回归"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "日产 | Nissan",
+      "Z NISMO",
+      "MT 车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26114041/6c6891d34c122794828082fd6d95cb731-600x400-1.jpg?v=1782441641",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24192723/8548288c5b93852e89bbcca1b56f046f-600x400.jpg?v=1782296845",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22163630/s-odyssey-018-1-600x399.jpg?v=1782113792"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:04.436Z"
+  },
+  "https://response.jp/article/2026/06/26/413228.html": {
+    "title_zh": "Sanden 首次在 CDP 供应商参与评估中获得最高 A 级评分",
+    "summary_short": "Sanden 在 CDP 的 2025 年供应商参与评估中首次获得最高 A 级评分，成为供应商参与领导者。",
+    "summary_long": "Sanden 宣布，在国际环境非营利组织 CDP 实施的 2025 年供应商参与评估（SEA）中，首次获得最高 A 级评分。该评估主要关注企业如何与供应商合作推进气候变化对策，特别是针对供应链间接排放（Scope3）的管理。获得 A 级的企业被认定为供应商参与领导者。",
+    "highlights_zh": [
+      "Sanden 首次获 CDP 最高 A 级评分",
+      "评估聚焦供应链 Scope3 排放管理",
+      "获评供应商参与领导者"
+    ],
+    "entities": [
+      "Sanden",
+      "CDP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222342.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222342.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:06.419Z"
+  },
+  "https://response.jp/article/2026/06/26/413214.html": {
+    "title_zh": "舍弗勒与德雷尔合作，在欧洲建设无人机量产线，目标日产 100 架",
+    "summary_short": "德国汽车零部件巨头舍弗勒与法国无人机公司德雷尔合作，在欧洲建设无人机量产线，目标 2026 年 11 月前实现日产 100 架。",
+    "summary_long": "德国汽车零部件巨头舍弗勒与法国无人航空系统开发商德雷尔宣布建立战略合作，共同在欧洲建设无人机及拦截机生产线。该生产线旨在实现无人机的大规模工业化生产，目标于 2026 年 11 月前达到日产 100 架的能力。合作结合了舍弗勒的全球制造能力与德雷尔在无人机设计、集成和运营方面的专业知识，旨在增强欧洲自主无人航空系统能力。",
+    "highlights_zh": [
+      "舍弗勒与德雷尔合作建设无人机量产线",
+      "目标 2026 年 11 月前日产 100 架",
+      "结合制造能力与无人机专业知识",
+      "增强欧洲自主无人航空系统能力"
+    ],
+    "entities": [
+      "舍弗勒",
+      "德雷尔",
+      "无人机",
+      "量产线",
+      "欧洲"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222275.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222275.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:07.800Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543334": {
+    "title_zh": "丰田 Sienta 一强不再？3 排座椅选本田 Freed，操控选铃木 Solio",
+    "summary_short": "丰田 Sienta 因长交付期停止接单，本田 Freed 和铃木 Solio 成为热门替代选择，分别侧重三排座椅和操控灵活性。",
+    "summary_long": "丰田 Sienta 因交付周期过长而停止接单，这款紧凑型 MPV 曾因灵活操控备受青睐。对于需要三排座椅的用户，本田 Freed 是更优选择：其第三排空间更宽敞，行驶质感更平顺舒适，且提供更张扬的 Crossster 版本。而追求极致操控便利性的用户，则可考虑铃木 Solio——车身比 Sienta 更紧凑，但内部空间足以容纳四名成人，最小转弯半径仅 4.8 米，城市穿梭极为灵活。",
+    "highlights_zh": [
+      "丰田 Sienta 因长交付期停止接单",
+      "本田 Freed 第三排空间更宽敞",
+      "铃木 Solio 转弯半径仅 4.8 米",
+      "Freed Crossster 版设计更张扬"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Sienta",
+      "本田 | Honda",
+      "Freed",
+      "铃木 | Suzuki"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07201512/00_daida02_01_head.jpg?v=1780830913",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07201512/00_daida02_01_head-600x400.jpg?v=1780830913",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09161250/00_Jeep-Compass-2022_head-600x400.jpg?v=1780989172"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:11.206Z"
+  },
+  "https://response.jp/article/2026/06/26/413219.html": {
+    "title_zh": "2025 年汽车零部件专利排名：电装凭借“牵制力”居首",
+    "summary_short": "专利结果公司发布 2025 年汽车零部件行业专利牵制力排名，电装凭借被引用专利数位居第一，爱信和住友电装分列二三。",
+    "summary_long": "专利结果公司于 6 月 24 日发布“2025 年汽车零部件行业专利牵制力排名”。该排名统计了 2025 年专利审查过程中，作为驳回其他公司专利理由而被引用的专利数量，反映了企业在技术开发中的竞争力和影响力。电装位列第一，其被引用最多的专利涉及“车辆回忆共享系统”，被软银集团等 12 件审查引用；另一项“车辆用记录装置”专利也被丰田等 5 件引用。爱信和住友电装分别排名第二和第三。",
+    "highlights_zh": [
+      "电装专利被引用数居首",
+      "爱信、住友电装分列二三",
+      "回忆共享系统专利被引用 12 次",
+      "丰田、本田等受电装专利影响"
+    ],
+    "entities": [
+      "电装",
+      "爱信",
+      "住友电装",
+      "丰田 | Toyota",
+      "专利牵制力"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222040.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222040.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:11.754Z"
+  },
+  "https://response.jp/article/2026/06/26/413210.html": {
+    "title_zh": "阪和兴业参与印尼镍钴材料制造，2027 年投产",
+    "summary_short": "阪和兴业宣布参与印尼镍/钴混合氢氧化物制造项目，计划 2027 年投产，强化电池材料供应链。",
+    "summary_long": "阪和兴业决定参与印尼 PT. Teluk Metals Industry 公司的镍/钴混合氢氧化物（MHP）制造项目。镍是广泛应用于不锈钢及 EV、半导体、航空航天等领域的关键金属，该项目旨在确保 MHP 供应，强化镍供应链整体体系。",
+    "highlights_zh": [
+      "参与印尼镍钴 MHP 制造",
+      "2027 年开始生产",
+      "强化电池材料供应链"
+    ],
+    "entities": [
+      "阪和兴业",
+      "PT. Teluk Metals Industry",
+      "镍",
+      "钴",
+      "混合氢氧化物"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222269.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222269.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:14.858Z"
+  },
+  "https://response.jp/article/2026/06/26/413220.html": {
+    "title_zh": "东洋轮胎携川畑真人、Mad Mike 参加欧洲两大汽车盛会",
+    "summary_short": "东洋轮胎宣布品牌大使川畑真人和 Mad Mike 将参加波兰 Ultrace 与英国古德伍德速度节，展示 Proxes 轮胎性能。",
+    "summary_long": "东洋轮胎宣布，Proxes 品牌大使川畑真人和全球大使 Mad Mike 将参加 6 月至 7 月在欧洲举办的两大汽车盛会。首先，6 月 27-28 日在波兰格但斯克举行的 Ultrace Poland 2026，川畑真人将驾驶 Trust 与东洋共同改装的日产 R35 GT-R 进行表演。随后，7 月 9-12 日在英国举行的古德伍德速度节 2026，Mad Mike 驾驶马自达 MAZDA3、川畑真人驾驶 R35 GT-R，均配备 Proxes 轮胎，展示驾驶性能。",
+    "highlights_zh": [
+      "川畑真人参加波兰 Ultrace 与古德伍德速度节",
+      "Mad Mike 仅参加古德伍德速度节",
+      "两车均配备 Proxes 轮胎",
+      "日产 R35 GT-R 由 Trust 与东洋共同改…"
+    ],
+    "entities": [
+      "东洋轮胎",
+      "川畑真人",
+      "Mad Mike",
+      "日产 R35 GT-R | Nissan R35 GT-R",
+      "马自达 MAZDA3 | Mazda MAZDA3"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222254.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222254.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:15.591Z"
+  },
+  "https://bestcarweb.jp/feature/column/1544650": {
+    "title_zh": "不止 Harrier 和 CX-5！超 300 台流通的宝藏 SUV——Jeep Compass",
+    "summary_short": "Jeep Compass 中古车超 300 台在售，平均约 270 万日元，前期型 FF 车 160 万日元左右可入手，是性价比高的宝藏 SUV。",
+    "summary_long": "Jeep Compass 是 2017 年推出的 C 级 SUV，搭载 2.4L 直四发动机（175ps），提供 FF 和 4WD 驱动方式。2021 年 6 月进行小改款，升级设计和安全装备。目前中古车流通量超过 300 台，平均价格约 270 万日元。前期型 FF 车总价约 160 万日元即可找到好车况，后期型（ADAS 升级）平均 270 万日元左右也有不错选择。",
+    "highlights_zh": [
+      "中古车流通超 300 台",
+      "平均价格约 270 万日元",
+      "前期型 FF 车约 160 万日元",
+      "后期型安全装备升级"
+    ],
+    "entities": [
+      "ジープ",
+      "コンパス",
+      "ハリアー",
+      "CX-5",
+      "C 级 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08203403/00_Jeep-Compass-2022_03_head.jpg?v=1780918445",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08203403/00_Jeep-Compass-2022_03_head-600x400.jpg?v=1780918445",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07201512/00_daida02_01_head-600x400.jpg?v=1780830913"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:19.246Z"
+  },
+  "https://response.jp/article/2026/06/26/413213.html": {
+    "title_zh": "现代巴士 PY 因滑动窗缺陷在日本召回",
+    "summary_short": "现代汽车在日本召回 291 辆 PY 巴士，因滑动窗止动器安装不当，可能导致开口宽度超标，不符合安全标准。",
+    "summary_long": "现代汽车日本公司（Hyundai Mobility Japan）于 6 月 22 日向国土交通省提交召回申请，涉及 2009 年 10 月 11 日至 2025 年 12 月 5 日期间生产的 3 种型号共 291 辆现代 PY 巴士。问题在于辅助座椅侧滑动窗的制造工艺不当，导致导轨上的止动器位置未按设计安装，可能使窗户开口有效宽度小于 500 毫米，不符合日本安全标准。作为补救措施，将拆除所有受影响车辆的窗户止动器以确保开口宽度，并在止动器安装位置安装密封条。",
+    "highlights_zh": [
+      "涉及 291 辆现代 PY 巴士",
+      "滑动窗止动器安装不当",
+      "开口宽度可能小于 500mm",
+      "拆除止动器并加装密封条"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "PY",
+      "日本",
+      "召回",
+      "安全标准"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222193.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222193.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:19.585Z"
+  },
+  "https://bestcarweb.jp/feature/column/1555992": {
+    "title_zh": "一見海外向け卻完美契合日本道路？馬自達的獨特魅力",
+    "summary_short": "馬自達海外車型意外契合日本市場，CX-5 和 Roadster 因尺寸、設計和柴油動力受歡迎。",
+    "summary_long": "多數日本車企主攻海外市場，馬自達也不例外，但其海外車型卻意外受到日本用戶歡迎。例如 CX-5 雖非專為日本開發，卻因適中尺寸、時尚外觀和高品質柴油動力而暢銷，甚至促使新一代車型誕生。Roadster 則以緊湊尺寸、後驅敞篷設計在日本持續熱銷，上市十年銷量仍增長。",
+    "highlights_zh": [
+      "CX-5 因尺寸和柴油動力在日本大受歡迎",
+      "Roadster 上市十年銷量仍增長",
+      "海外車型意外契合日本市場需求"
+    ],
+    "entities": [
+      "馬自達 | Mazda",
+      "CX-5",
+      "Roadster"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20153123/00_jpn_CX-5_head.jpg?v=1781937084",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20153123/00_jpn_CX-5_head-600x400.jpg?v=1781937084",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07201512/00_daida02_01_head-600x400.jpg?v=1780830913"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:24.296Z"
+  },
+  "https://bestcarweb.jp/newcar/1560192": {
+    "title_zh": "马自达 MX-5 改款新增 PS 纯运动版，操控再进化",
+    "summary_short": "马自达 MX-5 推出改款车型，新增 PS 纯运动版，配备 Brembo 刹车、Bilstein 减震器及 RAYS 轮毂，售价 366.3 万日元起。",
+    "summary_long": "马自达于 2026 年 6 月 26 日发布 MX-5 改款车型，并新增特别仕样车 PS（Pure Sports）。PS 基于 S Special Package 打造，搭载 Brembo 通风盘与四活塞卡钳、Bilstein 减震器、RAYS 16 英寸黑色铝合金轮毂及灰色软顶，内饰配备黑色空调出风口饰件与银色启动环。PS 仅提供手动变速箱，售价 366.3 万日元，比 RS 低 7.7 万日元。改款车型将于 2026 年 9 月上旬发售。",
+    "highlights_zh": [
+      "新增 PS 纯运动版",
+      "配备 Brembo 刹车与 Bilstein 减震器",
+      "RAYS 16 英寸轮毂+灰色软顶",
+      "仅手动挡"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MX-5",
+      "PS",
+      "Brembo",
+      "Bilstein"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25160355/2026_mazda-roadster_PS_exterior.jpg?v=1782371037",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25160355/2026_mazda-roadster_PS_exterior-600x362.jpg?v=1782371037",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22103408/4260618_002H_1-600x400.jpg?v=1782092049"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:24.331Z"
+  },
+  "https://bestcarweb.jp/feature/column/1560459": {
+    "title_zh": "台风来袭！车辆浸水怎么办？全面应对指南",
+    "summary_short": "台风带来线状降水带，车辆易浸水。本文详解浸水后应对措施、轮胎检查及高速行驶安全须知。",
+    "summary_long": "台风来袭，线状降水带在日本九州北部形成，并可能波及近畿、东海、关东地区，带来强降雨。车辆若遭遇浸水，需采取正确应对措施，否则可能面临报废风险。此外，暴雨中行驶时，轮胎花纹深度不足易引发水滑现象，导致车辆失控。本文详细介绍了线状降水带的形成机制、浸水后的处理步骤，以及如何通过检查轮胎剩余沟深来预防事故。",
+    "highlights_zh": [
+      "线状降水带导致车辆浸水风险高",
+      "浸水后车辆可能直接报废",
+      "轮胎沟深不足 5mm 易引发水滑",
+      "高速遇暴雨应提前检查轮胎"
+    ],
+    "entities": [
+      "线状降水带",
+      "水滑现象",
+      "轮胎",
+      "台风"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25180426/f1bc89e74886965b12d3c6343c370d3e-600x400-1.jpg?v=1782378267",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07201512/00_daida02_01_head-600x400.jpg?v=1780830913",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09161250/00_Jeep-Compass-2022_head-600x400.jpg?v=1780989172"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:28.757Z"
+  },
+  "https://www.motor1.com/news/799818/is-e15-gas-bad/": {
+    "title_zh": "男子预付油费后看到泵上贴纸：别加这种油",
+    "summary_short": "一名男子预付油费后，发现加油泵上贴有 E15 标签，随即取消付款。E15 汽油是什么？对车有害吗？",
+    "summary_long": "随着油价上涨，司机们想尽办法省钱，但选择错误的燃油可能损坏发动机。近日，一则关于加油泵上 E15 标签的警告视频走红。用户 Cm Spencer 在 Facebook 上提醒，看到标有“E15”的加油泵时不要使用，因为这种含 15%乙醇的汽油可能不适用于许多车辆。",
+    "highlights_zh": [
+      "男子预付油费后取消付款",
+      "加油泵上贴有 E15 标签",
+      "E15 汽油含 15%乙醇",
+      "可能不适用于多数车辆"
+    ],
+    "entities": [
+      "E15 汽油 | E15"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3y4lj/s1/man-pre-pays-for-gas..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:28.792Z"
+  },
+  "https://www.thedrive.com/news/hilarious-gas-can-shaped-party-speaker-is-cheap-enough-to-impulse-buy-during-amazon-prime-day": {
+    "title_zh": "搞笑油桶造型派对音箱：Prime Day 半价促销",
+    "summary_short": "一款 300 瓦蓝牙户外派对音箱，外形酷似油桶，Prime Day 期间 44%折扣，适合尾门派对或户外聚会。",
+    "summary_long": "一款 300 瓦蓝牙户外派对音箱，外形和尺寸都模仿了油桶（jerry can），设计搞笑。在亚马逊 Prime Day 期间享受 44%折扣，价格低廉，适合冲动购买。虽然音质可能一般，但能娱乐朋友，适合赛道边、小径旁或尾门派对。多数亚马逊评价出奇地好。",
+    "highlights_zh": [
+      "300 瓦蓝牙户外音箱",
+      "油桶造型",
+      "Prime Day 44%折扣",
+      "适合尾门派对等场景"
+    ],
+    "entities": [
+      "亚马逊 | Amazon"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/portable-speaker.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Ultimatea-speaker.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:32.219Z"
+  },
+  "https://www.motor1.com/news/799827/former-bmw-executive-lead-ferrari-marketing/": {
+    "title_zh": "法拉利任命新营销负责人，接替 Galliera",
+    "summary_short": "法拉利任命前宝马意大利总裁 Di Silvestre 为首席营销商务官，接替任职 16 年的 Galliera，7 月 1 日生效。",
+    "summary_long": "法拉利宣布任命 Massimiliano Di Silvestre 为首席营销与商务官，自 2026 年 7 月 1 日起生效。Di Silvestre 此前担任宝马意大利总裁兼 CEO，在宝马集团任职近 20 年。他将接替在法拉利工作超过 16 年的 Enrico Galliera，负责马拉内罗品牌的商业和营销活动。Di Silvestre 在商业领导力和国际业务拓展方面的经验，是法拉利选择他担任这一战略职位的关键原因。",
+    "highlights_zh": [
+      "前宝马意大利总裁加入法拉利",
+      "7 月 1 日起担任首席营销商务官",
+      "接替任职 16 年的 Enrico Galliera",
+      "Di Silvestre 在宝马工作近 20 年"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "宝马 | BMW",
+      "Massimiliano Di Silvestre",
+      "Enrico Galliera"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:32.775Z"
+  },
+  "https://www.motor1.com/news/799816/ford-focus-in-wm-dumpster/": {
+    "title_zh": "明尼阿波利斯男子在垃圾箱中发现整辆福特福克斯",
+    "summary_short": "明尼阿波利斯一名男子在公寓外的垃圾箱中发现一辆被切割的福特福克斯，视频在 TikTok 上走红。",
+    "summary_long": "明尼阿波利斯一名男子在公寓外的垃圾箱中发现一辆被切割的福特福克斯，视频在 TikTok 上走红。垃圾清运司机因车内油箱而拒绝处理，引发围观。",
+    "highlights_zh": [
+      "垃圾箱中发现整辆福特福克斯",
+      "视频在 TikTok 上获得 490 万次观看",
+      "垃圾清运司机因油箱拒绝处理"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "福特福克斯 | Ford Focus",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OBw4/s1/a-whole-ford-focus-in-the-dumpster.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:35.177Z"
+  },
+  "https://www.motor1.com/news/799822/land-rover-recalls-suvs-airbags/": {
+    "title_zh": "路虎因安全气囊隐患召回 25 万辆 SUV",
+    "summary_short": "路虎因安全气囊连接器腐蚀可能导致无法展开，召回约 25 万辆 SUV，涉及揽胜、发现和卫士车型。",
+    "summary_long": "路虎宣布召回 250,857 辆 SUV，原因是驾驶员侧安全气囊连接器可能因长期振动产生腐蚀，导致电阻增大，气囊在碰撞时无法正常展开。受影响车型包括 2022-2026 款揽胜、2021-2026 款发现和 2020-2026 款卫士。路虎在 2025 年 8 月注意到气囊警告灯相关保修索赔增加后展开调查，最终在 2026 年 3 月通过振动测试确认问题根源。",
+    "highlights_zh": [
+      "召回约 25 万辆 SUV",
+      "气囊连接器腐蚀致无法展开",
+      "涉及揽胜、发现、卫士",
+      "警告灯提前 300-400 英里亮起"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "揽胜",
+      "发现",
+      "卫士",
+      "安全气囊"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P30LkA/s1/2024-land-rover-defender-110-country-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:36.050Z"
+  },
+  "https://www.motor1.com/news/799813/jaguar-xj220-supercar-concept-ian-callum/": {
+    "title_zh": "伊恩·卡勒姆设计现代版捷豹 XJ220 概念车",
+    "summary_short": "设计大师伊恩·卡勒姆及其团队发布了一款现代版捷豹 XJ220 概念车，致敬经典超跑。",
+    "summary_long": "设计大师伊恩·卡勒姆（Ian Callum）及其团队 Callum Designs 发布了一款现代版捷豹 XJ220 概念车的预告图。该车被描述为对经典 XJ220 的现代诠释，整体轮廓、温室结构和后部通风口均保留了原版精髓，并采用 Spa Silver 银色涂装致敬经典。目前该项目仍处于设计研究阶段，尚未确认量产，但 Callum Designs 暗示未来将有更多信息公布。",
+    "highlights_zh": [
+      "伊恩·卡勒姆亲自操刀设计",
+      "现代线条融合经典 XJ220 元素",
+      "目前为设计研究阶段",
+      "更多细节即将公布"
+    ],
+    "entities": [
+      "伊恩·卡勒姆 | Ian Callum",
+      "Callum Designs",
+      "捷豹 | Jaguar",
+      "XJ220"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzlR2/s1/jaguar-xj220-by-callum-designs.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:39.017Z"
+  },
+  "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you": {
+    "title_zh": "联邦政府扼杀极星而放过沃尔沃，这令人恐惧",
+    "summary_short": "美国联邦政府拒绝极星 2027 年后在美销售新车，却批准其姊妹品牌沃尔沃，原因不明，引发对市场干预的担忧。",
+    "summary_long": "美国联邦政府通过《联网车辆规则》拒绝极星（Polestar）从 2027 年起在美销售新车，极星是吉利旗下的中国汽车品牌。然而，同样由吉利控股的姊妹品牌沃尔沃（Volvo）却在今年 5 月获得了授权。政府未解释为何区别对待。此举被视为对汽车行业和自由市场的干预，可能树立危险先例。",
+    "highlights_zh": [
+      "极星被禁 2027 年后在美销售新车",
+      "沃尔沃却获得授权",
+      "政府干预引发对自由市场的担忧",
+      "可能树立危险先例"
+    ],
+    "entities": [
+      "极星 | Polestar",
+      "沃尔沃 | Volvo",
+      "吉利",
+      "美国联邦政府",
+      "联网车辆规则"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Original-3197-681584-1-5-e1782406718657.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_7371-e1782391606968.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:39.471Z"
+  },
+  "https://insideevs.com/news/799705/tesla-camera-airbag-deploy-early/": {
+    "title_zh": "特斯拉利用摄像头在碰撞前提前展开安全气囊",
+    "summary_short": "特斯拉通过摄像头识别不可避免的碰撞，提前最多 70 毫秒展开安全气囊，提升乘员保护。",
+    "summary_long": "特斯拉利用摄像头阵列，在检测到碰撞不可避免时，提前最多 70 毫秒展开安全气囊。相比传统加速度传感器需碰撞发生后才能触发，摄像头可提前识别碰撞类型、预估接触时间和严重程度，使约束系统（如安全带预紧器）提前准备。即使提前几十毫秒，也能让气囊有更充分时间充气，提供更好保护。该系统仍依赖传统碰撞传感器做最终决策。",
+    "highlights_zh": [
+      "摄像头识别不可避免碰撞",
+      "气囊提前最多 70 毫秒展开",
+      "提前预估碰撞类型与严重程度",
+      "仍保留传统碰撞传感器做最终决策"
+    ],
+    "entities": [
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAz4Eq/s1/tesla-airbag.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:42.928Z"
+  },
+  "https://www.motor1.com/news/799616/car-lift-rental-garagepass/": {
+    "title_zh": "租用车位和举升机：Garage Pass 让 DIY 修车不再难",
+    "summary_short": "一位汽车爱好者创办了 Garage Pass，提供带举升机的共享修车空间，解决 DIY 修车缺乏专业设备的痛点。",
+    "summary_long": "对于没有专业修车厂设备的车主来说，进行大型改装或维修往往受限于空间和工具。一位名为 Abe 的汽车爱好者在加州奥克兰创办了 Garage Pass，提供配备举升机的共享修车工位租赁服务。该业务在 TikTok 上获得广泛关注，用户感叹“这正是我一直想要的”。",
+    "highlights_zh": [
+      "Garage Pass 提供带举升机的共享修车空间",
+      "解决 DIY 修车缺乏专业设备的痛点",
+      "首个地点位于加州奥克兰",
+      "TikTok 视频获超 8.9 万次观看"
+    ],
+    "entities": [
+      "Garage Pass",
+      "奥克兰",
+      "举升机",
+      "共享修车空间"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kbg4Z1/s1/man-has-a-project-car.-then-he-tries-a-garage-pass-membership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:43.650Z"
+  },
+  "https://insideevs.com/news/799176/hankook-demo-days/": {
+    "title_zh": "韩泰如何让电动车轮胎变得更好",
+    "summary_short": "韩泰 iON 系列电动车轮胎专为降低噪音、延长寿命、提升抓地力和续航里程而设计，在 Electrify Expo 上提供试驾体验。",
+    "summary_long": "韩泰的 iON 系列轮胎专为电动车优化，针对低噪音、长寿命、高抓地力和低滚阻四大特性设计。相比普通轮胎，iON 轮胎噪音降低 18%，寿命延长 15%，稳定性提升 10%，续航里程增加 6%。这些轮胎将在 Electrify Expo 的 Auto Alley Ride & Drive Zone 供公众试驾体验。",
+    "highlights_zh": [
+      "噪音降低 18%",
+      "寿命延长 15%",
+      "续航增加 6%",
+      "稳定性提升 10%"
+    ],
+    "entities": [
+      "韩泰 | Hankook",
+      "iON",
+      "Electrify Expo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4e8n/s1/hankook-s-auto-alley-ride-drive-zone-at-electrify-expo.jpg",
+      "https://cdn.motor1.com/images/sbi/0J3/s1/presented-by-hankook-ion.png",
+      "https://cdn.motor1.com/images/sbi/0J3/s1/presented-by-hankook-ion_dark1.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:46.122Z"
+  },
+  "https://www.motor1.com/news/799810/general-motors-invests-future-cadillac-product/": {
+    "title_zh": "通用汽车斥资数百万美元开发新款燃油凯迪拉克",
+    "summary_short": "通用汽车投资 1.5 亿美元在 Spring Hill 工厂，用于生产一款新的燃油动力凯迪拉克车型，可能是跨界 SUV。",
+    "summary_long": "通用汽车宣布向田纳西州 Spring Hill 工厂投资 2.75 亿美元，其中 1.25 亿美元用于继续生产 2.7 升发动机，另外 1.5 亿美元用于支持一款未来燃油动力凯迪拉克车型的生产。该工厂目前组装雪佛兰 Blazer、凯迪拉克 Lyriq、凯迪拉克 Vistiq 和凯迪拉克 XT5，新车将成为第五款产品。考虑到工厂专注于跨界车，预计新车也将是跨界 SUV，以填补凯迪拉克燃油 SUV 产品线。",
+    "highlights_zh": [
+      "通用投资 1.5 亿美元生产新燃油凯迪拉克",
+      "新车将在 Spring Hill 工厂组装",
+      "预计为跨界 SUV",
+      "现款 CT4 和 CT5 即将停产"
+    ],
+    "entities": [
+      "通用汽车",
+      "凯迪拉克 | Cadillac",
+      "Spring Hill 工厂",
+      "跨界 SUV"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-26T04:39:47.579Z"
   }
 }

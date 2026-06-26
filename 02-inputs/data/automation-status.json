@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-25T15:47:15.639Z",
+    "generated_at": "2026-06-26T04:38:25.943Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 362,
-    "deepseek_untranslated_before_run": 38,
-    "newly_fetched_articles": 38,
-    "newly_fetched_untranslated": 38,
+    "deepseek_translated_before_run": 363,
+    "deepseek_untranslated_before_run": 37,
+    "newly_fetched_articles": 37,
+    "newly_fetched_untranslated": 37,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 38,
+    "translation_queue_count": 37,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.25",
-        "title": "The Very Best Bosch Tool Deals on Amazon Prime Day 2026",
-        "url": "https://www.thedrive.com/news/the-very-best-bosch-tool-deals-on-amazon-prime-day-2026"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.25",
-        "title": "2027 GMC Sierra Gets Even Fancier With Articulating Screen and Headrest Speakers",
-        "url": "https://www.thedrive.com/news/2027-gmc-sierra-gets-even-fancier-with-articulating-screen-and-headrest-speakers"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.25",
-        "title": "GMC's Best-Selling Truck Just Got a Massive Makeover",
-        "url": "https://www.motor1.com/news/799730/2027-gmc-sierra-1500-engine-trims-features/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.25",
-        "title": "Polestar Is Done Selling New Cars in the US",
-        "url": "https://www.thedrive.com/news/polestar-is-done-selling-new-cars-in-the-us"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.25",
-        "title": "Can Ferrari and Hamilton Stop Either Mercedes Driver This Weekend?",
-        "url": "https://www.thedrive.com/news/can-ferrari-and-hamilton-stop-either-mercedes-driver-this-weekend"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.25",
-        "title": "Polestar Can’t Sell Cars In The US Anymore",
-        "url": "https://www.motor1.com/news/799797/polestar-dead-exits-us-market/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.6.25",
-        "title": "The U.S. Strongarms Polestar Out Of The American EV Market",
-        "url": "https://insideevs.com/news/799796/polestar-exits-us-market-authorization-denied/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.25",
-        "title": "I Rode in Slate’s $24,950 Electric Truck. It Didn’t Feel Like a $24,950 Electric Truck",
-        "url": "https://www.thedrive.com/news/i-rode-in-slates-24950-electric-truck-it-didnt-feel-like-a-24950-electric-truck"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.25",
-        "title": "Toyota Might Steal GM’s US Sales Crown Thanks to Hybrids: TDS",
-        "url": "https://www.thedrive.com/news/toyota-might-steal-gms-us-sales-crown-thanks-to-hybrids-tds"
+        "source": "Best Car Web",
+        "time": "2026.6.26",
+        "title": "「アメ車は壊れる」はもう古い!? 実は頑丈で長持ちなモデルも多数！ 意外と知らないアメリカ車の真実とは",
+        "url": "https://bestcarweb.jp/feature/column/1545583"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "『CX-5』新型や「ジムニーノマドVILLAGE」…TOKYO OUTDOOR SHOW 2026 6月26～28日",
-        "url": "https://response.jp/article/2026/06/25/413199.html"
+        "time": "2026.6.26",
+        "title": "『ジムニー』3車種向け「横開き電動リアゲート」が登場！ アルパインニューズ、9万9000円で発売",
+        "url": "https://response.jp/article/2026/06/26/413223.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 テスラ欧州とEV先進国ノルウェー最新動向～ギガ・ベルリン訪問、オランダFSD走行、Nordic EV Summitから～",
-        "url": "https://response.jp/article/2026/06/25/413189.html"
+        "time": "2026.6.26",
+        "title": "『人型重機とフィジカルAI』の社会実装、7月17日にオンラインセミナー…人機一体・金岡博士登壇",
+        "url": "https://response.jp/article/2026/06/25/413182.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 次のステップを模索する中国自動車メーカーの戦略を俯瞰する",
+        "url": "https://response.jp/article/2026/06/26/413215.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.25",
-        "title": "180万700円から買える最後のちょうどいいSUV!! ライズの5ナンバーサイズな価値を再点検!!",
-        "url": "https://bestcarweb.jp/feature/column/1556703"
+        "time": "2026.6.26",
+        "title": "【最終決着】新型エルグランドはアルファードを超えたのか？ 居住性やコスパ 残クレ 納期の違いまで徹底比較!!!",
+        "url": "https://bestcarweb.jp/news/entame/1559601"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.26",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第795回",
+        "url": "https://bestcarweb.jp/feature/column/1532442"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "Astemo Cypremos、レスポンスカンファレンス2026にSDV開発ソリューションを出展へ",
-        "url": "https://response.jp/article/2026/06/25/413196.html"
+        "time": "2026.6.26",
+        "title": "4D LiDARで大型トラック向け次世代安全システム共同開発、AEVAとベンディックス",
+        "url": "https://response.jp/article/2026/06/26/413218.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "CodebeamerとCreo 13が示す新たな価値…SDV時代の開発革新を支えるPTCの戦略",
-        "url": "https://response.jp/article/2026/06/25/413185.html"
+        "time": "2026.6.26",
+        "title": "BYDとCEVA Logistics、世界6大陸をカバーする自動車物流で協力強化…3年間のMOU締結",
+        "url": "https://response.jp/article/2026/06/26/413216.html"
       },
       {
-        "source": "Motor1",
-        "time": "2026.6.25",
-        "title": "Saleswoman Checks Her Instagram Stories. Then She Catches Her Client In 4K With Another Car Dealership: 'Thanks Gary'",
-        "url": "https://www.motor1.com/news/799614/mercedes-client-buys-elsewhere/"
+        "source": "Best Car Web",
+        "time": "2026.6.26",
+        "title": "EV充電の新たな選択肢になる!? 三菱ふそうなどがeキャンターを使ったワイヤレス充電の実証を開始",
+        "url": "https://bestcarweb.jp/fullload/1557673"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "U-NEXT、Google搭載車に対応開始…スマホ不要で車載ディスプレイ視聴が可能に",
-        "url": "https://response.jp/article/2026/06/25/413193.html"
+        "time": "2026.6.26",
+        "title": "GM、米スプリングヒル工場に投資…キャデラックの内燃機関車とターボエンジン強化へ",
+        "url": "https://response.jp/article/2026/06/26/413222.html"
       },
       {
         "source": "Vespa",
-        "time": "2026.6.25",
-        "title": "Vespa “Edizione Ottantesimo”",
-        "url": "https://press.piaggiogroup.com/en_EN/post/show/352931/vespa-edizione-ottantesimo.html"
+        "time": "2026.6.26",
+        "title": "The Vespa 80th anniversary celebrations have begun in Rome",
+        "url": "https://press.piaggiogroup.com/en_EN/post/show/353212/the-vespa-80th-anniversary-cel.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "アドベンチャーからスーパースポーツまで、ドゥカティ、4車種を日本同時発売 353万円から",
-        "url": "https://response.jp/article/2026/06/25/413197.html"
+        "time": "2026.6.26",
+        "title": "VW傘下のCARIAD、AI自動車ソフトウェアキャンパス開設…独ベルリン",
+        "url": "https://response.jp/article/2026/06/26/413229.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.25",
-        "title": "オートバックス「A PIT」、クルマのスポーツカスタムに特化…大阪箕面市に新店舗開業",
-        "url": "https://response.jp/article/2026/06/25/413195.html"
+        "time": "2026.6.26",
+        "title": "アウディA6／A6アバント 新型を発売、「MHEV plus」全車搭載…885万円から",
+        "url": "https://response.jp/article/2026/06/26/413211.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "アップガレージ、横浜で「子どもアドベンチャーカレッジ2026」開催…8月5日",
+        "url": "https://response.jp/article/2026/06/26/413224.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.25",
-        "title": "スマホと連携して愛車を守るカーセキュリティ！加藤電機からiVIPERスマートイモビライザーが新登場",
-        "url": "https://bestcarweb.jp/news/car-accessory/1552018"
+        "time": "2026.6.26",
+        "title": "おじさんの終活車はMT車に決まり！ 自分の思い通りに操れるあの気持ちよさをもう一度！",
+        "url": "https://bestcarweb.jp/news/entame/1561000"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "サンデン、CDP「サプライヤーエンゲージメント評価」で初の最高評価…「A」スコア獲得",
+        "url": "https://response.jp/article/2026/06/26/413228.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "シェフラーとデレール、欧州でドローン量産ライン構築…1日100機生産へ",
+        "url": "https://response.jp/article/2026/06/26/413214.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.26",
+        "title": "シエンタ一強じゃなかった！ 3列シート重視ならフリード!? 取り回し重視ならソリオ!? 注目の代打候補とは",
+        "url": "https://bestcarweb.jp/feature/column/1543334"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "デンソーが「他社牽制力」で首位…自動車部品特許ランキング2025 パテントリザルトしらべ",
+        "url": "https://response.jp/article/2026/06/26/413219.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.26",
+        "title": "トーヨータイヤ、川畑真人選手とマッド・マイク選手が欧州2大自動車イベントに参加 「プロクセス」装着で走行パフォーマンス披露",
+        "url": "https://response.jp/article/2026/06/26/413220.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28182486270",
-    "sha": "49cc25042a9aba9e7bad7281894d042ef2e9e493",
-    "completed_at": "2026-06-25T15:48:41.821Z",
+    "run_id": "28217474946",
+    "sha": "ca5d743a0a0e53e3e3855e1d94d5515b885435af",
+    "completed_at": "2026-06-26T04:39:47.873Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 38,
-    "queued_articles": 38,
-    "processed": 38,
-    "started_at": "2026-06-25T15:47:15.949Z",
-    "finished_at": "2026-06-25T15:48:41.555Z",
+    "scoped_articles": 37,
+    "queued_articles": 37,
+    "processed": 37,
+    "started_at": "2026-06-26T04:38:26.262Z",
+    "finished_at": "2026-06-26T04:39:47.596Z",
     "success": true,
     "error": ""
   }
