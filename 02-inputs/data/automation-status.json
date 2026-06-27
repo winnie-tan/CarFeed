@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-26T15:32:10.824Z",
+    "generated_at": "2026-06-27T04:14:40.336Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 371,
-    "deepseek_untranslated_before_run": 29,
-    "newly_fetched_articles": 29,
-    "newly_fetched_untranslated": 29,
+    "deepseek_translated_before_run": 375,
+    "deepseek_untranslated_before_run": 25,
+    "newly_fetched_articles": 25,
+    "newly_fetched_untranslated": 25,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 29,
+    "translation_queue_count": 25,
     "translation_queue_preview": [
       {
+        "source": "Vespa",
+        "time": "2026.6.27",
+        "title": "“Vespa Roma 2026 - 80 Years of an Icon” is in full swing",
+        "url": "https://press.piaggiogroup.com/en_EN/post/show/353327/vespa-roma-2026-80-years-of-an.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "「スズキスポーツ復活させたのか！」スズキ『スイフト』用AWIN製ボディキット発売にSNS興奮！",
+        "url": "https://response.jp/article/2026/06/27/413260.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "「磐田のホットスポットに」ヤマハの企業ミュージアム「コミュニケーションプラザ」が6月27日リニューアル、若者・女性の来場者に期待",
+        "url": "https://response.jp/article/2026/06/27/413258.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "【CARTUNE】愛車のドライバー目線を投稿しよう！今週の投稿お題は「どんなメーター？」",
+        "url": "https://response.jp/article/2026/06/27/413259.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "【ボルボ EX30クロスカントリー 新型試乗】クルマの評価軸が変わった…中村孝仁",
+        "url": "https://response.jp/article/2026/06/27/413266.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第796回",
+        "url": "https://bestcarweb.jp/feature/column/1532444"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "AIロボット業界がいちばん熱くなった日…ロボスタカンファレンス2026 見逃し配信",
+        "url": "https://response.jp/article/2026/06/27/413261.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "テイン、スバル『プレオ』適合の車高調「フレックスZ」「ストリートベイシスZ」の2製品を発売",
+        "url": "https://response.jp/article/2026/06/27/413267.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "トライアンフ『SPEED400』、全国20店舗でレンタル開始…「レンタル819」",
+        "url": "https://response.jp/article/2026/06/27/413264.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "ホンダ『シビックタイプR』受注停止のままモデルチェンジか？…土曜ニュースランキング",
+        "url": "https://response.jp/article/2026/06/27/413263.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "もはや日本向けと言っても過言じゃない!? 輸入車なのに日本人ウケ抜群なクルマたち",
+        "url": "https://bestcarweb.jp/feature/column/1556026"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "ライズのハイブリッドは今こそ狙い目？ ガソリンとの価格差と走りの違いをチェック",
+        "url": "https://bestcarweb.jp/feature/column/1556711"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "同一車種なのになぜ基本スペックに差が？ ボルボとルノーが長距離バッテリーEVトラックの航続距離を拡大した手法とは!?",
+        "url": "https://bestcarweb.jp/fullload/1558995"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "未来感爆上がりだ!! ライバルとどう違う!? 装備の充実度が半端ない新型キックスを徹底チェック",
+        "url": "https://bestcarweb.jp/feature/column/1560970"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.27",
+        "title": "Woman Tries To Return Her Brand-New Audi. Then They Give Her A Repurchase Agreement: 'I Am Gonna Lose Several Thousand Dollars'",
+        "url": "https://www.motor1.com/news/799917/2025-audi-sq5-repurchase-agreement/"
+      },
+      {
         "source": "Motor1",
         "time": "2026.6.26",
-        "title": "Toyota Has Too Many Models. These Ones Need To Go",
-        "url": "https://www.motor1.com/news/799918/which-toyota-models-should-go/"
+        "title": "Most American-Made Cars Aren't Actually From American Brands",
+        "url": "https://www.motor1.com/news/799965/american-made-cars-2026/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.26",
+        "title": "Man Goes To Toyota Dealership For 4Runner. Then He Calls His Insurance Company To See What His Rate Would Be: 'Don’t Do That'",
+        "url": "https://www.motor1.com/news/799838/toyota-4runner-insurance-costs/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.26",
-        "title": "Inside the Globe-Trotting Tent That Broadcasts F1 Around the World Every Weekend",
-        "url": "https://www.thedrive.com/news/inside-the-globe-trotting-tent-that-broadcasts-f1-around-the-world-every-weekend"
+        "title": "‘Clutch’ Drops an Hour of Gameplay Showcasing Street Racing and Story",
+        "url": "https://www.thedrive.com/news/clutch-drops-an-hour-of-gameplay-showcasing-street-racing-and-story"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.26",
+        "title": "Jeep's Most Expensive Electric Off-Roader Costs Over $78,000",
+        "url": "https://www.motor1.com/news/799952/2026-jeep-recon-configurator-pricing/"
       },
       {
         "source": "The Drive",
         "time": "2026.6.26",
-        "title": "The New Hyundai Elantra Actually Goes Kind of Hard: TDS",
-        "url": "https://www.thedrive.com/news/the-new-hyundai-elantra-actually-goes-kind-of-hard-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.26",
-        "title": "Dodge Could Return To NASCAR Sooner Than Expected",
-        "url": "https://www.motor1.com/news/799914/dodge-nascar-return-possible-2027/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.26",
-        "title": "Domestic Violence Law Has California Car Dealers Sweating July Stop-Sale Deadline",
-        "url": "https://www.thedrive.com/news/domestic-violence-law-has-california-car-dealers-sweating-july-stop-sale-deadline"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.26",
-        "title": "The Corvette ZR1X Is The New King Of Pikes Peak",
-        "url": "https://www.motor1.com/news/799825/corvette-zr1x-pikes-peak-record/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "「サブウーファーボックス」は、使い勝手にもこだわれる！［低音を制する者はカーオーディオを制す］",
-        "url": "https://response.jp/article/2026/06/26/413248.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.26",
-        "title": "「ミニバンなのに走りが別モノ!?」で衝撃だった!! ノア/ヴォクシーにGR SPORTを復活させてよ！",
-        "url": "https://bestcarweb.jp/feature/column/1550684"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "「最強の4WDピックアップ」いすゞ『D-MAX』並行輸入にSNS興奮！積載力にも注目",
-        "url": "https://response.jp/article/2026/06/26/413253.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "『ハイラックス』とSUV『フォーチュナー』をKD生産、豊田通商がラオスに新会社設立へ…2028年生産開始",
-        "url": "https://response.jp/article/2026/06/26/413245.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "3Dガウシアンスプラッティング活用、新サービス「ASK 3DGS」開始…アスク",
-        "url": "https://response.jp/article/2026/06/26/413243.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.26",
-        "title": "888万8000円……で、でも欲しい!! 光岡「M55 RS」は55台限定の6速MT専用!! ケンメリ風デザインがたまらん",
-        "url": "https://bestcarweb.jp/feature/column/1551300"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "BMW X5に「ファイナル・エディション」、22インチホイールやMカーボン・ファイバー・トリム標準…1398万円",
-        "url": "https://response.jp/article/2026/06/26/413235.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "TOYO TIRE、三重県桑名工場に再生可能エネルギー導入…中部電力ミライズとPPA契約締結",
-        "url": "https://response.jp/article/2026/06/26/413241.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "WECARS、秋田店が7月4日オープンへ",
-        "url": "https://response.jp/article/2026/06/26/413251.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.26",
-        "title": "Woman Buys Extended Warranty For Used GMC. Then She Tries To Use It: 'Headed Back To The Dealership For The THIRD Time'",
-        "url": "https://www.motor1.com/news/799834/gmc-yukon-extended-warranty/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "アキュラ『インテグラ』の「タイプS」、FF車の新記録を達成…パイクスピーク 2026",
-        "url": "https://response.jp/article/2026/06/26/413231.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "かに道楽営業車の『カローラ バン』が大人のトミカに、世界に1台の実車を1/64で再現…かにのオブジェが屋根上に",
-        "url": "https://response.jp/article/2026/06/26/413244.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.26",
-        "title": "ソリオはミニバンとして使えるか？ 5ナンバー背高ワゴンの実用力を再点検",
-        "url": "https://bestcarweb.jp/feature/column/1556735"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.26",
-        "title": "ダイナミックマップ、北米交通当局に橋梁・トンネルのクリアランス管理ソリューション提供開始…衝突事故を防ぐ",
-        "url": "https://response.jp/article/2026/06/26/413246.html"
+        "title": "Are Front Bench Seats Making a Comeback in Cars?",
+        "url": "https://www.thedrive.com/news/are-front-bench-seats-making-a-comeback-in-cars"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28248118602",
-    "sha": "102e6bb7b526f472f023421cf92e76f7ad641669",
-    "completed_at": "2026-06-26T15:33:14.340Z",
+    "run_id": "28278276759",
+    "sha": "2008952d88c67f8dc6cbbc626616b5b84a8718da",
+    "completed_at": "2026-06-27T04:15:30.538Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 29,
-    "queued_articles": 29,
-    "processed": 29,
-    "started_at": "2026-06-26T15:32:11.140Z",
-    "finished_at": "2026-06-26T15:33:14.097Z",
+    "scoped_articles": 25,
+    "queued_articles": 25,
+    "processed": 25,
+    "started_at": "2026-06-27T04:14:40.643Z",
+    "finished_at": "2026-06-27T04:15:30.286Z",
     "success": true,
     "error": ""
   }
