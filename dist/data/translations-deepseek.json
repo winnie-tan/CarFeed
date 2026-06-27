@@ -53039,5 +53039,374 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-27T04:15:30.274Z"
+  },
+  "https://www.motor1.com/news/799959/waymo-takes-detour/": {
+    "title_zh": "男子乘 Waymo 从机场回家，10 分钟路程竟花了 45 分钟",
+    "summary_short": "一名男子乘坐 Waymo 无人驾驶出租车从机场回家，原本 10 分钟的路程却花了 45 分钟，引发对无人驾驶路线规划的质疑。",
+    "summary_long": "一名男子在机场叫了一辆 Waymo 无人驾驶出租车回家，通常只需 10 分钟的车程，但这次却花了 45 分钟。他在视频中表示，App 没有提前显示预估时间，他以为只是技术故障，但实际行驶中车辆绕了远路。",
+    "highlights_zh": [
+      "10 分钟路程耗时 45 分钟",
+      "App 未显示预估时间",
+      "乘客怀疑技术故障"
+    ],
+    "entities": [
+      "Waymo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Rqk40e/s1/man-books-waymo-from-airport-to-his-house-10-minutes-away.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:56:56.189Z"
+  },
+  "https://www.thedrive.com/news/weird-experiment-this-hot-wheels-car-drove-13459-scale-miles-in-five-days": {
+    "title_zh": "疯狂实验：风火轮小车 5 天跑完 13459 比例英里",
+    "summary_short": "一辆 1:64 比例的风火轮福特 GT40 在自制测功机上连续运行 5 天，行驶 13459 比例英里，最终车轮磨损失效。",
+    "summary_long": "为纪念福特 GT40 在勒芒 24 小时耐力赛夺冠 60 周年，YouTube 频道 Diecast Endurance 进行了一项疯狂实验：让一辆 1:64 比例的风火轮福特 GT40 Mark IV 在侧放的砂带机上持续运行。小车以 111 比例英里的时速行驶了 5 天 1 小时 10 分 42 秒，累计 13459 比例英里后因前轮磨损锁死而停止。实验全程直播，车轮磨损产生的微塑料碎屑让小车看起来像真车跑完耐力赛。",
+    "highlights_zh": [
+      "1:64 比例风火轮福特 GT40 连续运行 5 天",
+      "行驶 13459 比例英里",
+      "车轮磨损导致前轮锁死",
+      "砂带机充当测功机"
+    ],
+    "entities": [
+      "风火轮 | Hot Wheels",
+      "福特 GT40 | Ford GT40",
+      "Diecast Endurance"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-11.15.28-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-10.48.04-AM.jpeg?strip=all",
+      "https://i.ytimg.com/vi/nfJcbywiA8g/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:56:57.075Z"
+  },
+  "https://www.motor1.com/news/799934/bmw-would-love-new-m1-supercar/": {
+    "title_zh": "宝马称“很乐意”推出新 M1 超跑",
+    "summary_short": "宝马 M 部门 CEO 表示渴望推出新 M1 超跑，但短期内不会实现，因行业前景不确定且投资巨大。",
+    "summary_long": "宝马 M 部门 CEO Frank van Meel 在接受采访时表示，他非常喜爱原版 M1，并渴望推出新一代车型。M 设计负责人 Oliver Heilmer 也表达了类似想法。然而，尽管宝马曾多次考虑推出 M1 继任者，甚至基于 2019 年 Vision M Next 概念车开发了一款 600 马力四缸插电混动超跑，并已完成 95%，但最终因公司战略调整，将重心转向 XM SUV，并宣称 XM 是 M1 的继任者。XM 市场表现未达预期，宝马已停产基础版并降价。考虑到行业未来不确定性，开发中置引擎超跑需要巨额投资，而低产量车型难以收回成本，因此新 M1 短期内不会问世。",
+    "highlights_zh": [
+      "宝马 M CEO 称“很乐意”造新 M1",
+      "Vision M Next 概念车曾接近量产",
+      "宝马最终选择 XM SUV 作为 M1 精神继任者",
+      "新 M1 短期内不会推出"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 M | BMW M",
+      "M1",
+      "XM",
+      "Vision M Next"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJLO8/s1/bmw-m-vision-next.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:00.918Z"
+  },
+  "https://response.jp/article/2026/06/27/413272.html": {
+    "title_zh": "标致 408 改款设计引热议：蛇牙大灯获赞，性价比受关注",
+    "summary_short": "标致 408 改款发布，蛇牙大灯设计获赞，性价比受关注，售价 559 万日元。",
+    "summary_long": "标致 408 改款车型发布，售价 559 万日元。新车采用最新设计语言，前脸狮爪痕灯组与格栅融合，配备发光狮标和黑色运动套件。尾部首次使用发光 PEUGEOT 字母标识，搭配新 19 寸轮毂。SNS 上用户称赞其蛇牙大灯设计帅气，并认为性价比高。",
+    "highlights_zh": [
+      "蛇牙大灯设计获赞",
+      "发光狮标与尾标",
+      "售价 559 万日元",
+      "性价比受关注"
+    ],
+    "entities": [
+      "标致",
+      "408",
+      "狮爪痕灯组",
+      "发光狮标",
+      "i-Cockpit"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222751.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222751.jpg",
+      "https://response.jp/imgs/fill2/2222367.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:01.465Z"
+  },
+  "https://press.piaggiogroup.com/en_EN/post/show/353329/25000-vespa-from-67-countries-.html": {
+    "title_zh": "2.5 万辆 Vespa 齐聚罗马巡游，庆祝 80 周年",
+    "summary_short": "来自 67 个国家的 2.5 万辆 Vespa 在罗马举行史上最大规模巡游，庆祝品牌诞生 80 周年。",
+    "summary_long": "为庆祝 Vespa 诞生 80 周年，来自 67 个国家的 2.5 万名 Vespa 车主驾驶爱车在罗马举行了一场盛大的巡游活动，这是有史以来规模最大的 Vespa 集会。Vespa 自 1946 年诞生以来，已成为全球风格与优雅的象征，此次巡游以罗马雄伟的建筑为背景，展现了这一经典踏板车的持久魅力。",
+    "highlights_zh": [
+      "2.5 万辆 Vespa 参与巡游",
+      "来自 67 个国家",
+      "庆祝诞生 80 周年",
+      "史上最大规模 Vespa 集会"
+    ],
+    "entities": [
+      "Vespa"
+    ],
+    "gallery_images": [
+      "https://media.lulop.com/media/getimage/l/353329/3/640,480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:04.878Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535872": {
+    "title_zh": "【读错很尴尬！？】这些难读地名你会吗？「喜屋武」",
+    "summary_short": "日本各地存在许多容易读错的地名，本文介绍冲绳的难读地名“喜屋武”及其周边观光信息。",
+    "summary_long": "日本各地存在许多容易读错的地名，在重要场合读错可能会感到尴尬。本文作为系列企划之一，介绍冲绳特有的难读地名“喜屋武”（读作“きゃん”），该地名出现在糸满市、宇流麻市和南风原町。文章还提及糸满市的和平纪念公园和姬百合之塔等历史遗迹，让读者在学习地名读法的同时，了解当地文化和历史。",
+    "highlights_zh": [
+      "冲绳难读地名“喜屋武”读作“きゃん”",
+      "糸满市有和平纪念公园和姬百合之塔",
+      "文章结合观光信息介绍难读地名"
+    ],
+    "entities": [
+      "喜屋武",
+      "糸满市",
+      "宇流麻市",
+      "南风原町",
+      "冲绳"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114713/ce11032de207148f031b4c072b085467.jpg?v=1780195634",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114713/ce11032de207148f031b4c072b085467-600x400.jpg?v=1780195634",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23111835/AD4I0017_1-600x400.jpg?v=1782181116"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:05.281Z"
+  },
+  "https://response.jp/article/2026/06/27/413269.html": {
+    "title_zh": "宇树科技发布人形机器人 R1，售价约 73 万元",
+    "summary_short": "中国宇树科技发布人形机器人 R1，售价 4900 美元起，约 73 万日元，可流畅完成杂技动作。",
+    "summary_long": "中国机器人制造商宇树科技于 2026 年 6 月 24 日发布了新型人形机器人 R1，售价从 4900 美元（约 73 万日元）起，并显示有库存可售。此前人形机器人系列价格通常在数百万至数千万日元，R1 定位为入门级。公开视频中机器人实时流畅地表演杂技动作，并标注“实时拍摄，无加速”，证明非 CG 或加速处理。宇树科技在四足机器人及人形机器人领域已获全球认可，其技术积累充分应用于 R1。",
+    "highlights_zh": [
+      "售价 4900 美元起",
+      "实时表演流畅杂技动作",
+      "定位入门级人形机器人",
+      "宇树科技技术积累的体现"
+    ],
+    "entities": [
+      "宇树科技 | Unitree",
+      "R1"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222587.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222584.jpg",
+      "https://response.jp/imgs/zoom1/2222588.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:08.896Z"
+  },
+  "https://response.jp/article/2026/06/27/413268.html": {
+    "title_zh": "本田栃木车队在铃鹿 8 耐赛车上采用废料回收 3D 打印部件",
+    "summary_short": "本田栃木车队与名古屋工艺合作，将车灯废树脂回收制成 3D 打印号码牌，用于铃鹿 8 耐赛车。",
+    "summary_long": "参加铃鹿 8 小时耐力赛的本田栃木车队，其赛车上采用了由汽车废料回收制成的 3D 打印部件。该部件为号码牌，由有限会社名古屋工艺利用车灯树脂废料开发。本田栃木车队由本田技研工业栃木地区员工组成，此次合作实现了从废料粉碎到 3D 打印的全流程。使用的 3D 打印机为捷克 Prusa Research 公司的 Prusa Pro HT90。",
+    "highlights_zh": [
+      "废车灯树脂回收制成 3D 打印号码牌",
+      "用于铃鹿 8 耐赛车",
+      "本田栃木车队与名古屋工艺合作",
+      "采用捷克 Prusa Pro HT90 打印机"
+    ],
+    "entities": [
+      "本田栃木车队 | Honda Tochigi Racing",
+      "名古屋工艺",
+      "铃鹿 8 耐 | Suzuka 8 Hours",
+      "Prusa Pro HT90"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222479.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222479.jpg",
+      "https://response.jp/imgs/fill2/2222480.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:11.039Z"
+  },
+  "https://www.motor1.com/news/799849/durango-pentastar-engine/": {
+    "title_zh": "机械师警告 Pentastar 发动机：超期换油后果严重",
+    "summary_short": "机械师检查道奇 Durango 时发现机油严重缺失，警告 Pentastar 发动机不耐长期不换油。",
+    "summary_long": "一位机械师在检查搭载 Pentastar 发动机的道奇 Durango 时，发现车辆已超过 7000 英里未换机油，油标尺显示机油量极低，机油颜色深如巧克力，滤芯壳内还有塑料碎片。机械师强调，3.6 升 Pentastar 发动机对长换油间隔非常敏感，超期保养会严重影响发动机寿命。",
+    "highlights_zh": [
+      "油标尺显示机油几乎见底",
+      "机油颜色如巧克力河般漆黑",
+      "滤芯壳内发现塑料碎片",
+      "Pentastar 发动机不耐长换油间隔"
+    ],
+    "entities": [
+      "道奇",
+      "Durango",
+      "Pentastar 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m82A0/s1/mechanic-works-on-car.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:12.810Z"
+  },
+  "https://bestcarweb.jp/feature/column/1549403": {
+    "title_zh": "SUV 全盛时代，回顾五十铃硬派 SUV 的魅力",
+    "summary_short": "五十铃在 2010 年退出国内乘用车市场前，曾推出多款硬派 SUV，如罗迪欧·比格霍恩、维克斯等，至今仍令人怀念。",
+    "summary_long": "在 SUV 盛行的当下，回顾那些曾由五十铃推出的硬派 SUV，别具魅力。五十铃于 2010 年退出国内乘用车市场，但在此之前曾推出多款经典硬派 SUV，如 1981 年基于罗迪欧 4WD 底盘打造的罗迪欧·比格霍恩，提供短轴和长轴版本，后续还有柴油涡轮增压旅行车。1987 年增加了配备 Recaro 座椅的硬派版本“伊尔姆舍”，1990 年推出“特别版·路特斯”。第二代车型于 1991 年登场，搭载 3.2L V6 DOHC 或柴油涡轮增压发动机，动力强劲。伊尔姆舍和路特斯版本均坚持采用分时四驱系统。1997 年推出造型独特的维克斯，1998 年推出第二代双门短轴缪和四门长轴维扎德。",
+    "highlights_zh": [
+      "五十铃 2010 年退出国内乘用车市场",
+      "1981 年推出罗迪欧·比格霍恩",
+      "1997 年推出造型独特的维克斯",
+      "坚持分时四驱系统"
+    ],
+    "entities": [
+      "五十铃",
+      "罗迪欧·比格霍恩",
+      "维克斯",
+      "缪",
+      "维扎德"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17114904/M10_2117_1_1.jpg?v=1781664545",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17114904/M10_2117_1_1-600x400.jpg?v=1781664545",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23111835/AD4I0017_1-600x400.jpg?v=1782181116"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:16.073Z"
+  },
+  "https://response.jp/article/2026/06/27/413273.html": {
+    "title_zh": "空力套件不能只看外观？改变操控的空气动力学调校基础",
+    "summary_short": "空力套件不仅是装饰，更影响高速稳定性、过弯和制动。选装需权衡下压力与阻力，避免破坏平衡。",
+    "summary_long": "汽车的空气动力学调校是兼顾下压力与降低阻力的高级技术。空气阻力随速度平方增加，高速时空气会像透明墙一样影响车身，因此空力套件是功能部件，而非单纯装饰。下压力可提升抓地力，但也会增加阻力，导致极速下降、油耗恶化或前后平衡失调。选装时需考虑“在哪里生效”以及“哪里会产生负面影响”。前唇扰流板是典型部件，它限制车底气流，防止车身浮起。在赛车或低趴车型中，车底气流可产生负压，形成强大下压力，关键不在于风直接吹压车身，而在于控制进入车底的空气量和流向。",
+    "highlights_zh": [
+      "空力套件是功能件",
+      "下压力提升抓地力",
+      "前唇扰流板限制车底气流",
+      "车底负压产生强下压力"
+    ],
+    "entities": [
+      "空力套件",
+      "下压力",
+      "空气阻力",
+      "前唇扰流板",
+      "车底气流"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222558.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222558.jpg",
+      "https://response.jp/imgs/p/2lMgPWAa6QGqet-mNL0FG4RP30HRQkNERUZH/1862484.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:18.285Z"
+  },
+  "https://response.jp/article/2026/06/27/413275.html": {
+    "title_zh": "杜卡迪 Panigale V4 因刹车拖滞隐患在日本召回",
+    "summary_short": "杜卡迪在日本召回 Panigale V4 和 V4 S，因后刹车踏板销轴设计缺陷可能导致锈蚀、踏板卡滞，引发刹车拖滞。",
+    "summary_long": "杜卡迪日本公司于 6 月 19 日向日本国土交通省提交召回申请，涉及 2024 年 9 月 23 日至 2025 年 9 月 22 日期间进口的 Panigale V4 和 Panigale V4 S 共 295 台。缺陷源于后刹车踏板与推杆连接的枢轴销设计考量不足，该销可能生锈，导致踏板动作卡滞，严重时可能造成刹车拖滞。解决方案是为所有车辆更换改良后的枢轴销。",
+    "highlights_zh": [
+      "涉及 Panigale V4 和 V4 S 共 29…",
+      "后刹车踏板枢轴销可能生锈",
+      "严重时导致刹车拖滞",
+      "免费更换改良销轴"
+    ],
+    "entities": [
+      "杜卡迪",
+      "Panigale V4",
+      "Panigale V4 S",
+      "日本",
+      "召回"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222316.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222316.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:19.673Z"
+  },
+  "https://bestcarweb.jp/feature/column/1555290": {
+    "title_zh": "日产 Note：通勤最强紧凑车？",
+    "summary_short": "日产 Note 凭借 e-POWER 系统，在油耗、静谧性和单踏板驾驶感上表现优异，成为通勤首选。",
+    "summary_long": "日产 Note 作为 e-POWER 专用紧凑型车，以 232 万 8700 日元起售，主打日常通勤的舒适性。其第二代 e-POWER 系统让发动机仅用于发电，电机驱动车轮，带来平顺起步和安静驾驶体验。WLTC 油耗达 28.4km/L，车身尺寸紧凑（长 4045mm、宽 1695mm、高 1520mm），适合狭窄道路和立体停车场。单踏板控制感减少刹车操作，缓解通勤疲劳。",
+    "highlights_zh": [
+      "e-POWER 系统起步平顺",
+      "WLTC 油耗 28.4km/L",
+      "5 号车身尺寸",
+      "单踏板控制减少右脚负担"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23111835/AD4I0017_1.jpg?v=1782181116",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23111835/AD4I0017_1-600x400.jpg?v=1782181116",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114713/ce11032de207148f031b4c072b085467-600x400.jpg?v=1780195634"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:22.530Z"
+  },
+  "https://response.jp/article/2026/06/27/413274.html": {
+    "title_zh": "Vespa Primavera & Sprint 2026 款发布，80 周年纪念版同步登场",
+    "summary_short": "Vespa Primavera 和 Sprint 2026 款发布，发动机升级至 174cc，功率提升 20%，油耗降低 12%，新增彩色 LCD 仪表。",
+    "summary_long": "Piaggio 集团日本公司于 6 月 26 日发布了 Vespa Primavera 和 Sprint 的 2026 年款，包括两款特别版共 6 个车型，售价 53.35 万至 63.25 万日元。新款发动机排量从 155cc 增至 174cc，最大功率提升 20%至 14.8 马力，油耗改善 12%至 43.1km/L。全系标配新设计的彩色 LCD 仪表，可选装 Vespa MIA 多媒体平台实现来电、短信和音乐控制。Primavera 提供 125cc 和 180cc 两种动力，外观细节更新，新增 4 种车身颜色。",
+    "highlights_zh": [
+      "发动机排量增至 174cc",
+      "油耗改善 12%",
+      "新增彩色 LCD 仪表及多媒体平台",
+      "Primavera 提供 125cc 和 180cc…"
+    ],
+    "entities": [
+      "ベスパ",
+      "プリマベーラ",
+      "スプリント",
+      "ピアッジオ"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222489.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222489.jpg",
+      "https://response.jp/imgs/fill2/2222490.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:23.911Z"
+  },
+  "https://bestcarweb.jp/feature/column/1524734": {
+    "title_zh": "丰田 iQ：超前 10 年的微型车理念，如今若复活能否大卖？",
+    "summary_short": "丰田 iQ 曾获日本年度车型等大奖，但销量不佳。如今 EV 时代，其超短车身与空间设计理念值得重新审视。",
+    "summary_long": "2008 年推出的丰田 iQ 是一款全长不足 3 米却可容纳 4 人的微型车，曾获日本年度车型和好设计奖，但市场表现平平。其通过 6 项创新技术实现极短前后悬与 2 米轴距，包括差速器反转布局、超薄油箱置于前座地板下、薄型座椅靠背等。如今电动化时代，iQ 的紧凑理念可能更适合作为 EV 复活。",
+    "highlights_zh": [
+      "全长不足 3 米",
+      "6 项创新技术实现空间最大化",
+      "差速器反转布局缩短前悬",
+      "超薄油箱置于前座地板下"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "iQ",
+      "日本年度车型",
+      "好设计奖",
+      "EV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/19170748/images_toyota_iq_2009_5-1.jpg?v=1779178069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/19170748/images_toyota_iq_2009_5-1-600x450.jpg?v=1779178069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23111835/AD4I0017_1-600x400.jpg?v=1782181116"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:27.020Z"
+  },
+  "https://www.motor1.com/news/799921/chevrolet-dealership-3-times-same-issue/": {
+    "title_zh": "车主三次更换同一尾灯，经销商免费解决",
+    "summary_short": "一位雪佛兰 Equinox 车主因尾灯进水问题三次前往经销商，最终免费修复，引发网友对服务质量的讨论。",
+    "summary_long": "一位车主在经销商处购买雪佛兰 Equinox 后，因尾灯进水问题三次返回更换同一部件。经销商最终找到原因并免费修复，这一服务态度获得网友称赞。视频在 TikTok 上引发关注，展示了经销商如何解决反复出现的尾灯故障。",
+    "highlights_zh": [
+      "车主三次更换尾灯",
+      "经销商免费修复",
+      "尾灯进水是根源",
+      "服务获网友点赞"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Equinox",
+      "尾灯",
+      "经销商",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJXvO/s1/man-buys-a-chevrolet-from-dealership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-27T14:57:27.570Z"
   }
 }

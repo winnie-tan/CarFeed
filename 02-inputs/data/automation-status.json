@@ -1,155 +1,131 @@
 {
   "workflow": {
-    "generated_at": "2026-06-27T04:14:40.336Z",
+    "generated_at": "2026-06-27T14:56:52.498Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 375,
-    "deepseek_untranslated_before_run": 25,
-    "newly_fetched_articles": 25,
-    "newly_fetched_untranslated": 25,
-    "backlog_untranslated": 1,
+    "deepseek_translated_before_run": 384,
+    "deepseek_untranslated_before_run": 16,
+    "newly_fetched_articles": 16,
+    "newly_fetched_untranslated": 16,
+    "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 25,
+    "translation_queue_count": 16,
     "translation_queue_preview": [
+      {
+        "source": "Motor1",
+        "time": "2026.6.27",
+        "title": "Man Books Waymo From Airport To His House 10 Minutes Away. Then He Sees How Long It Actually Takes Him To Get There: 'I Hit Start'",
+        "url": "https://www.motor1.com/news/799959/waymo-takes-detour/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.27",
+        "title": "Weird Experiment: This Hot Wheels Car Drove 13,459 Scale Miles in Five Days",
+        "url": "https://www.thedrive.com/news/weird-experiment-this-hot-wheels-car-drove-13459-scale-miles-in-five-days"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.27",
+        "title": "BMW Says It Would 'Love' A New M1",
+        "url": "https://www.motor1.com/news/799934/bmw-would-love-new-m1-supercar/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "「蛇の牙みたいなライト素敵」プジョー『408』改良新型のデザインがSNSで話題に！ コスパにも注目",
+        "url": "https://response.jp/article/2026/06/27/413272.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「喜屋武」",
+        "url": "https://bestcarweb.jp/feature/column/1535872"
+      },
       {
         "source": "Vespa",
         "time": "2026.6.27",
-        "title": "“Vespa Roma 2026 - 80 Years of an Icon” is in full swing",
-        "url": "https://press.piaggiogroup.com/en_EN/post/show/353327/vespa-roma-2026-80-years-of-an.html"
+        "title": "25,000 Vespa from 67 countries parade through Rome",
+        "url": "https://press.piaggiogroup.com/en_EN/post/show/353329/25000-vespa-from-67-countries-.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.27",
-        "title": "「スズキスポーツ復活させたのか！」スズキ『スイフト』用AWIN製ボディキット発売にSNS興奮！",
-        "url": "https://response.jp/article/2026/06/27/413260.html"
+        "title": "70万円台で購入可能なヒューマノイド…Unitree『R1』［動画］",
+        "url": "https://response.jp/article/2026/06/27/413269.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.27",
-        "title": "「磐田のホットスポットに」ヤマハの企業ミュージアム「コミュニケーションプラザ」が6月27日リニューアル、若者・女性の来場者に期待",
-        "url": "https://response.jp/article/2026/06/27/413258.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.27",
-        "title": "【CARTUNE】愛車のドライバー目線を投稿しよう！今週の投稿お題は「どんなメーター？」",
-        "url": "https://response.jp/article/2026/06/27/413259.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.27",
-        "title": "【ボルボ EX30クロスカントリー 新型試乗】クルマの評価軸が変わった…中村孝仁",
-        "url": "https://response.jp/article/2026/06/27/413266.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.27",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第796回",
-        "url": "https://bestcarweb.jp/feature/column/1532444"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.27",
-        "title": "AIロボット業界がいちばん熱くなった日…ロボスタカンファレンス2026 見逃し配信",
-        "url": "https://response.jp/article/2026/06/27/413261.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.27",
-        "title": "テイン、スバル『プレオ』適合の車高調「フレックスZ」「ストリートベイシスZ」の2製品を発売",
-        "url": "https://response.jp/article/2026/06/27/413267.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.27",
-        "title": "トライアンフ『SPEED400』、全国20店舗でレンタル開始…「レンタル819」",
-        "url": "https://response.jp/article/2026/06/27/413264.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.27",
-        "title": "ホンダ『シビックタイプR』受注停止のままモデルチェンジか？…土曜ニュースランキング",
-        "url": "https://response.jp/article/2026/06/27/413263.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.27",
-        "title": "もはや日本向けと言っても過言じゃない!? 輸入車なのに日本人ウケ抜群なクルマたち",
-        "url": "https://bestcarweb.jp/feature/column/1556026"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.27",
-        "title": "ライズのハイブリッドは今こそ狙い目？ ガソリンとの価格差と走りの違いをチェック",
-        "url": "https://bestcarweb.jp/feature/column/1556711"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.27",
-        "title": "同一車種なのになぜ基本スペックに差が？ ボルボとルノーが長距離バッテリーEVトラックの航続距離を拡大した手法とは!?",
-        "url": "https://bestcarweb.jp/fullload/1558995"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.27",
-        "title": "未来感爆上がりだ!! ライバルとどう違う!? 装備の充実度が半端ない新型キックスを徹底チェック",
-        "url": "https://bestcarweb.jp/feature/column/1560970"
+        "title": "Honda Tochigi Racing、廃材リサイクルの3Dプリント部品を「鈴鹿8耐」マシンに採用",
+        "url": "https://response.jp/article/2026/06/27/413268.html"
       },
       {
         "source": "Motor1",
         "time": "2026.6.27",
-        "title": "Woman Tries To Return Her Brand-New Audi. Then They Give Her A Repurchase Agreement: 'I Am Gonna Lose Several Thousand Dollars'",
-        "url": "https://www.motor1.com/news/799917/2025-audi-sq5-repurchase-agreement/"
+        "title": "Mechanic Works On Popular Car. Then He Offers Warning On Pentastar Engines: \"Oh my God. Can You Guys See That?\"",
+        "url": "https://www.motor1.com/news/799849/durango-pentastar-engine/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "SUV全盛のイマこそ見直したい!! かつていすゞが送り出していた硬派SUVが魅力的すぎる!!",
+        "url": "https://bestcarweb.jp/feature/column/1549403"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "エアロパーツは見た目だけで選ぶと危ない？ 走りを変える空力チューニングの基本～カスタムHOW TO～",
+        "url": "https://response.jp/article/2026/06/27/413273.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "ドゥカティ『パニガーレV4』をリコール…ブレーキが引きずるおそれ",
+        "url": "https://response.jp/article/2026/06/27/413275.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "ノートって通勤最強コンパクトじゃね？ 燃費、静かさ、ワンペダル感覚で見る毎日の快適性",
+        "url": "https://bestcarweb.jp/feature/column/1555290"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.27",
+        "title": "ベスパ『プリマベーラ』『スプリント』2026年モデル発売 80周年記念車も登場",
+        "url": "https://response.jp/article/2026/06/27/413274.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.27",
+        "title": "今なら大ヒット!? トヨタ「iQ」の思想は10年早すぎた！ 今こそ復活してほしい全長3m切りのクルマとは",
+        "url": "https://bestcarweb.jp/feature/column/1524734"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.26",
-        "title": "Most American-Made Cars Aren't Actually From American Brands",
-        "url": "https://www.motor1.com/news/799965/american-made-cars-2026/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.26",
-        "title": "Man Goes To Toyota Dealership For 4Runner. Then He Calls His Insurance Company To See What His Rate Would Be: 'Don’t Do That'",
-        "url": "https://www.motor1.com/news/799838/toyota-4runner-insurance-costs/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.26",
-        "title": "‘Clutch’ Drops an Hour of Gameplay Showcasing Street Racing and Story",
-        "url": "https://www.thedrive.com/news/clutch-drops-an-hour-of-gameplay-showcasing-street-racing-and-story"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.26",
-        "title": "Jeep's Most Expensive Electric Off-Roader Costs Over $78,000",
-        "url": "https://www.motor1.com/news/799952/2026-jeep-recon-configurator-pricing/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.26",
-        "title": "Are Front Bench Seats Making a Comeback in Cars?",
-        "url": "https://www.thedrive.com/news/are-front-bench-seats-making-a-comeback-in-cars"
+        "time": "2026.6.27",
+        "title": "Man Buys A Chevrolet From Dealership. Then He Has To Replace The Same Part 3 Times: 'This Is Getting Ridiculous'",
+        "url": "https://www.motor1.com/news/799921/chevrolet-dealership-3-times-same-issue/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28278276759",
-    "sha": "2008952d88c67f8dc6cbbc626616b5b84a8718da",
-    "completed_at": "2026-06-27T04:15:30.538Z",
+    "run_id": "28292706079",
+    "sha": "1d01d0e4fda3d8f8444f9355d71dce69033f5ee7",
+    "completed_at": "2026-06-27T14:57:27.830Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
-    "deepseek_translated_after_run": 399,
-    "deepseek_untranslated_after_run": 1,
+    "deepseek_translated_after_run": 400,
+    "deepseek_untranslated_after_run": 0,
     "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 25,
-    "queued_articles": 25,
-    "processed": 25,
-    "started_at": "2026-06-27T04:14:40.643Z",
-    "finished_at": "2026-06-27T04:15:30.286Z",
+    "scoped_articles": 16,
+    "queued_articles": 16,
+    "processed": 16,
+    "started_at": "2026-06-27T14:56:52.803Z",
+    "finished_at": "2026-06-27T14:57:27.584Z",
     "success": true,
     "error": ""
   }
