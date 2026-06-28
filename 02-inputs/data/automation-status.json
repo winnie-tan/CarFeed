@@ -1,128 +1,98 @@
 {
   "workflow": {
-    "generated_at": "2026-06-28T04:48:04.552Z",
+    "generated_at": "2026-06-28T14:58:19.785Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 382,
-    "deepseek_untranslated_before_run": 18,
-    "newly_fetched_articles": 18,
-    "newly_fetched_untranslated": 18,
+    "deepseek_translated_before_run": 387,
+    "deepseek_untranslated_before_run": 13,
+    "newly_fetched_articles": 13,
+    "newly_fetched_untranslated": 13,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 18,
+    "translation_queue_count": 13,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.6.28",
-        "title": "“Vスペシャル”に“Jリミテッド”…時代を彩った、初代『ロードスター』の限定車たち【懐かしのカーカタログ】",
-        "url": "https://response.jp/article/2026/06/28/413285.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "「これ選んどけば間違いない」新型マツダ『ロードスターPS』にファン注目！ SNSでは「お買い得」の声も",
-        "url": "https://response.jp/article/2026/06/28/413279.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "「赤信号」がパッと目に飛び込むSWANS「ドライビングサングラス」の実力!! 2026年6月30日まで限定販売中",
-        "url": "https://bestcarweb.jp/news/car-accessory/1562392"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "【シボレー コルベット Z06 新型試乗】ノーマルとは別物、まさに「洗練の極み」…中村孝仁",
-        "url": "https://response.jp/article/2026/06/28/413282.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「kph」",
-        "url": "https://bestcarweb.jp/feature/column/1530965"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "300万円以下もアリ！ チャレンジャーって意外に安いの!? アメリカンマッスルカーの中古相場とは",
-        "url": "https://bestcarweb.jp/feature/column/1544694"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "グリーンスローモビリティで花の街を巡る、ヤマハ発動機が北海道・恵庭市の実証運行に協力",
-        "url": "https://response.jp/article/2026/06/28/413284.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "スマホスタンドやコインケースを一体化、ホンダ『N-VAN』用「ダッシュボードトレイ」発売",
-        "url": "https://response.jp/article/2026/06/28/413286.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "ダンロップ、モトクロス競技専用タイヤ「ジオマックスMX54」を7月1日発売",
-        "url": "https://response.jp/article/2026/06/28/413281.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "デイトナ、森町の本社テストコースで第15回「茶ミーティング」9月26日開催へ",
-        "url": "https://response.jp/article/2026/06/28/413287.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "ルークスを買うならS、X、ハイウェイスターXどれが正解？ 価格差と装備で選ぶベストグレード",
-        "url": "https://bestcarweb.jp/feature/column/1552605"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "乗るなら最後のチャンスかも!? 大排気量V8を味わえるアメリカンスポーツ！ 5代目シボレー「カマロ」を狙う",
-        "url": "https://bestcarweb.jp/feature/column/1544673"
+        "title": "EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: Study",
+        "url": "https://www.thedrive.com/news/evs-really-are-better-for-the-planet-than-gas-cars-but-their-power-source-matters-study"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.27",
-        "title": "Mercedes-Benz Dealership Tells Woman She Needs A $12,600 Repair. Then She Catches A Worker In A Lie: 'Broke Down In Tears'",
-        "url": "https://www.motor1.com/news/799968/mercedes-benz-dealership-complaint/"
+        "time": "2026.6.28",
+        "title": "McMurtry Teases Production Version Of Its Wild Electric Hypercar",
+        "url": "https://www.motor1.com/news/799930/mcmurtry-speirling-pure-teaser/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.6.27",
-        "title": "Hyundai and Kia Want To Sanitize Car Interiors With UV Light",
-        "url": "https://www.thedrive.com/news/hyundai-and-kia-want-to-sanitize-car-interiors-with-uv-light"
+        "source": "Vespa",
+        "time": "2026.6.28",
+        "title": "“Vespa Roma 2026 - 80 Years of an Icon” comes to a close in Rome",
+        "url": "https://press.piaggiogroup.com/en_EN/post/show/353334/vespa-roma-2026-80-years-of-an.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.28",
+        "title": "「ギャラン、ランエボを復活させないのですか」株主総会で三菱の社長＆会長に質問した株主へ直撃取材「三菱といったらパリダカとラリーでしょう」",
+        "url": "https://bestcarweb.jp/news/business/1562253"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.28",
+        "title": "「飛びついちゃうよね」第3のエコカーがフルモデルチェンジ!? 次期ダイハツ『ミライース』に期待の声",
+        "url": "https://response.jp/article/2026/06/28/413291.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.28",
+        "title": "1,000km先の東京都「小笠原諸島」!! ここへの行き方＋現地の交通手段ってどんなですか?",
+        "url": "https://bestcarweb.jp/busmagazine/1556863"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.27",
-        "title": "Woman Goes To USA Gas For Fuel. Then She Realizes Their Gas Is Ethanol Free: 'This Is More Than I Usually Have'",
-        "url": "https://www.motor1.com/news/799963/ethanol-free-gas-hyundai/"
+        "time": "2026.6.28",
+        "title": "Woman Buys A New Lexus. Then She Realizes It Only Has A 14-Gallon Gas Tank",
+        "url": "https://www.motor1.com/news/799955/lexus-gx-550-gas-tank/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.6.27",
-        "title": "Ian Callum Didn’t Design the Jaguar XJ220, but This Is What It Would Look Like if He Did",
-        "url": "https://www.thedrive.com/news/ian-callum-didnt-design-the-jaguar-xj220-but-this-is-what-it-would-look-like-if-he-did"
+        "source": "Best Car Web",
+        "time": "2026.6.28",
+        "title": "アルファードとは逆転の発想!! カローラなのに7人乗れた！ カローラスパシオが示したコンパクトミニバンの理想形",
+        "url": "https://bestcarweb.jp/feature/column/1557629"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.28",
+        "title": "サイン・ハウス、新通信方式「B+FLEX」搭載インカム『B+COM 7X』発売 価格は4万9500円",
+        "url": "https://response.jp/article/2026/06/28/413288.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.28",
+        "title": "スバル『レガシィ』B4＆ワゴン用が登場、テインの新純正互換ショックアブソーバー「エンデュラ・プロ・ベーシック」",
+        "url": "https://response.jp/article/2026/06/28/413290.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.28",
+        "title": "マスタングが400万円で手に入る!? 314馬力の直4ターボでも十分速い！ 中古で狙うなら今だった！",
+        "url": "https://bestcarweb.jp/feature/column/1545085"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.28",
+        "title": "ミニ クーパー 5ドアは国産ハッチバックの上級版か？ 小さくても濃いプレミアム感!!",
+        "url": "https://bestcarweb.jp/feature/column/1538977"
       },
       {
         "source": "Motor1",
-        "time": "2026.6.27",
-        "title": "Christian Von Koenigsegg On EVs And The Future Of Internal Combustion: Interview",
-        "url": "https://www.motor1.com/news/799947/koenigsegg-interview-evs-synthetic-fuels-combustion-engines/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.6.27",
-        "title": "Old vs. New Chevy Blazer Crash Test Shows How Much Safety Has Improved Since the ’90s",
-        "url": "https://www.thedrive.com/news/1996-vs-2026-chevy-blazer-crash-test-shows-how-much-safety-has-improved-since-the-90s"
+        "time": "2026.6.28",
+        "title": "Toyota Camry Driver Finds Brakes And Rotors On Advance Auto Parts For $68.99. Then She Goes To RockAuto: ‘That's Insane'",
+        "url": "https://www.motor1.com/news/799992/toyota-rockauto-brakes/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28311718195",
-    "sha": "4d30daf23291eaabf838d7ebf4089e3b0aef4112",
-    "completed_at": "2026-06-28T04:48:51.000Z",
+    "run_id": "28326179614",
+    "sha": "c61fa699cc30bf7dae088d1b3c5c3a4ac184fbc9",
+    "completed_at": "2026-06-28T14:58:47.798Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -133,11 +103,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 18,
-    "queued_articles": 18,
-    "processed": 18,
-    "started_at": "2026-06-28T04:48:04.838Z",
-    "finished_at": "2026-06-28T04:48:50.776Z",
+    "scoped_articles": 13,
+    "queued_articles": 13,
+    "processed": 13,
+    "started_at": "2026-06-28T14:58:20.104Z",
+    "finished_at": "2026-06-28T14:58:47.556Z",
     "success": true,
     "error": ""
   }
