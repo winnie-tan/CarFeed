@@ -1,98 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-06-28T14:58:19.785Z",
+    "generated_at": "2026-06-29T04:57:37.888Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 387,
-    "deepseek_untranslated_before_run": 13,
-    "newly_fetched_articles": 13,
-    "newly_fetched_untranslated": 13,
+    "deepseek_translated_before_run": 368,
+    "deepseek_untranslated_before_run": 32,
+    "newly_fetched_articles": 32,
+    "newly_fetched_untranslated": 32,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 13,
+    "translation_queue_count": 32,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.6.28",
-        "title": "EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: Study",
-        "url": "https://www.thedrive.com/news/evs-really-are-better-for-the-planet-than-gas-cars-but-their-power-source-matters-study"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.28",
-        "title": "McMurtry Teases Production Version Of Its Wild Electric Hypercar",
-        "url": "https://www.motor1.com/news/799930/mcmurtry-speirling-pure-teaser/"
-      },
-      {
-        "source": "Vespa",
-        "time": "2026.6.28",
-        "title": "“Vespa Roma 2026 - 80 Years of an Icon” comes to a close in Rome",
-        "url": "https://press.piaggiogroup.com/en_EN/post/show/353334/vespa-roma-2026-80-years-of-an.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "「ギャラン、ランエボを復活させないのですか」株主総会で三菱の社長＆会長に質問した株主へ直撃取材「三菱といったらパリダカとラリーでしょう」",
-        "url": "https://bestcarweb.jp/news/business/1562253"
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "AIDVの開発にもAIを活用、日産がプラットフォームをデモ…AWS Summit Japan 2026",
+        "url": "https://response.jp/article/2026/06/29/413300.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "「飛びついちゃうよね」第3のエコカーがフルモデルチェンジ!? 次期ダイハツ『ミライース』に期待の声",
-        "url": "https://response.jp/article/2026/06/28/413291.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "1,000km先の東京都「小笠原諸島」!! ここへの行き方＋現地の交通手段ってどんなですか?",
-        "url": "https://bestcarweb.jp/busmagazine/1556863"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.6.28",
-        "title": "Woman Buys A New Lexus. Then She Realizes It Only Has A 14-Gallon Gas Tank",
-        "url": "https://www.motor1.com/news/799955/lexus-gx-550-gas-tank/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "アルファードとは逆転の発想!! カローラなのに7人乗れた！ カローラスパシオが示したコンパクトミニバンの理想形",
-        "url": "https://bestcarweb.jp/feature/column/1557629"
+        "time": "2026.6.29",
+        "title": "AIで価格改定・商品情報管理を自動化、モノリストが出展…ものづくりワールド東京 2026",
+        "url": "https://response.jp/article/2026/06/29/413322.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "サイン・ハウス、新通信方式「B+FLEX」搭載インカム『B+COM 7X』発売 価格は4万9500円",
-        "url": "https://response.jp/article/2026/06/28/413288.html"
+        "time": "2026.6.29",
+        "title": "AIナレッジ管理ツール「saguroot」、丹青社が出展へ…ものづくりワールド東京 2026",
+        "url": "https://response.jp/article/2026/06/29/413320.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.6.28",
-        "title": "スバル『レガシィ』B4＆ワゴン用が登場、テインの新純正互換ショックアブソーバー「エンデュラ・プロ・ベーシック」",
-        "url": "https://response.jp/article/2026/06/28/413290.html"
+        "time": "2026.6.29",
+        "title": "BMW『X5』、新エントリーモデル「オリジナル」追加…1298万円",
+        "url": "https://response.jp/article/2026/06/29/413298.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "EVポールスター、米国市場から事実上撤退…コネクテッドビークル規則で2027年以降販売禁止へ",
+        "url": "https://response.jp/article/2026/06/29/413313.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "GM、車載エンタメを米国で大幅強化…Google Playで200以上のアプリが利用可能に",
+        "url": "https://response.jp/article/2026/06/29/413312.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "MAHLEとローデ・シュワルツ、ADAS修理後のセンサー検査プラットフォーム共同開発",
+        "url": "https://response.jp/article/2026/06/29/413309.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "アウディ『A3セダン』改良新型、最大210km/hの車線変更支援や自動駐車機能を強化…欧州発表",
+        "url": "https://response.jp/article/2026/06/29/413306.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "マスタングが400万円で手に入る!? 314馬力の直4ターボでも十分速い！ 中古で狙うなら今だった！",
-        "url": "https://bestcarweb.jp/feature/column/1545085"
+        "time": "2026.6.29",
+        "title": "えええ、こんな細いパーツで!? トライトンの標準装備になった機能が感動モノすぎる",
+        "url": "https://bestcarweb.jp/newcar/1557278"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.6.28",
-        "title": "ミニ クーパー 5ドアは国産ハッチバックの上級版か？ 小さくても濃いプレミアム感!!",
-        "url": "https://bestcarweb.jp/feature/column/1538977"
+        "time": "2026.6.29",
+        "title": "えええ、ベストカーだけの限定価格ってマジ!? エコフロー自慢のポタ電とポータブルエアコンが車中泊ユーザーにぴったりすぎる!!!!【PR】",
+        "url": "https://bestcarweb.jp/feature/tieup/1544387"
       },
       {
-        "source": "Motor1",
-        "time": "2026.6.28",
-        "title": "Toyota Camry Driver Finds Brakes And Rotors On Advance Auto Parts For $68.99. Then She Goes To RockAuto: ‘That's Insane'",
-        "url": "https://www.motor1.com/news/799992/toyota-rockauto-brakes/"
+        "source": "Best Car Web",
+        "time": "2026.6.29",
+        "title": "カローラじゃなかったらどうする!? ワゴン級の積載性で走りも文句なしの実力はって!?",
+        "url": "https://bestcarweb.jp/feature/column/1543357"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "スタンレー電気・人事情報 2026年4月23日付・4月24日付",
+        "url": "https://response.jp/article/2026/06/29/413321.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.29",
+        "title": "ソリオは新エンジンでどう変わった？ 走りと燃費の違いを徹底チェック！",
+        "url": "https://bestcarweb.jp/feature/column/1556837"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "トヨタファイナンシャルサービス「my route」、山口・サンデン交通の1日乗り放題デジタル乗車券を7月1日発売",
+        "url": "https://response.jp/article/2026/06/29/413318.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.29",
+        "title": "ノートは高齢の親にも勧められる？ 視界、乗降性、安全装備で見る安心コンパクト",
+        "url": "https://bestcarweb.jp/feature/column/1555187"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "ポルシェ 911 GT3 ベース、新型レーシングカー「GT4 R」発表…自然吸気ボクサー6は最大520馬力",
+        "url": "https://response.jp/article/2026/06/29/413310.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "マツダ「787B」、ル・マン優勝35周年記念でサルト・サーキットに再登場へ…ル・マン クラシック2026",
+        "url": "https://response.jp/article/2026/06/29/413296.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.29",
+        "title": "まるで猛獣の爪痕!! 200系ハイエースの印象激変!! バレンティの新作テールランプがスゴイ!!",
+        "url": "https://bestcarweb.jp/news/1561031"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.29",
+        "title": "ヤマハの無人ヘリで“空から”マヤ文明の調査へ、森林計測のノウハウ活用で",
+        "url": "https://response.jp/article/2026/06/29/413315.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.6.29",
+        "title": "ランクルは高すぎる………そんな人に注目！ V6搭載の本格SUVが250万円前後！ 先代グランドチェロキー中古車事情",
+        "url": "https://bestcarweb.jp/feature/column/1545659"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28326179614",
-    "sha": "c61fa699cc30bf7dae088d1b3c5c3a4ac184fbc9",
-    "completed_at": "2026-06-28T14:58:47.798Z",
+    "run_id": "28349601534",
+    "sha": "dc75c58cedd3139cf5b3d1fc725003eb5606a5d8",
+    "completed_at": "2026-06-29T04:58:51.556Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -103,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 13,
-    "queued_articles": 13,
-    "processed": 13,
-    "started_at": "2026-06-28T14:58:20.104Z",
-    "finished_at": "2026-06-28T14:58:47.556Z",
+    "scoped_articles": 32,
+    "queued_articles": 32,
+    "processed": 32,
+    "started_at": "2026-06-29T04:57:38.204Z",
+    "finished_at": "2026-06-29T04:58:51.292Z",
     "success": true,
     "error": ""
   }

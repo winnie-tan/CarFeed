@@ -54132,5 +54132,765 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-28T14:58:47.543Z"
+  },
+  "https://response.jp/article/2026/06/29/413300.html": {
+    "title_zh": "日产在 AWS 峰会上展示 AI 驱动车辆开发平台",
+    "summary_short": "日产在 AWS Summit Japan 2026 上演示了基于 AI 的 SDV 开发平台，旨在加速 AIDV（AI 定义车辆）的研发与部署。",
+    "summary_long": "日产汽车在 AWS Summit Japan 2026 上展示了其“日产可扩展开放平台”，该平台是软件定义车辆（SDV）的开发基础，整合了从需求定义到 OTA 交付的全流程。平台结合车载系统与云端数据基础设施，支持功能更新与 AI 进化，同时利用 AI 加速软件开发，旨在实现“AI 定义车辆（AIDV）”的愿景。",
+    "highlights_zh": [
+      "日产展示 SDV 开发平台",
+      "平台整合全流程开发",
+      "利用 AI 加速车辆智能化",
+      "支持 OTA 功能更新"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "SDV",
+      "AIDV",
+      "AWS Summit Japan"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222771.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222771.jpg",
+      "https://response.jp/imgs/zoom1/2222780.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:43.339Z"
+  },
+  "https://response.jp/article/2026/06/29/413322.html": {
+    "title_zh": "AI 自动化价格调整与商品信息管理，Monolist 参展 2026 年制造业世界东京",
+    "summary_short": "Monolist 将在制造业 DX 展展示 AI 平台，自动解析商品信息，削减 90%转记成本，提升 EC 销售额 200%。",
+    "summary_long": "Monolist 公司将于 7 月 1 日至 3 日参加东京 Big Sight 举办的“第 38 届制造业世界东京 制造业 DX 展”，展示其 AI 销售平台“Monolist”。该平台通过 AI 自动解析纸质目录、表格及网站上的商品信息，实现数据化，减少 90%的转记工作成本，并帮助 EC 销售额提升 200%。此外，还将首次公开新服务“AI 网页爬虫”和“AI 价格调整”，前者可快速从网站提取复杂商品规格，后者能批量调整数千至数万件商品价格，大幅减少手动更新工时。",
+    "highlights_zh": [
+      "AI 自动解析商品信息",
+      "新服务 AI 网页爬虫快速提取商品规格",
+      "AI 价格调整批量处理数千件商品价格",
+      "EC 销售额提升 200%的案例展示"
+    ],
+    "entities": [
+      "Monolist",
+      "制造业 DX 展",
+      "AI 网页爬虫",
+      "AI 价格调整",
+      "EC"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223069.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223069.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:43.721Z"
+  },
+  "https://response.jp/article/2026/06/29/413320.html": {
+    "title_zh": "丹青社将参展 2026 年制造业世界东京展，展示 AI 知识管理工具 saguroot",
+    "summary_short": "丹青社将在 2026 年制造业世界东京展上展示 AI 知识管理工具 saguroot，该工具可跨部门搜索内部资料，激活沉睡信息。",
+    "summary_long": "丹青社宣布将于 2026 年 7 月 1 日至 3 日参加在东京 Big Sight 举办的“第 38 届制造业世界东京展”，并在其中的“制造业 DX 展”展出。该展会是日本最大的制造业展会之一，聚焦推动制造现场和工厂数字化转型的 IT 产品与服务。丹青社将在西 3 展厅 W23-10 展位展示其 AI 知识管理工具 saguroot，该工具利用人工智能跨部门搜索内部资料，旨在促进公司内“有价值信息”的利用。",
+    "highlights_zh": [
+      "丹青社参展 2026 制造业世界东京展",
+      "展示 AI 知识管理工具 saguroot",
+      "工具可跨部门搜索内部资料",
+      "旨在激活公司内沉睡信息"
+    ],
+    "entities": [
+      "丹青社",
+      "saguroot",
+      "制造业世界东京展",
+      "AI 知识管理"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223068.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223068.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:47.648Z"
+  },
+  "https://response.jp/article/2026/06/29/413298.html": {
+    "title_zh": "宝马 X5 新增入门车型“Original”，售价 1298 万日元",
+    "summary_short": "宝马为 X5 新增入门版“Original”，售价 1298 万日元，标配 7 座、空气悬架及 48V 轻混系统。",
+    "summary_long": "宝马在日本市场为 X5 车系新增入门级车型“Original”，售价 1298 万日元，预计 7 月起交付。该车通过精选标准配置实现更具吸引力的价格，标配 7 座布局、空气悬架、整体主动转向系统以及 48V 轻混技术，兼顾燃油经济性与平顺驾驶。安全方面搭载 Driving Assistant Professional，包含高速公路拥堵时的脱手辅助功能，并配备全景影像、数字钥匙 Plus 等科技配置。",
+    "highlights_zh": [
+      "新增入门版“Original”",
+      "标配 7 座、空气悬架及整体主动转向",
+      "搭载 48V 轻混系统",
+      "标配脱手辅助、全景影像及数字钥匙 Plus"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5",
+      "Original",
+      "48V 轻混系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222926.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222926.jpg",
+      "https://response.jp/imgs/fill2/2222932.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:48.489Z"
+  },
+  "https://response.jp/article/2026/06/29/413313.html": {
+    "title_zh": "Polestar 因美国联网汽车规则将退出美国市场",
+    "summary_short": "Polestar 因美国联网汽车规则被禁售，2027 年起无法在美销售新车，将聚焦欧洲市场。",
+    "summary_long": "瑞典电动汽车品牌 Polestar 宣布将进一步加强在欧洲市场的战略布局。原因是美国商务部工业与安全局决定不授予 Polestar 基于现行“联网汽车规则”的销售许可，导致其从 2027 年款起无法在美国销售新车。Polestar 将继续销售现有库存的 Polestar 3 和 Polestar 4，并为现有客户提供售后服务。",
+    "highlights_zh": [
+      "美国 BIS 拒绝授予 Polestar 销售许可",
+      "2027 年起 Polestar 无法在美销售新车",
+      "现有库存 Polestar 3 和 4 继续销售",
+      "Polestar 将聚焦欧洲市场"
+    ],
+    "entities": [
+      "ポールスター",
+      "Polestar 3",
+      "Polestar 4",
+      "美国商务部工业与安全局",
+      "联网汽车规则"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223036.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223036.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:51.484Z"
+  },
+  "https://response.jp/article/2026/06/29/413312.html": {
+    "title_zh": "通用汽车在美国大幅增强车载娱乐：Google Play 200 多款应用可用",
+    "summary_short": "通用汽车通过 OnStar 和软件更新，为搭载 Google Built-in 的车辆提供 Google Play 200 多款新应用，包括流媒体、游戏等。",
+    "summary_long": "通用汽车宣布，通过 OnStar 连接服务和最新软件更新，搭载 Google Built-in 的车辆在美国可从中央显示屏访问 Google Play 的 200 多款新应用。此外，GM 的豪华 SUV 还为前后排乘客提供屏幕应用和服务，涵盖电影、电视、音乐、播客、网络电台和电视频道等丰富内容。驾驶员中央显示屏仅在停车时可用最新应用，包括流媒体、游戏、填字游戏等互动内容，以及 Dish Anywhere 的点播节目和篮球、国际象棋、纸牌、麻将等游戏。",
+    "highlights_zh": [
+      "Google Play 200 多款新应用上线",
+      "前后排乘客屏幕支持影音娱乐",
+      "驾驶员屏仅停车时可用应用",
+      "含游戏、流媒体、点播等内容"
+    ],
+    "entities": [
+      "通用汽车",
+      "Google Play",
+      "Google Built-in",
+      "OnStar"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223028.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223028.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:52.928Z"
+  },
+  "https://response.jp/article/2026/06/29/413309.html": {
+    "title_zh": "马勒与罗德与施瓦茨联合开发 ADAS 维修后传感器检测平台",
+    "summary_short": "马勒与罗德与施瓦茨合作开发新平台，用于维修后 ADAS 传感器检测，解决行业标准缺失问题。",
+    "summary_long": "马勒（MAHLE）与罗德与施瓦茨（Rohde & Schwarz）联合开发了一种新平台，可在汽车维修后对 ADAS 传感器进行可靠检测。此前，事故或车身部件维修后缺乏标准测量程序来检查 ADAS 传感器。新平台结合了马勒的 TechPRO Digital ADAS 2.0 Extra 校准系统和罗德与施瓦茨的 R&S RadEsT 雷达测试仪。",
+    "highlights_zh": [
+      "马勒与罗德与施瓦茨合作开发 ADAS 传感器检测平台",
+      "解决维修后传感器检测缺乏标准的问题",
+      "平台结合马勒校准系统与罗德与施瓦茨雷达测试仪"
+    ],
+    "entities": [
+      "马勒 | MAHLE",
+      "罗德与施瓦茨",
+      "ADAS",
+      "传感器检测",
+      "校准系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222992.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222992.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:55.279Z"
+  },
+  "https://response.jp/article/2026/06/29/413306.html": {
+    "title_zh": "奥迪 A3 轿车改款：最高 210km/h 车道变更辅助与自动泊车功能增强",
+    "summary_short": "奥迪 A3 轿车改款在欧洲发布，强化驾驶辅助系统，新增最高 210km/h 车道变更辅助、自动驻车及远程泊车功能。",
+    "summary_long": "奥迪在欧洲发布了 A3 轿车的改款车型，主要升级了驾驶辅助系统和数字化功能。驾驶辅助系统分为“Tech”、“Tech Plus”和“Tech Pro”三个层级，核心是自适应巡航辅助 Plus，可在最高 210km/h 下实现自适应巡航和主动车道保持。自动变速箱车型支持基于转向灯操作的自动车道变更，并新增红灯自动停走功能。首次采用群组数据，使车辆能根据道路平均速度调整车速。泊车辅助 Pro 支持通过手机应用远程泊车和出库，并新增可记忆最多 5 个泊车操作的“训练泊车”功能。内饰采用 11.9 英寸虚拟座舱和 12.8 英寸 MMI 全景显示屏组成的曲面显示屏。",
+    "highlights_zh": [
+      "最高 210km/h 车道变更辅助",
+      "红灯自动停走功能",
+      "手机远程泊车与出库",
+      "记忆 5 个泊车操作的训练泊车"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A3 轿车 | A3 Sedan",
+      "自适应巡航辅助 Plus",
+      "群组数据",
+      "训练泊车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222977.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222977.jpg",
+      "https://response.jp/imgs/fill2/2222978.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:57.861Z"
+  },
+  "https://bestcarweb.jp/newcar/1557278": {
+    "title_zh": "三菱 Triton 新增尾门辅助功能，标准配置令人感动",
+    "summary_short": "三菱 Triton 改款后标准配备雅马哈性能减震器和尾门辅助功能，大幅提升便利性，且旧款可后装。",
+    "summary_long": "三菱 Triton 在日本上市后备受关注，近期改款将雅马哈性能减震器列为标准配置，显著提升行驶性能。此外，尾门辅助功能也从选装变为标配，使原本沉重的尾门操作变得异常轻松，单手即可完成。该功能还可加装于改款前车型，进一步提升了实用性。",
+    "highlights_zh": [
+      "尾门辅助功能成为标准配置",
+      "雅马哈性能减震器提升行驶性能",
+      "旧款车型也可后装尾门辅助",
+      "5 年残值率高达 63%"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Triton",
+      "帕杰罗",
+      "雅马哈 | Yamaha",
+      "尾门辅助"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26175421/0M0A1815.jpg?v=1782464062",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26175421/0M0A1815-600x338.jpg?v=1782464062",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25160355/2026_mazda-roadster_PS_exterior-600x362.jpg?v=1782371037"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:57:59.431Z"
+  },
+  "https://bestcarweb.jp/feature/tieup/1544387": {
+    "title_zh": "EcoFlow 便携电源与空调限时特价，车中泊用户必看",
+    "summary_short": "EcoFlow 便携电源与空调推出 Best Car 独家优惠，适合车中泊与防灾，大幅提升户外生活品质。",
+    "summary_long": "EcoFlow 便携电源和便携式空调在 Best Car 推出限定价格，为车中泊用户和防灾需求提供实惠选择。便携电源可让用户在户外使用手机、电子水壶、电饭煲等家电，大幅提升户外生活质量。同时，在灾害发生时也能作为应急电源，保障基本用电需求。此次优惠仅限 Best Car 读者，文末提供超值优惠码。",
+    "highlights_zh": [
+      "Best Car 独家限定价格",
+      "适合车中泊与防灾",
+      "可驱动多种家电",
+      "提升户外生活品质"
+    ],
+    "entities": [
+      "EcoFlow",
+      "Best Car",
+      "便携电源",
+      "便携空调",
+      "车中泊"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04094514/s-20250730_ecoflow2017.jpg?v=1780533915",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/04094514/s-20250730_ecoflow2017-600x450.jpg?v=1780533915",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/03013208/02e0a817a158836f06895d4697c8eca7-600x338.jpg?v=1780417929"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:02.241Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543357": {
+    "title_zh": "不买卡罗拉？这款车装载力堪比旅行车，操控也无可挑剔",
+    "summary_short": "丰田卡罗拉运动版和旅行版因交期长而停售，斯巴鲁翼豹凭借出色的装载性和操控性成为最佳替代选择。",
+    "summary_long": "丰田卡罗拉运动版和旅行版因交期长而停售，消费者面临无车可买的困境。斯巴鲁翼豹凭借出色的乘坐空间、超越预期的行李厢装载性以及精准的操控表现，成为填补这两款车空缺的理想替代品。翼豹的驾驶感受运动且敏捷，响应迅速，完全不输卡罗拉。不过，其 e-BOXER 混合动力系统在油门响应和油耗上不及卡罗拉的 THS II，期待未来能引入 Crosstrek 的 S:HEV 系统。",
+    "highlights_zh": [
+      "卡罗拉运动版和旅行版停售",
+      "翼豹装载性堪比旅行车",
+      "操控运动且响应迅速",
+      "混动系统不如卡罗拉"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉",
+      "斯巴鲁 | Subaru",
+      "翼豹",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26175309/18209daf-b51e-4991-8150-534f4b743b54-1.jpg?v=1782463990",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26175309/18209daf-b51e-4991-8150-534f4b743b54-1-600x380.jpg?v=1782463990",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23124008/449A6315_1-600x400.jpg?v=1782186009"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:04.355Z"
+  },
+  "https://response.jp/article/2026/06/29/413321.html": {
+    "title_zh": "斯坦利电气发布 2026 年 4 月人事变动",
+    "summary_short": "斯坦利电气公布 2026 年 4 月 23 日及 24 日高管人事调整信息。",
+    "summary_long": "斯坦利电气（总部位于东京目黑区，社长贝住泰昭）公布了 2026 年 4 月 23 日和 24 日生效的高管人事变动。",
+    "highlights_zh": [
+      "公布 2026 年 4 月高管调整",
+      "涉及社长贝住泰昭",
+      "人事变动分两日生效"
+    ],
+    "entities": [
+      "斯坦利电气"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/1876550.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/1876550.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:05.561Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556837": {
+    "title_zh": "铃木 Solio 换新发动机后表现如何？全面检验驾驶与油耗差异",
+    "summary_short": "铃木 Solio 换装 Z12E 型 1.2L 新发动机与 CVT，全系轻混化，油耗提升至 22.0km/L，驾驶更平顺易用。",
+    "summary_long": "2025 年 1 月铃木 Solio 迎来改款，外观变化明显，核心升级在于动力系统。新车搭载与 Swift 同款的 Z12E 型 1.2L 发动机和 CVT，全系标配轻度混合动力系统。新发动机最大功率 82ps，最大扭矩 11.0kgm，虽非性能取向，但注重城市低速平顺性和易用性，适合家庭用户。CVT 优化了起步和再加速时的转速控制，使加速更自然。油耗方面，WLTC 模式下 2WD 车型达 22.0km/L，4WD 为 20.7km/L，相比改款前的 19.6km/L 显著提升，对于一款高车身滑门车型来说非常实用。",
+    "highlights_zh": [
+      "换装 Z12E 型 1.2L 新发动机与 CVT",
+      "全系轻度混合动力化",
+      "WLTC 油耗 2WD 达 22.0km/L",
+      "城市驾驶更平顺易用"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Solio",
+      "Swift",
+      "Z12E 发动机",
+      "轻度混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23171136/20250404-1R9A7605_1.jpg?v=1782202297",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23171136/20250404-1R9A7605_1-600x400.jpg?v=1782202297",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23124008/449A6315_1-600x400.jpg?v=1782186009"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:09.937Z"
+  },
+  "https://response.jp/article/2026/06/29/413318.html": {
+    "title_zh": "丰田金融服务“my route”7 月 1 日起发售山口·Sanden 交通一日畅享数字车票",
+    "summary_short": "丰田金融服务的出行 App“my route”将于 7 月 1 日发售山口县 Sanden 交通的“Sanden 1day Pass”数字车票，覆盖下关、长门等西部区域。",
+    "summary_long": "丰田金融服务运营的出行 App“my route”宣布，自 7 月 1 日起开始销售 Sanden 交通的“Sanden 1day Pass”数字车票。这是该 App 首次在山口县提供交通票务服务。该车票可无限次乘坐 Sanden 交通运营的所有一般路线巴士，覆盖下关市、长门市等山口县西部区域，适合游览唐户、城下町长府、长门汤本温泉、仙崎等景点，也可用于通院、购物等日常出行。车票分为 1 日券（成人 1200 日元、儿童 600 日元，当日 23:59 前有效）和 24 小时券（成人 1300 日元、儿童 700 日元，激活后 24 小时有效）。",
+    "highlights_zh": [
+      "my route 首次在山口县销售数字车票",
+      "覆盖下关、长门等西部区域",
+      "1 日券成人 1200 日元",
+      "24 小时券成人 1300 日元"
+    ],
+    "entities": [
+      "丰田金融服务 | Toyota Financial Service",
+      "my route",
+      "Sanden 交通",
+      "Sanden 1day Pass",
+      "山口县"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223046.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223046.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:10.451Z"
+  },
+  "https://bestcarweb.jp/feature/column/1555187": {
+    "title_zh": "日产 Note 是否适合年长父母？从视野、上下车便利性和安全配置看这款安心紧凑型车",
+    "summary_short": "日产 Note 作为 e-Power 专用紧凑型车，凭借适中的尺寸、良好的视野、便捷的上下车体验和丰富的安全配置，成为适合年长驾驶者的安心之选。",
+    "summary_long": "日产 Note 是一款 e-Power 专用紧凑型车，车身尺寸适中（长 4045mm、宽 1695mm、高 1520mm），属于 5 号车宽，在狭窄街道和停车场易于操控。座椅高度适中，上下车方便，虽不及超轻型高顶旅行车开阔，但比轿车更轻松。搭载第二代 e-Power 系统，电机驱动，起步平顺，加速响应线性，无突兀感，WLTC 油耗 28.4km/L，适合日常购物和就医。安全配置包括智能紧急制动、防误踩油门辅助、标志识别等，可选装全景监控和智能后视镜，为家人提供安心保障。",
+    "highlights_zh": [
+      "车身尺寸适中",
+      "座椅高度适中",
+      "e-Power 动力平顺",
+      "安全配置丰富"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "e-Power"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23124008/449A6315_1.jpg?v=1782186009",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23124008/449A6315_1-600x400.jpg?v=1782186009",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23171136/20250404-1R9A7605_1-600x400.jpg?v=1782202297"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:15.283Z"
+  },
+  "https://response.jp/article/2026/06/29/413310.html": {
+    "title_zh": "保时捷 911 GT3 为基础，全新赛车 GT4 R 发布",
+    "summary_short": "保时捷发布全新 911 GT4 R 赛车，基于 911 GT3 打造，搭载 4.0 升自然吸气水平对置 6 缸发动机，最大功率 520 马力，面向客户赛车市场。",
+    "summary_long": "保时捷在欧洲发布了全新赛车 911 GT4 R，基于现款 911 GT3（992.2 世代）打造，是首款以 911 为基础的 GT4 赛车。该车搭载 4.0 升自然吸气水平对置 6 缸发动机，最大功率 382kW（520PS），最大扭矩 470Nm，输出功率可根据 BoP 调整。911 GT4 R 旨在提升客户赛车项目，将参加 ADAC GT4 Germany、GT4 European Series 等赛事，计划于 2027 赛季首秀。相比此前基于 718 Cayman 的 Club Sport 车型，新车拥有更强大的动力、更宽的轮距和优化的赛车电子系统，以提升圈速和行驶稳定性。",
+    "highlights_zh": [
+      "基于 911 GT3 打造的首款 GT4 赛车",
+      "4.0 升自然吸气水平对置 6 缸",
+      "2027 赛季正式参赛",
+      "面向客户赛车市场"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT4 R",
+      "911 GT3",
+      "GT4"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222999.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222999.jpg",
+      "https://response.jp/imgs/fill2/2223025.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:15.817Z"
+  },
+  "https://bestcarweb.jp/news/1561031": {
+    "title_zh": "Valenti 为 200 系海狮推出全新 LED 尾灯",
+    "summary_short": "Valenti 推出 200 系海狮专用 LED 尾灯，3D 立体设计，支持全车型，提升辨识度与个性。",
+    "summary_long": "Valenti 为 200 系丰田海狮/Regius Ace 推出全新“Jewel LED 尾灯 ULTRA δ”，采用 3D 立体设计与隐形 LED 结构，熄灯时芯片不可见，提升精致感。该尾灯支持 2004 年 8 月后的所有车型，具备开闭动画及双侧后雾灯功能，兼顾美观与实用。",
+    "highlights_zh": [
+      "3D 立体设计",
+      "支持 2004 年后所有 200 系海狮",
+      "开闭动画与双侧后雾灯",
+      "提升夜间辨识度与个性"
+    ],
+    "entities": [
+      "Valenti",
+      "丰田海狮 | Toyota HiAce",
+      "Regius Ace",
+      "LED 尾灯"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26171156/2fa8f4f8e66c9375a00669e5d1acf3c8.jpg?v=1782461517",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26171156/2fa8f4f8e66c9375a00669e5d1acf3c8-600x423.jpg?v=1782461517",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26171622/264d1cee7dd74c10fea2883dba0f1b79-600x600.jpg?v=1782461783"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:19.975Z"
+  },
+  "https://response.jp/article/2026/06/29/413296.html": {
+    "title_zh": "马自达 787B 将重返勒芒经典赛，庆祝夺冠 35 周年",
+    "summary_short": "马自达 787B 将在勒芒经典赛 2026 上进行演示圈，纪念 1991 年夺冠 35 周年，由寺田阳次郎和 ACO 会长驾驶。",
+    "summary_long": "马自达宣布，其传奇赛车 787B 将于 2026 年 7 月 2 日至 5 日参加在法国萨尔特赛道举行的勒芒经典赛，进行演示圈。该车在 1991 年成为首款赢得勒芒 24 小时耐力赛总冠军的日本赛车，也是唯一搭载转子发动机的冠军车。驾驶者包括曾参与勒芒的寺田阳次郎和 ACO 会长皮埃尔·菲永。此次亮相旨在纪念夺冠 35 周年。",
+    "highlights_zh": [
+      "马自达 787B 将参加勒芒经典赛 2026",
+      "纪念 1991 年勒芒 24 小时耐力赛夺冠 35…",
+      "由寺田阳次郎和 ACO 会长皮埃尔·菲永驾驶",
+      "唯一搭载转子发动机的勒芒冠军车"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "787B",
+      "勒芒经典赛",
+      "转子发动机",
+      "勒芒 24 小时耐力赛 | 24 Hours of Le Mans"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222925.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222925.jpg",
+      "https://response.jp/imgs/fill2/2222923.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:20.094Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545659": {
+    "title_zh": "嫌兰德酷路泽太贵？V6 硬派 SUV 仅 250 万日元：上一代大切诺基二手行情",
+    "summary_short": "Jeep Grand Cherokee 第四代二手价约 160-640 万日元，后期型 250 万日元起，V6 动力兼顾公路与越野。",
+    "summary_long": "Jeep 旗舰 SUV Grand Cherokee 第四代（2011-2022 年）凭借全新设计的四驱系统，实现了公路与越野性能的均衡。初期车型总价约 80 万日元即可入手，但推荐选择 2017 年 3 月改款后的后期型，设计、安全与舒适配置均有升级。后期型标准版 Laredo 总价约 250 万日元，高级版 Limited 约 290 万日元起。",
+    "highlights_zh": [
+      "第四代 Grand Cherokee 2011 年上…",
+      "后期型（2017 年后）设计及配置升级",
+      "标准版 Laredo 总价约 250 万日元",
+      "初期车型低至 80 万日元"
+    ],
+    "entities": [
+      "ジープ",
+      "グランドチェロキー",
+      "兰德酷路泽 | ランクル",
+      "V6",
+      "四驱系统"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09175235/00_Grand-Cherokee_01_head.jpg?v=1780995156",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/09175235/00_Grand-Cherokee_01_head-600x400.jpg?v=1780995156",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23124008/449A6315_1-600x400.jpg?v=1782186009"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:25.199Z"
+  },
+  "https://response.jp/article/2026/06/29/413315.html": {
+    "title_zh": "雅马哈无人直升机助力玛雅文明调查，活用森林测量技术",
+    "summary_short": "雅马哈发动机与多所大学合作，利用无人直升机激光测量技术，对洪都拉斯科潘遗址进行空中探测，成功识别出多处疑似人工地形。",
+    "summary_long": "雅马哈发动机宣布与公立小松大学、静冈大学及洪都拉斯国立自治大学合作，利用其森林数字化服务“RINTO”对中美洲洪都拉斯的科潘遗址进行空中激光测量。2026 年 4 月，团队使用工业无人直升机获取高密度点云数据，成功创建了森林和遗址的 3D 数字模型，可识别地表 50 厘米级别的细微起伏，并发现了多处疑似人工堆筑的“土墩”地形。科潘遗址是玛雅文明的重要世界遗产，其周边森林覆盖面积广阔，传统调查困难。该技术不仅有助于发现未确认遗迹，还能在发掘前以数字孪生形式记录原始环境，为文化遗产保护和历史传承提供支持。",
+    "highlights_zh": [
+      "雅马哈无人直升机搭载激光雷达扫描科潘遗址",
+      "成功识别地表 50 厘米级细微起伏",
+      "发现多处疑似人工“土墩”地形",
+      "数字孪生技术记录发掘前环境"
+    ],
+    "entities": [
+      "雅马哈 | Yamaha",
+      "科潘遗址",
+      "玛雅文明",
+      "无人直升机",
+      "RINTO"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223062.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223062.jpg",
+      "https://response.jp/imgs/fill2/2223063.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:25.908Z"
+  },
+  "https://response.jp/article/2026/06/29/413302.html": {
+    "title_zh": "雷克萨斯全新 ES 搭载世界首创“响应式隐藏开关”",
+    "summary_short": "雷克萨斯全新 ES 采用东海理化开发的响应式隐藏开关，平时隐藏于内饰，手靠近时图标亮起，兼具物理按键手感。",
+    "summary_long": "东海理化宣布其开发的“响应式隐藏开关”首次应用于雷克萨斯全新 ES。该开关融合了软质表皮透光显示功能图标的装饰技术与传统物理开关技术，平时开关熄灭并与内饰融为一体，营造简洁高级的座舱氛围。当手靠近时，图标通过悬停功能点亮，同时提供与物理按键相同的按压感，防止误操作。该技术由东海理化与 DaikyoNishikawa 共同开发，是雷克萨斯基于 2025 年 4 月已发布车型调查认定的世界首创。",
+    "highlights_zh": [
+      "世界首创响应式隐藏开关",
+      "平时隐藏",
+      "兼具物理按键按压感",
+      "防止误操作设计"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "ES",
+      "东海理化",
+      "响应式隐藏开关"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222942.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222942.jpg",
+      "https://response.jp/imgs/fill2/2222935.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:29.638Z"
+  },
+  "https://response.jp/article/2026/06/29/413317.html": {
+    "title_zh": "世界杯日本对战国：足球王国巴西也是乙醇汽车大国",
+    "summary_short": "巴西是南美最大汽车市场，以甘蔗乙醇燃料和 Flex Fuel 车普及著称，新车的 79%为灵活燃料车。",
+    "summary_long": "巴西拥有年约 260 万辆规模的汽车市场，是南美最大。其显著特征是广泛使用甘蔗乙醇燃料，多数乘用车为 Flex Fuel（灵活燃料车），可兼容汽油、乙醇及混合燃料。这一模式源于 1970 年代石油危机后的国家项目，如今新车销售中绝大多数为灵活燃料车。据 IEA 报告，2024 年巴西轻型车销售中 79%为灵活燃料车，巴西在该领域生产与普及方面全球领先。",
+    "highlights_zh": [
+      "巴西是南美最大汽车市场",
+      "甘蔗乙醇燃料广泛使用",
+      "79%新车为灵活燃料车",
+      "全球 Flex Fuel 车领先国家"
+    ],
+    "entities": [
+      "巴西",
+      "Flex Fuel",
+      "国际能源署",
+      "巴西全国汽车制造商协会"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222827.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222827.jpg",
+      "https://response.jp/imgs/zoom1/2222826.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:29.760Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1553575": {
+    "title_zh": "JR 御殿场线：内陆连接神奈川与静冈的铁路线",
+    "summary_short": "JR 御殿场线是连接神奈川与静冈的内陆铁路，原为东海道线一部分，后因丹那隧道开通而独立。",
+    "summary_long": "JR 御殿场线全长约 60.2 公里，连接国府津、御殿场至沼津，是神奈川县与静冈县之间的内陆铁路线。该线于 1889 年作为东海道线的一部分开通，当时明治政府选择了内陆绕行御殿场的路线以穿越箱根山脉。线路以最大 25‰的连续坡度著称，1934 年丹那隧道开通后，御殿场段从东海道线分离，更名为御殿场线。",
+    "highlights_zh": [
+      "连接神奈川与静冈的内陆铁路",
+      "原为东海道线的一部分",
+      "最大坡度 25‰的难行路段",
+      "1934 年丹那隧道开通后独立"
+    ],
+    "entities": [
+      "JR 御殿场线",
+      "JR 东海道线",
+      "国府津",
+      "御殿场",
+      "沼津"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/18132121/jrgtmbln_bsmvsml_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/22132717/ogswl_accs2026_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17143633/ohb_mkt2604_catch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:34.118Z"
+  },
+  "https://bestcarweb.jp/fullload/1557272": {
+    "title_zh": "日野 Profia Z FCV 试作冷藏厢式货车：仅靠预冷实现-25℃恒温长途运输",
+    "summary_short": "日野展示 Profia Z FCV 试作冷藏厢式货车，采用超厚真空隔热板，仅预冷即可维持-25℃恒温，实现无冷冻机长途运输。",
+    "summary_long": "在 5 月举办的日本卡车展上，日野汽车展示了令人惊讶的“预冷功能高隔热试作冷藏厢式货车”。该车基于日本首款量产大型 FC 卡车“日野 Profia Z FCV”，去年 9 月上市，续航约 650 公里。此次展出的上装为冷藏厢，厢体六面采用铝板夹泡沫隔热材料，内部封入真空隔热层（VIP），断面厚度达 150mm，具备顶级隔热性能。仅通过预冷即可实现-25℃恒温长途运输，无需传统冷冻机，是未来温度管理车的创新方向。",
+    "highlights_zh": [
+      "仅预冷即可维持-25℃恒温",
+      "采用 150mm 厚真空隔热板",
+      "基于日野 Profia Z FCV 氢燃料卡车",
+      "无需冷冻机"
+    ],
+    "entities": [
+      "日野",
+      "Profia Z FCV",
+      "日本卡车展",
+      "真空隔热板",
+      "冷藏厢式货车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/22174414/WEB_JTS26_ProfiaFCV-Protorefrigerater_Eyecatch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/24092245/00_260624BCW-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/24123341/00-VT_Electric_Extended_Range_RUNNING-V2_Original-file-frame-at-0m51s.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:34.659Z"
+  },
+  "https://www.motor1.com/news/799732/zero-down-car-financing-doesnt-exist/": {
+    "title_zh": "零首付购车？迈阿密车商直言：信用差就别想了",
+    "summary_short": "迈阿密车商揭露零首付购车不现实，信用评分低的客户几乎无法获批，建议正视首付要求。",
+    "summary_long": "一位迈阿密车商在社交媒体上直言，零首付购车方案对于信用评分中低水平的客户几乎不存在。他举例称，有客户坚持要零首付，但提交申请后仍被要求至少 2000 美元首付，客户却声称其他车行可以给 500 美元甚至零首付。车商指出，这类促销通常只面向优质信用客户，普通买家不应抱有不切实际的期望。",
+    "highlights_zh": [
+      "零首付购车对中低信用客户几乎不可能",
+      "车商称首付通常从 15000 美元起步",
+      "客户常被其他车行的虚假承诺误导",
+      "信用评分是决定首付金额的关键"
+    ],
+    "entities": [
+      "迈阿密",
+      "Green Light Auto Inc."
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzWXP/s1/man-tries-to-do-zero-down-financing.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:38.492Z"
+  },
+  "https://www.motor1.com/news/799619/ford-bronco-engine-fire-recall/": {
+    "title_zh": "福特 Bronco Sport 召回后仍自燃，车主控诉厂商推卸责任",
+    "summary_short": "一名福特 Bronco Sport 车主在完成燃油喷射器缺陷召回修复后，车辆仍突发自燃，福特以“非己方责任”为由拒绝理赔。",
+    "summary_long": "福特因燃油喷射器缺陷可能导致发动机舱起火而发起召回，一名 2022 款 Bronco Sport Big Bend 车主称已按指示完成修复。然而数月后，她在倒车入库时发现引擎盖冒烟，随即车辆被大火吞噬。车主向福特索赔遭拒，对方称“这不是福特的问题”。该事件在 TikTok 上引发广泛关注。",
+    "highlights_zh": [
+      "车主已完成召回修复",
+      "倒车时发现冒烟",
+      "福特拒绝理赔",
+      "TikTok 视频播放量超 48.8 万次"
+    ],
+    "entities": [
+      "福特",
+      "Bronco Sport",
+      "燃油喷射器缺陷",
+      "召回",
+      "自燃"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEWB1/s1/woman-reverses-bronco-sport-into-driveway..jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:38.813Z"
+  },
+  "https://www.motor1.com/news/799711/carvana-honda-civic-pickup-crash/": {
+    "title_zh": "男子从 Carvana 购买本田思域，提车前被撞：公司拒绝以原价再卖一辆",
+    "summary_short": "一男子通过 Carvana 购买本田思域，提车时员工驾驶车辆被撞，公司拒绝以原价再卖同款车。",
+    "summary_long": "一名男子通过 Carvana 购买了一辆本田思域 Type R，但在提车时，员工驾驶车辆驶入停车位时被另一辆倒车车辆撞到。买家妻子在 TikTok 上发布视频记录了这一过程，并称 Carvana 拒绝以原价再卖一辆同款车。",
+    "highlights_zh": [
+      "提车前员工驾驶车辆被撞",
+      "买家未及上车即遭事故",
+      "Carvana 拒绝以原价再卖同款车"
+    ],
+    "entities": [
+      "Carvana",
+      "本田 | Honda",
+      "思域 | Civic",
+      "思域 Type R"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9x9M/s1/man-buys-honda-civic-from-carvana.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:42.518Z"
+  },
+  "https://www.motor1.com/news/799994/enterprise-used-car-sales/": {
+    "title_zh": "男子购买 Enterprise 二手车后大力推荐：一小时内提车，无议价",
+    "summary_short": "一名男子在 Enterprise 二手车销售店购买 2024 款现代途胜后，极力推荐该渠道，称一小时内可提车、无议价，视频引发广泛讨论。",
+    "summary_long": "一位名为 Backpack Johnny 的创作者在 Enterprise 二手车销售店购买了一辆 2024 款现代途胜，随后在社交媒体上发布视频，强烈推荐消费者前往 Enterprise 购买二手车，而非传统二手车经销商。他声称整个购车过程在一到两小时内完成，无需讨价还价，标价即最终价格。该视频获得近 60 万次观看，评论中围绕购买前租赁车辆是否可靠展开热议。",
+    "highlights_zh": [
+      "购车过程仅需 1-2 小时",
+      "标价即最终价",
+      "可折价置换旧车",
+      "视频观看量近 60 万"
+    ],
+    "entities": [
+      "Enterprise Car Sales",
+      "现代 | Hyundai",
+      "途胜",
+      "二手车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKMK4/s1/man-buys-used-car.-now-he-s-preaching-the-gospel-of-enterprise.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:43.220Z"
+  },
+  "https://www.thedrive.com/news/dutch-startup-wants-to-build-a-supercar-youll-straddle-instead-of-sit-in": {
+    "title_zh": "荷兰初创公司计划打造跨坐式超级跑车",
+    "summary_short": "荷兰初创公司 Sanrivatti 计划推出一款跨坐式超级跑车，采用摩托车式驾驶姿势，旨在增强人车合一感。",
+    "summary_long": "荷兰初创公司 Sanrivatti 计划推出一款独特的超级跑车，采用摩托车式的“Apex Position”跨坐姿势，而非传统坐姿。公司声称这种设计结合专有技术，能提升驾驶者的感知、平衡和操控连接感。创始人 Santiago Sánchez Rivero 表示，高性能摩托车能实现人车合一，而传统跑车因架构和系统技术往往割裂这种联系。目前具体技术细节、动力系统和发布时间尚未公布，但团队包括来自 McLaren、Lotus、Bentley 和 Singer 的资深人士。",
+    "highlights_zh": [
+      "跨坐式驾驶姿势",
+      "旨在增强人车连接感",
+      "团队来自 McLaren、Lotus 等品牌",
+      "具体技术细节尚未公布"
+    ],
+    "entities": [
+      "Sanrivatti",
+      "McLaren",
+      "Lotus",
+      "Bentley",
+      "Singer"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-3.14.06-PM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-3.14.14-PM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/SRT_Front-View.jpg.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:46.482Z"
+  },
+  "https://www.motor1.com/news/799941/lamborghini-urus-suv-debut/": {
+    "title_zh": "兰博基尼 Urus 最强版本下月首发",
+    "summary_short": "兰博基尼发布全新 Urus 高性能版预告，将于 7 月 1 日亮相，预计功率超 800 马力。",
+    "summary_long": "兰博基尼发布全新 Urus 高性能版预告，将于 2026 年 7 月 1 日通过官网和 YouTube 直播亮相。预告图显示车尾配备大型扰流板，暗示该车可能为 Urus Performante 的继任者。动力方面，预计将基于 Urus SE 的插电混动系统升级，综合功率有望突破 800 马力，成为史上最强 Urus。底盘方面，预计将沿用固定弹簧悬架、后轮转向及偏后驱的四驱系统，并加入大量碳纤维装饰。",
+    "highlights_zh": [
+      "7 月 1 日全球首发",
+      "预计功率超 800 马力",
+      "大型扰流板暗示高性能",
+      "或为 Performante 回归"
+    ],
+    "entities": [
+      "兰博基尼 | Lamborghini",
+      "Urus",
+      "Urus Performante",
+      "Urus SE"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6NnRq/s1/lamborghini-urus-performante-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:47.452Z"
+  },
+  "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle": {
+    "title_zh": "校车变身移动监控：摄像头将扫描所有车牌",
+    "summary_short": "校车摄像头公司 BusPatrol 计划将抓拍违章的摄像头升级为全天候车牌读取器，数据可售予执法机构。",
+    "summary_long": "BusPatrol 公司原本专注于在校车上安装摄像头，捕捉非法超越停靠校车的车辆。如今该公司计划将这些摄像头升级为自动车牌读取器，全天候记录视野内所有车辆的车牌数据，并出售给执法机构。此举引发隐私担忧，此前类似技术已被用于追踪电子设备信号。",
+    "highlights_zh": [
+      "校车摄像头将全天候扫描车牌",
+      "数据可出售给执法机构",
+      "公司已部署超 4 万摄像头",
+      "此前技术已用于追踪设备信号"
+    ],
+    "entities": [
+      "BusPatrol",
+      "车牌读取器",
+      "校车",
+      "隐私"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/08/feat-getty.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/flog-rtcc.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/TBB-Release-Gasoline-Octane.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:50.406Z"
+  },
+  "https://www.motor1.com/news/799993/toyota-corolla-mechanic-costco/": {
+    "title_zh": "丰田卡罗拉在 Costco 停车场无法启动，两名“好心”修车工实为骗子",
+    "summary_short": "一对夫妇的丰田卡罗拉在 Costco 停车场无法启动，两名自称修车工的男子提供帮助，实为诈骗。",
+    "summary_long": "一位犹他州发型师在 Costco 购物后，发现男友的丰田卡罗拉无法启动。随后两名男子靠近，自称是修车工并主动帮忙。事后她发布警告，称这是著名的“好心修车工”骗局。她的 TikTok 视频获得超过 44.7 万次观看，多人留言表示遭遇类似情况，骗子专挑丰田卡罗拉下手，假装修车后索要 200 美元。",
+    "highlights_zh": [
+      "丰田卡罗拉在 Costco 停车场无法启动",
+      "两名男子自称修车工主动帮忙",
+      "实为骗局",
+      "骗子修车后索要 200 美元"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉 | Corolla",
+      "Costco",
+      "TikTok",
+      "犹他州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEgEo/s1/couple-s-car-won-t-work-after-leaving-costco.-then-2-men-in-the-parking-lot-say-they-re-mechanics.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T04:58:51.279Z"
   }
 }
