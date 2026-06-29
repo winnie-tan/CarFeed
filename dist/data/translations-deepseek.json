@@ -54892,5 +54892,497 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-29T04:58:51.279Z"
+  },
+  "https://www.motor1.com/news/800071/woman-4-years-oil-change/": {
+    "title_zh": "女子 4 年未换机油，忐忑前往 Take 5",
+    "summary_short": "一位美国女子 4 年未换机油，最终前往 Take 5 换油，引发网友关注。专家强调定期换油的重要性。",
+    "summary_long": "一位来自威斯康星州的女子 Annabelle Calypso 在 TikTok 上分享了她 4 年未换机油的经历。她最终前往快速换油连锁店 Take 5，并坦言自己非常紧张，担心发动机内积满油泥。她的视频获得了超过 170 万次观看。专家指出，定期更换机油是车辆保养的基础，忽视会导致发动机严重损坏。",
+    "highlights_zh": [
+      "4 年未换机油",
+      "前往 Take 5 换油",
+      "视频超 170 万次观看",
+      "专家强调定期换油"
+    ],
+    "entities": [
+      "Take 5",
+      "Annabelle Calypso",
+      "机油更换"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKMLn/s1/woman-goes-4-years-without-an-oil-change.-then-she-goes-to-take-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:35.861Z"
+  },
+  "https://www.motor1.com/news/800081/hyundai-toyota-hybrid-only-strategy/": {
+    "title_zh": "现代或将成为下一个仅推混动车型的汽车制造商",
+    "summary_short": "现代汽车考虑效仿丰田，将主流车型转为仅提供混合动力版本，逐步淘汰纯燃油车。",
+    "summary_long": "现代汽车澳大利亚 CEO Gavin Donaldson 表示，公司正考虑将主流车型转为仅提供混合动力版本，认为从内燃机转向混动和电动车是不可避免的趋势。丰田此前已对凯美瑞、RAV4 等多款车型实施混动化策略，并取得显著成功。现代目前仍提供多种动力选择，但这是首次明确提及向混动转型。",
+    "highlights_zh": [
+      "现代考虑主流车型仅推混动版",
+      "丰田混动策略成功引发效仿",
+      "现代 CEO 称淘汰内燃机不可避免",
+      "现代首次明确提及混动转型"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "丰田 | Toyota",
+      "凯美瑞",
+      "RAV4",
+      "混动"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3AXKW/s1/2026-hyundai-palisade-us-spec.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:36.216Z"
+  },
+  "https://www.thedrive.com/news/toyota-sales-keep-sinking-in-2026-the-downshift": {
+    "title_zh": "丰田销量持续下滑：2026 年 5 月再降 7.4%",
+    "summary_short": "丰田全球销量连续四个月下滑，5 月同比下降 7.4%，受中东供应挑战和中国激烈竞争影响。",
+    "summary_long": "丰田在 2026 年 5 月录得全球销量连续第四个月下降，同比减少 7.4%，主要由于中东地区的供应问题以及中国市场的激烈竞争。与此同时，起亚全球销量增长 4%，欧洲市场增长 10%，得益于其燃油经济性混合动力和纯电动车型的高需求。",
+    "highlights_zh": [
+      "丰田 5 月全球销量同比降 7.4%",
+      "连续四个月下滑",
+      "中东供应挑战与中国竞争是主因",
+      "起亚全球销量增长 4%"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "起亚 | Kia",
+      "中东",
+      "中国"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2275209306-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2025/08/feat-getty.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:39.458Z"
+  },
+  "https://www.motor1.com/news/800075/mazda-says-suvs-arent-going-anywhere/": {
+    "title_zh": "马自达：SUV 热潮不会很快结束",
+    "summary_short": "马自达认为 SUV 需求将持续增长，紧凑型 SUV 如 CX-5 仍是最大机会，电动 SUV CX-6e 预订单已超 1000 辆。",
+    "summary_long": "尽管行业内有观点认为轿车将强势回归，但马自达并不认同。马自达 6e 项目负责人 Hiroshi Ozawa 表示，全球 SUV 需求仍在增长，紧凑型 SUV 如 CX-5 仍是最大机会。他指出，欧洲城市街道狭窄推动小型车需求，中国 SUV 市场快速增长，而北美则坚定选择跨界车。马自达近期在海外市场推出电动轿车 6e，但电动跨界车 CX-6e 的预订单已超 1000 辆，远超 6e 的 700 辆。",
+    "highlights_zh": [
+      "马自达：SUV 需求将持续增长",
+      "紧凑型 SUV 如 CX-5 仍是最大机会",
+      "电动 SUV CX-6e 预订单超 1000 辆",
+      "轿车复兴论不被马自达认可"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "CX-6e",
+      "马自达 6e | Mazda 6e",
+      "SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwAg9/s1/mazda-cx-50-hybrid.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:40.154Z"
+  },
+  "https://www.motor1.com/news/800070/used-warranty-transmission/": {
+    "title_zh": "男子购买带保二手车，维修时发现保修难用",
+    "summary_short": "男子购买带保二手车，维修时发现保修流程复杂、限制多，引发对二手车保修价值的质疑。",
+    "summary_long": "一名男子购买带保二手车后，在需要维修时发现保修使用困难，流程繁琐且限制众多。事件引发对二手车保修价值的讨论：保修费用高昂（平均每月 139 美元），但实际使用时可能面临拒赔或覆盖不足的问题。机械师借此提醒消费者，购买二手车保修前需仔细评估条款，避免陷入“买了却用不上”的困境。",
+    "highlights_zh": [
+      "保修费用高昂",
+      "实际使用时可能被拒赔或覆盖不足",
+      "机械师警告：保修条款需仔细评估"
+    ],
+    "entities": [
+      "二手车保修",
+      "维修",
+      "机械师",
+      "Cars.com"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEgV1/s1/man-buys-a-used-car-with-a-warranty.-then-he-realizes-just-how-difficult-it-can-be-to-use-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:44.234Z"
+  },
+  "https://response.jp/article/2026/06/29/413347.html": {
+    "title_zh": "新型杜卡迪 Panigale V4 R 发布，555 万日元售价引热议",
+    "summary_short": "杜卡迪发布新款 Panigale V4 R，售价 555 万日元，搭载 998cc V4 引擎，最大功率 218 马力，符合 SBK 赛事规格。",
+    "summary_long": "杜卡迪日本发布了全新 Panigale V4 R，售价 555 万日元（含税）。该车是自 2001 年 996 R 以来的最新 homologation 车型，基于 SBK 赛事规则开发，融合了 MotoGP 和 SBK 技术。引擎为 998cc 90 度 V4 Desmosedici Stradale R，最大功率 218 马力/15750rpm，扭矩 114.5Nm/12000rpm，红线转速 16500rpm。配备全新进气系统、轻量化活塞、高惯性曲轴，并符合欧 5+排放标准。可选装与 Akrapovič联合开发的钛合金全段排气，功率可提升至 235 马力。变速箱采用杜卡迪赛车变速箱（DRG），空挡位于 1 挡下方，并配有专利的杜卡迪空挡锁（DNL）防止误操作。离合器为 SBK 规格的干式离合器。",
+    "highlights_zh": [
+      "售价 555 万日元",
+      "998cc V4 引擎",
+      "可选钛合金排气",
+      "配备赛车级干式离合器和 DRG 变速箱"
+    ],
+    "entities": [
+      "杜卡迪",
+      "Panigale V4 R",
+      "Desmosedici Stradale R",
+      "Akrapovič",
+      "SBK"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223176.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223176.jpg",
+      "https://response.jp/imgs/fill2/2223173.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:47.278Z"
+  },
+  "https://response.jp/article/2026/06/29/413335.html": {
+    "title_zh": "センティリオンシステム出展ものづくりワールド東京 2026，用 AI 解决制造现场课题",
+    "summary_short": "センティリオン系统将在东京 Big Sight 展出三款 AI 解决方案，应对制造现场人手不足、技术传承和效率化课题。",
+    "summary_long": "センティリオンシステム将于 2026 年 7 月 1 日至 3 日参加在东京 Big Sight 举办的“ものづくりワールド东京 2026”，该展会是日本最大级别的制造业 IT·DX 商谈展。センティリオンシステム将在展位 E38-32 展示三款 AI 解决方案：“观るAI”通过上传视频语言化熟练工的判断时机并检测风险；“聴くAI”减轻操作员负担并支持维护。这些方案旨在解决制造现场的人力不足、技术传承和业务效率化等课题。",
+    "highlights_zh": [
+      "出展“ものづくりワールド东京 2026”",
+      "展示“观るAI”和“聴くAI”等三款方案",
+      "应对人手不足、技术传承、效率化课题",
+      "展位 E38-32"
+    ],
+    "entities": [
+      "センティリオンシステム",
+      "ものづくりワールド东京 2026",
+      "观るAI",
+      "聴くAI",
+      "东京 Big Sight"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223103.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223103.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:49.003Z"
+  },
+  "https://response.jp/article/2026/06/29/413338.html": {
+    "title_zh": "SANKEILOGI 户田竣工：埼玉县户田市超 1 万平米物流设施，距都心 30 分钟",
+    "summary_short": "三井不动产旗下物流设施 SANKEILOGI 户田竣工，位于埼玉县户田市，延床面积超 1 万平米，距都心 30 分钟车程，作为都心配送据点。",
+    "summary_long": "三井不动产（SANKEI BUILDING）宣布，位于埼玉县户田市的物流设施“SANKEILOGI 户田”已竣工。该设施延床面积 10,213.51 平方米，占地 4,732.24 平方米，为地上 4 层单租户型物流设施，由福田组负责设计施工，2025 年 4 月开工。设施位于东京外环道内侧，距首都高速 5 号池袋线“户田南”IC 约 4.9 公里，距东京外环道“外环浦和”IC 约 5.3 公里，可便捷通往东京都心主要消费地，作为都心配送据点发挥功能。",
+    "highlights_zh": [
+      "延床面积超 1 万平米",
+      "地上 4 层单租户型",
+      "距都心 30 分钟车程",
+      "2025 年 4 月开工"
+    ],
+    "entities": [
+      "SANKEILOGI 户田",
+      "三井不动产",
+      "埼玉县户田市",
+      "福田组"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223110.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223110.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:51.974Z"
+  },
+  "https://response.jp/article/2026/06/29/413348.html": {
+    "title_zh": "Cardo 推出 SHOEI 专用一体式摩托车对讲机 PACKTALK-S",
+    "summary_short": "Cardo 推出专为 SHOEI 第三代头盔设计的一体式对讲机 PACKTALK-S，支持 DMC 多人群组通信，售价 6.38 万日元。",
+    "summary_long": "Cardo（卡尔多）将于 7 月 3 日发布专为 SHOEI 第三代头盔（NEOTEC 3、GT-AIR 3、J-CRUISE 3）设计的一体式对讲机 PACKTALK-S，无需额外安装，可直接嵌入头盔。该产品搭载第二代 DMC 动态网状通信技术，支持最多 15 人组网，连接时间小于 5 秒，双机通信距离 1.6 公里，组网距离 8 公里。配备 JBL 40mm 扬声器，支持自然语音操作、蓝牙 5.2 及 OTA 固件升级，售价 6.38 万日元。",
+    "highlights_zh": [
+      "专为 SHOEI 第三代头盔设计",
+      "支持 15 人 DMC 组网",
+      "JBL 40mm 扬声器",
+      "蓝牙 5.2"
+    ],
+    "entities": [
+      "卡尔多",
+      "SHOEI",
+      "PACKTALK-S",
+      "DMC"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223171.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223171.jpg",
+      "https://response.jp/imgs/fill2/2223170.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:53.609Z"
+  },
+  "https://response.jp/article/2026/06/29/413340.html": {
+    "title_zh": "从皇冠运动版到海狮：New Style Meeting 高音质汽车音响前线",
+    "summary_short": "New Style Meeting 迎来第七年，汇集高音质汽车音响改装车，采用独特锦标赛制，展现顶级音响系统。",
+    "summary_long": "作为西日本汽车音响活动“车音祭”的前奏，New Style Meeting 已举办至第七年。该活动由行业志愿者组织，采用独特的锦标赛制：每队 3 人，与对手匹配晋级，由音响评论家评审。今年虽遇雨天，仍吸引众多高品质改装车参与。其中，一辆特别版丰田 Corolla Touring ACTIVE SPORT 采用 Bram Barrel 系列扬声器加超低音的 4 路系统，搭配 Multix AMT-1 高音单元和 Helix DSP PRO MK2，实现无音染的自然音质，适合各种音乐类型。",
+    "highlights_zh": [
+      "New Style Meeting 采用锦标赛制",
+      "丰田 Corolla Touring 改装 4 路音…",
+      "Multix AMT-1 高音单元实现低失真线性表现",
+      "Helix DSP PRO MK2 提供无音染自然音…"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉旅行版",
+      "Bram",
+      "Multix",
+      "Helix"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222887.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222887.jpg",
+      "https://response.jp/imgs/fill2/2222888.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:58.103Z"
+  },
+  "https://response.jp/article/2026/06/29/413346.html": {
+    "title_zh": "吉姆尼专用伞型遮阳挡上市，一开即用轻松遮光",
+    "summary_short": "BEYOND JAPAN 推出吉姆尼专用伞型遮阳挡，像开伞一样简单安装，有效遮光降温，收纳便捷。",
+    "summary_long": "BEYOND JAPAN 为铃木吉姆尼系列推出专用伞型遮阳挡，采用类似开伞的独特结构，只需展开即可覆盖前挡风玻璃，收纳时也如收伞般紧凑，可放入门板或座椅旁。该产品能有效减少夏季车内温度上升，并保护仪表盘和方向盘免受紫外线伤害。附赠收纳袋，兼顾美观与实用。适配吉姆尼（JB64W 2018 年 7 月后）、吉姆尼 Sierra（JB74W 2018 年 7 月后）及吉姆尼 Nomad（JC74 系 2025 年 4 月后），尺寸合适也可用于其他车型。提供“块状标志”和“手写体标志”两种款式，含税价均为 4950 日元。",
+    "highlights_zh": [
+      "伞式开合",
+      "有效遮光降温",
+      "适配吉姆尼全系及部分他车",
+      "两种 Logo 款式"
+    ],
+    "entities": [
+      "BEYOND JAPAN",
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "吉姆尼 Sierra",
+      "吉姆尼 Nomad"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223168.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223168.jpg",
+      "https://response.jp/imgs/fill2/2223169.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:43:59.005Z"
+  },
+  "https://response.jp/article/2026/06/29/413345.html": {
+    "title_zh": "手机 5 分钟预测 EV 电池寿命，HKS 等三家公司启动实证实验",
+    "summary_short": "HKS、KDES 和电知三家公司合作，通过智能手机应用在 5 分钟内预测 EV 电池寿命，实证实验将于 2026 年 7 月启动。",
+    "summary_long": "日本改装零件制造商 HKS、KDE Solutions（KDES）和电知三家公司宣布，将于 2026 年 7 月至 2027 年 3 月开展 EV 电池寿命预测诊断系统的实证实验。该系统结合电知的“电化学阻抗法”实测数据与 HKS 专用设备获取的车辆信息，实现高精度电池寿命预测。诊断通过智能手机应用完成，约需 5 分钟，结果以图表和评论形式呈现，并可视化实际使用环境下的预测寿命与标准寿命的差异。实证实验将在 KDES 直营的三家工厂（大阪、堺、京都）进行，初期对象车辆为日产聆风（第一代）和日产樱花，2026 年秋季后计划增加电池起火预测诊断功能。",
+    "highlights_zh": [
+      "手机 App 5 分钟完成诊断",
+      "结合电化学阻抗法与车辆数据",
+      "初期对象为日产聆风与樱花",
+      "2026 年秋季将追加起火预测"
+    ],
+    "entities": [
+      "HKS",
+      "KDES",
+      "电知",
+      "日产 | Nissan",
+      "聆风"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223121.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223121.jpg",
+      "https://response.jp/imgs/fill2/2223122.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:02.878Z"
+  },
+  "https://response.jp/article/2026/06/29/413336.html": {
+    "title_zh": "丰田新款 RAV4 混动在肯塔基工厂投产",
+    "summary_short": "丰田肯塔基工厂开始生产新款 RAV4 混动，并建设环保涂装设施，计划 2026 年 9 月投产汉兰达纯电版。",
+    "summary_long": "丰田汽车位于美国肯塔基州的工厂已开始生产新款 RAV4 混动车型，该工厂在过去两年获得 20 亿美元投资，以扩大美国本土制造能力。同时，工厂启动了下一代涂装设施的建设，该设施可减少 30%碳排放并每年节约约 570 万升水。RAV4 是美国最畅销的小型 SUV，其混动版本的生产将满足日益增长的电动化需求。丰田肯塔基工厂还计划于 2026 年 9 月开始生产新款汉兰达纯电动车型，以支持丰田的多路径电动化战略。",
+    "highlights_zh": [
+      "丰田肯塔基工厂投产新款 RAV4 混动",
+      "投资 20 亿美元扩大美国制造能力",
+      "新建涂装设施减排 30%并节水",
+      "2026 年 9 月将生产汉兰达纯电版"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "RAV4",
+      "汉兰达",
+      "肯塔基工厂",
+      "混动"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223104.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223104.jpg",
+      "https://response.jp/imgs/fill2/2223105.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:03.591Z"
+  },
+  "https://response.jp/article/2026/06/29/413334.html": {
+    "title_zh": "本田股价持续上涨…美国 EV 电池工厂转向数据中心",
+    "summary_short": "本田股价因计划将美国 EV 电池工厂改造为数据中心而上涨，AI 相关股票则出现下跌。",
+    "summary_long": "本田股价在 6 月 26 日继续上涨，原因是公司计划将位于美国的电动汽车电池工厂改造为数据中心，以应对 AI 需求增长。同日，日经平均指数反弹，但 AI 和半导体相关股票一度下跌超过 1300 日元，随后内需股买入推动市场回升。纽约道琼斯指数下跌，纳斯达克连续 5 日下滑，而特斯拉股价上涨 1.22%。外汇市场日元兑美元在 161 日元后半段波动，汽车股几乎全面上涨。",
+    "highlights_zh": [
+      "本田股价因 EV 电池工厂转数据中心而上涨",
+      "AI 和半导体股一度大跌超 1300 日元",
+      "纽约道指下跌",
+      "特斯拉股价上涨 1.22%"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "特斯拉 | Tesla",
+      "日经平均指数",
+      "数据中心",
+      "电动汽车电池"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223125.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223125.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:07.495Z"
+  },
+  "https://response.jp/article/2026/06/29/413323.html": {
+    "title_zh": "玛莎拉蒂百年纪念：MCPURA 切洛 Tributo 1926 致敬传奇 Tipo 26",
+    "summary_short": "玛莎拉蒂为庆祝品牌百年，推出独家定制车型 MCPURA 切洛 Tributo 1926，致敬 1926 年首款赛车 Tipo 26。",
+    "summary_long": "玛莎拉蒂在意大利发布了一款名为 MCPURA 切洛 Tributo 1926 的独家定制车型，以纪念品牌创立 100 周年。该车通过玛莎拉蒂个性化定制项目 Fuoriserie 打造，灵感源自 1926 年 4 月 25 日首次搭载三叉戟徽标的传奇赛车 Tipo 26。新车在 2026 年 Mille Miglia 赛事途经摩德纳时交付给车主，向品牌百年赛车传统致敬。",
+    "highlights_zh": [
+      "纪念品牌创立 100 周年",
+      "灵感源自 1926 年传奇赛车 Tipo 26",
+      "通过 Fuoriserie 定制项目打造",
+      "在 Mille Miglia 赛事期间交付"
+    ],
+    "entities": [
+      "玛莎拉蒂",
+      "MCPURA 切洛 Tributo 1926",
+      "Tipo 26",
+      "Fuoriserie"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223075.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223075.jpg",
+      "https://response.jp/imgs/fill2/2223076.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:07.816Z"
+  },
+  "https://response.jp/article/2026/06/29/413331.html": {
+    "title_zh": "三菱全新帕杰罗将采用多功能仪表盘，实时显示行驶状态",
+    "summary_short": "三菱全新帕杰罗将配备多功能仪表盘，实时显示海拔、方位、温度、车身倾斜及扭矩分配等信息，助力越野驾驶。",
+    "summary_long": "三菱汽车宣布，计划于今秋全球首秀的全新帕杰罗将采用“多功能仪表盘”。该设计致敬历代车型备受好评的三联仪表，可实时显示海拔、方位、温度、车身前后左右倾斜角度及左右扭矩分配等信息。在陡坡、崎岖山路、岩石地带或泥泞路面等越野场景下，帮助驾驶员掌握车辆动态。官方已发布形象视频，强调“帕杰罗再次出发”。",
+    "highlights_zh": [
+      "致敬历代三联仪表",
+      "实时显示海拔、方位、温度",
+      "显示车身倾斜与扭矩分配",
+      "助力越野驾驶安全"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "多功能仪表盘"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223094.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223094.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:11.828Z"
+  },
+  "https://response.jp/article/2026/06/29/413314.html": {
+    "title_zh": "三菱欧蓝德或将推出硬派越野版“Raider”",
+    "summary_short": "三菱欧蓝德可能推出本格越野仕样“Raider”，借鉴 Triton Raider 技术，对标斯巴鲁 Outback Wilderness 等车型。",
+    "summary_long": "三菱汽车主力 SUV 欧蓝德（Outlander）可能推出本格越野仕样“Raider”。目前虽未正式发布，但三菱澳大利亚高层已表达积极态度。Raider 名称源自 Triton Raider，该车由三菱与 Premcar 合作开发，配备专用外观、升高悬架、全地形轮胎及强化底盘护板。若欧蓝德 Raider 量产，将与斯巴鲁 Outback Wilderness、现代 Santa Fe XRT 等竞争。澳大利亚是欧蓝德重要市场，在紧凑型 SUV 中销量仅次于丰田 RAV4，越野版将提升产品吸引力。",
+    "highlights_zh": [
+      "三菱欧蓝德可能推出 Raider 越野版",
+      "借鉴 Triton Raider 技术",
+      "对标斯巴鲁 Outback Wilderness 等…",
+      "澳大利亚高管表态支持"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "欧蓝德",
+      "Raider",
+      "Triton",
+      "斯巴鲁 | Subaru"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222019.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222019.jpg",
+      "https://response.jp/imgs/fill2/2222880.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:12.386Z"
+  },
+  "https://www.motor1.com/news/800013/volkswagen-software-ota-update-stranded/": {
+    "title_zh": "大众电动车因 OTA 更新被困停车场近两小时",
+    "summary_short": "一对夫妇驾驶大众电动车购物后，因车辆强制 OTA 更新被困停车场近两小时，无法行驶。",
+    "summary_long": "一对夫妇驾驶大众电动车外出就餐后，返回车辆时发现车辆正在安装软件更新，导致车辆无法行驶。他们被困在停车场近两个小时，只能等待更新完成。车主在 TikTok 上分享了这一经历，引发关注。",
+    "highlights_zh": [
+      "大众电动车因 OTA 更新无法行驶",
+      "车主被困停车场近两小时",
+      "更新期间车辆完全无法操作"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "OTA 更新",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8vjQ/s1/couple-takes-volkswagen-shopping..jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:16.119Z"
+  },
+  "https://www.motor1.com/news/800048/next-mazda-miata-last-gas-engine/": {
+    "title_zh": "马自达暗示新一代 MX-5 Miata 或为最后一代燃油版",
+    "summary_short": "马自达高管暗示，新一代 MX-5 Miata 可能是最后一代搭载燃油发动机的车型，预计将采用 2.5 升 Skyactiv-Z 发动机，并保持轻量化。",
+    "summary_long": "马自达澳大利亚 CEO Vinesh Bhindi 透露，公司一位高管暗示新一代 MX-5 Miata（NE 代）可能是最后一代使用内燃机的版本。新车预计将搭载 2.5 升 Skyactiv-Z 自然吸气发动机，匹配六速手动变速箱，并努力将车重控制在 1000 公斤以内。尽管 ND 代车型已上市超过十年，但其经典轻量化设计仍受市场欢迎。",
+    "highlights_zh": [
+      "新一代 MX-5 或为最后一代燃油版",
+      "预计搭载 2.5 升 Skyactiv-Z 发动机",
+      "车重目标低于 1000 公斤",
+      "保留六速手动变速箱"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MX-5 Miata",
+      "Skyactiv-Z",
+      "内燃机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0eEYR3/s1/mazda-miata-california-road-trip.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:16.398Z"
+  },
+  "https://www.motor1.com/news/800038/new-hyundai-elantra-n-design/": {
+    "title_zh": "现代暗示新款伊兰特 N 将更宽",
+    "summary_short": "现代设计总监透露，新款伊兰特 N 将拥有更宽的轮拱和更运动的造型，可能搭载 2.5 升发动机，预计 2027 年亮相。",
+    "summary_long": "在 2026 釜山车展上，现代发布了第八代伊兰特，其设计灵感源自 N Vision 74 概念车。现代设计负责人 Sangyup Lee 暗示，高性能 N 版本将拥有更宽的轮拱和更运动的姿态。普通版伊兰特宽度已达 1855 毫米，比上一代增加 30 毫米。动力方面，前研发负责人 Albert Biermann 曾透露新车可能采用 2.5 升发动机，取代现款的 2.0 升。预计新款伊兰特 N 将在 2027 年首次亮相。",
+    "highlights_zh": [
+      "现代设计总监暗示伊兰特 N 将更宽",
+      "普通版宽度已达 1855 毫米",
+      "可能换装 2.5 升发动机",
+      "预计 2027 年亮相"
+    ],
+    "entities": [
+      "现代",
+      "伊兰特 N",
+      "N Vision 74",
+      "釜山车展"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lvQ7/s1/2027-hyundai-avante.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/hyundai-new-high-performance-engine.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:20.516Z"
+  },
+  "https://www.motor1.com/news/800024/new-mitsubishi-pajero-offroad-display/": {
+    "title_zh": "全新三菱帕杰罗配备专属越野屏幕",
+    "summary_short": "全新三菱帕杰罗将配备复古风格数字多功能仪表，显示俯仰角、侧倾角、海拔、指南针等越野信息。",
+    "summary_long": "三菱宣布帕杰罗（部分市场称 Montero）回归，第五代车型将于今年秋季亮相。新车将搭载复古风格的数字多功能仪表（Multi Meter），可显示俯仰角、侧倾角、海拔、指南针方向及左右扭矩分配等越野数据。该屏幕可能集成在仪表盘或信息娱乐系统中，但理想情况下是独立显示，便于快速访问。新车基于 Triton 的梯形框架打造，具备真正的四驱能力，是帕杰罗的正统续作。",
+    "highlights_zh": [
+      "第五代帕杰罗秋季亮相",
+      "配备数字多功能仪表",
+      "基于 Triton 梯形框架",
+      "复古风格设计致敬经典"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗 | Pajero",
+      "Montero",
+      "Triton"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egX6V/s1/2027-mitsubishi-pajero-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-29T16:44:20.812Z"
   }
 }

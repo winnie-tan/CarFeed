@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-29T04:57:37.888Z",
+    "generated_at": "2026-06-29T16:43:30.958Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 379,
+    "deepseek_untranslated_before_run": 21,
+    "newly_fetched_articles": 21,
+    "newly_fetched_untranslated": 21,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 21,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.6.29",
-        "title": "AIDVの開発にもAIを活用、日産がプラットフォームをデモ…AWS Summit Japan 2026",
-        "url": "https://response.jp/article/2026/06/29/413300.html"
+        "title": "Hyundai Could Be The Next Automaker To Go Hybrid-Only",
+        "url": "https://www.motor1.com/news/800081/hyundai-toyota-hybrid-only-strategy/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.29",
+        "title": "‘I’m So Nervous’: Woman Goes 4 Years Without An Oil Change. Then She Goes To Take 5",
+        "url": "https://www.motor1.com/news/800071/woman-4-years-oil-change/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.29",
+        "title": "Mazda Doesn't Think The SUV Boom Will End Anytime Soon",
+        "url": "https://www.motor1.com/news/800075/mazda-says-suvs-arent-going-anywhere/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.29",
+        "title": "Toyota Sales Keep Sinking in 2026: The Downshift",
+        "url": "https://www.thedrive.com/news/toyota-sales-keep-sinking-in-2026-the-downshift"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.29",
+        "title": "Man Buys A Used Car With A Warranty. Then He Realizes Just How Difficult It Can Be To Use It",
+        "url": "https://www.motor1.com/news/800070/used-warranty-transmission/"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "AIで価格改定・商品情報管理を自動化、モノリストが出展…ものづくりワールド東京 2026",
-        "url": "https://response.jp/article/2026/06/29/413322.html"
+        "title": "「マジで頭おかしい」「555万でも安い」公道を走れるレーシングバイク、新型ドゥカティ『パニガーレ V4 R』発売にファン驚愕",
+        "url": "https://response.jp/article/2026/06/29/413347.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "AIナレッジ管理ツール「saguroot」、丹青社が出展へ…ものづくりワールド東京 2026",
-        "url": "https://response.jp/article/2026/06/29/413320.html"
+        "title": "AIで製造現場の課題解決へ、センティリオンシステムが出展…ものづくりワールド東京 2026",
+        "url": "https://response.jp/article/2026/06/29/413335.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "BMW『X5』、新エントリーモデル「オリジナル」追加…1298万円",
-        "url": "https://response.jp/article/2026/06/29/413298.html"
+        "title": "SANKEILOGI戸田が竣工、埼玉県戸田市に延床面積1万平方m超の物流施設…都心30分圏",
+        "url": "https://response.jp/article/2026/06/29/413338.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "EVポールスター、米国市場から事実上撤退…コネクテッドビークル規則で2027年以降販売禁止へ",
-        "url": "https://response.jp/article/2026/06/29/413313.html"
+        "title": "SHOEIヘルメットに一体装着！ カルド、新型インカム『PACKTALK-S』発売 6万3800円",
+        "url": "https://response.jp/article/2026/06/29/413348.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "GM、車載エンタメを米国で大幅強化…Google Playで200以上のアプリが利用可能に",
-        "url": "https://response.jp/article/2026/06/29/413312.html"
+        "title": "クラウンスポーツからハイエースまで！ New Style Meetingで輝いた高音質カーオーディオ最前線",
+        "url": "https://response.jp/article/2026/06/29/413340.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "MAHLEとローデ・シュワルツ、ADAS修理後のセンサー検査プラットフォーム共同開発",
-        "url": "https://response.jp/article/2026/06/29/413309.html"
+        "title": "ジムニー専用「傘型サンシェード」2種類が発売…開くだけの簡単設置でフロントガラスを遮光",
+        "url": "https://response.jp/article/2026/06/29/413346.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "アウディ『A3セダン』改良新型、最大210km/hの車線変更支援や自動駐車機能を強化…欧州発表",
-        "url": "https://response.jp/article/2026/06/29/413306.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.29",
-        "title": "えええ、こんな細いパーツで!? トライトンの標準装備になった機能が感動モノすぎる",
-        "url": "https://bestcarweb.jp/newcar/1557278"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.29",
-        "title": "えええ、ベストカーだけの限定価格ってマジ!? エコフロー自慢のポタ電とポータブルエアコンが車中泊ユーザーにぴったりすぎる!!!!【PR】",
-        "url": "https://bestcarweb.jp/feature/tieup/1544387"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.29",
-        "title": "カローラじゃなかったらどうする!? ワゴン級の積載性で走りも文句なしの実力はって!?",
-        "url": "https://bestcarweb.jp/feature/column/1543357"
+        "title": "スマホで5分、EVバッテリー寿命を予測診断…エッチ・ケー・エスら3社が実証実験",
+        "url": "https://response.jp/article/2026/06/29/413345.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "スタンレー電気・人事情報 2026年4月23日付・4月24日付",
-        "url": "https://response.jp/article/2026/06/29/413321.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.29",
-        "title": "ソリオは新エンジンでどう変わった？ 走りと燃費の違いを徹底チェック！",
-        "url": "https://bestcarweb.jp/feature/column/1556837"
+        "title": "トヨタ『RAV4ハイブリッド』新型、ケンタッキー工場で生産開始…米国最量販小型SUV",
+        "url": "https://response.jp/article/2026/06/29/413336.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "トヨタファイナンシャルサービス「my route」、山口・サンデン交通の1日乗り放題デジタル乗車券を7月1日発売",
-        "url": "https://response.jp/article/2026/06/29/413318.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.29",
-        "title": "ノートは高齢の親にも勧められる？ 視界、乗降性、安全装備で見る安心コンパクト",
-        "url": "https://bestcarweb.jp/feature/column/1555187"
+        "title": "ホンダ株価が続伸…米EV電池工場をデータセンター向けに転換",
+        "url": "https://response.jp/article/2026/06/29/413334.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "ポルシェ 911 GT3 ベース、新型レーシングカー「GT4 R」発表…自然吸気ボクサー6は最大520馬力",
-        "url": "https://response.jp/article/2026/06/29/413310.html"
+        "title": "マセラティ創業100周年記念、「MCPURAチェロ トリブート1926」発表…伝説の「ティーポ26」に敬意",
+        "url": "https://response.jp/article/2026/06/29/413323.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "マツダ「787B」、ル・マン優勝35周年記念でサルト・サーキットに再登場へ…ル・マン クラシック2026",
-        "url": "https://response.jp/article/2026/06/29/413296.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.29",
-        "title": "まるで猛獣の爪痕!! 200系ハイエースの印象激変!! バレンティの新作テールランプがスゴイ!!",
-        "url": "https://bestcarweb.jp/news/1561031"
+        "title": "三菱『アウトランダー』に本格オフロード仕様登場か!? トライトン譲りの「レイダー」",
+        "url": "https://response.jp/article/2026/06/29/413314.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.29",
-        "title": "ヤマハの無人ヘリで“空から”マヤ文明の調査へ、森林計測のノウハウ活用で",
-        "url": "https://response.jp/article/2026/06/29/413315.html"
+        "title": "三菱『パジェロ』新型、「マルチメーター」採用へ…走行状況をリアルタイム表示",
+        "url": "https://response.jp/article/2026/06/29/413331.html"
       },
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.6.29",
-        "title": "ランクルは高すぎる………そんな人に注目！ V6搭載の本格SUVが250万円前後！ 先代グランドチェロキー中古車事情",
-        "url": "https://bestcarweb.jp/feature/column/1545659"
+        "title": "Man Takes His Volkswagen To Store. Then It Starts Updating In The Parking Lot: ‘Been Stuck For Almost 2 Hours’",
+        "url": "https://www.motor1.com/news/800013/volkswagen-software-ota-update-stranded/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.29",
+        "title": "Mazda Suggests The New Miata Will Be The Last With A Gas Engine",
+        "url": "https://www.motor1.com/news/800048/next-mazda-miata-last-gas-engine/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.29",
+        "title": "Hyundai Hints The New Elantra N Will Be Even Wider",
+        "url": "https://www.motor1.com/news/800038/new-hyundai-elantra-n-design/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-06-29T04:57:38.204Z",
-    "finished_at": "2026-06-29T04:58:51.292Z",
+    "scoped_articles": 21,
+    "queued_articles": 21,
+    "processed": 21,
+    "started_at": "2026-06-29T16:43:31.284Z",
+    "finished_at": "2026-06-29T16:44:20.827Z",
     "success": true,
     "error": ""
   }
