@@ -55384,5 +55384,778 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-29T16:44:20.812Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530969": {
+    "title_zh": "ATTS：汽车界缩写猜谜",
+    "summary_short": "ATTS 是 Active Torque Transfer System 的缩写，本田 1996 年最终款 Prelude 搭载的驱动力分配系统，可改善 FF 车转向不足。",
+    "summary_long": "ATTS 全称 Active Torque Transfer System，是本田为改善前驱车转向不足而开发的驱动力分配系统，1996 年首次搭载于最终款 Prelude。该系统在转弯时提高外侧车轮转速，将左右驱动力最大控制在 80:20，显著提升弯道性能。Prelude 还配备了后轮最大转向 8 度的 4WS 系统和 VTEC 发动机，成为一代经典。",
+    "highlights_zh": [
+      "ATTS 全称 Active Torque Tran…",
+      "1996 年最终款 Prelude 首次搭载",
+      "左右驱动力最大 80:20 分配",
+      "改善 FF 车转向不足"
+    ],
+    "entities": [
+      "Active Torque Transfer System",
+      "本田 | Honda",
+      "プレリュード",
+      "四轮转向",
+      "VTEC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110711/00c-1.png?v=1779761233",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110711/00c-1-600x400.png?v=1779761233",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23122551/27395741_m-600x400.jpg?v=1782185152"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:01.006Z"
+  },
+  "https://response.jp/article/2026/06/30/413372.html": {
+    "title_zh": "保时捷首款 EV“曼泰套件”登场，Taycan Turbo GT 性能暴增",
+    "summary_short": "保时捷为 Taycan Turbo GT 推出首款 EV 专用曼泰套件，空力大幅升级，纽北圈速 6 分 55 秒 533。",
+    "summary_long": "保时捷宣布将曼泰套件首次应用于电动车型，为 Taycan Turbo GT（配备魏斯阿赫套件）提供空力、底盘和动力系统的全面优化。该套件使车辆在纽博格林北环创下 6 分 55 秒 533 的电动行政车纪录。核心升级包括大幅提升的空气动力学套件，200km/h 下压力从 95kg 增至 310kg，最高时速提升至 310km/h 时总下压力约 740kg。主要部件有新型大尺寸尾翼、优化前扩散器、高性能后扩散器、底部导流板及碳纤维轮毂空气盘，且尾翼和前扩散器下压力可调。套件支持新车选装和后期加装。",
+    "highlights_zh": [
+      "保时捷首款 EV 曼泰套件",
+      "纽北圈速 6 分 55 秒 533",
+      "下压力从 95kg 增至 310kg",
+      "空力部件可调"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Taycan Turbo GT",
+      "曼泰套件",
+      "纽博格林北环"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223215.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223215.jpg",
+      "https://response.jp/imgs/fill2/2223213.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:01.934Z"
+  },
+  "https://response.jp/article/2026/06/30/413371.html": {
+    "title_zh": "东京贸易 Techno System 在“制造世界东京 2026”展出 7 种测量解决方案",
+    "summary_short": "东京贸易 Techno System 将在制造世界东京 2026 展出 7 种测量解决方案，涵盖 3D 扫描、机器人自动测量、AR 现场支援等，助力制造业提升效率。",
+    "summary_long": "东京贸易 Techno System 将在 7 月 1 日至 3 日于东京 Big Sight 举办的“制造世界东京 设计·制造解决方案展”上展出 7 种测量解决方案。该公司拥有 30 多年高精度 3D 测量经验，服务汽车、重工、航空等领域。本次展示以“测量”为核心，提出包括手持 3D 扫描仪、虚拟试错、便携式三坐标测量机、机器人自动测量、激光跟踪仪、自主移动机器人无人测量以及首次展出的 AR 现场支援解决方案，旨在优化制造流程。",
+    "highlights_zh": [
+      "展出 7 种测量解决方案",
+      "涵盖 3D 扫描、机器人自动测量",
+      "首次展出 AR 现场支援方案",
+      "面向汽车、航空等制造业"
+    ],
+    "entities": [
+      "东京贸易 Techno System",
+      "制造世界东京 2026",
+      "3D 扫描仪",
+      "自主移动机器人",
+      "AR 现场支援"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223274.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223274.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:05.290Z"
+  },
+  "https://response.jp/article/2026/06/30/413367.html": {
+    "title_zh": "80 万人超知见数据库助力制造现场，VisasQ 将参展 2026 年制造业 DX 展",
+    "summary_short": "VisasQ 利用 80 万人以上专家数据库，为制造业提供现场课题解决方案，将参展 2026 年东京制造业 DX 展。",
+    "summary_long": "VisasQ（ビザスク）将于 2026 年 7 月 1 日至 3 日参加在东京 Big Sight 举办的“第 38 届制造业世界[东京]”内的“第 4 届制造业 DX 展[东京]”。该公司运营一个拥有国内外超过 80 万人专家知识的全球知识平台，支持新业务开发、研发、DX 推进、IT 战略规划等广泛用途。针对制造业面临的智能工厂化、供应链重组及新业务创出等课题，VisasQ 将展示其“VisasQ interview”服务，通过匹配专家进行直接访谈，帮助客户高效获取一手信息，把握现场真实需求，加速变革。",
+    "highlights_zh": [
+      "80 万+专家数据库支撑现场课题解决",
+      "VisasQ 参展 2026 年制造业 DX 展",
+      "提供 1 小时起专家直接访谈服务",
+      "助力制造业主抓一手信息加速变革"
+    ],
+    "entities": [
+      "ビザスク",
+      "制造业 DX 展",
+      "东京 Big Sight",
+      "知识平台",
+      "专家访谈"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223261.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223261.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:06.887Z"
+  },
+  "https://response.jp/article/2026/06/30/413360.html": {
+    "title_zh": "宝马 iX3 新增入门版 iX3 40，续航 637km",
+    "summary_short": "宝马 iX3 新增入门版 iX3 40，搭载 Gen6 eDrive 技术，WLTP 续航 637km，支持 300kW 快充。",
+    "summary_long": "宝马宣布为新一代 iX3 新增入门车型 iX3 40，将于今夏在欧洲上市。该车采用第 6 代 eDrive 技术，后轴搭载 235kW 电励磁同步电机，0-100km/h 加速 5.9 秒。配备 82.6kWh 电池，支持 300kW 快充，WLTP 续航最高 637km。",
+    "highlights_zh": [
+      "新增入门版 iX3 40",
+      "后驱 320hp",
+      "82.6kWh 电池",
+      "WLTP 续航最高 637km"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3",
+      "iX3 40",
+      "Gen6 eDrive"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223182.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223182.jpg",
+      "https://response.jp/imgs/fill2/2223184.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:09.363Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1554954": {
+    "title_zh": "沿着 JR 御殿场线，从国府津到沼津的巴士之旅",
+    "summary_short": "尝试沿着 JR 御殿场线，从国府津到沼津乘坐路线巴士，实际体验如何？",
+    "summary_long": "本文作者尝试沿着 JR 御殿场线，从神奈川县的国府津到静冈县的沼津，尽可能贴近铁路线乘坐路线巴士移动。此前已确认沿线有巴士连接，但实际执行时发现，国府津至松田段的直达巴士仅在早晚运行，理想路线难以实现。",
+    "highlights_zh": [
+      "尝试沿 JR 御殿场线乘巴士移动",
+      "国府津至松田段直达巴士班次少",
+      "理想路线与现实存在差距"
+    ],
+    "entities": [
+      "JR 御殿场线",
+      "国府津",
+      "沼津",
+      "富士急 Mobility"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/19152832/gtmbl_bsmvclg_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/23153322/ogswlbs_lnis2605_catch-1024x684.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/18132121/jrgtmbln_bsmvsml_catch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:10.496Z"
+  },
+  "https://response.jp/article/2026/06/30/413362.html": {
+    "title_zh": "UL Japan 在爱知县丰田市开设最新 EMC 试验所 ATIC",
+    "summary_short": "UL Japan 在爱知县丰田市开设最新 EMC 试验所 ATIC，支持次世代汽车电子设备电磁兼容性测试。",
+    "summary_long": "UL Japan 在爱知县丰田市开设了最新 EMC 试验所 ATIC（Automotive Technology & Innovation Center），专注于汽车电子设备的电磁兼容性测试。随着 BEV、HEV、ADAS 和自动驾驶技术的普及，电子设备数量激增，EMC 测试的重要性日益凸显。ATIC 将提供先进的测试环境，确保电子设备不互相干扰，支持次世代移动出行开发。",
+    "highlights_zh": [
+      "UL Japan 开设最新 EMC 试验所 ATIC",
+      "位于爱知县丰田市",
+      "专注汽车电子设备电磁兼容性测试",
+      "支持 BEV、HEV、ADAS 等次世代技术"
+    ],
+    "entities": [
+      "UL Japan",
+      "ATIC",
+      "爱知县丰田市",
+      "EMC"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222944.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222944.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:15.540Z"
+  },
+  "https://response.jp/article/2026/06/30/413353.html": {
+    "title_zh": "起亚 PBV 仓敷店 7 月 1 日开业，销售电动货车 PV5",
+    "summary_short": "起亚 PBV 日本与 LAC Mobile 合作，在冈山县仓敷市开设新店，销售电动货车 PV5 并提供服务。",
+    "summary_long": "起亚 PBV 日本与 LAC Mobile 签署正规销售店合同，后者将于 7 月 1 日在冈山县仓敷市开设“Kia PBV 仓敷”店。该店位于国道 2 号线与冈山绕道沿线，交通便利。店内设有展厅和服务工厂，配备 3 个工位可同时进行多台车辆维修。展厅按起亚全球品牌设计理念打造，展示 PV5 等车型，并提供露营车改装等移动解决方案。LAC Mobile 社长表示，PV5 不仅是电动汽车，更是新型移动出行方式，兼具环保性、实用性和扩展性，满足商务及个人需求。",
+    "highlights_zh": [
+      "7 月 1 日开业",
+      "销售电动货车 PV5 并提供服务",
+      "展厅按起亚全球设计理念打造",
+      "3 个工位"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5",
+      "LAC Mobile",
+      "仓敷"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223141.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223141.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:15.993Z"
+  },
+  "https://response.jp/article/2026/06/30/413373.html": {
+    "title_zh": "6 月新车文章 TOP5：五十铃 D-MAX 平行进口版受关注",
+    "summary_short": "6 月新车文章排行榜发布，五十铃 D-MAX 平行进口版凭借 3L 柴油涡轮增压四驱系统成为焦点。",
+    "summary_long": "基于访问量统计的 6 月新车文章排行榜出炉，五十铃 D-MAX 平行进口版凭借 3L 柴油涡轮增压发动机和四驱系统成为本月最受关注车型。该榜单综合了多款新车的报道热度，反映了消费者对硬派皮卡的兴趣。",
+    "highlights_zh": [
+      "五十铃 D-MAX 平行进口版登顶",
+      "3L 柴油涡轮增压四驱系统",
+      "6 月新车文章热度排行"
+    ],
+    "entities": [
+      "五十铃",
+      "D-MAX",
+      "柴油涡轮增压",
+      "四驱"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223070.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223070.webp",
+      "https://response.jp/imgs/zoom/2216433.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:18.819Z"
+  },
+  "https://bestcarweb.jp/feature/column/1557479": {
+    "title_zh": "汽油补贴何时结束？价格何时才能降？",
+    "summary_short": "日本汽油补贴政策持续，但中东局势缓和后可能终止，届时油价或再度飙升。",
+    "summary_long": "日本政府因中东局势导致原油价格飙升，于 2026 年 3 月实施汽油补贴，将零售价控制在 170 日元/升左右。补贴直接发放给石油批发商，若无补贴，油价可能高达 200-215 日元。随着美伊和谈推进，补贴可能逐步退出，届时油价或再次上涨。",
+    "highlights_zh": [
+      "日本汽油补贴自 2026 年 3 月实施",
+      "目标价 170 日元/升",
+      "若无补贴",
+      "美伊和谈或导致补贴终止"
+    ],
+    "entities": [
+      "日本政府",
+      "汽油补贴",
+      "中东局势",
+      "原油价格"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23011756/27578095_m.jpg?v=1782145077",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23011756/27578095_m-600x400.jpg?v=1782145077",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23122551/27395741_m-600x400.jpg?v=1782185152"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:19.858Z"
+  },
+  "https://response.jp/article/2026/06/30/413365.html": {
+    "title_zh": "Fairy Devices 在“制造世界东京 2026”展出可穿戴 AI 解析服务",
+    "summary_short": "Fairy Devices 将在东京展出首挂式可穿戴设备 THINKLET 及 FPV 视频解析服务，体验将现场暗默知转化为数据。",
+    "summary_long": "Fairy Devices 将于 7 月 1 日至 3 日在东京 Big Sight 举办的“第 38 届制造世界[东京]”上展出。该公司以“使人类所有智慧可流通”为使命，提供将现场信息转化为机器学习数据的硬件和软件解决方案。展位将展示首挂式可穿戴设备“THINKLET”及其远程支援服务“LINKLET”，以及新服务“第一人称视角（FPV）视频解析计划”。该计划利用 AI 分析 THINKLET 拍摄的 FPV 视频，将作业者行动和状况数据化。7 月 1 日和 3 日限定，参观者可免费佩戴 THINKLET 在会场内行走，体验 AI 解析结果，将现场暗默知可视化。",
+    "highlights_zh": [
+      "展出首挂式可穿戴设备 THINKLET",
+      "新服务 FPV 视频解析计划",
+      "7 月 1 日、3 日限定体验",
+      "将暗默知转化为数据"
+    ],
+    "entities": [
+      "Fairy Devices",
+      "THINKLET",
+      "LINKLET",
+      "制造世界东京"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223258.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223258.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:23.319Z"
+  },
+  "https://response.jp/article/2026/06/30/413355.html": {
+    "title_zh": "MotoGP 荷兰站：小椋蓝首胜，日本车手 22 年后再夺冠",
+    "summary_short": "MotoGP 荷兰站，25 岁日本车手小椋蓝（Ai Ogura）代表阿普利亚夺得生涯首胜，这是日本车手 22 年来再次在最高组别夺冠。",
+    "summary_long": "在 6 月 28 日举行的 MotoGP 荷兰站（第 10 站）中，阿普利亚车队 25 岁日本车手小椋蓝（Ai Ogura）夺得生涯首胜。这是自 2004 年玉田诚（Makoto Tamada）在日本站夺冠后，日本车手时隔 22 年再次在 MotoGP 最高组别获胜。小椋蓝本赛季从 Moto2 升入 MotoGP，此前已在法国站获得季军、捷克站获得亚军，目前以 4 位积分与榜首相差 25 分。",
+    "highlights_zh": [
+      "小椋蓝 MotoGP 首胜",
+      "日本车手 22 年后再夺冠",
+      "阿普利亚车队获胜",
+      "赛季已两次登上领奖台"
+    ],
+    "entities": [
+      "MotoGP",
+      "小椋蓝",
+      "阿普利亚",
+      "荷兰大奖赛",
+      "玉田诚"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223233.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223233.jpg",
+      "https://response.jp/imgs/fill2/2223234.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:25.636Z"
+  },
+  "https://bestcarweb.jp/feature/column/1557216": {
+    "title_zh": "丰田全新一代 Hilux 上市，设计霸气但停车成难题？",
+    "summary_short": "丰田第九代 Hilux 上市，设计霸气、配置升级，但停车问题引发热议。",
+    "summary_long": "丰田于 2026 年 5 月 28 日推出第九代 Hilux，基于“Cyber SUMO”设计理念，外观极具存在感。动力从 2.4L 柴油涡轮增压升级为 2.8L，扭矩更充沛，载重 500kg 仍从容。安全配置达到现代水准，标配预碰撞安全、全速域雷达巡航、盲点监测等。12.3 英寸导航、电动助力转向、电子手刹也全系标配，舒适性媲美 SUV。货台实用性提升，标配踏板方便装卸。此外，Hilux 保值率堪比 Land Cruiser，残值设定贷款降低月付，成为“不易亏损”的选择。",
+    "highlights_zh": [
+      "第九代 Hilux 设计源自“Cyber SUMO”",
+      "发动机升级为 2.8L 柴油",
+      "安全与舒适配置大幅提升",
+      "保值率极高"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Hilux",
+      "Land Cruiser"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22162612/s-20260528_01_04_1.jpg?v=1782113173",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23122551/27395741_m-600x400.jpg?v=1782185152",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29105434/260225_017_1-600x400.jpg?v=1782698075"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:28.673Z"
+  },
+  "https://response.jp/article/2026/06/30/413376.html": {
+    "title_zh": "Gordon Murray T.50s 尼基·劳达首台客户车全球首秀",
+    "summary_short": "Gordon Murray 将在古德伍德速度节展示 T.50s 尼基·劳达首台客户车，并带来 S1 LM 设计模型和 T.33 Spider 原型车。",
+    "summary_long": "Gordon Murray Automotive 将在 2026 年古德伍德速度节展出四款车型，包括 T.50s 尼基·劳达的首台客户车（底盘 1）的全球首秀，该车将实际爬坡行驶。车身以白色为底，采用南非国旗主题涂装，致敬 Murray 1974 年在卡拉米的首个 F1 胜利。此外，S1 LM 设计模型将首次在欧洲亮相，该车曾在拉斯维加斯拍卖创下 2063 万美元的新车最高纪录。T.33 Spider 验证原型车也将进行全球首次公开动态展示，搭载 3.9 升自然吸气 V12 发动机。",
+    "highlights_zh": [
+      "T.50s 尼基·劳达首台客户车全球首秀",
+      "S1 LM 设计模型欧洲首展",
+      "T.33 Spider 原型车首次公开动态展示",
+      "致敬 1974 年 F1 首胜的南非主题涂装"
+    ],
+    "entities": [
+      "Gordon Murray Automotive",
+      "T.50s 尼基·劳达 | T.50s Niki Lauda",
+      "S1 LM",
+      "T.33 Spider",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223280.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223280.jpg",
+      "https://response.jp/imgs/fill2/2223281.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:30.699Z"
+  },
+  "https://response.jp/article/2026/06/30/413364.html": {
+    "title_zh": "雪铁龙超小型 EV 'Ami' 推出限量版 'Lip Curl'，融合冲浪文化与电动出行",
+    "summary_short": "雪铁龙与冲浪品牌 Lip Curl 合作推出限量版 Ami Lip Curl，提供日出和日落两种版本，设计融合冲浪文化，续航 75 公里。",
+    "summary_long": "雪铁龙与冲浪品牌 Lip Curl 合作，推出限量版车型 Ami Lip Curl。该车基于超小型电动车 Ami 打造，提供“日出”（黄色）和“日落”（紫色）两种版本，车身采用黑色涂装，搭配专属贴纸和 14 英寸白色轮毂，内饰配备 5.7 英寸彩色数字显示屏。Ami Lip Curl 延续了 Ami 的电动驱动系统，续航里程 75 公里，最高时速 45 公里，在部分欧洲国家 14 岁以上无需驾照即可驾驶。",
+    "highlights_zh": [
+      "雪铁龙与冲浪品牌 Lip Curl 合作",
+      "提供日出（黄）和日落（紫）两种版本",
+      "续航 75 公里",
+      "配备 5.7 英寸彩色数字显示屏"
+    ],
+    "entities": [
+      "雪铁龙",
+      "Ami",
+      "Lip Curl"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223240.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223240.jpg",
+      "https://response.jp/imgs/fill2/2223241.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:33.435Z"
+  },
+  "https://response.jp/article/2026/06/30/413363.html": {
+    "title_zh": "Prusa Research 将在东京展示硅胶 3D 打印头",
+    "summary_short": "Prusa Research 与名古屋工艺合作，将在东京展示专为 Original Prusa XL 设计的硅胶 3D 打印头，实现硬质与硅胶材料一体化打印。",
+    "summary_long": "捷克 3D 打印机制造商 Prusa Research 与名古屋工艺合作，将于 7 月 1 日至 3 日在东京 Big Sight 举办的“第 38 届制造世界东京”上联合展出。最大亮点是专为“Original Prusa XL”设计的硅胶 3D 打印头，采用专利“液态丝材”技术，将液态硅胶通过专用管材送入工具头，混合后挤出并固化。结合 XL 的多工具系统，可在一次打印中集成硬质材料与硅胶，适用于防水密封件、复合结构零件等，简化传统多工序制造。应用领域涵盖医疗、机器人、制造业、原型开发及电影特效。",
+    "highlights_zh": [
+      "Prusa Research 与名古屋工艺联合参展",
+      "专为 Original Prusa XL 设计的硅胶…",
+      "专利液态丝材技术实现硅胶 FDM 打印",
+      "一次打印集成硬质与硅胶材料"
+    ],
+    "entities": [
+      "Prusa Research",
+      "Original Prusa XL",
+      "名古屋工艺",
+      "液态丝材",
+      "硅胶 3D 打印"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223236.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223236.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:35.345Z"
+  },
+  "https://bestcarweb.jp/news/1561414": {
+    "title_zh": "铃木 Spacia 三种前脸设计！N-BOX 没有的后排功能和循环扇太方便了",
+    "summary_short": "铃木全新 Spacia 系列提供三种前脸设计，后排配备循环扇等便利功能，挑战本田 N-BOX 霸主地位。",
+    "summary_long": "铃木全新 Spacia 和 Spacia Custom 全面革新，以集装箱为灵感的外观设计充满趣味，并配备数字仪表和电动驻车制动（部分车型）。标准版、Custom 版和 Gear 版各有不同前脸和内饰风格：标准版柔和温馨，Custom 版镀铬装饰运动感强，Gear 版采用圆形头灯凸显 SUV 风格。后排配备循环扇等 N-BOX 没有的实用功能，大幅提升便利性。",
+    "highlights_zh": [
+      "三种前脸设计：标准、Custom、Gear",
+      "后排配备循环扇",
+      "数字仪表和电动驻车制动升级",
+      "集装箱灵感外观"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "スペーシア",
+      "本田 | Honda",
+      "N-BOX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26152055/af3ed4faa0e19fc2e07df804322f2524.jpg?v=1782454857",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26152055/af3ed4faa0e19fc2e07df804322f2524-600x394.jpg?v=1782454857",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26185021/0cdde1e83dfc418f909f8f700f6d092e-600x600.jpg?v=1782467422"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:38.100Z"
+  },
+  "https://bestcarweb.jp/fullload/1560107": {
+    "title_zh": "戴姆勒与 KEYOU 合作，2027 年推出氢发动机大型卡车",
+    "summary_short": "戴姆勒卡车与 KEYOU 合作，基于现有柴油机改造氢发动机，计划 2027 年推出大型氢燃料卡车，作为零排放运输的补充方案。",
+    "summary_long": "戴姆勒卡车与德国公司 KEYOU 宣布合作，将基于戴姆勒现有卡车发动机改造为氢内燃机，实现快速市场化。首款车型为大型牵引车“KEYOU HICE.40”，计划 2027 年上市，随后几年内大规模推广。戴姆勒坚持电动与氢能双轨战略，氢发动机将作为电池电动和燃料电池技术的补充，适用于高负载和特种车辆。",
+    "highlights_zh": [
+      "2027 年推出氢发动机大型卡车",
+      "基于现有柴油机改造",
+      "作为电池电动和燃料电池的补充",
+      "戴姆勒坚持电动与氢能双轨战略"
+    ],
+    "entities": [
+      "戴姆勒卡车",
+      "KEYOU",
+      "氢发动机",
+      "大型卡车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/25131018/00-KEYOU_HICE40_Actros_H2-Sattelzugmaschine_Key_Visual_pressphoto_01_CMYK.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/22174414/WEB_JTS26_ProfiaFCV-Protorefrigerater_Eyecatch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/24092245/00_260624BCW-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:39.190Z"
+  },
+  "https://bestcarweb.jp/feature/column/1561050": {
+    "title_zh": "大发 Taft",
+    "summary_short": "大发 Taft 以 141.9 万日元起售，标配全景天窗和 190mm 离地间隙，是一款个性十足的轻 SUV。",
+    "summary_long": "大发 Taft 作为一款轻 SUV，以 141.9 万日元起的亲民价格、全系标配的 Skyfeel Top 全景天窗和 190mm 的最小离地间隙为卖点。其设计理念独特：前座为享受驾驶的巡航空间，后座及周围为灵活储物区，更适合一人或两人出行。虽非硬派越野，但高离地间隙在露营、雪地等场景中实用性突出。",
+    "highlights_zh": [
+      "起价 141.9 万日元",
+      "全系标配全景天窗",
+      "190mm 离地间隙",
+      "前后座功能分区设计"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Taft",
+      "轻 SUV",
+      "全景天窗",
+      "离地间隙"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29105434/260225_017_1.jpg?v=1782698075",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29105434/260225_017_1-600x400.jpg?v=1782698075",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23122551/27395741_m-600x400.jpg?v=1782185152"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:42.216Z"
+  },
+  "https://bestcarweb.jp/feature/column/1543414": {
+    "title_zh": "马自达 3 轿车：柴油版与手动挡可选，性价比出众",
+    "summary_short": "丰田卡罗拉因长交期停售，马自达 3 轿车凭借设计、操控、柴油和手动挡选项成为理想替代，性价比突出。",
+    "summary_long": "丰田卡罗拉因生产周期过长而停止接单，导致这款大众车型难以购买。在轿车日益稀缺的当下，马自达 3 轿车凭借时尚设计、出色的底盘性能以及可选柴油发动机和手动变速箱，成为卡罗拉的理想替代品。尽管基础设计较老，信息娱乐系统不如丰田先进，但马自达 3 仍通过搭载亚马逊 Alexa 和在线导航等功能不断升级，性价比上佳。",
+    "highlights_zh": [
+      "丰田卡罗拉因长交期停售",
+      "马自达 3 轿车设计更时尚",
+      "可选柴油发动机和手动挡",
+      "性价比优于卡罗拉"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉",
+      "马自达 | Mazda",
+      "马自达 3 | Mazda3",
+      "柴油"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/20211818/21_Mazda3_090.jpg?v=1776687499",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/04/20211818/21_Mazda3_090-600x400.jpg?v=1776687499",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23122551/27395741_m-600x400.jpg?v=1782185152"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:43.560Z"
+  },
+  "https://response.jp/article/2026/06/30/413370.html": {
+    "title_zh": "本田飞度音响巨变：Focal 三分频与低音炮打造专业汽车音响",
+    "summary_short": "本田飞度通过安装 Focal K2 Power M 三分频系统，音质大幅提升，将耳机听音偏好融入汽车音响。",
+    "summary_long": "福田先生为本田飞度选择了 Focal 的 3 路单元，并在 custom&car Audio PARADA 进行安装，音质变化之大令人惊讶。他从原厂扬声器加 DSP 功放起步，随后立即开始扬声器选型，通过聆听多款演示车确定了自己偏好全能型扬声器，能够平衡动感与柔和的音乐。",
+    "highlights_zh": [
+      "Focal K2 Power M 三分频系统",
+      "音质变化巨大",
+      "从原厂扬声器升级",
+      "偏好全能型音质"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "飞度",
+      "Focal",
+      "K2 Power M",
+      "三分频"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222505.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222505.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:46.952Z"
+  },
+  "https://response.jp/article/2026/06/30/413366.html": {
+    "title_zh": "本田面临挑战，越南排放法规加速电动化转型",
+    "summary_short": "越南加强二轮车排放法规，本田、雅马哈等日本厂商面临电动化转型压力。",
+    "summary_long": "越南政府正逐步强化二轮车排放法规，包括引入在用车排放检测制度，并在首都河内试点低排放区，限制汽油摩托车通行。作为全球最大的摩托车市场之一，这一环保政策将直接影响在当地深耕的本田、雅马哈和铃木等日本厂商的战略布局。排放检测将于 2027 年 7 月在河内和胡志明市率先实施，随后逐步扩展至全国。河内低排放区试点则从 2026 年 7 月开始，初期仅限部分区域和时段。",
+    "highlights_zh": [
+      "越南 2027 年起实施二轮车排放检测",
+      "河内 2026 年 7 月试点低排放区",
+      "本田、雅马哈等日系厂商面临转型压力",
+      "排放标准分四级"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅马哈 | Yamaha",
+      "铃木 | Suzuki",
+      "越南",
+      "排放法规"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222783.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222783.jpg",
+      "https://response.jp/imgs/zoom1/2222786.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:48.330Z"
+  },
+  "https://bestcarweb.jp/feature/column/1561394": {
+    "title_zh": "Daihatsu Move Canbus：为什么持续畅销？重新评价 157.3 万日元起的“恰到好处的滑门轻车”",
+    "summary_short": "Daihatsu Move Canbus 凭借紧凑尺寸、双侧滑门和双风格设计，在轻车市场中持续热销，起售价 157.3 万日元。",
+    "summary_long": "Daihatsu Move Canbus 在轻车市场中独树一帜，不同于主流的高顶车型。其车高仅 1655mm，尺寸紧凑，便于操控和停放，同时配备双侧滑门，极大提升了日常使用的便利性。提供 Stripe 和 Theory 两种外观风格，满足不同审美需求。起售价 157.3 万日元，燃油经济性出色（WLTC 模式 22.9km/L），兼顾了实用性与经济性。",
+    "highlights_zh": [
+      "全高 1655mm",
+      "双侧滑门",
+      "Stripe 与 Theory 双风格选择",
+      "起价 157.3 万日元"
+    ],
+    "entities": [
+      "ダイハツ",
+      "ムーヴキャンバス",
+      "ストライプス",
+      "セオリー",
+      "轻车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29091941/IKE_804-59_1.jpg?v=1782692383",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29091941/IKE_804-59_1-600x400.jpg?v=1782692383",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23122551/27395741_m-600x400.jpg?v=1782185152"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:51.347Z"
+  },
+  "https://www.motor1.com/news/800110/safelite-windshield-complaint/": {
+    "title_zh": "女子在 Safelite 更换挡风玻璃后后视镜脱落",
+    "summary_short": "女子在 Safelite 更换挡风玻璃后后视镜脱落，引发网友争议责任归属。",
+    "summary_long": "一名女子在 Safelite 更换挡风玻璃后，发现后视镜脱落并悬垂。她在 TikTok 上发布视频抱怨，声称再也不会去 Safelite。然而，评论区网友对责任归属意见不一，有人质疑是否与安装有关。",
+    "highlights_zh": [
+      "后视镜在更换挡风玻璃后脱落",
+      "TikTok 用户发视频抱怨 Safelite",
+      "网友对责任归属存在分歧"
+    ],
+    "entities": [
+      "Safelite"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3B822/s1/woman-gets-your-windshield-changed-at-safelite.-then-she-tries-to-use-her-rearview-mirror.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:52.031Z"
+  },
+  "https://www.motor1.com/news/800095/street-legal-buggy-costs-corolla/": {
+    "title_zh": "Amble One 电动越野车：合法上路但比卡罗拉还贵",
+    "summary_short": "Amble One 电动越野车售价 2.5 万美元，续航超 60 英里，最高时速 40 英里，但作为低速车辆仅限特定道路行驶。",
+    "summary_long": "Amble 公司推出了一款名为 Amble One 的电动越野车，外形可爱，售价 2.5 万美元（不含税），比丰田卡罗拉还贵。该车配备 12.0 千瓦时电池和 20 马力后置电机，续航超过 60 英里，最高时速超过 40 英里，但作为低速车辆（NEV），受各州法规限制，只能在限速 35 英里/小时以下的道路行驶。车辆无车门和车窗，可选装防雨配件。预订已开放，定金 100 美元，预计 2028 年交付。",
+    "highlights_zh": [
+      "售价 2.5 万美元",
+      "续航超 60 英里",
+      "作为低速车辆",
+      "无车门车窗"
+    ],
+    "entities": [
+      "Amble One",
+      "Slate Truck",
+      "丰田 | Toyota Corolla"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPmWG/s1/amble-one-electric-buggy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:55.454Z"
+  },
+  "https://insideevs.com/news/800105/drivers-infotainment-screen-connectivity-issues/": {
+    "title_zh": "驾驶员对车载屏幕不满",
+    "summary_short": "J.D. Power 最新质量研究显示，车载信息娱乐系统问题增多，连接功能（如 Apple CarPlay 和 Android Auto）让车主感到沮丧。",
+    "summary_long": "J.D. Power 的 2026 年初始质量研究发现，新车车主在购车 90 天内遇到的信息娱乐问题比去年更多，而其他类别的故障率均有所下降。每 100 辆大众市场车型中有 44.4 辆出现信息娱乐相关投诉，其中连接问题（包括 Apple CarPlay、Android Auto、蓝牙和 WiFi）是主要因素。Apple CarPlay 和 Android Auto 的问题占每 100 辆车 3.8 个故障，是信息娱乐质量下降的最大单一贡献者。原因在于汽车软件更新速度跟不上消费电子产品的迭代，每次手机系统更新后，车企需进行大量验证测试以确保兼容性。",
+    "highlights_zh": [
+      "信息娱乐是唯一问题增多的类别",
+      "Apple CarPlay 和 Android Au…",
+      "汽车软件更新滞后于手机系统"
+    ],
+    "entities": [
+      "J.D. Power",
+      "Apple CarPlay",
+      "Android Auto",
+      "信息娱乐系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xqAKbz/s1/honda-civic-infotainment.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/jdp-iqs.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:55.779Z"
+  },
+  "https://www.thedrive.com/news/did-ferrari-mean-to-put-a-giant-smiley-face-on-the-luces-dashboard": {
+    "title_zh": "法拉利 Luce 仪表盘隐藏笑脸设计",
+    "summary_short": "法拉利 Luce 电动车仪表盘上，两个圆形出风口与下方扬声器形成笑脸图案，成为设计彩蛋。",
+    "summary_long": "法拉利首款电动车 Luce 因其争议性外观备受关注，但仪表盘上隐藏的笑脸设计却鲜有人察觉。该车内部延续了圆形与圆角矩形的主题，两个圆形出风口与下方类似扬声器的圆形构成眼睛和鼻子，仪表台皮革接缝形成嘴巴，整体呈现一个笑脸表情。这一设计契合了 Luce 柔和友好的非传统法拉利风格。",
+    "highlights_zh": [
+      "仪表盘出风口与扬声器组成笑脸",
+      "皮革接缝形成嘴巴",
+      "设计契合 Luce 柔和风格"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-29-154725-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-29-151348-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/OutRun-2-SP-Special-Tours-First-Print-Limited-Edition_SLPM-66628_20260629153652.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:59.050Z"
+  },
+  "https://www.motor1.com/news/800102/2027-bmw-x5-headlights-tease/": {
+    "title_zh": "2027 款宝马 X5：全新 X 形头灯设计",
+    "summary_short": "2027 款宝马 X5 将于 6 月 30 日亮相，采用 Neue Klasse 设计风格，X 形头灯成焦点，提供五种动力选项。",
+    "summary_long": "2027 款宝马 X5 即将迎来第五代车型，将于 6 月 30 日全球首发。宝马在 Instagram 上预告了其极具争议性的 X 形头灯设计，前脸采用 Neue Klasse 风格，配备尺寸适中的双肾格栅和横向灯组。动力方面，新车将提供汽油、柴油、插电混动、纯电动及氢燃料电池共五种驱动形式。",
+    "highlights_zh": [
+      "2027 款 X5 采用 Neue Klasse 设…",
+      "全新 X 形头灯造型前卫",
+      "提供五种动力选项",
+      "6 月 30 日全球首发"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 X5 | BMW X5",
+      "Neue Klasse",
+      "X 形头灯"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGveM/s1/2027-bmw-x5-teases-x-shaped-headlights.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:33:59.523Z"
+  },
+  "https://www.motor1.com/news/800098/honda-recommends-91-gas/": {
+    "title_zh": "本田车主加油发现推荐 91 号汽油，但加油站只有 87、89、93 号",
+    "summary_short": "本田车主发现油箱盖推荐 91 号汽油，但加油站只提供 87、89、93 号，引发网友热议。",
+    "summary_long": "一位本田车主在加油时发现，其车辆的油箱盖标签推荐使用 91 号汽油，最低可用 87 号。然而，他面前的加油机只提供 87、89 和 93 号汽油，没有 91 号。该视频在 TikTok 上获得超过 77.4 万次观看，并引发了大量工程学讨论。车主将这一发现称为“今晚的问题”。",
+    "highlights_zh": [
+      "本田车主发现油箱盖推荐 91 号汽油",
+      "加油站只有 87、89、93 号",
+      "视频在 TikTok 获得 77.4 万次观看",
+      "引发工程学讨论"
+    ],
+    "entities": [
+      "本田",
+      "91 号汽油",
+      "87 号汽油",
+      "89 号汽油",
+      "93 号汽油"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlW4XR/s1/honda-driver-goes-to-pump-gas.-then-he-sees-the-label-on-his-fuel-door.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:34:02.648Z"
+  },
+  "https://www.motor1.com/news/800076/hyundai-tucson-recalled-bad-instrument-panel-displays/": {
+    "title_zh": "现代因仪表盘显示问题召回 9.6 万辆途胜",
+    "summary_short": "现代汽车因仪表盘显示可能黑屏，召回 2025-2026 款途胜及混动版共 96,310 辆。",
+    "summary_long": "现代汽车宣布召回 96,310 辆途胜 SUV，涉及 2025-2026 款车型及两款混动版本。原因是仪表盘与抬头显示之间的软件逻辑缺陷，可能导致显示屏在行驶中间歇性重启，使驾驶员无法查看车速、油量等关键信息，不符合联邦机动车安全标准。现代自 2025 年 7 月收到客户投诉后展开调查，历时 10 个月发现 HUD 外部线束间歇性连接问题，并于本月发起召回。目前无相关事故或伤亡报告，经销商将免费更新仪表盘软件，后续还将提供 OTA 升级。",
+    "highlights_zh": [
+      "召回涉及 2025-2026 款途胜及混动版",
+      "仪表盘与 HUD 软件逻辑缺陷导致黑屏",
+      "驾驶员可能无法查看车速、油量等关键信息",
+      "现代将提供免费软件更新及后续 OTA 升级"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "途胜"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JOBAy4/s1/2025-hyundai-tucson.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:34:03.583Z"
+  },
+  "https://www.thedrive.com/news/cat-diesel-powered-mower-has-a-bigger-engine-than-a-honda-civic": {
+    "title_zh": "卡特彼勒柴油割草机：发动机比本田思域还大",
+    "summary_short": "Ferris IS6200 零转向割草机搭载 1.7 升卡特彼勒涡轮柴油发动机，排量超过本田思域，拥有 48 马力和独立悬架。",
+    "summary_long": "Ferris IS6200 是一款巨型零转向割草机，其动力来自 CAT C1.7 三缸涡轮柴油发动机，排量 1.7 升，比本田思域的 1.5 升发动机更大。该发动机可输出 48 马力和 122 磅-英尺扭矩，寿命达 4000-5000 小时。搭配双 21cc 液压泵和 20.6 立方英寸帕克轮毂电机，前进速度 12 英里/小时，后退 6 英里/小时。配备 72 英寸液压升降割草盘，以及数字仪表盘和可调螺旋弹簧独立悬架等汽车级配置。",
+    "highlights_zh": [
+      "1.7 升 CAT 柴油机",
+      "48 马力、122 磅-英尺扭矩",
+      "72 英寸割草盘",
+      "独立悬架与数字仪表盘"
+    ],
+    "entities": [
+      "Ferris IS6200",
+      "CAT C1.7",
+      "本田 | Honda Civic",
+      "卡特彼勒"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/CAT-Mower-Hero-1.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/FER_IS6200_FL-PDP.webp?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/FER_IS6200_ComputerMonitoring.webp?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:34:06.572Z"
+  },
+  "https://www.motor1.com/news/800092/jeep-debuting-three-new-models/": {
+    "title_zh": "Jeep 为欧洲市场低调发布三款新车型",
+    "summary_short": "Jeep 计划至 2030 年为欧洲推出三款新车，包括两款小型 SUV 和一款中型 SUV，与东风合作在华生产。",
+    "summary_long": "Jeep 在 Stellantis 全球计划发布会上仅提及一款新车，但在后续简报中透露了更多信息。品牌计划至 2030 年为欧洲推出三款新车型：两款小型 SUV 和一款中型 SUV，将与东风合作在中国生产。目前欧洲在售车型仅 Avenger 和 Compass，而电动越野车 Recon 预计 2027 年初上市，将取代因法规限制即将退出欧洲的 Wrangler。",
+    "highlights_zh": [
+      "三款新车包括两款小型 SUV 和一款中型 SUV",
+      "与东风合作在中国生产",
+      "Recon 电动越野车 2027 年初上市",
+      "Wrangler 因法规退出欧洲市场"
+    ],
+    "entities": [
+      "Jeep",
+      "Avenger",
+      "Compass",
+      "Recon",
+      "Wrangler"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7vME/s1/jeep-s-future-lineup-europe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:34:07.485Z"
+  },
+  "https://www.motor1.com/news/800070/used-car-warranty-transmission/": {
+    "title_zh": "男子购买带保二手车的维权困境",
+    "summary_short": "购买带保二手车后索赔困难，引发对延保是否值得的讨论。",
+    "summary_long": "一名男子购买了带保修协议的二手车，但在需要索赔时遭遇重重困难。事件引发对二手车延保价值的讨论：延保费用高昂（平均每月 139 美元），但索赔流程复杂、覆盖范围有限，消费者需权衡是否值得购买，或直接自费维修更划算。",
+    "highlights_zh": [
+      "延保月均费用达 139 美元",
+      "索赔流程复杂且覆盖有限",
+      "自费维修可能更划算"
+    ],
+    "entities": [
+      "二手车保修",
+      "延保",
+      "索赔",
+      "维修成本"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEgV1/s1/man-buys-a-used-car-with-a-warranty.-then-he-realizes-just-how-difficult-it-can-be-to-use-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T04:34:10.223Z"
   }
 }
