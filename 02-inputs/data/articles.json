@@ -1,5 +1,113 @@
 [
   {
+    "title_en": "BMW iX5 Blows Away The Competition With 460-kW Charging, 435-Mile Range",
+    "image": "https://cdn.motor1.com/images/mgl/eo7vAW/s3/2027-bmw-ix5-xdrive60.jpg",
+    "url": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
+    "source": "InsideEVs",
+    "source_logo": "https://cdn.motor1.com/images/static/insideevs/favicon-196.png",
+    "time": "2026.6.30",
+    "category": "ev",
+    "published_at": "Tue, 30 Jun 2026 15:01:00 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.703Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "BMW Just Reinvented The X5. Here's What's New",
+    "image": "https://cdn.motor1.com/images/mgl/6Z83rN/s3/2027-bmw-ix5.jpg",
+    "url": "https://www.motor1.com/news/800117/2027-bmw-x5-horsepower-price-details/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 15:00:00 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.538Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "Feds Might Flip the Script on Right to Repair Vehicle Emissions Systems",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/06/Chevy-Silverado-HD-Hero.png?quality=85",
+    "url": "https://www.thedrive.com/news/feds-might-flip-the-script-on-right-to-repair-vehicle-emissions-systems",
+    "source": "The Drive",
+    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 10:52:37 -0400",
+    "first_seen_at": "2026-06-30T15:43:14.636Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "2026 Genesis GV70 Pros and Cons Review: It Must Be Tiring Being This Good",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6444.jpeg?quality=85",
+    "url": "https://www.thedrive.com/car-reviews/2026-genesis-gv70-pros-and-cons-review-it-must-be-tiring-being-this-good",
+    "source": "The Drive",
+    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 10:00:00 -0400",
+    "first_seen_at": "2026-06-30T15:43:14.636Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "America's Most Popular Car Colors Shouldn't Shock You",
+    "image": "https://cdn.motor1.com/images/mgl/3WmBjL/s3/honda-prelude.jpg",
+    "url": "https://www.motor1.com/news/800113/car-colors-usa-popularity/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 14:00:00 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.582Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "Ford Recalls 740,000 Trucks and SUVs That Could Roll Away in Park: TDS",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/06/ford_f-150_limited_supercrew_93-copy.jpg?quality=85",
+    "url": "https://www.thedrive.com/news/ford-recalls-740000-trucks-and-suvs-that-could-roll-away-in-park-tds",
+    "source": "The Drive",
+    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 09:48:09 -0400",
+    "first_seen_at": "2026-06-30T15:43:14.636Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "Lexus Is No Longer The King Of Initial Quality. This Brand Beat It",
+    "image": "https://cdn.motor1.com/images/mgl/7ZEgr7/s3/porsche-badge-logo.jpg",
+    "url": "https://www.motor1.com/news/800103/jd-power-initial-quality-study-makes-and-models/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 13:00:00 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.582Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
+    "image": "https://cdn.motor1.com/images/mgl/vx8vv4/s3/model-3.jpg",
+    "url": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/",
+    "source": "InsideEVs",
+    "source_logo": "https://cdn.motor1.com/images/static/insideevs/favicon-196.png",
+    "time": "2026.6.30",
+    "category": "ev",
+    "published_at": "Tue, 30 Jun 2026 12:20:51 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.703Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "「GT4盛り上がる！」ポルシェの新型レーシングカー発表にSNS興奮！「公道バージョンは？」の声も",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223203.jpg",
+    "url": "https://response.jp/article/2026/06/30/413393.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.457Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
     "title_en": "「夢の最強EV」ポルシェ、EV初の「マンタイ・キット」装着にファン興奮！「早く日本でも見たい」の声も",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223215.jpg",
     "url": "https://response.jp/article/2026/06/30/413372.html",
@@ -9,7 +117,43 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-30T04:32:47.186Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "『GRスープラ』AT車を10psアップ！ HKS「メタルキャタライザー」発売",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223340.jpg",
+    "url": "https://response.jp/article/2026/06/30/413404.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.464Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "『プレリュード』をスタイリッシュにローダウン！ ブリッツの車高調キット「DAMPER ZZ-R」シリーズが適合",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223208.jpg",
+    "url": "https://response.jp/article/2026/06/30/413402.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.464Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "【カワサキ Z900RS 試乗】“漢カワサキ”のブレなさを味わう！ さらに進化した「直4全開」の快感…佐川健太郎",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223446.jpg",
+    "url": "https://response.jp/article/2026/06/30/413405.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "bike",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.456Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「ATTS」",
@@ -22,6 +166,18 @@
     "published_at": null,
     "first_seen_at": "2026-06-30T04:32:46.305Z",
     "last_seen_at": "2026-06-30T04:32:56.189Z"
+  },
+  {
+    "title_en": "10万km無交換で本当に大丈夫？ 点火プラグ交換で走りが変わる理由～カスタムHOW TO～",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223192.jpg",
+    "url": "https://response.jp/article/2026/06/30/413397.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "custom",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.457Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "3Dスキャナや自律移動ロボットなど7つの計測ソリューション、東京貿易テクノシステムが提案…ものづくりワールド東京 2026",
@@ -48,6 +204,18 @@
     "last_seen_at": "2026-06-30T04:32:56.189Z"
   },
   {
+    "title_en": "AIと人が協働する見積サービス、「匠フォース」披露へ…ものづくりワールド東京 2026",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223366.jpg",
+    "url": "https://response.jp/article/2026/06/30/413392.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.463Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
     "title_en": "BMW『iX3』新型、新エントリーモデル「40」を今夏欧州で追加…航続637km",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223182.jpg",
     "url": "https://response.jp/article/2026/06/30/413360.html",
@@ -58,6 +226,18 @@
     "published_at": null,
     "first_seen_at": "2026-06-30T04:32:47.187Z",
     "last_seen_at": "2026-06-30T04:32:56.189Z"
+  },
+  {
+    "title_en": "BMWモトラッドの二輪車計6車種をリコール…燃料が漏れるおそれ",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223391.jpg",
+    "url": "https://response.jp/article/2026/06/30/413403.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.464Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "JR御殿場線に寄せながら国府津〜沼津間を路線バスで移動……実際に試してみたらこうなった!!",
@@ -84,6 +264,18 @@
     "last_seen_at": "2026-06-30T04:32:56.189Z"
   },
   {
+    "title_en": "Man Goes To Auto Shop. Then He Asks If Their Mechanic Is Looking For Side Work: 'Your Costs Just Went Down 60%'",
+    "image": "https://cdn.motor1.com/images/mgl/XBznye/s3/mechanic-is-looking-for-side-work.jpg.jpg",
+    "url": "https://www.motor1.com/news/800111/mechanics-side-work/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 12:00:00 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.582Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
     "title_en": "UL Japan、次世代モビリティ開発を支える最先端EMC試験所「ATIC」、愛知県豊田市に誕生",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222944.jpg",
     "url": "https://response.jp/article/2026/06/30/413362.html",
@@ -96,6 +288,18 @@
     "last_seen_at": "2026-06-30T04:32:56.189Z"
   },
   {
+    "title_en": "VW『ゴルフR』に「Black Edition II」、最高速270km/hに引き上げと「R」初採用の専用色…500台限定で789万9000円",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223355.jpg",
+    "url": "https://response.jp/article/2026/06/30/413388.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.457Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
     "title_en": "いすゞ『D-MAX』を並行輸入、3Lディーゼルターボで4輪を駆動…6月の新型車記事ベスト5",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223070.webp",
     "url": "https://response.jp/article/2026/06/30/413373.html",
@@ -105,7 +309,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-30T04:32:47.186Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "いつになったら安くなる？ ガソリン補助金って結局いつまで続くの？",
@@ -130,6 +334,30 @@
     "published_at": null,
     "first_seen_at": "2026-06-30T04:32:47.190Z",
     "last_seen_at": "2026-06-30T04:32:56.189Z"
+  },
+  {
+    "title_en": "ヴォクシーはなぜ指名買いされる？ ノアより“ちょい悪”に見えるファミリーミニバンの魅力",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29141123/gallery_12-4.jpg?v=1782709885",
+    "url": "https://bestcarweb.jp/feature/column/1560971",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:14.816Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "エアコンの効きが爆上がり!! 遮音性能も高まる断熱アルミシートが愛車を快適化!!",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20010200/57592dc6763298154800628489bd18ad.jpg",
+    "url": "https://bestcarweb.jp/news/1555392",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:14.816Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "オートバイ世界選手権「MotoGP」で小椋選手初優勝、日本勢22年ぶり快挙［新聞ウォッチ］",
@@ -165,7 +393,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-30T04:32:47.186Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "シトロエンの超小型EV『アミ』、限定車「リップカール」登場…サーフカルチャーと電動モビリティが融合",
@@ -201,7 +429,31 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-30T04:32:46.310Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "スズキ、法人向け車両管理サービス「SUZUKI FLEET Right」開始…7月1日から",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223439.jpg",
+    "url": "https://response.jp/article/2026/06/30/413401.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.461Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "ダイハツ『コペン』のルーフ静粛性とオーディオ音質を向上！「専用調音シート」D-SPORTとBEWITHが共同開発",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223311.jpg",
+    "url": "https://response.jp/article/2026/06/30/413406.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.464Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "ダイムラーが「水素エンジン」大型トラックを2027年に市場投入！ 内製化ではなくパートナーシップを選択",
@@ -240,6 +492,18 @@
     "last_seen_at": "2026-06-30T04:32:56.189Z"
   },
   {
+    "title_en": "パジェロミニ復活あるぞ!! 新型パジェロ「シリーズ展開」でジムニー独走に待ったをかけるか!?",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22224441/d918c81612c79965243fcab43d0ac670.jpg",
+    "url": "https://bestcarweb.jp/feature/column/1557442",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:14.817Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
     "title_en": "フィットの音が激変！ フォーカル3ウェイ＆サブウーファーで作る本格カーオーディオ［car audio newcomer］by custom&car Audio PARADA 後編",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222505.jpg",
     "url": "https://response.jp/article/2026/06/30/413370.html",
@@ -264,6 +528,42 @@
     "last_seen_at": "2026-06-30T04:32:56.189Z"
   },
   {
+    "title_en": "まさかのラリチャレ最上位記録!! ミライースDSRで挑んだ渋川伊香保戦は若手の才能で火が付いた!?",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30120954/4572e618f7a56153a6363f81a552e8d8.jpg",
+    "url": "https://bestcarweb.jp/news/motorsport/1563886",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:14.816Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "マツダ『CX-5』新型、パイオニアの車載クラウド型ナビアプリ「COCCHi」採用",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223335.jpg",
+    "url": "https://response.jp/article/2026/06/30/413384.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.458Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "マツダ787Bピンバッジ発売！ ル・マン優勝35周年記念グッズに注目",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26183825/e099cdb0bd98d428eccdf2cc1bce2277-e1782695545741.jpg",
+    "url": "https://bestcarweb.jp/news/1561034",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:14.813Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
     "title_en": "ムーヴキャンバスはなぜ売れ続ける？ 157万3000円からの“ちょうどいいスライドドア軽”を再評価",
     "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29091350/s-Height-Wgon_057_1.jpg?v=1782692032",
     "url": "https://bestcarweb.jp/feature/column/1561394",
@@ -276,7 +576,79 @@
     "last_seen_at": "2026-06-30T04:32:56.189Z"
   },
   {
-    "title_en": "Woman Gets Her Windshield Changed At Safelite. Then She Tries To Use Her Rearview Mirror",
+    "title_en": "ライズを買うならX、G、Zどれが正解？ 180万円台から選べる小型SUVのベストグレードは？",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23155410/gallery_08-3.jpg?v=1782197651",
+    "url": "https://bestcarweb.jp/feature/column/1556722",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:14.815Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "リコーのブースに次世代3Dプリンター作品、積彩が内照式大型カウンター展示へ…ものづくりワールド東京 2026",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223429.jpg",
+    "url": "https://response.jp/article/2026/06/30/413398.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:15.465Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "ロングセラーにはワケがある！ 熟成を極めた「ご長寿モデル」2選",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25172837/df4dd45740a0b60eeed4e21746d77065.jpg",
+    "url": "https://bestcarweb.jp/feature/column/1560432",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-06-30T15:43:14.814Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "Mechanic Recommends $2,000 Repair. Then Woman Gets A Second Opinion: 'Ask AutoZone To Do This With Their Scanner'",
+    "image": "https://cdn.motor1.com/images/mgl/E6N793/s3/mechanic-works-on-car.-then-he-tells-his-customer-to-go-to-autozone-for-a-scan.jpg",
+    "url": "https://www.motor1.com/news/800120/mechanic-diagnostics/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 10:00:00 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.582Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "Toyota Says Reliability Gives It The Edge Over Chinese Rivals",
+    "image": "https://cdn.motor1.com/images/mgl/E6pVzN/s3/toyota-tacoma-trd-pro-wave-maker-blue.jpg",
+    "url": "https://www.motor1.com/news/800143/toyota-reliability-edge-chinese-rivals/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.6.30",
+    "category": "car",
+    "published_at": "Tue, 30 Jun 2026 08:00:44 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.541Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "Audi Will Put Its New Face On The A4 In 2028",
+    "image": "https://cdn.motor1.com/images/mgl/y292bb/s3/audi-concept-c-2025.jpg",
+    "url": "https://www.motor1.com/news/800133/2028-audi-a4-electric-details/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.6.30",
+    "category": "ev",
+    "published_at": "Tue, 30 Jun 2026 06:40:50 +0000",
+    "first_seen_at": "2026-06-30T15:43:14.543Z",
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
+  },
+  {
+    "title_en": "Woman Gets Her Windshield Changed At Safelite. Then She Tries To Use Her Rearview Mirror: 'It's A Newer Car'",
     "image": "https://cdn.motor1.com/images/mgl/P3B822/s3/woman-gets-your-windshield-changed-at-safelite.-then-she-tries-to-use-her-rearview-mirror.jpg",
     "url": "https://www.motor1.com/news/800110/safelite-windshield-complaint/",
     "source": "Motor1",
@@ -285,7 +657,7 @@
     "category": "car",
     "published_at": "Tue, 30 Jun 2026 00:00:00 +0000",
     "first_seen_at": "2026-06-30T04:32:46.069Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "This Adorable Buggy Is Street-Legal But Costs More Than A Corolla",
@@ -297,7 +669,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 23:00:00 +0000",
     "first_seen_at": "2026-06-30T04:32:46.069Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Drivers Are Not Happy With Their Cars' Screens",
@@ -309,7 +681,7 @@
     "category": "ev",
     "published_at": "Mon, 29 Jun 2026 21:16:53 +0000",
     "first_seen_at": "2026-06-30T04:32:46.430Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Nobody Noticed the Giant Smiley Face on the Ferrari Luce’s Dashboard",
@@ -321,7 +693,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 17:12:42 -0400",
     "first_seen_at": "2026-06-30T04:32:46.077Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "The New BMW X5 Has A Face Nobody Saw Coming",
@@ -333,7 +705,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 21:00:00 +0000",
     "first_seen_at": "2026-06-30T04:32:45.991Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Honda Driver Goes To Pump Gas. Then He Sees The Label That His Car Recommends: 'Do You Go With This, This, Or That?'",
@@ -345,7 +717,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 20:00:00 +0000",
     "first_seen_at": "2026-06-30T04:32:46.069Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Hyundai Recalls 96,000 SUVs For Bad Displays",
@@ -357,7 +729,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 19:00:00 +0000",
     "first_seen_at": "2026-06-30T04:32:46.069Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "CAT Diesel-Powered Mower Has a Bigger Engine Than a Honda Civic",
@@ -369,7 +741,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 14:01:02 -0400",
     "first_seen_at": "2026-06-30T04:32:46.077Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Jeep Quietly Announces Three New Models For Europe",
@@ -381,7 +753,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 18:00:00 +0000",
     "first_seen_at": "2026-06-30T04:32:46.069Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Hyundai Could Be The Next Automaker To Go Hybrid-Only",
@@ -393,7 +765,7 @@
     "category": "ev",
     "published_at": "Mon, 29 Jun 2026 16:00:00 +0000",
     "first_seen_at": "2026-06-29T16:43:10.902Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Woman Goes 4 Years Without An Oil Change. Then She Goes To Take 5: ‘I’m So Nervous’",
@@ -405,7 +777,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 15:00:00 +0000",
     "first_seen_at": "2026-06-29T16:43:10.902Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Mazda Doesn't Think The SUV Boom Will End Anytime Soon",
@@ -417,7 +789,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 14:00:00 +0000",
     "first_seen_at": "2026-06-29T16:43:10.902Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Toyota Sales Keep Sinking in 2026: The Downshift",
@@ -429,7 +801,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 09:31:29 -0400",
     "first_seen_at": "2026-06-29T16:43:10.660Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Man Buys A Used Car With A Warranty. Then He Realizes Just How Difficult It Can Be To Use It",
@@ -453,7 +825,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 13:05:00 +0000",
     "first_seen_at": "2026-06-30T04:32:46.070Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "「マジで頭おかしい」「555万でも安い」公道を走れるレーシングバイク、新型ドゥカティ『パニガーレ V4 R』発売にファン驚愕",
@@ -609,7 +981,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-29T04:57:32.279Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "カローラじゃなかったらどうする!? ワゴン級の積載性で走りも文句なしの実力はって!?",
@@ -621,7 +993,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-29T04:57:32.280Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "クラウンスポーツからハイエースまで！ New Style Meetingで輝いた高音質カーオーディオ最前線",
@@ -885,7 +1257,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 10:20:00 +0000",
     "first_seen_at": "2026-06-29T16:43:10.902Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Mazda Suggests The New Miata Will Be The Last With A Gas Engine",
@@ -897,7 +1269,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 09:55:14 +0000",
     "first_seen_at": "2026-06-29T16:43:10.793Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Hyundai Hints The New Elantra N Will Be Even Wider",
@@ -909,7 +1281,7 @@
     "category": "car",
     "published_at": "Mon, 29 Jun 2026 08:55:29 +0000",
     "first_seen_at": "2026-06-29T16:43:10.794Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "The New Mitsubishi Pajero Gets A Dedicated Off-Road Screen",
@@ -981,7 +1353,7 @@
     "category": "car",
     "published_at": "Sun, 28 Jun 2026 12:00:00 -0400",
     "first_seen_at": "2026-06-29T04:57:32.057Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "The Hottest Lamborghini Urus Debuts Next Month",
@@ -997,7 +1369,7 @@
   },
   {
     "title_en": "Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle",
-    "image": "https://www.thedrive.com/wp-content/uploads/2025/08/feat-getty.jpg?quality=85",
+    "image": "https://www.thedrive.com/wp-content/uploads/2025/08/feat-getty.jpg?w=768&h=432",
     "url": "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
     "source": "The Drive",
     "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
@@ -1005,11 +1377,11 @@
     "category": "car",
     "published_at": "Sun, 28 Jun 2026 11:00:00 -0400",
     "first_seen_at": "2026-06-29T04:57:32.057Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "EVs Really Are Better for the Planet Than Gas Cars, but Their Power Source Matters: Study",
-    "image": "https://www.thedrive.com/wp-content/uploads/2025/01/cropped-2024-chevrolet-equinox-ev-lt-304rr.jpg?quality=85",
+    "image": "https://www.thedrive.com/wp-content/uploads/2025/01/cropped-2024-chevrolet-equinox-ev-lt-304rr.jpg?w=768&h=432",
     "url": "https://www.thedrive.com/news/evs-really-are-better-for-the-planet-than-gas-cars-but-their-power-source-matters-study",
     "source": "The Drive",
     "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
@@ -1017,7 +1389,7 @@
     "category": "car",
     "published_at": "Sun, 28 Jun 2026 10:00:00 -0400",
     "first_seen_at": "2026-06-28T14:58:14.981Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Woman's Toyota Won’t Start At Costco Lot. Then 2 Men In The Parking Lot Say They’re Mechanics: ‘They Look For Toyota Corollas'",
@@ -1053,7 +1425,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-28T14:58:15.524Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "“Vスペシャル”に“Jリミテッド”…時代を彩った、初代『ロードスター』の限定車たち【懐かしのカーカタログ】",
@@ -1077,7 +1449,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-28T14:58:15.193Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "「これ選んどけば間違いない」新型マツダ『ロードスターPS』にファン注目！ SNSでは「お買い得」の声も",
@@ -1125,7 +1497,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-28T04:47:59.880Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「kph」",
@@ -1332,8 +1704,8 @@
     "last_seen_at": "2026-06-29T16:43:30.827Z"
   },
   {
-    "title_en": "Hyundai and Kia Want To Sanitize Car Interiors With UV Light",
-    "image": "https://www.thedrive.com/wp-content/uploads/2026/06/71462-mk01.jpeg?quality=85",
+    "title_en": "Hyundai and Kia Want To Bathe Your Car’s Interior in UV Light — With You Inside",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/06/71462-mk01.jpeg?w=768&h=432",
     "url": "https://www.thedrive.com/news/hyundai-and-kia-want-to-sanitize-car-interiors-with-uv-light",
     "source": "The Drive",
     "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
@@ -1341,7 +1713,7 @@
     "category": "car",
     "published_at": "Sat, 27 Jun 2026 14:00:00 -0400",
     "first_seen_at": "2026-06-28T04:47:59.355Z",
-    "last_seen_at": "2026-06-29T16:43:30.827Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Woman Goes To USA Gas For Fuel. Then She Realizes Their Gas Is Ethanol Free: 'This Is More Than I Usually Have'",
@@ -1365,7 +1737,7 @@
     "category": "car",
     "published_at": "Sat, 27 Jun 2026 13:00:00 -0400",
     "first_seen_at": "2026-06-28T04:47:59.356Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Christian Von Koenigsegg Says No To Electric Vehicles",
@@ -1389,7 +1761,7 @@
     "category": "car",
     "published_at": "Sat, 27 Jun 2026 12:00:00 -0400",
     "first_seen_at": "2026-06-28T04:47:59.356Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Man Books Waymo From Airport To His House 10 Minutes Away. Then He Sees How Long It Actually Takes Him To Get There: 'I Hit Start'",
@@ -1413,7 +1785,7 @@
     "category": "car",
     "published_at": "Sat, 27 Jun 2026 10:00:00 -0400",
     "first_seen_at": "2026-06-27T14:56:47.088Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "BMW Says It Would 'Love' A New M1",
@@ -1437,7 +1809,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-27T04:14:36.183Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "「スズキスポーツ復活させたのか！」スズキ『スイフト』用AWIN製ボディキット発売にSNS興奮！",
@@ -1497,7 +1869,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-27T04:14:36.476Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第796回",
@@ -1509,7 +1881,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-27T04:14:35.671Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「喜屋武」",
@@ -1533,7 +1905,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-27T14:56:48.025Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "70万円台で購入可能なヒューマノイド…Unitree『R1』［動画］",
@@ -1797,7 +2169,7 @@
     "category": "car",
     "published_at": "Fri, 26 Jun 2026 15:40:00 -0400",
     "first_seen_at": "2026-06-27T04:14:35.512Z",
-    "last_seen_at": "2026-06-30T04:32:56.188Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Jeep's Most Expensive Electric Off-Roader Costs Over $78,000",
@@ -1821,7 +2193,7 @@
     "category": "car",
     "published_at": "Fri, 26 Jun 2026 14:55:37 -0400",
     "first_seen_at": "2026-06-27T04:14:35.512Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "I Tried The Porsche Taycan's Fake Shifting. It's Missing One Thing: Fun",
@@ -1833,7 +2205,7 @@
     "category": "ev",
     "published_at": "Fri, 26 Jun 2026 18:00:00 +0000",
     "first_seen_at": "2026-06-27T04:14:35.639Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Slate's Cheap EV Pickup Is Surprisingly Easy To Make Expensive",
@@ -1845,7 +2217,7 @@
     "category": "ev",
     "published_at": "Fri, 26 Jun 2026 17:17:13 +0000",
     "first_seen_at": "2026-06-27T04:14:35.924Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Man Gets A Loaner At The Dealership. Then He Starts DoorDashing With It",
@@ -1869,7 +2241,7 @@
     "category": "car",
     "published_at": "Fri, 26 Jun 2026 12:54:00 -0400",
     "first_seen_at": "2026-06-27T04:14:35.512Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Shell Built A Tiny EV With Hyper-Fast Charging And A New Cooling System",
@@ -1881,7 +2253,7 @@
     "category": "ev",
     "published_at": "Fri, 26 Jun 2026 16:30:26 +0000",
     "first_seen_at": "2026-06-27T04:14:35.924Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Toyota Has Too Many Models. These Ones Need To Go",
@@ -1905,7 +2277,7 @@
     "category": "car",
     "published_at": "Fri, 26 Jun 2026 11:00:00 -0400",
     "first_seen_at": "2026-06-26T15:32:05.753Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "The New Hyundai Elantra Actually Goes Kind of Hard: TDS",
@@ -1917,7 +2289,7 @@
     "category": "car",
     "published_at": "Fri, 26 Jun 2026 10:00:32 -0400",
     "first_seen_at": "2026-06-26T15:32:05.753Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Dodge Could Return To NASCAR Sooner Than Expected",
@@ -1941,7 +2313,7 @@
     "category": "car",
     "published_at": "Fri, 26 Jun 2026 09:45:00 -0400",
     "first_seen_at": "2026-06-26T15:32:05.753Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "The Corvette ZR1X Is The New King Of Pikes Peak",
@@ -2049,7 +2421,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-26T04:38:11.119Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "【最終決着】新型エルグランドはアルファードを超えたのか？ 居住性やコスパ 残クレ 納期の違いまで徹底比較!!!",
@@ -2073,7 +2445,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-26T04:38:11.015Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "3Dガウシアンスプラッティング活用、新サービス「ASK 3DGS」開始…アスク",
@@ -2169,7 +2541,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-26T04:38:11.371Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "TOYO TIRE、三重県桑名工場に再生可能エネルギー導入…中部電力ミライズとPPA契約締結",
@@ -2445,7 +2817,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-26T15:32:05.906Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "ロードスターの走りがさらに昇華!! PS＝ピュアスポーツを新設定！ 改良モデルはどこが進化したのか？",
@@ -2565,7 +2937,7 @@
     "category": "car",
     "published_at": "Thu, 25 Jun 2026 18:44:33 -0400",
     "first_seen_at": "2026-06-26T04:38:10.456Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Ferrari Has A New Marketing Boss Following The Launch Of The Luce",
@@ -2625,7 +2997,7 @@
     "category": "car",
     "published_at": "Thu, 25 Jun 2026 13:19:06 -0400",
     "first_seen_at": "2026-06-26T04:38:10.457Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Teslas Will Now Deploy Their Airbags Before Crashes Happen Thanks To Cameras",
@@ -2637,7 +3009,7 @@
     "category": "ev",
     "published_at": "Thu, 25 Jun 2026 17:19:02 +0000",
     "first_seen_at": "2026-06-26T04:38:10.983Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Man Has A Project Car. Then He Tries A Garage Pass Membership: 'I've Wanted Something Like This FOREVER'",
@@ -2661,7 +3033,7 @@
     "category": "ev",
     "published_at": "Thu, 25 Jun 2026 16:28:41 +0000",
     "first_seen_at": "2026-06-26T04:38:10.983Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "GM Is Spending Millions On A New Cadillac With A Gas Engine",
@@ -2697,7 +3069,7 @@
     "category": "car",
     "published_at": "Thu, 25 Jun 2026 11:00:00 -0400",
     "first_seen_at": "2026-06-25T15:47:10.267Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "GMC's Best-Selling Truck Just Got a Massive Makeover",
@@ -2757,7 +3129,7 @@
     "category": "ev",
     "published_at": "Thu, 25 Jun 2026 13:40:07 +0000",
     "first_seen_at": "2026-06-25T15:47:10.427Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "I Rode in Slate’s $24,950 Electric Truck. It Didn’t Feel Like a $24,950 Electric Truck",
@@ -2853,7 +3225,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-25T15:47:11.249Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "【現地レポート】インド自動車市場の最前線、急成長する市場で日本企業の勝機とは…NRI ジェーン・ヴィニート氏［インタビュー］",
@@ -2865,7 +3237,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-25T04:31:59.757Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第794回",
@@ -2877,7 +3249,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-25T04:31:59.638Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "180万700円から買える最後のちょうどいいSUV!! ライズの5ナンバーサイズな価値を再点検!!",
@@ -2961,7 +3333,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-25T15:47:10.782Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "VW『Tクロス』など3車種をリコール…メーターが正しく起動しないおそれ",
@@ -3345,7 +3717,7 @@
     "category": "ev",
     "published_at": "Thu, 25 Jun 2026 11:41:37 +0000",
     "first_seen_at": "2026-06-25T15:47:10.427Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Is This Electric Porsche Boxster Secretly An Audi In Disguise?",
@@ -3501,7 +3873,7 @@
     "category": "ev",
     "published_at": "Wed, 24 Jun 2026 17:27:56 +0000",
     "first_seen_at": "2026-06-25T04:31:59.502Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Mechanic Works On Lincoln. Then He Notices Major Design Issue: 'This Is What Comes Out Of Your Motor'",
@@ -3537,7 +3909,7 @@
     "category": "car",
     "published_at": "Wed, 24 Jun 2026 16:00:00 +0000",
     "first_seen_at": "2026-06-25T04:31:59.489Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "85-Year-Old Arrested for Allegedly Street Racing His Nissan Z",
@@ -3633,7 +4005,7 @@
     "category": "ev",
     "published_at": "Wed, 24 Jun 2026 13:50:29 +0000",
     "first_seen_at": "2026-06-24T15:39:12.178Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Toyota and Nissan Admit Their American-Made Cars May Have Thin Paint, Panel Gaps, and Leftover Residue: TDS",
@@ -3657,7 +4029,7 @@
     "category": "ev",
     "published_at": "Wed, 24 Jun 2026 12:01:00 +0000",
     "first_seen_at": "2026-06-24T15:39:12.178Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Why The Slate Truck Will Use LFP Batteries After All",
@@ -3669,7 +4041,7 @@
     "category": "ev",
     "published_at": "Wed, 24 Jun 2026 12:01:00 +0000",
     "first_seen_at": "2026-06-24T15:39:12.178Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "‘Carvana Is Ruining My Life’: Woman Buys Audi At Carvana. Then It Spends A Month In The Shop—And It Still Isn’t Fixed",
@@ -3753,7 +4125,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-24T04:33:26.731Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "6色カラー対応の工業用3Dプリンタ新材料「オニキス GF」発売へ、自動車産業など向け…米Markforged",
@@ -4305,7 +4677,7 @@
     "category": "ev",
     "published_at": "Tue, 23 Jun 2026 18:45:28 +0000",
     "first_seen_at": "2026-06-24T04:33:26.617Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Rivian Has Long Wanted to Put a Winch on the R1. RAD Might Finally Make It Happen",
@@ -4353,7 +4725,7 @@
     "category": "ev",
     "published_at": "Tue, 23 Jun 2026 16:46:46 +0000",
     "first_seen_at": "2026-06-24T04:33:26.617Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
+    "last_seen_at": "2026-06-30T15:43:18.925Z"
   },
   {
     "title_en": "Cops Are Already Using License Plate Readers to Stalk People",
@@ -4426,377 +4798,5 @@
     "published_at": "Tue, 23 Jun 2026 10:45:07 -0400",
     "first_seen_at": "2026-06-23T16:06:48.750Z",
     "last_seen_at": "2026-06-25T04:32:08.501Z"
-  },
-  {
-    "title_en": "75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are a Major Reason",
-    "image": "https://www.thedrive.com/wp-content/uploads/2026/06/SUPERDUTY.jpeg?w=768&h=432",
-    "url": "https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why",
-    "source": "The Drive",
-    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": "Tue, 23 Jun 2026 10:31:09 -0400",
-    "first_seen_at": "2026-06-23T16:06:48.750Z",
-    "last_seen_at": "2026-06-26T04:38:25.816Z"
-  },
-  {
-    "title_en": "Mitsubishi Says It Can't Afford To Build Its Own EVs",
-    "image": "https://cdn.motor1.com/images/mgl/VzWVGG/s3/mitsubishi-ev-concept.jpg",
-    "url": "https://www.motor1.com/news/799474/mitsubishi-evs-easy-route/",
-    "source": "Motor1",
-    "source_logo": "https://www.motor1.com/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": "Tue, 23 Jun 2026 14:00:00 +0000",
-    "first_seen_at": "2026-06-23T16:06:48.769Z",
-    "last_seen_at": "2026-06-24T15:39:16.541Z"
-  },
-  {
-    "title_en": "One of Our Favorite Off-Road Tire Inflators Is 35% Off for Amazon Prime Day",
-    "image": "https://www.thedrive.com/wp-content/uploads/2026/06/Prime-Day-Etenwolf-Deal.jpg?w=768&h=432",
-    "url": "https://www.thedrive.com/news/one-of-our-favorite-off-road-tire-inflators-is-35-off-for-amazon-prime-day",
-    "source": "The Drive",
-    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": "Tue, 23 Jun 2026 09:35:24 -0400",
-    "first_seen_at": "2026-06-23T16:06:48.750Z",
-    "last_seen_at": "2026-06-26T04:38:25.816Z"
-  },
-  {
-    "title_en": "Jaguar's Former Design Boss Has One Big Problem With The Type 00: Interview",
-    "image": "https://cdn.motor1.com/images/mgl/9m87nl/s3/jaguar-type-00-concept.jpg",
-    "url": "https://www.motor1.com/news/799534/ian-callum-jaguar-type-00-concept-interview/",
-    "source": "Motor1",
-    "source_logo": "https://www.motor1.com/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": "Tue, 23 Jun 2026 13:00:00 +0000",
-    "first_seen_at": "2026-06-23T16:06:48.728Z",
-    "last_seen_at": "2026-06-24T15:39:16.541Z"
-  },
-  {
-    "title_en": "Toyota RAV4-Based Truck Is ‘Quite Appealing’ Top Engineer Says: TDS",
-    "image": "https://www.thedrive.com/wp-content/uploads/2026/05/RAV4-Hero-1.jpg?w=768&h=432",
-    "url": "https://www.thedrive.com/news/toyota-rav4-based-truck-is-quite-appealing-top-engineer-says-tds",
-    "source": "The Drive",
-    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": "Tue, 23 Jun 2026 08:34:28 -0400",
-    "first_seen_at": "2026-06-23T16:06:48.750Z",
-    "last_seen_at": "2026-06-26T04:38:25.816Z"
-  },
-  {
-    "title_en": "‘Now It Won’t Do Anything’: Woman's Kia Breaks Down. Then The Computer Stops Reading",
-    "image": "https://cdn.motor1.com/images/mgl/rKJWVr/s3/woman-s-kia-breaks-down.jpg",
-    "url": "https://www.motor1.com/news/799502/kia-k5-computer-wont-register-park/",
-    "source": "Motor1",
-    "source_logo": "https://www.motor1.com/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": "Tue, 23 Jun 2026 12:00:00 +0000",
-    "first_seen_at": "2026-06-23T16:06:48.769Z",
-    "last_seen_at": "2026-06-24T15:39:16.541Z"
-  },
-  {
-    "title_en": "「MAZDA 787B」ピンバッジが登場、ル・マン優勝35周年を記念",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221420.jpg",
-    "url": "https://response.jp/article/2026/06/23/413070.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:49.711Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "「MTのほうが運転はうまい」は本当か!? MT乗りの「あるあるマウント」の真偽は？",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18140630/02-6.jpg",
-    "url": "https://bestcarweb.jp/feature/column/1553583",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:48.989Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "「それならエンジンを取ったらどうだ」「光と重力はタダだ」スズキ鈴木修氏の名言が「かるた」に",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221358.jpg",
-    "url": "https://response.jp/article/2026/06/23/413063.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:50.094Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "『GT-R』生産終了記念、「NISSAN GT-R BE@RBRICK 100% & 400%」…ミッドナイトパープルの限定デザインで7月2日発売",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221279.jpg",
-    "url": "https://response.jp/article/2026/06/23/413045.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:50.095Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "『デリカミニ』『eKスペース』をスタイリッシュにローダウン！ ブリッツの車高調キット「DAMPER ZZ-R」シリーズがリニューアル",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221312.jpg",
-    "url": "https://response.jp/article/2026/06/23/413092.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:49.715Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "『ハイエース』や『バネットバン』がベース、Carstayがキャンピングカー「SAny.VAN」展示へ…TOKYO DOG SHOW 2026",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221639.jpg",
-    "url": "https://response.jp/article/2026/06/23/413094.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:49.709Z",
-    "last_seen_at": "2026-06-24T04:33:32.084Z"
-  },
-  {
-    "title_en": "【へっぽこバスガイドの珍道中】いつまでもいると思うな上司や先輩!! 貸切バスの旅でとことん向き合ってみた",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/06113108/LINE_ALBUM_20260603_260606_2.jpg",
-    "url": "https://bestcarweb.jp/busmagazine/1538959",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:49.983Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "【リセール良すぎる】先代ラングラーって今200万円でイケんの!? 外さない中古の選び方",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08160552/10_Jeep-Wrangler_Unlimited.jpg",
-    "url": "https://bestcarweb.jp/feature/column/1544334",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:49.984Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "【夏休み】自動車技術会「キッズエンジニア2026」、32種の体験学習を用意",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221539.jpg",
-    "url": "https://response.jp/article/2026/06/23/413079.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:49.714Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "【徹底比較！】カタログだけじゃ見落とす!? 家族で選ぶミドルサイズSUVは後席の実力差に注目!!",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22145832/s-260313-RAV4_023.jpg?v=1782107913",
-    "url": "https://bestcarweb.jp/feature/column/1557001",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:49.984Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "【独自入手】新型パジェロイオはどうなる!? タイにヒントがあるゾ!!",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/17172054/IMG_4654_1.jpg?v=1781684456",
-    "url": "https://bestcarweb.jp/news/scoop/1552111",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:49.982Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第792回",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/05/28163149/30862.jpg?v=1779953510",
-    "url": "https://bestcarweb.jp/feature/column/1532433",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:49.988Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
-  },
-  {
-    "title_en": "【黄バイも紹介】首都高が防災のための公開授業 山手トンネル火災遭遇の古坂大魔王さんとともに都内中学生が避難の心構えを学ぶ！",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18111521/022.jpg?v=1781748923",
-    "url": "https://bestcarweb.jp/news/1553232",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:48.990Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "7/23申込締切 欧・米・中・日・印における充電インフラ最新トレンド2026",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221325.jpg",
-    "url": "https://response.jp/article/2026/06/23/413055.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:50.099Z",
-    "last_seen_at": "2026-06-30T04:32:56.189Z"
-  },
-  {
-    "title_en": "AGC、廃フロントガラスを建築用板ガラスに再資源化…国内初の実証実験へ",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221331.jpg",
-    "url": "https://response.jp/article/2026/06/23/413052.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:50.100Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "AIで通関業務を効率化、貿易DXサービスをShippioが紹介へ…九州・東アジア 国際物流総合展 2026",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221545.jpg",
-    "url": "https://response.jp/article/2026/06/23/413077.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:49.715Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "BAJA1000参戦車両が千葉・いなげの浜を走る！ BAJA COAST JAM 2026 6月27-28日開催",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221338.jpg",
-    "url": "https://response.jp/article/2026/06/23/413065.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:50.101Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "C-HRがBEVで復活してた!! 航続607km＆343psのトヨタ「C-HR＋」を日本に入れないのはもったいなさすぎる!!",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16094127/bac980b7394d0653da91b3b40095063e.jpg",
-    "url": "https://bestcarweb.jp/feature/column/1551153",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "ev",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:48.991Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "HKSのサテライトショップ『HKS GATE OSAKA』が6月24日オープン…大阪・箕面のオートバックス内に",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221550.jpg",
-    "url": "https://response.jp/article/2026/06/23/413085.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:49.714Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "インフィニオン、GaN特許侵害でイノサイエンスに3度目・4度目の勝訴…独裁判所が製造・販売禁止命令",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221348.jpg",
-    "url": "https://response.jp/article/2026/06/23/413056.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:50.099Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "エアコンの効きがマシマシに!! 360°送風もできる新型車載サーキュレーター登場!!",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19224137/40a30645304a066b345a89bd01d508a5.jpg",
-    "url": "https://bestcarweb.jp/news/1555379",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:48.990Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "エクストレイルは車中泊もいける？ 荷室の広さとe-POWERの静粛性で考える週末SUV",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19135951/s-0721-X-TRAIL_050-2.jpg?v=1781845193",
-    "url": "https://bestcarweb.jp/feature/column/1551649",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:48.991Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "エクストレイル対フォレスター!! 電動4WDのe-4ORCEか、スバルAWDの安心感か",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/18110445/s-NISSAN-X-TRAIL_058.jpg?v=1781748286",
-    "url": "https://bestcarweb.jp/feature/column/1551638",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T16:06:48.990Z",
-    "last_seen_at": "2026-06-23T16:06:53.973Z"
-  },
-  {
-    "title_en": "エンジンがきれいになる!? パワーが上がる!? 「ハイオク」にまつわる都市伝説はホント？",
-    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/14135520/24453854_m.jpg",
-    "url": "https://bestcarweb.jp/feature/column/1549407",
-    "source": "Best Car Web",
-    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:49.982Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
-  },
-  {
-    "title_en": "オールタイムレンタカーのバリュートープがスタートアップイベント「IVS2026」に出展 7月1日",
-    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2221299.jpg",
-    "url": "https://response.jp/article/2026/06/23/413053.html",
-    "source": "Response.jp",
-    "source_logo": "https://response.jp/favicon.ico",
-    "time": "2026.6.23",
-    "category": "car",
-    "published_at": null,
-    "first_seen_at": "2026-06-23T04:18:50.100Z",
-    "last_seen_at": "2026-06-23T04:18:54.721Z"
   }
 ]

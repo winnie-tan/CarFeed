@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-06-30T04:32:56.337Z",
+    "generated_at": "2026-06-30T15:43:19.073Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 367,
-    "deepseek_untranslated_before_run": 33,
-    "newly_fetched_articles": 33,
-    "newly_fetched_untranslated": 33,
+    "deepseek_translated_before_run": 369,
+    "deepseek_untranslated_before_run": 31,
+    "newly_fetched_articles": 31,
+    "newly_fetched_untranslated": 31,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 33,
+    "translation_queue_count": 31,
     "translation_queue_preview": [
       {
+        "source": "InsideEVs",
+        "time": "2026.6.30",
+        "title": "BMW iX5 Blows Away The Competition With 460-kW Charging, 435-Mile Range",
+        "url": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.30",
+        "title": "BMW Just Reinvented The X5. Here's What's New",
+        "url": "https://www.motor1.com/news/800117/2027-bmw-x5-horsepower-price-details/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.30",
+        "title": "Feds Might Flip the Script on Right to Repair Vehicle Emissions Systems",
+        "url": "https://www.thedrive.com/news/feds-might-flip-the-script-on-right-to-repair-vehicle-emissions-systems"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.30",
+        "title": "2026 Genesis GV70 Pros and Cons Review: It Must Be Tiring Being This Good",
+        "url": "https://www.thedrive.com/car-reviews/2026-genesis-gv70-pros-and-cons-review-it-must-be-tiring-being-this-good"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.30",
+        "title": "America's Most Popular Car Colors Shouldn't Shock You",
+        "url": "https://www.motor1.com/news/800113/car-colors-usa-popularity/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.6.30",
+        "title": "Ford Recalls 740,000 Trucks and SUVs That Could Roll Away in Park: TDS",
+        "url": "https://www.thedrive.com/news/ford-recalls-740000-trucks-and-suvs-that-could-roll-away-in-park-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.30",
+        "title": "Lexus Is No Longer The King Of Initial Quality. This Brand Beat It",
+        "url": "https://www.motor1.com/news/800103/jd-power-initial-quality-study-makes-and-models/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.6.30",
+        "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
+        "url": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.6.30",
-        "title": "「夢の最強EV」ポルシェ、EV初の「マンタイ・キット」装着にファン興奮！「早く日本でも見たい」の声も",
-        "url": "https://response.jp/article/2026/06/30/413372.html"
+        "title": "「GT4盛り上がる！」ポルシェの新型レーシングカー発表にSNS興奮！「公道バージョンは？」の声も",
+        "url": "https://response.jp/article/2026/06/30/413393.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.30",
+        "title": "『GRスープラ』AT車を10psアップ！ HKS「メタルキャタライザー」発売",
+        "url": "https://response.jp/article/2026/06/30/413404.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.30",
+        "title": "『プレリュード』をスタイリッシュにローダウン！ ブリッツの車高調キット「DAMPER ZZ-R」シリーズが適合",
+        "url": "https://response.jp/article/2026/06/30/413402.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.30",
+        "title": "【カワサキ Z900RS 試乗】“漢カワサキ”のブレなさを味わう！ さらに進化した「直4全開」の快感…佐川健太郎",
+        "url": "https://response.jp/article/2026/06/30/413405.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.30",
+        "title": "10万km無交換で本当に大丈夫？ 点火プラグ交換で走りが変わる理由～カスタムHOW TO～",
+        "url": "https://response.jp/article/2026/06/30/413397.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.30",
+        "title": "AIと人が協働する見積サービス、「匠フォース」披露へ…ものづくりワールド東京 2026",
+        "url": "https://response.jp/article/2026/06/30/413392.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.30",
+        "title": "BMWモトラッドの二輪車計6車種をリコール…燃料が漏れるおそれ",
+        "url": "https://response.jp/article/2026/06/30/413403.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.6.30",
+        "title": "Man Goes To Auto Shop. Then He Asks If Their Mechanic Is Looking For Side Work: 'Your Costs Just Went Down 60%'",
+        "url": "https://www.motor1.com/news/800111/mechanics-side-work/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.6.30",
+        "title": "VW『ゴルフR』に「Black Edition II」、最高速270km/hに引き上げと「R」初採用の専用色…500台限定で789万9000円",
+        "url": "https://response.jp/article/2026/06/30/413388.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.30",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「ATTS」",
-        "url": "https://bestcarweb.jp/feature/column/1530969"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "3Dスキャナや自律移動ロボットなど7つの計測ソリューション、東京貿易テクノシステムが提案…ものづくりワールド東京 2026",
-        "url": "https://response.jp/article/2026/06/30/413371.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "80万人超の知見データベースで現場課題を解決、ビザスクが出展へ…ものづくり ワールド東京 2026",
-        "url": "https://response.jp/article/2026/06/30/413367.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "BMW『iX3』新型、新エントリーモデル「40」を今夏欧州で追加…航続637km",
-        "url": "https://response.jp/article/2026/06/30/413360.html"
+        "title": "ヴォクシーはなぜ指名買いされる？ ノアより“ちょい悪”に見えるファミリーミニバンの魅力",
+        "url": "https://bestcarweb.jp/feature/column/1560971"
       },
       {
         "source": "Best Car Web",
         "time": "2026.6.30",
-        "title": "JR御殿場線に寄せながら国府津〜沼津間を路線バスで移動……実際に試してみたらこうなった!!",
-        "url": "https://bestcarweb.jp/busmagazine/1554954"
+        "title": "エアコンの効きが爆上がり!! 遮音性能も高まる断熱アルミシートが愛車を快適化!!",
+        "url": "https://bestcarweb.jp/news/1555392"
       },
       {
         "source": "Response.jp",
         "time": "2026.6.30",
-        "title": "Kia PBV倉敷、岡山に7月1日開業へ…EVバン『PV5』販売",
-        "url": "https://response.jp/article/2026/06/30/413353.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "UL Japan、次世代モビリティ開発を支える最先端EMC試験所「ATIC」、愛知県豊田市に誕生",
-        "url": "https://response.jp/article/2026/06/30/413362.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "いすゞ『D-MAX』を並行輸入、3Lディーゼルターボで4輪を駆動…6月の新型車記事ベスト5",
-        "url": "https://response.jp/article/2026/06/30/413373.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.30",
-        "title": "いつになったら安くなる？ ガソリン補助金って結局いつまで続くの？",
-        "url": "https://bestcarweb.jp/feature/column/1557479"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "ウェアラブルAI解析サービスを体験可能、Fairy Devicesのブースで…ものづくりワールド東京 2026",
-        "url": "https://response.jp/article/2026/06/30/413365.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "オートバイ世界選手権「MotoGP」で小椋選手初優勝、日本勢22年ぶり快挙［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/06/30/413355.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.30",
-        "title": "かっこいいけど駐車場どうするよ!? 「新型ハイラックスは売れるの？」ディーラーマンに聞いてみた！",
-        "url": "https://bestcarweb.jp/feature/column/1557216"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "ゴードン・マレー、スーパーカー『T.50s ニキ・ラウダ』の第1号車を世界初公開へ…グッドウッド 2026",
-        "url": "https://response.jp/article/2026/06/30/413376.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "シトロエンの超小型EV『アミ』、限定車「リップカール」登場…サーフカルチャーと電動モビリティが融合",
-        "url": "https://response.jp/article/2026/06/30/413364.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.6.30",
-        "title": "シリコン3Dプリントヘッド、Prusa Researchが日本初公開へ…ものづくりワールド東京 2026",
-        "url": "https://response.jp/article/2026/06/30/413363.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.30",
-        "title": "スズキ スペーシアの顔3種類もあるゾ!! N-BOXにない後席機能とサーキュレーターが便利すぎる",
-        "url": "https://bestcarweb.jp/news/1561414"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.30",
-        "title": "ダイムラーが「水素エンジン」大型トラックを2027年に市場投入！ 内製化ではなくパートナーシップを選択",
-        "url": "https://bestcarweb.jp/fullload/1560107"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.30",
-        "title": "タフトは今こそ買いか？ 141万9000円からの“遊べる軽SUV”を再評価",
-        "url": "https://bestcarweb.jp/feature/column/1561050"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.6.30",
-        "title": "ディーゼルも選べてMTもある!! しかもコスパも上々っていったらマツダ3セダンしかない!!",
-        "url": "https://bestcarweb.jp/feature/column/1543414"
+        "title": "スズキ、法人向け車両管理サービス「SUZUKI FLEET Right」開始…7月1日から",
+        "url": "https://response.jp/article/2026/06/30/413401.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 33,
-    "queued_articles": 33,
-    "processed": 33,
-    "started_at": "2026-06-30T04:32:56.670Z",
-    "finished_at": "2026-06-30T04:34:10.238Z",
+    "scoped_articles": 31,
+    "queued_articles": 31,
+    "processed": 31,
+    "started_at": "2026-06-30T15:43:19.419Z",
+    "finished_at": "2026-06-30T15:44:31.266Z",
     "success": true,
     "error": ""
   }

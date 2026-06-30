@@ -56157,5 +56157,732 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-30T04:34:10.223Z"
+  },
+  "https://www.motor1.com/news/800117/2027-bmw-x5-horsepower-price-details/": {
+    "title_zh": "2027 款宝马 X5：Neue Klasse 设计、五种动力、取消分体尾门",
+    "summary_short": "2027 款宝马 X5 采用 Neue Klasse 设计，提供五种动力选项，内饰科技感十足，但取消了标志性的分体式尾门。",
+    "summary_long": "2027 款宝马 X5 迎来第五代车型，基于 Neue Klasse 设计语言，外观焕然一新，前脸配备双 X 形大灯，可切换黄色灯光，侧门采用隐藏式按钮开启。内饰科技感大幅提升，但最具争议的是取消了经典的上下对开尾门，改为整体式设计以优化空气动力学。动力方面提供五种选择，包括燃油、插混和纯电版本。",
+    "highlights_zh": [
+      "Neue Klasse 设计语言",
+      "隐藏式按钮开门",
+      "取消分体式尾门",
+      "提供五种动力选项"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5",
+      "Neue Klasse",
+      "双 X 形大灯",
+      "分体式尾门"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z83rN/s1/2027-bmw-ix5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:24.291Z"
+  },
+  "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/": {
+    "title_zh": "宝马 iX5 纯电 SUV 发布：460kW 快充，续航 435 英里",
+    "summary_short": "宝马发布首款纯电 iX5，搭载 800V 架构和 120mm 圆柱电池，支持 460kW 快充，续航达 435 英里，2027 年初在美上市。",
+    "summary_long": "宝马于周二发布了首款纯电动 iX5，这是其第五代 X5 家族中的纯电版本，也是宝马在美国制造的首款纯电车型。iX5 采用最新的 Gen6 800V 电池架构，使用 120mm 圆柱形电芯（比 iX3 的 95mm 更高），能量密度提升 30%，配合 460kW 快充，续航可达 435 英里。该车将在 2027 年第一季度在美国上市，电池由宝马在南卡罗来纳州的伍德拉夫工厂生产，以应对美国对进口汽车加征关税的不确定性。",
+    "highlights_zh": [
+      "宝马首款美国制造的纯电车型",
+      "460kW 超快充电功率",
+      "435 英里（约 700 公里）续航",
+      "采用 120mm 圆柱电芯"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX5",
+      "800V 架构",
+      "460kW 快充",
+      "南卡罗来纳州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7vAW/s1/2027-bmw-ix5-xdrive60.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:24.532Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-genesis-gv70-pros-and-cons-review-it-must-be-tiring-being-this-good": {
+    "title_zh": "2026 款捷尼赛思 GV70 优缺点评测",
+    "summary_short": "捷尼赛思 GV70 虽未大幅改款，仍以出色设计、驾驶体验和性价比领先同级，仅少数细节待改进。",
+    "summary_long": "2026 款捷尼赛思 GV70 自上市以来未经历重大改款，但依然满足豪华紧凑型 SUV 买家的大部分需求。评测显示，该车在设计、驾驶体验和整体品质上表现出色，仅在某些特定场景下暴露出少量不足，对普通用户影响不大。媒体普遍认为，捷尼赛思正以卓越的产品力超越德国竞争对手。",
+    "highlights_zh": [
+      "设计惊艳",
+      "少数细节有待改进",
+      "性价比超越德系对手",
+      "整体表现依然顶级"
+    ],
+    "entities": [
+      "捷尼赛思 | Genesis",
+      "GV70",
+      "豪华紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6444.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6445.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/IMG_6441.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:27.983Z"
+  },
+  "https://www.thedrive.com/news/feds-might-flip-the-script-on-right-to-repair-vehicle-emissions-systems": {
+    "title_zh": "联邦政府或调整车辆排放系统维修权政策",
+    "summary_short": "特朗普敦促 EPA 明确合法排放维修范围，减少对加州空气资源委员会的依赖，并考虑对善意维修者免于处罚。",
+    "summary_long": "特朗普政府正推动 EPA 重新审视车辆排放维修法规，旨在减轻环保负担对汽车成本的影响。总统签署备忘录，要求 EPA 明确合法排放维修行为，发布消费者指南以避免违反《清洁空气法》。同时，EPA 被要求减少对加州空气资源委员会（CARB）零部件认证的依赖，并考虑对善意尝试修复车辆至原始配置的个人免于执法。此举可能改变现行维修权格局，降低消费者和维修店的合规风险。",
+    "highlights_zh": [
+      "特朗普敦促 EPA 明确合法排放维修范围",
+      "减少对加州空气资源委员会（CARB）的依赖",
+      "考虑对善意维修者免于处罚",
+      "旨在降低汽车维修成本与合规风险"
+    ],
+    "entities": [
+      "EPA",
+      "加州空气资源委员会",
+      "《清洁空气法》",
+      "维修权"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Chevy-Silverado-HD-Hero.png",
+      "https://www.thedrive.com/wp-content/uploads/2024/07/Screen-Shot-2024-07-08-at-5.25.45-PM.png?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/CAT-Mower-Hero-1.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:28.788Z"
+  },
+  "https://www.motor1.com/news/800113/car-colors-usa-popularity/": {
+    "title_zh": "美国最受欢迎的汽车颜色",
+    "summary_short": "白色是美国最受欢迎的汽车颜色，灰色系占据 80.4%市场份额，蓝色是唯一非灰色系热门色。",
+    "summary_long": "根据 iSeeCars 对 1996 至 2026 年 2200 万辆二手车的数据分析，白色以 25.7%的份额位居美国最受欢迎汽车颜色之首，黑色和灰色紧随其后，分别占 23.4%和 22.9%。灰色系（白、黑、灰、银）合计占据 80.4%的市场。蓝色是唯一进入前五的非灰色系颜色，占 9.1%，但其受欢迎程度较 1996 年下降了 10.8%。红色、绿色、棕色和米色等彩色份额均有所下降，其中红色从 20.1%跌至 7.0%。",
+    "highlights_zh": [
+      "白色以 25.7%份额居首",
+      "灰色系占市场 80.4%",
+      "蓝色是唯一非灰色系前五",
+      "红色份额 30 年跌超 65%"
+    ],
+    "entities": [
+      "白色",
+      "黑色",
+      "灰色",
+      "蓝色",
+      "红色"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WmBjL/s1/honda-prelude.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:32.133Z"
+  },
+  "https://www.thedrive.com/news/ford-recalls-740000-trucks-and-suvs-that-could-roll-away-in-park-tds": {
+    "title_zh": "福特因变速箱故障召回 74 万辆卡车和 SUV，存在溜车风险",
+    "summary_short": "福特召回 74 万余辆 2018-2021 款车型，因变速箱故障可能导致驻车棘爪失效，车辆在 P 挡时溜车。",
+    "summary_long": "福特在美国召回 741,195 辆汽车，涉及 2018-2021 款福特 Explorer、Expedition、F-150 以及林肯 Aviator、Navigator。故障原因是变速箱问题可能损坏驻车棘爪，导致车辆在 P 挡时无法固定，存在溜车风险。福特将为受影响车辆更新动力总成控制模块，并检查驻车系统，必要时更换受损部件。在修复前，建议车主每次停车时务必拉起手刹。",
+    "highlights_zh": [
+      "福特召回 74 万余辆汽车",
+      "涉及 2018-2021 款福特和林肯多款车型",
+      "变速箱故障导致驻车棘爪失效",
+      "修复前需每次拉起手刹"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "林肯",
+      "F-150",
+      "Explorer",
+      "Aviator"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/ford_f-150_limited_supercrew_93-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/CAT-Mower-Hero-1.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:32.504Z"
+  },
+  "https://insideevs.com/news/800168/tesla-demo-car-battery-test/": {
+    "title_zh": "特斯拉电池健康度测试：App 提示衰退，车载系统显示更糟",
+    "summary_short": "一辆 2022 款特斯拉 Model 3 Performance 电池健康度仅 88%，低于车主预期，但接近第三方 App 的预测。",
+    "summary_long": "一辆 2022 款特斯拉 Model 3 Performance 在行驶约 3.1 万英里后，通过特斯拉官方测试显示电池健康度为 88%，低于车主预期。车主此前使用 Recurrent App 监测，App 预测的健康度与官方结果接近。该车在最初 5 个月作为试驾车可能经历了高强度使用，但车主购入后一直温和充电，主要使用家用慢充并保持电量在 30%-80%之间。",
+    "highlights_zh": [
+      "官方测试显示电池健康度 88%",
+      "第三方 App 预测接近官方结果",
+      "车辆早期作为试驾车可能被高强度使用",
+      "车主购入后采用温和充电方式"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3 Performance",
+      "电池健康度",
+      "Recurrent"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8vv4/s1/model-3.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:36.225Z"
+  },
+  "https://www.motor1.com/news/800103/jd-power-initial-quality-study-makes-and-models/": {
+    "title_zh": "雷克萨斯不再是初始质量之王，保时捷取而代之",
+    "summary_short": "J.D. Power 最新初始质量研究显示，保时捷取代雷克萨斯成为榜首，行业整体质量提升，但信息娱乐系统问题增多。",
+    "summary_long": "J.D. Power 发布的最新初始质量研究显示，保时捷以每百辆车 138 个问题（PP100）的成绩，取代雷克萨斯成为豪华品牌和整体市场的第一名。Genesis 以 151 PP100 位列第二，福特以 152 PP100 排名第三，成为大众市场品牌中的佼佼者。雷克萨斯与日产并列第四，均为 156 PP100。行业平均值为 175 PP100，较去年的 192 PP100 有所改善，这是近 30 年来最大的年度进步。然而，信息娱乐系统是唯一问题增多的类别，尤其是 Apple CarPlay 和 Android Auto 的连接问题成为质量下降的主要因素。",
+    "highlights_zh": [
+      "保时捷以 138 PP100 夺冠",
+      "雷克萨斯跌至第四",
+      "行业平均质量提升至 175 PP100",
+      "信息娱乐系统问题增多"
+    ],
+    "entities": [
+      "J.D. Power",
+      "保时捷 | Porsche",
+      "雷克萨斯 | Lexus",
+      "Genesis",
+      "福特"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:36.646Z"
+  },
+  "https://response.jp/article/2026/06/30/413393.html": {
+    "title_zh": "保时捷发布全新 911 GT4 R 赛车，SNS 热议",
+    "summary_short": "保时捷发布基于 911 的 GT4 R 赛车，搭载 4.0 升水平对置 6 缸自然吸气发动机，SNS 上引发热议。",
+    "summary_long": "保时捷在欧洲发布了基于 911 的全新赛车 911 GT4 R，旨在扩大客户赛车阵容。该车以 992.2 代 911 GT3 为基础，搭载 4.0 升水平对置 6 缸自然吸气发动机，最大输出功率 382kW（520PS），最大扭矩 470Nm。相比之前的 718 Cayman Clubsport，GT4 R 拥有更强大的发动机、更宽的轮距和优化的电子控制系统，旨在提升圈速和行驶稳定性。根据 GT4 规则，性能受 BoP 限制，例如在 Exworks 状态下，通过 53.7mm 的进气限流器将功率限制在 316kW（430PS）。传动系统采用带拨片换挡的序列式 6 速狗腿变速箱和四片式赛车离合器。",
+    "highlights_zh": [
+      "保时捷发布全新 911 GT4 R 赛车",
+      "搭载 4.0L 水平对置 6 缸自然吸气引擎",
+      "最大功率 520PS",
+      "基于 992.2 代 911 GT3 打造"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT4 R",
+      "911 GT3",
+      "718 Cayman"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223203.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223203.jpg",
+      "https://response.jp/imgs/fill2/2223204.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:41.465Z"
+  },
+  "https://response.jp/article/2026/06/30/413404.html": {
+    "title_zh": "GR Supra AT 车型动力提升 10 马力！HKS 推出金属催化转化器",
+    "summary_short": "HKS 为丰田 GR Supra AT 车型推出运动催化转化器，提升 10 马力和 1.1kgf·m 扭矩，优化排气效率与声浪。",
+    "summary_long": "HKS 为丰田 GR Supra AT 车（DB06，2022 年 10 月后）推出运动催化转化器“金属催化转化器”，售价 49.28 万日元。该产品采用 150 目低密度载体，相比原厂 600 目降低 40%排气背压，同时优化贵金属配比，满足 2018 年 WLTC 排放法规并获官方认证。性能方面，最大功率提升 7kW（10ps），最大扭矩提升 11Nm（1.1kgf·m），尤其在 3000-6000rpm 区间输出显著优于原厂。声浪方面，300Hz 和 600-700Hz 频段增强，搭配自家涡轮排气歧管时近排气噪音为 94dB，符合安全标准。",
+    "highlights_zh": [
+      "功率提升 10 马力",
+      "150 目低密度载体",
+      "满足 2018 年 WLTC 排放法规",
+      "搭配涡轮排气歧管噪音 94dB"
+    ],
+    "entities": [
+      "HKS",
+      "丰田 | Toyota",
+      "GR Supra"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223340.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223340.jpg",
+      "https://response.jp/imgs/fill2/2223345.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:41.998Z"
+  },
+  "https://response.jp/article/2026/06/30/413405.html": {
+    "title_zh": "川崎 Z900RS 试驾：体验“硬汉川崎”的不变本色，进化后的直四全开快感",
+    "summary_short": "川崎 Z900RS 2026 年款迎来重大升级，新增 Black Ball Edition，电子油门、六轴 IMU、快排和巡航控制一应俱全，堪称换代级进化。",
+    "summary_long": "川崎 Z900RS 2026 年款在日本举行试驾会，新车并非简单换色或应对排放，而是进行了堪比换代的全面升级。新增的 Black Ball Edition 致敬初代 Z1，黑色涂装兼具复古与高级感。核心变化在于首次搭载电子控制油门（ETV），配合六轴 IMU 实现弯道管理（KCMF），并加入快速换挡（KQS）和定速巡航。试驾者认为新车保留了初代“披着街车外衣的超跑”特质，同时融入了现代电控技术，使驾驶体验更加完善。",
+    "highlights_zh": [
+      "2026 款 Z900RS 迎来换代级升级",
+      "新增 Black Ball Edition",
+      "首次搭载电子油门、六轴 IMU 和弯道管理",
+      "配备快速换挡和定速巡航"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Z900RS",
+      "Z1",
+      "Black Ball Edition"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223446.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223446.jpg",
+      "https://response.jp/imgs/fill2/2223398.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:47.259Z"
+  },
+  "https://response.jp/article/2026/06/30/413402.html": {
+    "title_zh": "本田 Prelude 适配 Blitz DAMPER ZZ-R 系列避震套件",
+    "summary_short": "Blitz 为本田 Prelude 推出 DAMPER ZZ-R 系列避震，支持高低与阻尼可调，兼顾舒适与操控。",
+    "summary_long": "改装零件制造商 Blitz 为其在售的 DAMPER ZZ-R 及 DAMPER ZZ-R SpecDSC Plus 避震套件新增了本田 Prelude（BF1，2025 年 9 月起）的适配。DAMPER ZZ-R 采用单筒式结构，配备Φ44 大直径活塞，通过 32 段阻尼力调节可应对从街道到赛道的各种驾驶场景。部分车型采用铝制上座、锁环和支架，兼顾高强度和轻量化。该套件支持 cartridge 先出式翻新，便于更换易损件，并提供业界最长的 3 年 6 万公里保修。针对 Prelude 的后避震配备了强化橡胶上座（前部使用原厂件），并附赠专用悬架警告消除器，可避免可变阻尼系统错误在仪表盘上显示。安装后可在保持原厂扎实感的同时调整至更柔和的乘坐体验，含税价格为 28 万 500 日元。DAMPER ZZ-R SpecDSC Plus 则结合了电子控制阻尼力调节，通过 2.5 英寸 VA 液晶显示屏实时显示四轮阻尼力，并搭载业界首个“全自动”模式，根据乘客人数和行驶状态自动控制阻尼力以稳定车身姿态。标配 G 传感器，在映射控制模式下可根据横向 G、加减速 G 和车速进行精细阻尼力调整。",
+    "highlights_zh": [
+      "新增适配本田 Prelude（BF1）",
+      "单筒式结构",
+      "后悬配强化橡胶上座及警告消除器",
+      "SpecDSC Plus 版支持全自动电子控制"
+    ],
+    "entities": [
+      "Blitz",
+      "DAMPER ZZ-R",
+      "本田 | Honda",
+      "プレリュード",
+      "DAMPER ZZ-R SpecDSC Plus"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223208.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223208.jpg",
+      "https://response.jp/imgs/fill2/2223210.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:48.034Z"
+  },
+  "https://response.jp/article/2026/06/30/413397.html": {
+    "title_zh": "10 万公里免换真的没问题？更换火花塞改变驾驶感受的理由",
+    "summary_short": "火花塞是影响发动机燃烧的关键部件，即使长寿命化，定期更换仍能恢复性能，改善响应和加速感。",
+    "summary_long": "火花塞在数万伏高压下产生火花，点燃混合气，但长期使用会导致电极磨损、间隙增大，以及绝缘体积碳引起漏电，降低点火性能。更换新火花塞并非提升动力，而是恢复发动机原本的响应和加速感。现代长寿命火花塞虽延长了更换周期，但定期维护仍对保持性能至关重要。",
+    "highlights_zh": [
+      "火花塞电极磨损会增大间隙",
+      "积碳导致漏电",
+      "更换火花塞是恢复发动机原有性能的维护",
+      "长寿命火花塞也需定期检查更换"
+    ],
+    "entities": [
+      "火花塞"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223192.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223192.jpg",
+      "https://response.jp/imgs/p/2lMgPWAa6QGqet-mNL0FG4RP30HRQkNERUZH/1862484.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:51.634Z"
+  },
+  "https://response.jp/article/2026/06/30/413392.html": {
+    "title_zh": "AI 与人协作的报价服务“匠 Force”将亮相 2026 年制造世界东京展",
+    "summary_short": "匠技研工业推出 AI 与人协作的报价服务“匠 Force”，旨在解决制造行业报价依赖熟手、知识难以传承的问题。",
+    "summary_long": "匠技研工业将于 2026 年 7 月 1 日至 3 日在东京 Big Sight 举办的“第 38 届制造世界东京展”上展示其 AI 报价服务“匠 Force”。该服务针对制造行业报价业务依赖熟手经验、知识难以传承的痛点，通过 AI 基于历史数据推算材料费和加工费，生成报价草案，再由人工确认和修正。AI 会学习人工的修改和判断，逐渐成长为反映企业自身业绩的专用 AI。",
+    "highlights_zh": [
+      "AI 生成报价草案",
+      "解决报价依赖熟手、知识传承难的问题",
+      "AI 学习人工判断",
+      "应对材料费高涨和加薪背景下的精准报价需求"
+    ],
+    "entities": [
+      "匠技研工业",
+      "匠 Force",
+      "制造世界东京展",
+      "报价服务",
+      "AI 协作"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223366.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223366.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:53.080Z"
+  },
+  "https://response.jp/article/2026/06/30/413403.html": {
+    "title_zh": "宝马摩托车 6 款车型因燃油泄漏隐患召回",
+    "summary_short": "宝马摩托车 6 款车型因燃油泵密封圈安装不当，可能导致燃油泄漏，共涉及 4621 台。",
+    "summary_long": "宝马（BMW）于 6 月 26 日向日本国土交通省提交召回申请，涉及 BMW Motorrad 品牌的 6 款摩托车，共计 4621 台。召回原因是燃油泵安装部的密封圈因作业指示不当，未能正确组装，导致密封性受损，存在燃油泄漏风险。对象车型为 2023 年 7 月 6 日至 2025 年 7 月 23 日期间生产的 R1300GS、R1300GSA、S1000RR、S1000R、M1000RR、M1000R。作为改进措施，将对所有车辆检查燃油泄漏情况，并根据需要更换燃油泵密封圈并正确安装。",
+    "highlights_zh": [
+      "宝马摩托车 6 款车型召回 4621 台",
+      "燃油泵密封圈安装不当致漏油风险",
+      "涉及 R1300GS、S1000RR 等热门车型",
+      "免费检查并更换密封圈"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "R1300GS",
+      "S1000RR",
+      "M1000RR",
+      "燃油泄漏"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223391.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223391.jpg",
+      "https://response.jp/imgs/fill2/2223392.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:55.510Z"
+  },
+  "https://www.motor1.com/news/800111/mechanics-side-work/": {
+    "title_zh": "车主找技师私下修车，费用直降 60%",
+    "summary_short": "一位技师建议车主直接找 4S 店技师私下接活，可节省 60%工时费，但需注意保修和风险。",
+    "summary_long": "一位名叫 Bobby 的技师在社交媒体上分享省钱妙招：车主可以直接联系 4S 店或修理厂的技师，以低于门店的工时费私下接活。例如，若门店工时费为 100 美元/小时，技师私下收费相同，其收入翻倍，而车主工时费则降低 60%。Bobby 指出，高额工时费并非技师所得，而是门店和经销商的定价。这一做法虽能大幅节省开支，但车主需自行承担无保修、无保险等风险。",
+    "highlights_zh": [
+      "私下找技师修车",
+      "技师私下收费与门店相同",
+      "高工时费归门店",
+      "省钱但需自担保修和保险风险"
+    ],
+    "entities": [
+      "Bobby"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBznye/s1/mechanic-is-looking-for-side-work.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:57.143Z"
+  },
+  "https://response.jp/article/2026/06/30/413388.html": {
+    "title_zh": "大众高尔夫 R Black Edition II：限量 500 台，专属配色与性能升级",
+    "summary_short": "大众日本推出高尔夫 R Black Edition II 限量版，专属海豚灰金属漆，最高时速提升至 270km/h，售价 789.9 万日元。",
+    "summary_long": "大众日本于 6 月 30 日发布高尔夫 R 限量版 Black Edition II，全国限量 500 台。该车首次为 R 车型引入专属车身色“海豚灰金属漆”，并提供“拉碧蓝金属漆”可选。外观采用黑色后视镜、头灯、刹车卡钳、前后徽标及轻量化锻造轮毂，并配备大型黑色双色后扰流板以增加下压力。排气系统升级为 Akrapovic 钛合金排气，减轻重量并提升声浪。性能方面，标配性能套件，最高时速从 250km/h 提升至 270km/h，并增加漂移和特殊驾驶模式。",
+    "highlights_zh": [
+      "全国限量 500 台",
+      "专属海豚灰金属漆",
+      "最高时速 270km/h",
+      "Akrapovic 钛合金排气"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "高尔夫 R",
+      "Black Edition II",
+      "Akrapovic"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223355.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223355.jpg",
+      "https://response.jp/imgs/fill2/2223358.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:43:59.242Z"
+  },
+  "https://bestcarweb.jp/feature/column/1560971": {
+    "title_zh": "Voxy 为何被指名购买？比 Noah 更显“痞帅”的家庭 MPV 魅力",
+    "summary_short": "丰田 Voxy 与 Noah 是兄弟车型，但 Voxy 凭借更酷的外观设计吸引了许多家庭用户指名购买。",
+    "summary_long": "丰田 Noah 和 Voxy 是兄弟车型，基本性能和实用性非常接近。然而，仍有不少人指名购买 Voxy，原因在于它虽然是家庭 MPV，却带有一种“痞帅”的气质，能提升驾驶者的心情。Voxy 外观更具攻击性，带有运动套件，给人一种酷劲十足的感觉。在实用性方面，Voxy 同样出色，车身尺寸适中，内部空间宽敞，2026 年 5 月改款后仅提供混合动力，WLTC 油耗约 23.5km/L，兼顾了经济性。",
+    "highlights_zh": [
+      "Voxy 比 Noah 更显“痞帅”",
+      "实用性与酷感兼备",
+      "2026 年改款后仅提供混动",
+      "油耗约 23.5km/L"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ヴォクシー",
+      "ノア",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29141912/gallery_06_1-1.jpg?v=1782710353",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25172638/d5_image2-600x400.jpg?v=1782375999",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23155552/gallery_06_1-600x400.jpg?v=1782197753"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:01.688Z"
+  },
+  "https://bestcarweb.jp/news/1555392": {
+    "title_zh": "断热铝片让爱车空调效率飙升，隔音性能也提升",
+    "summary_short": "CRAFTWORKS 推出断热铝片，三明治结构兼顾隔热与隔音，轻松 DIY 改善车内舒适度。",
+    "summary_long": "CRAFTWORKS 推出断热铝片，采用铝板、丁基橡胶和粘合片三层结构，可裁剪后粘贴于车顶、车门或地板，有效阻隔外部热量传递，同时抑制振动和噪音，提升空调效率和车内静谧性。该产品尤其适合夏季高温和冬季寒冷环境，对 MPV、SUV 等大空间车型效果显著，也适用于车中泊和户外场景。",
+    "highlights_zh": [
+      "三层结构：铝板+丁基橡胶+粘合片",
+      "可裁剪粘贴",
+      "同时提升隔热与隔音性能",
+      "适合车中泊和户外使用"
+    ],
+    "entities": [
+      "CRAFTWORKS",
+      "断热铝片"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20010127/e029f27d042aa7a4d8d7781b96a95ac0.jpg?v=1781884888",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20010127/e029f27d042aa7a4d8d7781b96a95ac0-600x400.jpg?v=1781884888",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26183847/e4daa1eb8b03743dc60759fe70fa5f5e-600x400.jpg?v=1782466728"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:03.846Z"
+  },
+  "https://response.jp/article/2026/06/30/413401.html": {
+    "title_zh": "铃木推出法人车辆管理服务“SUZUKI FLEET Right”",
+    "summary_short": "铃木与 SmartDrive 合作，7 月 1 日起推出面向法人的云车辆管理服务 SUZUKI FLEET Right，聚焦法规合规功能。",
+    "summary_long": "铃木宣布将于 7 月 1 日起推出面向法人的云车辆管理服务“SUZUKI FLEET Right”。该服务是铃木与 SmartDrive 合作开发的，旨在利用铃木的客户导向制造理念和 SmartDrive 在出行领域的服务开发经验，共同创造和普及新的互联服务。此前双方已于 2023 年 3 月 22 日推出“SUZUKI FLEET”服务，此次新计划聚焦于需求较高的法规合规功能，以降低引入成本。",
+    "highlights_zh": [
+      "7 月 1 日起提供",
+      "聚焦法规合规功能",
+      "降低引入成本",
+      "与 SmartDrive 合作"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "SmartDrive",
+      "SUZUKI FLEET",
+      "SUZUKI FLEET Right"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223439.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223439.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:06.210Z"
+  },
+  "https://response.jp/article/2026/06/30/413406.html": {
+    "title_zh": "D-SPORT 与 BEWITH 联合开发“专用调音片”，提升大发 Copen 车顶静音性与音响音质",
+    "summary_short": "D-SPORT 与 BEWITH 为大发 Copen 开发专用调音片，提升车顶静音性与音响音质，售价 1.87 万日元。",
+    "summary_long": "SPK 旗下大发车改装品牌 D-SPORT 推出大发 Copen（L880K）专用制振隔音片“D-SPORT×BEWITH ADVANS 调音片”，售价 1.87 万日元。该产品由音响专业厂商 BEWITH 为“调音施工”新开发的 ADVANS 调音片制成，旨在提升占据车内较大面积的车顶部分的静音性，从而改善驾驶舒适性与音响音质。材料为三层结构：丁腈橡胶发泡体（吸音层）、铝片（隔音层）、丁基橡胶（制振层），厚度 9mm。吸音层采用特殊调校的半连续气泡结构，与厚铝隔音层及超强粘性制振层结合，有效应对多种噪音。产品专为 L880K Copen 树脂车顶设计，只需粘贴在内饰面板内侧即可完成安装，不影响车顶外观及开闭机构，参考安装时间约 2.5 小时。不适用于可拆卸车顶。",
+    "highlights_zh": [
+      "D-SPORT 与 BEWITH 联合开发",
+      "专为大发 Copen L880K 设计",
+      "三层结构：吸音、隔音、制振",
+      "售价 1.87 万日元"
+    ],
+    "entities": [
+      "D-SPORT",
+      "BEWITH",
+      "大发 | Daihatsu",
+      "コペン",
+      "调音片"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223311.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223311.jpg",
+      "https://response.jp/imgs/fill2/2223312.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:09.100Z"
+  },
+  "https://bestcarweb.jp/feature/column/1557442": {
+    "title_zh": "三菱帕杰罗系列或将复兴，帕杰罗 Mini 有望复活挑战铃木吉姆尼",
+    "summary_short": "三菱宣布 2026 年秋发布全新帕杰罗，并计划系列化发展，帕杰罗 Mini 复活呼声高涨，有望挑战吉姆尼的霸主地位。",
+    "summary_long": "三菱汽车于 2026 年 5 月 29 日宣布，全新帕杰罗将于 2026 年秋季全球首发，这将是该车型在日本市场停售 7 年后的回归。同时，三菱在 2030 年新中期愿景中明确将帕杰罗作为系列车型发展，暗示可能推出中型及小型衍生车型。这引发了外界对帕杰罗 Mini 复活的期待。帕杰罗 Mini 曾作为轻自动车 RV 深受欢迎，若复活，将与铃木吉姆尼形成直接竞争。",
+    "highlights_zh": [
+      "三菱 2026 年秋发布全新帕杰罗",
+      "帕杰罗将系列化发展",
+      "帕杰罗 Mini 复活呼声高",
+      "有望挑战铃木吉姆尼独走局面"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "帕杰罗 Mini",
+      "吉姆尼",
+      "轻自动车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22223750/a6721745a6c6aecaa04669ef214ec4ad.jpg?v=1782135472",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22223750/a6721745a6c6aecaa04669ef214ec4ad-600x437.jpg?v=1782135472",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25172638/d5_image2-600x400.jpg?v=1782375999"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:10.831Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1563886": {
+    "title_zh": "意外！Mira e:S DSR 挑战涩川伊香保拉力赛，年轻车手天赋点燃激情",
+    "summary_short": "国泽光宏带领 Mira e:S DSR 车队，让年轻新手担任领航员，在雨雾中挑战涩川伊香保拉力赛，轻自动车在陡坡路段苦战，但新人天赋令人惊喜。",
+    "summary_long": "国泽光宏（Mitsuhiro Kunisawa）驾驶 Mira e:S DSR 参加 GAZOO Racing 拉力挑战赛，旨在向下一代传递驾驶乐趣。本次比赛他启用了一位 26 岁的拉力新手作为领航员，在雨雾笼罩的涩川伊香保站中，轻自动车在陡峭的 SS 路段面临严峻考验，但新人的意外天赋点燃了国泽的热情。文章还介绍了拉力挑战赛的低门槛特点：周六中午集合、报名费含保险 6.6 万日元，适合新人参与。",
+    "highlights_zh": [
+      "Mira e:S DSR 挑战涩川伊香保拉力赛",
+      "启用 26 岁新手领航员",
+      "雨雾中轻自动车陡坡苦战",
+      "新人天赋令国泽光宏惊喜"
+    ],
+    "entities": [
+      "Mira e:S DSR",
+      "GAZOO Racing 拉力挑战赛",
+      "国泽光宏",
+      "涩川伊香保"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30115705/01518356802f25816a2283bcca4e003b.jpg?v=1782788226",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30115705/01518356802f25816a2283bcca4e003b-600x400.jpg?v=1782788226",
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/12/02135402/b31b086785159a503551870e135ad150-600x400.jpg?v=1764651244"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:14.320Z"
+  },
+  "https://response.jp/article/2026/06/30/413384.html": {
+    "title_zh": "马自达新款 CX-5 采用先锋车载云导航应用 COCCHi",
+    "summary_short": "马自达新款 CX-5 搭载先锋云导航应用 COCCHi，月费 700 日元，通过车辆联动提升隧道等弱信号环境定位精度。",
+    "summary_long": "先锋于 6 月 30 日宣布，为马自达新款 CX-5 提供车载云导航应用“COCCHi for Automotive”。车主可通过马自达 Connect 系统从 Google Play 安装，月费 700 日元（含税）。该应用与马自达合作进行车辆特性调校，结合先锋自有的定位技术及车辆陀螺仪、车速传感器信息，在隧道或高架下等卫星信号弱的环境下也能实现高精度定位。同时，通过云端获取最新地图和交通信息，配合先锋的路径规划技术，提供安全舒适的驾驶体验。",
+    "highlights_zh": [
+      "月费 700 日元",
+      "与马自达合作调校",
+      "隧道等弱信号环境仍能高精度定位",
+      "云端地图与交通信息"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "先锋",
+      "COCCHi for Automotive",
+      "马自达 Connect"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223335.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223335.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:15.745Z"
+  },
+  "https://bestcarweb.jp/news/1561034": {
+    "title_zh": "马自达 787B 纪念徽章发售！勒芒夺冠 35 周年官方周边",
+    "summary_short": "马自达推出 787B 勒芒夺冠 35 周年纪念徽章，细节还原赛车造型，配专属包装盒。",
+    "summary_long": "为纪念 1991 年勒芒 24 小时耐力赛中马自达 787B 成为首款搭载转子发动机夺冠的赛车、也是日本厂商首次夺冠的壮举，2026 年 6 月 23 日正值胜利 35 周年之际，马自达官方授权品牌 BUTTON&CUFFLINKS 推出了 MAZDA 787B 纪念徽章。徽章小巧精致，尽可能还原了赛车细节，并配有火柴盒大小的专属包装，兼具收藏与展示价值。",
+    "highlights_zh": [
+      "1991 年勒芒夺冠 35 周年纪念",
+      "转子发动机赛车首胜",
+      "官方授权",
+      "火柴盒式专属包装"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MAZDA 787B",
+      "勒芒 24 小时耐力赛",
+      "转子发动机",
+      "BUTTON&CUFFLINKS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26183847/e4daa1eb8b03743dc60759fe70fa5f5e.jpg?v=1782466728",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26183847/e4daa1eb8b03743dc60759fe70fa5f5e-600x400.jpg?v=1782466728",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29163106/wallpapers_mitsubishi_pajero_1982_2.jpg?v=1782718266"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:18.643Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556722": {
+    "title_zh": "丰田 Raize 购车指南：X、G、Z 哪个最划算？",
+    "summary_short": "丰田 Raize 三款配置对比：X 入门实惠，G 性价比高，Z 豪华感强，推荐 G 为最佳选择。",
+    "summary_long": "丰田 Raize 是 180 万日元起售的紧凑型 SUV，提供 X、G、Z 三个配置。X 基础版售价 180 万 700 日元，适合预算有限、对配置要求不高的用户。G 版售价 195 万 8000 日元，增加 16 英寸铝合金轮毂、LED 雾灯、自动空调等实用配置，性价比突出。Z 版售价 215 万 2700 日元起，配备 17 英寸轮毂、LED 流水转向灯、真皮方向盘等，豪华感更强。若追求日常使用满足感，G 版是最均衡的选择。",
+    "highlights_zh": [
+      "X 版 180 万日元起",
+      "G 版增配 16 英寸铝轮、自动空调等",
+      "Z 版升级 17 英寸轮毂、真皮方向盘",
+      "推荐 G 版"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ライズ",
+      "X",
+      "G",
+      "Z"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23155552/gallery_06_1.jpg?v=1782197753",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23155552/gallery_06_1-600x400.jpg?v=1782197753",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25172638/d5_image2-600x400.jpg?v=1782375999"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:19.877Z"
+  },
+  "https://response.jp/article/2026/06/30/413398.html": {
+    "title_zh": "理光展台将展出积彩下一代 3D 打印机作品及内照式大型柜台",
+    "summary_short": "积彩在“次世代 3D 打印机展 2026”上展示内照式柜台，体现 3D 打印的美学与功能性。",
+    "summary_long": "积彩宣布将于 7 月 1 日至 3 日在东京 Big Sight 举办的“制造业世界东京”内的“次世代 3D 打印机展 2026”上出展。在理光日本展台，积彩将展示运用其设计与数字设计技术的内照式柜台。该展示旨在呈现 3D 打印独有的美感与功能性相结合的空间设计可能性，超越传统家具与产品的范畴。该展会汇集了增材制造、3D 打印机、材料及受托造型服务等 3D 打印相关技术，吸引制造业、建筑业、娱乐及广告等行业的参观者，促进商务洽谈与信息交流。",
+    "highlights_zh": [
+      "积彩在理光展台展示内照式柜台",
+      "体现 3D 打印的美学与功能性",
+      "超越传统家具与产品的空间设计",
+      "展会汇集 3D 打印全产业链技术"
+    ],
+    "entities": [
+      "积彩",
+      "理光",
+      "次世代 3D 打印机展",
+      "内照式柜台",
+      "增材制造"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223429.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223429.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:23.556Z"
+  },
+  "https://bestcarweb.jp/feature/column/1560432": {
+    "title_zh": "畅销有原因！两款极致成熟的“长寿车型”",
+    "summary_short": "昭和时代车型换代周期约 4 年，如今 5-6 年成常态，甚至出现销售超 10 年的车型。本文回顾两款经典长寿车。",
+    "summary_long": "昭和时代乘用车通常每 4 年进行一次换代，如丰田 Mark II 系列基本遵循此周期。如今换代周期延长至 5-6 年，部分车型甚至持续销售超过 10 年。本文聚焦两款长寿车型：日产 GT-R 最初是 Skyline 的一个高性能版本，1969 年初代诞生，后因石油危机停产；1989 年以 R32 复活，历经 R33、R34，至 2002 年因排放法规停产。日产随即开发后继车型，2001 年展出 GT-R 概念车，2005 年公开 GT-R 原型车。",
+    "highlights_zh": [
+      "昭和时代车型换代周期约 4 年",
+      "如今 5-6 年成常态",
+      "日产 GT-R 从 Skyline 衍生",
+      "R34 于 2002 年停产"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "GT-R",
+      "スカイライン",
+      "マークII"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25172638/d5_image2.jpg?v=1782375999",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25172638/d5_image2-600x400.jpg?v=1782375999",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23155552/gallery_06_1-600x400.jpg?v=1782197753"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:24.308Z"
+  },
+  "https://www.motor1.com/news/800120/mechanic-diagnostics/": {
+    "title_zh": "机械师建议 2000 美元维修，女子寻求第二意见后省下 1000 美元",
+    "summary_short": "一名女子被机械师建议 2000 美元维修，第二家店诊断出不同问题，帮她省下 1000 美元。",
+    "summary_long": "一名女子在汽车维修店被诊断出需要更换主缸和制动助力器，维修费用约 2000 美元。她随后联系了另一家店的机械师 Jimmy Avila，后者坚持先自行诊断。Avila 发现实际故障并非前一家店所述，最终仅花费约 1000 美元就解决了问题。Avila 在 TikTok 上批评同行诊断不准确，并强调获取可信机械师第二意见的重要性。",
+    "highlights_zh": [
+      "第一家店建议 2000 美元维修",
+      "第二家店诊断出不同问题",
+      "女子最终省下 1000 美元",
+      "机械师强调第二意见的重要性"
+    ],
+    "entities": [
+      "Jimmy Avila",
+      "AutoZone",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6N793/s1/mechanic-works-on-car.-then-he-tells-his-customer-to-go-to-autozone-for-a-scan.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:27.424Z"
+  },
+  "https://www.motor1.com/news/800143/toyota-reliability-edge-chinese-rivals/": {
+    "title_zh": "丰田：可靠性是抗衡中国对手的制胜法宝",
+    "summary_short": "丰田凭借可靠性优势，在 2025 年以 1050 万辆销量连续六年蝉联全球销冠，并认为这能抵御中国品牌的崛起。",
+    "summary_long": "丰田（含雷克萨斯）2025 年销量超 1050 万辆，连续第六年位居全球第一，加上大发后总销量约 1120 万辆，领先大众集团。尽管比亚迪、上汽、吉利等中国品牌增长迅猛，丰田澳大利亚高管表示，可靠性是丰田的核心优势，使其在竞争中保持领先。",
+    "highlights_zh": [
+      "2025 年丰田全球销量超 1050 万辆",
+      "比亚迪、上汽、吉利均进入全球前十",
+      "丰田高管称可靠性是抗衡中国对手的关键"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "雷克萨斯 | Lexus",
+      "比亚迪 | BYD",
+      "上汽",
+      "吉利"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6pVzN/s1/toyota-tacoma-trd-pro-wave-maker-blue.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:27.609Z"
+  },
+  "https://www.motor1.com/news/800133/2028-audi-a4-electric-details/": {
+    "title_zh": "奥迪 A4 电动版 2028 年亮相，全新平台与设计语言",
+    "summary_short": "奥迪确认 2028 年推出纯电 A4，采用全新平台和设计语言，将率先应用 Concept C 概念车的设计理念。",
+    "summary_long": "奥迪计划在 2028 年推出全新纯电动 A4，该车将基于全新平台打造，并采用与 Concept C 概念车一脉相承的“追求清晰”设计语言。奥迪首席技术官 Rouven Mohr 透露，A4 EV 将成为首批量产该设计语言的车型之一。此前，限量 499 台的 Nuvolari 和基于 Concept C 的量产跑车将率先应用新设计。奥迪同时表示将提升内饰品质，增加物理按键。",
+    "highlights_zh": [
+      "2028 年推出纯电 A4",
+      "全新平台与设计语言",
+      "率先应用 Concept C 设计",
+      "内饰品质提升"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A4",
+      "Concept C",
+      "Nuvolari",
+      "纯电动轿车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y292bb/s1/audi-concept-c-2025.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-06-30T15:44:31.253Z"
   }
 }
