@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-01T04:52:19.322Z",
+    "generated_at": "2026-07-01T15:57:01.041Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 364,
-    "deepseek_untranslated_before_run": 36,
-    "newly_fetched_articles": 36,
-    "newly_fetched_untranslated": 36,
+    "deepseek_translated_before_run": 372,
+    "deepseek_untranslated_before_run": 28,
+    "newly_fetched_articles": 28,
+    "newly_fetched_untranslated": 28,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 36,
+    "translation_queue_count": 28,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.7.1",
-        "title": "「三菱すげぇ～」「とても気になります！」三菱『アウトランダーPHEV』の改良がSNSで話題に",
-        "url": "https://response.jp/article/2026/07/01/413432.html"
+        "title": "Kia Just Had Its Best June Ever As Hybrid Sales Skyrocket",
+        "url": "https://www.motor1.com/news/800296/kia-sales-results-june-q2-2026/"
       },
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.7.1",
-        "title": "「梅雨だけじゃない」夏も雨に強いタイヤが必要だ!! 新ブランド「フィネッサ」で雨のドライブを安全に乗り切れ!",
-        "url": "https://bestcarweb.jp/feature/1559143"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "【調査レポート】「SDV2.0」AIDVの実像～先読み型AIエージェントが変える車内UX・収益構造・競争構造～",
-        "url": "https://response.jp/article/2026/07/01/413424.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.1",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第797回",
-        "url": "https://bestcarweb.jp/feature/column/1509093"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.1",
-        "title": "278万円で買えるセレナはアリか？ 2025年改良で顔が変わらなかったXの狙い目度",
-        "url": "https://bestcarweb.jp/feature/column/1564030"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "EVバッテリー向け接着ソリューション、テサテープが展示…人とくるまのテクノロジー展 2026",
-        "url": "https://response.jp/article/2026/06/26/413237.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "EV充電インフラのプラゴ、脱炭素化支援機構が出資…EV普及を後押し",
-        "url": "https://response.jp/article/2026/07/01/413426.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "NOK、SOMPOサステナビリティ・インデックスに初選定…ESG評価で高評価獲得",
-        "url": "https://response.jp/article/2026/07/01/413438.html"
+        "title": "Watch A New Chevy Blazer Demolish An Old One In A Crash Test",
+        "url": "https://www.motor1.com/news/800205/chevrolet-blazer-crash-test/"
       },
       {
         "source": "The Drive",
         "time": "2026.7.1",
-        "title": "Spied: 2027 Hyundai Santa Fe Ditching the LED H Lighting Pattern",
-        "url": "https://www.thedrive.com/news/2027-hyundai-santa-fe-spy-shots"
+        "title": "Honda and Nissan Near Partnership Despite Failed Merger: TDS",
+        "url": "https://www.thedrive.com/news/honda-and-nissan-near-partnership-despite-failed-merger-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.1",
+        "title": "Which 2026 Honda Civic Should You Buy? Every Trim Explained",
+        "url": "https://www.motor1.com/features/800194/2026-honda-civic-buying-guide/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.1",
+        "title": "‘We Don’t Know What We’re Doing’: Inside the Post-Ban Chaos at Polestar Dealerships",
+        "url": "https://www.thedrive.com/news/we-dont-know-what-were-doing-inside-the-post-ban-chaos-at-polestar-dealerships"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.1",
-        "title": "アーマーテック、SUPER GT「チームクニミツ」スポンサーに…富士Rdから参戦車両のフロントガラスを保護",
-        "url": "https://response.jp/article/2026/07/01/413430.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "カーメイト、噴霧式ディフューザー専用オイルに「風鈴の香り」「夏祭りの香り」…数量限定発売",
-        "url": "https://response.jp/article/2026/07/01/413433.html"
+        "title": "「エンブレムちっちゃすぎwww」マツダ版ハスラーの“顔”にSNS注目！『フレアクロスオーバー』がマイチェン",
+        "url": "https://response.jp/article/2026/07/01/413463.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.1",
-        "title": "このさき仕事はいつまで続けられるのか!? 女性トラックドライバーが抱えるリアルな不安【愛嘉さんの場合】",
-        "url": "https://bestcarweb.jp/fullload/1564192"
+        "title": "「ふんばり」が超大事？ 氷に振り切ったスタッドレスタイヤ!? ダンロップが「ウインターマックス アイスプロ」を電撃発表！",
+        "url": "https://bestcarweb.jp/news/car-accessory/1565782"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.1",
-        "title": "シビックベースだけどケンメリ風!? ミツオカ M55 RSが70年代好きのハートに刺さりまくり!!",
-        "url": "https://bestcarweb.jp/feature/column/1556112"
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「FM」",
+        "url": "https://bestcarweb.jp/feature/column/1530970"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.1",
-        "title": "スズキ『ワゴンR』次期型、発売は2027年前半か…販売推移から見えるフルモデルチェンジの方向性",
-        "url": "https://response.jp/article/2026/07/01/413416.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "スズキの目指す「見ていい」バイクデザインとは？…6月のモーターサイクル記事ベスト5",
-        "url": "https://response.jp/article/2026/07/01/413434.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "ゼンリンの地図雑貨ブランド「Map Design GALLERY」が北海道初出店、さっぽろ地下街に期間限定オープン…7月3日",
-        "url": "https://response.jp/article/2026/07/01/413436.html"
+        "title": "8/20申込締切 世界をリードするEVの雄「BYD」～その真の技術力と日本市場での戦略に迫る！～",
+        "url": "https://response.jp/article/2026/07/01/413441.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.1",
-        "title": "ソリオ バンディットで上級ミニバン気分は味わえるか？ 233万6400円からの迫力顔をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1556839"
+        "title": "BEV一択の崩壊!! 世界が再びハイブリッドに向かう納得すぎる理由",
+        "url": "https://bestcarweb.jp/feature/column/1557497"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.1",
-        "title": "デンソーテンのUWB干渉抑制技術、国際標準規格「IEEE 802.15.6-2026」に採用…車載用途などに展開へ",
-        "url": "https://response.jp/article/2026/07/01/413429.html"
+        "title": "EV改造の「AZAPA」、ドーガンMGXファンドから出資受け入れ…バッテリー関連事業を加速",
+        "url": "https://response.jp/article/2026/07/01/413448.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.1",
-        "title": "トヨタと米ジョビー、eVTOL生産の合弁会社設立に合意…「空飛ぶクルマ」実用化を加速",
-        "url": "https://response.jp/article/2026/07/01/413428.html"
+        "title": "GaNで車載オーディオが変わる？ 次世代D級アンプが示した高音質化の可能性",
+        "url": "https://response.jp/article/2026/07/01/413445.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.1",
-        "title": "トレンドマイクロ子会社VicOne、フィジカルAIへの攻撃デモを国内初ライブ実演…「TrendAI Spark 2026」東京会場に出展へ",
-        "url": "https://response.jp/article/2026/07/01/413431.html"
+        "title": "KGモーターズの1人乗りEV「mibot」、福島・浪江町で分散型電力インフラ実証事業に採択",
+        "url": "https://response.jp/article/2026/07/01/413460.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.1",
+        "title": "NTT-ME、リユースEVでカーボンニュートラルと災害対策を両立…新事業を今夏開始",
+        "url": "https://response.jp/article/2026/07/01/413450.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.1",
+        "title": "Tow Truck Driver Picks Up Mustang. At First She Thinks It’s Covered In Bird Poo. Then She Realizes It’s Something Else Entirely",
+        "url": "https://www.motor1.com/news/800227/ford-mustang-foam-vandalism-damage/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.1",
+        "title": "ZFライフテック、リクライニング姿勢対応の統合エアバッグシステム開発…4つのエアバッグで乗員を守る",
+        "url": "https://response.jp/article/2026/07/01/413457.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.1",
+        "title": "ヴォクシーS-Gで十分なのか？ S-Zとの差額と装備で考える現実派グレード選び",
+        "url": "https://bestcarweb.jp/feature/column/1560977"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.1",
+        "title": "シビックe RSは買いか？ Honda S+ Shiftで走りはどこまで変わったのか!?",
+        "url": "https://bestcarweb.jp/feature/column/1563609"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.1",
+        "title": "トヨタ、『プリウス』を一部改良…安全装備を充実",
+        "url": "https://response.jp/article/2026/07/01/413453.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.1",
+        "title": "トヨタ『カローラ クロス』一部改良、安全性能を強化…60周年記念特別仕様車Z「Adventure」も設定",
+        "url": "https://response.jp/article/2026/07/01/413449.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 36,
-    "queued_articles": 36,
-    "processed": 36,
-    "started_at": "2026-07-01T04:52:19.637Z",
-    "finished_at": "2026-07-01T04:53:37.038Z",
+    "scoped_articles": 28,
+    "queued_articles": 28,
+    "processed": 28,
+    "started_at": "2026-07-01T15:57:01.293Z",
+    "finished_at": "2026-07-01T15:58:02.175Z",
     "success": true,
     "error": ""
   }

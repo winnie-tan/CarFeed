@@ -57717,5 +57717,653 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-01T04:53:37.023Z"
+  },
+  "https://www.motor1.com/news/800296/kia-sales-results-june-q2-2026/": {
+    "title_zh": "起亚 6 月销量创历史新高，混动车型飙升",
+    "summary_short": "起亚 2026 年 6 月销量创历史新高，达 70,507 辆，混动车型销量飙升，Sportage、Sorento、Carnival 混动版增幅显著。",
+    "summary_long": "起亚公布 2026 年 6 月及上半年销量数据，6 月销量 70,507 辆，同比增长 10%，创历史最佳 6 月。混动车型表现突出，Sportage 混动版销量增长 165%，Sorento 混动版增长 114%，Carnival 混动版增长 56%。Telluride 和 Seltos 也分别增长 24%和 56%。上半年总销量 430,727 辆，同比增长 3.4%，其中混动车型销量增长 115%，电动化车型增长 68%。仅 EV6 和 K4 销量下滑。",
+    "highlights_zh": [
+      "6 月销量 70",
+      "混动车型销量飙升 115%",
+      "Sportage 混动版增 165%",
+      "Telluride 与 Seltos 均增长"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "Sportage",
+      "Sorento",
+      "Carnival",
+      "Telluride"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8bBl/s1/2026-kia-sportage.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:05.422Z"
+  },
+  "https://www.motor1.com/news/800205/chevrolet-blazer-crash-test/": {
+    "title_zh": "新老雪佛兰 Blazer 对撞测试：30 年安全进步一目了然",
+    "summary_short": "IIHS 用 2026 款雪佛兰 Blazer 与 1996 款 S10 对撞，展示 30 年来车辆安全性的巨大进步，新车乘员仅受轻伤，老车乘员可能致命。",
+    "summary_long": "美国公路安全保险协会（IIHS）进行了一场特殊的碰撞测试：将 2026 款雪佛兰 Blazer 与 30 年前的 1996 款雪佛兰 S10（即老款 Blazer）进行正面重叠对撞。结果显示，2026 款 Blazer 的驾驶员可能仅受轻微擦伤，得益于吸能区、高强度钢、加强侧防护及更多安全气囊；而 1996 款车型的乘员舱严重变形，A 柱和车顶结构弯曲，仪表盘和转向柱侵入假人腿部，安全气囊击打假人下巴导致颈部后折，假人显示驾驶员几乎必然遭受头部、颈部及腿部重伤甚至死亡。IIHS 希望通过此类视频纠正“老车更结实安全”的误解，强调碰撞测试对推动车辆安全进步的价值。",
+    "highlights_zh": [
+      "2026 款 Blazer 乘员仅受轻伤",
+      "1996 款 S10 乘员可能致命",
+      "老车 A 柱弯折、气囊击打下巴",
+      "IIHS 用对撞破除“老车更安全”迷思"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Blazer",
+      "S10",
+      "IIHS",
+      "碰撞测试"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BRny/s1/new-vs-old-chevy-blazer-crash-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:07.000Z"
+  },
+  "https://www.thedrive.com/news/honda-and-nissan-near-partnership-despite-failed-merger-tds": {
+    "title_zh": "本田与日产接近达成技术合作",
+    "summary_short": "本田与日产在 2024/2025 年合并失败后，正接近达成技术合作伙伴关系，将标准化电子控制单元，首批共享组件车型预计 2029 年上市。",
+    "summary_long": "本田 CEO 三部敏宏表示，与日产的合作伙伴关系已“相当深入，部分方面接近宣布”。在 2024/2025 年合并失败后，两家公司及三菱寻求以更有限的方式合作，并标准化彼此间的电子控制单元。若该协议正式达成，首批使用这些共享组件的车辆预计最早于 2029 年上市。",
+    "highlights_zh": [
+      "本田 CEO 称与日产合作接近宣布",
+      "合并失败后转向技术联盟",
+      "将标准化电子控制单元",
+      "首批共享车型预计 2029 年上市"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "日产 | Nissan",
+      "三菱 | Mitsubishi",
+      "电子控制单元"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Honda-Hybrid-Sedan-Prototype-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2283439878.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:09.075Z"
+  },
+  "https://www.motor1.com/features/800194/2026-honda-civic-buying-guide/": {
+    "title_zh": "2026 款本田思域购车指南：各配置详解",
+    "summary_short": "2026 款本田思域提供多款配置，从经济实惠的 LX 到高性能 Type R，满足不同预算和需求。",
+    "summary_long": "2026 款本田思域在价格与品质之间取得平衡，提供多种配置和动力总成。基础款 LX 起售价 25,890 美元（含目的地费），标配 LED 灯光、电动后视镜和 16 英寸轮毂。顶配 Type R 则是一款适合日常驾驶的赛道性能车。本文逐一解析各配置特点，帮助消费者做出选择。",
+    "highlights_zh": [
+      "基础款 LX 起价 25",
+      "全系标配 LED 灯光",
+      "顶配 Type R 兼顾日常与赛道",
+      "多款配置满足不同预算"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域 | Civic",
+      "思域 Type R",
+      "LX"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3B868/s1/2026-honda-civic.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:11.174Z"
+  },
+  "https://www.thedrive.com/news/we-dont-know-what-were-doing-inside-the-post-ban-chaos-at-polestar-dealerships": {
+    "title_zh": "“我们不知道自己在做什么”：Polestar 经销商禁令后的混乱内幕",
+    "summary_short": "Polestar 被美国禁售后，经销商、车主和公司陷入混乱，面临服务、库存和资产处置等难题。",
+    "summary_long": "美国政府以禁止中国技术为由，突然禁止 Polestar 在美国销售汽车，导致其 32 家经销商网络陷入混乱。经销商、车主和 Polestar 团队正艰难应对车辆服务、剩余 2026 款库存销售以及房地产处置等问题。多位经销商透露，他们未收到任何预警，至少有一家正在建设中的旗舰展厅可能永远无法投入使用。",
+    "highlights_zh": [
+      "Polestar 被美国禁售",
+      "经销商未获预警",
+      "服务、库存和资产处置成难题",
+      "车主和经销商愤怒且迷茫"
+    ],
+    "entities": [
+      "Polestar",
+      "Geely",
+      "美国",
+      "经销商",
+      "禁售"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2283439878.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-1.24.17-PM.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-7.29.36-AM.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:12.887Z"
+  },
+  "https://response.jp/article/2026/07/01/413463.html": {
+    "title_zh": "马自达版哈斯勒“Flare Crossover”小改款，徽章太小引热议",
+    "summary_short": "马自达推出轻自动车 Flare Crossover 小改款，作为铃木 Hustler 的 OEM 车型，其前脸设计因马自达徽章过小引发 SNS 热议。",
+    "summary_long": "马自达于 6 月 25 日对轻自动车 Flare Crossover 进行商品改良并上市。该车是铃木 Hustler 的 OEM 版本，此次改款同步了 Hustler 的更新，包括前脸设计革新、新增车身颜色、采用最新先进安全技术以及提升舒适配置。前脸设计因马自达徽章尺寸极小而在社交网络上成为话题，网友评论“可爱感增加了”“马自达徽章也太小了吧”。外观方面，XG/XS/XT 等级采用与头灯相连的倒梯形格栅，扩大保险杠车身色面积；ZS/ZT 则采用粗犷的块状专用格栅。新增“林地卡其金属色”车身色，兼具鲜艳与硬朗感。",
+    "highlights_zh": [
+      "马自达 Flare Crossover 小改款上市",
+      "前脸马自达徽章极小引 SNS 热议",
+      "新增林地卡其金属色车身",
+      "同步铃木 Hustler 更新"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Flare Crossover",
+      "铃木 | Suzuki",
+      "Hustler",
+      "轻自动车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223733.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223733.jpg",
+      "https://response.jp/imgs/fill2/2223384.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:16.935Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1565782": {
+    "title_zh": "邓禄普发布冬季轮胎 Wintermaxx ICE Pro，专注冰面性能",
+    "summary_short": "邓禄普推出新冬季轮胎 Wintermaxx ICE Pro，专注冰面性能，冰上制动提升 25%，采用新型吸水橡胶。",
+    "summary_long": "住友橡胶工业宣布，将于 2026 年 8 月起陆续发售邓禄普 Wintermaxx 系列新作——专注冰面性能的 ICE Pro。该轮胎冰上制动性能较前代提升 25%，得益于 2024 年大获成功的全季节轮胎 Synchro Weather 所奠定的技术基础，使冬季轮胎得以 100%专注于最危险的冰面路况。新开发的“吸水橡胶”能瞬间去除冰面水膜，保持紧密贴合。",
+    "highlights_zh": [
+      "冰上制动性能提升 25%",
+      "采用新型吸水橡胶",
+      "基于全季节轮胎 Synchro Weather 技术",
+      "2026 年 8 月起发售"
+    ],
+    "entities": [
+      "邓禄普",
+      "ウインターマックス",
+      "アイスプロ",
+      "シンクロウェザー",
+      "住友橡胶工业"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01152903/s-IMG_1562.jpg?v=1782887344",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01152903/s-IMG_1562-600x450.jpg?v=1782887344",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28100447/b8f040a25e3bd69c48c9e2c0534e47d4-600x397.jpg?v=1782608688"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:17.489Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530970": {
+    "title_zh": "汽车界缩写谜题：FM",
+    "summary_short": "本文以问答形式介绍汽车相关缩写，本期聚焦 FM，解释其全称及与 AM 的区别。",
+    "summary_long": "汽车行业充斥着各种英文缩写，如 DX、KPI、PDCA 等。本系列以问答形式介绍这些缩写，本期聚焦 FM。FM 全称为 Frequency Modulation（调频），使用波长 3-4 米的超短波，具有噪音少、音质清晰的特点。与之对比，AM 使用中波，高速公路广播（1620kHz）即采用 AM 制式。",
+    "highlights_zh": [
+      "FM 全称 Frequency Modulation",
+      "FM 使用超短波",
+      "AM 使用中波"
+    ],
+    "entities": [
+      "Frequency Modulation",
+      "Amplitude Modulation"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110708/00b-1.png?v=1779761230",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26110708/00b-1-600x400.png?v=1779761230",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30142742/HONDA-CIVIC-RS_008_1-600x400.jpg?v=1782797263"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:20.414Z"
+  },
+  "https://response.jp/article/2026/07/01/413441.html": {
+    "title_zh": "8 月 20 日报名截止：走近全球领先 EV 巨头 BYD——探秘其真实技术实力与日本市场战略",
+    "summary_short": "BYD 凭借刀片电池、DM-i 混动技术等硬核研发实力，正加速布局日本市场，8 月 24 日将举办专题研讨会解读其战略。",
+    "summary_long": "BYD 不仅是全球最畅销的平价 EV 品牌，其核心竞争力在于刀片电池（穿刺不燃）和续航约 1200km 的 DM-i 混动技术等庞大研发资源。本次研讨会将深入解析 BYD Japan 在日本复杂补贴制度下的独特策略，包括新车“海鸥”的定价、实际负担、长期 TCO 优化以及国内销售与充电网络的快速扩张。对话环节将探讨中日市场差异及日本 EV 市场未来。",
+    "highlights_zh": [
+      "刀片电池穿刺不燃",
+      "DM-i 混动续航约 1200km",
+      "日本市场战略：补贴逆境中突围",
+      "新车“海鸥”定价与 TCO 优化"
+    ],
+    "entities": [
+      "BYD",
+      "BYD Auto Japan",
+      "刀片电池",
+      "DM-i",
+      "海鸥"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223585.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223585.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:22.791Z"
+  },
+  "https://bestcarweb.jp/feature/column/1557497": {
+    "title_zh": "BEV 单一路线崩塌：全球为何重新拥抱混合动力",
+    "summary_short": "曾经被视为过渡技术的混合动力车正重新获得全球市场青睐，欧洲车企纷纷修正纯电动化目标，日本车企的 HEV 技术迎来价值重估。",
+    "summary_long": "全球汽车行业正经历从纯电动（BEV）单一路线向多元化动力系统的转变。欧洲主要车企相继撤回或修正 2030 年全面电动化目标，重新投入内燃机和混合动力（HEV/PHEV）的研发。欧盟的监管政策也在调整。日本车企长期积累的 HEV 技术因此获得重新评价，例如本田已调整北美 BEV 计划，并宣布未来三年投入 4.4 万亿日元用于内燃机和 HEV 技术。",
+    "highlights_zh": [
+      "欧洲车企修正 BEV 单一化路线",
+      "欧盟监管政策出现松动",
+      "日本车企 HEV 技术再获重视",
+      "本田调整 BEV 计划"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "混合动力车",
+      "纯电动车 | BEV",
+      "欧盟"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23044142/4115a2e5525eaab05bd9f061c9b78f09-3.jpg?v=1782157303",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23044142/4115a2e5525eaab05bd9f061c9b78f09-3-600x338.jpg?v=1782157303",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30142742/HONDA-CIVIC-RS_008_1-600x400.jpg?v=1782797263"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:25.871Z"
+  },
+  "https://response.jp/article/2026/07/01/413448.html": {
+    "title_zh": "EV 改造公司 AZAPA 获 Dogan MGX 基金投资，加速电池业务",
+    "summary_short": "日本 EV 改造公司 AZAPA 获 Dogan MGX 基金投资，将加速电池相关业务，推动换电与独立充电站发展。",
+    "summary_long": "总部位于日本名古屋的 AZAPA 宣布，获得福冈市 Dogan 运营的“Dogan MGX 投资事业有限责任组合”（Dogan MGX 基金）投资，并签署业务合作协议。AZAPA 作为汽车制造商的共创伙伴，以“Tier 0.5”独特定位，通过高级模型基础开发引领汽车设计。近年来，AZAPA 提出“部门耦合”构想，将电动出行与能源联动，优化区域资源分配，并致力于燃油车改电动车（转换 EV）、可更换电池及独立充电站的开发。",
+    "highlights_zh": [
+      "获 Dogan MGX 基金投资",
+      "加速电池相关业务",
+      "推进换电与独立充电站",
+      "提出“部门耦合”能源构想"
+    ],
+    "entities": [
+      "AZAPA",
+      "Dogan MGX 基金",
+      "Tier 0.5",
+      "部门耦合",
+      "转换 EV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223624.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223624.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:27.062Z"
+  },
+  "https://response.jp/article/2026/07/01/413445.html": {
+    "title_zh": "GaN 改变车载音频？新一代 D 类放大器展示高音质潜力",
+    "summary_short": "英飞凌展示 GaN 功率半导体在车载 D 类放大器中的应用，带来高音质、高效率、小型化等优势。",
+    "summary_long": "英飞凌科技日本公司举办发布会，展示采用 GaN（氮化镓）功率半导体的新一代 D 类放大器在车载音频领域的优势。GaN 作为次世代功率半导体，相比传统硅器件可实现更高功率、更低功耗和更优音质。在 D 类放大器中，功率半导体是核心部件，GaN 的应用能提升放大器效率、实现小型化和低发热，有望推动车载音频系统进化。目前尚未公布具体产品化或车企采用信息，但技术前景值得期待。",
+    "highlights_zh": [
+      "GaN 功率半导体提升 D 类放大器效率与音质",
+      "实现小型化、低发热、高功率输出",
+      "英飞凌展示车载音频应用潜力",
+      "未来有望改变车载音频系统"
+    ],
+    "entities": [
+      "英飞凌科技",
+      "氮化镓",
+      "D 类放大器",
+      "车载音频",
+      "功率半导体"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223583.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223583.jpg",
+      "https://response.jp/imgs/fill2/2223579.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:29.673Z"
+  },
+  "https://response.jp/article/2026/07/01/413460.html": {
+    "title_zh": "KG Motors 单人 EV「mibot」入选福岛浪江町分散式电力基础设施实证项目",
+    "summary_short": "KG Motors 的单人 EV「mibot」被选入福岛浪江町分散式电力基础设施实证项目，旨在结合可再生能源与 VPP 控制提升区域韧性。",
+    "summary_long": "KG Motors 宣布，其提出的“EV 联动 DC 能源系统与 VPP 集成控制构建分散式电力基础设施实证”方案，入选了福岛创新海岸构想 2026 年度“地区复兴实用化开发等促进事业费补助金”（地区课题解决框架）。该项目将利用 KG Motors 开发的单人小型 EV「mibot」，旨在同时推动可再生能源普及与提升区域韧性。实证项目基于与福岛县双叶郡浪江町的合作协议，计划从 2026 年度持续至 2028 年度，为期三年。",
+    "highlights_zh": [
+      "KG Motors 单人 EV「mibot」入选福岛…",
+      "项目结合可再生能源与 VPP 控制",
+      "旨在提升区域电力韧性",
+      "2026 至 2028 年度在浪江町实施"
+    ],
+    "entities": [
+      "KG Motors",
+      "mibot",
+      "浪江町",
+      "VPP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223704.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223704.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:31.153Z"
+  },
+  "https://response.jp/article/2026/07/01/413450.html": {
+    "title_zh": "NTT-ME 利用二手 EV 实现碳中和与灾害对策兼顾，今夏启动新业务",
+    "summary_short": "NTT-ME 将于 2026 年夏季启动利用二手 EV 的循环经济业务，助力企业和地方政府实现碳中和并强化 BCP。",
+    "summary_long": "NTT-ME 宣布，将利用二手电动汽车（EV）开展循环经济业务，支持企业和地方政府推进碳中和并强化业务连续性计划（BCP）。该业务通过与丸红子公司 EVolity 及 Dream Incubator 合作，实现二手 EV 电池劣化状态的可视化与保证，提供低成本、可安心导入的 EV 解决方案，计划于 2026 年夏季开始接受申请。",
+    "highlights_zh": [
+      "NTT-ME 今夏启动二手 EV 循环经济业务",
+      "助力碳中和与灾害应对（BCP）",
+      "与丸红子公司 EVolity 及 DI 合作",
+      "电池劣化可视化"
+    ],
+    "entities": [
+      "NTT-ME",
+      "EVolity",
+      "Dream Incubator",
+      "循环经济",
+      "碳中和"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223629.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223629.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:33.264Z"
+  },
+  "https://www.motor1.com/news/800227/ford-mustang-foam-vandalism-damage/": {
+    "title_zh": "拖车司机发现野马被恶意破坏：不是鸟粪，是泡沫",
+    "summary_short": "一辆福特 Mustang 遭恶意破坏，车身漆面严重受损，车内和发动机舱被黄色泡沫填充，视频引发热议。",
+    "summary_long": "一段 TikTok 视频显示，一辆福特 Mustang 遭到精心策划的破坏：车身漆面出现严重斑点，车内和发动机舱被硬化黄色泡沫填充，甚至从空调出风口和燃油加注口溢出。拖车司机起初以为是鸟粪，随后发现是蓄意破坏。",
+    "highlights_zh": [
+      "车身漆面严重受损",
+      "黄色泡沫填充车内和发动机舱",
+      "燃油加注口也被泡沫堵塞"
+    ],
+    "entities": [
+      "福特",
+      "Mustang"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwAG7/s1/tow-truck-driver-picks-up-mustang.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:34.927Z"
+  },
+  "https://response.jp/article/2026/07/01/413457.html": {
+    "title_zh": "ZF Lifetec 开发可适应躺姿的集成式安全气囊系统",
+    "summary_short": "ZF Lifetec 推出集成式安全气囊系统，用 4 个气囊保护躺姿乘员，应对自动驾驶带来的新安全挑战。",
+    "summary_long": "随着自动驾驶技术发展，乘员在车内采取躺姿等舒适坐姿的情况增多，传统约束系统难以应对碰撞时乘员的异常运动。ZF Lifetec 为此开发了由 4 种安全气囊组成的集成式乘员保护概念，通过协同工作为不同姿势下的乘员提供全面保护。",
+    "highlights_zh": [
+      "4 种气囊协同保护躺姿乘员",
+      "应对自动驾驶带来的新安全需求",
+      "传统约束系统难以适应舒适坐姿"
+    ],
+    "entities": [
+      "ZF Lifetec",
+      "安全气囊系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223702.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223702.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:36.923Z"
+  },
+  "https://bestcarweb.jp/feature/column/1560977": {
+    "title_zh": "丰田 Voxy S-G 够用吗？对比 S-Z 差价与配置的现实派选择",
+    "summary_short": "丰田 Voxy S-G 与 S-Z 差价 37 万日元，S-G 标配实用功能，可选 8 座，性价比高；S-Z 提供 17 英寸轮毂和 12.3 英寸仪表，质感更优。",
+    "summary_long": "丰田 Voxy 在 2026 年 5 月改款后仅提供混动版本，S-G 2WD 售价 375.1 万日元，S-Z 2WD 售价 412.72 万日元，差价 37.62 万日元。S-G 虽为入门级，但标配双侧电滑门、Toyota Safety Sense、三排座椅等核心功能，且可选 8 座布局，适合多成员家庭。S-Z 则升级 17 英寸轮毂和 12.3 英寸全彩仪表，内饰质感更佳，但燃油经济性略低。对于追求实用性的用户，S-G 是更务实的选择。",
+    "highlights_zh": [
+      "S-G 与 S-Z 差价 37.62 万日元",
+      "S-G 可选 8 座",
+      "S-Z 配备 12.3 英寸仪表和 17 英寸轮毂",
+      "S-G 燃油经济性略优于 S-Z"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Voxy",
+      "S-G",
+      "S-Z"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30162209/20260410_01_18-2.jpg?v=1782804131",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30162209/20260410_01_18-2-600x450.jpg?v=1782804131",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30142742/HONDA-CIVIC-RS_008_1-600x400.jpg?v=1782797263"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:39.578Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563609": {
+    "title_zh": "本田思域 e RS 值得买吗？Honda S+ Shift 让驾驶乐趣大不同",
+    "summary_short": "本田思域中期改款新增 e RS 版，搭载 Honda S+ Shift 技术，模拟有段变速感，提升驾驶乐趣，售价约 465 万日元。",
+    "summary_long": "本田思域于 6 月 4 日进行中期改款，新增备受关注的 e RS 版本。该车型介于 Type R 与普通 e 之间，专为追求驾驶乐趣的用户打造。核心亮点是 Honda S+ Shift 技术，通过控制发动机声浪和驱动响应，模拟传统有段变速器的换挡感，增强驾驶参与感。e RS 还配备专属悬架、D 形方向盘、金属换挡拨片和红色缝线座椅，营造运动氛围。售价 465.96 万日元，比 e EX 高 21.12 万日元，定位偏向个性化运动车型。",
+    "highlights_zh": [
+      "思域中期改款新增 e RS 版",
+      "Honda S+ Shift 模拟换挡感",
+      "专属运动悬架与内饰",
+      "售价 465 万日元"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域",
+      "e RS",
+      "Honda S+ Shift",
+      "Type R"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30142742/HONDA-CIVIC-RS_008_1.jpg?v=1782797263",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30142742/HONDA-CIVIC-RS_008_1-600x400.jpg?v=1782797263",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30162209/20260410_01_18-2-600x450.jpg?v=1782804131"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:41.482Z"
+  },
+  "https://response.jp/article/2026/07/01/413453.html": {
+    "title_zh": "丰田普锐斯改款：安全配置升级",
+    "summary_short": "丰田普锐斯改款，全系标配车速感应自动门锁，Z 版增配自适应远光灯，新增中性黑车色。",
+    "summary_long": "丰田对普锐斯进行改款，主要提升安全配置。全系标配车速感应自动门锁（带碰撞感应解锁功能）。Z 版标配自适应远光灯，提升夜间视野。新增中性黑车色（X 版除外）。E-Four 版增加雪地模式，增强低附着力路面稳定性。",
+    "highlights_zh": [
+      "全系标配车速感应自动门锁",
+      "Z 版增配自适应远光灯",
+      "新增中性黑车色",
+      "E-Four 版增加雪地模式"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "普锐斯",
+      "丰田安全感知 | Toyota Safety Sense",
+      "自适应远光灯",
+      "E-Four"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223613.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223613.jpg",
+      "https://response.jp/imgs/fill2/2223614.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:43.713Z"
+  },
+  "https://response.jp/article/2026/07/01/413449.html": {
+    "title_zh": "丰田卡罗拉 Cross 部分改良，强化安全性能，60 周年纪念特别版 Z“Adventure”发布",
+    "summary_short": "丰田对卡罗拉 Cross 进行部分改良，强化安全配置，并推出 60 周年纪念特别版 Z“Adventure”，外观更具户外风格。",
+    "summary_long": "丰田汽车于 7 月 1 日对 SUV 卡罗拉 Cross 进行了部分改良，同时推出了卡罗拉诞生 60 周年纪念特别版 Z“Adventure”。特别版车型以前格栅和保险杠为中心大幅改变设计，强化了户外形象，并设定了 3 种专用双色车身颜色。部分改良中，GR SPORT 和 Z 等级将盲点监测和全景影像等安全装备标准化。",
+    "highlights_zh": [
+      "推出 60 周年纪念特别版 Z“Adventure”",
+      "前格栅和保险杠设计大幅变更",
+      "安全配置升级",
+      "提供 3 种专用双色车身颜色"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉 Cross",
+      "卡罗拉",
+      "GR SPORT",
+      "Adventure"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223602.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223602.jpg",
+      "https://response.jp/imgs/fill2/2223603.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:45.345Z"
+  },
+  "https://response.jp/article/2026/07/01/413461.html": {
+    "title_zh": "丰田移动部件开始销售室外机专用隔热涂料“Terano Paint”",
+    "summary_short": "丰田移动部件岐阜分公司推出室外机专用隔热涂料，旨在降低电力消耗、预防中暑并保护设备，助力企业应对高温环境。",
+    "summary_long": "丰田移动部件岐阜分公司针对岐阜县内企业，开始销售多功能隔热涂料“Terano Paint”。该涂料专为空调室外机设计，通过涂布可降低电力消耗、预防中暑并保护设备。此举旨在改善工作环境，应对近年来高温常态化和 2025 年 6 月劳动安全卫生法修订后企业对热中症对策的强化需求。",
+    "highlights_zh": [
+      "专为空调室外机设计",
+      "降低电力消耗",
+      "预防中暑并保护设备",
+      "应对法规强化需求"
+    ],
+    "entities": [
+      "丰田移动部件 | Toyota Mobility Parts",
+      "Terano Paint"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223707.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223707.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:47.294Z"
+  },
+  "https://response.jp/article/2026/07/01/413456.html": {
+    "title_zh": "本田股价小幅回落，AI 官民项目支持决定未提振市场",
+    "summary_short": "本田股价小幅下跌，尽管被选为 AI 官民项目支持对象，但市场反应平淡。",
+    "summary_long": "7 月 1 日，日经平均指数连续第三日上涨，收于 70474.96 日元，上涨 412.64 点。受美国高科技股上涨带动，买盘先行，盘中一度上涨超过 1900 点，但随后因获利回吐而涨幅收窄。本田股价小幅回落，尽管公司被选为 AI 官民项目支持对象，但市场对此反应平淡。",
+    "highlights_zh": [
+      "日经指数三连涨",
+      "本田股价小幅回落",
+      "美股高科技股上涨带动买盘"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "日经平均指数",
+      "AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223715.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223715.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:49.011Z"
+  },
+  "https://response.jp/article/2026/07/01/413459.html": {
+    "title_zh": "米其林宣布 2028 年底关闭 BF 古德里奇美国塔斯卡卢萨工厂",
+    "summary_short": "米其林北美宣布重组 BF 古德里奇轮胎生产，塔斯卡卢萨工厂将于 2028 年底关闭，生产集中至韦恩堡工厂。",
+    "summary_long": "米其林北美公司宣布重组旗下 BF 古德里奇轮胎的美国生产布局。阿拉巴马州塔斯卡卢萨工厂将从 2027 年初逐步减产，至 2028 年底完全关闭，生产将集中到印第安纳州韦恩堡工厂。米其林已暂停塔斯卡卢萨工厂运营并向员工说明情况，承诺在过渡计划确定前不会裁员。",
+    "highlights_zh": [
+      "塔斯卡卢萨工厂 2028 年底关闭",
+      "生产集中至韦恩堡工厂",
+      "2027 年初开始逐步减产",
+      "过渡期不裁员"
+    ],
+    "entities": [
+      "米其林",
+      "BF 古德里奇",
+      "塔斯卡卢萨",
+      "韦恩堡",
+      "北美"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223703.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223703.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:50.782Z"
+  },
+  "https://bestcarweb.jp/news/1561035": {
+    "title_zh": "仪表盘后方变身储物空间！N-VAN 专用仪表台托盘发售",
+    "summary_short": "本田 N-VAN 专用仪表台托盘，整合手机架、卡片收纳、硬币盒，无需工具 30 秒安装，提升车内收纳便利性。",
+    "summary_long": "Fun Standard 旗下品牌 CRAFTWORKS 推出本田 N-VAN（JJ1/JJ2）专用仪表台托盘，巧妙利用仪表盘上方空间，集成手机支架、卡片收纳、硬币盒及小物放置区，解决驾驶时小物滑动、无处放置手机的痛点。无需工具，约 30 秒即可完成安装，显著提升车内整理效率，适合工作、户外及车中泊场景。",
+    "highlights_zh": [
+      "专用设计",
+      "集成手机架、卡片盒、硬币盒",
+      "无需工具",
+      "提升驾驶位收纳与整洁度"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "N-VAN",
+      "CRAFTWORKS",
+      "仪表台托盘"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26195509/25b20130779c2dcc47cdeb9a041c3f2c.jpg?v=1782471310",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26195509/25b20130779c2dcc47cdeb9a041c3f2c-600x400.jpg?v=1782471310",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20011021/322d54619b07c6092c7dee91bb29323c-600x450.jpg?v=1781885422"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:53.426Z"
+  },
+  "https://bestcarweb.jp/news/1555393": {
+    "title_zh": "马自达 787B 的 4 转子 R26B 发动机 35 周年纪念模型发售",
+    "summary_short": "马自达 787B 的 4 转子 R26B 发动机 1/6 比例模型以勒芒夺冠 35 周年纪念版发售，新增后部套件和可动机构。",
+    "summary_long": "1991 年勒芒 24 小时耐力赛中，马自达 787B 成为首款夺冠的日本赛车。为纪念这一壮举 35 周年，其搭载的 R26B 型 4 转子发动机被精密复刻为 1/6 比例模型。此次再版并非简单复刻，而是新增了后部套件（包括离合器壳、变速箱壳等）和滑动机构，让玩家能更深入体验赛车机械结构。",
+    "highlights_zh": [
+      "1/6 比例精密复刻 R26B 转子发动机",
+      "新增后部套件与可动机构",
+      "勒芒夺冠 35 周年纪念版",
+      "收藏价值进一步提升"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "787B",
+      "R26B",
+      "勒芒 24 小时耐力赛"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20011021/322d54619b07c6092c7dee91bb29323c.jpg?v=1781885422",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20011021/322d54619b07c6092c7dee91bb29323c-600x450.jpg?v=1781885422",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26195509/25b20130779c2dcc47cdeb9a041c3f2c-600x400.jpg?v=1782471310"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:54.547Z"
+  },
+  "https://www.motor1.com/news/800262/honda-ceo-teases-nissan-deal/": {
+    "title_zh": "本田 CEO 暗示与日产即将达成合作",
+    "summary_short": "本田 CEO 透露与日产的谈判已接近尾声，双方将宣布具体合作项目，但并非合并。",
+    "summary_long": "本田 CEO 三部敏宏在股东大会上表示，与日产的谈判已相当深入，部分内容接近宣布。双方将基于“双赢关系”推进具体项目，但并非合并。此前双方曾探讨合并，但因本田希望将日产变为子公司并推动更大幅度的裁员和工厂关闭而告吹。目前合作可能涉及联合开发、共享产能或标准化电子控制单元（ECU）等。",
+    "highlights_zh": [
+      "本田 CEO 称与日产谈判接近尾声",
+      "合作基于双赢关系",
+      "此前合并因控制权分歧告吹",
+      "可能涉及联合开发或共享 ECU"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "日产 | Nissan",
+      "三菱 | Mitsubishi",
+      "电子控制单元"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y24B4l/s1/honda-and-nissan-merger-confirmed.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:57.696Z"
+  },
+  "https://www.motor1.com/news/800222/uber-eats-driver-tv-delivery/": {
+    "title_zh": "Uber Eats 司机接到 75 英寸电视订单崩溃：如果我开的是 Camry 怎么办？",
+    "summary_short": "Uber Eats 司机接到 75 英寸电视配送订单，因车辆空间不足而崩溃，引发同行共鸣。",
+    "summary_long": "一位 Uber Eats 司机在正常工作中接到一份配送 75 英寸电视的订单，因车辆空间不足而情绪崩溃。他在视频中质问谁会通过外卖平台订购如此大的电视，并假设自己开的是丰田 Camry 等普通轿车该如何配送。该视频引发其他配送司机共鸣，纷纷分享类似经历。",
+    "highlights_zh": [
+      "Uber Eats 司机接到 75 英寸电视配送订单",
+      "司机因车辆空间不足而崩溃",
+      "假设开 Camry 等轿车无法配送",
+      "其他司机分享类似奇葩订单经历"
+    ],
+    "entities": [
+      "Uber Eats",
+      "Camry"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4mgE/s1/uber-eats-driver-picks-up-order.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:57:58.000Z"
+  },
+  "https://www.motor1.com/news/800221/lamborghini-urus-se-performante-specs-details/": {
+    "title_zh": "兰博基尼 Urus SE Performante：史上最强 SUV",
+    "summary_short": "兰博基尼推出 Urus SE Performante，搭载 800 马力插混 V8，3.3 秒破百，成为品牌最快 SUV。",
+    "summary_long": "兰博基尼推出 Urus SE Performante，这是迄今为止最强大的 Urus 车型。它搭载与标准 SE 相同的 4.0 升双涡轮增压 V8 插电混动系统，但经过调校后输出提升至 800 马力和 738 磅英尺扭矩，比标准 SE 分别多出 11 马力和 37 磅英尺。该车 0-100 公里/小时加速仅需 3.3 秒，极速达 194 英里/小时，成为兰博基尼旗下最快的超级 SUV。25.9 千瓦时电池组位于地板下以降低重心，纯电续航可达 37 英里。",
+    "highlights_zh": [
+      "800 马力插混 V8 动力",
+      "3.3 秒破百",
+      "纯电续航 37 英里",
+      "电池置于地板下降低重心"
+    ],
+    "entities": [
+      "兰博基尼 | Lamborghini",
+      "Urus SE Performante",
+      "插电混动",
+      "V8 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WExZL/s1/2027-lamborghini-urus-se-performante.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T15:58:02.151Z"
   }
 }
