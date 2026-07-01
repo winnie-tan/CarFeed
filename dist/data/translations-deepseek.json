@@ -56884,5 +56884,838 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-06-30T15:44:31.253Z"
+  },
+  "https://bestcarweb.jp/feature/1559143": {
+    "title_zh": "夏季也需要雨胎！新品牌 FINESSA 保障雨天行车安全",
+    "summary_short": "普利司通推出新品牌 FINESSA，首款产品 HB01 以卓越湿地性能为核心，即使磨损后仍保持出色抓地力。",
+    "summary_long": "普利司通推出全新轮胎品牌 FINESSA（フィネッサ），定位为“上标准”级别，介于 ECOPIA 和 REGNO 之间。品牌名称由“FINE”和“SAFETY”组合而成，强调安心、安全、舒适。首款产品 FINESSA HB01 主打湿地性能，在磨损后仍能维持高水准。在栃木县测试场的体验中，HB01 在湿滑路面上表现出色，全 55 个尺寸中有 28 个获得轮胎标签“AA-a”评级。",
+    "highlights_zh": [
+      "普利司通新品牌 FINESSA",
+      "首款产品 HB01 湿地性能卓越",
+      "磨损后仍保持出色抓地力",
+      "55 尺寸中 28 个获 AA-a 评级"
+    ],
+    "entities": [
+      "普利司通",
+      "FINESSA",
+      "FINESSA HB01",
+      "湿地性能",
+      "轮胎标签"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24180645/11_02.jpg?v=1782292006",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24180645/11_02-600x400.jpg?v=1782292006",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22162612/s-20260528_01_04_1.jpg?v=1782113173"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:24.591Z"
+  },
+  "https://response.jp/article/2026/07/01/413432.html": {
+    "title_zh": "三菱欧蓝德 PHEV 改款引发热议",
+    "summary_short": "三菱欧蓝德 PHEV 改款新增接近解锁与离车自动锁车功能，提升便利性，引发 SNS 热议。",
+    "summary_long": "三菱汽车对欧蓝德 PHEV 进行了部分改进，并于 6 月 25 日开始销售。此次改进新增了接近解锁和离车自动锁车功能，当携带钥匙靠近车辆约 1 米时自动解锁，离开约 3 米时自动上锁，极大提升了便利性。此外，驾驶辅助系统“三菱 e-Assist”增加了前车启动通知功能，在信号灯或拥堵停车时，若前车启动而本车未动，会通过警报和仪表盘提醒驾驶员。这些改进在社交媒体上引起广泛关注，用户称赞“三菱太厉害了”“非常感兴趣”。",
+    "highlights_zh": [
+      "新增接近解锁与离车自动锁车",
+      "驾驶辅助增加前车启动通知",
+      "SNS 热议：\"三菱すげぇ～\""
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "欧蓝德 PHEV",
+      "三菱 e-Assist",
+      "接近解锁",
+      "离车自动锁车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223454.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223454.jpg",
+      "https://response.jp/imgs/fill2/2223377.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:24.893Z"
+  },
+  "https://response.jp/article/2026/07/01/413424.html": {
+    "title_zh": "SDV2.0 AIDV 实像：预判型 AI 代理改变车内体验与商业模式",
+    "summary_short": "报告分析 SDV 向 AIDV 转型，AI 代理预判用户意图，重塑车内体验、收入结构与竞争格局。",
+    "summary_long": "软件定义车辆（SDV）正从 OTA 更新阶段迈向生成 AI 驱动的 AIDV 阶段。AI 代理能预判用户意图，自动完成目的地设定、停车预约等任务，将车辆从命令响应工具进化为智能管家。报告从市场、技术、商业模式等 10 个维度分析这一转型，指出价值正从硬件转向软件和 AI，科技公司占据价值链上游，而 EU AI Act 等法规成为普及瓶颈。",
+    "highlights_zh": [
+      "AI 代理预判用户意图",
+      "价值从硬件转向软件和 AI",
+      "功能订阅和语音商务成为新收入来源",
+      "法规如 EU AI Act 制约 AIDV 普及速度"
+    ],
+    "entities": [
+      "Tesla",
+      "NVIDIA",
+      "Mercedes-Benz",
+      "BMW",
+      "Sony Honda Mobility"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223503.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223503.jpg",
+      "https://response.jp/imgs/fill2/2223500.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:28.689Z"
+  },
+  "https://bestcarweb.jp/feature/column/1509093": {
+    "title_zh": "车名猜谜：这款名车/珍车你知道吗？第 797 回",
+    "summary_short": "猜车名系列第 797 回，主角是丰田初代セルシオ（雷克萨斯 LS400），搭载 4L V8 铝制发动机，曾获日本年度车型。",
+    "summary_long": "本期猜车谜题的主角是丰田初代セルシオ（海外市场称雷克萨斯 LS400）。该车于 1989 年问世，融合了当时最先进的空气动力学、设计和动力技术，搭载 260 马力的 4L V8 铝制发动机，兼顾高输出与静谧性。根据配置不同，有 A、B、C 三种规格，其中 C 规格配备电子控制空气悬架。初代セルシオ曾获得 1989-1990 年日本年度车型大奖。",
+    "highlights_zh": [
+      "1989 年问世",
+      "搭载 260 马力 4L V8 铝制发动机",
+      "C 规格配备电子控制空气悬架",
+      "获 1989-1990 年日本年度车型"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "セルシオ",
+      "雷克萨斯 | Lexus",
+      "LS400"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26132630/main_20181018_01_06.jpg?v=1782447991",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26132630/main_20181018_01_06-600x400.jpg?v=1782447991",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28162615/main_SP00340284-600x400.jpg?v=1779953177"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:29.100Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564030": {
+    "title_zh": "278 万日元能买到的 Serena 值不值？2025 年改款未换脸的 X 版值得关注",
+    "summary_short": "日产 Serena X 版以 278 万日元低价提供宽敞 7 座空间，虽未换新前脸，但性价比极高，适合预算有限的家庭。",
+    "summary_long": "日产 Serena 于 2025 年 12 月进行小改款，高配版 Highway Star V 和 Luxion 换装新前脸，而标准版 X 则延续旧款设计。X 版汽油 2WD 售价 278.52 万日元，比同动力 Highway Star V 便宜 44.33 万日元。尽管价格更低，X 版仍保留 Serena 的核心优势：3 排 8 座、高车身、宽敞内饰及侧滑门便利性，WLTC 油耗 13.0km/L 与高配版相同。对于不追求运动外观、注重实用性的家庭用户，X 版是极具吸引力的选择。",
+    "highlights_zh": [
+      "X 版售价 278 万日元",
+      "保留 3 排 8 座与侧滑门",
+      "油耗 13.0km/L",
+      "不改前脸"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "セレナ",
+      "Highway Star V",
+      "Luxion"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30152217/8089e50294910c6cb163e5cb54ad137b-17.jpg?v=1782800538",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30152217/8089e50294910c6cb163e5cb54ad137b-17-600x400.jpg?v=1782800538",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22162612/s-20260528_01_04_1.jpg?v=1782113173"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:33.241Z"
+  },
+  "https://response.jp/article/2026/06/26/413237.html": {
+    "title_zh": "tesa 展示 EV 电池粘接解决方案及自动化贴装技术",
+    "summary_short": "tesa 在“人与车技术展 2026”上展示 EV 电池粘接方案及自动化装置，并与 Plasmatreat 合作演示等离子表面处理提升粘接强度。",
+    "summary_long": "tesa 在“人与车技术展 2026”横滨展和名古屋展上，展示了针对电动汽车电池的粘接解决方案，以及用于车身开口密封的自动化贴装装置。tesa 亚太区总裁表示，随着汽车电动化推进，公司提供多种电池制造用胶带，并聚焦于提升生产效率和品质稳定性的自动化粘接方案。展位上，tesa 与 Plasmatreat 合作演示了大气压等离子表面处理技术，通过对比 PE 泡棉胶带在有无处理下的粘接强度，展示了表面改性对粘接质量的提升效果，旨在实现无底涂剂工艺。此外，tesa 还展出了用于电池电芯绝缘层包裹的专用胶带，有助于提高高压环境下的绝缘性能。",
+    "highlights_zh": [
+      "tesa 展示 EV 电池粘接方案及自动化装置",
+      "与 Plasmatreat 合作演示等离子表面处理",
+      "等离子处理可提升胶带粘接强度",
+      "展出电芯绝缘包裹胶带"
+    ],
+    "entities": [
+      "tesa",
+      "Plasmatreat",
+      "EV 电池",
+      "粘接解决方案",
+      "等离子表面处理"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222402.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222402.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:34.699Z"
+  },
+  "https://response.jp/article/2026/07/01/413426.html": {
+    "title_zh": "日本脱碳化支援机构向充电基础设施企业 Plago 出资 3 亿日元",
+    "summary_short": "日本脱碳化支援机构向 EV 充电服务商 Plago 出资 3 亿日元，推动充电基础设施普及。",
+    "summary_long": "日本脱碳化支援机构（JICN）宣布向电动汽车充电服务商 Plago 提供 3 亿日元资金支持并完成出资。Plago 成立于 2018 年，主营 EV/PHEV 充电服务及充电辅助应用“Myプラゴ”。JICN 将通过项目监控确认其温室气体减排成效。",
+    "highlights_zh": [
+      "JICN 向 Plago 出资 3 亿日元",
+      "Plago 提供 EV/PHEV 充电服务",
+      "开发充电应用“Myプラゴ”",
+      "推动日本充电基础设施普及"
+    ],
+    "entities": [
+      "Plago",
+      "JICN",
+      "Myプラゴ",
+      "EV",
+      "PHEV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223517.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223517.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:36.402Z"
+  },
+  "https://response.jp/article/2026/07/01/413438.html": {
+    "title_zh": "NOK 首次入选 SOMPO 可持续发展指数，ESG 评价获高度认可",
+    "summary_short": "NOK 首次入选 SOMPO 可持续发展指数，ESG 评价获高度认可，推动可持续经营。",
+    "summary_long": "NOK 宣布首次被选入 SOMPO 资产管理公司运营的“SOMPO 可持续发展指数”成分股。该指数基于 ESG 经营调查和环境经营调查，筛选出约 300 家达标企业，被养老金基金等机构投资者采用。NOK 集团致力于实现企业持续增长与环境社会可持续性的平衡。",
+    "highlights_zh": [
+      "NOK 首次入选 SOMPO 可持续发展指数",
+      "基于 ESG 经营调查和环境经营调查",
+      "约 300 家达标企业构成指数",
+      "被养老金基金等机构投资者采用"
+    ],
+    "entities": [
+      "NOK",
+      "SOMPO 可持续发展指数",
+      "ESG",
+      "SOMPO 资产管理"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223578.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223578.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:37.231Z"
+  },
+  "https://www.thedrive.com/news/2027-hyundai-santa-fe-spy-shots": {
+    "title_zh": "2027 款现代 Santa Fe 谍照：取消 H 形 LED 灯组",
+    "summary_short": "2027 款现代 Santa Fe 中期改款谍照曝光，前脸设计向 Palisade 靠拢，取消标志性的 H 形 LED 灯组。",
+    "summary_long": "2027 款现代 Santa Fe 中期改款谍照显示，新车前脸设计大幅更新，取消备受争议的 H 形 LED 灯组（类似爱马仕标志），转而采用垂直日行灯和低位大灯。伪装覆盖面积较大，可能涉及全新引擎盖设计。此次改款旨在使 Santa Fe 更接近新款 Palisade 的方正 SUV 风格。",
+    "highlights_zh": [
+      "取消 H 形 LED 灯组",
+      "前脸设计向 Palisade 靠拢",
+      "采用垂直日行灯和低位大灯",
+      "伪装覆盖面积大"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Santa Fe",
+      "Palisade",
+      "LED 灯组"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/SB30462-e1782742901290.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/2ADEE585-E6DB-4519-9EEF-6E22FA6435D9_1_201_a-scaled.jpeg.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/SB30437.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:39.808Z"
+  },
+  "https://response.jp/article/2026/07/01/413430.html": {
+    "title_zh": "ARMORTEK 成为 SUPER GT“TEAM KUNIMITSU”赞助商，保护参赛车辆前挡风玻璃",
+    "summary_short": "ARMORTEK 与 SUPER GT 车队 TEAM KUNIMITSU 达成赞助合作，将从富士站起为赛车前挡风玻璃提供保护膜。",
+    "summary_long": "日本玻璃保护膜品牌 ARMORTEK 宣布与 SUPER GT 车队 TEAM KUNIMITSU 签署赞助协议。从 8 月 1-2 日富士站起，车队 No.100 STANLEY HRC PRELUDE-GT 的前挡风玻璃将采用 ARMORTEK 产品，前翼子板也将展示品牌标识。TEAM KUNIMITSU 由传奇车手高桥国光于 1992 年创立，是本田阵营的顶级车队，曾两夺系列赛冠军。SUPER GT 赛车时速超 300km，飞石、油污等威胁挡风玻璃，保护膜不可或缺。ARMORTEK 的 AWF-01 采用 125μm 四层结构，兼具高透明度和拨水性，能有效降低玻璃破损风险。",
+    "highlights_zh": [
+      "ARMORTEK 成为 TEAM KUNIMITSU…",
+      "从富士 Rd 起为赛车前挡风玻璃提供保护",
+      "AWF-01 采用 125μm 四层结构",
+      "TEAM KUNIMITSU 是本田阵营王牌车队"
+    ],
+    "entities": [
+      "アーマーテック",
+      "SUPER GT",
+      "チームクニミツ",
+      "STANLEY HRC PRELUDE-GT",
+      "高桥国光"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2220781.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2220781.jpg",
+      "https://response.jp/imgs/fill2/2223291.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:42.023Z"
+  },
+  "https://response.jp/article/2026/07/01/413433.html": {
+    "title_zh": "卡梅特限量发售喷雾式香薰专用油“风铃香”与“夏日祭香”",
+    "summary_short": "卡梅特推出两款限量版喷雾式香薰专用油，以风铃和夏日祭为主题，营造清凉与怀旧氛围。",
+    "summary_long": "卡梅特为其“喷雾式香薰扩散器”系列推出两款限量版专用香薰油：“清凉风铃香”和“夏日祭香”，容量均为 7 毫升，价格开放。该系列自 2020 年上市以来持续热销，相关产品累计出货量已超过 330 万个（截至 2026 年 6 月）。自 2022 年起推出的“季节香”系列此前夏季主打菠萝、薄荷、柑橘等直观夏日气息，本次则聚焦“夏日体验”，以风铃摇曳的檐廊和与重要之人共度的夏日祭为灵感，打造能唤起兴奋感与夏日回忆的香氛。风铃香融合柠檬、佛手柑等柑橘调与薄荷，表现檐廊凉风，铃兰香则让人联想到风铃的清脆声响。",
+    "highlights_zh": [
+      "两款限量香型：风铃香与夏日祭香",
+      "容量 7ml",
+      "累计出货超 330 万个",
+      "聚焦夏日体验与回忆"
+    ],
+    "entities": [
+      "卡梅特"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223551.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223551.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:44.546Z"
+  },
+  "https://bestcarweb.jp/fullload/1564192": {
+    "title_zh": "女性卡车司机的真实不安：这份工作还能做多久？",
+    "summary_short": "女性卡车司机爱嘉分享对体力下降和职业前景的焦虑，反映运输业从业者的普遍不安。",
+    "summary_long": "本文通过女性配送司机爱嘉的视角，探讨卡车司机对未来的不安。爱嘉坦言，随着年龄增长，体力逐年下降，不禁怀疑自己还能继续这份工作多久。她不仅担心个人身体状况，也对运输行业和当前职场的稳定性感到忧虑。文章揭示了从业者面临的现实压力，尤其是女性司机在体力劳动中的困境。",
+    "highlights_zh": [
+      "体力逐年下降",
+      "对运输行业前景感到不安",
+      "女性司机面临更大体力挑战",
+      "工作稳定性成主要焦虑点"
+    ],
+    "entities": [
+      "卡车司机",
+      "运输业",
+      "女性司机",
+      "体力劳动",
+      "职业焦虑"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/30124439/0B5A6307-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/25131018/00-KEYOU_HICE40_Actros_H2-Sattelzugmaschine_Key_Visual_pressphoto_01_CMYK.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/22174414/WEB_JTS26_ProfiaFCV-Protorefrigerater_Eyecatch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:46.094Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556112": {
+    "title_zh": "本田思域底盘的日产 Kenmeri 风格？光冈 M55 RS 让 70 年代爱好者心动不已",
+    "summary_short": "光冈 M55 RS 基于本田思域 RS，配备 6 速手动变速箱，外观复古 70 年代风格，限量 55 台，售价 888.8 万日元。",
+    "summary_long": "光冈汽车推出 M55 系列第三款车型 M55 RS，基于本田思域 RS 打造，是 6 速手动变速箱专属车型。外观采用复古风格，灵感来自日产 Kenmeri（Skyline C110），配备 RS 专属前后徽章和刺绣皮革座椅。提供海岸蓝金属色和纳尔多灰两种专属车色。2026 年计划生产 55 台，但非限量版，售价 888.8 万日元。",
+    "highlights_zh": [
+      "基于本田思域 RS",
+      "复古 Kenmeri 风格外观",
+      "RS 专属徽章与刺绣座椅",
+      "2026 年生产 55 台"
+    ],
+    "entities": [
+      "光冈",
+      "本田思域 | Honda Civic",
+      "M55 RS",
+      "日产 Kenmeri | Nissan Skyline C110"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20201321/00_M55RS_260423_m55rs_01_head.jpg?v=1781954002",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20201321/00_M55RS_260423_m55rs_01_head-600x400.jpg?v=1781954002",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22162612/s-20260528_01_04_1.jpg?v=1782113173"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:49.115Z"
+  },
+  "https://response.jp/article/2026/07/01/413416.html": {
+    "title_zh": "铃木 Wagon R 下一代车型或于 2027 年上半年发布",
+    "summary_short": "铃木 Wagon R 下一代车型发布时间推迟至 2027 年上半年，现款已上市 8 年，累计销量突破 1000 万辆。",
+    "summary_long": "铃木轻高顶旅行车 Wagon R 的下一代车型发布时间从原定的 2026 年 9 月推迟至 2027 年上半年。现款第六代车型于 2017 年上市，已销售超过 8 年。截至 2025 年 6 月，Wagon R 全球累计销量突破 1000 万辆，成为铃木的全球战略车型。然而，在日本国内市场，由于超轻高顶车型如本田 N-BOX 和铃木 Spacia 的竞争，Wagon R 的销量近年来持续下滑，2023 年至 2025 年销量分别为 82,213 辆、79,718 辆和 72,274 辆。",
+    "highlights_zh": [
+      "发布时间推迟至 2027 年上半年",
+      "现款已上市 8 年",
+      "国内销量连续三年下滑",
+      "面临本田 N-BOX 和铃木 Spacia 竞争"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Wagon R",
+      "Spacia",
+      "N-BOX"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223254.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223254.jpg",
+      "https://response.jp/imgs/fill2/2223378.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:50.902Z"
+  },
+  "https://response.jp/article/2026/07/01/413434.html": {
+    "title_zh": "铃木追求的“好看”摩托车设计——6 月摩托车文章 TOP5",
+    "summary_short": "6 月摩托车文章排行榜发布，铃木摩托车设计的进化成为焦点，探讨其“好看”的设计理念。",
+    "summary_long": "基于 6 月发布的摩托车文章访问量，通过独立积分汇总的排行榜显示，铃木摩托车设计的进化备受关注。文章深入探讨了铃木追求的“好看”摩托车设计理念，揭示了其设计哲学与未来方向。",
+    "highlights_zh": [
+      "6 月摩托车文章排行榜发布",
+      "铃木设计进化成焦点",
+      "探讨“好看”的设计理念"
+    ],
+    "entities": [
+      "铃木 | Suzuki"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223447.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223447.jpg",
+      "https://response.jp/imgs/zoom/2218292.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:52.148Z"
+  },
+  "https://response.jp/article/2026/07/01/413436.html": {
+    "title_zh": "Zenrin 地图杂货品牌“Map Design GALLERY”首次登陆北海道，在札幌地下街限期开店",
+    "summary_short": "Zenrin 旗下地图杂货品牌 Map Design GALLERY 将于 7 月 3 日至 10 月 13 日在札幌地下街开设北海道首家快闪店。",
+    "summary_long": "Zenrin 旗下地图杂货品牌“Map Design GALLERY”将于 7 月 3 日至 10 月 13 日在札幌地下街开设北海道首家快闪店。该品牌以日本全国详细地图数据和西洋古地图为设计题材，推出文具、杂货等商品。店内将销售北海道限定商品、人气扭蛋系列及 47 都道府县当地地图商品。消费满 4400 日元的前 300 名顾客可获赠薰衣草色亚克力磁铁。",
+    "highlights_zh": [
+      "北海道首家快闪店",
+      "销售北海道限定地图杂货",
+      "消费满 4400 日元赠薰衣草磁铁",
+      "限定新千岁机场帆布托特包"
+    ],
+    "entities": [
+      "ゼンリン",
+      "Map Design GALLERY",
+      "札幌地下街",
+      "北海道"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223561.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223561.jpg",
+      "https://response.jp/imgs/fill2/2223562.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:54.487Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556839": {
+    "title_zh": "铃木 Solio Bandit 评测：233 万日元起的紧凑型 MPV 能否带来高级感？",
+    "summary_short": "铃木 Solio Bandit 以紧凑车身和精悍外观，提供近似高级 MPV 的体验，起售价 233.64 万日元。",
+    "summary_long": "铃木 Solio Bandit 是一款基于标准 Solio 打造的高配版本，车身尺寸为 3810×1645×1745mm，属于 5ナンバー（小型车）范畴，但通过镀铬装饰和锐利灯组营造出更强存在感。车内注重质感，座椅面料和配色更显沉稳，同时保留宽敞空间：室内长 2500mm、宽 1420mm、高 1365mm。双侧滑门和中央通道提升了日常便利性，虽无第三排座椅，但整体体验接近 MPV。价格方面，HYBRID MV 2WD 版起价 233.64 万日元，相比标准 Solio HYBRID MZ 2WD（224.84 万日元）高出约 8.8 万日元，换来更高级的外观内饰风格。",
+    "highlights_zh": [
+      "紧凑车身（3810mm）却具 MPV 级空间与双侧滑…",
+      "精悍外观：镀铬装饰与锐利灯组提升存在感",
+      "内饰质感升级",
+      "起价 233.64 万日元"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Solio バンディット",
+      "Solio",
+      "紧凑型 MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23172812/img07_1.jpg?v=1782203293",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23172812/img07_1-600x400.jpg?v=1782203293",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22162612/s-20260528_01_04_1.jpg?v=1782113173"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:57.597Z"
+  },
+  "https://response.jp/article/2026/07/01/413429.html": {
+    "title_zh": "电装天 UWB 干扰抑制技术被国际标准 IEEE 802.15.6-2026 采纳，将用于车载等领域",
+    "summary_short": "电装天提出的 UWB 干扰抑制技术被 IEEE 802.15.6-2026 采纳，旨在实现车内线束无线化，推动轻量化与省资源化。",
+    "summary_long": "电装天宣布其提出的 UWB（超宽带）无线干扰抑制技术被国际标准 IEEE 802.15.6-2026 采纳。该技术旨在通过实现车内线束无线化，达成车辆轻量化、节省空间和资源，助力下一代出行发展。电装天将加强与 UWB 芯片制造商等合作，加速技术实用化。该标准是在 2012 年人体无线通信标准 IEEE 802.15.6-2012 基础上扩展，新增车载领域。",
+    "highlights_zh": [
+      "UWB 干扰抑制技术被 IEEE 802.15.6-…",
+      "目标实现车内线束无线化",
+      "促进车辆轻量化与省资源化",
+      "将加强与芯片厂商合作推进实用化"
+    ],
+    "entities": [
+      "电装天",
+      "UWB",
+      "IEEE 802.15.6-2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223546.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223546.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:52:58.632Z"
+  },
+  "https://response.jp/article/2026/07/01/413428.html": {
+    "title_zh": "丰田与 Joby Aviation 成立 eVTOL 生产合资公司",
+    "summary_short": "丰田与 Joby Aviation 宣布成立合资公司，共同生产电动垂直起降飞行器（eVTOL），加速“飞行汽车”商业化进程。",
+    "summary_long": "丰田汽车与 Joby Aviation 宣布达成协议，将成立合资公司负责 eVTOL（电动垂直起降飞行器）的生产。合资公司名为“Joby Toyota Aero Manufacturing Preparation Company”，丰田持股 51%，Joby 持股 49%，总部位于美国加州。双方将整合 Joby 的技术优势与丰田的生产方式，首先进行认证试制机的制造和生产准备，并着眼未来需求扩大产能。此举标志着丰田在“飞行汽车”领域的布局进入实质性阶段。",
+    "highlights_zh": [
+      "丰田与 Joby Aviation 成立 eVTOL…",
+      "丰田持股 51%",
+      "合资公司位于美国加州",
+      "将整合丰田生产方式与 Joby 技术"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Joby Aviation",
+      "eVTOL",
+      "飞行汽车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223528.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223528.jpg",
+      "https://response.jp/imgs/fill2/2223529.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:01.405Z"
+  },
+  "https://response.jp/article/2026/07/01/413431.html": {
+    "title_zh": "VicOne 将在 TrendAI Spark 2026 东京会场首次现场演示物理 AI 攻击",
+    "summary_short": "VicOne 将在东京 AI 安全会议上首次现场演示针对机器人等物理 AI 的攻击，展示网络安全风险。",
+    "summary_long": "趋势科技子公司 VicOne（维克万）将于 7 月 3 日在东京举办的 AI 安全会议“TrendAI Spark 2026”上出展。该公司以汽车网络安全为基础，业务扩展至机器人、无人机、人形机器人等物理 AI 领域。此次将首次在日本国内活动中现场演示针对机器人系统的攻击，展示 AI 模型和控制系统受攻击后对设备识别和动作的影响。",
+    "highlights_zh": [
+      "VicOne 将在东京现场演示物理 AI 攻击",
+      "攻击演示针对机器人、无人机等设备",
+      "展示 AI 模型受攻击后的识别与动作异常"
+    ],
+    "entities": [
+      "VicOne",
+      "趋势科技",
+      "TrendAI Spark 2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223550.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223550.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:02.514Z"
+  },
+  "https://response.jp/article/2026/07/01/413440.html": {
+    "title_zh": "现代汽车举办“HYUNDAI 技术会议 2026”，强化全国维修技师技术共享与标准化",
+    "summary_short": "现代汽车日本公司举办技术会议，41 名全国维修技师参与，旨在通过技术共享与标准化提升维修品质和客户满意度。",
+    "summary_long": "现代汽车日本公司（Hyundai Mobility Japan）在新横滨格雷斯酒店举办了“HYUNDAI 技术会议 2026”。来自全国指定维修厂的 41 名技师齐聚一堂，会议旨在通过技术信息共享与标准化，提升维修品质、防止问题复发、提高整体技术水平，最终提升客户满意度。随着汽车技术日益复杂，维修现场所需应对能力不断变化，现代汽车将此次会议视为强化一线能力的重要举措。",
+    "highlights_zh": [
+      "41 名全国维修技师参会",
+      "技术信息共享与标准化",
+      "提升维修品质与客户满意度",
+      "应对汽车技术高度化趋势"
+    ],
+    "entities": [
+      "现代汽车 | Hyundai",
+      "HYUNDAI 技术会议 2026",
+      "日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223586.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223586.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:04.747Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563602": {
+    "title_zh": "大发 Move Canbus：不只是“可爱”而已？油耗 22.9km/L 与实用性解析",
+    "summary_short": "大发 Move Canbus 以可爱设计著称，但油耗 22.9km/L、双侧滑门和实用布局证明其日常实力。",
+    "summary_long": "大发 Move Canbus 是一款以圆润设计和双色涂装闻名的轻型滑门车，但其魅力不止于外观。WLTC 模式下油耗达 22.9km/L，尺寸紧凑（长 3395mm、宽 1475mm、高 1655mm），配备双侧滑门，兼顾便利性与低压迫感。车内“置きラクレイアウト”布局方便放置购物袋等物品，日常实用性突出。价格方面，2WD 车型从 157.3 万日元起。",
+    "highlights_zh": [
+      "油耗 22.9km/L",
+      "双侧滑门",
+      "紧凑尺寸",
+      "实用布局"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "ムーヴ キャンバス",
+      "轻自动车",
+      "油耗",
+      "双侧滑门"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30154125/s-IKE_804-17-1.jpg?v=1782801687",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30154125/s-IKE_804-17-1-600x400.jpg?v=1782801687",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22162612/s-20260528_01_04_1.jpg?v=1782113173"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:07.393Z"
+  },
+  "https://response.jp/article/2026/07/01/413420.html": {
+    "title_zh": "奔驰全新 CLA 开启特别先行预订，燃油版起价 663.8 万日元",
+    "summary_short": "奔驰日本开启全新 CLA 特别先行预订，提供燃油版和纯电版，起价 663.8 万日元，搭载最新 MB.OS 系统。",
+    "summary_long": "梅赛德斯-奔驰日本于 6 月 30 日开启全新 CLA 四门轿跑和猎跑车（Shooting Brake）的特别先行预订，提供燃油版和纯电版。新车基于全新 MMA 平台，支持纯电和高效混动系统，并搭载自研 MB.OS 操作系统，集成最新 MBUX、谷歌地图数据及生成式 AI 虚拟助手。燃油版起价 663.8 万日元。",
+    "highlights_zh": [
+      "全新 CLA 开启特别先行预订",
+      "提供燃油版和纯电版",
+      "搭载 MB.OS 及生成式 AI 助手",
+      "燃油版起价 663.8 万日元"
+    ],
+    "entities": [
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "CLA",
+      "Mercedes-Benz Modular Architecture",
+      "Mercedes-Benz Operating System",
+      "MBUX"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223496.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223496.jpg",
+      "https://response.jp/imgs/fill2/2223493.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:08.498Z"
+  },
+  "https://www.motor1.com/news/800215/chevron-water-contaminated-gas/": {
+    "title_zh": "德州男子指控雪佛龙加油站售卖含水汽油",
+    "summary_short": "德州男子在雪佛龙加油后车辆故障，证实汽油含水，引发广泛关注。",
+    "summary_long": "一名德州男子声称在雪佛龙加油站加油后车辆需要拖车，随后他证明该加油站出售的汽油被水污染。视频在 TikTok 上获得超过 91.7 万次观看，网友评论称汽油不纯。",
+    "highlights_zh": [
+      "加油后车辆故障需拖车",
+      "证实汽油含水",
+      "TikTok 视频超 91 万次观看",
+      "网友质疑汽油纯度"
+    ],
+    "entities": [
+      "雪佛龙 | Chevron",
+      "凯迪拉克",
+      "德州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgAzN/s1/san-antonio-man-goes-to-chevron..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:11.330Z"
+  },
+  "https://www.motor1.com/news/800181/nissan-frontier-star-spangled-makeover/": {
+    "title_zh": "日产为 Frontier 推出 250 周年纪念版",
+    "summary_short": "日产为庆祝美国建国 250 周年及 Frontier 在美产量破百万，推出限量 2500 台的 250 周年纪念版，仅限 Pro-4X 车型。",
+    "summary_long": "日产在美国密西西比州坎顿工厂生产了第 100 万辆 Frontier 皮卡，为庆祝这一里程碑及美国 250 周年国庆，推出 Frontier 250 周年纪念版。该特别版限量 2500 台，全部于 2026 年 7 月生产，在尾门 Frontier 徽标中融入星条旗图案，且仅适用于 Pro-4X 车型（包括长短轴距和 Roush 版本），不额外加价。",
+    "highlights_zh": [
+      "日产在美生产 Frontier 累计超 200 万辆",
+      "坎顿工厂第 100 万辆 Frontier 下线",
+      "250 周年纪念版限量 2500 台",
+      "仅限 Pro-4X 车型"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Frontier",
+      "Pro-4X",
+      "250 周年纪念版"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8J1b/s1/nissan-frontier-250th-anniversary.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:12.187Z"
+  },
+  "https://www.thedrive.com/news/new-ev-sales-have-cratered-but-the-used-market-is-setting-records": {
+    "title_zh": "新车销量暴跌，但二手电动车市场创纪录",
+    "summary_short": "美国二手电动车销量创季度新高，均价约 3.7 万美元，较新车溢价 3000 美元。",
+    "summary_long": "根据 Cox Automotive 数据，2026 年第二季度美国二手电动车销量达 12.8 万辆，创历史新高，同比增长 29%。平均售价约 3.7 万美元，比传统燃油新车贵 3000 美元。三年车龄的电动车价格较年初上涨 14%，远超其他动力类型。新车销量虽仍同比下降超 20%，但二手市场受租赁到期和油价上涨推动，需求强劲。",
+    "highlights_zh": [
+      "Q2 二手电动车销量 12.8 万辆",
+      "均价 3.7 万美元",
+      "三年车龄电动车价格较年初涨 14%",
+      "新车销量仍同比跌超 20%"
+    ],
+    "entities": [
+      "Cox Automotive",
+      "Manheim Market Report",
+      "Mark Strand"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-1576819409-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2223269229-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:15.619Z"
+  },
+  "https://www.motor1.com/news/800210/waste-management-dumpster-on-car/": {
+    "title_zh": "垃圾车砸坏轿车，女子拍视频引热议",
+    "summary_short": "一辆垃圾压缩车撞上女子轿车致其报废，视频在 TikTok 上重新走红，引发网友对责任归属的讨论。",
+    "summary_long": "一段近一年前的视频在 TikTok 上重新走红，视频中一名女子的轿车被一辆垃圾压缩车撞上，车辆被判定为全损。视频显示垃圾车紧贴车尾，女子表示损坏严重。该视频最初发布于去年夏天，如今再次获得数百万观看，并引发创作者评论。一位来自乔治亚州的农民 Tyler 表示希望垃圾管理公司不会推卸责任。",
+    "highlights_zh": [
+      "垃圾车撞上轿车致其报废",
+      "视频时隔一年在 TikTok 重新走红",
+      "网友呼吁垃圾管理公司承担责任"
+    ],
+    "entities": [
+      "Waste Management",
+      "TikTok",
+      "乔治亚州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJvY7/s1/woman-hears-a-crash.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:15.655Z"
+  },
+  "https://www.motor1.com/news/800186/ferrari-luce-sales-orders-china/": {
+    "title_zh": "法拉利首款电动车 Luce 在中国大受欢迎",
+    "summary_short": "法拉利首款电动车 Luce 在中国已售罄 88 台配额，但仍接受新订单，CEO 称收到强烈兴趣。",
+    "summary_long": "法拉利首款电动车 Luce 自发布以来争议不断，但在中国市场却表现火爆。据报道，该车在中国分配的 88 台配额已全部售罄，但法拉利北京仍接受新订单，可能增加配额。法拉利 CEO 表示已收到大量意向金，市场反响热烈。Luce 搭载四电机，输出 1050 马力，内饰注重舒适性。",
+    "highlights_zh": [
+      "中国 88 台配额已售罄",
+      "仍接受新订单",
+      "CEO 称收到强烈兴趣和意向金",
+      "四电机 1050 马力"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "中国",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJX70/s1/ferrari-luce-ev.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:20.109Z"
+  },
+  "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/": {
+    "title_zh": "特斯拉内华达超级工厂电池被盗：11 辆拖车满载 Powerwall 被劫",
+    "summary_short": "近 7 个月，特斯拉内华达超级工厂至少 11 辆满载电池的拖车被盗，损失超百万美元。",
+    "summary_long": "据 Wired 报道，一伙窃贼在过去 7 个月内至少 11 次从特斯拉内华达超级工厂盗走满载电池的拖车。他们通过社交工程手段进入安全发货区，直接开走拖车，而非闯入工厂。首次盗窃发生在去年 12 月，两辆载有 Powerwall 的拖车被盗，价值 47.5 万美元。今年 1 月又发生至少 9 起盗窃，其中一起导致 123 个 Powerwall 丢失，总损失超过百万美元。",
+    "highlights_zh": [
+      "11 辆满载电池的拖车被盗",
+      "窃贼通过社交工程进入发货区",
+      "首次盗窃损失 47.5 万美元",
+      "1 月至少 9 起盗窃案"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Powerwall",
+      "内华达超级工厂"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak4YOL/s1/tesla-powerwall-3.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:20.140Z"
+  },
+  "https://insideevs.com/news/800217/tesla-cybercab-test/": {
+    "title_zh": "特斯拉在奥斯汀测试无方向盘 Cybercab，能否匹敌 Waymo？",
+    "summary_short": "特斯拉在奥斯汀街头测试无方向盘版 Cybercab，安全员坐在右侧。无方向盘设计带来挑战，特斯拉计划向私人销售，与对手运营模式不同。",
+    "summary_long": "特斯拉宣布在德克萨斯州奥斯汀开始测试无方向盘版 Cybercab 机器人出租车，并发布了一段 27 秒视频，显示安全监控员坐在右侧座位。该车设计初衷是取消传统驾驶控制，但此前原型车仍配备方向盘和踏板。无方向盘设计面临挑战：特斯拉和 Waymo 已部署的机器人出租车均保留方向盘作为备份，以便急救人员或员工操控；亚马逊旗下 Zoox 虽推出无方向盘车型，但可通过远程控制中心操作。特斯拉计划向私人客户销售 Cybercab，这与对手自行运营机器人出租车的模式截然不同，可能带来软件回收等难题。",
+    "highlights_zh": [
+      "特斯拉在奥斯汀测试无方向盘 Cybercab",
+      "安全员坐在右侧座位",
+      "无方向盘设计挑战：需应对紧急操控",
+      "计划向私人销售"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Cybercab",
+      "Waymo",
+      "Zoox",
+      "奥斯汀"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40Y81J/s1/tesla-cybercab-without-steering-wheel-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:24.636Z"
+  },
+  "https://insideevs.com/news/800208/california-ev-credit-rivian-lucid/": {
+    "title_zh": "加州新电动车激励计划即将推出，Rivian 和 Lucid 将享受特殊优惠",
+    "summary_short": "加州拨款 1.35 亿美元推出新电动车激励计划，首次购车者可享补贴，但加州本土品牌如 Rivian 和 Lucid 不受价格上限限制。",
+    "summary_long": "随着联邦 7500 美元电动车税收抵免取消，加州计划推出新激励计划填补空白。州立法者和州长已同意新预算，拨款 1.35 亿美元用于购车补贴。补贴将以现金折扣形式直接提供给买家或承租人，无需后续申请税收抵免。该计划仅限首次购买电动车者，并设有价格上限：新车建议零售价不超过 5 万美元，二手车售价不超过 2.5 万美元。但加州本土电动车公司（如 Rivian 和 Lucid）的车辆不受此价格限制，无论售价多少均可享受补贴。",
+    "highlights_zh": [
+      "加州拨款 1.35 亿美元推新电动车补贴",
+      "首次购车者可享现金折扣",
+      "新车价格上限 5 万美元",
+      "Rivian 和 Lucid 等加州品牌不受价格限制"
+    ],
+    "entities": [
+      "加州 | California",
+      "Rivian",
+      "Lucid",
+      "电动车激励计划",
+      "价格上限"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONzPQ/s1/2027-rivian-r2-first-drive-on--and-off-road.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:24.795Z"
+  },
+  "https://www.motor1.com/news/800196/toyota-tacoma-jbl-speaker/": {
+    "title_zh": "女子发现丰田 Tacoma 本应配备 JBL 音箱，结果车内却没有",
+    "summary_short": "一名女子购买二手丰田 Tacoma 后，发现本应随车附带的 JBL 可拆卸蓝牙音箱不翼而飞，官网售价 310 美元。",
+    "summary_long": "一位北卡罗来纳州的时尚博主在购买二手丰田 Tacoma 后，得知该车型本应配备一个可拆卸的 JBL 蓝牙音箱，但检查车内时发现音箱缺失。该音箱在官网售价 310 美元，引发车主对二手车配置完整性的关注。",
+    "highlights_zh": [
+      "二手 Tacoma 本应附带 JBL 音箱",
+      "车主发现音箱缺失",
+      "官网售价 310 美元"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tacoma",
+      "JBL"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPmLn/s1/woman-finds-out-tacomas-are-supposed-to-come-with-a-special-perk..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:29.541Z"
+  },
+  "https://www.motor1.com/news/800209/bugatti-w16-mistral-one-off/": {
+    "title_zh": "布加迪最新孤品采用真实瓷质细节",
+    "summary_short": "布加迪推出 W16 Mistral Blanc Éternel 孤品，内外饰采用真实瓷质细节，致敬 W16 发动机。",
+    "summary_long": "布加迪通过 Sur Mesure 个性化项目推出全新孤品 W16 Mistral Blanc Éternel，与柏林皇家瓷器厂合作，在车身内外大量使用真实瓷质装饰，包括 EB 徽标、油箱盖、发动机嵌件以及换挡杆、扬声器罩和扶手。该车采用白色车身与黑色线条勾勒，内饰呼应外观。作为布加迪最后一款搭载 8.0 升四涡轮增压 W16 发动机的车型，Mistral 的继任者 Tourbillon 搭载 8.3 升自然吸气 V16 混合动力系统。",
+    "highlights_zh": [
+      "与柏林皇家瓷器厂合作",
+      "内外饰均采用真实瓷质",
+      "致敬 W16 发动机的最终版",
+      "白色车身配黑色线条勾勒"
+    ],
+    "entities": [
+      "布加迪 | Bugatti",
+      "W16 Mistral Blanc Éternel",
+      "柏林皇家瓷器厂",
+      "W16 发动机",
+      "Tourbillon"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4mlp/s1/bugatti-w16-mistral-blanc-eternel.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:29.564Z"
+  },
+  "https://www.motor1.com/news/800184/chevrolet-corvette-2027-pricing/": {
+    "title_zh": "2027 款科尔维特：最便宜的 200 英里/小时跑车",
+    "summary_short": "2027 款雪佛兰科尔维特 Stingray 起价 73,495 美元，成为最便宜的 200 英里/小时量产车。",
+    "summary_long": "雪佛兰公布了 2027 款科尔维特 Stingray 的定价，起售价 73,495 美元，成为通用汽车验证的最便宜 200 英里/小时车型。新车搭载全新 6.7 升 LS6 V8 发动机，输出 535 马力和 520 磅-英尺扭矩，相比老款 LT2 V8 显著提升。极速从 194 英里/小时突破至 200 英里/小时以上，得益于更强的动力和窄车身带来的低风阻。",
+    "highlights_zh": [
+      "起售价 73",
+      "6.7 升 LS6 V8 发动机",
+      "极速突破 200 英里/小时",
+      "窄车身降低风阻"
+    ],
+    "entities": [
+      "雪佛兰",
+      "科尔维特 | Corvette",
+      "Stingray",
+      "LS6"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJbV1/s1/2027-chevrolet-corvette.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:33.629Z"
+  },
+  "https://www.motor1.com/news/800197/porsche-pixar-toy-stor-cars-sold-charity/": {
+    "title_zh": "保时捷《玩具总动员》主题车拍卖筹款 300 万美元",
+    "summary_short": "保时捷三辆《玩具总动员 5》主题定制车拍卖，匿名买家捐赠 300 万美元给三家慈善机构。",
+    "summary_long": "保时捷近日售出了三辆《玩具总动员 5》主题定制车，由一位匿名收藏家兼慈善家以 300 万美元购得，款项将平均捐给美国老大哥老大姐组织、美国红十字会和星光儿童基金会。这三辆车由保时捷 Sonderwunsch 部门耗时 350 小时手工绘制，分别以巴斯光年、杰茜和胡迪为灵感，基于 911 GT3、911 Targa 4 GTS 和 911 Carrera T 打造。",
+    "highlights_zh": [
+      "三辆主题车共筹 300 万美元",
+      "匿名买家捐赠给三家慈善机构",
+      "Sonderwunsch 部门手工绘制 350 小时",
+      "灵感来自巴斯光年、杰茜和胡迪"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3",
+      "911 Targa 4 GTS",
+      "911 Carrera T",
+      "Sonderwunsch"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWw6l/s1/porsche-s-pixar-cars.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:34.017Z"
+  },
+  "https://www.thedrive.com/news/even-the-cheapest-c8-corvette-will-hit-200-mph-now": {
+    "title_zh": "最便宜的 C8 科尔维特也能达到 200 英里/小时",
+    "summary_short": "2027 款科尔维特 Stingray 因发动机升级，成为首款达到 200 英里/小时的最便宜 C8 车型。",
+    "summary_long": "2027 款科尔维特 Stingray 搭载全新 6.7 升 LS6 V8 发动机，功率提升 40 马力至 535 马力，扭矩 520 磅-英尺，使其最高时速突破 200 英里/小时。这是 C8 家族中价格最低的车型，而高性能版 Z06 因空气动力学设计极速仅为 195 英里/小时。",
+    "highlights_zh": [
+      "2027 款 Stingray 极速达 200 英里…",
+      "LS6 发动机功率 535 马力",
+      "起售价 73",
+      "Z06 因空力设计极速仅 195 英里/小时"
+    ],
+    "entities": [
+      "科尔维特 | Corvette",
+      "Stingray",
+      "Z06",
+      "ZR1",
+      "LS6"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/1605226523057-11.5.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/chevrolet_corvette_z06_215-copy.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-01T04:53:37.023Z"
   }
 }
