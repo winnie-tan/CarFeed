@@ -59104,5 +59104,664 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-02T04:20:44.164Z"
+  },
+  "https://www.thedrive.com/news/record-q2-sales-put-ford-bronco-in-striking-distance-of-jeep-wrangler": {
+    "title_zh": "福特 Bronco Q2 销量创纪录，逼近 Jeep 牧马人",
+    "summary_short": "福特 Bronco 在 2026 年第二季度销量创纪录，超越 Jeep 牧马人，但上半年总销量仍落后约 1 万辆。",
+    "summary_long": "福特 Bronco 自 2021 年复活以来，一直紧追 Jeep 牧马人。2026 年第二季度，Bronco 销量达 45,739 辆，创下季度新高，同比增长 15.9%，并首次在单季度超越牧马人（41,793 辆）。然而，由于第一季度销量落后约 1.3 万辆，上半年总销量仍以 76,936 辆落后于牧马人的 86,254 辆。福特表示势头在自己这边，但牧马人销量并未下滑，竞争仍将持续。",
+    "highlights_zh": [
+      "Q2 Bronco 销量 45",
+      "单季度超越牧马人（41",
+      "上半年总销量仍落后约 1 万辆",
+      "福特称势头在握"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Bronco",
+      "Jeep",
+      "牧马人 | Wrangler"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/cqdam.web_.2400-1-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECAST-HERO-DONE.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:42.291Z"
+  },
+  "https://www.motor1.com/news/800438/bmw-no-split-tailgate-reason-why/": {
+    "title_zh": "宝马解释为何取消 X5 的分体式尾门",
+    "summary_short": "宝马新一代 X5 取消了标志性的分体式尾门，官方称因普通用户装卸不便，但社交媒体上车主普遍反对这一改动。",
+    "summary_long": "宝马在第五代 X5 上取消了自 1999 年车型诞生以来一直配备的分体式尾门。宝马豪华车总监 Philip Koehn 解释称，普通臂长的人在装卸行李时会感到困难，因此基于客户反馈做出此决定。然而，社交媒体上大量车主表示分体式尾门是他们最喜爱的功能之一，质疑宝马的决策依据。",
+    "highlights_zh": [
+      "第五代宝马 X5 取消分体式尾门",
+      "官方称普通用户装卸不便",
+      "社交媒体车主普遍反对",
+      "该设计自 1999 年沿用至今"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 X5 | BMW X5",
+      "分体式尾门",
+      "Philip Koehn"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O7Q4/s1/2027-bmw-ix5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:42.887Z"
+  },
+  "https://www.thedrive.com/news/traffic-regulators-vow-to-unleash-innovation-by-eliminating-robotaxi-brake-pedals": {
+    "title_zh": "美国监管机构拟取消自动驾驶汽车刹车踏板",
+    "summary_short": "NHTSA 提议修改法规，允许自动驾驶汽车取消刹车踏板，但未明确乘客紧急制动方案。",
+    "summary_long": "美国国家公路交通安全管理局（NHTSA）近日宣布一项倡议，旨在通过移除自动驾驶汽车中不必要的刹车踏板来“安全释放美国创新”。该机构拟修订联邦机动车安全标准第 135 号，仅取消自动驾驶系统控制车辆的踏板要求，而不改变制动距离标准。此举有利于 Waymo、特斯拉等公司推进无安全员的自动驾驶出租车。但批评者指出，NHTSA 在拆除“无意义”障碍的同时，未同步解决乘客如何紧急制动等潜在问题。",
+    "highlights_zh": [
+      "NHTSA 拟取消自动驾驶汽车刹车踏板",
+      "仅修改踏板要求",
+      "利好 Waymo、特斯拉等无安全员方案",
+      "未明确乘客紧急制动机制"
+    ],
+    "entities": [
+      "NHTSA",
+      "Waymo",
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2276436116-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECAST-HERO-DONE.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:46.512Z"
+  },
+  "https://www.motor1.com/news/800311/hyundai-sales-soar-2026-hybrids/": {
+    "title_zh": "现代汽车销量因混动车型飙升",
+    "summary_short": "现代汽车 2026 上半年销量创历史新高，达 450,568 辆，混动车型贡献显著增长。",
+    "summary_long": "现代汽车美国公司公布 2026 年 6 月及上半年销量数据，上半年总销量 450,568 辆，同比增长 3%，创历史最佳半年业绩。其中 6 月销量 77,555 辆，同比增长 11%。混动车型表现尤为突出，6 月混动销量同比增长 74%，Santa Fe Hybrid、Tucson Hybrid 和 Sonata Hybrid 分别增长 12%、14%和 246%。电动化车型占总销量三分之一。",
+    "highlights_zh": [
+      "上半年销量 450",
+      "6 月混动销量同比增长 74%",
+      "Sonata Hybrid 销量暴增 246%",
+      "电动化车型占比达三分之一"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Santa Fe Hybrid",
+      "Tucson Hybrid",
+      "Sonata Hybrid"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlEw7R/s1/2025-hyundai-tucson.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:46.917Z"
+  },
+  "https://www.thedrive.com/news/honda-wrestles-title-of-americas-best-selling-car-from-ford-and-toyota-tds": {
+    "title_zh": "本田 CR-V 成为 2026 年上半年美国最畅销车型",
+    "summary_short": "本田 CR-V 凭借供应短缺和换代窗口，超越福特 F-150 和丰田 RAV4，成为 2026 年上半年美国最畅销车型。",
+    "summary_long": "本田 CR-V 在 2026 年上半年超越福特 F-150 和丰田 RAV4，成为美国最畅销车型。福特 F-150 因供应短缺而销量放缓，丰田 RAV4 则因换代设计而受影响。CR-V 在 5 月销量同比增长 19%，6 月增长 30%，上半年累计售出 226,114 辆。",
+    "highlights_zh": [
+      "CR-V 上半年销量 226",
+      "F-150 受供应短缺拖累",
+      "RAV4 因换代销量放缓",
+      "CR-V 6 月销量增长 30%"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CR-V",
+      "福特 | Ford",
+      "F-150",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2235737463-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECAST-HERO-DONE.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:51.115Z"
+  },
+  "https://www.motor1.com/news/800367/mcmurtry-speirling-pure-revealed/": {
+    "title_zh": "McMurtry Spéirling Pure：130 万美元电动超跑正式发布",
+    "summary_short": "McMurtry Spéirling Pure 限量版电动超跑正式发布，采用风扇技术产生惊人下压力，0-60 英里/小时加速仅需 1.55 秒。",
+    "summary_long": "英国 McMurtry Automotive 发布了其 Spéirling 原型车的量产版——Spéirling Pure。这款限量版赛道专用电动超跑售价 130 万美元，采用风扇技术可在静止时产生超过 4400 磅下压力。相比原型车，Pure 版 95%部件为全新设计，电池容量从 60 千瓦时提升至 100 千瓦时，电机功率达 986 马力，0-60 英里/小时加速仅需 1.55 秒。碳纤维单体壳符合全球赛车标准，并增加了驾驶者空间。",
+    "highlights_zh": [
+      "限量版赛道电动超跑",
+      "风扇技术实现零速超 4400 磅下压力",
+      "0-60 英里/小时加速仅需 1.55 秒",
+      "电池容量提升至 100 千瓦时"
+    ],
+    "entities": [
+      "McMurtry Automotive",
+      "Spéirling Pure",
+      "电动超跑",
+      "风扇技术",
+      "下压力"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgRnE/s1/mcmurtry-speirling-production-version.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:51.971Z"
+  },
+  "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/": {
+    "title_zh": "McMurtry Spéirling Pure 量产版：140 万美元，1.55 秒破百",
+    "summary_short": "McMurtry Spéirling Pure 量产版发布，1.55 秒破百，售价 136 万美元，限量 99 台。",
+    "summary_long": "McMurtry Spéirling Pure 量产版正式发布，该车搭载 100 千瓦时电池组，输出 1000 马力，并采用独特的风扇系统产生下压力。0-60 英里/小时加速仅需 1.55 秒，售价 136 万美元，限量 99 台。相比原型车，量产版轴距加长至 2.2 米，宽度增加 14%，长度增加 11%，95%部件为全新设计。电池可支持以 LMP2 赛车节奏行驶 50 公里，或正常道路行驶约 480 公里。",
+    "highlights_zh": [
+      "1.55 秒破百",
+      "1000 马力",
+      "风扇系统产生下压力",
+      "限量 99 台"
+    ],
+    "entities": [
+      "McMurtry",
+      "Spéirling Pure"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONR9A/s1/mcmurtry-speirling-pure.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:55.473Z"
+  },
+  "https://response.jp/article/2026/07/02/413519.html": {
+    "title_zh": "Artisan Spirits 改装 LBX MORIZO RR 闯入 Formula Drift Japan 2026 第 3 站八强",
+    "summary_short": "Artisan Spirits 改装的雷克萨斯 LBX MORIZO RR 在 Formula Drift Japan 第 3 站中闯入八强，展现车辆成熟度。",
+    "summary_long": "专注于丰田和雷克萨斯空气动力学套件的 Artisan Spirits 宣布，在 6 月 13-14 日于惠比寿赛道举行的 Formula Drift Japan 2026 第 3 站中，其改装的雷克萨斯 LBX MORIZO RR DRIFT（车号 21）代表 Team KAZAMA with Moty's 参赛。车手 Kengushi 在单走排位赛中获得第四名，并在决赛淘汰赛中闯入八强，表明车辆调校稳步提升。下一站将于 7 月 11-12 日在菅生体育公园举行。",
+    "highlights_zh": [
+      "Artisan Spirits 改装 LBX MOR…",
+      "单走排位赛第四名",
+      "决赛闯入八强",
+      "车辆调校稳步提升"
+    ],
+    "entities": [
+      "Artisan Spirits",
+      "雷克萨斯 | Lexus",
+      "LBX MORIZO RR",
+      "Formula Drift Japan"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224047.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224047.jpg",
+      "https://response.jp/imgs/fill2/2224048.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:57.090Z"
+  },
+  "https://response.jp/article/2026/07/02/413496.html": {
+    "title_zh": "日本通运连续 15 年入选 SOMPO 可持续发展指数",
+    "summary_short": "日本通运控股连续 15 年入选 SOMPO 可持续发展指数，该指数用于 ESG 投资。",
+    "summary_long": "日本通运控股宣布连续 15 年入选 SOMPO 风险管理公司制定的 2026 年度“SOMPO 可持续发展指数”成分股。该指数是 SOMPO 资产管理自 2012 年 8 月起运营的 ESG 投资产品，面向养老基金和机构投资者，由约 300 只 ESG 表现优异的股票构成，旨在进行长期投资。",
+    "highlights_zh": [
+      "连续 15 年入选 SOMPO 可持续发展指数",
+      "指数用于 ESG 投资",
+      "由约 300 只 ESG 优质股票构成"
+    ],
+    "entities": [
+      "日本通运 | NIPPON EXPRESS",
+      "SOMPO 可持续发展指数 | SOMPOサステナビリティ・インデックス",
+      "ESG 投资"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223916.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223916.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:34:59.299Z"
+  },
+  "https://response.jp/article/2026/07/02/413502.html": {
+    "title_zh": "OKI Engineering 启动符合新规的汽车部件盐水腐蚀测试服务",
+    "summary_short": "OKI Engineering 推出符合 2024 年修订的 JASO M 609:2024 标准的盐水腐蚀测试服务，应对更严苛的汽车部件耐腐蚀需求。",
+    "summary_long": "OKI Engineering 于 7 月 1 日启动符合 2024 年修订的汽车部件耐腐蚀测试标准“JASO M 609:2024”的盐水腐蚀测试服务。该标准由日本汽车技术协会制定，是自 1991 年版以来时隔 30 年的修订。新标准在传统盐水喷雾方式基础上，增加了盐水淋浴方式及温湿度管理，以更贴近实际使用环境。近年来，暴雨、水淹、沿海盐害及气候变化导致的高温高湿使汽车部件环境更加严苛，此类测试的重要性日益凸显。",
+    "highlights_zh": [
+      "OKI Engineering 推出新盐水腐蚀测试服…",
+      "符合 2024 年修订的 JASO M 609:20…",
+      "新标准增加盐水淋浴和温湿度管理",
+      "应对更严苛的汽车部件使用环境"
+    ],
+    "entities": [
+      "OKI Engineering",
+      "JASO M 609:2024",
+      "日本汽车技术协会",
+      "盐水腐蚀测试",
+      "耐腐蚀性"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223947.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223947.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:01.919Z"
+  },
+  "https://www.motor1.com/news/800366/judge-adjudicates-traffic-ticket/": {
+    "title_zh": "田纳西州法官自审交通罚单",
+    "summary_short": "田纳西州一名法官因开车使用手机被开罚单，随后在法庭上自审案件并认罪，视频走红网络。",
+    "summary_long": "田纳西州刘易斯县普通诉讼法官迈克·欣森因开车使用手持设备被开罚单。在法庭上，他亲自审理自己的案件，并当庭认罪。该过程被拍成视频上传至 TikTok，获得超过 130 万次观看，引发网友热议。",
+    "highlights_zh": [
+      "法官自审交通罚单",
+      "当庭认罪",
+      "视频走红 TikTok",
+      "引发法律讨论"
+    ],
+    "entities": [
+      "田纳西州",
+      "迈克·欣森",
+      "刘易斯县",
+      "交通罚单"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4b9k/s1/tennessee-judge-gets-a-traffic-ticket.-then-he-adjudicates-himself.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:03.211Z"
+  },
+  "https://response.jp/article/2026/07/02/413508.html": {
+    "title_zh": "ECLIPSE 首款 HDMI 输入 7 英寸车载导航 AVN-RS01/RBS01 发布",
+    "summary_short": "ECLIPSE 推出首款支持 HDMI 输入的 7 英寸车载导航 AVN-RS01/RBS01，搭载四核 CPU 和最新地图，支持多语言。",
+    "summary_long": "DENSO TEN 旗下 ECLIPSE 品牌发布两款新型车载导航系统 AVN-RS01 和 AVN-RBS01，均为 7 英寸屏幕，其中 RS01 配备全段电视接收功能，RBS01 为无电视版本。这是 ECLIPSE 首次支持 HDMI 输入，满足用户对高清设备连接的需求。两款导航搭载 2025 年秋季版最新地图，收录北九州高速 5 号线等新建道路信息，配备四核 CPU 确保流畅操作。导航功能包括 6 种路线搜索、约 12.5 万个方向标志显示、接近路口语音提示等，并支持 VICS WIDE 气象预警和准天顶卫星“引路”提高定位精度。此外，导航支持英语、韩语、中文（繁简）和日语，方便外国用户使用。产品将于 7 月下旬起陆续发售，价格开放。",
+    "highlights_zh": [
+      "ECLIPSE 首款 HDMI 输入 7 英寸导航",
+      "搭载四核 CPU",
+      "支持多语言",
+      "配备最新地图和准天顶卫星定位"
+    ],
+    "entities": [
+      "イクリプス",
+      "AVN-RS01",
+      "AVN-RBS01",
+      "デンソーテン"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223968.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223968.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:09.000Z"
+  },
+  "https://response.jp/article/2026/07/02/413512.html": {
+    "title_zh": "OGK Kabuto GEOSYS 推出限量碳纤维高级版 GEOSYS-R",
+    "summary_short": "OGK Kabuto 为双用途头盔 GEOSYS 推出限量高级版 GEOSYS-R，采用碳纤维材质，售价 93,500 日元，9 月上市。",
+    "summary_long": "OGK Kabuto 为其在售的双用途头盔 GEOSYS 推出了限量高级版 GEOSYS-R，含税售价 93,500 日元，预计 9 月开始销售。GEOSYS-R 基于 GEOSYS 打造，采用碳纤维材料以提升轻量性和刚性平衡，帽体结合了超玻璃纤维和高强度有机纤维，表面为斜纹碳纤维，称为“A.C.T.-2+C 结构”。该头盔配备五段可调遮阳板、独立下巴通风和顶部通风系统，以及专利技术“Wake Stabilizer”，兼顾公路和越野骑行需求。颜色仅碳纤维一种，提供 XS 至 XL 五个尺码，符合 JIS 标准，标配 CD-1 透明镜片。",
+    "highlights_zh": [
+      "限量高级版",
+      "碳纤维帽体",
+      "五段可调遮阳板",
+      "配备 Wake Stabilizer 稳定器"
+    ],
+    "entities": [
+      "オージーケーカブト",
+      "ジオシス",
+      "ジオシス・アール",
+      "碳纤维",
+      "双用途头盔"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223760.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223760.jpg",
+      "https://response.jp/imgs/fill2/2223759.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:09.775Z"
+  },
+  "https://response.jp/article/2026/07/02/413517.html": {
+    "title_zh": "汽车美容专业店 Smart+1 湘南平塚 7 月 3 日开业，入驻 Super Autobacs",
+    "summary_short": "Autobacs Seven 旗下汽车美容专业店 Smart+1 湘南平塚将于 7 月 3 日开业，位于神奈川县平塚市的 Super Autobacs 店内。",
+    "summary_long": "Autobacs Seven 宣布，其汽车美容专业店 Smart+1 湘南平塚将于 7 月 3 日在神奈川县平塚市开业。该店位于 Super Autobacs 湘南平塚店内，是 Autobacs 在神奈川县的首家 Smart+1 门店。依托 Super Autobacs 的场地，顾客可在进行换油等保养时顺便咨询美容服务。",
+    "highlights_zh": [
+      "7 月 3 日开业",
+      "位于 Super Autobacs 湘南平塚店内",
+      "神奈川县首家 Smart+1 门店",
+      "可结合保养项目咨询美容服务"
+    ],
+    "entities": [
+      "オートバックスセブン",
+      "Smart+1",
+      "スーパーオートバックス",
+      "湘南平塚"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224071.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224071.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:14.214Z"
+  },
+  "https://bestcarweb.jp/feature/column/1565378": {
+    "title_zh": "露营场大开口！Tanto FunCros 双侧滑门让行李和孩子都轻松",
+    "summary_short": "Tanto FunCros 双侧滑门与奇迹开门设计，在露营和日常中提供超大开口，方便装载行李和儿童。",
+    "summary_long": "作为户外风格的轻超级高度车，Tanto FunCros 不仅外观硬朗，其双侧滑门和奇迹开门设计（副驾侧无 B 柱）极大提升了便利性。无论是露营装备、孩子还是购物袋，大开口让装卸变得轻松。车辆尺寸为 3395×1475×1785mm，室内高 1370mm，NA 版油耗 21.9km/L，涡轮版 20.6km/L。副驾侧前后门同时打开形成巨大开口，适合放置形状各异的露营道具。此外，多功能行李厢和防水座椅背等设计，让沾泥或湿物品也能放心装载。日常中，双侧滑门在狭窄停车场避免磕碰，方便儿童上下车。",
+    "highlights_zh": [
+      "双侧滑门+奇迹开门",
+      "露营装备装卸轻松",
+      "日常停车开门安全",
+      "室内高 1370mm"
+    ],
+    "entities": [
+      "タント ファンクロス",
+      "轻自动车",
+      "双侧滑门",
+      "奇迹开门"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01171838/23_6_28_056_1.jpg?v=1782893919",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01171838/23_6_28_056_1-600x400.jpg?v=1782893919",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20224303/00_newC-class_26c0063_001_head-600x400.jpg?v=1781962984"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:15.352Z"
+  },
+  "https://response.jp/article/2026/07/02/413503.html": {
+    "title_zh": "SANKEI LOGI 川口领家 EAST 物流设施动工",
+    "summary_short": "SANKEI BUILD 与 JA 三井租赁建筑共同开发的物流设施在埼玉县川口市动工，预计 2028 年 1 月竣工。",
+    "summary_long": "SANKEI BUILD 宣布，与 JA 三井租赁建筑共同开发的多租户型物流设施“（暂称）SANKEI LOGI 川口领家 EAST”已动工。该设施位于埼玉县川口市领家四丁目，靠近首都高速川口线，可快速配送至东京市中心，且距离 JR 赤羽站东口巴士 11 分钟，便于员工通勤。项目利用优越的交通条件，可高效配送至东京 23 区北部和东部，同时连接东北自动车道、外环道和常磐自动车道，成为覆盖东北、常磐至关东全域的广域配送中心。",
+    "highlights_zh": [
+      "SANKEI BUILD 与 JA 三井租赁建筑共同…",
+      "位于埼玉县川口市",
+      "预计 2028 年 1 月竣工",
+      "可高效配送至东京 23 区及关东全域"
+    ],
+    "entities": [
+      "サンケイビル",
+      "JA 三井租赁建筑",
+      "SANKEI LOGI 川口领家 EAST"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223948.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223948.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:18.905Z"
+  },
+  "https://bestcarweb.jp/feature/column/1557602": {
+    "title_zh": "遮阳挡也挡不住车内 50 度？夏季停车必做防热措施与禁放物品",
+    "summary_short": "夏季停车车内温度飙升，仅用遮阳挡效果有限，需配合其他措施并注意禁放物品。",
+    "summary_long": "夏季烈日下停车，车内温度会迅速升至危险水平。遮阳挡虽能阻挡直射阳光，但 JAF 测试显示，4 小时后无遮阳挡车内最高 52 度，有遮阳挡仍达 50 度，温差仅 2 度。遮阳挡主要作用是降低仪表盘、方向盘等部位温度（从 79 度降至 52 度），从而改善握方向盘和座椅舒适度，并加快空调制冷效果。",
+    "highlights_zh": [
+      "遮阳挡仅降 2 度",
+      "仪表盘温度从 79 度降至 52 度",
+      "遮阳挡改善方向盘和座椅触感",
+      "遮阳挡可加快空调制冷"
+    ],
+    "entities": [
+      "JAF"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23101702/42897ae39c136d76b8d00de0de848cf9.jpeg?v=1782177423",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23101702/42897ae39c136d76b8d00de0de848cf9-600x400.jpeg?v=1782177423",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20224303/00_newC-class_26c0063_001_head-600x400.jpg?v=1781962984"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:19.395Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564038": {
+    "title_zh": "日产 Serena AUTECH LINE：2025 年改款新增的“颜值之选”新规格",
+    "summary_short": "日产 Serena 在 2025 年 12 月小改款中新增 AUTECH LINE，基于 Highway Star V 打造，通过外观细节提升质感，售价约 11 万日元差价。",
+    "summary_long": "日产 Serena 在 2025 年 12 月的小改款中新增了 AUTECH LINE 规格，基于 Highway Star V 的实用性，通过专属外观细节提升质感，如暗铬前格栅、金属质感后视镜、16 英寸专属轮毂及徽章。内饰采用定制座椅配黑色缝线。汽油 2WD 版售价 333.85 万日元，比 Highway Star V 贵 11 万日元，适合追求低调高级感的家庭用户。",
+    "highlights_zh": [
+      "基于 Highway Star V",
+      "专属暗铬格栅、金属后视镜、16 英寸轮毂",
+      "内饰定制座椅",
+      "售价 333.85 万日元"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "セレナ",
+      "オーテックライン",
+      "ハイウェイスターV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30165234/2-6.jpg?v=1782805955",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30165234/2-6-600x400.jpg?v=1782805955",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/20224303/00_newC-class_26c0063_001_head-600x400.jpg?v=1781962984"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:24.404Z"
+  },
+  "https://response.jp/article/2026/07/02/413501.html": {
+    "title_zh": "斯巴鲁 Levorg Layback 强混 e-BOXER 发布，起价 424.6 万日元",
+    "summary_short": "斯巴鲁发布 Levorg Layback 强混 e-BOXER，搭载 2.5L 水平对置发动机与串并联混动系统，起价 424.6 万日元。",
+    "summary_long": "斯巴鲁于 7 月 2 日发布了 Levorg Layback 的 e-BOXER 强混车型，定位为“提升移动品质的混动跨界车”。该车结合了 Levorg 的高质感驾控、强混系统的环保性能以及 SUV 的实用性。动力系统采用 2.5L 水平对置发动机与串并联混动结构，以电机驱动为主，发动机辅助补足。驱动电机最大功率 88kW，扭矩 270Nm，并配备 X-MODE 提升越野能力。机械式 AWD 可根据路况优化前后扭矩分配，悬架针对增重进行专属调校，车高和离地间隙较燃油版降低 20mm，分别为 1550mm 和 180mm。",
+    "highlights_zh": [
+      "2.5L 水平对置发动机 + 串并联强混",
+      "驱动电机 88kW / 270Nm",
+      "机械式 AWD 与 X-MODE",
+      "车高 1550mm"
+    ],
+    "entities": [
+      "斯巴鲁 | SUBARU",
+      "レヴォーグ レイバック",
+      "e-BOXER",
+      "X-MODE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223934.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223934.jpg",
+      "https://response.jp/imgs/fill2/2223940.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:24.583Z"
+  },
+  "https://response.jp/article/2026/07/02/413515.html": {
+    "title_zh": "轮胎专营店“Beeline Mine Inter 店”7 月 3 日开业",
+    "summary_short": "Autobacs 子公司 BL 西日本将于 7 月 3 日开设轮胎专营店 Beeline Mine Inter 店，提供平价轮胎及 2 年免费补胎服务。",
+    "summary_long": "Autobacs Seven 的合并子公司 BL 西日本宣布，轮胎专营店“Beeline Mine Inter 店”将于 7 月 3 日开业。该店提供广泛的价格实惠的轮胎，并附带购买轮胎后 2 年免费补胎服务。此外，还提供轮胎和轮毂购买时的铝合金轮毂折价服务，以及有偿的轮胎爆胎保修服务。店铺位于山口县美祢市，营业时间为 9:30 至 18:30，中午 12:00 至 13:00 休息。",
+    "highlights_zh": [
+      "7 月 3 日开业",
+      "提供平价轮胎",
+      "2 年免费补胎服务",
+      "铝合金轮毂折价服务"
+    ],
+    "entities": [
+      "オートバックスセブン",
+      "BL 西日本",
+      "Beeline Mine Inter 店 | ビーライン美祢インター店"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224070.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224070.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:28.849Z"
+  },
+  "https://response.jp/article/2026/07/02/413513.html": {
+    "title_zh": "动态地图平台北美公司为美国大学生自动驾驶竞赛提供高精度 3D 地图数据",
+    "summary_short": "动态地图平台北美公司作为官方供应商，为美国大学生自动驾驶竞赛提供高精度 3D 地图数据，支持 L4 级自动驾驶开发。",
+    "summary_long": "动态地图平台北美公司（DMP NA）作为官方供应商，参加了在密歇根大学 Mcity 自动驾驶测试场举办的“AutoDrive Challenge II”大学生自动驾驶竞赛。该竞赛由 SAE International 和通用汽车联合主办，旨在培养下一代自动驾驶工程师。参赛团队需基于实车开发 L4 级自动驾驶系统。DMP NA 已连续五年为竞赛提供高精度 3D 地图数据，用于车辆的高精度定位，结合感知技术实现路径规划和车辆控制。",
+    "highlights_zh": [
+      "DMP NA 连续五年为 AutoDrive Cha…",
+      "竞赛由 SAE 和通用汽车主办",
+      "高精度地图用于车辆定位"
+    ],
+    "entities": [
+      "动态地图平台北美公司",
+      "AutoDrive Challenge II",
+      "Mcity",
+      "SAE International",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223983.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223983.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:29.499Z"
+  },
+  "https://response.jp/article/2026/07/02/413507.html": {
+    "title_zh": "丰田与三菱汽车股价坚挺，上半年日本国内新车销售强劲",
+    "summary_short": "丰田与三菱汽车股价坚挺，上半年日本国内新车销售表现强劲，推动市场信心。",
+    "summary_long": "7 月 2 日，日经平均指数大幅下跌，但丰田汽车和三菱汽车的股价表现坚挺，主要得益于上半年日本国内新车销售强劲。尽管美国高科技股下跌和半导体相关股票抛售对市场造成压力，但汽车板块的稳健表现支撑了投资者信心。",
+    "highlights_zh": [
+      "丰田与三菱汽车股价坚挺",
+      "上半年国内新车销售强劲",
+      "日经指数大幅下跌但汽车股抗跌"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "三菱汽车 | Mitsubishi Motors",
+      "日经平均指数",
+      "新车销售"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223997.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223997.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:32.214Z"
+  },
+  "https://response.jp/article/2026/07/02/413520.html": {
+    "title_zh": "日产 Caravan/NV350 用“I's-Screen”上市，后门变纱窗，售价 1.98 万日元",
+    "summary_short": "I's 推出日产 Caravan/NV350 专用后门纱窗，兼具防虫、换气、遮阳功能，售价 1.98 万日元。",
+    "summary_long": "日本品牌 I's 为日产 Caravan（E26 系/NV350 标准宽度/标准车顶 4 门/5 门）推出专用后门纱窗“I's-Screen”，售价 1.98 万日元（含税）。该产品集防虫、换气、遮阳三大功能于一体，专为车中泊和户外爱好者设计。用户可在不担心虫子和外界视线的情况下打开后门通风，且操作简便，可从车内外单手操作，上下左右均可开启，适应不同场景。安装无需专用工具或车身加工，支持 DIY。",
+    "highlights_zh": [
+      "后门纱窗",
+      "单手操作",
+      "无需工具",
+      "售价 1.98 万日元"
+    ],
+    "entities": [
+      "I's",
+      "日产 | Nissan",
+      "NV350"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223970.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223970.jpg",
+      "https://response.jp/imgs/fill2/2223776.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:34.358Z"
+  },
+  "https://bestcarweb.jp/%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88/1567616": {
+    "title_zh": "Best Car Web 与大人周末 Web 联合赠礼：铃木食堂咖喱与铃木修语录纸牌",
+    "summary_short": "Best Car Web 与大人周末 Web 联合推出赠礼活动，送出铃木食堂咖喱 5 食套装和铃木修语录纸牌，共 3 份奖品。",
+    "summary_long": "Best Car Web 与大人周末 Web 联合举办赠礼活动，奖品包括铃木本社员工食堂风味的“铃木食堂印度素食咖喱”5 食套装，以及铃木元顾问铃木修的名言纸牌“铃木修语录纸牌”（成人版/儿童版）。共 3 份奖品，需关注官方 Instagram 并点赞活动帖即可参与，截止日期为 2026 年 7 月 15 日。",
+    "highlights_zh": [
+      "铃木食堂咖喱与铃木修语录纸牌",
+      "共 3 份奖品",
+      "截止 2026 年 7 月 15 日"
+    ],
+    "entities": [
+      "铃木 | Suzuki"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02170003/c745d5a6011985f7f934e3a0bf5ba833.jpg?v=1782979204",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02170003/c745d5a6011985f7f934e3a0bf5ba833-600x443.jpg?v=1782979204",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24173026/bedff7bfcad89ca75335e537f288eb3f-600x382.jpg?v=1782289827"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:36.174Z"
+  },
+  "https://bestcarweb.jp/news/1561075": {
+    "title_zh": "最短路线！「カーナビタイム」新增距离优先功能",
+    "summary_short": "导航 App「カーナビタイム」新增距离优先功能，可三段调节，实现最短路线导航，兼顾安全与便利。",
+    "summary_long": "导航 App「カーナビタイム」及「配達 NAVITIME」于 2026 年 6 月 22 日新增「距离优先」路线功能，满足用户希望行驶最短距离的需求。该功能提供「标准」「强」「非常强」三档调节，在考虑安全性和行驶便利性的前提下，尽可能缩短行驶距离，尤其适合专业司机和追求效率的普通用户。",
+    "highlights_zh": [
+      "新增「距离优先」路线功能",
+      "支持三档强度调节",
+      "兼顾安全与最短距离",
+      "面向专业与普通司机"
+    ],
+    "entities": [
+      "カーナビタイム",
+      "配達 NAVITIME",
+      "距离优先",
+      "导航"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26230549/07de87887af39ae82be57e1e0cfdd296.png?v=1782482751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26230549/07de87887af39ae82be57e1e0cfdd296-600x314.png?v=1782482751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02182736/pictures_mazda_rx-7_1988_2_1024x768-600x370.jpg?v=1782984458"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:38.235Z"
+  },
+  "https://www.motor1.com/news/800405/audi-says-global-car-dead/": {
+    "title_zh": "奥迪：全球统一车型策略已失效",
+    "summary_short": "奥迪认为全球统一车型时代终结，需针对中国等市场推出本土化产品，已与上汽合作创立专属品牌。",
+    "summary_long": "奥迪认为全球统一车型的时代已经结束，不同市场的消费者需求差异巨大，尤其是中国市场对后排空间和本地化设计有独特要求。奥迪早在 1988 年进入中国，随后通过加长轴距等方式适应市场，如今更与上汽合作创立全新品牌“AUDI”，推出 E5 Sportback 和 E7X SUV 等中国专属车型。首席技术官 Rouven Mohr 表示，一款车适配全球的理念已不再适用，必须推行“本地为本地”的策略。",
+    "highlights_zh": [
+      "全球统一车型时代终结",
+      "中国市场需专属设计",
+      "与上汽合作创立 AUDI 品牌",
+      "推出 E5 Sportback 等中国特供车"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "上汽",
+      "AUDI",
+      "E5 Sportback",
+      "E7X SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wlWJV6/s1/audi-e7x-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:40.620Z"
+  },
+  "https://www.motor1.com/news/800364/shop-keeps-car-200-days/": {
+    "title_zh": "车主控诉修车厂扣车 200 天并私吞 2 万美元",
+    "summary_short": "南加州一名车主称修车厂扣留其车辆 200 天，并私吞 2 万美元维修费，拒绝归还车辆，最终车主报警处理。",
+    "summary_long": "南加州一名车主声称，一家修车厂扣留其车辆长达 200 天，并拒绝归还。车主在社交媒体上发布了一段 53 秒的通话录音，显示他多次要求取回车辆，但修车厂员工态度强硬，要求他离开。车主称修车厂未完成维修工作，反而私吞了 2 万美元（视频中提及 1.6 万美元）。此事引发对修车厂与车主权益的讨论。车主已向加州汽车维修局投诉，相关视频已获得超过 4.8 万次观看。",
+    "highlights_zh": [
+      "修车厂扣车 200 天不还",
+      "车主称被私吞 2 万美元",
+      "车主报警并发布录音",
+      "加州汽车维修局介入"
+    ],
+    "entities": [
+      "南加州",
+      "修车厂",
+      "加州汽车维修局"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3wPv/s1/man-takes-his-car-to-the-mechanic.-then-he-claims-they-took-20-000-from-him.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:43.042Z"
+  },
+  "https://www.motor1.com/news/800395/vw-group-responds-rumors-selling-brands/": {
+    "title_zh": "大众集团回应出售品牌传闻",
+    "summary_short": "大众集团回应出售部分品牌传闻，称所有品牌需深刻转型，重组正在进行。",
+    "summary_long": "大众集团对近期关于可能出售部分品牌以资助重组计划的传闻作出回应。保时捷已出售布加迪股份，布加迪首次脱离大众集团。据《金融时报》报道，顾问正推动出售杜卡迪等业务，并建议兰博基尼上市。大众集团发言人未直接否认，表示所有品牌必须深刻转型，公司正在重组。",
+    "highlights_zh": [
+      "保时捷出售布加迪股份",
+      "杜卡迪或被出售",
+      "兰博基尼或上市",
+      "大众集团确认重组"
+    ],
+    "entities": [
+      "大众集团 | Volkswagen Group",
+      "保时捷 | Porsche",
+      "布加迪",
+      "杜卡迪",
+      "兰博基尼"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:44.748Z"
+  },
+  "https://www.motor1.com/news/800380/nissan-admits-chasing-volume-wrong/": {
+    "title_zh": "日产 CEO 承认盲目追求销量是错误",
+    "summary_short": "日产 CEO 承认过度依赖租车销售损害品牌形象，将大幅削减产能并加速新车开发。",
+    "summary_long": "日产 CEO Ivan Espinosa 承认前任领导层盲目追求销量（'volume, volume, volume'）是错误的，过度依赖美国租车市场销售损害了品牌形象。为此，日产正在实施大规模成本削减计划，包括裁员约 2 万人、关闭 7 家工厂和 2 个设计工作室，并将年产能从 350 万辆降至 250 万辆，平台数量从 13 个减至 7 个。同时，新车型开发时间将从 52 个月缩短至 37 个月，衍生车型从 50 个月降至 30 个月。Espinosa 表示未来将远离租车市场。",
+    "highlights_zh": [
+      "日产 CEO 承认盲目追求销量是错误",
+      "过度依赖租车销售损害品牌形象",
+      "将裁员 2 万人并关闭 7 家工厂",
+      "新车型开发时间缩短至 37 个月"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "英菲尼迪",
+      "Ivan Espinosa"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJg4q/s1/ivan-espinosa.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-02T15:35:46.764Z"
   }
 }

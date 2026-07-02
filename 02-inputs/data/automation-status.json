@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-02T04:19:33.790Z",
+    "generated_at": "2026-07-02T15:34:37.276Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 371,
+    "deepseek_untranslated_before_run": 29,
+    "newly_fetched_articles": 29,
+    "newly_fetched_untranslated": 29,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 29,
     "translation_queue_preview": [
       {
+        "source": "The Drive",
+        "time": "2026.7.2",
+        "title": "Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler",
+        "url": "https://www.thedrive.com/news/record-q2-sales-put-ford-bronco-in-striking-distance-of-jeep-wrangler"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.2",
+        "title": "BMW Explains Why It Got Rid Of The X5's Best Feature",
+        "url": "https://www.motor1.com/news/800438/bmw-no-split-tailgate-reason-why/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.2",
+        "title": "Traffic Regulators Vow to Unleash ‘Innovation’ by Eliminating Robotaxi Brake Pedals",
+        "url": "https://www.thedrive.com/news/traffic-regulators-vow-to-unleash-innovation-by-eliminating-robotaxi-brake-pedals"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.2",
+        "title": "Hyundai Sales Are Soaring Thanks To Hybrids",
+        "url": "https://www.motor1.com/news/800311/hyundai-sales-soar-2026-hybrids/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.2",
+        "title": "Honda Wrestles Title of America’s Best-Selling Car From Ford and Toyota: TDS",
+        "url": "https://www.thedrive.com/news/honda-wrestles-title-of-americas-best-selling-car-from-ford-and-toyota-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.2",
+        "title": "McMurtry's $1.3-Million Hypercar Is Finally Here",
+        "url": "https://www.motor1.com/news/800367/mcmurtry-speirling-pure-revealed/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.2",
+        "title": "This $1.4 Million EV Hits 60 In 1.55 Seconds. Now You Can Buy One.",
+        "url": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.7.2",
-        "title": "「フィジカルAI展2026」初開催、現在地を知る！…ものづくりワールド",
-        "url": "https://response.jp/article/2026/07/02/413475.html"
+        "title": "「アーティシャンスピリッツ」製品装着の『LBX MORIZO RR』が、フォーミュラドリフトジャパン2026第3戦でベスト8進出",
+        "url": "https://response.jp/article/2026/07/02/413519.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "NIPPON EXPRESS、SOMPOサステナビリティ・インデックスに15年連続選定",
+        "url": "https://response.jp/article/2026/07/02/413496.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "OKIエンジニアリング、自動車部品の耐食性試験規格対応の塩水腐食試験サービス開始",
+        "url": "https://response.jp/article/2026/07/02/413502.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.2",
+        "title": "Tennessee Judge Gets A Traffic Ticket. Then He Adjudicates Himself: ‘Are You Guilty?'",
+        "url": "https://www.motor1.com/news/800366/judge-adjudicates-traffic-ticket/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "イクリプス初のHDMI入力対応7型カーナビ、『AVN-RS01/RBS01』発売",
+        "url": "https://response.jp/article/2026/07/02/413508.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "カーボン素材採用で数量限定、オージーケーカブトの「GEOSYS」にプレミアムモデル『GEOSYS-R』登場",
+        "url": "https://response.jp/article/2026/07/02/413512.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.2",
-        "title": "【令和8年7月のバス占い付き】午年だから参拝したい多度大社へのコミュニティバスは1日6.5往復だと!?",
-        "url": "https://bestcarweb.jp/busmagazine/1542856"
+        "title": "キャンプ場で効く大開口!! タント ファンクロスの両側スライドドアは荷物も子どももラクにする!!",
+        "url": "https://bestcarweb.jp/feature/column/1565378"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "クルマのキレイを守る専門店「Smart+1・湘南平塚」、7月3日開業…スーパーオートバックスに併設",
+        "url": "https://response.jp/article/2026/07/02/413517.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "サンケイビル、埼玉県川口市に物流施設着工…2028年1月竣工予定",
+        "url": "https://response.jp/article/2026/07/02/413503.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.2",
-        "title": "【反則レベルのかっこよさ】ランクルFJに「ブラッドレーフォージド匠」がドンピシャ!! 銘品ホイールと最新ランクルのマリアージュを4×4エンジニアリング公式が公開",
-        "url": "https://bestcarweb.jp/news/1566721"
+        "title": "サンシェードしても車内50度ってマジか…真夏の駐車で絶対やるべき熱対策と置きっぱなしNGなモノ",
+        "url": "https://bestcarweb.jp/feature/column/1557602"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "スバル『レヴォーグ レイバック』、ストロングハイブリッド「e-BOXER」発表…424万6000円から",
+        "url": "https://response.jp/article/2026/07/02/413501.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.2",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第798回",
-        "url": "https://bestcarweb.jp/feature/column/1561356"
+        "title": "セレナ オーテックラインは買いか？ 2025年改良で加わった“見た目で選べる”新仕様",
+        "url": "https://bestcarweb.jp/feature/column/1564038"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.2",
-        "title": "BMW、『X5』新型を発表…第5世代は新デザイン言語と48Vマイルドハイブリッド搭載",
-        "url": "https://response.jp/article/2026/07/02/413470.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "BYD12万人の技術力と日本市場への本気度、補助金逆風下「ラッコ」の戦略とは…BYD Auto Japan 東福寺厚樹 代表取締役社長［インタビュー］",
-        "url": "https://response.jp/article/2026/07/02/413481.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "アイシン子会社「シーヴイテック」、北海道拠点を閉鎖し2028年に合併…CVT金属ベルト生産を愛知に集約",
-        "url": "https://response.jp/article/2026/07/02/413478.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "アメリカでも心配のタネは尽きない!? 女性トラックドライバーが抱えるリアルな不安【PUNKさんの場合】",
-        "url": "https://bestcarweb.jp/fullload/1564349"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "アルファードより燃費いいゾ!! 走りが想像以上だった！ 新型オデッセイは代打になれるのか",
-        "url": "https://bestcarweb.jp/feature/column/1550673"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "イクヨ、インドネシアでEVバッテリー事業参入…CATL・SAIC合弁のUABSなど中国2社と提携",
-        "url": "https://response.jp/article/2026/07/02/413476.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "いすゞ自動車、米国新工場設立へ…JBICと三菱UFJ銀行が協調融資",
-        "url": "https://response.jp/article/2026/07/02/413490.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "インフィニオン、車載レーダー用MMIC「CTRX8188F」量産開始…業界初の8Tx8Rx対応",
-        "url": "https://response.jp/article/2026/07/02/413482.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "ウーバー・Nuro・ルーシッド、米ヒューストンでロボタクシーサービス開始へ…2027年から",
-        "url": "https://response.jp/article/2026/07/02/413479.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "ヴォクシー対ステップワゴンスパーダ!! “ちょい悪”トヨタか硬派ホンダか、家族ミニバンの正解はどっち？",
-        "url": "https://bestcarweb.jp/feature/column/1561039"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "クルマの外気温計センサーってどこについてる？ けっこう正確？ 誤差はないのか？ クルマの外気温計の謎明かします!!!",
-        "url": "https://bestcarweb.jp/news/entame/1564817"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "こんなハイブリッドを待っていた！ レイバックS:HEVサーキット試乗！ 速い！ 燃費いい!! お手頃!!! RAV4とはどう違う？",
-        "url": "https://bestcarweb.jp/feature/test-drive/1566394"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "スズキ、インドに次世代モビリティ導入へ…軽自動車並みの小型電動車両を専用レーンで自動運転",
-        "url": "https://response.jp/article/2026/07/02/413473.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "スバルが一気にMT車3台を投入し、FA24ターボも300psオーバーへ！ 大反撃を統括する藤貫哲郎CTOにインタビュー【PR】",
-        "url": "https://bestcarweb.jp/feature/tieup/1563219"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "ゼンリン、有人離島トレーディングカード第4弾を7月3日発売…77島追加で全国304島を網羅",
-        "url": "https://response.jp/article/2026/07/02/413487.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "デンソー、AESCのESS用電池でバッテリーパスポートの実用性を確認…テュフ ラインランドと共同で",
-        "url": "https://response.jp/article/2026/07/02/413484.html"
+        "title": "ダイナミックマップ、米自動運転コンテストに公式サプライヤーとして参加…高精度3次元データ提供",
+        "url": "https://response.jp/article/2026/07/02/413513.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28565093139",
-    "sha": "efc7906d276b2bcf7b819ddc054ce6f542b7fa12",
-    "completed_at": "2026-07-02T04:20:44.418Z",
+    "run_id": "28602226511",
+    "sha": "b40fdeedbb869d07d635225e1fd2d6b2a8491dc6",
+    "completed_at": "2026-07-02T15:35:47.044Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-07-02T04:19:34.088Z",
-    "finished_at": "2026-07-02T04:20:44.180Z",
+    "scoped_articles": 29,
+    "queued_articles": 29,
+    "processed": 29,
+    "started_at": "2026-07-02T15:34:37.586Z",
+    "finished_at": "2026-07-02T15:35:46.782Z",
     "success": true,
     "error": ""
   }
