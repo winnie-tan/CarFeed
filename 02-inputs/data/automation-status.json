@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-01T15:57:01.041Z",
+    "generated_at": "2026-07-02T04:19:33.790Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 372,
-    "deepseek_untranslated_before_run": 28,
-    "newly_fetched_articles": 28,
-    "newly_fetched_untranslated": 28,
+    "deepseek_translated_before_run": 368,
+    "deepseek_untranslated_before_run": 32,
+    "newly_fetched_articles": 32,
+    "newly_fetched_untranslated": 32,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 28,
+    "translation_queue_count": 32,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.1",
-        "title": "Kia Just Had Its Best June Ever As Hybrid Sales Skyrocket",
-        "url": "https://www.motor1.com/news/800296/kia-sales-results-june-q2-2026/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.1",
-        "title": "Watch A New Chevy Blazer Demolish An Old One In A Crash Test",
-        "url": "https://www.motor1.com/news/800205/chevrolet-blazer-crash-test/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.1",
-        "title": "Honda and Nissan Near Partnership Despite Failed Merger: TDS",
-        "url": "https://www.thedrive.com/news/honda-and-nissan-near-partnership-despite-failed-merger-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.1",
-        "title": "Which 2026 Honda Civic Should You Buy? Every Trim Explained",
-        "url": "https://www.motor1.com/features/800194/2026-honda-civic-buying-guide/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.1",
-        "title": "‘We Don’t Know What We’re Doing’: Inside the Post-Ban Chaos at Polestar Dealerships",
-        "url": "https://www.thedrive.com/news/we-dont-know-what-were-doing-inside-the-post-ban-chaos-at-polestar-dealerships"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "「エンブレムちっちゃすぎwww」マツダ版ハスラーの“顔”にSNS注目！『フレアクロスオーバー』がマイチェン",
-        "url": "https://response.jp/article/2026/07/01/413463.html"
+        "time": "2026.7.2",
+        "title": "「フィジカルAI展2026」初開催、現在地を知る！…ものづくりワールド",
+        "url": "https://response.jp/article/2026/07/02/413475.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.1",
-        "title": "「ふんばり」が超大事？ 氷に振り切ったスタッドレスタイヤ!? ダンロップが「ウインターマックス アイスプロ」を電撃発表！",
-        "url": "https://bestcarweb.jp/news/car-accessory/1565782"
+        "time": "2026.7.2",
+        "title": "【令和8年7月のバス占い付き】午年だから参拝したい多度大社へのコミュニティバスは1日6.5往復だと!?",
+        "url": "https://bestcarweb.jp/busmagazine/1542856"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.1",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「FM」",
-        "url": "https://bestcarweb.jp/feature/column/1530970"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "8/20申込締切 世界をリードするEVの雄「BYD」～その真の技術力と日本市場での戦略に迫る！～",
-        "url": "https://response.jp/article/2026/07/01/413441.html"
+        "time": "2026.7.2",
+        "title": "【反則レベルのかっこよさ】ランクルFJに「ブラッドレーフォージド匠」がドンピシャ!! 銘品ホイールと最新ランクルのマリアージュを4×4エンジニアリング公式が公開",
+        "url": "https://bestcarweb.jp/news/1566721"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.1",
-        "title": "BEV一択の崩壊!! 世界が再びハイブリッドに向かう納得すぎる理由",
-        "url": "https://bestcarweb.jp/feature/column/1557497"
+        "time": "2026.7.2",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第798回",
+        "url": "https://bestcarweb.jp/feature/column/1561356"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "EV改造の「AZAPA」、ドーガンMGXファンドから出資受け入れ…バッテリー関連事業を加速",
-        "url": "https://response.jp/article/2026/07/01/413448.html"
+        "time": "2026.7.2",
+        "title": "BMW、『X5』新型を発表…第5世代は新デザイン言語と48Vマイルドハイブリッド搭載",
+        "url": "https://response.jp/article/2026/07/02/413470.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "GaNで車載オーディオが変わる？ 次世代D級アンプが示した高音質化の可能性",
-        "url": "https://response.jp/article/2026/07/01/413445.html"
+        "time": "2026.7.2",
+        "title": "BYD12万人の技術力と日本市場への本気度、補助金逆風下「ラッコ」の戦略とは…BYD Auto Japan 東福寺厚樹 代表取締役社長［インタビュー］",
+        "url": "https://response.jp/article/2026/07/02/413481.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "KGモーターズの1人乗りEV「mibot」、福島・浪江町で分散型電力インフラ実証事業に採択",
-        "url": "https://response.jp/article/2026/07/01/413460.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "NTT-ME、リユースEVでカーボンニュートラルと災害対策を両立…新事業を今夏開始",
-        "url": "https://response.jp/article/2026/07/01/413450.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.1",
-        "title": "Tow Truck Driver Picks Up Mustang. At First She Thinks It’s Covered In Bird Poo. Then She Realizes It’s Something Else Entirely",
-        "url": "https://www.motor1.com/news/800227/ford-mustang-foam-vandalism-damage/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "ZFライフテック、リクライニング姿勢対応の統合エアバッグシステム開発…4つのエアバッグで乗員を守る",
-        "url": "https://response.jp/article/2026/07/01/413457.html"
+        "time": "2026.7.2",
+        "title": "アイシン子会社「シーヴイテック」、北海道拠点を閉鎖し2028年に合併…CVT金属ベルト生産を愛知に集約",
+        "url": "https://response.jp/article/2026/07/02/413478.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.1",
-        "title": "ヴォクシーS-Gで十分なのか？ S-Zとの差額と装備で考える現実派グレード選び",
-        "url": "https://bestcarweb.jp/feature/column/1560977"
+        "time": "2026.7.2",
+        "title": "アメリカでも心配のタネは尽きない!? 女性トラックドライバーが抱えるリアルな不安【PUNKさんの場合】",
+        "url": "https://bestcarweb.jp/fullload/1564349"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.1",
-        "title": "シビックe RSは買いか？ Honda S+ Shiftで走りはどこまで変わったのか!?",
-        "url": "https://bestcarweb.jp/feature/column/1563609"
+        "time": "2026.7.2",
+        "title": "アルファードより燃費いいゾ!! 走りが想像以上だった！ 新型オデッセイは代打になれるのか",
+        "url": "https://bestcarweb.jp/feature/column/1550673"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "トヨタ、『プリウス』を一部改良…安全装備を充実",
-        "url": "https://response.jp/article/2026/07/01/413453.html"
+        "time": "2026.7.2",
+        "title": "イクヨ、インドネシアでEVバッテリー事業参入…CATL・SAIC合弁のUABSなど中国2社と提携",
+        "url": "https://response.jp/article/2026/07/02/413476.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.1",
-        "title": "トヨタ『カローラ クロス』一部改良、安全性能を強化…60周年記念特別仕様車Z「Adventure」も設定",
-        "url": "https://response.jp/article/2026/07/01/413449.html"
+        "time": "2026.7.2",
+        "title": "いすゞ自動車、米国新工場設立へ…JBICと三菱UFJ銀行が協調融資",
+        "url": "https://response.jp/article/2026/07/02/413490.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "インフィニオン、車載レーダー用MMIC「CTRX8188F」量産開始…業界初の8Tx8Rx対応",
+        "url": "https://response.jp/article/2026/07/02/413482.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "ウーバー・Nuro・ルーシッド、米ヒューストンでロボタクシーサービス開始へ…2027年から",
+        "url": "https://response.jp/article/2026/07/02/413479.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.2",
+        "title": "ヴォクシー対ステップワゴンスパーダ!! “ちょい悪”トヨタか硬派ホンダか、家族ミニバンの正解はどっち？",
+        "url": "https://bestcarweb.jp/feature/column/1561039"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.2",
+        "title": "クルマの外気温計センサーってどこについてる？ けっこう正確？ 誤差はないのか？ クルマの外気温計の謎明かします!!!",
+        "url": "https://bestcarweb.jp/news/entame/1564817"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.2",
+        "title": "こんなハイブリッドを待っていた！ レイバックS:HEVサーキット試乗！ 速い！ 燃費いい!! お手頃!!! RAV4とはどう違う？",
+        "url": "https://bestcarweb.jp/feature/test-drive/1566394"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "スズキ、インドに次世代モビリティ導入へ…軽自動車並みの小型電動車両を専用レーンで自動運転",
+        "url": "https://response.jp/article/2026/07/02/413473.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.2",
+        "title": "スバルが一気にMT車3台を投入し、FA24ターボも300psオーバーへ！ 大反撃を統括する藤貫哲郎CTOにインタビュー【PR】",
+        "url": "https://bestcarweb.jp/feature/tieup/1563219"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "ゼンリン、有人離島トレーディングカード第4弾を7月3日発売…77島追加で全国304島を網羅",
+        "url": "https://response.jp/article/2026/07/02/413487.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.2",
+        "title": "デンソー、AESCのESS用電池でバッテリーパスポートの実用性を確認…テュフ ラインランドと共同で",
+        "url": "https://response.jp/article/2026/07/02/413484.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28530540208",
-    "sha": "329cee1d325a5b43ac45409bac7bb4361e17c23c",
-    "completed_at": "2026-07-01T15:58:02.431Z",
+    "run_id": "28565093139",
+    "sha": "efc7906d276b2bcf7b819ddc054ce6f542b7fa12",
+    "completed_at": "2026-07-02T04:20:44.418Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 28,
-    "queued_articles": 28,
-    "processed": 28,
-    "started_at": "2026-07-01T15:57:01.293Z",
-    "finished_at": "2026-07-01T15:58:02.175Z",
+    "scoped_articles": 32,
+    "queued_articles": 32,
+    "processed": 32,
+    "started_at": "2026-07-02T04:19:34.088Z",
+    "finished_at": "2026-07-02T04:20:44.180Z",
     "success": true,
     "error": ""
   }
