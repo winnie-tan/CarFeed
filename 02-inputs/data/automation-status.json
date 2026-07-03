@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-03T04:06:03.229Z",
+    "generated_at": "2026-07-03T15:28:06.347Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 364,
-    "deepseek_untranslated_before_run": 36,
-    "newly_fetched_articles": 36,
-    "newly_fetched_untranslated": 36,
+    "deepseek_translated_before_run": 372,
+    "deepseek_untranslated_before_run": 28,
+    "newly_fetched_articles": 28,
+    "newly_fetched_untranslated": 28,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 36,
+    "translation_queue_count": 28,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.3",
-        "title": "『ジムニー/ジムニーシエラ』のサイドビューをドレスアップ！ ダムドが「スラッシュガーニッシュ」を発売",
-        "url": "https://response.jp/article/2026/07/03/413532.html"
+        "title": "Womp Womp: Verstappen Says LEGO F1 Parade Makes Drivers Look Like ‘Kids and Clowns’",
+        "url": "https://www.thedrive.com/news/womp-womp-verstappen-says-lego-f1-parade-makes-drivers-look-like-kids-and-clowns"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.3",
+        "title": "2026 Mercedes-AMG E53 Hybrid Wagon Quick Review: A Bit Mild, a Bit Wild, But Mostly Confusing",
+        "url": "https://www.thedrive.com/car-reviews/2026-mercedes-amg-e53-hybrid-wagon-quick-review-a-bit-mild-a-bit-wild-but-mostly-confusing"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.3",
+        "title": "Mercedes Has 10 New Models Coming In 2026. Here's All Of Them",
+        "url": "https://www.motor1.com/news/800235/new-mercedes-models-2026/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.3",
+        "title": "This Peak Lamborghini Diablo Is One-of-80, and It’s Going to Auction",
+        "url": "https://www.thedrive.com/news/this-peak-lamborghini-diablo-is-one-of-80-and-its-going-to-auction"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.3",
-        "title": "【Road to the Star：Lap 2】 富士24時間レースが映し出すそれぞれの役割、己との戦いの先に見えた新しい景色PR",
-        "url": "https://response.jp/article/2026/07/03/413540.html"
+        "title": "「サブウーファー」の“音割れ”は絶対NG！ その防止法を公開［低音を制する者はカーオーディオを制す］",
+        "url": "https://response.jp/article/2026/07/03/413566.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.3",
-        "title": "【夏休み】ヤマハコミュニケーションプラザで謎解き！ 体験型イベント「謎とめぐる記憶の旅」開催へ",
-        "url": "https://response.jp/article/2026/07/03/413541.html"
+        "title": "「公共交通オープンデータチャレンジ2026」、地域交通の課題解決アプリ募集…国土交通省",
+        "url": "https://response.jp/article/2026/07/03/413555.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.3",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第799回",
-        "url": "https://bestcarweb.jp/feature/column/1561360"
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「OTA」",
+        "url": "https://bestcarweb.jp/feature/column/1553737"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.3",
-        "title": "BMW工場にヒューマノイド「Figure 03」導入…フィジカルAIで全身協調制御",
-        "url": "https://response.jp/article/2026/07/03/413538.html"
+        "title": "2026年上期新車販売は前年比101.8％",
+        "url": "https://response.jp/article/2026/07/03/413561.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.3",
-        "title": "NTTモビリティが「自動運転安全管理委員会」設立---事故事例の分析から演習計画まで",
-        "url": "https://response.jp/article/2026/07/03/413534.html"
+        "title": "AIサクセスコンサルが24時間365日支援、「プロプラン」開始…cars MANAGER",
+        "url": "https://response.jp/article/2026/07/03/413553.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "AUTO IN青森中央店、7月4日オープン…青森県に初出店",
+        "url": "https://response.jp/article/2026/07/03/413567.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "BMW『X5』新型に初のEV『iX5』、第6世代「eDrive」で航続最大845km実現…460kW急速充電にも対応",
+        "url": "https://response.jp/article/2026/07/03/413548.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.3",
-        "title": "アクア一択じゃない!? ノートの力強さかフィットの広さか！ 今選びたいコンパクトハイブリッド比較",
-        "url": "https://bestcarweb.jp/feature/column/1550371"
+        "title": "GR86ではなくむしろBRZを選ぶ選択肢!? 理想は大幅改良後だがねらい目は初期か",
+        "url": "https://bestcarweb.jp/feature/column/1564435"
       },
       {
-        "source": "Response.jp",
+        "source": "InsideEVs",
         "time": "2026.7.3",
-        "title": "アンリツ、英Aim-TTi Holdings株式20%取得で持分法適用関連会社に…自動車などの分野拡大へ",
-        "url": "https://response.jp/article/2026/07/03/413535.html"
+        "title": "How America’s Policy Whiplash Derailed The EV Transition",
+        "url": "https://insideevs.com/news/800503/us-ev-sales-2030-bnef/"
       },
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.7.3",
-        "title": "ヴォクシーはアルファード未満で満足できる？ 大きすぎない上級感を狙う人の現実解",
-        "url": "https://bestcarweb.jp/feature/column/1560989"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.3",
-        "title": "えええ、新型パジェロS-AWC付くの!? 三菱本気すぎるマジで!!!!",
-        "url": "https://bestcarweb.jp/newcar/1567088"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "カワサキ『Z900RS CAFE』2027年モデルは「キャンディトーンレッド」、価格は154万円",
-        "url": "https://response.jp/article/2026/07/03/413543.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "スズキ、インドで「スマート・メンテナンス・プラン」導入…最大10年・10万kmをカバー",
-        "url": "https://response.jp/article/2026/07/03/413529.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "スズキ『カプチーノ』復活の可能性！…軽規格を維持、FRレイアウトも継承か",
-        "url": "https://response.jp/article/2026/07/03/413525.html"
+        "title": "Man Owns Viral Auto Shop. Then He Goes Viral For Another Reason—His Interaction With This Single Mother: 'People Cannot Believe'",
+        "url": "https://www.motor1.com/news/800502/royalty-auto-service-helps-single-mom/"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.3",
-        "title": "タフトのスカイフィールトップは飽きない装備か？ 軽SUV唯一級の開放感を再評価",
-        "url": "https://bestcarweb.jp/feature/column/1561098"
+        "title": "N-BOX強すぎる!! 登録車を含めても5年連続日本一を達成！ 軽販売11連覇の理由とは",
+        "url": "https://bestcarweb.jp/feature/column/1551496"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "TOYOTA Walletのミニアプリ機能「EV充電サービス」、プラゴ充電器が利用可能に",
+        "url": "https://response.jp/article/2026/07/03/413568.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "インドネシアで路線バスドライバーを事前育成、3eeeと網走バスが国際連携モデルを推進",
+        "url": "https://response.jp/article/2026/07/03/413563.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "ジープ・プジョー・シトロエン・フィアット・アバルト、日本最多5ブランド集結「ブランドハウス」を東京・足立に開業…7月25日",
+        "url": "https://response.jp/article/2026/07/03/413565.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.3",
-        "title": "ドライバーの「見えやすさ」極めた噂のドライビングサングラス 7月6日から「再入荷第2弾販売」開始!!",
-        "url": "https://bestcarweb.jp/news/car-accessory/1568008"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "ピレリの新スタッドレス『アイス・ゼロ・アシンメトリコ 2』発売 氷上ブレーキング4.5％向上、全48サイズ展開",
-        "url": "https://response.jp/article/2026/07/03/413539.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "フィアットのミニバン『ドブロ』、日本専用ブルーまとう「オチェアーノ」は80台限定…451万円",
-        "url": "https://response.jp/article/2026/07/02/413514.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "ベトナムで排ガス規制、日本メーカーの動向は？…今週のビジネス記事ランキング",
-        "url": "https://response.jp/article/2026/07/03/413527.html"
+        "title": "シビックe:HEV RSのHonda S+ Shiftって何だ？ “変速するハイブリッド感”の正体",
+        "url": "https://bestcarweb.jp/feature/column/1563648"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.3",
-        "title": "まさかの大逆転劇!! スズキが国内販売2位になれた秘密とは？ ホンダ超えを実現した5つの要因を解説",
-        "url": "https://bestcarweb.jp/feature/column/1549610"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "ランドローバー『ディスカバリー』、2027年モデルは1033万円から…「ランドマーク エディション」も40台限定導入",
-        "url": "https://response.jp/article/2026/07/03/413523.html"
+        "title": "ジムニーの横開きゲートを電動化!! 荷物の出し入れが激進化!!",
+        "url": "https://bestcarweb.jp/news/1561038"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28637659373",
-    "sha": "1227f3cd55f6fd752ecda3e97a456c7877855045",
-    "completed_at": "2026-07-03T04:07:15.726Z",
+    "run_id": "28669834180",
+    "sha": "14ba024d70c3e0cf19bca6206395c873f83725e5",
+    "completed_at": "2026-07-03T15:29:09.714Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 36,
-    "queued_articles": 36,
-    "processed": 36,
-    "started_at": "2026-07-03T04:06:03.571Z",
-    "finished_at": "2026-07-03T04:07:15.448Z",
+    "scoped_articles": 28,
+    "queued_articles": 28,
+    "processed": 28,
+    "started_at": "2026-07-03T15:28:06.663Z",
+    "finished_at": "2026-07-03T15:29:09.439Z",
     "success": true,
     "error": ""
   }
