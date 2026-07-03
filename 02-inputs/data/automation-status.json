@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-02T15:34:37.276Z",
+    "generated_at": "2026-07-03T04:06:03.229Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 371,
-    "deepseek_untranslated_before_run": 29,
-    "newly_fetched_articles": 29,
-    "newly_fetched_untranslated": 29,
+    "deepseek_translated_before_run": 364,
+    "deepseek_untranslated_before_run": 36,
+    "newly_fetched_articles": 36,
+    "newly_fetched_untranslated": 36,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 29,
+    "translation_queue_count": 36,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.2",
-        "title": "Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler",
-        "url": "https://www.thedrive.com/news/record-q2-sales-put-ford-bronco-in-striking-distance-of-jeep-wrangler"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.2",
-        "title": "BMW Explains Why It Got Rid Of The X5's Best Feature",
-        "url": "https://www.motor1.com/news/800438/bmw-no-split-tailgate-reason-why/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.2",
-        "title": "Traffic Regulators Vow to Unleash ‘Innovation’ by Eliminating Robotaxi Brake Pedals",
-        "url": "https://www.thedrive.com/news/traffic-regulators-vow-to-unleash-innovation-by-eliminating-robotaxi-brake-pedals"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.2",
-        "title": "Hyundai Sales Are Soaring Thanks To Hybrids",
-        "url": "https://www.motor1.com/news/800311/hyundai-sales-soar-2026-hybrids/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.2",
-        "title": "Honda Wrestles Title of America’s Best-Selling Car From Ford and Toyota: TDS",
-        "url": "https://www.thedrive.com/news/honda-wrestles-title-of-americas-best-selling-car-from-ford-and-toyota-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.2",
-        "title": "McMurtry's $1.3-Million Hypercar Is Finally Here",
-        "url": "https://www.motor1.com/news/800367/mcmurtry-speirling-pure-revealed/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.2",
-        "title": "This $1.4 Million EV Hits 60 In 1.55 Seconds. Now You Can Buy One.",
-        "url": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/"
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "『ジムニー/ジムニーシエラ』のサイドビューをドレスアップ！ ダムドが「スラッシュガーニッシュ」を発売",
+        "url": "https://response.jp/article/2026/07/03/413532.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "「アーティシャンスピリッツ」製品装着の『LBX MORIZO RR』が、フォーミュラドリフトジャパン2026第3戦でベスト8進出",
-        "url": "https://response.jp/article/2026/07/02/413519.html"
+        "time": "2026.7.3",
+        "title": "【Road to the Star：Lap 2】 富士24時間レースが映し出すそれぞれの役割、己との戦いの先に見えた新しい景色PR",
+        "url": "https://response.jp/article/2026/07/03/413540.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "NIPPON EXPRESS、SOMPOサステナビリティ・インデックスに15年連続選定",
-        "url": "https://response.jp/article/2026/07/02/413496.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "OKIエンジニアリング、自動車部品の耐食性試験規格対応の塩水腐食試験サービス開始",
-        "url": "https://response.jp/article/2026/07/02/413502.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.2",
-        "title": "Tennessee Judge Gets A Traffic Ticket. Then He Adjudicates Himself: ‘Are You Guilty?'",
-        "url": "https://www.motor1.com/news/800366/judge-adjudicates-traffic-ticket/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "イクリプス初のHDMI入力対応7型カーナビ、『AVN-RS01/RBS01』発売",
-        "url": "https://response.jp/article/2026/07/02/413508.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "カーボン素材採用で数量限定、オージーケーカブトの「GEOSYS」にプレミアムモデル『GEOSYS-R』登場",
-        "url": "https://response.jp/article/2026/07/02/413512.html"
+        "time": "2026.7.3",
+        "title": "【夏休み】ヤマハコミュニケーションプラザで謎解き！ 体験型イベント「謎とめぐる記憶の旅」開催へ",
+        "url": "https://response.jp/article/2026/07/03/413541.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "キャンプ場で効く大開口!! タント ファンクロスの両側スライドドアは荷物も子どももラクにする!!",
-        "url": "https://bestcarweb.jp/feature/column/1565378"
+        "time": "2026.7.3",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第799回",
+        "url": "https://bestcarweb.jp/feature/column/1561360"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "クルマのキレイを守る専門店「Smart+1・湘南平塚」、7月3日開業…スーパーオートバックスに併設",
-        "url": "https://response.jp/article/2026/07/02/413517.html"
+        "time": "2026.7.3",
+        "title": "BMW工場にヒューマノイド「Figure 03」導入…フィジカルAIで全身協調制御",
+        "url": "https://response.jp/article/2026/07/03/413538.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "サンケイビル、埼玉県川口市に物流施設着工…2028年1月竣工予定",
-        "url": "https://response.jp/article/2026/07/02/413503.html"
+        "time": "2026.7.3",
+        "title": "NTTモビリティが「自動運転安全管理委員会」設立---事故事例の分析から演習計画まで",
+        "url": "https://response.jp/article/2026/07/03/413534.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "サンシェードしても車内50度ってマジか…真夏の駐車で絶対やるべき熱対策と置きっぱなしNGなモノ",
-        "url": "https://bestcarweb.jp/feature/column/1557602"
+        "time": "2026.7.3",
+        "title": "アクア一択じゃない!? ノートの力強さかフィットの広さか！ 今選びたいコンパクトハイブリッド比較",
+        "url": "https://bestcarweb.jp/feature/column/1550371"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "スバル『レヴォーグ レイバック』、ストロングハイブリッド「e-BOXER」発表…424万6000円から",
-        "url": "https://response.jp/article/2026/07/02/413501.html"
+        "time": "2026.7.3",
+        "title": "アンリツ、英Aim-TTi Holdings株式20%取得で持分法適用関連会社に…自動車などの分野拡大へ",
+        "url": "https://response.jp/article/2026/07/03/413535.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.2",
-        "title": "セレナ オーテックラインは買いか？ 2025年改良で加わった“見た目で選べる”新仕様",
-        "url": "https://bestcarweb.jp/feature/column/1564038"
+        "time": "2026.7.3",
+        "title": "ヴォクシーはアルファード未満で満足できる？ 大きすぎない上級感を狙う人の現実解",
+        "url": "https://bestcarweb.jp/feature/column/1560989"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.3",
+        "title": "えええ、新型パジェロS-AWC付くの!? 三菱本気すぎるマジで!!!!",
+        "url": "https://bestcarweb.jp/newcar/1567088"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.2",
-        "title": "ダイナミックマップ、米自動運転コンテストに公式サプライヤーとして参加…高精度3次元データ提供",
-        "url": "https://response.jp/article/2026/07/02/413513.html"
+        "time": "2026.7.3",
+        "title": "カワサキ『Z900RS CAFE』2027年モデルは「キャンディトーンレッド」、価格は154万円",
+        "url": "https://response.jp/article/2026/07/03/413543.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "スズキ、インドで「スマート・メンテナンス・プラン」導入…最大10年・10万kmをカバー",
+        "url": "https://response.jp/article/2026/07/03/413529.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "スズキ『カプチーノ』復活の可能性！…軽規格を維持、FRレイアウトも継承か",
+        "url": "https://response.jp/article/2026/07/03/413525.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.3",
+        "title": "タフトのスカイフィールトップは飽きない装備か？ 軽SUV唯一級の開放感を再評価",
+        "url": "https://bestcarweb.jp/feature/column/1561098"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.3",
+        "title": "ドライバーの「見えやすさ」極めた噂のドライビングサングラス 7月6日から「再入荷第2弾販売」開始!!",
+        "url": "https://bestcarweb.jp/news/car-accessory/1568008"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "ピレリの新スタッドレス『アイス・ゼロ・アシンメトリコ 2』発売 氷上ブレーキング4.5％向上、全48サイズ展開",
+        "url": "https://response.jp/article/2026/07/03/413539.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "フィアットのミニバン『ドブロ』、日本専用ブルーまとう「オチェアーノ」は80台限定…451万円",
+        "url": "https://response.jp/article/2026/07/02/413514.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "ベトナムで排ガス規制、日本メーカーの動向は？…今週のビジネス記事ランキング",
+        "url": "https://response.jp/article/2026/07/03/413527.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.3",
+        "title": "まさかの大逆転劇!! スズキが国内販売2位になれた秘密とは？ ホンダ超えを実現した5つの要因を解説",
+        "url": "https://bestcarweb.jp/feature/column/1549610"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.3",
+        "title": "ランドローバー『ディスカバリー』、2027年モデルは1033万円から…「ランドマーク エディション」も40台限定導入",
+        "url": "https://response.jp/article/2026/07/03/413523.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28602226511",
-    "sha": "b40fdeedbb869d07d635225e1fd2d6b2a8491dc6",
-    "completed_at": "2026-07-02T15:35:47.044Z",
+    "run_id": "28637659373",
+    "sha": "1227f3cd55f6fd752ecda3e97a456c7877855045",
+    "completed_at": "2026-07-03T04:07:15.726Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 29,
-    "queued_articles": 29,
-    "processed": 29,
-    "started_at": "2026-07-02T15:34:37.586Z",
-    "finished_at": "2026-07-02T15:35:46.782Z",
+    "scoped_articles": 36,
+    "queued_articles": 36,
+    "processed": 36,
+    "started_at": "2026-07-03T04:06:03.571Z",
+    "finished_at": "2026-07-03T04:07:15.448Z",
     "success": true,
     "error": ""
   }
