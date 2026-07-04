@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-03T15:28:06.347Z",
+    "generated_at": "2026-07-04T03:59:28.931Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 372,
-    "deepseek_untranslated_before_run": 28,
-    "newly_fetched_articles": 28,
-    "newly_fetched_untranslated": 28,
+    "deepseek_translated_before_run": 378,
+    "deepseek_untranslated_before_run": 22,
+    "newly_fetched_articles": 22,
+    "newly_fetched_untranslated": 22,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 28,
+    "translation_queue_count": 22,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.3",
-        "title": "Womp Womp: Verstappen Says LEGO F1 Parade Makes Drivers Look Like ‘Kids and Clowns’",
-        "url": "https://www.thedrive.com/news/womp-womp-verstappen-says-lego-f1-parade-makes-drivers-look-like-kids-and-clowns"
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "「MOMO」50周年記念ステアリングが進化、『GT50 2.0』『GT50 2.0ブラックエディション』7月21日発売",
+        "url": "https://response.jp/article/2026/07/04/413574.html"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.3",
-        "title": "2026 Mercedes-AMG E53 Hybrid Wagon Quick Review: A Bit Mild, a Bit Wild, But Mostly Confusing",
-        "url": "https://www.thedrive.com/car-reviews/2026-mercedes-amg-e53-hybrid-wagon-quick-review-a-bit-mild-a-bit-wild-but-mostly-confusing"
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "「転生したらNSXだった件」初代ホンダNSXベースのスーパーカー、北米販売決定でSNS大興奮！「日本でも売って」の声も",
+        "url": "https://response.jp/article/2026/07/04/413580.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "『初音ミク キャンバス』専用アクセサリー拡充！ インテリア・エクステリアセットなど続々発売",
+        "url": "https://response.jp/article/2026/07/04/413576.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "【CARTUNE】今週の投稿お題は「梅雨だしみんなでワイパーまつり」！ おすすめのワイパー選びと最新トレンドを投稿でチェック！",
+        "url": "https://response.jp/article/2026/07/04/413575.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第800回",
+        "url": "https://bestcarweb.jp/feature/column/1561361"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "いすゞの商用電動車開発の中核拠点が稼働開始！ 2030年以降の普及期を見据え競争力を強化",
+        "url": "https://bestcarweb.jp/fullload/1568610"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "ウェイモが完全自動運転で3億5000万kmを達成---重傷・死亡事故は94％減",
+        "url": "https://response.jp/article/2026/07/04/413570.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "カワサキ、250ccスーパースポーツ『Ninja ZX-25R SE』と『Ninja ZX-25RR』2027年モデル発売へ",
+        "url": "https://response.jp/article/2026/07/04/413578.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "ダイハツにも本格SUVが!? タフト・ラガー・ロッキーはガチ四駆だった！ 知る人ぞ知る硬派モデルを振り返る",
+        "url": "https://bestcarweb.jp/feature/column/1549523"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "トヨタ『ライズ』次期型はRAV4デザインか⁉…6月のスクープ記事ベスト5",
+        "url": "https://response.jp/article/2026/07/04/413581.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "トヨタ公認、「ハイエース型ふせんホルダー」予約販売開始…実車を1/64スケールで再現",
+        "url": "https://response.jp/article/2026/07/03/413562.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "トライアンフ千葉湾岸、開設準備室を開設…JR本千葉駅近くに",
+        "url": "https://response.jp/article/2026/07/04/413572.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "ムーヴ キャンバスの置きラクボックスは本当に便利？ 買い物帰りに効く収納アイデアをチェック",
+        "url": "https://bestcarweb.jp/feature/column/1563589"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "もう絶滅寸前!? CセグメントでMTを選べる貴重な1台！ マツダ3 ファストバックの魅力",
+        "url": "https://bestcarweb.jp/feature/column/1551088"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "ラリーへの挑戦は社会人基礎力を鍛える絶好の機会!? 横浜ゴム社員がラリチャレで直面した現実",
+        "url": "https://bestcarweb.jp/news/motorsport/1568002"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.4",
+        "title": "Woman Gets In Her Car To Run Errands. Then Something Crawls Across Her Foot: ‘I Am Disturbed On So Many Levels’",
+        "url": "https://www.motor1.com/news/800612/gmc-rat-under-hood/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.3",
-        "title": "Mercedes Has 10 New Models Coming In 2026. Here's All Of Them",
-        "url": "https://www.motor1.com/news/800235/new-mercedes-models-2026/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.3",
-        "title": "This Peak Lamborghini Diablo Is One-of-80, and It’s Going to Auction",
-        "url": "https://www.thedrive.com/news/this-peak-lamborghini-diablo-is-one-of-80-and-its-going-to-auction"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "「サブウーファー」の“音割れ”は絶対NG！ その防止法を公開［低音を制する者はカーオーディオを制す］",
-        "url": "https://response.jp/article/2026/07/03/413566.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "「公共交通オープンデータチャレンジ2026」、地域交通の課題解決アプリ募集…国土交通省",
-        "url": "https://response.jp/article/2026/07/03/413555.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.3",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「OTA」",
-        "url": "https://bestcarweb.jp/feature/column/1553737"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "2026年上期新車販売は前年比101.8％",
-        "url": "https://response.jp/article/2026/07/03/413561.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "AIサクセスコンサルが24時間365日支援、「プロプラン」開始…cars MANAGER",
-        "url": "https://response.jp/article/2026/07/03/413553.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "AUTO IN青森中央店、7月4日オープン…青森県に初出店",
-        "url": "https://response.jp/article/2026/07/03/413567.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "BMW『X5』新型に初のEV『iX5』、第6世代「eDrive」で航続最大845km実現…460kW急速充電にも対応",
-        "url": "https://response.jp/article/2026/07/03/413548.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.3",
-        "title": "GR86ではなくむしろBRZを選ぶ選択肢!? 理想は大幅改良後だがねらい目は初期か",
-        "url": "https://bestcarweb.jp/feature/column/1564435"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.3",
-        "title": "How America’s Policy Whiplash Derailed The EV Transition",
-        "url": "https://insideevs.com/news/800503/us-ev-sales-2030-bnef/"
+        "title": "Man Puts Pennzoil Into His Sister’s Ford. Then He Sees What Comes Out Of The Pennzoil Container: 'You Should See 0W-8'",
+        "url": "https://www.motor1.com/news/800588/is-clear-pennzoil-bad/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.3",
-        "title": "Man Owns Viral Auto Shop. Then He Goes Viral For Another Reason—His Interaction With This Single Mother: 'People Cannot Believe'",
-        "url": "https://www.motor1.com/news/800502/royalty-auto-service-helps-single-mom/"
+        "title": "Ferrari's New 'Manual' Isn't What You Think. Here's How It Works",
+        "url": "https://www.motor1.com/news/800497/how-does-ferraris-manual-transmission-work/"
       },
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.7.3",
-        "title": "N-BOX強すぎる!! 登録車を含めても5年連続日本一を達成！ 軽販売11連覇の理由とは",
-        "url": "https://bestcarweb.jp/feature/column/1551496"
+        "title": "2027 Ferrari 12Cilindri Manuale Brings the Stick-Shift Back to Maranello—Kind Of",
+        "url": "https://www.thedrive.com/news/2027-ferrari-12cilindri-manuale-brings-the-stick-shift-back-to-maranello-kind-of"
       },
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.7.3",
-        "title": "TOYOTA Walletのミニアプリ機能「EV充電サービス」、プラゴ充電器が利用可能に",
-        "url": "https://response.jp/article/2026/07/03/413568.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "インドネシアで路線バスドライバーを事前育成、3eeeと網走バスが国際連携モデルを推進",
-        "url": "https://response.jp/article/2026/07/03/413563.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.3",
-        "title": "ジープ・プジョー・シトロエン・フィアット・アバルト、日本最多5ブランド集結「ブランドハウス」を東京・足立に開業…7月25日",
-        "url": "https://response.jp/article/2026/07/03/413565.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.3",
-        "title": "シビックe:HEV RSのHonda S+ Shiftって何だ？ “変速するハイブリッド感”の正体",
-        "url": "https://bestcarweb.jp/feature/column/1563648"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.3",
-        "title": "ジムニーの横開きゲートを電動化!! 荷物の出し入れが激進化!!",
-        "url": "https://bestcarweb.jp/news/1561038"
+        "title": "Ferrari Finally Brought Back The Manual—Sort Of",
+        "url": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28669834180",
-    "sha": "14ba024d70c3e0cf19bca6206395c873f83725e5",
-    "completed_at": "2026-07-03T15:29:09.714Z",
+    "run_id": "28694226993",
+    "sha": "ab3e2a9d31bf527563b0ba8877ee9720828a93a6",
+    "completed_at": "2026-07-04T04:00:16.275Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 28,
-    "queued_articles": 28,
-    "processed": 28,
-    "started_at": "2026-07-03T15:28:06.663Z",
-    "finished_at": "2026-07-03T15:29:09.439Z",
+    "scoped_articles": 22,
+    "queued_articles": 22,
+    "processed": 22,
+    "started_at": "2026-07-04T03:59:29.256Z",
+    "finished_at": "2026-07-04T04:00:16.011Z",
     "success": true,
     "error": ""
   }
