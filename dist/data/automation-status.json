@@ -1,145 +1,133 @@
 {
   "workflow": {
-    "generated_at": "2026-07-04T03:59:28.931Z",
+    "generated_at": "2026-07-04T14:46:26.347Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 378,
-    "deepseek_untranslated_before_run": 22,
-    "newly_fetched_articles": 22,
-    "newly_fetched_untranslated": 22,
+    "deepseek_translated_before_run": 382,
+    "deepseek_untranslated_before_run": 18,
+    "newly_fetched_articles": 18,
+    "newly_fetched_untranslated": 18,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 22,
+    "translation_queue_count": 18,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "「MOMO」50周年記念ステアリングが進化、『GT50 2.0』『GT50 2.0ブラックエディション』7月21日発売",
-        "url": "https://response.jp/article/2026/07/04/413574.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "「転生したらNSXだった件」初代ホンダNSXベースのスーパーカー、北米販売決定でSNS大興奮！「日本でも売って」の声も",
-        "url": "https://response.jp/article/2026/07/04/413580.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "『初音ミク キャンバス』専用アクセサリー拡充！ インテリア・エクステリアセットなど続々発売",
-        "url": "https://response.jp/article/2026/07/04/413576.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "【CARTUNE】今週の投稿お題は「梅雨だしみんなでワイパーまつり」！ おすすめのワイパー選びと最新トレンドを投稿でチェック！",
-        "url": "https://response.jp/article/2026/07/04/413575.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第800回",
-        "url": "https://bestcarweb.jp/feature/column/1561361"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "いすゞの商用電動車開発の中核拠点が稼働開始！ 2030年以降の普及期を見据え競争力を強化",
-        "url": "https://bestcarweb.jp/fullload/1568610"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "ウェイモが完全自動運転で3億5000万kmを達成---重傷・死亡事故は94％減",
-        "url": "https://response.jp/article/2026/07/04/413570.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "カワサキ、250ccスーパースポーツ『Ninja ZX-25R SE』と『Ninja ZX-25RR』2027年モデル発売へ",
-        "url": "https://response.jp/article/2026/07/04/413578.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "ダイハツにも本格SUVが!? タフト・ラガー・ロッキーはガチ四駆だった！ 知る人ぞ知る硬派モデルを振り返る",
-        "url": "https://bestcarweb.jp/feature/column/1549523"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "トヨタ『ライズ』次期型はRAV4デザインか⁉…6月のスクープ記事ベスト5",
-        "url": "https://response.jp/article/2026/07/04/413581.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "トヨタ公認、「ハイエース型ふせんホルダー」予約販売開始…実車を1/64スケールで再現",
-        "url": "https://response.jp/article/2026/07/03/413562.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "トライアンフ千葉湾岸、開設準備室を開設…JR本千葉駅近くに",
-        "url": "https://response.jp/article/2026/07/04/413572.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "ムーヴ キャンバスの置きラクボックスは本当に便利？ 買い物帰りに効く収納アイデアをチェック",
-        "url": "https://bestcarweb.jp/feature/column/1563589"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "もう絶滅寸前!? CセグメントでMTを選べる貴重な1台！ マツダ3 ファストバックの魅力",
-        "url": "https://bestcarweb.jp/feature/column/1551088"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "ラリーへの挑戦は社会人基礎力を鍛える絶好の機会!? 横浜ゴム社員がラリチャレで直面した現実",
-        "url": "https://bestcarweb.jp/news/motorsport/1568002"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.4",
-        "title": "Woman Gets In Her Car To Run Errands. Then Something Crawls Across Her Foot: ‘I Am Disturbed On So Many Levels’",
-        "url": "https://www.motor1.com/news/800612/gmc-rat-under-hood/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.3",
-        "title": "Man Puts Pennzoil Into His Sister’s Ford. Then He Sees What Comes Out Of The Pennzoil Container: 'You Should See 0W-8'",
-        "url": "https://www.motor1.com/news/800588/is-clear-pennzoil-bad/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.3",
-        "title": "Ferrari's New 'Manual' Isn't What You Think. Here's How It Works",
-        "url": "https://www.motor1.com/news/800497/how-does-ferraris-manual-transmission-work/"
-      },
-      {
         "source": "The Drive",
-        "time": "2026.7.3",
-        "title": "2027 Ferrari 12Cilindri Manuale Brings the Stick-Shift Back to Maranello—Kind Of",
-        "url": "https://www.thedrive.com/news/2027-ferrari-12cilindri-manuale-brings-the-stick-shift-back-to-maranello-kind-of"
+        "time": "2026.7.4",
+        "title": "Dealers Are Asking More for New Cars Than Ever, and Sedans Have Gone Up the Most",
+        "url": "https://www.thedrive.com/news/dealers-are-asking-more-for-new-cars-than-ever-and-sedans-have-gone-up-the-most"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.4",
+        "title": "Woman Tries To Get Tesla Rebate. Then A Worker Steps In And Ruins It: 'I'll Never Buy From Tesla Again'",
+        "url": "https://www.motor1.com/news/800621/tesla-wrong-vin-title/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "「毎年1秒速くなる」スズキが鈴鹿8耐で挑む“カーボンニュートラルの勝利”",
+        "url": "https://response.jp/article/2026/07/04/413588.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "『GRスープラ』やBMW、アルピナ向けOBD2接続型エキゾーストバルブコントローラー「MotorCom」発売",
+        "url": "https://response.jp/article/2026/07/04/413589.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "【日産 リーフ B7 新型試乗】初代リーフのトラウマを、最新モデルで晴らす…中村孝仁",
+        "url": "https://response.jp/article/2026/07/04/413586.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "MOMO、新レーシングシューズ『SPEED PRO』と6点式シートベルト『PRO RACING 6P』が7月15日発売",
+        "url": "https://response.jp/article/2026/07/04/413585.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.4",
+        "title": "Woman Pulls Into The Express Lane. Then She Realizes There's No Way Out: ‘I Did This And My AC Stopped Working’",
+        "url": "https://www.motor1.com/news/800620/driving-over-express-lane-dividers/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "アテンザを高音質オーディオカー化、トランクスルーに凝縮した寺崎さんのシステム構築［Pro Shop インストール・レビュー］by サウンドステーション SUBLIME 前編",
+        "url": "https://response.jp/article/2026/07/04/413590.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "カワサキプラザレンタル、予約サイトをリニューアル…検索・予約がよりスムーズに",
+        "url": "https://response.jp/article/2026/07/04/413583.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.4",
+        "title": "カワサキプラザ山口、リニューアルオープン…ウッディで明るい店内に一新",
+        "url": "https://response.jp/article/2026/07/04/413592.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "ライズはヤリスクロスより扱いやすい？ 5ナンバー幅と小回りで選ぶ街乗りSUV",
+        "url": "https://bestcarweb.jp/news/1556724"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "新井大輝選手が鬼門のヨーロッパラリー選手権ローマラウンドに3度目の挑戦!! 格安レンタカーを借りたらまさかの20分でエンジン停止!?",
+        "url": "https://bestcarweb.jp/news/motorsport/1569333"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "日産が大変身へ!! クルマはここまで進化する!? 新型エクストレイルとスカイライン戦略を発表",
+        "url": "https://bestcarweb.jp/feature/column/1549545"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.4",
+        "title": "日野自動車のニューセレガに乗ってきたぞ!! 安全装置の実体験で細部にまで徹底された安心を実感!!",
+        "url": "https://bestcarweb.jp/busmagazine/1562898"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.4",
+        "title": "Woman Buys Car Through Carvana Despite What She Heard. Then They Call Her On The Phone: ‘Carfax Was Literally Perfect’",
+        "url": "https://www.motor1.com/news/800608/carvana-pros-and-cons/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.3",
-        "title": "Ferrari Finally Brought Back The Manual—Sort Of",
-        "url": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/"
+        "title": "Woman Gets Her BMW’s Oil Changed. 48 Hours Later, She Needs A New Car: 'Please Explain To Me'",
+        "url": "https://www.motor1.com/news/800506/bmw-oil-change/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.3",
+        "title": "Man Owns Viral Auto Shop. Then He Goes Viral For Another Reason—His Interaction With This Single Mother: 'NOT What I Expected'",
+        "url": "https://www.motor1.com/news/800502/royalty-auto-service/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.3",
+        "title": "Customer Shops At Kia Because He Needs An Affordable Car. Then He Learns How Much The Cheapest Kia Actually Costs",
+        "url": "https://www.motor1.com/news/800501/kia-dealership-cheapest-car/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 22,
-    "queued_articles": 22,
-    "processed": 22,
-    "started_at": "2026-07-04T03:59:29.256Z",
-    "finished_at": "2026-07-04T04:00:16.011Z",
+    "scoped_articles": 18,
+    "queued_articles": 18,
+    "processed": 18,
+    "started_at": "2026-07-04T14:46:26.659Z",
+    "finished_at": "2026-07-04T14:47:07.741Z",
     "success": true,
     "error": ""
   }

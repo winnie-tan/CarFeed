@@ -61771,5 +61771,425 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-04T04:00:15.997Z"
+  },
+  "https://www.motor1.com/news/800621/tesla-wrong-vin-title/": {
+    "title_zh": "女子购特斯拉遭遇 VIN 错误，发誓不再购买",
+    "summary_short": "一名女子全款购买特斯拉，因经销商将 VIN 码弄错，导致无法注册和保险，她发誓不再购买特斯拉。",
+    "summary_long": "一名女子全款购买特斯拉，为了获得退税，她需要在购车当天午夜前将车开走。然而，经销商迟迟未准备好车辆，最终还发现车辆文件上的 VIN 码错误，导致她无法注册和保险。她因此发誓再也不买特斯拉。",
+    "highlights_zh": [
+      "全款购车后 VIN 码被弄错",
+      "为获退税需当天提车",
+      "经销商拖延交付",
+      "女子发誓不再购买特斯拉"
+    ],
+    "entities": [
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJmNr/s1/woman-says-buying-a-tesla-was-a-terrible-mistake.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:30.278Z"
+  },
+  "https://www.thedrive.com/news/dealers-are-asking-more-for-new-cars-than-ever-and-sedans-have-gone-up-the-most": {
+    "title_zh": "经销商新车标价创历史新高，轿车涨幅最大",
+    "summary_short": "6 月新车平均标价达 51,974 美元，打破近三年纪录，紧凑型轿车涨幅最大达 12%。",
+    "summary_long": "据《汽车新闻》报道，6 月 30 日新车平均标价达到 51,974 美元，打破了 2023 年 7 月 7 日创下的 51,820 美元纪录。这一价格是经销商广告中的标价（含折扣），而非制造商建议零售价。数据涵盖 133 个车型，不包括特斯拉、Lucid 和 Rivian 等直营品牌。紧凑型轿车涨幅最大，同比上涨 12%（2,869 美元），可能因消费者寻求更实惠车型。",
+    "highlights_zh": [
+      "6 月新车平均标价 51",
+      "紧凑型轿车标价同比上涨 12%",
+      "数据涵盖 133 个车型",
+      "标价较去年同期上涨 4.9%"
+    ],
+    "entities": [
+      "The Drive",
+      "Automotive News",
+      "特斯拉 | Tesla",
+      "Lucid",
+      "Rivian"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/01/car-dealer-hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/content-b/message-editor/1645891118298-2022hondacivicsiexterior1.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/03/Kia-Telluride-Hybrid-Seats-Hero-1-1.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:30.674Z"
+  },
+  "https://response.jp/article/2026/07/04/413588.html": {
+    "title_zh": "铃鹿 8 耐：铃木“碳中和挑战”第三年，目标领奖台",
+    "summary_short": "铃木以新款 GSX-R1000R 为基础，使用 100%可持续燃料等环保材料，目标在铃鹿 8 耐中争夺领奖台。",
+    "summary_long": "铃木以“Team Suzuki CN Challenge”名义连续第三年参加铃鹿 8 耐，使用 100%可持续燃料、再生钛排气管、亚麻纤维外壳等环保材料，并首次采用“生态无纺布碳纤维”油箱盖。2025 年因摔车仅获第 33 名，但圈速与领先集团相当。今年基于新款 GSX-R1000R 打造赛车，目标直指领奖台。铃木通过赛事验证环保技术，2025 年已实现 CO₂减排约 18%、减重约 2 吨，旨在推动未来车辆开发和赛事可持续发展。",
+    "highlights_zh": [
+      "基于新款 GSX-R1000R 打造赛车",
+      "100%可持续燃料与再生钛排气管",
+      "2025 年因摔车仅获 33 名",
+      "目标直指领奖台"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "GSX-R1000R",
+      "铃鹿 8 耐",
+      "碳中和挑战",
+      "可持续燃料"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224609.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224609.jpg",
+      "https://response.jp/imgs/fill2/2224593.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:35.593Z"
+  },
+  "https://response.jp/article/2026/07/04/413589.html": {
+    "title_zh": "GR Supra、BMW、ALPINA 用 OBD2 排气阀门控制器 MotorCom 上市",
+    "summary_short": "Yunost Trading 推出 OBD2 连接型排气阀门控制器 MotorCom，支持 BMW、ALPINA 及 GR Supra 部分车型，无需复杂布线，通过手机 App 控制。",
+    "summary_long": "Yunost Trading 于 7 月 2 日开始在日本销售专为 BMW、ALPINA 和丰田 GR Supra 部分车型开发的 OBD2 连接型排气阀门控制器 MotorCom。该设备只需连接车辆 OBD2 端口即可使用，无需复杂布线或编码，通过专用智能手机应用可直观操作排气阀门的开闭模式。它还具备启动模式功能，可记忆发动机启动时的阀门模式，免去每次重新设置的麻烦。由于仅通过 OBD2 端口连接和拆卸，需要时可轻松恢复车辆原状。MotorCom 已获得日本技适认证，售价 34,800 日元，7 月 31 日前使用优惠券可享 29,800 日元。",
+    "highlights_zh": [
+      "OBD2 直连",
+      "手机 App 控制排气阀门开闭",
+      "记忆启动模式",
+      "支持 BMW、ALPINA、GR Supra 部分车…"
+    ],
+    "entities": [
+      "Yunost Trading",
+      "BMW",
+      "阿尔宾娜",
+      "GR スープラ",
+      "MotorCom"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224439.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224439.jpg",
+      "https://response.jp/imgs/fill2/2224441.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:35.987Z"
+  },
+  "https://response.jp/article/2026/07/04/413586.html": {
+    "title_zh": "日产 Leaf B7 新款试驾：用最新车型消除初代 Leaf 的创伤",
+    "summary_short": "作者曾因初代 Leaf 续航焦虑留下心理阴影，如今试驾最新 Leaf B7，体验其续航与充电进步，彻底消除对电动车的恐惧。",
+    "summary_long": "作者在 2009 年首次试驾初代日产 Leaf，当时标称续航 200km，实际仅约 160km，且一次急加速后剩余续航骤降至 90km，导致其对电动车产生严重不信任。15 年后，作者再次试驾最新 Leaf B7，发现续航大幅提升，充电基础设施也显著改善，最终完全消除了当年的心理创伤。",
+    "highlights_zh": [
+      "初代 Leaf 实际续航仅 160km",
+      "作者因此对电动车产生长达 15 年的心理阴影",
+      "最新 Leaf B7 续航与充电设施大幅改善",
+      "试驾后彻底消除对电动车的恐惧"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "リーフ",
+      "Leaf B7",
+      "GM EV1"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2222844.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2222844.jpg",
+      "https://response.jp/imgs/fill2/2224417.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:40.128Z"
+  },
+  "https://response.jp/article/2026/07/04/413585.html": {
+    "title_zh": "MOMO 发布新款赛车鞋 SPEED PRO 和 6 点式安全带 PRO RACING 6P",
+    "summary_short": "MOMO 推出仅重 200 克的赛车鞋 SPEED PRO 和全新 6 点式安全带 PRO RACING 6P，均获 FIA 认证，7 月 15 日发售。",
+    "summary_long": "MOMO 品牌总经销商 Rare's 宣布，将于 7 月 15 日发售新款赛车鞋 SPEED PRO 和 6 点式安全带 PRO RACING 6P。SPEED PRO 采用阻燃面料和袋鼠皮补强，重量仅 200 克，比现款 CORSA LITE 轻约 30%，配备超薄轻量橡胶鞋底，通过耐久测试，符合 FIA 8856-2018 标准。PRO RACING 6P 为 2 英寸宽 6 点式安全带，采用新设计的铝制调节器，兼容 FHR 系统，符合 FIA 8853-2016 标准，新增蓝色选项。两款产品均为意大利制造。",
+    "highlights_zh": [
+      "SPEED PRO 仅重 200 克",
+      "采用阻燃面料与袋鼠皮补强",
+      "PRO RACING 6P 兼容 FHR 系统",
+      "均获 FIA 认证"
+    ],
+    "entities": [
+      "MOMO",
+      "SPEED PRO",
+      "PRO RACING 6P",
+      "CORSA LITE",
+      "FIA"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224363.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224363.jpg",
+      "https://response.jp/imgs/fill2/2224362.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:41.428Z"
+  },
+  "https://www.motor1.com/news/800620/driving-over-express-lane-dividers/": {
+    "title_zh": "女司机强闯快速路隔离桩，网友戏称像 GTA",
+    "summary_short": "佛罗里达女司机为驶出快速路，直接碾压塑料隔离桩，引发网友热议，并质疑此举是否损坏车辆。",
+    "summary_long": "一段 TikTok 视频显示，佛罗里达一名女司机为驶出快速路，直接碾压分隔快速路与普通车道的塑料隔离桩。车辆底盘传来撞击声，但司机和继女不以为意，反而大笑。视频引发网友热议，有人戏称此举像《侠盗猎车手》游戏，也有人质疑隔离桩是否会对车辆造成损坏。",
+    "highlights_zh": [
+      "女司机碾压快速路隔离桩",
+      "底盘撞击声引发热议",
+      "网友戏称像 GTA 游戏",
+      "隔离桩是否损坏车辆成焦点"
+    ],
+    "entities": [
+      "佛罗里达",
+      "TikTok",
+      "侠盗猎车手"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGWLJ/s1/florida-woman-realizes-she-s-in-the-express-lane.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:43.865Z"
+  },
+  "https://response.jp/article/2026/07/04/413590.html": {
+    "title_zh": "马自达 Atenza 高音质音响改装：利用后备箱通道的紧凑系统构建",
+    "summary_short": "寺崎先生将马自达 Atenza 改装为高音质音响车，巧妙利用后备箱通道空间，安装 DSP 功放和双低音炮，实现紧凑高效的系统布局。",
+    "summary_long": "资深音响爱好者寺崎先生选择马自达 Atenza 作为新音响改装车，在群马县的 Sound Station SUBLIME 进行安装。改装核心是利用后排座椅放倒后的后备箱通道空间，紧凑安装 DSP 功放和两台功率放大器。后备箱侧安装双低音炮箱体，同时保留后部储物空间。由于通道空间有限，功放架采用双层结构：上层安装 Helix P-SIX DSP ULTIMATE 驱动前声场，两侧配备 Brax 电容强化电源；下层安装两台 Carrozzeria PRS-D700 驱动低音炮，充分利用其紧凑机身实现高效布局。",
+    "highlights_zh": [
+      "利用后备箱通道空间安装功放",
+      "双层功放架：上层 DSP 功放",
+      "双低音炮箱体保留后部储物空间",
+      "Helix DSP 与 Carrozzeria 功放…"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "アテンザ",
+      "Helix",
+      "Carrozzeria",
+      "Brax"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2223592.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2223592.jpg",
+      "https://response.jp/imgs/fill2/2223593.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:46.965Z"
+  },
+  "https://response.jp/article/2026/07/04/413583.html": {
+    "title_zh": "川崎摩托车租赁预约网站改版，搜索与预约更顺畅",
+    "summary_short": "川崎日本对全国川崎广场的摩托车租赁预约网站进行改版，优化搜索与预约流程，提升用户体验。",
+    "summary_long": "川崎摩托车日本公司于 7 月 3 日对全国川崎广场推出的“川崎广场租赁”预约网站进行了改版。此次改版重新设计了网站结构和用户引导流程，使租赁车辆和店铺的搜索更加便捷，支持用户根据多样化需求选择车型。该租赁服务提供最新款川崎摩托车的轻松体验，可用于旅行、购车前对比试驾或旅途代步。目前全国共有 96 家川崎广场门店。",
+    "highlights_zh": [
+      "预约网站改版",
+      "支持最新款川崎摩托车租赁体验",
+      "全国 96 家川崎广场门店提供服务"
+    ],
+    "entities": [
+      "川崎摩托车 | Kawasaki",
+      "川崎广场 | Kawasaki Plaza",
+      "川崎广场租赁 | Kawasaki Plaza Rental",
+      "预约网站"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224437.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224437.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:47.870Z"
+  },
+  "https://response.jp/article/2026/07/04/413592.html": {
+    "title_zh": "川崎 Plaza 山口店翻新开业，木质明亮空间焕然一新",
+    "summary_short": "川崎 Plaza 山口店翻新开业，木质明亮空间展示摩托车与服饰，打造舒适购车体验。",
+    "summary_long": "川崎摩托车日本公司宣布，位于山口市的“川崎 Plaza 山口”店于 7 月 2 日翻新开业。该店靠近 JR 新山口站，是山口县唯一的川崎 Plaza，旨在提供安全、安心的摩托车生活。店内采用木纹地板与白色天花板，营造明亮空间，摩托车与服饰陈列宽敞。特色展示区以光框环绕待售摩托车，营造静谧沉睡的意象；服饰与配件则置于岛式展台，方便顾客亲手触摸。",
+    "highlights_zh": [
+      "川崎 Plaza 山口店翻新开业",
+      "木质明亮店内空间",
+      "摩托车与服饰宽敞陈列",
+      "光框展示营造静谧意象"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "川崎 Plaza 山口",
+      "JR 新山口站"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224447.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224447.jpg",
+      "https://response.jp/imgs/fill2/2224448.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:51.237Z"
+  },
+  "https://bestcarweb.jp/news/1556724": {
+    "title_zh": "丰田 Raize vs Yaris Cross：城市 SUV 的尺寸与灵活性对决",
+    "summary_short": "丰田 Raize 凭借 5 号牌宽度和更小转弯半径，在城市驾驶中比 Yaris Cross 更易操控，且价格更低。",
+    "summary_long": "丰田 Raize 和 Yaris Cross 是两款热门小型 SUV。虽然 Yaris Cross 在燃油经济性和先进配置上占优，但 Raize 凭借更紧凑的车身尺寸（车宽 1695mm，车长 3995mm）和更小的转弯半径（4.9-5.0 米），在日常城市驾驶中更灵活，尤其适合狭窄街道和停车场。此外，Raize 的起售价（约 180 万日元）比 Yaris Cross（约 212 万日元）低约 32 万日元，性价比突出。对于追求易用性和经济性的城市用户，Raize 是更务实的选择。",
+    "highlights_zh": [
+      "Raize 车宽 1695mm",
+      "转弯半径 4.9-5.0 米",
+      "起售价低约 32 万日元",
+      "城市驾驶中"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Raize",
+      "Yaris Cross",
+      "小型 SUV",
+      "5 号牌"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23160210/8089e50294910c6cb163e5cb54ad137b-15.jpg?v=1782198131",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23160210/8089e50294910c6cb163e5cb54ad137b-15-600x400.jpg?v=1782198131",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30140708/00_used_roadsterND_head-600x400.jpg?v=1782796030"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:52.939Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1569333": {
+    "title_zh": "新井大辉第三次挑战欧洲拉力赛罗马站，租车 20 分钟就抛锚",
+    "summary_short": "全日本拉力冠军新井大辉第三次挑战欧洲拉力赛罗马站，此前两次均因爆胎或故障退赛，此次誓要零故障完赛。",
+    "summary_long": "全日本拉力冠军新井大辉将第三次参加 FIA 欧洲拉力锦标赛罗马站。前两次参赛分别因爆胎和发动机过热退赛，此次他誓言零故障完赛。抵达当地后，租用的廉价汽车仅 20 分钟就发动机熄火，为征程增添波折。",
+    "highlights_zh": [
+      "新井大辉第三次挑战欧洲拉力赛罗马站",
+      "前两次因爆胎和过热退赛",
+      "租车 20 分钟发动机停止",
+      "誓言零故障完赛"
+    ],
+    "entities": [
+      "新井大辉",
+      "FIA 欧洲拉力锦标赛 | FIA European Rally Championship",
+      "罗马站 | Rome Rally",
+      "全日本拉力锦标赛 | All Japan Rally Championship"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/04095648/8bbdae245e35cdb581dbf6744e140a9f.jpg?v=1783126609",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/04095648/8bbdae245e35cdb581dbf6744e140a9f-600x379.jpg?v=1783126609",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03103610/0fcc8a6bfc124c26dee03b5805227c91-600x400.jpg?v=1783042571"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:55.198Z"
+  },
+  "https://bestcarweb.jp/feature/column/1549545": {
+    "title_zh": "日产发布长期愿景：新一代 X-Trail 与 Skyline 战略曝光",
+    "summary_short": "日产公布长期愿景，计划将 AI 驾驶技术覆盖 90%车型，并推出新一代 X-Trail/Rogue e-POWER 和 Juke EV。",
+    "summary_long": "日产在 2026 年 4 月 14 日发布了以“移动智能化”为核心的长期愿景，计划将 AI 驾驶技术（AIDV）逐步推广至约 90%的车型。新一代 ProPILOT 将在 2027 年底前搭载于 Elgrand，实现端到端自动驾驶。同时，日产将优化产品组合至 45 款车型，并首次公开了新一代 X-Trail/Rogue e-POWER 和 Juke EV。",
+    "highlights_zh": [
+      "AI 驾驶技术将覆盖 90%车型",
+      "新一代 ProPILOT 实现端到端自动驾驶",
+      "推出 X-Trail/Rogue e-POWER 和…",
+      "产品组合优化至 45 款车型"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "エクストレイル",
+      "スカイライン",
+      "Juke EV",
+      "ProPILOT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/14191536/00_nissan-vision_IMG_3308_head.jpg?v=1781432137",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/14191536/00_nissan-vision_IMG_3308_head-600x400.jpg?v=1781432137",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23160210/8089e50294910c6cb163e5cb54ad137b-15-600x400.jpg?v=1782198131"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:46:56.779Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1562898": {
+    "title_zh": "日野全新大型巴士“新塞雷加”试乘体验：安全装置实测，细节处尽显安心",
+    "summary_short": "日野汽车发布新款塞雷加大型巴士，通过实测安全装置，体验时速 50 公里无刹车追尾等场景，展现全方位安全保障。",
+    "summary_long": "日野汽车于 2026 年 7 月 2 日向媒体公开了已发售的新型塞雷加（大型包车巴士）的详细信息。除了作为乘客试乘外，还特别体验了其安全装置，包括以时速 50 公里无刹车追尾前方车辆等场景。新车外观设计基于空气动力学优化，不仅提升高速油耗，还减轻驾驶员负担。安全方面新增毫米波雷达等设备，实现左转盲区、交叉路口、变道预警，并采用流体式缓速器辅助制动。此外，系统可识别道路标志并建议巡航限速，可变配光 LED 大灯则能主动照亮驾驶员需要确认的区域。",
+    "highlights_zh": [
+      "时速 50 公里无刹车追尾实测",
+      "新增左转盲区、交叉路口预警",
+      "流体式缓速器辅助制动",
+      "可变配光 LED 大灯主动照明"
+    ],
+    "entities": [
+      "日野",
+      "塞雷加",
+      "大型巴士",
+      "安全装置",
+      "毫米波雷达"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/03125244/1DX32309.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/26083535/southernmost_bsstps_tyo_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/22102115/DSC04405-1024x684.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:47:00.134Z"
+  },
+  "https://www.motor1.com/news/800608/carvana-pros-and-cons/": {
+    "title_zh": "女子不顾负面评价通过 Carvana 购车，称车况完美",
+    "summary_short": "一位女子通过 Carvana 购买斯巴鲁 Crosstrek，尽管听闻负面评价，但过程顺利，车况完美，令她惊喜。",
+    "summary_long": "一位 TikTok 用户 Hannah 通过 Carvana 购买了一辆二手斯巴鲁 Crosstrek。尽管此前听说过关于 Carvana 的负面评价，但她仍决定尝试。在等待交付时，她接到司机电话称车辆仅 30 分钟路程，且 Carfax 报告显示车况完美。整个购车过程让她感到惊喜和满意。",
+    "highlights_zh": [
+      "无视负面评价",
+      "Carfax 报告显示车况完美",
+      "交付过程顺利"
+    ],
+    "entities": [
+      "Carvana",
+      "斯巴鲁 | Subaru",
+      "Crosstrek",
+      "Carfax"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KlPN/s1/woman-buys-car-through-carvana.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:47:00.462Z"
+  },
+  "https://www.motor1.com/news/800502/royalty-auto-service/": {
+    "title_zh": "汽修店老板暖心帮助单亲妈妈走红网络",
+    "summary_short": "佐治亚州一家汽修店老板因慷慨帮助一位无力支付修车费用的单亲妈妈而再度走红，视频获数百万观看。",
+    "summary_long": "佐治亚州卡姆登的 Royalty Auto Service 汽修店老板 Sherwood Cooke Jr.因一段视频走红网络。视频中，他帮助了一位名叫 Annette Morales 的单亲妈妈，她购买了一辆二手车后出现故障，但无力承担高昂的维修费用。Cooke 不仅提供了诚实建议，还以超出预期的善意方式帮助了她。该视频在 TikTok 上获得超过 250 万次观看，引发广泛赞誉。",
+    "highlights_zh": [
+      "汽修店老板帮助单亲妈妈",
+      "视频观看量超 250 万",
+      "车主无力支付维修费",
+      "善意行为获广泛赞扬"
+    ],
+    "entities": [
+      "Royalty Auto Service",
+      "Sherwood Cooke Jr.",
+      "佐治亚州",
+      "单亲妈妈"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYx0g/s1/man-owns-viral-auto-shop.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:47:03.885Z"
+  },
+  "https://www.motor1.com/news/800506/bmw-oil-change/": {
+    "title_zh": "女子在非 4S 店换机油后发动机报废，宝马 X6 需换新车",
+    "summary_short": "女子将宝马 X6 送至 Tire South 换机油，48 小时后发动机因缺油抱死，需更换新车。",
+    "summary_long": "一位女子将她的宝马 X6 送到 Tire South 门店进行四轮定位，并顺便更换了机油。然而 48 小时后，发动机因缺油抱死，宝马官方诊断结果为机油不足导致。女子质疑 Tire South 的换油操作，但网友指出将豪华车送至非授权维修店是错误选择。",
+    "highlights_zh": [
+      "宝马 X6 换机油后发动机抱死",
+      "48 小时内从正常到报废",
+      "宝马诊断：缺油导致",
+      "网友：豪华车不应去非 4S 店"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 X6 | BMW X6",
+      "Tire South",
+      "发动机抱死",
+      "机油更换"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPbqG/s1/woman-gets-her-bmw-s-oil-changed.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:47:04.051Z"
+  },
+  "https://www.motor1.com/news/800501/kia-dealership-cheapest-car/": {
+    "title_zh": "顾客想买最便宜的起亚，结果发现价格远超预算",
+    "summary_short": "一位顾客因预算有限选择起亚，却发现最便宜的新车 K4 售价 2.5 万美元，远超其 2 万美元预算。",
+    "summary_long": "一位顾客因预算有限而选择起亚，希望以 2 万美元购买一辆新车。销售员泰勒告知，展厅中最便宜的新车是起亚 K4，售价 2.5 万美元。顾客听后直接离开。泰勒因未提供折扣而被经理训斥，此事引发关于月底购车更划算的讨论。",
+    "highlights_zh": [
+      "顾客预算 2 万美元",
+      "最便宜新车 K4 售价 2.5 万美元",
+      "销售员因未打折被经理训斥",
+      "月底购车可能更优惠"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "起亚 K4 | Kia K4"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8JgV/s1/car-saleswoman-gets-yelled-at.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-04T14:47:07.727Z"
   }
 }
