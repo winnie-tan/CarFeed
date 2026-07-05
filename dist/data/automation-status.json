@@ -1,6 +1,6 @@
 {
   "workflow": {
-    "generated_at": "2026-07-04T14:46:26.347Z",
+    "generated_at": "2026-07-05T04:18:09.593Z",
     "articles_in_feed": 400,
     "deepseek_translated_before_run": 382,
     "deepseek_untranslated_before_run": 18,
@@ -11,112 +11,112 @@
     "translation_queue_count": 18,
     "translation_queue_preview": [
       {
+        "source": "Response.jp",
+        "time": "2026.7.5",
+        "title": "「最高の相棒になりそう」トヨタの米国製SUV『ハイランダー』、待望の全国発売にSNSでは期待の声",
+        "url": "https://response.jp/article/2026/07/05/413597.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.5",
+        "title": "『ランドクルーザーFJ』でも同乗者のテレビ視聴とナビ操作が可能に、ブリッツの「テレビナビジャンパー」",
+        "url": "https://response.jp/article/2026/07/05/413598.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.5",
+        "title": "【へっぽこバスガイドの珍道中】バスガイドの朝は早すぎる……朝のドタバタ裏舞台をちょいとのぞき見!?",
+        "url": "https://bestcarweb.jp/busmagazine/1545053"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.5",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第801回",
+        "url": "https://bestcarweb.jp/feature/column/1561577"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.5",
+        "title": "3年7か月で89万台を販売！ トヨタの“願い”を形にした初代『カローラ』【懐かしのカーカタログ】",
+        "url": "https://response.jp/article/2026/07/05/413602.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.5",
+        "title": "e-POWERや直6ディーゼルが魅力！ ハリアーの代わりに選びたい納期が短いオススメSUVとは",
+        "url": "https://bestcarweb.jp/feature/column/1549670"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.5",
+        "title": "オープンカー最後の黄金期を振り返る…GTオープンからスーパースパイダーまで",
+        "url": "https://response.jp/article/2026/07/05/413596.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.5",
+        "title": "カワサキの400cc4気筒スポーツ『Ninja ZX-4R SE』『Ninja ZX-4RR』、2027年モデルが8月発売",
+        "url": "https://response.jp/article/2026/07/05/413599.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.5",
+        "title": "シビックRSはe:HEVとガソリンどっちが本命？ ハイブリッドか6速MTか悩ましすぎる選択",
+        "url": "https://bestcarweb.jp/newcar/1563618"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.5",
+        "title": "タフ感マシマシ！ 日産『キックス ROCK CREEK』が話題に…6月の口コミ記事ベスト5",
+        "url": "https://response.jp/article/2026/07/05/413603.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.5",
+        "title": "マツダスピードアクセラは100万円台で狙えるFFのじゃじゃ馬!? お手頃価格の一方でタマ数は超希少……",
+        "url": "https://bestcarweb.jp/feature/column/1564776"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.5",
+        "title": "日野自動車の古河工場が環境省「自然共生サイト」に認定！ ネイチャーポジティブに向けた取組を評価",
+        "url": "https://bestcarweb.jp/fullload/1567302"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.5",
+        "title": "現行ロードスターの中古が100万円台から狙えるチャンス!? 貴重なお手軽官能MT車の最新相場！",
+        "url": "https://bestcarweb.jp/feature/column/1564212"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.4",
+        "title": "Man Comes In With 400 Credit Score. Then The Salesman Shows What Kind Of Car He Can Actually Get: 'Only Way To Get Approved...'",
+        "url": "https://www.motor1.com/news/800630/400-credit-score-cars/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.4",
+        "title": "Woman Tows Rental Camper With Her GMC In 98-Degree Heat. Then Disaster Strikes: 'The Car Was Not Rated'",
+        "url": "https://www.motor1.com/news/800629/gmc-towing-98-degree-heat/"
+      },
+      {
         "source": "The Drive",
         "time": "2026.7.4",
-        "title": "Dealers Are Asking More for New Cars Than Ever, and Sedans Have Gone Up the Most",
-        "url": "https://www.thedrive.com/news/dealers-are-asking-more-for-new-cars-than-ever-and-sedans-have-gone-up-the-most"
+        "title": "Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exhaust",
+        "url": "https://www.thedrive.com/news/russian-engineering-madmen-create-turbo-style-alternator-driven-by-exhaust"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.4",
+        "title": "Pursue Life and Happiness With This Chopped-Top Jeep Liberty for Beater Car Money",
+        "url": "https://www.thedrive.com/news/pursue-life-and-happiness-with-this-chopped-top-jeep-liberty-for-beater-car-money"
       },
       {
         "source": "Motor1",
         "time": "2026.7.4",
-        "title": "Woman Tries To Get Tesla Rebate. Then A Worker Steps In And Ruins It: 'I'll Never Buy From Tesla Again'",
-        "url": "https://www.motor1.com/news/800621/tesla-wrong-vin-title/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "「毎年1秒速くなる」スズキが鈴鹿8耐で挑む“カーボンニュートラルの勝利”",
-        "url": "https://response.jp/article/2026/07/04/413588.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "『GRスープラ』やBMW、アルピナ向けOBD2接続型エキゾーストバルブコントローラー「MotorCom」発売",
-        "url": "https://response.jp/article/2026/07/04/413589.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "【日産 リーフ B7 新型試乗】初代リーフのトラウマを、最新モデルで晴らす…中村孝仁",
-        "url": "https://response.jp/article/2026/07/04/413586.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "MOMO、新レーシングシューズ『SPEED PRO』と6点式シートベルト『PRO RACING 6P』が7月15日発売",
-        "url": "https://response.jp/article/2026/07/04/413585.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.4",
-        "title": "Woman Pulls Into The Express Lane. Then She Realizes There's No Way Out: ‘I Did This And My AC Stopped Working’",
-        "url": "https://www.motor1.com/news/800620/driving-over-express-lane-dividers/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "アテンザを高音質オーディオカー化、トランクスルーに凝縮した寺崎さんのシステム構築［Pro Shop インストール・レビュー］by サウンドステーション SUBLIME 前編",
-        "url": "https://response.jp/article/2026/07/04/413590.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "カワサキプラザレンタル、予約サイトをリニューアル…検索・予約がよりスムーズに",
-        "url": "https://response.jp/article/2026/07/04/413583.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.4",
-        "title": "カワサキプラザ山口、リニューアルオープン…ウッディで明るい店内に一新",
-        "url": "https://response.jp/article/2026/07/04/413592.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "ライズはヤリスクロスより扱いやすい？ 5ナンバー幅と小回りで選ぶ街乗りSUV",
-        "url": "https://bestcarweb.jp/news/1556724"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "新井大輝選手が鬼門のヨーロッパラリー選手権ローマラウンドに3度目の挑戦!! 格安レンタカーを借りたらまさかの20分でエンジン停止!?",
-        "url": "https://bestcarweb.jp/news/motorsport/1569333"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "日産が大変身へ!! クルマはここまで進化する!? 新型エクストレイルとスカイライン戦略を発表",
-        "url": "https://bestcarweb.jp/feature/column/1549545"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.4",
-        "title": "日野自動車のニューセレガに乗ってきたぞ!! 安全装置の実体験で細部にまで徹底された安心を実感!!",
-        "url": "https://bestcarweb.jp/busmagazine/1562898"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.4",
-        "title": "Woman Buys Car Through Carvana Despite What She Heard. Then They Call Her On The Phone: ‘Carfax Was Literally Perfect’",
-        "url": "https://www.motor1.com/news/800608/carvana-pros-and-cons/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.3",
-        "title": "Woman Gets Her BMW’s Oil Changed. 48 Hours Later, She Needs A New Car: 'Please Explain To Me'",
-        "url": "https://www.motor1.com/news/800506/bmw-oil-change/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.3",
-        "title": "Man Owns Viral Auto Shop. Then He Goes Viral For Another Reason—His Interaction With This Single Mother: 'NOT What I Expected'",
-        "url": "https://www.motor1.com/news/800502/royalty-auto-service/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.3",
-        "title": "Customer Shops At Kia Because He Needs An Affordable Car. Then He Learns How Much The Cheapest Kia Actually Costs",
-        "url": "https://www.motor1.com/news/800501/kia-dealership-cheapest-car/"
+        "title": "Would A Massive Discount Entice You To Buy A Polestar 4?",
+        "url": "https://www.motor1.com/news/800491/polestar-4-massive-discount-buy/"
       }
     ]
   },
@@ -126,8 +126,8 @@
     "scoped_articles": 18,
     "queued_articles": 18,
     "processed": 18,
-    "started_at": "2026-07-04T14:46:26.659Z",
-    "finished_at": "2026-07-04T14:47:07.741Z",
+    "started_at": "2026-07-05T04:18:09.911Z",
+    "finished_at": "2026-07-05T04:18:50.401Z",
     "success": true,
     "error": ""
   }
