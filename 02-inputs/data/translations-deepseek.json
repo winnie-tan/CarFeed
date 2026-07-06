@@ -63674,5 +63674,867 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-06T04:38:00.979Z"
+  },
+  "https://www.thedrive.com/news/30000-electric-ford-truck-spy-shots": {
+    "title_zh": "福特 3 万美元电动皮卡谍照曝光，与 Expedition 并排对比",
+    "summary_short": "福特全新入门电动皮卡谍照曝光，定位低于 F-150 Lightning，尺寸接近丰田 RAV4，配备实体门把手和大屏。",
+    "summary_long": "福特正在测试一款售价约 3 万美元的入门级电动皮卡，该车与已停产的 F-150 Lightning 完全不同，尺寸接近丰田 RAV4，带有小型货斗，类似福特 Maverick 的电动版。谍照显示，原型车覆盖重度伪装，但可见量产级灯光、车身和内饰，配备实体门把手和巨大触摸屏。该车与一辆福特 Expedition 并排停放，提供了直观的尺寸对比。",
+    "highlights_zh": [
+      "售价约 3 万美元",
+      "尺寸接近丰田 RAV4",
+      "配备实体门把手和巨大触摸屏",
+      "与福特 Expedition 并排对比"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "F-150 Lightning",
+      "福特 Maverick",
+      "福特 Expedition",
+      "丰田 RAV4 | Toyota RAV4"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/FordEVtruck.db02-e1783349612678.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/FordEVtruck.db09.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/FordEVtruck.db20.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:31:48.811Z"
+  },
+  "https://www.motor1.com/news/800748/tesla-model-yl-third-row/": {
+    "title_zh": "特斯拉 Model Y L 推出第三排座椅",
+    "summary_short": "特斯拉 Model Y L 在美国上市，加长轴距提供真正可坐人的第三排，起售价 61,990 美元。",
+    "summary_long": "特斯拉 Model Y L 此前仅在中国销售，如今正式登陆美国市场。该车轴距加长 5.9 英寸，总长增加 7.3 英寸，第三排腿部空间达到 31.0 英寸，比标准七座版多出 5.2 英寸，可容纳成年人。目前仅提供 Premium Long Wheelbase AWD Launch Series 版本，售价 61,990 美元，是 Model Y 最贵的车型。",
+    "highlights_zh": [
+      "轴距加长 5.9 英寸",
+      "第三排腿部空间 31.0 英寸",
+      "起售价 61",
+      "仅提供六座布局"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y L",
+      "美国"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WE8EA/s1/2027-tesla-model-y-l.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:31:49.115Z"
+  },
+  "https://www.motor1.com/news/800735/volkswagen-atlas-teramont-market-design-differences/": {
+    "title_zh": "大众解释新款 Atlas 为何与中国的 Teramont 外观不同",
+    "summary_short": "大众解释了美版 Atlas 与中版 Teramont 外观差异的原因，包括引擎盖高度、格栅设计等，以适应不同市场需求。",
+    "summary_long": "大众对 2027 款美版 Atlas 进行了更新，其外观与中版 Teramont 相似但存在差异。设计师 William Lee 解释，Atlas 的引擎盖更高、更粗犷，而 Teramont 更注重视野。此外，Teramont 采用封闭式上格栅，Atlas 则为开放式，并配备传统门把手。这些调整源于中美市场对造型、法规的不同需求。Atlas 占大众美国销量的近三分之一，新款搭载升级的 2.0T 发动机，将于秋季到店。",
+    "highlights_zh": [
+      "Atlas 引擎盖更高更粗犷",
+      "Teramont 封闭格栅",
+      "Atlas 传统门把手",
+      "新款 Atlas 占大众美国销量近三分之一"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "Atlas",
+      "Teramont"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzgPv/s1/2027-volkswagen-atlas.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:31:53.125Z"
+  },
+  "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/": {
+    "title_zh": "继电池之后，中国车企欲主导汽车“大脑”",
+    "summary_short": "中国车企正自研智能驾驶芯片，以降低成本、减少对英伟达和高通的依赖，继电池后争夺汽车“大脑”主导权。",
+    "summary_long": "继电池领域取得主导地位后，中国车企开始瞄准下一个昂贵的电动汽车部件——智能驾驶芯片。比亚迪、蔚来、小鹏、理想等多家车企正推进自研芯片项目，以降低成本、加快迭代并减少对英伟达或高通的依赖。随着汽车向软件定义转型，高级驾驶辅助功能从旗舰车型下探至主流市场，车企亟需更高效、更紧密集成自研软件的硬件方案。",
+    "highlights_zh": [
+      "比亚迪、蔚来、小鹏、理想等自研智驾芯片",
+      "降低对英伟达、高通等供应商依赖",
+      "高级驾驶辅助功能从旗舰下探至主流车型",
+      "汽车向软件定义转型"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "蔚来",
+      "小鹏",
+      "理想",
+      "智能驾驶芯片"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKoMY/s1/byd-seal-07.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:31:53.451Z"
+  },
+  "https://www.thedrive.com/news/cadillac-recalls-vistiq-evs-over-third-row-seat-that-could-trap-a-child": {
+    "title_zh": "凯迪拉克因第三排座椅可能困住儿童召回 Vistiq 电动车",
+    "summary_short": "凯迪拉克因第三排座椅电动折叠功能可能困住儿童，召回 2026-2027 款 Vistiq 电动车，并下达停售令。",
+    "summary_long": "凯迪拉克因第三排座椅电动折叠功能存在安全隐患，召回 2026 和 2027 款 Vistiq 三排电动跨界车，并下令经销商停售。该座椅的电动折叠按钮在按下后不会因遇到障碍物自动停止或反转，可能导致较小乘客被困在座椅下方，增加受伤风险。通用汽车表示，此问题是在现代因类似缺陷召回 2026 款 Palisade 并导致一名两岁儿童死亡后发现的。",
+    "highlights_zh": [
+      "第三排座椅电动折叠可能困住儿童",
+      "涉及 2026-2027 款 Vistiq 电动车",
+      "通用汽车已下令经销商停售",
+      "问题源于现代 Palisade 类似召回事件"
+    ],
+    "entities": [
+      "凯迪拉克 | Cadillac",
+      "Vistiq",
+      "通用汽车",
+      "现代 | Hyundai",
+      "Palisade"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_9373_jpg.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-02-at-12.50.30-PM.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:31:56.865Z"
+  },
+  "https://www.thedrive.com/news/paddock-tour-check-out-the-2026-f1-team-motorhomes": {
+    "title_zh": "2026 年 F1 车队移动总部巡礼",
+    "summary_short": "F1 车队的移动总部从 5 月用到 9 月，豪华程度远超普通房车，有的甚至有三层楼高。",
+    "summary_long": "F1 车队的移动总部是车队在欧洲赛季期间的临时基地，从 5 月用到 9 月底。这些设施面积从 2000 到 3000 平方英尺不等，组装和拆卸需要 12 到 24 小时。在银石赛道，各车队展示了最新的移动总部，其中法拉利拥有两个巨型单元，凯迪拉克和迈凯伦的设施也相当庞大。红牛的仓库式旅行拖车虽外观简约，但内部现代时尚。",
+    "highlights_zh": [
+      "F1 车队移动总部面积达 2000-3000 平方英…",
+      "组装拆卸需 12-24 小时",
+      "法拉利拥有两个最大单元",
+      "红牛内部现代时尚"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "凯迪拉克",
+      "迈凯伦",
+      "红牛",
+      "银石赛道"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_0588.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_0493_133a3f.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_0515.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:31:58.147Z"
+  },
+  "https://www.thedrive.com/news/tesla-has-stretched-the-model-y-to-fill-the-xs-absence-tds": {
+    "title_zh": "特斯拉加长版 Model Y 登陆美国，填补 Model X 停产空缺",
+    "summary_short": "特斯拉在美国推出长轴距三排座 Model Y，作为已停产的 Model X 的替代品，同时公司迎来近年最佳季度业绩。",
+    "summary_long": "特斯拉在美国推出长轴距三排座 Model Y，以填补近期停产的 Model X 留下的市场空缺。这款电动跨界车去年已在中国上市，今年早些时候进入澳大利亚市场。与此同时，特斯拉刚刚迎来近年来最佳财务季度，全球交付 480,126 辆汽车，超出分析师预期约 8 万辆，较 2025 年第二季度增长 25%。分析师认为，中国和欧洲市场的强劲表现是增长主因。",
+    "highlights_zh": [
+      "长轴距三排座 Model Y 在美上市",
+      "作为 Model X 停产后的替代车型",
+      "该车此前已在中国和澳大利亚销售",
+      "特斯拉 Q2 交付 48 万辆"
+    ],
+    "entities": [
+      "特斯拉",
+      "Model Y",
+      "Model X"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Model-Y-L-Hero-Desktop-NA.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-02-at-12.50.30-PM.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:00.391Z"
+  },
+  "https://www.motor1.com/features/800654/software-replaced-suspension-engineering-opinion/": {
+    "title_zh": "当软件取代悬架工程：制动矢量控制如何改变汽车性能",
+    "summary_short": "2007 年日产 GT-R 引入制动矢量控制，用软件取代传统机械悬架调校，彻底改变汽车动态性能。",
+    "summary_long": "2007 年日产 GT-R 不仅以 473 马力和 7 分 38 秒纽博格林圈速闻名，更开创性地采用了制动矢量控制技术。这项技术通过软件精确分配每个车轮的制动力，取代了传统机械悬架调校，使工程师能完全定义车辆动态行为。从保时捷 Weissach 轴到奔驰 190E 后悬架，过去依赖机械结构解决的问题，如今由软件接管。",
+    "highlights_zh": [
+      "2007 年日产 GT-R 开创制动矢量控制",
+      "软件取代传统机械悬架调校",
+      "工程师可完全定义车辆动态行为",
+      "制动矢量控制是车辆动力学圣杯"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "GT-R",
+      "制动矢量控制",
+      "车辆动力学",
+      "保时捷 | Porsche"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJmPv/s1/brake-torque-vectoring-opinion.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:02.035Z"
+  },
+  "https://www.motor1.com/news/800713/bentley-torcal-electric-suv/": {
+    "title_zh": "宾利首款电动车定名 Torcal，9 月 23 日伦敦首发",
+    "summary_short": "宾利首款电动车正式命名为 Torcal，定位豪华跨界 SUV，将于 9 月 23 日在伦敦全球首发，尺寸小于添越但依然宽大。",
+    "summary_long": "宾利宣布其首款电动车正式命名为 Torcal，将于 9 月 23 日在伦敦全球首发。该车定位豪华跨界 SUV，尺寸小于现款添越（Bentayga），但依然保持宾利一贯的宽大车身。名称灵感源自西班牙安达卢西亚的埃尔托卡尔自然奇观，延续了添越、Bacalar、Batur 等车型以自然地标命名的传统。宾利此前曾推迟 2030 年全面电动化的目标，但 Torcal 的推出计划不变。量产版预计采用传统四门车身和尾门设计，而非去年 EXP 15 概念车的非对称车门布局。",
+    "highlights_zh": [
+      "命名 Torcal",
+      "9 月 23 日伦敦全球首发",
+      "定位豪华跨界 SUV",
+      "量产版采用传统四门设计"
+    ],
+    "entities": [
+      "宾利 | Bentley",
+      "添越",
+      "Torcal",
+      "EXP 15",
+      "豪华跨界 SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4xpE/s1/bentley-torcal-teaser.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/bentley-torcal.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:04.983Z"
+  },
+  "https://www.motor1.com/news/800658/stuck-behind-3-waymos-atlanta/": {
+    "title_zh": "亚特兰大司机被三辆 Waymo 堵在路口",
+    "summary_short": "亚特兰大深夜，三辆 Waymo 因红灯闪烁停在路口，导致后方车辆被堵，引发司机不满。",
+    "summary_long": "在亚特兰大，三辆 Waymo 自动驾驶出租车因路口红灯闪烁而同时停车，占据所有车道，导致后方车辆无法通行。这一场景被拍摄并上传至 TikTok，引发网友热议。事件反映了自动驾驶出租车在实际交通中可能遇到的挑战，以及公众对其可靠性的担忧。",
+    "highlights_zh": [
+      "三辆 Waymo 因红灯闪烁停在路口",
+      "占据所有车道导致后方车辆被堵",
+      "司机下车查看并表达不满",
+      "视频在 TikTok 上获得超 9.3 万次观看"
+    ],
+    "entities": [
+      "Waymo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9ROX/s1/atlanta-drivers-stop-at-intersection..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:05.650Z"
+  },
+  "https://response.jp/article/2026/07/06/413666.html": {
+    "title_zh": "CarPremia 故障保障更新：新增进口 EV 计划并大幅扩大对象车辆",
+    "summary_short": "CarPremia 故障保障服务更新，新增进口 EV 计划并大幅扩大适用车龄，满足多样化需求。",
+    "summary_long": "Premia 集团旗下子公司 Premia 对面向 CarPremia 经销商会员的“CarPremia 故障保障”服务进行了商品改定，并开始提供更新后的服务。该服务作为二手车购买后的第三方保障，已被众多用户和加盟店使用。近年来，随着汽车高性能化带来的装备多样化以及 EV 和进口车需求的增加，为适应用户多样化的生活方式，Premia 进行了此次改定。新服务大幅扩大了可加入的车辆年式条件，并率先在行业内新增了进口 EV 的保障计划，使更多车型可以加入。",
+    "highlights_zh": [
+      "新增进口 EV 保障计划",
+      "大幅扩大适用车龄范围",
+      "应对 EV 和进口车需求增长",
+      "作为第三方保障服务更新"
+    ],
+    "entities": [
+      "CarPremia",
+      "Premia",
+      "Premia 集团",
+      "进口 EV",
+      "故障保障"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225063.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225063.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:10.201Z"
+  },
+  "https://response.jp/article/2026/07/06/413648.html": {
+    "title_zh": "JR 东海道线御厨站增设副站名“雅马哈发动机前”",
+    "summary_short": "JR 东海道线御厨站增设副站名“雅马哈发动机前”，旨在提升品牌认知与区域活力。",
+    "summary_long": "JR 东海道线御厨站自 7 月 6 日起增设副站名“雅马哈发动机前”，该站是雅马哈发动机本社及雅马哈体育场（Júbilo Iwata、Blue Revs 主场）的最近车站。雅马哈发动机社长设乐元文表示，此举希望成为与地区共创的契机，并提升员工的自豪感与归属感。磐田市长草地博昭也承诺将借此进一步推动区域发展。",
+    "highlights_zh": [
+      "御厨站增设副站名“雅马哈发动机前”",
+      "距雅马哈发动机本社步行 10 分钟",
+      "旨在促进区域共创与品牌认知",
+      "2028 年新社屋竣工"
+    ],
+    "entities": [
+      "雅马哈发动机 | Yamaha Motor",
+      "御厨站",
+      "磐田市",
+      "Júbilo Iwata",
+      "Blue Revs"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224920.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224920.jpg",
+      "https://response.jp/imgs/fill2/2224930.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:10.749Z"
+  },
+  "https://response.jp/article/2026/07/06/413670.html": {
+    "title_zh": "铃鹿 8 耐：普利司通连续 19 届夺冠，本田 HRC 包揽领奖台",
+    "summary_short": "普利司通 BATTLAX 轮胎助力本田 HRC 在铃鹿 8 耐夺冠，实现 19 届连胜，并包揽领奖台。",
+    "summary_long": "在 2026 年 7 月 3 日至 5 日举行的第 47 届铃鹿 8 小时耐力赛中，搭载普利司通 BATTLAX 轮胎的本田 HRC 车队夺得冠军。这是普利司通自 2006 年首次夺冠以来连续第 19 次获胜，刷新了轮胎供应商的连胜纪录。雅马哈和宝马分列二三位，普利司通轮胎车队包揽领奖台，且前 13 名全部使用普利司通轮胎。实验组别的铃木 CN 挑战车队获得第七名，其轮胎采用了生物基可再生材料，旨在降低生命周期碳排放。",
+    "highlights_zh": [
+      "本田 HRC 夺冠",
+      "普利司通轮胎包揽领奖台",
+      "前 13 名全部使用普利司通轮胎",
+      "铃木实验车队使用可再生材料轮胎"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "普利司通",
+      "铃鹿 8 耐",
+      "BATTLAX",
+      "雅马哈 | Yamaha"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224999.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224999.jpg",
+      "https://response.jp/imgs/fill2/2225000.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:15.624Z"
+  },
+  "https://response.jp/article/2026/07/06/413658.html": {
+    "title_zh": "铃鹿 8 耐：雅马哈获亚军，宣布退役的中须贺称“最棒的铃鹿 8 耐”",
+    "summary_short": "雅马哈厂队在雨战中获得铃鹿 8 耐亚军，中须贺克行在宣布退役后完成最后一场铃鹿 8 耐，称这是最棒的比赛。",
+    "summary_long": "2026 年 7 月 3 日至 5 日，第 47 届铃鹿 8 小时耐力赛在铃鹿赛道举行。雅马哈厂队#21 YAMAHA FACTORY RACING TEAM 在雨中艰难条件下完成 188 圈，获得亚军。杰克·米勒在湿地上表现出色，多次做出 2 分 16 秒的圈速，一度逼近领先的本田车队。中须贺克行在宣布退役后迎来最后一场铃鹿 8 耐，虽因战术仅出场一次，但他表示尊重团队决定，并称这是最棒的铃鹿 8 耐。",
+    "highlights_zh": [
+      "雅马哈厂队获铃鹿 8 耐亚军",
+      "中须贺克行完成最后一场铃鹿 8 耐",
+      "杰克·米勒在雨战中表现出色",
+      "比赛全程雨战"
+    ],
+    "entities": [
+      "雅马哈 | YAMAHA",
+      "本田 | Honda",
+      "铃鹿 8 耐",
+      "中须贺克行",
+      "杰克·米勒"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224969.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224969.jpg",
+      "https://response.jp/imgs/fill2/2224965.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:15.734Z"
+  },
+  "https://response.jp/article/2026/07/06/413664.html": {
+    "title_zh": "BMW & MINI 音响升级：专业推荐入门级扬声器更换方案",
+    "summary_short": "专业音响店推荐 BMW 和 MINI 车主优先更换扬声器，提供多种入门级升级方案，显著提升音质。",
+    "summary_long": "许多车主对原厂音响音质不满，但不知从何入手。专业音响店“Breeze”的木村先生建议，对于 BMW 和 MINI 车型，优先更换扬声器是最有效的入门升级方案。虽然加装带功放的 DSP 也能改善音质，但更换扬声器能让听感变化更明显。该店提供 5 个等级的扬声器更换套餐，并针对特定车型推出专用方案。",
+    "highlights_zh": [
+      "BMW 和 MINI 车主优先推荐更换扬声器",
+      "更换扬声器比加装 DSP 音质提升更明显",
+      "提供 5 个等级的扬声器更换套餐",
+      "部分车型有专用升级方案"
+    ],
+    "entities": [
+      "BMW",
+      "MINI",
+      "Breeze",
+      "扬声器",
+      "DSP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224810.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224810.jpg",
+      "https://response.jp/imgs/fill2/2224811.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:20.611Z"
+  },
+  "https://response.jp/article/2026/07/06/413668.html": {
+    "title_zh": "法拉利新技术融合 MT 与 DCT，SNS 热议",
+    "summary_short": "法拉利发布搭载“Manuale By Wire”新技术的限量版 12Cilindri Manuale，融合手动操作感与 DCT 便利性，引发 SNS 热议。",
+    "summary_long": "法拉利发布了限量版车型 12Cilindri Manuale，搭载全新自主研发的“Manuale By Wire”系统，将手动变速箱的操作感与 DCT 的便利性相结合。该系统通过换挡杆和离合器线控踏板实现手动模式（6 速前进+倒挡）和自动模式的切换，取消了方向盘拨片，强调驾驶的仪式感。换挡杆采用高强度钢中央旋转块，重量不足 3.5kg，通过传感器和运动机构模拟机械换挡反馈，并具备防误操作锁定功能。离合器踏板将踩踏量数字化后传递至 DCT 离合器组，通过模拟机构再现传统手动变速箱的踏板力度特性，操作不当会导致熄火或冲击，力求接近真实手动挡体验。",
+    "highlights_zh": [
+      "MT 与 DCT 融合的新技术",
+      "取消拨片",
+      "模拟机械换挡反馈与防误锁功能",
+      "离合器操作不当会熄火或冲击"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "12Cilindri Manuale",
+      "Manuale By Wire",
+      "DCT"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224990.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224990.jpg",
+      "https://response.jp/imgs/fill2/2225098.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:21.881Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535873": {
+    "title_zh": "难读地名测验：亘理町",
+    "summary_short": "介绍日本难读地名“亘理町”的正确读法、特产及观光信息，激发自驾游兴趣。",
+    "summary_long": "日本各地存在许多容易读错或难以立即想起正确读法的难读地名。本文以“亘理町”为例，介绍其正确读音、当地特产“はらこ飯”（鲑鱼籽饭）以及相关观光信息，帮助读者避免在重要场合读错地名的尴尬，同时激发自驾游的兴趣。",
+    "highlights_zh": [
+      "难读地名“亘理町”的正确读法",
+      "特产“はらこ飯”是鲑鱼籽饭",
+      "位于仙台市南约 30 公里",
+      "适合自驾游的观光信息"
+    ],
+    "entities": [
+      "亘理町"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114716/be5bc290ba3d46a37014d1b5e5c82200.jpg?v=1780195637",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114716/be5bc290ba3d46a37014d1b5e5c82200-600x400.jpg?v=1780195637",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02115923/260313-RAV4_021_2-600x400.jpg?v=1782961165"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:24.899Z"
+  },
+  "https://response.jp/article/2026/07/06/413669.html": {
+    "title_zh": "2020 年式改款后铃木 Swift Sport 推出 Tanabe Sustec Stabilizer 前后防倾杆",
+    "summary_short": "Tanabe 为改款后铃木 Swift Sport 推出 Sustec Stabilizer 前后防倾杆，提升刚性及操控稳定性。",
+    "summary_long": "悬挂、排气、轮圈综合制造商 Tanabe 为小改款后的铃木 Swift Sport（ZC33S，2020 年 5 月起）推出 Sustec Stabilizer 的 Plus 型号（前用）和 Normal 型号（后用）。Normal 型号为后防倾杆，采用实心钢管（外径 17mm），可提高防侧倾性能，在不牺牲舒适性的前提下提升转弯稳定性。Plus 型号为前防倾杆，采用轻量高强度的中空铬钼钢（外径 24.5mm），可通过安装孔位置调节两种刚度，一体成型确保耐久性。",
+    "highlights_zh": [
+      "Tanabe 为改款后 Swift Sport 推出…",
+      "后防倾杆为实心钢管",
+      "前防倾杆采用中空铬钼钢",
+      "不牺牲舒适性"
+    ],
+    "entities": [
+      "Tanabe",
+      "铃木 | Suzuki",
+      "Swift Sport"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224480.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224480.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:27.390Z"
+  },
+  "https://response.jp/article/2026/07/06/413667.html": {
+    "title_zh": "日东工业推出 9.6kW 普通充电器，获 JARI 认证",
+    "summary_short": "日东工业为 Pit-2G 系列新增 9.6kW 普通充电器，获 JARI 认证，充电速度是普通 EV 插座的 3 倍。",
+    "summary_long": "日东工业宣布，在其主力普通充电器“Pit-2G”系列中新增 9.6kW 高功率型号，成为国内首家获得 JARI（日本汽车研究所）认证的制造商。该产品充电速度约为普通 EV 插座（3kW）的 3 倍，1 小时可补充约 67 公里续航。适用于商业设施、办公室、酒店等场所，在用户停留期间提供充足电力，避免高额快速充电器的高压受电等初期及运营成本。获得 JARI 认证后，可申请国家补贴，大幅降低安装商的初始导入成本。",
+    "highlights_zh": [
+      "国内首家获 JARI 9.6kW 认证",
+      "充电速度是普通插座 3 倍",
+      "1 小时补充约 67 公里续航",
+      "可申请国家补贴降低安装成本"
+    ],
+    "entities": [
+      "日东工业",
+      "Pit-2G",
+      "JARI",
+      "普通充电器",
+      "9.6kW"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225065.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225065.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:29.283Z"
+  },
+  "https://response.jp/article/2026/07/06/413665.html": {
+    "title_zh": "G LION GROUP 创业 40 年发布新品牌战略，重组为 6 大体验领域",
+    "summary_short": "G LION GROUP 创业 40 年，发布新品牌战略，重组为 6 大体验领域，涵盖出行等，并更新 CI 与品牌网站。",
+    "summary_long": "G LION GROUP 在创业 40 周年之际发布新品牌战略，将业务重组为出行等 6 大体验领域。同时公开新 CI 及品牌网站。该集团自 1986 年创立以来，以 BMW 等 34 个进口及国产车品牌的授权经销商业务为核心发展壮大。",
+    "highlights_zh": [
+      "发布新品牌战略",
+      "重组为 6 大体验领域",
+      "更新 CI 及品牌网站",
+      "以 34 个品牌经销商业务为核心"
+    ],
+    "entities": [
+      "G LION GROUP",
+      "BMW"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225057.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225057.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:30.811Z"
+  },
+  "https://response.jp/article/2026/07/06/413654.html": {
+    "title_zh": "NTN 两名员工获日本摩擦学学会激励奖，因轴承电蚀机理研究受表彰",
+    "summary_short": "NTN 两名员工因阐明轴承电蚀机理及提高球轴承扭矩预测精度，获日本摩擦学学会激励奖。",
+    "summary_long": "NTN 宣布，其两名员工获得日本摩擦学学会 2025 年度激励奖。获奖课题分别为“滚动轴承电蚀损伤机理的阐明”和“油润滑球轴承滚动粘性阻力公式的高精度化”，研究成果在轴承电蚀机理及扭矩预测方面获得高度评价。",
+    "highlights_zh": [
+      "NTN 两名员工获日本摩擦学学会激励奖",
+      "获奖课题涉及轴承电蚀机理与扭矩预测",
+      "研究成果获高度评价"
+    ],
+    "entities": [
+      "NTN",
+      "日本摩擦学学会",
+      "滚动轴承",
+      "电蚀"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224964.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224964.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:34.186Z"
+  },
+  "https://bestcarweb.jp/news/1568197": {
+    "title_zh": "GR Supra 排气音随心控！免接线“MotorCom”日本上市",
+    "summary_short": "MotorCom 通过 OBD2 接口连接，用手机 App 即可控制排气阀门，无需配线或编码，轻松改变排气声浪。",
+    "summary_long": "2026 年 7 月 2 日，JUNOS TRADING 在日本推出 MotorCom 排气阀门控制器，适用于 BMW、ALPINA 及丰田 GR Supra 部分车型。该产品通过 OBD2 端口连接，无需配线或车辆编码，即可通过专用 App 控制排气阀门开闭，实现排气声浪的自由调节。App 支持中文界面，操作直观，为追求驾驶乐趣的车主提供了便捷的改装方案。",
+    "highlights_zh": [
+      "OBD2 即插即用",
+      "手机 App 控制排气阀门",
+      "支持 BMW、ALPINA、GR Supra",
+      "日本 2026 年 7 月 2 日发售"
+    ],
+    "entities": [
+      "MotorCom",
+      "BMW",
+      "ALPINA",
+      "丰田 | Toyota",
+      "GR Supra"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162712/532234c808f21856cfe65992cb0be705.png?v=1783063633",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162712/532234c808f21856cfe65992cb0be705-600x600.png?v=1783063633",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162905/2ddfa02d18f15db9f7fcdca0516a0d73-600x424.jpg?v=1783063746"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:34.413Z"
+  },
+  "https://response.jp/article/2026/07/06/413649.html": {
+    "title_zh": "大众集团将大型发动机业务 Everllence 出售给美国投资公司",
+    "summary_short": "大众集团宣布将旗下大型发动机及脱碳解决方案公司 Everllence 出售给美国贝恩资本，账面价值约 34 亿欧元。",
+    "summary_long": "大众集团宣布将旗下专注于大型发动机和脱碳解决方案的 Everllence（原 MAN Energy Solutions）出售给美国投资公司贝恩资本。截至 2026 年 5 月 31 日，大众持有的 Everllence 账面价值约 34 亿欧元。该公司拥有约 1.6 万名员工，营收 49 亿欧元，是全球领先的大型发动机、涡轮机械和脱碳解决方案制造商。",
+    "highlights_zh": [
+      "大众集团出售 Everllence 给贝恩资本",
+      "账面价值约 34 亿欧元",
+      "员工 1.6 万人",
+      "主营大型发动机与脱碳解决方案"
+    ],
+    "entities": [
+      "大众集团 | Volkswagen Group",
+      "Everllence",
+      "贝恩资本",
+      "大型发动机",
+      "脱碳解决方案"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224919.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224919.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:37.581Z"
+  },
+  "https://response.jp/article/2026/07/06/413656.html": {
+    "title_zh": "Archion 股价回落：丰田、戴姆勒减持引发供需恶化担忧",
+    "summary_short": "Archion 股价因丰田和戴姆勒减持而下跌，市场担忧供需恶化，日经指数小幅回落。",
+    "summary_long": "6 日，日经平均指数较上周末下跌 6.38 日元，收于 69737.69 日元，小幅回落。开盘后一度上涨，但买盘消退后，以高科技股为中心下跌，随后陷入负值区间，维持震荡行情。外汇市场日元汇率在 1 美元兑 161 日元后半段波动。汽车股持续获得买盘，全面上涨。",
+    "highlights_zh": [
+      "Archion 股价因丰田、戴姆勒减持而下跌",
+      "日经指数小幅回落",
+      "汽车股持续上涨"
+    ],
+    "entities": [
+      "Archion",
+      "丰田 | Toyota",
+      "戴姆勒",
+      "日经平均指数"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224993.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224993.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:38.944Z"
+  },
+  "https://bestcarweb.jp/newcar/1570740": {
+    "title_zh": "丰田 Aqua GR SPORT 发布：车身强化+专属悬架，售价 323.84 万日元",
+    "summary_short": "丰田 Aqua GR SPORT 新增专属底盘强化与悬架调校，售价 323.84 万日元，兼顾低油耗与驾驶乐趣。",
+    "summary_long": "丰田于 2026 年 7 月 6 日对 Aqua 进行部分改良，并新增 GR SPORT 版本。该版本基于现款 Aqua 打造，通过专属前保险杠、侧裙、后扩散器等外观套件营造运动姿态，内饰配备 GR 标识运动座椅、真皮方向盘及铝制踏板。核心升级在于底盘：增加地板下加强件和后保险杠加强件提升车身刚性，采用专属调校悬架，并在 POWER+模式下优化电动助力转向响应，使这款紧凑型混动车具备更直接的操控感。",
+    "highlights_zh": [
+      "售价 323.84 万日元",
+      "专属底盘加强件与悬架调校",
+      "17 英寸轮毂+红色制动卡钳",
+      "GR 运动座椅与内饰套件"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Aqua",
+      "GR SPORT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06135843/s-20260706_01_06.jpg?v=1783313925",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06135843/s-20260706_01_06-600x323.jpg?v=1783313925",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03151522/TOYOTA-RAV4-PHEV_042_1-600x400.jpg?v=1783059323"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:43.141Z"
+  },
+  "https://response.jp/article/2026/07/06/413661.html": {
+    "title_zh": "英飞凌完成收购 ams OSRAM 传感器业务，强化车载等领域",
+    "summary_short": "英飞凌完成收购 ams OSRAM 非光学模拟/混合信号传感器业务，强化工业、车载及医疗传感器领域领导地位。",
+    "summary_long": "半导体巨头英飞凌科技宣布完成对 ams OSRAM 集团非光学模拟/混合信号传感器产品组合的收购。该交易已获得所有必要监管批准。通过此次收购，英飞凌将巩固其在工业和车载传感器领域的领导地位，并借助互补产品组合扩展医疗应用产品线。被收购业务预计在 2026 年全年产生约 2.3 亿欧元营收，为英飞凌的盈利增长做出贡献。交易自完成起将提升每股收益，未来协同效应有望创造更大价值。",
+    "highlights_zh": [
+      "英飞凌完成收购 ams OSRAM 传感器业务",
+      "强化车载与工业传感器领域领导地位",
+      "预计 2026 年贡献约 2.3 亿欧元营收",
+      "交易将提升每股收益"
+    ],
+    "entities": [
+      "英飞凌",
+      "ams OSRAM",
+      "传感器",
+      "车载",
+      "工业"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224978.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224978.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:43.757Z"
+  },
+  "https://bestcarweb.jp/feature/column/1560997": {
+    "title_zh": "Voxy vs Noah：同为丰田中型 MPV，为何购买满足感不同？",
+    "summary_short": "丰田 Voxy 与 Noah 虽为兄弟车型，性能相近，但 Voxy 凭借运动化外观带来更高购买满足感，差价约 5-7 万日元。",
+    "summary_long": "丰田 Noah 和 Voxy 是两款非常接近的中型 MPV，尺寸、空间、油耗几乎相同。Noah 起售价更低，风格温和亲民；Voxy 则采用黑色装饰和运动化前脸，更具个性。对于追求驾驶愉悦感的用户，Voxy 多出的 5-7 万日元差价被视为“设计费”，能提升日常用车的心情。",
+    "highlights_zh": [
+      "Noah 与 Voxy 尺寸、油耗几乎一致",
+      "Voxy 运动外观带来更高满足感",
+      "差价约 5-7 万日元",
+      "Noah 更亲民"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ノア",
+      "ヴォクシー",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29103933/noaboku.jpg?v=1782697174",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29103933/noaboku-600x400.jpg?v=1782697174",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02115923/260313-RAV4_021_2-600x400.jpg?v=1782961165"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:47.579Z"
+  },
+  "https://bestcarweb.jp/newcar/1568598": {
+    "title_zh": "新型 RAV4 PHEV：与混动版仅差 25 万日元，HV 车主都嫉妒的亮点",
+    "summary_short": "新型 RAV4 PHEV 系统功率 329ps，EV 续航 145km，还有白黑双色车身和换挡拨片，HEV 车主看了都想换车。",
+    "summary_long": "全新 RAV4 PHEV 相比 HEV 版本拥有多项令人羡慕的升级。系统最大功率从 306ps 提升至 329ps，0-100km/h 加速仅需 5.7 秒；电池容量增至 22.7kWh，EV 续航从 95km 延长至 145km。此外，PHEV 专属的白黑双色车身和换挡拨片等配置，让 HEV 车主也心动不已。即使没有家用充电条件，这些差异也足以成为换购理由。",
+    "highlights_zh": [
+      "系统功率 329ps",
+      "EV 续航 145km",
+      "PHEV 可选白黑双色",
+      "配备换挡拨片"
+    ],
+    "entities": [
+      "RAV4 PHEV",
+      "RAV4 HEV",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03151522/TOYOTA-RAV4-PHEV_042_1.jpg?v=1783059323",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03151522/TOYOTA-RAV4-PHEV_042_1-600x400.jpg?v=1783059323",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06135843/s-20260706_01_06-600x323.jpg?v=1783313925"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:48.278Z"
+  },
+  "https://bestcarweb.jp/feature/column/1561583": {
+    "title_zh": "大发 Move Canvas：条纹版与理论版怎么选？可爱还是成熟？",
+    "summary_short": "大发 Move Canvas 的条纹版与理论版如何选择？前者可爱时尚，后者成熟简约，价格相同，主要看个人风格偏好。",
+    "summary_long": "大发 Move Canvas 是一款轻自动滑动门车型，车身尺寸为 3395×1475×1655mm，兼具适中的高度和双侧滑门便利性。选择时主要纠结于条纹版（Stripes）和理论版（Theory）两种外观风格。条纹版以双色车身和圆润造型为特点，更显可爱活泼，适合追求明亮色彩和愉悦感的用户；理论版则采用单色设计，风格简约成熟，适合偏好低调优雅的消费者。两者价格相同，条纹版 X 2WD 为 157.3 万日元，G 2WD 为 175.45 万日元，G Turbo 2WD 为 188.1 万日元。",
+    "highlights_zh": [
+      "条纹版双色车身",
+      "理论版单色设计",
+      "价格相同",
+      "双侧滑门"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "ムーヴキャンバス",
+      "条纹版",
+      "理论版"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29144052/IKE_804-75_1.jpg?v=1782711653",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29144052/IKE_804-75_1-600x400.jpg?v=1782711653",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02115923/260313-RAV4_021_2-600x400.jpg?v=1782961165"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:52.016Z"
+  },
+  "https://bestcarweb.jp/feature/column/1569780": {
+    "title_zh": "为什么 LANEVO 不复活？三种前脸的特别版 Spacia！人气文章 TOP20",
+    "summary_short": "Best Car Web 发布一周人气文章 TOP20，涵盖 LANEVO 不复活原因、三种前脸特别版 Spacia 等话题。",
+    "summary_long": "Best Car Web 汇总了 2026 年 6 月 28 日至 7 月 4 日期间的人气文章 TOP20。榜单包括对 LANEVO 为何不复活的分析、三种前脸特别版 Spacia 的报道，以及 Note 后排空间、Roox 涡轮必要性、Odyssey 停产回顾等热门话题。",
+    "highlights_zh": [
+      "LANEVO 不复活原因分析",
+      "三种前脸特别版 Spacia",
+      "Note 后排空间对比 Yaris、Aqua",
+      "Odyssey 32 年历史回顾"
+    ],
+    "entities": [
+      "LANEVO",
+      "Spacia",
+      "日产 Note",
+      "本田 Odyssey",
+      "Roox"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/05120953/5566ab6d1c394e4f03b1e8c02a8abf6e.jpg?v=1783220994",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/05120953/5566ab6d1c394e4f03b1e8c02a8abf6e-600x377.jpg?v=1783220994",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02115923/260313-RAV4_021_2-600x400.jpg?v=1782961165"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:52.490Z"
+  },
+  "https://bestcarweb.jp/news/1568196": {
+    "title_zh": "丰田海狮造型便签架开启预订",
+    "summary_short": "丰田海狮造型便签架以 1/64 比例还原，兼具收纳与取用功能，是车迷桌面新宠。",
+    "summary_long": "由 CAMSHOP.JP 运营公司 FACE 推出的丰田官方授权“海狮造型便签架”已开启预订。该产品以 1/64 比例立体再现丰田海狮的经典轮廓，最大亮点是车顶部分可收纳并逐张取出便签，兼具迷你车观赏性与文具实用性，适合海狮粉丝及汽车爱好者收藏。",
+    "highlights_zh": [
+      "1/64 比例再现丰田海狮轮廓",
+      "车顶内置便签收纳与取出功能",
+      "丰田官方授权商品",
+      "兼具观赏性与文具实用性"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "海狮",
+      "CAMSHOP.JP",
+      "FACE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162321/63f53f2fff682a59efb4ec8717741f4d.jpg?v=1783063402",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162321/63f53f2fff682a59efb4ec8717741f4d-600x600.jpg?v=1783063402",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162905/2ddfa02d18f15db9f7fcdca0516a0d73-600x424.jpg?v=1783063746"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:56.107Z"
+  },
+  "https://insideevs.com/news/800711/cadillac-vistiq-recall-seat-trap/": {
+    "title_zh": "凯迪拉克因儿童被困风险召回 14,000 辆 Vistiq 电动车",
+    "summary_short": "凯迪拉克召回超 1.4 万辆 Vistiq 电动车，因第三排座椅电动折叠功能可能无法正确检测儿童，存在夹伤风险。",
+    "summary_long": "通用汽车因第三排座椅电动折叠功能存在安全隐患，召回超过 14,000 辆凯迪拉克 Vistiq 豪华电动 SUV。问题在于座椅靠背在检测到负载时可能停止折叠但不会自动回位，导致儿童被困。目前修复部件尚未到位，临时解决方案是禁用该功能。涉及 2026 和 2027 款车型，其中 2026 款占绝大多数。",
+    "highlights_zh": [
+      "涉及 14",
+      "第三排电动座椅可能无法正确检测儿童",
+      "修复部件尚未可用",
+      "通用已知 6 起相关投诉或事件"
+    ],
+    "entities": [
+      "凯迪拉克 | Cadillac",
+      "Vistiq",
+      "通用汽车",
+      "NHTSA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkMGpw/s1/2026-cadillac-vistiq-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:32:56.713Z"
+  },
+  "https://www.motor1.com/news/800652/ac-not-cold-blocked-radiator/": {
+    "title_zh": "空调不制冷？可能是散热器堵塞，别急着加氟",
+    "summary_short": "空调不制冷别急着加氟，先检查散热器和冷凝器是否被杂物堵塞，简单清理即可恢复制冷。",
+    "summary_long": "一位汽修技师指出，汽车空调不制冷不一定需要加氟，很多时候是因为散热器和冷凝器被虫子、树叶、泥土等杂物堵塞，导致冷凝器无法有效散热。他建议车主和维修人员先检查冷却系统前部的气流通道，清理堵塞物，而不是盲目加氟，否则可能导致系统过压损坏。",
+    "highlights_zh": [
+      "空调不制冷先别加氟",
+      "散热器堵塞是常见原因",
+      "清理杂物可恢复制冷",
+      "盲目加氟可能损坏系统"
+    ],
+    "entities": [
+      "散热器",
+      "冷凝器",
+      "制冷剂",
+      "空调系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZboM/s1/man-says-his-a-c-isn-t-blowing-cold.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:33:00.386Z"
+  },
+  "https://www.motor1.com/news/800653/hennessey-venom-f5m-manual-hypercar/": {
+    "title_zh": "Hennessey Venom F5-M：手动挡超跑，马力超 2000 匹",
+    "summary_short": "Hennessey 推出 Venom F5-M，搭载 6 速手动变速箱，最大功率 2031 马力，成为全球最强大的手动挡量产车之一。",
+    "summary_long": "Hennessey 在 2026 年古德伍德速度节上发布了 Venom F5-M，这是一款配备六速手动变速箱的敞篷超跑。其双涡轮增压 6.6 升 V8 发动机可输出 2031 马力，动力仅传递至后轮。新车采用全新碳纤维单体壳和空气动力学套件，包括车顶进气口和大型背鳍，并首次引入自适应悬架。首台量产车由英国客户定制，采用紫色碳纤维、24K 金饰和手绘旗帜。",
+    "highlights_zh": [
+      "2031 马力",
+      "后轮驱动",
+      "全新碳纤维单体壳与空气动力学套件",
+      "首次配备自适应悬架"
+    ],
+    "entities": [
+      "Hennessey",
+      "Venom F5-M",
+      "Goodwood 速度节",
+      "手动变速箱",
+      "碳纤维"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPRXk/s1/2027-hennessey-venom-f5-m.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:33:01.489Z"
+  },
+  "https://insideevs.com/news/800682/walmart-ev-charging-network-no-slowing-down/": {
+    "title_zh": "沃尔玛电动汽车充电网络扩张势头不减",
+    "summary_short": "沃尔玛自建快充网络运营仅 15 个月，已覆盖美国 17 州，拥有 612 个充电桩，并计划持续扩张。",
+    "summary_long": "沃尔玛自 2025 年 4 月进入电动汽车快充领域以来，充电网络迅速扩张。目前已在 17 个州建成 73 个站点，提供 612 个充电接口，较两个月前翻倍。所有充电桩均为 400 千瓦功率，配备 CCS 和 NACS 双枪，支持手机 App 支付，并试点内置读卡器。",
+    "highlights_zh": [
+      "73 个站点",
+      "覆盖美国 17 个州",
+      "全部采用 400 千瓦快充桩",
+      "支持 CCS 和 NACS 双枪"
+    ],
+    "entities": [
+      "沃尔玛 | Walmart",
+      "ABB",
+      "Alpitronic",
+      "CCS",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWBx6/s1/walmart-branded-abb-e-mobility-a400-dc-fast-chargers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:33:03.958Z"
+  },
+  "https://www.motor1.com/news/800667/2027-kia-sportage-spy-video/": {
+    "title_zh": "全新起亚 Sportage 谍照曝光：外观方正，内饰大屏是亮点",
+    "summary_short": "全新起亚 Sportage 谍照曝光，外观更方正，尺寸或增大，内饰将搭载安卓驱动的 Pleos Connect 系统，大屏主导中控。",
+    "summary_long": "起亚正在对下一代 Sportage 进行最后测试。作为品牌最畅销车型，2025 年销量近 57 万辆，占起亚总销量的 18%以上。尽管第五代车型于 2021 年推出并在 2024 年进行了中期改款，但面对竞争，起亚仍决定推出全新换代车型。谍照显示新车造型更方正，尺寸可能略有增加，后保险杠两侧的转向灯位置较低。内饰变化更为显著，将搭载全新的安卓驱动 Pleos Connect 系统，中控台由大屏主导，但预计仍保留部分物理按键用于空调和音响控制。",
+    "highlights_zh": [
+      "全新 Sportage 谍照曝光",
+      "内饰搭载安卓 Pleos Connect 大屏系统",
+      "转向灯位置偏低",
+      "预计保留部分物理按键"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "Sportage",
+      "Pleos Connect"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Qe7Rp8/s1/2027-kia-sportage-screenshot-from-spy-video.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:33:06.068Z"
+  },
+  "https://insideevs.com/news/800671/rivian-r2-70-mph-highway-range-test/": {
+    "title_zh": "Rivian R2 70 英里/小时高速续航测试：能否兑现宣传？",
+    "summary_short": "Rivian R2 在科罗拉多山区高速续航测试中，实际表现与官方数据存在差距，但整体表现令人满意。",
+    "summary_long": "Rivian R2 是这家加州初创公司的关键产品，其成功与否决定了公司的长期发展。在首次媒体评测中，R2 获得了高度评价，但消费者最关心的续航问题仍需验证。InsideEVs 的 Tom Moloughney 对一台客户规格的 R2 Performance Launch Edition 进行了 70 英里/小时的高速续航测试。该车搭载 87.9 千瓦时电池组，官方综合续航为 330 英里（配全季轮胎），但测试车选装了全地形轮胎，且行驶路线为科罗拉多州蜿蜒的山路，海拔变化约 1800 英尺，条件较为苛刻。最终实测结果如何？文章将揭晓。",
+    "highlights_zh": [
+      "R2 是 Rivian 成败关键",
+      "实测条件苛刻：山路+全地形胎",
+      "官方综合续航 330 英里",
+      "海拔变化 1800 英尺"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "Performance Launch Edition",
+      "科罗拉多州",
+      "高速续航测试"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40Yb3J/s1/rivian-r2-70-mph-highway-range-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T16:33:09.064Z"
   }
 }

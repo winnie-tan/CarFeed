@@ -1,5 +1,125 @@
 [
   {
+    "title_en": "Tesla Model Y L Debuts With A Human-Sized Third Row",
+    "image": "https://cdn.motor1.com/images/mgl/3WE8EA/s3/2027-tesla-model-y-l.jpg",
+    "url": "https://www.motor1.com/news/800748/tesla-model-yl-third-row/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 16:00:00 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.421Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Spied: Ford’s $30,000 Electric Truck Caught Next to an Expedition",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/FordEVtruck.db02-e1783349612678.jpg?quality=85",
+    "url": "https://www.thedrive.com/news/30000-electric-ford-truck-spy-shots",
+    "source": "The Drive",
+    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": "Mon, 06 Jul 2026 11:00:45 -0400",
+    "first_seen_at": "2026-07-06T16:31:38.243Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Volkswagen Explains Why The New Atlas Looks Different Than China's Teramont",
+    "image": "https://cdn.motor1.com/images/mgl/YAzgPv/s3/2027-volkswagen-atlas.jpg",
+    "url": "https://www.motor1.com/news/800735/volkswagen-atlas-teramont-market-design-differences/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 14:30:00 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.421Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "After EV Batteries, China Wants To Dominate Car Brains Too",
+    "image": "https://cdn.motor1.com/images/mgl/koKoMY/s3/byd-seal-07.jpg",
+    "url": "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/",
+    "source": "InsideEVs",
+    "source_logo": "https://cdn.motor1.com/images/static/insideevs/favicon-196.png",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": "Mon, 06 Jul 2026 14:06:53 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.555Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_9373_jpg.jpg?quality=85",
+    "url": "https://www.thedrive.com/news/cadillac-recalls-vistiq-evs-over-third-row-seat-that-could-trap-a-child",
+    "source": "The Drive",
+    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 10:00:22 -0400",
+    "first_seen_at": "2026-07-06T16:31:38.243Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Paddock Tour: Check Out the 2026 F1 Team Motorhomes",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_0588.jpeg?quality=85",
+    "url": "https://www.thedrive.com/news/paddock-tour-check-out-the-2026-f1-team-motorhomes",
+    "source": "The Drive",
+    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 10:00:00 -0400",
+    "first_seen_at": "2026-07-06T16:31:38.243Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Tesla Has Stretched the Model Y to Fill the X’s Absence: TDS",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/Model-Y-L-Hero-Desktop-NA.jpg?quality=85",
+    "url": "https://www.thedrive.com/news/tesla-has-stretched-the-model-y-to-fill-the-xs-absence-tds",
+    "source": "The Drive",
+    "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 09:14:03 -0400",
+    "first_seen_at": "2026-07-06T16:31:38.243Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "When Software Replaced Suspension Engineering",
+    "image": "https://cdn.motor1.com/images/mgl/pbJmPv/s3/brake-torque-vectoring-opinion.jpg",
+    "url": "https://www.motor1.com/features/800654/software-replaced-suspension-engineering-opinion/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "custom",
+    "published_at": "Mon, 06 Jul 2026 13:00:02 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.400Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Bentley's First EV Finally Has A Name: Torcal",
+    "image": "https://cdn.motor1.com/images/mgl/2N4xpE/s3/bentley-torcal-teaser.jpg",
+    "url": "https://www.motor1.com/news/800713/bentley-torcal-electric-suv/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": "Mon, 06 Jul 2026 12:29:16 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.421Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "‘Causing Waymo Problems’: Atlanta Drivers Stop At Intersection. Then They Get Stuck Behind 3 Waymos That Won’t Move",
+    "image": "https://cdn.motor1.com/images/mgl/Oo9ROX/s3/atlanta-drivers-stop-at-intersection..jpg",
+    "url": "https://www.motor1.com/news/800658/stuck-behind-3-waymos-atlanta/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 12:00:00 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.421Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
     "title_en": "「AIドライバー」が別メーカーのトラックを運転したらどうなる!? 自動運転システムの「汎化」性能が興味深い",
     "image": "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/02143336/01-image.jpg",
     "url": "https://bestcarweb.jp/fullload/1567349",
@@ -10,6 +130,54 @@
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:57.666Z",
     "last_seen_at": "2026-07-06T04:37:04.290Z"
+  },
+  {
+    "title_en": "「カープレミア故障保証」がリニューアル、輸入EVプラン新設と対象車両を大幅拡大",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225063.jpg",
+    "url": "https://response.jp/article/2026/07/06/413666.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.493Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "「ヤマハ発動機前」駅が誕生、JR東海道線「御厨駅」の副駅名標に…設楽社長「共創の玄関口に」",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224920.jpg",
+    "url": "https://response.jp/article/2026/07/06/413648.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "bike",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.487Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "「鈴鹿8耐」ブリヂストンが19大会連続優勝 ホンダHRCが制し表彰台も独占",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224999.jpg",
+    "url": "https://response.jp/article/2026/07/06/413670.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.492Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "「鈴鹿8耐」ヤマハが2位表彰台、引退発表の中須賀「最高の鈴鹿8耐になった」",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224969.jpg",
+    "url": "https://response.jp/article/2026/07/06/413658.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "bike",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.486Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「鈴鹿8耐2026」雨のレース、ホンダが5連勝、BMWは国外メーカー初の表彰台に",
@@ -24,6 +192,30 @@
     "last_seen_at": "2026-07-06T04:37:04.290Z"
   },
   {
+    "title_en": "「面白い機構」「乗った感じが気になる」MTとDCTを融合させたフェラーリの新技術にSNSも興奮！",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224990.jpg",
+    "url": "https://response.jp/article/2026/07/06/413668.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.486Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "『BMW＆MINI』は特に「スピーカー交換」がお薦め！［音を良くする“初級鉄板プラン”をプロが伝授］",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224810.jpg",
+    "url": "https://response.jp/article/2026/07/06/413664.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.493Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
     "title_en": "『ハイエース』ベースのキャンピングカー受注を「持ち込み架装」に変更、供給見通し不透明で…トイファクトリー",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224849.jpg",
     "url": "https://response.jp/article/2026/07/06/413634.html",
@@ -33,7 +225,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:58.357Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第802回",
@@ -45,7 +237,19 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:57.670Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「亘理町」",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114716/be5bc290ba3d46a37014d1b5e5c82200.jpg?v=1780195637",
+    "url": "https://bestcarweb.jp/feature/column/1535873",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.488Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "1年間の出費はトータルで約96万円!? 新型フォレスターを残クレで購入したオーナーのリアルな維持費",
@@ -60,6 +264,30 @@
     "last_seen_at": "2026-07-06T04:37:04.290Z"
   },
   {
+    "title_en": "2020年式・MC後の『スイフトスポーツ』を剛性アップ！ タナベ「サステック・スタビライザー」前後用を発売",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224480.jpg",
+    "url": "https://response.jp/article/2026/07/06/413669.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.492Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "9.6kW普通充電器、国内メーカー初のJARI認証取得…日東工業がPit-2Gシリーズに追加",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225065.webp",
+    "url": "https://response.jp/article/2026/07/06/413667.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.493Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
     "title_en": "BMW『7シリーズ』改良新型、生産開始…既存モデルに「ノイエ・クラッセ」技術を初導入",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224867.jpg",
     "url": "https://response.jp/article/2026/07/06/413638.html",
@@ -69,7 +297,31 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:58.357Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "G LION GROUP、創業40年で新ブランド戦略…モビリティなど6つの体験領域に事業再編",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225057.jpg",
+    "url": "https://response.jp/article/2026/07/06/413665.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.490Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "GRスープラの排気音を自在に!! 手軽に装着できる「モーターコム」が日本発売!!",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162705/6ef5559a5a63041d11c8cb06bc3dd4a0.png",
+    "url": "https://bestcarweb.jp/news/1568197",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.487Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "MINI JCWのEV、2つの「TRACK STYLE EDITIONE」発売…各25台限定で640万円から",
@@ -84,6 +336,18 @@
     "last_seen_at": "2026-07-06T04:37:04.290Z"
   },
   {
+    "title_en": "NTN社員2名、日本トライボロジー学会奨励賞を受賞…軸受の電食メカニズム解明など評価",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224964.jpg",
+    "url": "https://response.jp/article/2026/07/06/413654.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.491Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
     "title_en": "Uber Japan、即時宅配便サービス「Courier」を全国47都道府県に拡大…軽バン配送も新たに開始",
     "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224885.jpg",
     "url": "https://response.jp/article/2026/07/06/413639.html",
@@ -96,6 +360,42 @@
     "last_seen_at": "2026-07-06T04:37:04.290Z"
   },
   {
+    "title_en": "VWグループ、大型エンジンの「Everllence」を米投資会社に売却へ",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224919.jpg",
+    "url": "https://response.jp/article/2026/07/06/413649.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.492Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "アーチオンの株価が反落…トヨタ、ダイムラーの株式売却で需給悪化を警戒",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224993.jpg",
+    "url": "https://response.jp/article/2026/07/06/413656.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.491Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "アクアにGR SPORTキター！ ボディ強化に専用足回りで323万8400円!!",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06135929/s-20260706_01_01.jpg",
+    "url": "https://bestcarweb.jp/newcar/1570740",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "custom",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.489Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
     "title_en": "あの頃の熱狂は戻らず…伝説の名は重すぎた!? 復活グルマの苦戦劇",
     "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02121704/02.jpg",
     "url": "https://bestcarweb.jp/feature/column/1567058",
@@ -105,7 +405,31 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:57.667Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "インフィニオン、ams OSRAMからセンサー事業買収完了…車載などの分野を強化",
+    "image": "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224978.jpg",
+    "url": "https://response.jp/article/2026/07/06/413661.html",
+    "source": "Response.jp",
+    "source_logo": "https://response.jp/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:40.490Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "ヴォクシー対ノア!! 同じトヨタミニバンでも“買った満足感”が違う理由",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29104051/20260410_01_19-5.jpg?v=1782697252",
+    "url": "https://bestcarweb.jp/feature/column/1560997",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.501Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "え、GRヤリスって中古高いんじゃない!? 24式より前の年式こそイマまさにねらい目か!?",
@@ -117,7 +441,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:57.667Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "サングラスダブルクリップ、マグネット式でサンバイザーに簡単装着…クラフトワークスが発売",
@@ -153,7 +477,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:57.665Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "トヨタ『エスティマ』が“走りのミニバン”として復活か…アルファードと棲み分けは",
@@ -166,6 +490,18 @@
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:58.358Z",
     "last_seen_at": "2026-07-06T04:37:04.290Z"
+  },
+  {
+    "title_en": "ハイブリッドと実質25万円差!! HVオーナーが嫉妬する新型RAV4 PHEVって何がスゴい!?!?",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03151552/TOYOTA-RAV4-PHEV_055_1.jpg?v=1783059354",
+    "url": "https://bestcarweb.jp/newcar/1568598",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.488Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "フィジカルAIがもたらす自動車業界の地殻変動とモビリティの未来…博報堂ＤＹホールディングス 執行役員 CAIO 森正弥氏［インタビュー］",
@@ -228,6 +564,18 @@
     "last_seen_at": "2026-07-06T04:37:04.290Z"
   },
   {
+    "title_en": "ムーヴキャンバスはストライプスとセオリーどっちが正解？ 可愛さか大人っぽさかで選ぶベスト仕様",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29143003/s-IKE_804-58.jpg?v=1782711005",
+    "url": "https://bestcarweb.jp/feature/column/1561583",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.489Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
     "title_en": "ライズは軽SUVからの乗り換えにアリ？ タフトやハスラーより広くて力強い選択肢",
     "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23162137/930808cdff8e67bf27ea7a858e336c3f-1.jpg?v=1782199298",
     "url": "https://bestcarweb.jp/feature/column/1556727",
@@ -238,6 +586,18 @@
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:57.666Z",
     "last_seen_at": "2026-07-06T04:37:04.290Z"
+  },
+  {
+    "title_en": "ランエボ復活せずのなぜ？ 「特盛」3つ顔のスペーシア!! 人気記事トップ20[2026.6.28-7.4]",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2023/05/22100808/ranking_secreta.jpg?v=1684717690",
+    "url": "https://bestcarweb.jp/feature/column/1569780",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.488Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ローソン1泊2500円の「車中泊サービス」、今年度内70店舗に拡大へ［新聞ウォッチ］",
@@ -264,6 +624,90 @@
     "last_seen_at": "2026-07-06T04:37:04.290Z"
   },
   {
+    "title_en": "働く愛車をデスクにも!! ハイエース型ふせんホルダー予約開始!!",
+    "image": "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03162325/de4298ce651bfc1746163e556e4295a2.jpg",
+    "url": "https://bestcarweb.jp/news/1568196",
+    "source": "Best Car Web",
+    "source_logo": "https://img.bestcarweb.jp/wp-content/uploads/2021/04/14182035/bestcar-256.png",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:38.489Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Cadillac Recalls 14,000 Vistiq EVs Over Child-Trapping Risk",
+    "image": "https://cdn.motor1.com/images/mgl/MkMGpw/s3/2026-cadillac-vistiq-review.jpg",
+    "url": "https://insideevs.com/news/800711/cadillac-vistiq-recall-seat-trap/",
+    "source": "InsideEVs",
+    "source_logo": "https://cdn.motor1.com/images/static/insideevs/favicon-196.png",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": "Mon, 06 Jul 2026 11:54:22 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.555Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Man Says His A/C Isn’t Blowing Cold. Then His Mechanic Says It’s Just A Blocked Radiator: ‘Wish We Had More Honest Mechanics Like",
+    "image": "https://cdn.motor1.com/images/mgl/BXZboM/s3/man-says-his-a-c-isn-t-blowing-cold.jpg.jpg",
+    "url": "https://www.motor1.com/news/800652/ac-not-cold-blocked-radiator/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 10:00:00 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.421Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Hennessey's New Hypercar Packs Over 2,000 Horsepower And A Manual",
+    "image": "https://cdn.motor1.com/images/mgl/bgPRXk/s3/2027-hennessey-venom-f5-m.jpg",
+    "url": "https://www.motor1.com/news/800653/hennessey-venom-f5m-manual-hypercar/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 09:00:00 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.401Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Walmart’s EV Charging Network Shows No Signs Of Slowing Down",
+    "image": "https://cdn.motor1.com/images/mgl/jlWBx6/s3/walmart-branded-abb-e-mobility-a400-dc-fast-chargers.jpg",
+    "url": "https://insideevs.com/news/800682/walmart-ev-charging-network-no-slowing-down/",
+    "source": "InsideEVs",
+    "source_logo": "https://cdn.motor1.com/images/static/insideevs/favicon-196.png",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": "Mon, 06 Jul 2026 08:28:49 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.555Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "New Kia Sportage Spied Hiding Redesign, But The Biggest Change Is Inside",
+    "image": "https://cdn.motor1.com/images/mgl/Qe7Rp8/s3/2027-kia-sportage-screenshot-from-spy-video.jpg",
+    "url": "https://www.motor1.com/news/800667/2027-kia-sportage-spy-video/",
+    "source": "Motor1",
+    "source_logo": "https://www.motor1.com/favicon.ico",
+    "time": "2026.7.6",
+    "category": "car",
+    "published_at": "Mon, 06 Jul 2026 07:38:50 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.421Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "Rivian R2 70-MPH Highway Range Test: Does It Live Up To The Hype?",
+    "image": "https://cdn.motor1.com/images/mgl/40Yb3J/s3/rivian-r2-70-mph-highway-range-test.jpg",
+    "url": "https://insideevs.com/news/800671/rivian-r2-70-mph-highway-range-test/",
+    "source": "InsideEVs",
+    "source_logo": "https://cdn.motor1.com/images/static/insideevs/favicon-196.png",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": "Mon, 06 Jul 2026 07:23:55 +0000",
+    "first_seen_at": "2026-07-06T16:31:38.555Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
     "title_en": "‘Use A 100% Cotton Cloth’: Man Scratches Plastic Trim On Mazda3 While Wiping Off Dust. Then He Pulls Out The Meguiars",
     "image": "https://cdn.motor1.com/images/mgl/8A3b7v/s3/man-scratches-plastic-trim-on-mazda-3.jpg",
     "url": "https://www.motor1.com/news/800368/mazda-scratch-meguiars/",
@@ -273,7 +717,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 23:00:00 +0000",
     "first_seen_at": "2026-07-06T04:36:57.305Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "This Chevy Truck Runs on Wood, and It Just Broke a Speed Record",
@@ -285,7 +729,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 13:00:00 -0400",
     "first_seen_at": "2026-07-06T04:36:57.160Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "GM Still Leads The US In Sales. But EV Demand Is Slipping",
@@ -297,7 +741,7 @@
     "category": "ev",
     "published_at": "Sun, 05 Jul 2026 16:00:00 +0000",
     "first_seen_at": "2026-07-06T04:36:57.305Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "This 2023 Tesla Model 3 Has The 'Durable' Battery. It Still Degraded",
@@ -309,7 +753,7 @@
     "category": "ev",
     "published_at": "Sun, 05 Jul 2026 15:59:57 +0000",
     "first_seen_at": "2026-07-06T04:36:57.572Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "This Mitsubishi Pajero Mini Is a Factory JDM Snoopy Edition",
@@ -321,7 +765,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 11:00:00 -0400",
     "first_seen_at": "2026-07-06T04:36:57.160Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Dealership Saleswoman Reveals The Real Reason Most Customers Buy Toyotas. Then She Says It Isn’t Resale Value",
@@ -333,7 +777,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 14:48:02 +0000",
     "first_seen_at": "2026-07-06T04:36:57.305Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Man Takes His Car To Speedway And Puts In $22 Worth Of Gas. Then He Tries To Turn On The Engine: ‘Don’t use E-15’",
@@ -345,7 +789,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 14:00:00 +0000",
     "first_seen_at": "2026-07-05T14:54:33.161Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Moss-Covered Toyota Land Cruiser Startup Video Proves That Legends Never Die",
@@ -357,7 +801,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 10:00:00 -0400",
     "first_seen_at": "2026-07-05T14:54:33.247Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「スズキ始まったな」鈴鹿8耐に復活の新型スーパースポーツ『GSX-R1000R』登場！ SNSでの反応は？",
@@ -429,7 +873,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-05T14:54:34.001Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【へっぽこバスガイドの珍道中】バスガイドの朝は早すぎる……朝のドタバタ裏舞台をちょいとのぞき見!?",
@@ -453,7 +897,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-05T04:18:02.231Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "3年7か月で89万台を販売！ トヨタの“願い”を形にした初代『カローラ』【懐かしのカーカタログ】",
@@ -501,7 +945,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 12:00:00 +0000",
     "first_seen_at": "2026-07-05T14:54:33.161Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "オープンカー最後の黄金期を振り返る…GTオープンからスーパースパイダーまで",
@@ -681,7 +1125,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 07:23:57 -0400",
     "first_seen_at": "2026-07-05T14:54:33.247Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Woman Leases A Tesla. Then She Finds Out She Owes $2,141 In Wear-And-Tear Charges: ‘Tesla Leases Are Very Strict’",
@@ -693,7 +1137,7 @@
     "category": "car",
     "published_at": "Sun, 05 Jul 2026 10:00:00 +0000",
     "first_seen_at": "2026-07-05T14:54:33.161Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Man Comes In With 400 Credit Score. Then The Salesman Shows What Kind Of Car He Can Actually Get: 'Only Way To Get Approved...'",
@@ -705,7 +1149,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 22:00:00 +0000",
     "first_seen_at": "2026-07-05T04:18:02.012Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Woman Tows Rental Camper With Her GMC In 98-Degree Heat. Then Disaster Strikes: 'The Car Was Not Rated'",
@@ -717,7 +1161,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 20:00:00 +0000",
     "first_seen_at": "2026-07-05T04:18:02.012Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Russian Engineering Madmen Create Turbo-Style Alternator Driven by Exhaust",
@@ -729,11 +1173,11 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 13:00:00 -0400",
     "first_seen_at": "2026-07-05T04:18:01.927Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Pursue Life and Happiness With This Chopped-Top Jeep Liberty for Beater Car Money",
-    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/669949164_1715701346473459_3095866509154538365_n.jpeg?quality=85",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/669949164_1715701346473459_3095866509154538365_n.jpeg?w=768&h=432",
     "url": "https://www.thedrive.com/news/pursue-life-and-happiness-with-this-chopped-top-jeep-liberty-for-beater-car-money",
     "source": "The Drive",
     "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
@@ -741,7 +1185,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 12:00:00 -0400",
     "first_seen_at": "2026-07-05T04:18:01.927Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Would A Massive Discount Entice You To Buy A Polestar 4?",
@@ -753,11 +1197,11 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 16:00:00 +0000",
     "first_seen_at": "2026-07-05T04:18:02.012Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Dealers Are Asking More for New Cars Than Ever, and Sedans Have Gone Up the Most",
-    "image": "https://www.thedrive.com/wp-content/uploads/2025/01/car-dealer-hero-1.jpg?quality=85",
+    "image": "https://www.thedrive.com/wp-content/uploads/2025/01/car-dealer-hero-1.jpg?w=768&h=432",
     "url": "https://www.thedrive.com/news/dealers-are-asking-more-for-new-cars-than-ever-and-sedans-have-gone-up-the-most",
     "source": "The Drive",
     "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
@@ -765,7 +1209,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 10:00:00 -0400",
     "first_seen_at": "2026-07-04T14:46:18.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Woman Tries To Get Tesla Rebate. Then A Worker Steps In And Ruins It: 'I'll Never Buy From Tesla Again'",
@@ -777,7 +1221,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 14:00:00 +0000",
     "first_seen_at": "2026-07-04T14:46:18.545Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「MOMO」50周年記念ステアリングが進化、『GT50 2.0』『GT50 2.0ブラックエディション』7月21日発売",
@@ -861,7 +1305,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-04T14:46:19.343Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第800回",
@@ -873,7 +1317,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-04T03:59:25.303Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "MOMO、新レーシングシューズ『SPEED PRO』と6点式シートベルト『PRO RACING 6P』が7月15日発売",
@@ -897,7 +1341,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 12:00:00 +0000",
     "first_seen_at": "2026-07-04T14:46:18.545Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "アテンザを高音質オーディオカー化、トランクスルーに凝縮した寺崎さんのシステム構築［Pro Shop インストール・レビュー］by サウンドステーション SUBLIME 前編",
@@ -1113,7 +1557,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 10:00:00 +0000",
     "first_seen_at": "2026-07-04T14:46:18.546Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Woman Gets In Her Car To Run Errands. Then Something Crawls Across Her Foot: ‘I Am Disturbed On So Many Levels’",
@@ -1125,7 +1569,7 @@
     "category": "car",
     "published_at": "Sat, 04 Jul 2026 00:00:00 +0000",
     "first_seen_at": "2026-07-04T03:59:25.262Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Man Puts Pennzoil Into His Sister’s Ford. Then He Sees What Comes Out Of The Pennzoil Container: 'You Should See 0W-8'",
@@ -1141,7 +1585,7 @@
   },
   {
     "title_en": "Ferrari's New 'Manual' Isn't What You Think. Here's How It Works",
-    "image": "https://cdn.motor1.com/images/mgl/MkgRwp/s3/ferrari-12cilindri-manuale.jpg",
+    "image": "https://cdn.motor1.com/images/mgl/MkgRwp/s4/ferrari-12cilindri-manuale.jpg",
     "url": "https://www.motor1.com/news/800497/how-does-ferraris-manual-transmission-work/",
     "source": "Motor1",
     "source_logo": "https://www.motor1.com/favicon.ico",
@@ -1149,11 +1593,11 @@
     "category": "car",
     "published_at": "Fri, 03 Jul 2026 18:05:00 +0000",
     "first_seen_at": "2026-07-04T03:59:25.262Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "2027 Ferrari 12Cilindri Manuale Brings the Stick-Shift Back to Maranello—Kind Of",
-    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/JH-Ferrari167GH-2.jpg?quality=85",
+    "image": "https://www.thedrive.com/wp-content/uploads/2026/07/JH-Ferrari167GH-2.jpg?w=768&h=432",
     "url": "https://www.thedrive.com/news/2027-ferrari-12cilindri-manuale-brings-the-stick-shift-back-to-maranello-kind-of",
     "source": "The Drive",
     "source_logo": "https://www.thedrive.com/wp-content/uploads/2024/07/cropped-drive_favicon-1.png?quality=85&w=192",
@@ -1161,7 +1605,7 @@
     "category": "car",
     "published_at": "Fri, 03 Jul 2026 14:00:00 -0400",
     "first_seen_at": "2026-07-04T03:59:24.706Z",
-    "last_seen_at": "2026-07-05T14:54:38.360Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Ferrari Finally Brought Back The Manual—Sort Of",
@@ -1209,7 +1653,7 @@
     "category": "car",
     "published_at": "Fri, 03 Jul 2026 12:00:00 -0400",
     "first_seen_at": "2026-07-04T03:59:24.706Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Womp Womp: Verstappen Says LEGO F1 Parade Makes Drivers Look Like ‘Kids and Clowns’",
@@ -1221,7 +1665,7 @@
     "category": "car",
     "published_at": "Fri, 03 Jul 2026 11:00:00 -0400",
     "first_seen_at": "2026-07-03T15:28:00.668Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "2026 Mercedes-AMG E53 Hybrid Wagon Quick Review: A Bit Mild, a Bit Wild, But Mostly Confusing",
@@ -1233,7 +1677,7 @@
     "category": "ev",
     "published_at": "Fri, 03 Jul 2026 10:00:00 -0400",
     "first_seen_at": "2026-07-03T15:28:00.668Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Mercedes Has 10 New Models Coming In 2026. Here's All Of Them",
@@ -1257,7 +1701,7 @@
     "category": "car",
     "published_at": "Fri, 03 Jul 2026 09:00:00 -0400",
     "first_seen_at": "2026-07-03T15:28:00.668Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「サブウーファー」の“音割れ”は絶対NG！ その防止法を公開［低音を制する者はカーオーディオを制す］",
@@ -1341,7 +1785,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-03T04:05:59.332Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "2026年上期新車販売は前年比101.8％",
@@ -1425,7 +1869,7 @@
     "category": "ev",
     "published_at": "Fri, 03 Jul 2026 12:00:00 +0000",
     "first_seen_at": "2026-07-03T15:28:01.228Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Man Owns Viral Auto Shop. Then He Goes Viral For Another Reason—His Interaction With This Single Mother: 'NOT What I Expected'",
@@ -1785,7 +2229,7 @@
     "category": "ev",
     "published_at": "Fri, 03 Jul 2026 11:00:00 +0000",
     "first_seen_at": "2026-07-03T15:28:01.228Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Customer Shops At Kia Because He Needs An Affordable Car. Then He Learns How Much The Cheapest Kia Actually Costs",
@@ -1845,7 +2289,7 @@
     "category": "ev",
     "published_at": "Fri, 03 Jul 2026 00:10:41 +0000",
     "first_seen_at": "2026-07-03T04:05:59.278Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Mechanic Orders Parts. Then He Says Kia And Hyundai Are The ‘Exact Same Company’: 'You’re Paying For A Logo'",
@@ -1869,7 +2313,7 @@
     "category": "car",
     "published_at": "Thu, 02 Jul 2026 16:19:53 -0400",
     "first_seen_at": "2026-07-03T04:05:58.813Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "This Is Tesla's New, Bigger Model Y For The U.S.",
@@ -1881,7 +2325,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Jul 2026 20:11:00 +0000",
     "first_seen_at": "2026-07-03T04:05:59.278Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Man Buys Mobil 1 Oil At AutoZone. Then They Gave Him 2 Different Kinds: 'Do You Think It's Bad For The Car?'",
@@ -1905,7 +2349,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Jul 2026 19:50:20 +0000",
     "first_seen_at": "2026-07-03T04:05:59.278Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Exposing the Lies About Why Supercar Companies Sell SUVs",
@@ -1917,7 +2361,7 @@
     "category": "car",
     "published_at": "Thu, 02 Jul 2026 15:03:35 -0400",
     "first_seen_at": "2026-07-03T04:05:58.813Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Porsche Shutters Chinese Dealers Over Slow Sales And Lost Profit",
@@ -1965,7 +2409,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Jul 2026 16:31:39 +0000",
     "first_seen_at": "2026-07-03T04:05:59.278Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Tesla Sales Roared Back In Q2, After Months Of Downward Spiraling",
@@ -1977,7 +2421,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Jul 2026 16:08:51 +0000",
     "first_seen_at": "2026-07-03T04:05:59.278Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "The Stick Shift Isn't Dead Yet: Every Manual Car You Can Still Buy In 2026",
@@ -1989,7 +2433,7 @@
     "category": "car",
     "published_at": "Thu, 02 Jul 2026 16:00:00 +0000",
     "first_seen_at": "2026-07-03T04:05:59.269Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Rivian Just Had A Great Quarter. And The R2 Craze Is Just Getting Started",
@@ -2001,7 +2445,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Jul 2026 15:54:57 +0000",
     "first_seen_at": "2026-07-03T04:05:59.278Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Record Q2 Sales Put Ford Bronco in Striking Distance of Jeep Wrangler",
@@ -2013,7 +2457,7 @@
     "category": "car",
     "published_at": "Thu, 02 Jul 2026 11:08:07 -0400",
     "first_seen_at": "2026-07-02T15:34:32.389Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "BMW Explains Why It Got Rid Of The X5's Best Feature",
@@ -2025,7 +2469,7 @@
     "category": "car",
     "published_at": "Thu, 02 Jul 2026 15:00:00 +0000",
     "first_seen_at": "2026-07-02T15:34:32.804Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Traffic Regulators Vow to Unleash ‘Innovation’ by Eliminating Robotaxi Brake Pedals",
@@ -2037,7 +2481,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Jul 2026 10:16:34 -0400",
     "first_seen_at": "2026-07-02T15:34:32.389Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Hyundai Sales Are Soaring Thanks To Hybrids",
@@ -2061,7 +2505,7 @@
     "category": "car",
     "published_at": "Thu, 02 Jul 2026 09:16:47 -0400",
     "first_seen_at": "2026-07-02T15:34:32.389Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "McMurtry's $1.3-Million Hypercar Is Finally Here",
@@ -2085,7 +2529,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Jul 2026 13:00:00 +0000",
     "first_seen_at": "2026-07-02T15:34:32.976Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「アーティシャンスピリッツ」製品装着の『LBX MORIZO RR』が、フォーミュラドリフトジャパン2026第3戦でベスト8進出",
@@ -2145,7 +2589,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-02T04:19:29.562Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "BMW、『X5』新型を発表…第5世代は新デザイン言語と48Vマイルドハイブリッド搭載",
@@ -2169,7 +2613,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-02T04:19:29.761Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "NIPPON EXPRESS、SOMPOサステナビリティ・インデックスに15年連続選定",
@@ -2433,7 +2877,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-02T04:19:29.558Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "セレナ オーテックラインは買いか？ 2025年改良で加わった“見た目で選べる”新仕様",
@@ -2661,7 +3105,7 @@
     "category": "car",
     "published_at": "Wed, 01 Jul 2026 15:46:12 -0400",
     "first_seen_at": "2026-07-02T04:19:28.828Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Ford Brings Back Veteran Engineers After AI Falls Short: 'It's Only As Good As The People Using It' (Update)",
@@ -2685,7 +3129,7 @@
     "category": "ev",
     "published_at": "Wed, 01 Jul 2026 18:31:36 +0000",
     "first_seen_at": "2026-07-02T04:19:29.237Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Toyota's New GR GT3 Race Car Sounds Ferocious On The Track",
@@ -2721,7 +3165,7 @@
     "category": "car",
     "published_at": "Wed, 01 Jul 2026 12:48:37 -0400",
     "first_seen_at": "2026-07-02T04:19:28.828Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Nobody on Earth Believes Gen Z Can Handle Basic Car Maintenance",
@@ -2733,7 +3177,7 @@
     "category": "car",
     "published_at": "Wed, 01 Jul 2026 12:30:26 -0400",
     "first_seen_at": "2026-07-02T04:19:28.828Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Kia Just Had Its Best June Ever As Hybrid Sales Skyrocket",
@@ -2781,7 +3225,7 @@
     "category": "car",
     "published_at": "Wed, 01 Jul 2026 13:00:00 +0000",
     "first_seen_at": "2026-07-01T15:56:56.258Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "‘We Don’t Know What We’re Doing’: Inside the Post-Ban Chaos at Polestar Dealerships",
@@ -2865,7 +3309,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-01T04:52:15.431Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第797回",
@@ -2877,7 +3321,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-07-01T04:52:15.135Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "278万円で買えるセレナはアリか？ 2025年改良で顔が変わらなかったXの狙い目度",
@@ -2901,7 +3345,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-07-01T15:56:56.782Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "BEV一択の崩壊!! 世界が再びハイブリッドに向かう納得すぎる理由",
@@ -3405,7 +3849,7 @@
     "category": "ev",
     "published_at": "Tue, 30 Jun 2026 19:37:01 +0000",
     "first_seen_at": "2026-07-01T04:52:15.301Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Shocker: Ferrari's First EV Is An Instant Hit In China",
@@ -3429,7 +3873,7 @@
     "category": "ev",
     "published_at": "Tue, 30 Jun 2026 18:53:22 +0000",
     "first_seen_at": "2026-07-01T04:52:15.301Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "California's New EV Incentive Is Almost Here—With Special Benefits For Rivian And Lucid",
@@ -3441,7 +3885,7 @@
     "category": "ev",
     "published_at": "Tue, 30 Jun 2026 18:27:59 +0000",
     "first_seen_at": "2026-07-01T04:52:15.301Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Bugatti's Latest One-Off Is Covered In Real Porcelain Details",
@@ -3513,7 +3957,7 @@
     "category": "ev",
     "published_at": "Tue, 30 Jun 2026 15:01:00 +0000",
     "first_seen_at": "2026-06-30T15:43:14.703Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "BMW Just Reinvented The X5. Here's What's New",
@@ -3597,7 +4041,7 @@
     "category": "ev",
     "published_at": "Tue, 30 Jun 2026 12:20:51 +0000",
     "first_seen_at": "2026-06-30T15:43:14.703Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「GT4盛り上がる！」ポルシェの新型レーシングカー発表にSNS興奮！「公道バージョンは？」の声も",
@@ -4461,7 +4905,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-29T04:57:32.279Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "カローラじゃなかったらどうする!? ワゴン級の積載性で走りも文句なしの実力はって!?",
@@ -4905,7 +5349,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-28T14:58:15.524Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "“Vスペシャル”に“Jリミテッド”…時代を彩った、初代『ロードスター』の限定車たち【懐かしのカーカタログ】",
@@ -4977,7 +5421,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-28T04:47:59.880Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「kph」",
@@ -5289,7 +5733,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-27T04:14:36.183Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「スズキスポーツ復活させたのか！」スズキ『スイフト』用AWIN製ボディキット発売にSNS興奮！",
@@ -5349,7 +5793,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-27T04:14:36.476Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第796回",
@@ -5361,7 +5805,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-27T04:14:35.671Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「喜屋武」",
@@ -5385,7 +5829,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-27T14:56:48.025Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "70万円台で購入可能なヒューマノイド…Unitree『R1』［動画］",
@@ -5889,7 +6333,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-26T04:38:11.122Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【セミナー見逃し配信】※プレミアム・法人会員限定 次のステップを模索する中国自動車メーカーの戦略を俯瞰する",
@@ -5901,7 +6345,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-26T04:38:11.119Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【最終決着】新型エルグランドはアルファードを超えたのか？ 居住性やコスパ 残クレ 納期の違いまで徹底比較!!!",
@@ -6021,7 +6465,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-26T04:38:11.371Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "TOYO TIRE、三重県桑名工場に再生可能エネルギー導入…中部電力ミライズとPPA契約締結",
@@ -6705,7 +7149,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-25T15:47:11.249Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【現地レポート】インド自動車市場の最前線、急成長する市場で日本企業の勝機とは…NRI ジェーン・ヴィニート氏［インタビュー］",
@@ -6813,7 +7257,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-25T15:47:10.782Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "VW『Tクロス』など3車種をリコール…メーターが正しく起動しないおそれ",
@@ -9189,7 +9633,7 @@
     "category": "bike",
     "published_at": null,
     "first_seen_at": "2026-06-22T17:54:34.506Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「こいつはカッコいい」タフ感マシマシの日産『キックス ROCK CREEK』が話題に！「相当売れるぞこのクルマ」",
@@ -10665,7 +11109,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-19T05:22:38.470Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【バス運転士日誌】乗務のない日にプチ東京旅行？ だけど乗ってしまったからには沿線を案内するぜ！",
@@ -11445,7 +11889,7 @@
     "category": "car",
     "published_at": "Thu, 18 Jun 2026 12:00:00 +0000",
     "first_seen_at": "2026-06-18T16:43:50.788Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "“クルマ好き”の不変の居場所！ 4×4エンジニアリングが描くヨンクカルチャー",
@@ -11517,7 +11961,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-18T16:43:51.019Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第788回",
@@ -12165,7 +12609,7 @@
     "category": "car",
     "published_at": "Wed, 17 Jun 2026 22:00:00 +0000",
     "first_seen_at": "2026-06-18T05:00:17.008Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Dead: Porsche's Best Taycan",
@@ -12897,7 +13341,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-17T05:14:27.621Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "国産最強スペックの「スーパーグレートFV-R」堂々登場!!!! 色彩豊かな「ジャパントラックショー2026」三菱ふそうブースを振り返る！",
@@ -12993,7 +13437,7 @@
     "category": "car",
     "published_at": "Wed, 17 Jun 2026 01:00:00 +0000",
     "first_seen_at": "2026-06-17T05:14:27.116Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "The Aston Martin Valkyrie Has One Of The Most Unusual Recalls We've Ever Seen",
@@ -13473,7 +13917,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-16T18:11:53.254Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "XCRスプリントカップ第3戦、ヨコハマタイヤ「ジオランダー」がXC-2クラス表彰台を独占",
@@ -14133,7 +14577,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-15T05:26:15.968Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【独自】新型パジェロで歴史上初の装備が!? トランスファーレバー廃止でかわるパジェロの姿",
@@ -22833,7 +23277,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-06-01T19:00:52.109Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【新連載】『明日のドライブ』『’82エンジェル』、2作品が6月1日から「コミックDAYS」にて配信開始!!",
@@ -23961,7 +24405,7 @@
     "category": "custom",
     "published_at": null,
     "first_seen_at": "2026-05-30T04:15:54.428Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "最高に楽しいスポーツカーが遂に引退！ 受注終了のアルピーヌ「A110」!! 次期型はBEVになるって本当かよ",
@@ -24621,7 +25065,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-05-29T04:40:39.992Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "'In Just Parts?!': Thieves Steal Catalytic Converters From Man's Toyota. Then He Gets The Estimate",
@@ -25005,7 +25449,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.484Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「アッ、危ない！」その瞬間のヒヤリを回避 データシステムの新型マルチビューカメラが魅せた“6パターン”表示に「死角」なし！【PR】",
@@ -25017,7 +25461,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.484Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「いよいよ復活か」「めっちゃ気になる」名車シトロエン『2CV』、新型予告にSNSでは期待の声",
@@ -25041,7 +25485,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.484Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "「光を透過させる加飾シートを用いたカバーパネル」、発明賞受賞…NISSHAが開発",
@@ -25233,7 +25677,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.865Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第765回",
@@ -25413,7 +25857,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.484Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Audi’s CEO Said ‘Good Idea’ and Laughed When Asked About a Third-Gen R8",
@@ -25701,7 +26145,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.484Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ステップワゴン対セレナ!! 家族で長距離移動するならどっちが快適？",
@@ -25977,7 +26421,7 @@
     "category": "car",
     "published_at": "Wed, 27 May 2026 16:00:00 +0000",
     "first_seen_at": "2026-05-28T17:06:44.730Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Woman Told Her Infiniti Needs New Engine. Then She Has It Towed To A New Mechanic For Second Opinion: ‘Thank You For Being Honest’",
@@ -29409,7 +29853,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-04-01T23:58:49.200Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第729回",
@@ -30669,7 +31113,7 @@
     "category": "car",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:06:35.637Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "すぐ買える良いクルマもあるよ!! アウトランダーPHEVは充電可能が嬉しいは間違いなく買い得でしょ！",
@@ -33417,7 +33861,19 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-07-06T04:36:58.322Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
+  },
+  {
+    "title_en": "ElectricThis is Bentley’s first electric car… and it’s called the Torcal06 Jul 2026",
+    "image": "",
+    "url": "https://www.topgear.com/car-news/electric/bentleys-first-electric-car-and-its-called-torcal",
+    "source": "Top Gear EV",
+    "source_logo": "https://www.topgear.com/apple-touch-icon.png",
+    "time": "2026.7.6",
+    "category": "ev",
+    "published_at": null,
+    "first_seen_at": "2026-07-06T16:31:39.236Z",
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricThe Pope has bought 20 Fiat Topolinos for Vatican City03 Jul 2026",
@@ -33429,7 +33885,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-07-03T04:05:59.658Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricWant to drive upside down? The £1.2m production-ready McMurtry Spéirling is here02 Jul 2026",
@@ -33441,7 +33897,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-07-02T15:34:33.516Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "15ElectricHere's every seven-seat+ EV available to buy today01 Jul 2026",
@@ -33453,7 +33909,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-07-01T04:52:15.764Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricDacia has slashed Spring prices to make it the cheapest car in the UK30 Jun 2026",
@@ -33465,7 +33921,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-07-01T04:52:15.764Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Electric'An EV you refuel like a petrol car': is this fast-charging supermini the revolution we need?25 Jun 2026",
@@ -33477,7 +33933,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-25T15:47:11.330Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "11ElectricHere are 11 electric MPVs that prove you don't need an SUV23 Jun 2026",
@@ -33489,7 +33945,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-23T04:18:50.356Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricRenault’s electric Megane has had a facelift and a growth spurt22 Jun 2026",
@@ -33501,7 +33957,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-22T17:54:35.090Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricThe new Citroen 2CV will be a small, sub-€15k ‘E-Car’ that’ll come to the UK22 Jun 2026",
@@ -33513,7 +33969,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-22T05:28:21.801Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricMaserati has facelifted the GranTurismo, GranCabrio and Grecale to make them look like the MCPura19 Jun 2026",
@@ -33525,7 +33981,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-19T16:15:19.742Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricThe 563-mile BMW i3 will start from £53,00519 Jun 2026",
@@ -33537,7 +33993,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-19T16:15:19.742Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "180",
@@ -33549,7 +34005,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-06-18T16:43:52.035Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricSlate Auto’s first truck could start from $24,59018 Jun 2026",
@@ -33597,7 +34053,7 @@
     "category": "ev",
     "published_at": "Wed, 10 Jun 2026 22:08:10 +0000",
     "first_seen_at": "2026-06-11T04:57:22.139Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricBonjour! This is the Peugeot e-208 GTi in production form08 Jun 2026",
@@ -33633,7 +34089,7 @@
     "category": "ev",
     "published_at": "Thu, 04 Jun 2026 11:00:00 +0000",
     "first_seen_at": "2026-06-04T16:29:38.824Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricNew Rolls-Royce Spectre Series II: more power, more range, more… Rolls-Royce02 Jun 2026",
@@ -33681,7 +34137,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.953Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "32Electric33 Chinese brands who are selling cars in the UK now, or soon will be26 May 2026",
@@ -33813,7 +34269,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-05-28T17:06:45.619Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Europe drove global EV sales in April as China exports surged",
@@ -33825,7 +34281,7 @@
     "category": "ev",
     "published_at": "Tue, 12 May 2026 23:01:00 +0000",
     "first_seen_at": "2026-05-28T17:06:45.075Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Europe’s EV sales surge just hit 51% – and oil is the reason why",
@@ -33837,7 +34293,7 @@
     "category": "ev",
     "published_at": "Mon, 20 Apr 2026 15:52:48 +0000",
     "first_seen_at": "2026-05-28T17:06:45.075Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "North America just got its first new kind of lithium refinery",
@@ -33849,7 +34305,7 @@
     "category": "ev",
     "published_at": "Fri, 17 Apr 2026 21:25:54 +0000",
     "first_seen_at": "2026-05-28T17:06:45.075Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Global EV sales hit 4M in Q1 2026, but growth is uneven",
@@ -33861,7 +34317,7 @@
     "category": "ev",
     "published_at": "Tue, 14 Apr 2026 21:23:54 +0000",
     "first_seen_at": "2026-05-28T17:06:45.075Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV prices drop again as the gap with gas cars hits a record low",
@@ -33873,7 +34329,7 @@
     "category": "ev",
     "published_at": "Fri, 10 Apr 2026 19:27:07 +0000",
     "first_seen_at": "2026-05-28T17:06:45.075Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Used EVs just hit a sales record – a much bigger wave is coming",
@@ -33885,7 +34341,7 @@
     "category": "ev",
     "published_at": "Tue, 07 Apr 2026 21:59:16 +0000",
     "first_seen_at": "2026-05-28T17:06:45.075Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricRejoice! The seven-seat Tesla Model Y has risen from the dead03 Apr 2026",
@@ -33909,7 +34365,7 @@
     "category": "ev",
     "published_at": "Thu, 02 Apr 2026 19:22:07 +0000",
     "first_seen_at": "2026-04-03T03:32:46.688Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ElectricRoll up, roll up! Kia EV2 priced from £24,245 in the UK01 Apr 2026",
@@ -33933,7 +34389,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.552Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "177",
@@ -33957,7 +34413,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "2013-2014 Electric Vehicles ComparedWe gather six government-compliant electric appliances for the quietest, slowest comparison test ever.",
@@ -33969,7 +34425,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "2017 Honda Clarity vs. 2016 Toyota MiraiHonda and Toyota both promise that hydrogen fuel cells will power the cars of tomorrow. We test their mettle today.",
@@ -33981,7 +34437,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "2019 Chevy Bolt EV vs. 2019 Hyundai Kona ElectricCan these two electric cars convince you to cancel your Tesla Model 3 reservation?",
@@ -33993,7 +34449,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "20ElectricWant a good EV? Here are the 20 best electric cars on sale right now11 Mar 2026",
@@ -34005,7 +34461,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "25ElectricHere are 25 of the longest-range electric cars you can buy in the UK today20 Feb 2026",
@@ -34029,7 +34485,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "4",
@@ -34041,7 +34497,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "48ElectricWant money off a new EV? Here's everything eligible for the Electric Car Grant21 May 2026",
@@ -34065,7 +34521,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "6",
@@ -34077,7 +34533,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "7",
@@ -34089,7 +34545,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "8",
@@ -34101,7 +34557,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "9",
@@ -34113,7 +34569,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.553Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "A Guide to Every EV for Sale in the U.S. for 2026",
@@ -34125,7 +34581,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Audi Shows How Towing Affects an EV's RangeUnsurprisingly, the e-tron's efficiency takes a huge hit when the SUV is pulling a 4000-pound trailer.Feb 13, 2020",
@@ -34137,7 +34593,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Best Hybrid/EV Lease Deals for November 2024Nov 9, 2024",
@@ -34149,7 +34605,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "BEVs with the Longest Driving RangeThese battery-electric cars traveled the farthest on a full charge in our testing.Jan 9, 2026",
@@ -34161,7 +34617,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Buying a CPO EV Makes A Lot of SenseMay 22, 2020",
@@ -34173,7 +34629,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "California Tightens EV Cash Rebates Nov 18, 2019",
@@ -34185,7 +34641,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Electric Vehicle Maintenance: the FAQs",
@@ -34197,7 +34653,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Electric“The essence of the BMW brand”: this is the new, 560-mile BMW i318 Mar 2026",
@@ -34305,7 +34761,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:28:01.299Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV Range: Everything You Need to KnowWe explain EPA ratings, factors that affect range, how EVs have performed in our testing, and why it's all very complicated.Feb 7, 2025",
@@ -34317,7 +34773,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV vs. Gas: Which Cars Are Cheaper to Own?We use data and simple math to attempt to answer this very complicated question, and in the process find both enlightenment and more questions.Oct 28, 2022",
@@ -34329,7 +34785,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Every Electric Pickup Truck on the HorizonFord's F-150 Lightning and Chevy's Silverado EV aren't the only battery-powered pickups that are coming soon.",
@@ -34341,7 +34797,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Expert Reviews",
@@ -34353,7 +34809,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Future EVs: Every Electric Vehicle Coming SoonJun 22, 2026",
@@ -34365,7 +34821,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:28:01.299Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "How Long Does It Take to Charge an Electric Car? Every EV user has wondered about this. There's no simple answer, but knowing the variables will help you better estimate the time it takes for an EV fill-up.",
@@ -34377,7 +34833,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "How Long Does It Take to Charge an Electric Car? Mar 1, 2026",
@@ -34389,7 +34845,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "How Much Does Climate Control Affect EV Range?We cranked up the heat in our Tesla Model 3 to find out just how much of an impact it has.Mar 19, 2020",
@@ -34401,7 +34857,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "How Much Does It Cost to Charge an EV?Few people know what a kilowatt-hour costs them, so they don’t realize how affordable EV home charging is compared to gasoline. On the road, the cost of EV fast charging is far more complicated and expensive.",
@@ -34413,7 +34869,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "How to Choose: Hybrid, EV, PHEV, or Fuel-Cell Car?",
@@ -34425,7 +34881,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "How We Test Cars",
@@ -34437,7 +34893,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Most Influential EVs: An Illustrated HistoryWhile many people think of EVs as a new form of transportation, electricity actually has been competing with gasoline and steam to power automobiles since 1899. May 22, 2020",
@@ -34449,7 +34905,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Parallel vs. Series Hybrids: FAQ for Shoppers",
@@ -34461,7 +34917,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Porsche Taycan vs. Tesla Model S: The TestAfter eight uncontested years, Tesla's Model S finally has a rival in the 2020 Porsche Taycan.",
@@ -34473,7 +34929,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Stories and Features",
@@ -34485,7 +34941,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Toyota Prius Wasn't the First Hybrid, So What Was?",
@@ -34497,7 +34953,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Used EV Bargains Under $10,000This week, we set our sights on finding electric cars for less than $10,000. By Tony QuirogaSep 11, 2020",
@@ -34509,7 +34965,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.609Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "What Are the Different EV Charging Levels? A quick guide to all types of electric-car charging, from Level 1 home charging to Level 3 fast-charging.",
@@ -34521,7 +34977,7 @@
     "category": "ev",
     "published_at": null,
     "first_seen_at": "2026-03-31T01:27:03.608Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "What Are the Different Types of Hybrid Cars?",
@@ -34593,7 +35049,7 @@
     "category": "ev",
     "published_at": "Fri, 27 Mar 2026 14:06:08 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Car owners turn to EVs as 30-40% of Gulf energy capacity is destroyed",
@@ -34605,7 +35061,7 @@
     "category": "ev",
     "published_at": "Thu, 26 Mar 2026 14:31:47 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "New EV fee proposals charge owners 2-3x what gas drivers pay in federal tax",
@@ -34617,7 +35073,7 @@
     "category": "ev",
     "published_at": "Thu, 19 Mar 2026 00:32:01 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EVs wiped out oil demand equal to 70% of Iran’s exports in 2025",
@@ -34629,7 +35085,7 @@
     "category": "ev",
     "published_at": "Wed, 18 Mar 2026 00:01:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Global EV sales hit 1.1 million – Europe surges while the US slides",
@@ -34641,7 +35097,7 @@
     "category": "ev",
     "published_at": "Fri, 13 Mar 2026 00:01:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV prices fall again – and the gap with gas cars shrinks to $6,500",
@@ -34653,7 +35109,7 @@
     "category": "ev",
     "published_at": "Tue, 10 Mar 2026 22:09:46 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "A reminder as oil prices spike: EVs are the #1 route to energy independence",
@@ -34665,7 +35121,7 @@
     "category": "ev",
     "published_at": "Tue, 10 Mar 2026 17:55:46 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Lithium shortages could hit by 2028 as EV demand surges",
@@ -34677,7 +35133,7 @@
     "category": "ev",
     "published_at": "Wed, 04 Mar 2026 00:32:29 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Most EV batteries outlast their cars, real-world data shows",
@@ -34689,7 +35145,7 @@
     "category": "ev",
     "published_at": "Wed, 18 Feb 2026 20:47:01 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Once you go EV, you don&#8217;t go back: Study finds 96% of owners plan to stay electric",
@@ -34701,7 +35157,7 @@
     "category": "ev",
     "published_at": "Wed, 18 Feb 2026 15:18:41 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Trump can&#8217;t freeze NEVI funds, so he&#8217;s trying to stall them – again",
@@ -34713,7 +35169,7 @@
     "category": "ev",
     "published_at": "Tue, 10 Feb 2026 23:08:13 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Tesla pushed EV prices lower in January, but sales kept sliding",
@@ -34725,7 +35181,7 @@
     "category": "ev",
     "published_at": "Tue, 10 Feb 2026 21:11:51 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Nebula Next enters the luxury EV race with its bold 01 Concept that debuted at CES",
@@ -34737,7 +35193,7 @@
     "category": "ev",
     "published_at": "Sat, 07 Feb 2026 15:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Free V2X chargers will let Massachusetts EVs power the grid",
@@ -34749,7 +35205,7 @@
     "category": "ev",
     "published_at": "Tue, 03 Feb 2026 18:33:57 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EVs promised cleaner air. Satellites say it’s finally happening.",
@@ -34761,7 +35217,7 @@
     "category": "ev",
     "published_at": "Tue, 27 Jan 2026 00:01:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Federal EV incentives ended, California’s ZEV sales grew anyway",
@@ -34773,7 +35229,7 @@
     "category": "ev",
     "published_at": "Thu, 22 Jan 2026 23:17:23 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Here are 8 tips for the best EV winter range and performance",
@@ -34785,7 +35241,7 @@
     "category": "ev",
     "published_at": "Thu, 22 Jan 2026 20:06:30 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Contrary to popular belief, EV sales growth continued to accelerate in 2025",
@@ -34797,7 +35253,7 @@
     "category": "ev",
     "published_at": "Wed, 14 Jan 2026 11:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Kelley Blue Book: EV incentives hit record highs in December",
@@ -34809,7 +35265,7 @@
     "category": "ev",
     "published_at": "Tue, 13 Jan 2026 22:28:48 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Canada and China near deal to drop EV tariffs as Trump pushes allies away",
@@ -34821,7 +35277,7 @@
     "category": "ev",
     "published_at": "Tue, 13 Jan 2026 19:56:40 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EU and China are close to deal on electric cars, as Chinese EVs surge even with tariffs in Europe",
@@ -34833,7 +35289,7 @@
     "category": "ev",
     "published_at": "Mon, 12 Jan 2026 14:31:50 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "BEVs take 1/3 of new car sales in UK in December, already meeting 2026 target",
@@ -34845,7 +35301,7 @@
     "category": "ev",
     "published_at": "Tue, 06 Jan 2026 00:30:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Electric vehicles will end oil wars &#8211; if we let them",
@@ -34857,7 +35313,7 @@
     "category": "ev",
     "published_at": "Sat, 03 Jan 2026 22:33:38 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Is now the best time to buy an EV as year-end deals wrap up?",
@@ -34869,7 +35325,7 @@
     "category": "ev",
     "published_at": "Mon, 29 Dec 2025 22:29:53 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "25% of new cars sold globally in 2025 were EVs – here&#8217;s who bought them",
@@ -34881,7 +35337,7 @@
     "category": "ev",
     "published_at": "Thu, 18 Dec 2025 00:22:47 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Global EV sales jump 21% in 2025 as Europe surges and the US stalls",
@@ -34893,7 +35349,7 @@
     "category": "ev",
     "published_at": "Fri, 12 Dec 2025 00:01:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV incentives climb as prices soften heading into late 2025",
@@ -34905,7 +35361,7 @@
     "category": "ev",
     "published_at": "Wed, 10 Dec 2025 21:39:59 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "October EV sales slid, but deals and rebates are still in play",
@@ -34917,7 +35373,7 @@
     "category": "ev",
     "published_at": "Fri, 14 Nov 2025 20:26:56 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV sales *still* have not fallen, cooled, slowed or slumped. Media is lying to you.",
@@ -34929,7 +35385,7 @@
     "category": "ev",
     "published_at": "Wed, 12 Nov 2025 13:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Canada is rumored to imminently remove tariffs on Chinese electric cars",
@@ -34941,7 +35397,7 @@
     "category": "ev",
     "published_at": "Mon, 27 Oct 2025 18:23:23 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "New study of 1,300 EVs busts battery degradation myths, Kia and Tesla top the list",
@@ -34953,7 +35409,7 @@
     "category": "ev",
     "published_at": "Mon, 27 Oct 2025 16:41:24 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ZEVs capture record 29.1% of California’s new car market in Q3",
@@ -34965,7 +35421,7 @@
     "category": "ev",
     "published_at": "Fri, 17 Oct 2025 21:05:43 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "US average new car price tops $50k for the first time – here&#8217;s why",
@@ -34977,7 +35433,7 @@
     "category": "ev",
     "published_at": "Mon, 13 Oct 2025 22:52:36 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "US EV sales smash records in August as Tesla loses ground",
@@ -34989,7 +35445,7 @@
     "category": "ev",
     "published_at": "Wed, 10 Sep 2025 21:31:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Electric vehicles reach tipping point in China, surge to 51% market share",
@@ -35001,7 +35457,7 @@
     "category": "ev",
     "published_at": "Fri, 29 Aug 2025 12:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "IRS gives a little more time for electric car buyers to secure the $7,500 tax credit",
@@ -35013,7 +35469,7 @@
     "category": "ev",
     "published_at": "Mon, 25 Aug 2025 16:53:21 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "ION ships first commercial solid-state battery cell samples",
@@ -35025,7 +35481,7 @@
     "category": "ev",
     "published_at": "Thu, 14 Aug 2025 18:20:35 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Tesla leads price cuts as US EV sales post 2nd-best month ever",
@@ -35037,7 +35493,7 @@
     "category": "ev",
     "published_at": "Mon, 11 Aug 2025 22:25:10 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Mangrove&#8217;s new lithium plant will boost North America&#8217;s EV game",
@@ -35049,7 +35505,7 @@
     "category": "ev",
     "published_at": "Thu, 17 Jul 2025 14:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV deals are heating up – buyers now save over $8K on average",
@@ -35061,7 +35517,7 @@
     "category": "ev",
     "published_at": "Tue, 15 Jul 2025 18:31:16 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EVs are 73% cleaner than gas cars – even with battery production",
@@ -35073,7 +35529,7 @@
     "category": "ev",
     "published_at": "Wed, 09 Jul 2025 21:38:03 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV prices dipped in May – and Tesla Model Y led the slide",
@@ -35085,7 +35541,7 @@
     "category": "ev",
     "published_at": "Tue, 10 Jun 2025 22:39:23 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "The 2025 Honda Prologue EV just got $16,500 cheaper to buy or lease",
@@ -35097,7 +35553,7 @@
     "category": "ev",
     "published_at": "Thu, 29 May 2025 17:10:16 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "1 in 4 cars sold in 2025 will be EVs, and that&#8217;s just the beginning",
@@ -35109,7 +35565,7 @@
     "category": "ev",
     "published_at": "Wed, 14 May 2025 04:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "GOP leader confirms plan to kill $7,500 EV tax credit in budget",
@@ -35121,7 +35577,7 @@
     "category": "ev",
     "published_at": "Tue, 06 May 2025 19:20:52 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Used EV prices fell 40%, and buyers are searching like never before",
@@ -35133,7 +35589,7 @@
     "category": "ev",
     "published_at": "Wed, 23 Apr 2025 19:36:46 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Vermont sees an explosive 41% rise in EV adoption in just a year",
@@ -35145,7 +35601,7 @@
     "category": "ev",
     "published_at": "Tue, 22 Apr 2025 23:15:39 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "New York adds $30 million more to its EV rebate pot",
@@ -35157,7 +35613,7 @@
     "category": "ev",
     "published_at": "Mon, 21 Apr 2025 19:01:01 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Global EV sales jump 40% in March despite tariff turmoil",
@@ -35169,7 +35625,7 @@
     "category": "ev",
     "published_at": "Mon, 14 Apr 2025 23:01:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Looking for an EV lease under $200 a month? Here&#8217;s what&#8217;s available in April",
@@ -35181,7 +35637,7 @@
     "category": "ev",
     "published_at": "Sat, 12 Apr 2025 13:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Tesla Model 3 and Model Y prices rose higher in March as sales fell",
@@ -35193,7 +35649,7 @@
     "category": "ev",
     "published_at": "Wed, 09 Apr 2025 19:48:21 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "This anodeless, compressionless solid-state battery could be the next big thing [Update]",
@@ -35205,7 +35661,7 @@
     "category": "ev",
     "published_at": "Thu, 27 Mar 2025 23:13:06 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Volkswagen just revealed the 2025 ID.4&#8217;s initial pricing and trim [update]",
@@ -35217,7 +35673,7 @@
     "category": "ev",
     "published_at": "Mon, 17 Mar 2025 21:54:41 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Killing IRA EV tax credits will ruin US EV and battery industries – Princeton study",
@@ -35229,7 +35685,7 @@
     "category": "ev",
     "published_at": "Thu, 13 Mar 2025 23:25:18 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV incentives surged to 14.8% of ATP in Feb – highest in 5+ years",
@@ -35241,7 +35697,7 @@
     "category": "ev",
     "published_at": "Tue, 11 Mar 2025 21:24:02 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EU gives automakers breathing room, slashes Tesla&#8217;s emission credit revenue",
@@ -35253,7 +35709,7 @@
     "category": "ev",
     "published_at": "Mon, 03 Mar 2025 16:32:57 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Republican districts lose billions as clean energy cancellations surge",
@@ -35265,7 +35721,7 @@
     "category": "ev",
     "published_at": "Sat, 15 Feb 2025 01:17:48 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Cox: EVs are America&#8217;s future, but policy will set the pace",
@@ -35277,7 +35733,7 @@
     "category": "ev",
     "published_at": "Fri, 14 Feb 2025 23:54:16 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Global EV sales surge 18% y-o-y – but speed bumps lie ahead",
@@ -35289,7 +35745,7 @@
     "category": "ev",
     "published_at": "Wed, 12 Feb 2025 01:56:50 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "In January, US EV prices held steady, incentive spending fell",
@@ -35301,7 +35757,7 @@
     "category": "ev",
     "published_at": "Tue, 11 Feb 2025 21:57:18 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "There&#8217;s finally(!) an automatic fix to restart failed EV charging sessions",
@@ -35313,7 +35769,7 @@
     "category": "ev",
     "published_at": "Thu, 06 Feb 2025 22:50:07 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Mercedes is already heavily discounting its 2025 EVs",
@@ -35325,7 +35781,7 @@
     "category": "ev",
     "published_at": "Wed, 05 Feb 2025 23:07:39 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Here are the best EV deals you can snag for under $300 a month right now",
@@ -35337,7 +35793,7 @@
     "category": "ev",
     "published_at": "Wed, 05 Feb 2025 20:02:04 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Here are the EVs you can still lease for under $300 a month in January",
@@ -35349,7 +35805,7 @@
     "category": "ev",
     "published_at": "Sat, 25 Jan 2025 13:00:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Jaguar Land Rover invests $2M in rare earth magnets recycling",
@@ -35361,7 +35817,7 @@
     "category": "ev",
     "published_at": "Thu, 23 Jan 2025 19:53:45 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Trump attacks EVs with executive orders, but mostly signals further damages",
@@ -35373,7 +35829,7 @@
     "category": "ev",
     "published_at": "Tue, 21 Jan 2025 16:02:52 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "The top electric cars in this winter range test will surprise you",
@@ -35385,7 +35841,7 @@
     "category": "ev",
     "published_at": "Fri, 17 Jan 2025 18:03:01 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "As Biden heads out, $43.7M goes to 25 EV charging accelerator projects",
@@ -35397,7 +35853,7 @@
     "category": "ev",
     "published_at": "Thu, 16 Jan 2025 23:27:30 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "In December, EV sales were still up and incentives were still sweet – Kelley Blue Book",
@@ -35409,7 +35865,7 @@
     "category": "ev",
     "published_at": "Wed, 15 Jan 2025 23:08:18 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Trump DOT nominee signals extra fees for EVs, continued NHTSA investigation into Tesla",
@@ -35421,7 +35877,7 @@
     "category": "ev",
     "published_at": "Wed, 15 Jan 2025 19:11:59 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Here are the top 10 best-selling EVs in the US of 2024",
@@ -35433,7 +35889,7 @@
     "category": "ev",
     "published_at": "Tue, 14 Jan 2025 15:33:03 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Contrary to popular belief, EV sales grew more in 2024 than 2023",
@@ -35445,7 +35901,7 @@
     "category": "ev",
     "published_at": "Tue, 14 Jan 2025 10:32:00 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Cox Automotive: 1 in 4 vehicles sold in 2025 will be &#8216;electrified&#8217;",
@@ -35457,7 +35913,7 @@
     "category": "ev",
     "published_at": "Mon, 06 Jan 2025 22:21:20 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "Planning to buy an EV in December? This is the only tool you need",
@@ -35469,7 +35925,7 @@
     "category": "ev",
     "published_at": "Fri, 13 Dec 2024 15:13:34 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "&#8216;EVs right now are the best deals in the market&#8217; – Kelley Blue Book",
@@ -35481,7 +35937,7 @@
     "category": "ev",
     "published_at": "Wed, 11 Dec 2024 20:53:17 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "After buying an EV, less than 1% of drivers go back to gas-powered cars",
@@ -35493,7 +35949,7 @@
     "category": "ev",
     "published_at": "Tue, 10 Dec 2024 22:54:08 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV batteries may last up to 40% longer than expected – Stanford",
@@ -35505,7 +35961,7 @@
     "category": "ev",
     "published_at": "Tue, 10 Dec 2024 20:14:31 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EVs and hybrids hit a record high in US sales in Q3 2024",
@@ -35517,7 +35973,7 @@
     "category": "ev",
     "published_at": "Mon, 09 Dec 2024 17:07:02 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "These EVs are a steal with lease prices under $300 a month this Black Friday [Updated]",
@@ -35529,7 +35985,7 @@
     "category": "ev",
     "published_at": "Wed, 27 Nov 2024 22:00:55 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   },
   {
     "title_en": "EV sales are set to surge as buyers rush to claim discounts that may disappear in 2025",
@@ -35541,246 +35997,6 @@
     "category": "ev",
     "published_at": "Wed, 27 Nov 2024 17:36:27 +0000",
     "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "Honda Prologue and Chevy Equinox drive EV incentives to record levels in October",
-    "image": "",
-    "url": "https://electrek.co/2024/11/13/honda-prologue-chevy-equinox-bump-ev-incentives-to-new-record/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.11.13",
-    "category": "ev",
-    "published_at": "Wed, 13 Nov 2024 18:39:06 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "IEA: Countries need to ramp up energy efficiency to hit 2030 target",
-    "image": "",
-    "url": "https://electrek.co/2024/11/07/iea-energy-efficiency-2030-target/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.11.7",
-    "category": "ev",
-    "published_at": "Thu, 07 Nov 2024 21:07:48 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "EV sales have not fallen, cooled, slowed or slumped. Stop lying in headlines.",
-    "image": "",
-    "url": "https://electrek.co/2024/10/24/ev-sales-have-not-fallen-cooled-slowed-or-slumped-stop-lying-in-headlines/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.10.24",
-    "category": "ev",
-    "published_at": "Thu, 24 Oct 2024 16:42:34 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "Top EVs you can lease for under $200 a month this October [Updated]",
-    "image": "",
-    "url": "https://electrek.co/2024/10/22/top-evs-lease-under-200-a-month-october/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.10.22",
-    "category": "ev",
-    "published_at": "Tue, 22 Oct 2024 21:46:06 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "Your electric car will fall apart before its battery pack does, study finds",
-    "image": "",
-    "url": "https://electrek.co/2024/09/19/electric-car-will-fall-apart-before-its-battery-pack-does-study-finds/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.9.19",
-    "category": "ev",
-    "published_at": "Thu, 19 Sep 2024 16:14:01 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "Here are the EVs you can lease for under $300 a month this September [Updated]",
-    "image": "",
-    "url": "https://electrek.co/2024/09/13/evs-lease-under-300-month-september-updated/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.9.13",
-    "category": "ev",
-    "published_at": "Fri, 13 Sep 2024 20:57:35 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "In August, incentives for EVs were 80% higher than for gas cars",
-    "image": "",
-    "url": "https://electrek.co/2024/09/11/august-incentives-evs-were-80-higher-than-for-gas-cars/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.9.11",
-    "category": "ev",
-    "published_at": "Wed, 11 Sep 2024 20:03:18 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "The greatest barrier to EV adoption? Lack of familiarity",
-    "image": "",
-    "url": "https://electrek.co/2024/09/06/the-greatest-barrier-to-ev-adoption-lack-of-familiarity/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.9.6",
-    "category": "ev",
-    "published_at": "Fri, 06 Sep 2024 21:15:29 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "Ignorance of how EVs work is holding back uptake, says survey",
-    "image": "",
-    "url": "https://electrek.co/2024/09/04/ignorance-of-how-evs-work-is-holding-back-uptake-says-survey/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.9.4",
-    "category": "ev",
-    "published_at": "Wed, 04 Sep 2024 18:16:23 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "Interest in EVs just hit a record in the US with big discounts, more affordable options",
-    "image": "",
-    "url": "https://electrek.co/2024/08/29/interest-evs-record-us-prices-drop/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.8.29",
-    "category": "ev",
-    "published_at": "Thu, 29 Aug 2024 18:16:57 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "No, the Rivian factory didn&#8217;t catch on fire – this is what happened",
-    "image": "",
-    "url": "https://electrek.co/2024/08/25/no-the-rivian-factory-didnt-catch-on-fire-this-is-what-happened/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.8.25",
-    "category": "ev",
-    "published_at": "Sun, 25 Aug 2024 19:41:12 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-07-06T04:37:04.290Z"
-  },
-  {
-    "title_en": "Electric vehicles hit major milestone as 18 models join the 5K sales club in Q2",
-    "image": "",
-    "url": "https://electrek.co/2024/08/21/electric-vehicles-hit-milestone-18-models-5k-sales/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.8.21",
-    "category": "ev",
-    "published_at": "Wed, 21 Aug 2024 20:44:46 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-06-10T16:45:23.755Z"
-  },
-  {
-    "title_en": "In July, Tesla Model 3&#8217;s price was 30% higher than January (but EV prices are still dropping)",
-    "image": "",
-    "url": "https://electrek.co/2024/08/13/july-ev-price-model-3/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.8.13",
-    "category": "ev",
-    "published_at": "Tue, 13 Aug 2024 20:24:58 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-06-04T05:03:12.756Z"
-  },
-  {
-    "title_en": "EV sales aren&#8217;t &#8216;lagging&#8217; – they&#8217;re headed for long-term growth",
-    "image": "",
-    "url": "https://electrek.co/2024/06/12/ev-sales-arent-lagging-theyre-headed-for-long-term-growth/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.6.12",
-    "category": "ev",
-    "published_at": "Wed, 12 Jun 2024 17:00:41 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-04-06T14:10:46.841Z"
-  },
-  {
-    "title_en": "Cybertruck sales in May boosted Tesla&#8217;s 2024 ATPs by more than 10%",
-    "image": "",
-    "url": "https://electrek.co/2024/06/11/cybertruck-sales-in-may-boosted-teslas-2024-atps-by-more-than-10/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.6.11",
-    "category": "ev",
-    "published_at": "Tue, 11 Jun 2024 20:54:18 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-04-06T14:10:46.841Z"
-  },
-  {
-    "title_en": "Donald Trump goes on electric car rant full of lies and hilarious nonsense",
-    "image": "",
-    "url": "https://electrek.co/2024/06/10/donald-trump-electric-car-rant-full-lies-hilarious-nonsense/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.6.10",
-    "category": "ev",
-    "published_at": "Mon, 10 Jun 2024 14:37:37 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-04-06T14:10:46.841Z"
-  },
-  {
-    "title_en": "The VW ID.4 lease price is now the same as the Tesla Model Y",
-    "image": "",
-    "url": "https://electrek.co/2024/06/06/vw-id-4-lease-price-tesla-model-y/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.6.6",
-    "category": "ev",
-    "published_at": "Thu, 06 Jun 2024 18:24:19 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-04-06T14:10:46.841Z"
-  },
-  {
-    "title_en": "VW wants you to design a unique wrap for your ID. Buzz",
-    "image": "",
-    "url": "https://electrek.co/2024/05/30/vw-wants-you-to-design-a-unique-wrap-for-your-id-buzz/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.5.30",
-    "category": "ev",
-    "published_at": "Thu, 30 May 2024 17:39:47 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-04-06T14:10:46.841Z"
-  },
-  {
-    "title_en": "EVs now beat rail as the largest electricity consumer in the US transport sector",
-    "image": "",
-    "url": "https://electrek.co/2024/05/20/evs-rail-largest-electricity-consumer-us-transport-sector/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.5.20",
-    "category": "ev",
-    "published_at": "Mon, 20 May 2024 18:44:28 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-04-06T14:10:46.841Z"
-  },
-  {
-    "title_en": "In April, Tesla prices were higher month-over-month but lower year-over-year",
-    "image": "",
-    "url": "https://electrek.co/2024/05/15/april-2024-tesla-prices/",
-    "source": "Electrek",
-    "source_logo": "https://electrek.co/wp-content/uploads/sites/3/2018/09/cropped-electrek-logo11.png",
-    "time": "2024.5.15",
-    "category": "ev",
-    "published_at": "Wed, 15 May 2024 21:20:16 +0000",
-    "first_seen_at": "2026-03-31T01:27:04.720Z",
-    "last_seen_at": "2026-04-02T14:22:09.229Z"
+    "last_seen_at": "2026-07-06T16:31:44.061Z"
   }
 ]
