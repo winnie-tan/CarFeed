@@ -1,122 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-05T14:54:38.503Z",
+    "generated_at": "2026-07-06T04:37:04.440Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 383,
-    "deepseek_untranslated_before_run": 17,
-    "newly_fetched_articles": 17,
-    "newly_fetched_untranslated": 17,
+    "deepseek_translated_before_run": 372,
+    "deepseek_untranslated_before_run": 28,
+    "newly_fetched_articles": 28,
+    "newly_fetched_untranslated": 28,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 17,
+    "translation_queue_count": 28,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.5",
-        "title": "Man Takes His Car To Speedway And Puts In $22 Worth Of Gas. Then He Tries To Turn On The Engine: ‘Don’t use E-15’",
-        "url": "https://www.motor1.com/news/800643/car-wont-start-after-speedway-fuel/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.5",
-        "title": "Moss-Covered Toyota Land Cruiser Startup Video Proves That Legends Never Die",
-        "url": "https://www.thedrive.com/news/moss-covered-toyota-land-cruiser-startup-video-proves-that-legends-never-die"
+        "source": "Best Car Web",
+        "time": "2026.7.6",
+        "title": "「AIドライバー」が別メーカーのトラックを運転したらどうなる!? 自動運転システムの「汎化」性能が興味深い",
+        "url": "https://bestcarweb.jp/fullload/1567349"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.5",
-        "title": "「スズキ始まったな」鈴鹿8耐に復活の新型スーパースポーツ『GSX-R1000R』登場！ SNSでの反応は？",
-        "url": "https://response.jp/article/2026/07/05/413610.html"
+        "time": "2026.7.6",
+        "title": "「鈴鹿8耐2026」雨のレース、ホンダが5連勝、BMWは国外メーカー初の表彰台に",
+        "url": "https://response.jp/article/2026/07/06/413620.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.5",
-        "title": "「パーツ＆部材編」車内静音化の部材はどう選ぶ？［カー用音響機材・チョイスの極意］",
-        "url": "https://response.jp/article/2026/07/05/413607.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.5",
-        "title": "『ジムニーノマド』AT車の出力を約6.9psアップ、ブリッツの「チューニングECU」",
-        "url": "https://response.jp/article/2026/07/05/413605.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.5",
-        "title": "【トヨタ RAV4 新型試乗】おそろしくスムーズなハイブリッド、まさに「至れり尽くせり」…中村孝仁",
-        "url": "https://response.jp/article/2026/07/05/413615.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.5",
-        "title": "T2、国交省の自動運転トラック支援事業に採択---複数台運行でレベル4実装を加速",
-        "url": "https://response.jp/article/2026/07/05/413611.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.5",
-        "title": "Tennessee Man Reaches For Item At Lowe's. Then He Runs Into A Surprising New Touchscreen: ‘No Need To Wait’",
-        "url": "https://www.motor1.com/news/800635/lowes-locked-items-touchscreen/"
+        "time": "2026.7.6",
+        "title": "『ハイエース』ベースのキャンピングカー受注を「持ち込み架装」に変更、供給見通し不透明で…トイファクトリー",
+        "url": "https://response.jp/article/2026/07/06/413634.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.5",
-        "title": "オジサンはロードスターでMT復帰でしょ!! 愛され続ける理由に納得すぎた",
-        "url": "https://bestcarweb.jp/feature/column/1551357"
+        "time": "2026.7.6",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第802回",
+        "url": "https://bestcarweb.jp/feature/column/1561579"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.6",
+        "title": "1年間の出費はトータルで約96万円!? 新型フォレスターを残クレで購入したオーナーのリアルな維持費",
+        "url": "https://bestcarweb.jp/newcar/1568644"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.5",
-        "title": "ガチャコ、EVバイク向けバッテリーレンタル「ベーシックプラン」全国展開…初期費用ゼロで月額2530円から",
-        "url": "https://response.jp/article/2026/07/05/413606.html"
+        "time": "2026.7.6",
+        "title": "BMW『7シリーズ』改良新型、生産開始…既存モデルに「ノイエ・クラッセ」技術を初導入",
+        "url": "https://response.jp/article/2026/07/06/413638.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.5",
-        "title": "スタイリッシュ・アッシュトレイ、どうせなら“カッコイイ”方が良い！ すべて新作［特選カーアクセサリー名鑑］",
-        "url": "https://response.jp/article/2026/07/05/413613.html"
+        "time": "2026.7.6",
+        "title": "MINI JCWのEV、2つの「TRACK STYLE EDITIONE」発売…各25台限定で640万円から",
+        "url": "https://response.jp/article/2026/07/06/413616.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "Uber Japan、即時宅配便サービス「Courier」を全国47都道府県に拡大…軽バン配送も新たに開始",
+        "url": "https://response.jp/article/2026/07/06/413639.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.5",
-        "title": "パジェロ復活予定の今!! 三菱を世界的SUVメーカーに押し上げた名車！ 歴代パジェロの進化がスゴイ",
-        "url": "https://bestcarweb.jp/feature/column/1549497"
+        "time": "2026.7.6",
+        "title": "あの頃の熱狂は戻らず…伝説の名は重すぎた!? 復活グルマの苦戦劇",
+        "url": "https://bestcarweb.jp/feature/column/1567058"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.5",
-        "title": "マーチNISMO Sが今まさにねらい目の価格帯か!? 最安値は60万円台だけど見落とせない注意点も、、、",
-        "url": "https://bestcarweb.jp/feature/column/1565183"
+        "time": "2026.7.6",
+        "title": "え、GRヤリスって中古高いんじゃない!? 24式より前の年式こそイマまさにねらい目か!?",
+        "url": "https://bestcarweb.jp/feature/column/1564836"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "サングラスダブルクリップ、マグネット式でサンバイザーに簡単装着…クラフトワークスが発売",
+        "url": "https://response.jp/article/2026/07/06/413641.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "ソラコム、IoTカンファレンス「SORACOM Discovery」を開催 7月7日",
+        "url": "https://response.jp/article/2026/07/06/413643.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.5",
-        "title": "まだ100万円台の良個体アリ!? 「小さなランエボ」コルトラリーアートを中古で狙う最後の好機！",
-        "url": "https://bestcarweb.jp/feature/column/1565138"
+        "time": "2026.7.6",
+        "title": "ソリオは軽スーパーハイトワゴンからの乗り換えに最高？ スペーシアより広くて余裕ある選択肢",
+        "url": "https://bestcarweb.jp/news/1556855"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "トヨタ『エスティマ』が“走りのミニバン”として復活か…アルファードと棲み分けは",
+        "url": "https://response.jp/article/2026/07/06/413623.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "フィジカルAIがもたらす自動車業界の地殻変動とモビリティの未来…博報堂ＤＹホールディングス 執行役員 CAIO 森正弥氏［インタビュー］",
+        "url": "https://response.jp/article/2026/07/06/413617.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "プレミアグループ、主要子会社4社をプレミア株式会社に完全統合",
+        "url": "https://response.jp/article/2026/07/06/413636.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "ポルシェ、新型『カイエン・エレクトリック』を日本初公開へ…フォーミュラE「Tokyo E-Prix」",
+        "url": "https://response.jp/article/2026/07/06/413619.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.6",
+        "title": "ホンダF1初タイトル40周年、「Williams Honda FW11」と『プレリュード HRC』がデモ走行へ…グッドウッド2026",
+        "url": "https://response.jp/article/2026/07/06/413626.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.5",
-        "title": "ランクル300オーナーだから分かるランクル250のリアル!? しかも環境性能割の廃止でコミコミ755万円！",
-        "url": "https://bestcarweb.jp/feature/column/1566907"
+        "time": "2026.7.6",
+        "title": "マニアと家族連れの夢と希望が一堂に会した「スルッとKANSAI バスまつり」は深い愛に満ちていた!!",
+        "url": "https://bestcarweb.jp/busmagazine/1547788"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.5",
-        "title": "Here’s a Peek at the F1 Drivers’ Parking Lot in Silverstone",
-        "url": "https://www.thedrive.com/news/heres-a-peek-at-the-f1-drivers-parking-lot-in-silverstone"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.5",
-        "title": "Woman Leases A Tesla. Then She Finds Out She Owes $2,141 In Wear-And-Tear Charges: ‘Tesla Leases Are Very Strict’",
-        "url": "https://www.motor1.com/news/800634/tesla-lease-2141-dollar-charge/"
+        "source": "Best Car Web",
+        "time": "2026.7.6",
+        "title": "ライズは軽SUVからの乗り換えにアリ？ タフトやハスラーより広くて力強い選択肢",
+        "url": "https://bestcarweb.jp/feature/column/1556727"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28744714903",
-    "sha": "c960f9184eafd76b372ea688696dabc3b93b121f",
-    "completed_at": "2026-07-05T14:55:17.939Z",
+    "run_id": "28768125949",
+    "sha": "89cd167499c3dec26cd4a7b9ffac39961e94fe45",
+    "completed_at": "2026-07-06T04:38:01.251Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -127,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 17,
-    "queued_articles": 17,
-    "processed": 17,
-    "started_at": "2026-07-05T14:54:38.826Z",
-    "finished_at": "2026-07-05T14:55:17.678Z",
+    "scoped_articles": 28,
+    "queued_articles": 28,
+    "processed": 28,
+    "started_at": "2026-07-06T04:37:04.747Z",
+    "finished_at": "2026-07-06T04:38:00.994Z",
     "success": true,
     "error": ""
   }

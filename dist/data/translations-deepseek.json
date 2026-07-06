@@ -63005,5 +63005,674 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-05T14:55:17.663Z"
+  },
+  "https://bestcarweb.jp/fullload/1567349": {
+    "title_zh": "AI 驾驶员开别家卡车？自动驾驶系统“泛化”性能引关注",
+    "summary_short": "美国 AI 初创公司 Waabi 实现自动驾驶系统跨平台泛化，AI 驾驶员从 Peterbilt 579 切换到 Volvo VNL 无需调整即可完美驾驶。",
+    "summary_long": "美国 AI 初创公司 Waabi 致力于通过物理 AI 实现自动驾驶。该公司此前已证明虚拟驾驶员能从高速公路泛化至一般道路，近日又成功实现跨平台泛化：将 AI 驾驶员从 Peterbilt 579 切换至 Volvo VNL，两者传感器和控制系统完全不同，但 AI 无需任何额外学习或微调，从第一英里起即完美驾驶。Waabi 称这不仅是自动驾驶系统的突破，更是物理 AI 通用基础的重要成果。",
+    "highlights_zh": [
+      "AI 驾驶员跨品牌换车无需调整",
+      "从 Peterbilt 579 到 Volvo VN…",
+      "实现自动驾驶系统“平台泛化”",
+      "Waabi 称是物理 AI 通用基础突破"
+    ],
+    "entities": [
+      "Waabi",
+      "579",
+      "VNL",
+      "自动驾驶",
+      "泛化"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/02143335/00-WaabiVAS-01_Original-file.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/02135109/00-33f1b5bece89ad4bf0eefb01cbcf5cc7.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/03150905/0B5A4255-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:08.407Z"
+  },
+  "https://response.jp/article/2026/07/06/413620.html": {
+    "title_zh": "铃鹿 8 耐 2026：雨中激战，本田豪取五连冠，宝马首登领奖台",
+    "summary_short": "2026 年铃鹿 8 小时耐力赛在雨中落幕，本田实现五连冠，宝马成为首个登上领奖台的国外制造商。",
+    "summary_long": "2026 年 FIM 世界耐力锦标赛铃鹿 8 小时耐力赛（第 47 届）于 7 月 5 日在雨中举行。本田车队（#30 Honda HRC）以 188 圈的成绩夺冠，实现五连冠。雅马哈车队（#21 YAMAHA FACTORY RACING TEAM）连续第二年获得亚军。宝马车队（#37 BMW MOTORRAD WORLD ENDURANCE TEAM）获得季军，成为首个登上铃鹿 8 耐领奖台的国外制造商。此外，铃木车队（#0 TEAM SUZUKI CN CHALLANGE）在实验组别中夺冠，总成绩位列第七，创下历史最佳。",
+    "highlights_zh": [
+      "本田五连冠",
+      "宝马首登领奖台",
+      "雅马哈连续两年亚军",
+      "铃木实验组夺冠"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅马哈 | YAMAHA",
+      "宝马 | BMW",
+      "铃木 | SUZUKI",
+      "铃鹿 8 耐"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224818.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224818.jpg",
+      "https://response.jp/imgs/fill2/2224816.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:09.149Z"
+  },
+  "https://response.jp/article/2026/07/06/413634.html": {
+    "title_zh": "Toyota HiAce 露营车订单方式变更：Toy Factory 改为“自带底盘改装”",
+    "summary_short": "Toy Factory 因 HiAce 供应不稳定，将 HiAce 露营车订单方式改为客户自购底盘后由公司改装。",
+    "summary_long": "Toy Factory 宣布，因 Toyota HiAce 供应前景不明，特别是超长宽体高顶车型供应有限，将 HiAce 露营车的新订单方式临时改为“自带底盘改装”。客户需先在丰田经销商处购买并安排底盘车，再交由 Toy Factory 进行露营车改装和交付。涉及车型包括 BADEN、CORDOBA CRUISE、GT 和 BALEIA。",
+    "highlights_zh": [
+      "HiAce 供应不稳定导致订单方式变更",
+      "客户需自购底盘后交由 Toy Factory 改装",
+      "涉及 BADEN、CORDOBA CRUISE 等四…",
+      "超长宽体高顶车型供应尤其紧张"
+    ],
+    "entities": [
+      "丰田",
+      "海狮",
+      "托伊工厂",
+      "BADEN",
+      "CORDOBA CRUISE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224849.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224849.jpg",
+      "https://response.jp/imgs/fill2/2224850.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:12.028Z"
+  },
+  "https://bestcarweb.jp/feature/column/1561579": {
+    "title_zh": "【猜车名】这些名车、珍车，你知道吗？第 802 回",
+    "summary_short": "马自达第八代 Familia（Familia NEO）诞生于 1963 年，2004 年停产，本次猜车聚焦其短暂销售史。",
+    "summary_long": "马自达第八代 Familia（Familia NEO）诞生于 1963 年，至 2004 年停产，历时约 40 年。本次猜车聚焦第八代车型，提供两厢掀背（Familia NEO）和三厢轿车两种车身形式，搭载 1.5L 和 1.8L 发动机。两厢版在日本市场表现不佳，上市仅一年半便停产。",
+    "highlights_zh": [
+      "第八代 Familia 提供两厢掀背和三厢轿车",
+      "两厢版名为 Familia NEO",
+      "搭载 1.5L 和 1.8L 发动机",
+      "日本市场销售仅一年半即停产"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Familia",
+      "Familia NEO"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27114335/main_former_0145s.jpg?v=1782528216",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27114335/main_former_0145s-600x401.jpg?v=1782528216",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27114351/9b0409dc0aea88e3748eea1382fdee23-600x400.jpg?v=1782528232"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:12.476Z"
+  },
+  "https://bestcarweb.jp/newcar/1568644": {
+    "title_zh": "新型斯巴鲁森林人一年花费约 96 万日元？车主真实养车成本揭秘",
+    "summary_short": "新型斯巴鲁森林人一年总花费约 96 万日元，包含残值租赁月供、利息及油费，真实成本远超预期。",
+    "summary_long": "一位拥有多辆车的车主分享了其购买新型斯巴鲁森林人（Subaru Forester）一年的真实养车成本。总支出约 96 万日元，其中最大开销为残值租赁贷款，月供 5.3 万日元，年支出 63.6 万日元，利息手续费约 31 万日元。汽油费方面，年行驶 3600 公里，实际油耗 15.0km/L，油费 3.6 万日元。尽管是 2.5L 混动车型，但油耗表现未达预期。",
+    "highlights_zh": [
+      "年总花费约 96 万日元",
+      "残值租赁月供 5.3 万日元",
+      "利息手续费高达 31 万日元",
+      "实际油耗 15.0km/L"
+    ],
+    "entities": [
+      "斯巴鲁森林人 | Subaru Forester",
+      "残值租赁",
+      "养车成本",
+      "油耗"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03160013/Premium-SHEV-EX_29_1.jpg?v=1783062014",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03160013/Premium-SHEV-EX_29_1-600x400.jpg?v=1783062014",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01163619/eb50698bfde81d02629bbd02850abecc-1-600x400.jpg?v=1782891380"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:15.863Z"
+  },
+  "https://response.jp/article/2026/07/06/413638.html": {
+    "title_zh": "BMW 7 系改款投产，首次将 Neue Klasse 技术引入现有车型",
+    "summary_short": "BMW 7 系改款在德国丁戈尔芬工厂投产，首次将 Neue Klasse 技术用于现有车型，采用第六代圆柱电池，i7 续航达 727 公里。",
+    "summary_long": "BMW 宣布旗舰轿车 7 系改款在德国丁戈尔芬工厂开始生产。这是 Neue Klasse 技术首次被引入现有量产车型，标志着该技术将从 2027 年底起扩展至 40 款车型。改款 7 系采用全新设计语言、更集中的软件和电子架构、BMW 全景 iDrive 显示及操作概念，后排配备乘客屏幕和最新版剧院屏幕。驾驶辅助系统与驾驶员通过 BMW Symbiotic Drive 实现无缝协作。电动化方面，搭载第六代圆柱电池，纯电版 i7 60 xDrive 的 WLTP 续航达 727 公里，10%-80%充电约 28 分钟。",
+    "highlights_zh": [
+      "首次将 Neue Klasse 技术用于现有量产车型",
+      "第六代圆柱电池",
+      "全新设计语言与全景 iDrive 显示",
+      "充电 10%-80%仅需 28 分钟"
+    ],
+    "entities": [
+      "BMW 7 系 | BMW 7 Series",
+      "Neue Klasse",
+      "i7 60 xDrive",
+      "丁戈尔芬工厂"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224867.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224867.jpg",
+      "https://response.jp/imgs/fill2/2224868.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:16.448Z"
+  },
+  "https://response.jp/article/2026/07/06/413616.html": {
+    "title_zh": "MINI JCW EV 推出两款“TRACK STYLE EDITION”限量版，各 25 台起价 640 万日元",
+    "summary_short": "MINI 在日本推出 JCW E 和 Aceman E 的 Track Style Edition 限量版，各 25 台，起价 640 万日元，配备赛道化悬架和专属设计。",
+    "summary_long": "宝马在日本推出了基于 MINI 高性能电动车型的限量版“John Cooper Works E Track Style Edition”和“John Cooper Works Aceman E Track Style Edition”。两款车各限量 25 台，起价 640 万日元，仅通过在线订购，预计 7 月中旬后交付。 两款车型均搭载最大功率 190kW（含 E-boost）、峰值扭矩 350Nm 的电动动力系统，并标配源自赛道的运动悬架。Track Style Edition 在外观上采用多色调红色车顶、棋盘格后视镜盖、大尺寸轮圈和运动轮胎，强化了 JCW 的赛车基因。",
+    "highlights_zh": [
+      "两款限量版各 25 台",
+      "搭载 190kW/350Nm 电动动力系统",
+      "标配赛道化运动悬架",
+      "仅在线订购"
+    ],
+    "entities": [
+      "MINI",
+      "John Cooper Works E",
+      "John Cooper Works Aceman E",
+      "Track Style Edition",
+      "宝马 | BMW"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224562.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224562.jpg",
+      "https://response.jp/imgs/fill2/2224568.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:19.901Z"
+  },
+  "https://response.jp/article/2026/07/06/413639.html": {
+    "title_zh": "Uber 日本即时配送服务 Courier 扩展至全国 47 都道府县，新增轻货配送",
+    "summary_short": "Uber 日本将即时配送服务 Courier 从 22 都道府县扩展至全国 47 都道府县，并新增轻货配送，支持更大尺寸和重量物品，配送距离最远 25 公里。",
+    "summary_long": "Uber 日本宣布将即时配送服务 Courier 的覆盖范围从原有的 22 都道府县扩展至全国 47 都道府县。同时，在原有自行车和摩托车配送基础上，新增轻货配送服务，可运送更大尺寸和重量的物品，配送距离最远可达发件地点直线距离 25 公里。Courier 利用 Uber Eats 的配送网络，通过 Uber 应用实现点对点即时配送，发件人和收件人可实时追踪包裹位置，并通过应用内聊天或通话与配送员沟通。2024 年 11 月至 2026 年 6 月的数据显示，个人用户占比约 60%，商务用户约 40%；配送物品中服装和时尚配饰最多（14%），其他物品和常温食品各占 10%。",
+    "highlights_zh": [
+      "覆盖范围从 22 都道府县扩展至全国 47 都道府县",
+      "新增轻货配送",
+      "配送距离最远 25 公里",
+      "个人用户占 6 成"
+    ],
+    "entities": [
+      "Uber Japan",
+      "Courier",
+      "Uber Eats",
+      "即时配送",
+      "轻货配送"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224885.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224885.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:20.448Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564836": {
+    "title_zh": "丰田 GR Yaris 中古车选购指南：老款更划算",
+    "summary_short": "丰田 GR Yaris 中古车价格不菲，但选择 2024 年之前的车型可大幅节省开支，入门版 RS 仅需约 230 万日元。",
+    "summary_long": "作为 WRC 认证车型，丰田 GR Yaris 性能卓越但价格高昂。2024 年 3 月后的改良型总价超 450 万日元，而此前年份的“RZ 高性能”版车况良好者约 350 万日元即可入手。1.5L 三缸 CVT 的“RS”版更轻快，总价约 230 万日元起。中古车价格区间约 210 万至 1200 万日元，推荐度五星。",
+    "highlights_zh": [
+      "2024 年前车型性价比高",
+      "RZ 高性能版约 350 万日元",
+      "RS 版约 230 万日元起",
+      "中古车推荐度五星"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR Yaris",
+      "WRC",
+      "RS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30175834/00_used_GRyaris_head.jpg?v=1782809915",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30175834/00_used_GRyaris_head-600x400.jpg?v=1782809915",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23163558/552eb4aed1593e952e7a12c7b8a0e9e1-6-600x400.jpg?v=1782200159"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:23.918Z"
+  },
+  "https://bestcarweb.jp/feature/column/1567058": {
+    "title_zh": "昔日辉煌不再？传奇之名太过沉重！复活车型的苦战",
+    "summary_short": "本田 NSX 等经典车型复活后未能重现辉煌，分析其失败原因与市场挑战。",
+    "summary_long": "许多曾风靡一时的车型在多年后复活，但往往难以重现昔日荣光。本文以本田 NSX 为例，初代 NSX（1990-2005）凭借中置后驱布局、轻量化铝制车身和合理定价成为经典。2016 年复活的新 NSX 虽搭载 3.5L V6 双涡轮增压混动系统，综合功率 581 马力，但市场反响平平，未能延续传奇。",
+    "highlights_zh": [
+      "初代 NSX 因中置后驱、铝制车身和性价比成为经典",
+      "2016 年复活的新 NSX 采用混动系统",
+      "复活车型常因价格过高或定位模糊而失败",
+      "传奇之名有时反成负担"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "NSX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02122045/01B.jpg?v=1782962447",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02122045/01B-600x400.jpg?v=1782962447",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23163558/552eb4aed1593e952e7a12c7b8a0e9e1-6-600x400.jpg?v=1782200159"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:23.976Z"
+  },
+  "https://response.jp/article/2026/07/06/413641.html": {
+    "title_zh": "Craftworks 推出磁吸式太阳镜夹，轻松固定在遮阳板上",
+    "summary_short": "Craftworks 推出磁吸式太阳镜夹，可轻松夹在遮阳板上，强磁设计防掉落，PU 皮革材质兼顾质感与保护性。",
+    "summary_long": "Fun Standard 旗下汽车配件品牌 Craftworks 推出了一款“太阳镜双夹”，采用夹扣式设计，可轻松固定在遮阳板上。夹持部分使用强力磁铁，即使在颠簸路面也能防止太阳镜或眼镜掉落。产品采用不遮挡视线的紧凑造型和触感柔软的 PU 皮革材质，兼具实用性与设计感，且不易刮伤镜片。该产品为第二代型号，基于用户反馈改进，提供米色、黑色、灰色三种颜色，尺寸为 12.5×7.3×3.8cm，重 70g。",
+    "highlights_zh": [
+      "夹扣式安装",
+      "强力磁铁防掉落",
+      "PU 皮革材质",
+      "三色可选：米色、黑色、灰色"
+    ],
+    "entities": [
+      "クラフトワークス",
+      "Fun Standard",
+      "遮阳板",
+      "磁铁",
+      "PU 皮革"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224890.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224890.jpg",
+      "https://response.jp/imgs/fill2/2224893.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:28.752Z"
+  },
+  "https://response.jp/article/2026/07/06/413643.html": {
+    "title_zh": "SORACOM Discovery 2026 将于 7 月 7 日举办",
+    "summary_short": "SORACOM Discovery 2026 IoT 大会 7 月 7 日东京举行，聚焦 AI 与 IoT 融合，展示最新技术及汽车行业应用。",
+    "summary_long": "SORACOM（ソラコム）将于 2026 年 7 月 7 日在东京六本木中城举办年度 IoT 大会“SORACOM Discovery 2026”。大会将围绕 AI 发展背景下的 IoT 最新技术、导入案例及未来趋势展开。基调和分论坛将邀请专家及企业分享 IoT 在商业、汽车等领域的应用，现场还有 30 多家企业展示路由器、通信模块、GPS、摄像头、环境传感器等设备，以及 AI 图像分析、车联网、智能工厂、CO2 减排、远程监控、机器学习等解决方案。汽车领域重点关注车联网数据采集、商用车位置及油耗管理、工厂设备预测性维护等。",
+    "highlights_zh": [
+      "7 月 7 日东京六本木举办",
+      "聚焦 AI 与 IoT 最新技术",
+      "30+企业展示 IoT 设备与方案",
+      "汽车领域：车联网、商用车管理、预测维护"
+    ],
+    "entities": [
+      "ソラコム",
+      "IoT",
+      "AI",
+      "车联网",
+      "智能工厂"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224862.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224862.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:29.077Z"
+  },
+  "https://response.jp/article/2026/07/06/413623.html": {
+    "title_zh": "丰田 Estima 或将作为“驾驶乐趣型 MPV”复活，与 Alphard 形成差异化",
+    "summary_short": "丰田经典 MPV Estima 有望复活，定位“驾驶乐趣型”，与豪华取向的 Alphard 形成差异化。",
+    "summary_long": "丰田旗下曾备受欢迎的 MPV 车型 Estima 传出复活消息。初代 Estima 于 1990 年问世，以低重心、优异操控和独特造型著称，2019 年停产后，其高端 MPV 角色由 Alphard 和 Vellfire 接替。若复活，最大挑战在于与现款 Alphard/Vellfire 的定位区分。现款 Alphard 已进化为豪华舒适取向，价格区间 500 万至 1000 万日元以上，Estima 若沿袭初代低重心、低车高设计，有望成为“Grand Tourer”风格的运动型 MPV，与 Alphard 的“豪华 lounge”定位形成互补。",
+    "highlights_zh": [
+      "丰田经典 MPV Estima 有望复活",
+      "定位“驾驶乐趣型”",
+      "继承低重心、低车高设计",
+      "或成为“Grand Tourer”风格车型"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "エスティマ",
+      "アルファード",
+      "ヴェルファイア",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224666.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224666.jpg",
+      "https://response.jp/imgs/fill2/2224665.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:32.889Z"
+  },
+  "https://bestcarweb.jp/news/1556855": {
+    "title_zh": "铃木 Solio：从轻型超高度旅行车升级的最佳选择？比 Spacia 更宽敞的选项",
+    "summary_short": "铃木 Solio 相比 Spacia 更长更宽，提供更宽敞的乘坐空间和行驶稳定性，适合家庭从轻型车升级。",
+    "summary_long": "轻型超高度旅行车如 Spacia 虽然便利，但家庭使用时往往希望有更多空间和行驶余量。铃木 Solio 作为普通车，拥有接近 Spacia 的滑门便利性，同时提供更宽敞的室内空间和安心感。车身尺寸为长 3810mm、宽 1645mm、高 1745mm，相比 Spacia 长 415mm、宽 170mm，但高度低 40mm。室内长 2500mm、宽 1420mm、高 1365mm，在长度和宽度上优于 Spacia，高度略低。这使得前后排肩部空间更充裕，四人乘坐时不再拥挤，长途旅行更舒适。价格方面，Solio 起售价约 192 万日元，高于 Spacia 的 153 万日元，但提供了更大的空间和普通车的行驶品质。",
+    "highlights_zh": [
+      "Solio 比 Spacia 长 415mm、宽 1…",
+      "室内长度和宽度均优于 Spacia",
+      "四人乘坐更宽敞",
+      "价格高于 Spacia"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Solio",
+      "Spacia"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23173703/0218efccfa565d4d2ee80984bd2a639e-4.jpg?v=1782203825",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23173703/0218efccfa565d4d2ee80984bd2a639e-4-600x400.jpg?v=1782203825",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03182116/DSC1548-1-600x414-1.jpg?v=1783070477"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:33.655Z"
+  },
+  "https://response.jp/article/2026/07/06/413617.html": {
+    "title_zh": "物理 AI 引发汽车行业巨变与出行未来——博报堂 DY 控股执行董事 CAIO 森正弥专访",
+    "summary_short": "专访博报堂 DY 控股 CAIO 森正弥，探讨物理 AI 如何重塑汽车行业，以及人本 AI 在出行领域的价值。",
+    "summary_long": "博报堂 DY 控股执行董事兼首席 AI 官森正弥接受专访，围绕“人本 AI”概念，探讨物理 AI、世界模型等前沿技术如何引发汽车行业结构性变革。他指出，AI 不应仅被视为自动化或降本工具，而应重新定义人与车辆的关系，创造新的用户体验。8 月 21 日将举办在线研讨会，深入讨论物理 AI 带来的新 UX 与出行未来。",
+    "highlights_zh": [
+      "AI 不应仅是降本工具",
+      "物理 AI 与世界模型将引发行业结构性变革",
+      "8 月 21 日在线研讨会探讨新 UX 与出行未来"
+    ],
+    "entities": [
+      "博报堂 DY 控股",
+      "物理 AI",
+      "世界模型",
+      "人本 AI",
+      "出行"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224586.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224586.jpg",
+      "https://response.jp/imgs/zoom1/2224583.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:36.482Z"
+  },
+  "https://response.jp/article/2026/07/06/413636.html": {
+    "title_zh": "Premier 集团将 4 家主要子公司完全整合为 Premier 株式会社",
+    "summary_short": "Premier 集团为构建汽车生态圈，将 4 家主要子公司完全整合为 Premier 株式会社，以提升客户体验和经营效率。",
+    "summary_long": "提供汽车综合服务的 Premier 集团宣布，作为新中期经营计划“Change & Prove 2030”的一部分，已将 4 家主要子公司完全整合为 Premier 株式会社。此前集团通过分拆子公司强化专业性，但为消除数据割裂和服务重复，决定集中力量统一品牌，实现整体优化。整合旨在革新客户体验、加速数据驱动经营、提升集团治理水平。",
+    "highlights_zh": [
+      "4 家子公司完全整合为 Premier 株式会社",
+      "旨在构建汽车生态圈“Car Premier 经济圈”",
+      "消除数据割裂",
+      "聚焦客户体验革新与数据驱动经营"
+    ],
+    "entities": [
+      "Premier 集团",
+      "Premier 株式会社",
+      "Car Premier 经济圈"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224863.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224863.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:37.319Z"
+  },
+  "https://response.jp/article/2026/07/06/413619.html": {
+    "title_zh": "保时捷全新 Cayenne Electric 将在日本首次公开亮相",
+    "summary_short": "保时捷全新 Cayenne Electric 将于 7 月 24-26 日在东京 Formula E 赛事中日本首秀，展示最强量产车型。",
+    "summary_long": "保时捷日本宣布，全新 Cayenne Electric 将在 7 月 24 日至 26 日于东京国际展览中心举行的 Formula E 东京站中首次在日本公开亮相。该车于 2025 年 11 月全球首发并开启预订，是保时捷首款全电动 SUV，融合了跑车性能与日常实用性。Cayenne Turbo Electric 版本输出功率高达 850kW（1156 马力），0-100km/h 加速仅需 2.5 秒，最高时速 260km/h，续航里程 642km，成为保时捷史上最强大的量产车型。展示将在免费开放的 Fan Village 内的保时捷展台进行，由 TDK 和 Henkel Loctite 联合运营。",
+    "highlights_zh": [
+      "日本首秀：7 月 24-26 日东京 Formula…",
+      "最强量产保时捷：850kW",
+      "续航 642km",
+      "全轮驱动"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Cayenne Electric",
+      "Formula E",
+      "东京 E-Prix",
+      "TDK"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224552.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224552.jpg",
+      "https://response.jp/imgs/fill2/2224555.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:40.527Z"
+  },
+  "https://response.jp/article/2026/07/06/413626.html": {
+    "title_zh": "本田 F1 首冠 40 周年：Williams Honda FW11 与 Prelude HRC 将在古德伍德 2026 进行演示",
+    "summary_short": "为纪念 1986 年 F1 首冠 40 周年，本田将携 Williams Honda FW11 在古德伍德速度节等地进行全球演示。",
+    "summary_long": "本田宣布为纪念 1986 年首次获得 F1 制造商冠军 40 周年，将在全球开展一系列活动。首站已在日本富士赛道举行，下一站是 7 月 9 日至 12 日的古德伍德速度节，届时传奇车手达蒙·希尔和道上龙将驾驶 Williams Honda FW11 进行演示。该车搭载 1.5 升 V6 双涡轮增压引擎，在 1986 赛季 16 站中赢得 9 胜，为本田带来首个制造商冠军，开启了本田 F1 黄金时代。",
+    "highlights_zh": [
+      "纪念 1986 年 F1 首冠 40 周年",
+      "Williams Honda FW11 全球演示",
+      "古德伍德 2026 由达蒙·希尔和道上龙驾驶",
+      "FW11 搭载 1.5L V6 双涡轮"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Williams Honda FW11",
+      "古德伍德速度节",
+      "达蒙·希尔",
+      "道上龙"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224570.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224570.jpg",
+      "https://response.jp/imgs/fill2/2224571.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:41.160Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556727": {
+    "title_zh": "丰田 Raize：从轻 SUV 升级而来的宽敞强劲之选",
+    "summary_short": "丰田 Raize 作为 5 座紧凑 SUV，相比轻 SUV 空间更大、动力更强，价格亲民，是轻 SUV 升级的理想选择。",
+    "summary_long": "轻 SUV 如大发 Taft 和铃木 Hustler 虽灵活有趣，但在空间和动力上有所局限。丰田 Raize 以 5 座布局、更宽敞的车内空间和更强的动力表现，成为从轻 SUV 升级的务实之选。其 5 门 5 座设计，全宽增加 220mm，但整体尺寸仍属紧凑，易于操控。价格从 180 万日元起，相比轻 SUV 略高，但作为普通 SUV 性价比突出。",
+    "highlights_zh": [
+      "Raize 为 5 座 SUV",
+      "车宽增加 220mm",
+      "动力更强",
+      "起售价 180 万日元"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "大发 Taft | Daihatsu Taft",
+      "铃木 Hustler | Suzuki Hustler",
+      "Raize",
+      "紧凑 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23163558/552eb4aed1593e952e7a12c7b8a0e9e1-6.jpg?v=1782200159",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23163558/552eb4aed1593e952e7a12c7b8a0e9e1-6-600x400.jpg?v=1782200159",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01170851/7R1_5314_1-600x400.jpg?v=1782893332"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:45.518Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1547788": {
+    "title_zh": "“斯鲁托关西巴士节”：车迷与家庭的梦想与希望齐聚一堂",
+    "summary_short": "关西地区巴士盛会“斯鲁托关西巴士节”在大阪万博纪念公园举行，展示各加盟公司车辆，吸引众多车迷与家庭参与。",
+    "summary_long": "6 月初的第一个周末，大阪府吹田市的万博纪念公园举办了“斯鲁托关西巴士节”。该活动自 2001 年起每年在关西各府县巡回举行，由斯鲁托关西协议会加盟的巴士公司参与，展示车辆、销售周边商品并举办舞台活动。斯鲁托关西协议会由关西地区及冈山、静冈等地的 59 家铁路和巴士公司组成，其名称源于一种磁卡式储值系统，后发展为 PiTaPa 系统。",
+    "highlights_zh": [
+      "大阪万博纪念公园举办巴士节",
+      "斯鲁托关西协议会 59 家公司参与",
+      "展示车辆、销售周边、舞台活动",
+      "原磁卡系统已发展为 PiTaPa"
+    ],
+    "entities": [
+      "斯鲁托关西协议会 | スルッとKANSAI",
+      "PiTaPa",
+      "万博纪念公园",
+      "大阪"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/14152443/DSC03855-1024x684.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/12084108/S__11444259-1024x768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/03125244/1DX32309.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:46.373Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551066": {
+    "title_zh": "如今还能选 5MT！轻量化才是最大武器：铃木 Swift 打动驾驶爱好者的理由",
+    "summary_short": "现款铃木 Swift 继承 Swift Sport 的轻量化与操控精髓，提供 5MT 选项，让中高龄驾驶者重拾手动驾驶乐趣。",
+    "summary_long": "现款铃木 Swift 虽沿用上一代平台，但通过各部件的优化实现了轻量化与高刚性车身。悬架系统经过改良，提升了操控稳定性和乘坐舒适性。动力方面搭载新开发的 1.2L 直列三缸汽油发动机，并提供搭配 ISG 的轻度混合动力版本。更重要的是，Swift 依然提供 5 速手动变速箱选项，让追求驾驶乐趣的用户能够重温手动换挡的操控感。",
+    "highlights_zh": [
+      "现款 Swift 提供 5MT 选项",
+      "轻量化高刚性车身",
+      "悬架改良提升操控与舒适性",
+      "1.2L 直三汽油及轻度混动动力"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Swift",
+      "Swift Sport",
+      "5 速手动变速箱",
+      "轻度混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15202415/00_swift_WCA_head.jpg?v=1781522656",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/15202415/00_swift_WCA_head-600x400.jpg?v=1781522656",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23163558/552eb4aed1593e952e7a12c7b8a0e9e1-6-600x400.jpg?v=1782200159"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:49.974Z"
+  },
+  "https://response.jp/article/2026/07/06/413624.html": {
+    "title_zh": "罗森推出 1 晚 2500 日元“车内过夜服务”，本年度内将扩展至 70 家门店",
+    "summary_short": "日本罗森便利店将车内过夜服务从 7 家试点扩展至 70 家门店，价格为 1 晚 2500 日元，应对酒店价格上涨带来的替代需求。",
+    "summary_long": "日本便利店巨头罗森（Lawson）计划扩大其“车内过夜服务”（车中泊サービス）。该服务自 2025 年夏季起在千叶县 7 家门店试点，未出现噪音或邻里纠纷，需求充足。自 2026 年 7 月 17 日起，将在埼玉、静冈、爱知三县约 30 家门店启动，随后扩展至神奈川、三重、岐阜等地，目标本年度内增至约 70 家门店。价格为 1 晚 2500 日元，入住时间为 15:00-22:00，退房至次日 10:00，需通过日本 RV 协会的“RV Park”专用网站预约并信用卡预付。此举正值日元贬值导致访日游客增加、酒店价格高涨，车内过夜服务成为替代选择。",
+    "highlights_zh": [
+      "1 晚 2500 日元",
+      "7 月 17 日起在 3 县约 30 店启动",
+      "本年度内目标扩展至 70 店",
+      "需通过 RV Park 网站预约预付"
+    ],
+    "entities": [
+      "罗森",
+      "日本 RV 协会",
+      "RV Park",
+      "车内过夜服务"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224820.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224820.jpg",
+      "https://response.jp/imgs/fill2/2224821.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:50.239Z"
+  },
+  "https://www.motor1.com/news/800368/mazda-scratch-meguiars/": {
+    "title_zh": "用棉布擦灰却刮伤内饰？马自达 3 车主用美光修复塑料饰板",
+    "summary_short": "马自达 3 车主擦拭钢琴黑饰板时意外刮伤，尝试用美光产品修复，效果有限，提醒车主注意内饰脆弱性。",
+    "summary_long": "一位马自达 3 车主在擦拭中控台钢琴黑饰板时，因使用不当导致饰板出现划痕。他尝试用美光（Meguiars）的两款产品进行修复，虽然能减轻痕迹，但无法完全消除。车主提醒其他车主，这类饰板非常脆弱，擦拭时需格外小心。",
+    "highlights_zh": [
+      "钢琴黑饰板极易刮伤",
+      "擦拭灰尘反而造成划痕",
+      "美光产品可减轻但无法完全修复",
+      "建议使用 100%纯棉布"
+    ],
+    "entities": [
+      "马自达 3 | Mazda3",
+      "美光 | Meguiars",
+      "钢琴黑饰板",
+      "内饰修复"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3b7v/s1/man-scratches-plastic-trim-on-mazda-3.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:53.755Z"
+  },
+  "https://www.thedrive.com/news/this-chevy-truck-runs-on-wood-and-it-just-broke-a-speed-record": {
+    "title_zh": "木柴驱动的雪佛兰皮卡创下速度纪录",
+    "summary_short": "一辆 1983 年雪佛兰皮卡改装为木柴动力，在站立式英里加速赛中达到 125 公里/小时，据称创下木柴动力车辆速度纪录。",
+    "summary_long": "一辆 1983 年雪佛兰皮卡通过改装，使用木柴产生的木煤气驱动，已行驶超过 10 万公里未用一滴汽油。该车在封闭机场跑道的站立式英里加速赛中达到 125 公里/小时（77.6 英里/小时），车主声称这是木柴动力车辆的速度纪录。木煤气系统通过燃烧木屑产生一氧化碳，再与氢气混合，经气体净化器过滤后供给发动机。往返行程和加速赛的平均燃料消耗为每 60 英里 80.5 磅木材。",
+    "highlights_zh": [
+      "木柴动力雪佛兰皮卡创下速度纪录",
+      "行驶超 10 万公里未用汽油",
+      "站立式英里加速赛达 125 公里/小时",
+      "木煤气系统比汽油能耗高 15%"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Chevy Truck",
+      "木煤气",
+      "速度纪录"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-4.04.25-PM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-4.06.49-PM.jpeg?strip=all",
+      "https://i.ytimg.com/vi/dQTuqmOi32s/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:54.043Z"
+  },
+  "https://www.motor1.com/news/800481/gm-sales-ev-demand-slipping/": {
+    "title_zh": "通用汽车美国销量领先，但电动汽车需求下滑",
+    "summary_short": "通用汽车 2026 年第二季度销量领先美国市场，但同比下降 4.2%，电动汽车需求因联邦税收抵免到期而萎缩。",
+    "summary_long": "通用汽车 2026 年第二季度销量为 714,896 辆，位居美国市场第一，但较 2025 年同期下降 4.2%。上半年累计销量 1,341,325 辆，同比下降 6.8%。销量下滑部分归因于电动汽车市场收缩，尤其是联邦$7,500 税收抵免到期后，低价位电动车需求大幅减少。通用旗下 11 款电动车中，除凯迪拉克 Optiq、Vistiq、雪佛兰 Bolt 和 GMC Sierra EV 外，其余车型销量均同比下降。",
+    "highlights_zh": [
+      "通用汽车 Q2 销量 714",
+      "上半年销量 1",
+      "联邦税收抵免到期致电动车需求萎缩",
+      "仅 4 款电动车销量同比增长"
+    ],
+    "entities": [
+      "通用汽车",
+      "凯迪拉克",
+      "雪佛兰",
+      "GMC",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3Y07J/s1/2027-chevrolet-bolt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:57.273Z"
+  },
+  "https://insideevs.com/news/800649/model-3-island-maui-battery/": {
+    "title_zh": "2023 款特斯拉 Model 3 磷酸铁锂电池健康度仅 90%",
+    "summary_short": "一辆 2023 款特斯拉 Model 3 租赁车行驶 2.6 万英里后电池健康度降至 90%，显示磷酸铁锂电池在频繁快充和满充下仍会明显衰减。",
+    "summary_long": "一辆 2023 款特斯拉 Model 3 后驱版租赁车在夏威夷毛伊岛行驶 2.6 万英里后，经内置电池健康测试显示容量仅剩 90%，可用容量为 55.62 千瓦时。该车搭载磷酸铁锂电池，但作为租赁车频繁使用直流快充并经常充至 100%，加速了电池衰减。测试前 Tessie 应用估算容量为 92.27%，但实际测试结果更低，表明租赁环境对电池寿命影响显著。",
+    "highlights_zh": [
+      "2.6 万英里后电池健康度 90%",
+      "磷酸铁锂电池仍明显衰减",
+      "租赁车频繁快充和满充加速老化",
+      "实际容量低于 App 估算值"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3",
+      "磷酸铁锂电池",
+      "电池健康度",
+      "毛伊岛"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8b11/s1/tesla-battery-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:37:58.000Z"
+  },
+  "https://www.motor1.com/news/800648/why-people-buy-toyota/": {
+    "title_zh": "丰田销售员揭秘：客户买丰田的真正原因不是保值",
+    "summary_short": "丰田销售员称客户购买丰田的首要原因是可靠性，而非保值或油耗。",
+    "summary_long": "一位丰田销售员在 TikTok 上分享观点，指出客户购买丰田的真正驱动力是可靠性，而非通常认为的保值率或燃油经济性。她表示，客户最常说的是“我想要可靠的东西，不想再为汽车问题烦恼”。",
+    "highlights_zh": [
+      "客户首选可靠性",
+      "非保值或油耗",
+      "避免频繁维修",
+      "简单需求驱动购买"
+    ],
+    "entities": [
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJmqv/s1/dealership-saleswoman-reveals-the-real-reason-most-customers-buy-toyotas.-then-she-says-it-isn-t-resale-value.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:38:00.883Z"
+  },
+  "https://www.thedrive.com/news/this-mitsubishi-pajero-mini-is-a-factory-jdm-snoopy-edition": {
+    "title_zh": "三菱帕杰罗 Mini Snoopy 特别版：官方 JDM 史努比主题车",
+    "summary_short": "三菱帕杰罗 Mini Snoopy 特别版，官方 JDM 史努比主题，可爱外观与经典 kei 车结合。",
+    "summary_long": "三菱帕杰罗 Mini Snoopy 特别版是一款官方推出的 JDM 史努比主题车型，基于第二代帕杰罗 Mini 打造。该车采用软白与银金属双色涂装，车身装饰有史努比图案、爪印挡泥板及查尔斯·舒尔茨签名。内饰方面，座椅、门板和仪表盘均融入史努比元素，但整体配置较为基础，符合 kei 车定位。这款车于 2000 年生产，目前在美国 Bring a Trailer 平台拍卖，已进口至美国。",
+    "highlights_zh": [
+      "官方史努比主题涂装与内饰",
+      "基于第二代帕杰罗 Mini",
+      "搭载 660cc 涡轮增压发动机",
+      "已进口至美国"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗 Mini | Pajero Mini",
+      "史努比",
+      "kei 车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_0888-20775-scaled-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2000-Mitsubishi-Pajero-Mini-Snoopy-Edition-rear.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2000-Mitsubishi-Pajero-Mini-Snoopy-Edition-decal.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-06T04:38:00.979Z"
   }
 }
