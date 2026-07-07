@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-06T16:31:44.197Z",
+    "generated_at": "2026-07-07T04:14:59.458Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 363,
-    "deepseek_untranslated_before_run": 37,
-    "newly_fetched_articles": 37,
-    "newly_fetched_untranslated": 37,
+    "deepseek_translated_before_run": 367,
+    "deepseek_untranslated_before_run": 33,
+    "newly_fetched_articles": 33,
+    "newly_fetched_untranslated": 33,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 37,
+    "translation_queue_count": 33,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.6",
-        "title": "Tesla Model Y L Debuts With A Human-Sized Third Row",
-        "url": "https://www.motor1.com/news/800748/tesla-model-yl-third-row/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.6",
-        "title": "Spied: Ford’s $30,000 Electric Truck Caught Next to an Expedition",
-        "url": "https://www.thedrive.com/news/30000-electric-ford-truck-spy-shots"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.6",
-        "title": "Volkswagen Explains Why The New Atlas Looks Different Than China's Teramont",
-        "url": "https://www.motor1.com/news/800735/volkswagen-atlas-teramont-market-design-differences/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.6",
-        "title": "After EV Batteries, China Wants To Dominate Car Brains Too",
-        "url": "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.6",
-        "title": "Cadillac Recalls Vistiq EVs Over Third-Row Seat That Could Trap a Child",
-        "url": "https://www.thedrive.com/news/cadillac-recalls-vistiq-evs-over-third-row-seat-that-could-trap-a-child"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.6",
-        "title": "Paddock Tour: Check Out the 2026 F1 Team Motorhomes",
-        "url": "https://www.thedrive.com/news/paddock-tour-check-out-the-2026-f1-team-motorhomes"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.6",
-        "title": "Tesla Has Stretched the Model Y to Fill the X’s Absence: TDS",
-        "url": "https://www.thedrive.com/news/tesla-has-stretched-the-model-y-to-fill-the-xs-absence-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.6",
-        "title": "When Software Replaced Suspension Engineering",
-        "url": "https://www.motor1.com/features/800654/software-replaced-suspension-engineering-opinion/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.6",
-        "title": "Bentley's First EV Finally Has A Name: Torcal",
-        "url": "https://www.motor1.com/news/800713/bentley-torcal-electric-suv/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.6",
-        "title": "‘Causing Waymo Problems’: Atlanta Drivers Stop At Intersection. Then They Get Stuck Behind 3 Waymos That Won’t Move",
-        "url": "https://www.motor1.com/news/800658/stuck-behind-3-waymos-atlanta/"
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "「北斗の拳」車中泊モデルは7台限定、777万円から…東京キャンピングカーショー2026で初公開へ",
+        "url": "https://response.jp/article/2026/07/07/413698.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "「カープレミア故障保証」がリニューアル、輸入EVプラン新設と対象車両を大幅拡大",
-        "url": "https://response.jp/article/2026/07/06/413666.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "「ヤマハ発動機前」駅が誕生、JR東海道線「御厨駅」の副駅名標に…設楽社長「共創の玄関口に」",
-        "url": "https://response.jp/article/2026/07/06/413648.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "「鈴鹿8耐」ブリヂストンが19大会連続優勝 ホンダHRCが制し表彰台も独占",
-        "url": "https://response.jp/article/2026/07/06/413670.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "「鈴鹿8耐」ヤマハが2位表彰台、引退発表の中須賀「最高の鈴鹿8耐になった」",
-        "url": "https://response.jp/article/2026/07/06/413658.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "「面白い機構」「乗った感じが気になる」MTとDCTを融合させたフェラーリの新技術にSNSも興奮！",
-        "url": "https://response.jp/article/2026/07/06/413668.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "『BMW＆MINI』は特に「スピーカー交換」がお薦め！［音を良くする“初級鉄板プラン”をプロが伝授］",
-        "url": "https://response.jp/article/2026/07/06/413664.html"
+        "time": "2026.7.7",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 【Season4】中西孝樹の自動車・モビリティ産業インサイトvol.4 日産の次世代技術：「AIDV」による知能化とそれを支える電動化について",
+        "url": "https://response.jp/article/2026/07/07/413685.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.6",
-        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「亘理町」",
-        "url": "https://bestcarweb.jp/feature/column/1535873"
+        "time": "2026.7.7",
+        "title": "【独自入手】新型パジェロの3連メーター常時表示可能!? デジタルでもこだわりは普遍",
+        "url": "https://bestcarweb.jp/newcar/1566331"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "2020年式・MC後の『スイフトスポーツ』を剛性アップ！ タナベ「サステック・スタビライザー」前後用を発売",
-        "url": "https://response.jp/article/2026/07/06/413669.html"
+        "time": "2026.7.7",
+        "title": "2026年上半期国内新車販売、ホンダ『N-BOX』5年連続首位、日産『ルークス』ベスト10入り［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/07/07/413678.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "9.6kW普通充電器、国内メーカー初のJARI認証取得…日東工業がPit-2Gシリーズに追加",
-        "url": "https://response.jp/article/2026/07/06/413667.html"
+        "time": "2026.7.7",
+        "title": "700馬力の『GRカムリ』爆誕!? トヨタ最強セダンの可能性",
+        "url": "https://response.jp/article/2026/07/07/413676.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.7",
+        "title": "F1史上最大の衝撃コース!? テーマパークを駆け抜ける超立体サーキット誕生へ！ キディヤ・スピード・パークを解説",
+        "url": "https://bestcarweb.jp/feature/column/1551914"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.6",
-        "title": "G LION GROUP、創業40年で新ブランド戦略…モビリティなど6つの体験領域に事業再編",
-        "url": "https://response.jp/article/2026/07/06/413665.html"
+        "time": "2026.7.7",
+        "title": "GMとMicron Technology、次世代車両向けメモリ・ストレージの長期供給協定を締結",
+        "url": "https://response.jp/article/2026/07/07/413688.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "RAV4の純正オーディオから一変！ スピーカー交換で始まった音作り［car audio newcomer］by サウンドステーション SUBLIME 前編",
+        "url": "https://response.jp/article/2026/07/07/413691.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "TomTom、トランジット・テクノロジーズと戦略的提携…米国・中米の交通網にリアルタイム地図・渋滞情報を提供",
+        "url": "https://response.jp/article/2026/07/07/413683.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.7",
+        "title": "アクアVSノートオーラ詳細比較!! 機敏さのアクアか上質さのノートオーラどっちがベストバイ!?",
+        "url": "https://bestcarweb.jp/feature/column/1563067"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "インフィニオン、独ドレスデンにスマートパワー工場を開設…世界最大のパワー半導体工場に",
+        "url": "https://response.jp/article/2026/07/07/413684.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.7",
+        "title": "ええ、先代アルファードの車内がスゴい!! ぼっち・ざ・ろっく！仕様の自動運転車が衝撃の姿すぎる",
+        "url": "https://bestcarweb.jp/feature/column/1552674"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.7",
+        "title": "えっ!? それ実は違反かも!? ベテランドライバーでも勘違いしやすい運転ルール5選",
+        "url": "https://bestcarweb.jp/feature/column/1568803"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "クラシック『911』の「シンガー」が主役、特別な車両コレクション集結へ…グッドウッド2026",
+        "url": "https://response.jp/article/2026/07/07/413677.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.7",
+        "title": "セレナ オーテック スポーツスペックは走り好きパパの本命か？ 普通のオーテックとの違いをチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1564211"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "ゼンリンの地図雑貨ブランド「Map Design GALLERY」東京初出店、ダイバーシティ東京プラザに期間限定オープン…7月8日",
+        "url": "https://response.jp/article/2026/07/07/413694.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.7",
+        "title": "タフトのクロム ベンチャーは買いか？ 専用メッキと内装加飾の満足度をチェック",
+        "url": "https://bestcarweb.jp/feature/column/1561064"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "ドゥカティ100周年イベントに11.8万人来場、史上最多を記録…新型『デスモ450 SM』世界初公開も",
+        "url": "https://response.jp/article/2026/07/07/413695.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "なぜ？テスラ・BYD・ハイブリッドを選ぶのか、日本の BEV ユーザーのリアル…国際経済研究所 小林浩氏［インタビュー］",
+        "url": "https://response.jp/article/2026/07/07/413693.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.7",
+        "title": "バッテリー交換式エルフEVが家庭ごみを収集しに来るゾ！ 横浜市といすゞの連携第3弾始動!!",
+        "url": "https://bestcarweb.jp/fullload/1564412"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28807062462",
-    "sha": "5df08c4e5b4595bc60ec9641b7310be9b643dc62",
-    "completed_at": "2026-07-06T16:33:09.339Z",
+    "run_id": "28841054629",
+    "sha": "03511c320812270de15e84d9b4549c229f80e3db",
+    "completed_at": "2026-07-07T04:16:00.531Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 37,
-    "queued_articles": 37,
-    "processed": 37,
-    "started_at": "2026-07-06T16:31:44.508Z",
-    "finished_at": "2026-07-06T16:33:09.080Z",
+    "scoped_articles": 33,
+    "queued_articles": 33,
+    "processed": 33,
+    "started_at": "2026-07-07T04:14:59.825Z",
+    "finished_at": "2026-07-07T04:16:00.250Z",
     "success": true,
     "error": ""
   }
