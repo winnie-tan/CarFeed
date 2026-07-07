@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-07T04:14:59.458Z",
+    "generated_at": "2026-07-07T15:58:08.807Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 367,
-    "deepseek_untranslated_before_run": 33,
-    "newly_fetched_articles": 33,
-    "newly_fetched_untranslated": 33,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
+    "newly_fetched_articles": 34,
+    "newly_fetched_untranslated": 34,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 33,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.7",
-        "title": "「北斗の拳」車中泊モデルは7台限定、777万円から…東京キャンピングカーショー2026で初公開へ",
-        "url": "https://response.jp/article/2026/07/07/413698.html"
+        "title": "Porsche’s ‘GT3’ Label Isn’t About the Track Anymore",
+        "url": "https://www.thedrive.com/news/porsches-gt3-label-isnt-about-the-track-anymore"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.7",
+        "title": "The Next Range Rover Velar Could Look Very Different",
+        "url": "https://www.motor1.com/news/800866/range-rover-velar-model-redesign/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.7",
+        "title": "Photos: Porsche 911 GT3 S/C",
+        "url": "https://www.motor1.com/news/800861/porsche-911-gt3-sc-photos/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.7",
+        "title": "The Price Gap Between Regular and Premium Gas Is Widening. Drivers Are Responding: TDS",
+        "url": "https://www.thedrive.com/news/the-price-gap-between-regular-and-premium-gas-is-widening-drivers-are-responding-tds"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.7",
+        "title": "2027 Ram 1500 TRX SRT First-Drive Review: Prehistoric Power in a Modern Off-Road Monster",
+        "url": "https://www.thedrive.com/car-reviews/2027-ram-1500-trx-srt-first-drive-review"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.7",
+        "title": "2027 Ram TRX vs Rumble Bee Hellcat: Your Guide to Ram’s Supercharged SRT Pickups",
+        "url": "https://www.thedrive.com/news/2027-ram-trx-vs-rumble-bee-hellcat-your-guide-to-rams-supercharged-srt-pickups"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.7",
+        "title": "'Get Blinded By It': BMW Driver Sees Holographic Tesla On Highway. Then He Notices How Light Is Reflecting Off It. Is That Legal?",
+        "url": "https://www.motor1.com/news/800785/san-diego-holographic-tesla/"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.7",
-        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 【Season4】中西孝樹の自動車・モビリティ産業インサイトvol.4 日産の次世代技術：「AIDV」による知能化とそれを支える電動化について",
-        "url": "https://response.jp/article/2026/07/07/413685.html"
+        "title": "「出たら最高なんだが」スズキ『カプチーノ』復活スクープにファン興奮！「250万じゃ買えない」の声も",
+        "url": "https://response.jp/article/2026/07/07/413713.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "【ボルボ V60 PHEV 新型試乗】クラシカルな温もりと、未来に残すべきパッケージング…中村孝仁",
+        "url": "https://response.jp/article/2026/07/07/413721.html"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.7",
+        "title": "2027 Porsche 911 GT3 S/C First-Drive Review: The Ultimate 911, Actually",
+        "url": "https://www.thedrive.com/car-reviews/2027-porsche-911-gt3-s-c-first-drive-review"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "BMW『iX3』新型、「アドバン・スポーツ V107」を新車装着…横浜ゴムが納入開始",
+        "url": "https://response.jp/article/2026/07/07/413706.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "GRパーツ、新型トヨタ『アクア』向けに6種発売 走行安定性向上からドレスアップまで",
+        "url": "https://response.jp/article/2026/07/07/413704.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.7",
-        "title": "【独自入手】新型パジェロの3連メーター常時表示可能!? デジタルでもこだわりは普遍",
-        "url": "https://bestcarweb.jp/newcar/1566331"
+        "title": "MFゴースト限定ジッポーが登場！ シリアルナンバー入り100個限定販売!!",
+        "url": "https://bestcarweb.jp/news/1568199"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.7",
-        "title": "2026年上半期国内新車販売、ホンダ『N-BOX』5年連続首位、日産『ルークス』ベスト10入り［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/07/07/413678.html"
+        "title": "NIPPON EXPRESS、宇宙スタートアップ「ElevationSpace」に出資…宇宙物流構築へ",
+        "url": "https://response.jp/article/2026/07/07/413716.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.7",
-        "title": "700馬力の『GRカムリ』爆誕!? トヨタ最強セダンの可能性",
-        "url": "https://response.jp/article/2026/07/07/413676.html"
+        "title": "エンジンオイルの適正油温は何度？ オイルクーラーが必要な条件と注意点～カスタムHOW TO～",
+        "url": "https://response.jp/article/2026/07/07/413717.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "クラシックカー＆バイクの集い「20世紀ミーティング2026秋季」を開催 新潟三条で10月11日",
+        "url": "https://response.jp/article/2026/07/07/413722.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "スズキ、サステナビリティAI「ASUENE」導入…27カ国・地域でCO2排出量のグローバル管理基盤を構築",
+        "url": "https://response.jp/article/2026/07/07/413720.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "ダイナミックマップ、米ピッツバーグの国際サミットに参加…高精度地図とAIで自動運転を支援",
+        "url": "https://response.jp/article/2026/07/07/413718.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.7",
+        "title": "トヨタ株価が続伸…米サンアントニオ工場に36億ドル投資",
+        "url": "https://response.jp/article/2026/07/07/413708.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.7",
-        "title": "F1史上最大の衝撃コース!? テーマパークを駆け抜ける超立体サーキット誕生へ！ キディヤ・スピード・パークを解説",
-        "url": "https://bestcarweb.jp/feature/column/1551914"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "GMとMicron Technology、次世代車両向けメモリ・ストレージの長期供給協定を締結",
-        "url": "https://response.jp/article/2026/07/07/413688.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "RAV4の純正オーディオから一変！ スピーカー交換で始まった音作り［car audio newcomer］by サウンドステーション SUBLIME 前編",
-        "url": "https://response.jp/article/2026/07/07/413691.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "TomTom、トランジット・テクノロジーズと戦略的提携…米国・中米の交通網にリアルタイム地図・渋滞情報を提供",
-        "url": "https://response.jp/article/2026/07/07/413683.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "アクアVSノートオーラ詳細比較!! 機敏さのアクアか上質さのノートオーラどっちがベストバイ!?",
-        "url": "https://bestcarweb.jp/feature/column/1563067"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "インフィニオン、独ドレスデンにスマートパワー工場を開設…世界最大のパワー半導体工場に",
-        "url": "https://response.jp/article/2026/07/07/413684.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "ええ、先代アルファードの車内がスゴい!! ぼっち・ざ・ろっく！仕様の自動運転車が衝撃の姿すぎる",
-        "url": "https://bestcarweb.jp/feature/column/1552674"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "えっ!? それ実は違反かも!? ベテランドライバーでも勘違いしやすい運転ルール5選",
-        "url": "https://bestcarweb.jp/feature/column/1568803"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "クラシック『911』の「シンガー」が主役、特別な車両コレクション集結へ…グッドウッド2026",
-        "url": "https://response.jp/article/2026/07/07/413677.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "セレナ オーテック スポーツスペックは走り好きパパの本命か？ 普通のオーテックとの違いをチェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1564211"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "ゼンリンの地図雑貨ブランド「Map Design GALLERY」東京初出店、ダイバーシティ東京プラザに期間限定オープン…7月8日",
-        "url": "https://response.jp/article/2026/07/07/413694.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "タフトのクロム ベンチャーは買いか？ 専用メッキと内装加飾の満足度をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1561064"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "ドゥカティ100周年イベントに11.8万人来場、史上最多を記録…新型『デスモ450 SM』世界初公開も",
-        "url": "https://response.jp/article/2026/07/07/413695.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "なぜ？テスラ・BYD・ハイブリッドを選ぶのか、日本の BEV ユーザーのリアル…国際経済研究所 小林浩氏［インタビュー］",
-        "url": "https://response.jp/article/2026/07/07/413693.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "バッテリー交換式エルフEVが家庭ごみを収集しに来るゾ！ 横浜市といすゞの連携第3弾始動!!",
-        "url": "https://bestcarweb.jp/fullload/1564412"
+        "title": "一文字でビシッと光る姿がイケイケすぎる！ マストで付けたい新型レイバックS:HEVのアクセサリー",
+        "url": "https://bestcarweb.jp/newcar/1567061"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 33,
-    "queued_articles": 33,
-    "processed": 33,
-    "started_at": "2026-07-07T04:14:59.825Z",
-    "finished_at": "2026-07-07T04:16:00.250Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-07-07T15:58:09.164Z",
+    "finished_at": "2026-07-07T15:59:31.001Z",
     "success": true,
     "error": ""
   }

@@ -65306,5 +65306,793 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-07T04:16:00.233Z"
+  },
+  "https://www.thedrive.com/news/porsches-gt3-label-isnt-about-the-track-anymore": {
+    "title_zh": "保时捷“GT3”标签不再只关乎赛道",
+    "summary_short": "保时捷推出可选敞篷的 911 GT3 S/C，标志着 GT3 标签从纯粹赛道性能向多元化转变，迎合更多客户需求。",
+    "summary_long": "保时捷 911 GT3 S/C 是 GT3 系列中首款可选敞篷的车型，这标志着 GT3 标签定义的重大转变。最初，GT3 专注于赛道性能和轻量化，但如今随着 Touring 版等更舒适车型的流行，GT3 已不再纯粹为赛道而生。保时捷 GT 部门负责人表示，客户对敞篷版的需求推动了这一变化。",
+    "highlights_zh": [
+      "首款可选敞篷的 911 GT3 S/C",
+      "GT3 标签从纯粹赛道性能转向多元化",
+      "Touring 版占 GT3 销量近半",
+      "客户需求驱动产品演变"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3 S/C",
+      "911 GT3",
+      "GT3 Touring",
+      "安德烈亚斯·普雷宁格"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Porsche-911-GT3-SC-37.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Porsche-911-GT3-SC-01.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Porsche-911-GT3-SC-39.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:13.520Z"
+  },
+  "https://www.motor1.com/news/800866/range-rover-velar-model-redesign/": {
+    "title_zh": "下一代路虎揽胜星脉设计大改",
+    "summary_short": "路虎揽胜星脉将迎来第二代车型，基于 MLA 平台，提供混动和纯电版本，外观更接近轿跑 SUV，可能取消后窗。",
+    "summary_long": "路虎揽胜星脉即将推出第二代车型，这是该车系自 2017 年问世以来的首次换代。新车将基于全新的模块化纵向架构（MLA）平台打造，该平台最初专为电动车设计，现已确认支持混合动力系统。因此，新一代星脉将提供混动和纯电两种动力选择，但尚不确定是否均会在美国市场销售。设计上，新车将采用更接近轿跑 SUV 的造型，例如大幅倾斜的车尾线条，类似宝马 X4。此外，星脉可能取消后窗，转而依靠摄像头为驾驶员提供后方视野，类似极星 4 的设计，但极星 4 已在美国被禁售。新车预计在未来六个月内亮相，并将是前捷豹路虎首席创意官 Gerry McGovern 参与设计的最后几款路虎车型之一。",
+    "highlights_zh": [
+      "第二代星脉基于 MLA 平台",
+      "外观更接近轿跑 SUV",
+      "可能取消后窗",
+      "预计未来六个月内亮相"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "揽胜星脉 | Range Rover Velar",
+      "宝马 | BMW",
+      "极星",
+      "MLA 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlxLk/s1/range-rover-velar-sv-autobiography.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:14.213Z"
+  },
+  "https://www.motor1.com/news/800861/porsche-911-gt3-sc-photos/": {
+    "title_zh": "保时捷 911 GT3 S/C 官方图片曝光",
+    "summary_short": "保时捷 911 GT3 S/C 是首款电动敞篷 GT3，搭载 502 马力水平对置六缸发动机，配六速手动变速箱。",
+    "summary_long": "保时捷 911 GT3 S/C 是首款电动折叠软顶的 GT3 敞篷版，搭载 502 马力的 9,000 转自然吸气水平对置六缸发动机，仅匹配六速手动变速箱。尽管取消了车顶，但通过轻量化设计和刚性强化，几乎保留了 GT3 的全部驾驶魅力。本文附有来自德国首次试驾的独家官方图片。",
+    "highlights_zh": [
+      "首款电动敞篷 GT3",
+      "502 马力自然吸气水平对置六缸",
+      "9",
+      "轻量化设计"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3 S/C",
+      "德国"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWJbG/s1/2027-porsche-911-gt3-s-c-first-drive-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:17.687Z"
+  },
+  "https://www.thedrive.com/news/the-price-gap-between-regular-and-premium-gas-is-widening-drivers-are-responding-tds": {
+    "title_zh": "普通汽油与高标号汽油价差扩大，车主纷纷降级省钱",
+    "summary_short": "美国普通汽油与高标号汽油价差扩大至每加仑 90 美分，高标号汽油销量下降 5%，普通汽油销量上升 10%。",
+    "summary_long": "近期美国普通汽油与高标号汽油的价差持续扩大，平均每加仑相差 90 美分，专家预计年底可能达到 1 美元。受此影响，高标号汽油销量在四天内下降 5%，中档汽油下降 2%，而普通汽油销量激增 10%。但并非所有车辆都适合降级使用，部分高性能车必须使用高标号汽油，否则可能损坏发动机。",
+    "highlights_zh": [
+      "高标号汽油销量下降 5%",
+      "普通汽油销量上升 10%",
+      "价差达 90 美分/加仑",
+      "高性能车不建议降级"
+    ],
+    "entities": [
+      "The Drive",
+      "Bloomberg",
+      "丰田 | Toyota",
+      "Tacoma"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2280782883.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/napa-and-oreilly.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:17.887Z"
+  },
+  "https://www.thedrive.com/news/2027-ram-trx-vs-rumble-bee-hellcat-your-guide-to-rams-supercharged-srt-pickups": {
+    "title_zh": "2027 款 Ram TRX vs Rumble Bee Hellcat：增压 SRT 皮卡指南",
+    "summary_short": "Ram 推出两款增压 6.2 升 V8 皮卡：TRX 专注越野，Rumble Bee 主打公路性能，均搭载 777 马力 Hellcat 发动机。",
+    "summary_long": "Ram 在一年内从无 V8 轻卡到拥有三款 V8 车型，其中 2027 款 Ram TRX SRT 和 SRT Rumble Bee Hellcat 均搭载 777 马力的增压 6.2 升 Hemi V8 发动机。TRX 配备越野轮胎、更高离地间隙和 Bilstein 自适应减震器，适合越野；Rumble Bee 则更偏向公路性能。两者定位不同，选择取决于用途。",
+    "highlights_zh": [
+      "两款 Ram 皮卡均搭载 777 马力增压 V8",
+      "TRX 专注越野",
+      "TRX 配备越野轮胎和 Bilstein 减震器",
+      "Rumble Bee 是 Ram 内部的新对手"
+    ],
+    "entities": [
+      "Ram TRX",
+      "Rumble Bee Hellcat",
+      "Hellcat",
+      "SRT",
+      "Hemi V8"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/trxbee-2.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/napa-and-oreilly.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:22.261Z"
+  },
+  "https://www.thedrive.com/car-reviews/2027-ram-1500-trx-srt-first-drive-review": {
+    "title_zh": "2027 款 Ram 1500 TRX SRT 首试：现代越野猛兽的史前动力",
+    "summary_short": "2027 款 Ram 1500 TRX SRT 搭载升级版 Hellcat V8，马力达 777 匹，扭矩 680 磅-英尺，超越 Raptor R，重新定义高性能越野皮卡。",
+    "summary_long": "2027 款 Ram 1500 TRX SRT 正式加入 SRT 家族，不仅继承了 Ram 1500 中期改款的所有更新，更搭载了升级版 6.2 升机械增压 Hellcat V8 发动机。通过提高燃油压力和优化进气，最大功率从 702 马力提升至 777 马力，并采用 Hellcat Redeye 气门机构使红线转速达到 6500 转。扭矩达 680 磅-英尺，超越福特 Raptor R。配备 BorgWarner 48-13 分动箱实现全时四驱，后桥采用 Dana 60 全浮式半轴和电子差速锁，将狂暴动力与豪华舒适完美融合。",
+    "highlights_zh": [
+      "777 马力 Hellcat V8 发动机",
+      "扭矩 680 磅-英尺",
+      "全时四驱+电子差速锁",
+      "SRT 部门调校"
+    ],
+    "entities": [
+      "Ram 1500 TRX SRT",
+      "Hellcat V8",
+      "Raptor R",
+      "BorgWarner",
+      "Dana 60"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/trx-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/inline.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_9945.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:22.871Z"
+  },
+  "https://www.motor1.com/news/800785/san-diego-holographic-tesla/": {
+    "title_zh": "宝马 M3 车主高速上被全息特斯拉闪瞎眼：这合法吗？",
+    "summary_short": "一辆特斯拉因全息反光车膜在高速上发出刺眼光芒，引发宝马 M3 车主对其合法性的质疑。",
+    "summary_long": "一位宝马 M3 车主在高速上遇到一辆贴有全息/彩虹效果车膜的特斯拉，其反光极为刺眼，甚至反射出蓝红光线。车主质疑这种改装是否合法，因为法规通常禁止车辆发出蓝红灯光。视频引发热议，有车膜商家指出各州对车膜合法性规定不同。",
+    "highlights_zh": [
+      "特斯拉全息车膜反光刺眼",
+      "宝马 M3 车主质疑合法性",
+      "反射出蓝红光线引争议",
+      "各州对车膜规定不同"
+    ],
+    "entities": [
+      "宝马 M3 | BMW M3",
+      "特斯拉 | Tesla",
+      "全息车膜",
+      "高速公路",
+      "合法性"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzLMk/s1/bmw-driver-sees-holographic-tesla-on-highway-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:26.988Z"
+  },
+  "https://response.jp/article/2026/07/07/413713.html": {
+    "title_zh": "铃木 Cappuccino 或将复活，粉丝兴奋期待",
+    "summary_short": "铃木经典轻量敞篷跑车 Cappuccino 有望时隔 30 年复活，采用 660cc 涡轮增压发动机和 FR 布局，粉丝热议。",
+    "summary_long": "铃木经典轻量敞篷跑车 Cappuccino 可能时隔约 30 年复活。随着本田 S660 停产，轻量跑车市场出现空白，铃木正重新评估市场潜力。新车预计保持轻自动车规格（长≤3400mm、宽≤1480mm），搭载 660cc 直列三缸涡轮增压发动机，最大功率 64 马力，提供 6 速手动和 CVT 变速箱，采用前置后驱布局。消息引发粉丝热议，有人期待“如果推出就太棒了”，也有人认为“250 万日元买不到”。",
+    "highlights_zh": [
+      "铃木 Cappuccino 有望复活",
+      "660cc 涡轮增压+FR 布局",
+      "粉丝热议：期待与价格担忧并存"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "卡布奇诺",
+      "本田 | Honda",
+      "S660"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225266.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225266.jpg",
+      "https://response.jp/imgs/fill2/2225267.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:28.411Z"
+  },
+  "https://response.jp/article/2026/07/07/413721.html": {
+    "title_zh": "沃尔沃 V60 PHEV 试驾：古典温馨与值得保留的包装",
+    "summary_short": "沃尔沃 V60 PHEV 试驾：古典内饰带来温馨感，充电模式测试显示其独特价值。",
+    "summary_long": "沃尔沃 V60 PHEV 车身尺寸为 4780×1850×1430mm，在当今车型中属于较小类别。从现代感十足的 EX30 换到 V60，其古典风格内饰起初略显陈旧，但半小时后便觉舒适，尤其是仪表盘设计虽为数字显示，但视认性佳，驾驶稳定。本次测试特别尝试了行驶中充电的充电模式，发现其虽会增加油耗，但实用性值得肯定。",
+    "highlights_zh": [
+      "古典内饰带来温馨感",
+      "仪表盘视认性优秀",
+      "充电模式测试实用"
+    ],
+    "entities": [
+      "沃尔沃",
+      "V60 PHEV",
+      "EX30"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225279.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225279.jpg",
+      "https://response.jp/imgs/fill2/2223014.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:31.277Z"
+  },
+  "https://www.thedrive.com/car-reviews/2027-porsche-911-gt3-s-c-first-drive-review": {
+    "title_zh": "2027 款保时捷 911 GT3 S/C 首试：终极 911",
+    "summary_short": "保时捷 911 GT3 S/C 融合自然吸气水平对置六缸发动机、六速手动变速箱和敞篷设计，带来纯粹驾驶乐趣。",
+    "summary_long": "2027 款保时捷 911 GT3 S/C 是 GT3 家族的最新成员，结合了自然吸气水平对置六缸发动机、六速手动变速箱、双叉臂前悬架和轻量化构造，并配备自动折叠软顶。它提供了敞篷驾驶的独特体验，被誉为终极纯粹跑车，与 911 S/T 共享诸多精髓。",
+    "highlights_zh": [
+      "自然吸气水平对置六缸发动机",
+      "六速手动变速箱",
+      "双叉臂前悬架",
+      "自动折叠软顶敞篷"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3 S/C",
+      "911 S/T"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Porsche-911-GT3-SC-02.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Porsche-911-GT3-SC-03.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Porsche-911-GT3-SC-09.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:31.979Z"
+  },
+  "https://response.jp/article/2026/07/07/413706.html": {
+    "title_zh": "宝马 iX3 新款搭载横滨 ADVAN Sport V107 轮胎",
+    "summary_short": "横滨橡胶为宝马新款纯电 iX3 提供 ADVAN Sport V107 轮胎，双方共同开发，滚动阻力和湿地抓地力均获欧盟最高 A 级评级。",
+    "summary_long": "横滨橡胶宣布开始为宝马新款纯电动车型 iX3 供应新車用轮胎 ADVAN Sport V107。该轮胎由横滨与宝马共同开发，针对 iX3 进行了专用调校，采用独特技术实现低滚动阻力和高湿地性能，并获得了欧盟标签制度最高 A 级评级。轮胎侧壁带有宝马认可的星形标记和横滨的 E+ 电动专用标识。",
+    "highlights_zh": [
+      "横滨为宝马 iX3 供应 ADVAN Sport V…",
+      "轮胎由双方共同开发",
+      "滚动阻力和湿地抓地力均获欧盟 A 级评级",
+      "轮胎带有宝马星标和横滨 E+ 电动标识"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3",
+      "横滨橡胶",
+      "ADVAN Sport V107"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225284.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225284.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:37.141Z"
+  },
+  "https://response.jp/article/2026/07/07/413704.html": {
+    "title_zh": "GR 为新一代丰田 Aqua 推出 6 种改装件",
+    "summary_short": "丰田 GR 为新一代 Aqua 推出 6 种改装件，涵盖空气动力学、稳定性提升与外观装饰，价格从 5500 至 31900 日元。",
+    "summary_long": "丰田定制与开发公司为新一代丰田 Aqua（2026 年 7 月起）推出 6 种 GR 改装件，旨在提升行驶稳定性与外观个性化。GR 空气动力扰流板通过封闭形状防止外部空气再侵入，改善通风性能，并配备稳定鳍片，提升行驶稳定性与转向响应，售价 27500 日元。GR 运动侧扰流板安装于前后轮拱周围，优化侧面气流，提高直线稳定性，售价 31900 日元。GR 放电胶带为带有 GR 标志的铝制胶带，通过消除车身正电荷使气流恢复顺畅，释放车辆原有性能，小尺寸 4 片装售价 5500 日元。GR 碳纤维车牌框采用轻量时尚的碳纤维材质，前后各售价 19800 日元。",
+    "highlights_zh": [
+      "共 6 种 GR 改装件",
+      "GR 空气动力扰流板提升通风与行驶稳定性",
+      "GR 运动侧扰流板优化气流",
+      "GR 放电胶带消除静电"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Aqua",
+      "GR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225269.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225269.jpg",
+      "https://response.jp/imgs/fill2/2225270.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:38.514Z"
+  },
+  "https://bestcarweb.jp/news/1568199": {
+    "title_zh": "MF Ghost 限定 Zippo 打火机登场，限量 100 个带序列号",
+    "summary_short": "《MF Ghost》推出限量 100 个的 Zippo 打火机，每个刻有独立序列号，是粉丝和收藏家的必入单品。",
+    "summary_long": "讲谈社官方授权的《MF Ghost》Zippo 打火机开始一般销售，限量 100 个，每个都刻有独立序列号，极具收藏价值。该商品由 CAMSHOP.JP 运营，是《头文字 D》作者重野秀一的人气漫画《MF Ghost》的衍生周边，作品以近未来日本为背景，描绘内燃机车的公路赛事“MFG”，深受跑车和赛车爱好者喜爱。",
+    "highlights_zh": [
+      "限量 100 个",
+      "讲谈社官方授权商品",
+      "《头文字 D》作者重野秀一作品周边",
+      "适合粉丝与 Zippo 收藏家"
+    ],
+    "entities": [
+      "MFゴースト",
+      "Zippo",
+      "头文字 D",
+      "重野秀一"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03163242/748b6cda396eb7fa3e59f4a346519a4b.jpg?v=1783063963",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03163242/748b6cda396eb7fa3e59f4a346519a4b-600x600.jpg?v=1783063963",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/01/29201926/20260128_964_A-600x400.jpg?v=1769685567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:41.719Z"
+  },
+  "https://response.jp/article/2026/07/07/413716.html": {
+    "title_zh": "日本通运投资太空初创公司 ElevationSpace，构建宇宙物流",
+    "summary_short": "日本通运控股投资太空初创 ElevationSpace，旨在构建连接地球与太空的物流基础设施。",
+    "summary_long": "日本通运控股宣布投资太空初创公司 ElevationSpace，后者专注于太空环境利用与回收平台业务。此次投资通过 NX 全球创新投资基金进行，目标是构建连接地球与太空的物流基础设施。ElevationSpace 以“构建轨道上人与物的交通网络”为愿景，是一家新兴的太空物流企业。",
+    "highlights_zh": [
+      "日本通运控股投资 ElevationSpace",
+      "旨在构建天地物流基础设施",
+      "ElevationSpace 专注太空环境利用与回收",
+      "通过 NX 全球创新投资基金实施"
+    ],
+    "entities": [
+      "日本通运控股",
+      "ElevationSpace",
+      "NX 全球创新投资基金"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225318.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225318.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:42.472Z"
+  },
+  "https://response.jp/article/2026/07/07/413717.html": {
+    "title_zh": "发动机机油最佳油温是多少？机油冷却器的安装条件与注意事项～改装指南～",
+    "summary_short": "机油冷却器并非万能，油温过低反易导致乳化。最佳油温约 90-110°C，100°C 属正常范围。",
+    "summary_long": "机油冷却器对发动机保护有效，但使用不当会适得其反。发动机机油需在合适油温下才能发挥润滑、冷却、密封等性能，油温过高或过低均不利。一般理想油温为 90-110°C，100°C 左右属正常。油温过低会导致曲轴箱内水分凝结混入机油，引发乳化，损伤发动机。",
+    "highlights_zh": [
+      "机油冷却器并非绝对有益",
+      "最佳油温约 90-110°C",
+      "100°C 属正常范围",
+      "油温过低易致乳化"
+    ],
+    "entities": [
+      "机油冷却器",
+      "发动机机油",
+      "油温",
+      "乳化"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225180.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225180.jpg",
+      "https://response.jp/imgs/p/2lMgPWAa6QGqet-mNL0FG4RP30HRQkNERUZH/1862484.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:46.423Z"
+  },
+  "https://response.jp/article/2026/07/07/413722.html": {
+    "title_zh": "20 世纪聚会 2026 秋季：经典车与摩托车集会将在新潟三条举办",
+    "summary_short": "2026 年 10 月 11 日，新潟县三条市将举办 20 世纪聚会，汇集 2000 年前后的经典汽车与摩托车，设有爱车介绍、断舍离拍卖和自由市场。",
+    "summary_long": "“20 世纪聚会 2026 秋季”将于 2026 年 10 月 11 日在新潟县三条市的“水边三条（三条市水防学习馆）”停车场举行。活动面向 2000 年前后首次注册的各类汽车和摩托车车主，提供交流机会。常规环节“我的爱车介绍”中，车主可亲自展示引擎声（轰油门），深受好评。现场还有餐车和自由摊位。参观免费。主办方正在招募参展车辆，并举办“断舍离拍卖”和自由市场。拍卖旨在传承车主珍视但希望他人继续爱护的物品，如车辆相关零件和周边。参展资格为 2000 年（平成 12 年）前后首次注册的车辆（汽车和摩托车通用），需通过车检。招募数量预计为汽车 130 辆、摩托车 40 辆（可能调整）。本次也少量招募 2010 年后的现代车型和跑车（先到先得）。参展费为汽车 3500 日元、摩托车 2500 日元（含 500 日元餐车购物券），车辆旁设自由市场需额外支付 1000 日元。前日有联谊会，可咨询住宿预订。",
+    "highlights_zh": [
+      "2026 年 10 月 11 日在新潟三条举办",
+      "招募 2000 年前后注册的经典车与摩托车",
+      "设有爱车介绍、断舍离拍卖和自由市场",
+      "参展费汽车 3500 日元、摩托车 2500 日元"
+    ],
+    "entities": [
+      "20 世纪聚会",
+      "新潟三条",
+      "经典车",
+      "摩托车",
+      "断舍离拍卖"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225230.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225230.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:49.142Z"
+  },
+  "https://response.jp/article/2026/07/07/413720.html": {
+    "title_zh": "铃木引入可持续 AI 平台 ASUENE，构建 27 国 CO2 排放全球管理基盘",
+    "summary_short": "铃木引入可持续 AI 平台 ASUENE，覆盖 27 国，构建全球 CO2 排放管理基盘，提升数据准确性与合规效率。",
+    "summary_long": "铃木引入可持续 AI 平台 ASUENE，覆盖 27 个国家和地区，构建全球 CO2 排放管理基盘。该平台旨在提升排放数据管理的及时性与准确性，并提高第三方保证应对效率，以应对 SSBJ 和 CSRD 等日益严格的可持续信息披露标准。",
+    "highlights_zh": [
+      "铃木引入可持续 AI 平台 ASUENE",
+      "覆盖 27 国构建 CO2 排放管理基盘",
+      "提升数据准确性与第三方保证效率",
+      "应对 SSBJ 和 CSRD 等披露标准"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "ASUENE",
+      "SSBJ",
+      "CSRD"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225323.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225323.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:49.983Z"
+  },
+  "https://response.jp/article/2026/07/07/413708.html": {
+    "title_zh": "丰田股价上涨，美国圣安东尼奥工厂投资 36 亿美元",
+    "summary_short": "丰田股价上涨，因宣布对美国圣安东尼奥工厂投资 36 亿美元，同时日经指数大幅下跌。",
+    "summary_long": "7 月 7 日，日经平均指数大幅下跌，但丰田股价却持续上涨。此前丰田宣布将向美国圣安东尼奥工厂投资 36 亿美元，这一消息提振了投资者信心。与此同时，纽约道琼斯指数连续上涨并创新高，纳斯达克指数也反弹，特斯拉股价上涨 6.69%。",
+    "highlights_zh": [
+      "丰田股价逆势上涨",
+      "美国工厂投资 36 亿美元",
+      "日经指数大幅下跌",
+      "特斯拉股价上涨 6.69%"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "特斯拉 | Tesla",
+      "圣安东尼奥工厂",
+      "日经平均指数"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225319.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225319.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:53.305Z"
+  },
+  "https://response.jp/article/2026/07/07/413718.html": {
+    "title_zh": "动态地图平台参加 GeoAI & Robotics Summit 2026，高精地图与 AI 助力自动驾驶",
+    "summary_short": "动态地图平台参加美国匹兹堡 GeoAI & Robotics Summit 2026，展示高精地图与 AI 技术，助力自动驾驶发展。",
+    "summary_long": "动态地图平台（Dynamic Map Platform）参加了在美国匹兹堡举办的 GeoAI & Robotics Summit 2026。该峰会由地理空间信息国际组织 Geospatial World 首次举办，汇聚了地理空间 AI、机器人、自动驾驶、数字孪生等领域的产学研专家，讨论技术应用与社会实施。期间，公司北美法人副社长 Trip Bonds 参与了研讨会、高管圆桌及题为“Transportation Autonomous Ops: Blueprint for Collaboration”的全体会议。",
+    "highlights_zh": [
+      "参加 GeoAI & Robotics Summit…",
+      "展示高精地图与 AI 技术",
+      "参与自动驾驶协作蓝图讨论",
+      "北美法人副社长出席多场会议"
+    ],
+    "entities": [
+      "动态地图平台",
+      "GeoAI & Robotics Summit 2026",
+      "高精地图",
+      "自动驾驶",
+      "AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225321.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225321.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:53.938Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563937": {
+    "title_zh": "本田雅阁 50 年全球销量超 2500 万台：畅销轿车的条件",
+    "summary_short": "本田雅阁 2026 年迎来 50 周年，全球累计销量超 2500 万台，回顾其作为全球战略轿车的成功历程。",
+    "summary_long": "2026 年，本田雅阁迎来诞生 50 周年，全球累计销量突破 2500 万台，在 160 多个国家销售。尽管在日本因 SUV 热潮和轿车市场萎缩而不再常见，但雅阁作为以轿车为主力的车型，能取得如此成绩堪称惊人。文章回顾了雅阁的发展历程，探讨其持续畅销的原因。",
+    "highlights_zh": [
+      "2026 年雅阁诞生 50 周年",
+      "全球累计销量超 2500 万台",
+      "在 160 多个国家销售",
+      "以轿车为主力取得惊人成绩"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅阁",
+      "丰田 | Toyota",
+      "卡罗拉",
+      "大众 | Volkswagen"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30153133/4115a2e5525eaab05bd9f061c9b78f09.jpg?v=1782801094",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30153133/4115a2e5525eaab05bd9f061c9b78f09-600x338.jpg?v=1782801094",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/01/29201926/20260128_964_A-600x400.jpg?v=1769685567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:57.906Z"
+  },
+  "https://bestcarweb.jp/newcar/1567061": {
+    "title_zh": "斯巴鲁 Levorg Layback S:HEV 配件",
+    "summary_short": "斯巴鲁 Levorg Layback S:HEV 推出多款配件，包括新主动风格套件、STI 空气套件和发光 LED 灯条，外观变化显著。",
+    "summary_long": "斯巴鲁 Levorg Layback S:HEV 的配件选择丰富，能大幅改变车辆外观。新推出的主动风格套件增添了斯巴鲁特有的运动感，而 STI 空气套件则强化了性能氛围。此外，还有都市风格的 Premium Urban 套件和独特的 LED 灯条，使 S:HEV 更具辨识度。这些配件专为 S:HEV 设计，包括车身同色或亮黑色饰件，以及扩大的前保险杠金属装饰，提升了专属感。",
+    "highlights_zh": [
+      "新主动风格套件增添运动感",
+      "STI 空气套件强化性能氛围",
+      "LED 灯条提升辨识度",
+      "Premium Urban 套件打造都市风格"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "Levorg Layback S:HEV",
+      "STI",
+      "Premium Urban"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02124135/e44228806855f7aa03914487b413c023.jpg?v=1782963696",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02124135/e44228806855f7aa03914487b413c023-600x400.jpg?v=1782963696",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06110703/260313-RAV4_027_1-600x400.jpg?v=1783303625"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:58:58.280Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556345": {
+    "title_zh": "预算减少 30%！替代 Sienta 和 Aura 的明智之选",
+    "summary_short": "预算从 300 万日元降至 210 万，如何选择替代车型？本文对比了丰田 Sienta、日产 Aura 等热门车的替代方案，并给出评分。",
+    "summary_long": "受退休收入减少和物价上涨影响，购车预算普遍下降。本文假设预算从 300 万日元减少 30%至 210 万日元，探讨如何选择热门车型的替代品。以丰田 Sienta Hybrid 为例，替代方案为 Sienta 1.5 汽油版，但评论员清水草一认为汽油版质感较差，建议考虑铃木 Solio 或轻型高顶旅行车。文章还涉及其他车型的替代方案，旨在帮助消费者在预算缩减时做出明智选择。",
+    "highlights_zh": [
+      "预算从 300 万降至 210 万日元",
+      "Sienta Hybrid 替代为汽油版",
+      "推荐铃木 Solio 或轻型高顶旅行车",
+      "其他热门车型替代方案对比"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Sienta",
+      "日产 | Nissan",
+      "Aura",
+      "铃木 | Suzuki"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21150906/00_kenjya_016_head.jpg?v=1782022147",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21150906/00_kenjya_016_head-600x400.jpg?v=1782022147",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/01/29201926/20260128_964_A-600x400.jpg?v=1769685567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:02.719Z"
+  },
+  "https://bestcarweb.jp/feature/column/1566720": {
+    "title_zh": "找不到替代品所以畅销！没有竞争对手的“独一无二车型”4 选",
+    "summary_short": "日本市场上有一些车型因独特设计而无可替代，本文介绍 4 款新车上仍可买到的“唯一无二”车型。",
+    "summary_long": "现代日本汽车市场车型丰富，但仍有部分车型因独创性而找不到直接竞争对手。本文介绍了 4 款新车上仍可买到的“唯一无二”车型，其中首款为铃木吉姆尼。吉姆尼作为轻自动车中首款真正 4WD 车型，自 1970 年初代诞生以来，凭借小巧车身和卓越越野性能广受支持。第四代车型时隔约 20 年全面换代，采用方形外观、高刚性设计及不易积雪的平滑面板，同时保留了圆形头灯、五槽格栅等经典元素。",
+    "highlights_zh": [
+      "吉姆尼是轻自动车首款真正 4WD 车型",
+      "第四代时隔约 20 年全面换代",
+      "保留圆形头灯、五槽格栅等经典设计"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "轻自动车",
+      "4WD"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01234012/levorg_image1.jpg?v=1782916814",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01234012/levorg_image1-600x400.jpg?v=1782916814",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/01/29201926/20260128_964_A-600x400.jpg?v=1769685567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:03.256Z"
+  },
+  "https://bestcarweb.jp/news/1568210": {
+    "title_zh": "川崎 Z900RS 2026 年款：继承名车 Z1 基因的进化",
+    "summary_short": "川崎发布 2026 款 Z900RS 系列，新增经典蓝色，延续 Z1 基因，融合现代电子控制技术。",
+    "summary_long": "川崎发布 2026 款 Z900RS 系列，标准版新增“Candy Tone Greenish Blue”新色，SE、CAFE 及 Black Ball Edition 继续销售。该车继承名车 Z1 的 DNA，采用圆形 LED 大灯、泪滴油箱等复古设计，搭载 948cc 水冷并列四缸发动机，配备电子油门、弯道管理功能、双向快速换挡及巡航控制等现代科技。",
+    "highlights_zh": [
+      "2026 款 Z900RS 新增经典蓝色",
+      "继承 Z1 复古造型与现代科技",
+      "948cc 四缸引擎配电子油门",
+      "配备弯道管理、快排、巡航控制"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Z900RS",
+      "Z1"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03170230/d726c661adef8f71ffaddcce1db98da0.jpg?v=1783065751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03170230/d726c661adef8f71ffaddcce1db98da0-600x450.jpg?v=1783065751",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/01/29201926/20260128_964_A-600x400.jpg?v=1769685567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:07.792Z"
+  },
+  "https://bestcarweb.jp/newcar/1570375": {
+    "title_zh": "新一代 RAV4 车内过夜体验：行李厢倾斜改善，舒适度提升",
+    "summary_short": "新一代 RAV4 车内过夜实测：行李厢倾斜改善，床铺更易布置，但长度仍有限，需折叠床垫。",
+    "summary_long": "新一代 RAV4 在车内过夜方面有所改进，先代车型行李厢的倾斜问题得到改善。实际在 RV 公园过夜测试中，后排座椅放倒后铺上单人气垫床（长 195cm×宽 91cm×厚 4cm），宽度有余但长度不足，需将床垫折叠放置于前排与后排之间。整体而言，新一代 RAV4 更适合单人过夜，双人使用空间局促。",
+    "highlights_zh": [
+      "行李厢倾斜改善",
+      "床垫长度不足",
+      "单人过夜舒适",
+      "自制遮阳帘+便携电源+循环扇提升体验"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "RAV4",
+      "RV 公园",
+      "车中泊"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06110703/260313-RAV4_027_1.jpg?v=1783303625",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06110703/260313-RAV4_027_1-600x400.jpg?v=1783303625",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/02124135/e44228806855f7aa03914487b413c023-600x400.jpg?v=1782963696"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:08.190Z"
+  },
+  "https://insideevs.com/news/800786/rivian-r2-charging-speed-tested/": {
+    "title_zh": "Rivian R2 充电速度实测：10-80% 比官方宣称更快",
+    "summary_short": "Rivian R2 10%-80% 充电实测仅需 26 分 51 秒，比官方宣称的 29 分钟快约 2 分钟，峰值功率达 226 kW。",
+    "summary_long": "Rivian R2 作为今年最受关注的电动车型之一，其实际充电性能备受期待。在 State of Charge 频道的测试中，R2 从 10% 充电至 80% 仅用时 26 分 51 秒，比 Rivian 官方宣称的 29 分钟快了约 2 分钟。测试显示，R2 在 38 秒内充电功率即超过 200 kW，峰值达到 226 kW（31% 电量时），随后逐步下降。10 分钟可补充约 100 英里续航，15 分钟恢复一半电量，整体充电曲线表现优异。",
+    "highlights_zh": [
+      "10%-80% 充电仅 26 分 51 秒",
+      "峰值功率 226 kW",
+      "10 分钟补能 100 英里",
+      "比官方宣称快约 2 分钟"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "充电速度",
+      "续航测试"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8wgm/s1/rivian-r2-charging-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:12.523Z"
+  },
+  "https://www.motor1.com/news/800824/ferrari-hails-chinese-cars/": {
+    "title_zh": "法拉利称赞中国汽车是“不可思议的珍宝”，但认为不构成真正威胁",
+    "summary_short": "法拉利全球营销总监称赞中国汽车在性能、舒适性和科技方面进步巨大，但认为在驾驶情感上仍有差距，不构成威胁。",
+    "summary_long": "法拉利全球营销总监 Emanuele Carando 在接受采访时表示，中国汽车制造商在性能、舒适性和科技方面取得了“不可思议的进步”，但在驾驶情感方面仍落后于法拉利。他指出，制造直线加速快的车并不难，但制造过弯精准、车身稳定、能给予驾驶者信心和情感的车才是法拉利的专长。Carando 承认法拉利可以从中国竞争对手身上学到东西，但认为中国品牌尚未对法拉利构成真正威胁。",
+    "highlights_zh": [
+      "中国汽车在性能和科技上进步巨大",
+      "驾驶情感方面仍落后于法拉利",
+      "法拉利不认为中国品牌构成威胁",
+      "法拉利会从中国竞争对手身上学习"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "中国汽车",
+      "驾驶情感",
+      "Emanuele Carando"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lxqY/s1/ferrari-luce.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:13.249Z"
+  },
+  "https://www.motor1.com/news/800781/bedqzzled-steering-wheel-risk/": {
+    "title_zh": "男子在方向盘上粘贴装饰物，安全气囊弹出后揭示致命风险",
+    "summary_short": "佛罗里达创作者用实验展示方向盘装饰物在安全气囊弹出时可能变成致命抛射物，引发安全警告。",
+    "summary_long": "一位佛罗里达创作者通过实验展示了方向盘安全气囊上粘贴装饰物的危险性。实验使用廉价塑料星星和图钉模拟常见装饰，当气囊弹出时，这些装饰物并未掉落地面，而是高速飞散到车厢各处，可能对乘客造成严重伤害。美国国家公路交通安全管理局和汽车维修专家此前已多次警告此类改装的风险。",
+    "highlights_zh": [
+      "方向盘装饰物在气囊弹出时变成抛射物",
+      "实验使用塑料星星和图钉模拟常见改装",
+      "装饰物高速飞散",
+      "NHTSA 和维修专家警告此类风险"
+    ],
+    "entities": [
+      "Dollar General",
+      "NHTSA",
+      "Real Crushin’ Florida",
+      "Troy Watts"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Znze62/s1/man-bedazzles-his-car-.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:17.333Z"
+  },
+  "https://insideevs.com/news/800823/alpine-a110-future-mule-goodwood/": {
+    "title_zh": "Alpine A110 EV：证明电动跑车也能轻量化",
+    "summary_short": "Alpine A110 EV 原型车亮相古德伍德，旨在证明电动跑车也能保持轻量化和驾驶乐趣。",
+    "summary_long": "Alpine 在 2026 年古德伍德速度节上展示了 A110 Future 电动原型车，该车基于全新 800 伏 Alpine Performance Platform，采用前后分体电池包以实现 40:60 后偏置重量分布，模拟中置发动机跑车的操控特性。新车将使用铝制悬架部件和集成制动转向系统，目标是在电动化时代延续 A110 的轻量化与驾驶乐趣传统。",
+    "highlights_zh": [
+      "A110 Future 原型车亮相古德伍德",
+      "采用 800 伏平台与分体电池包",
+      "实现 40:60 后偏置重量分布",
+      "铝制悬架降低重量"
+    ],
+    "entities": [
+      "Alpine",
+      "A110",
+      "古德伍德速度节",
+      "800 伏平台",
+      "分体电池包"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzRRv/s1/alpine-a110-future-test-mule.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:17.866Z"
+  },
+  "https://insideevs.com/news/800822/volvo-cars-native-apple-music-software-update/": {
+    "title_zh": "沃尔沃将为超过 200 万辆汽车原生集成 Apple Music",
+    "summary_short": "沃尔沃通过 OTA 更新为 200 多万辆汽车原生集成 Apple Music，并提供三个月免费试用，部分车型支持空间音频。",
+    "summary_long": "沃尔沃宣布将为超过 200 万辆汽车通过 OTA 软件更新原生集成 Apple Music，覆盖 2020 年款及以后车型。新推出的 EX60 电动跨界车将预装该功能，而 EX90、ES90 等车型则通过更新获得。在支持 Android Automotive OS 的车型上，用户可享受 Apple Music Spatial Audio（杜比全景声），配合选装的 Bowers & Wilkins 音响系统提供卓越音质。为吸引用户，沃尔沃提供最多三个月免费试用，并支持从其他平台迁移音乐库。",
+    "highlights_zh": [
+      "覆盖 200 多万辆 2020 年款及以后车型",
+      "新 EX60 预装",
+      "EX90/ES90 支持空间音频与 B&W 音响",
+      "提供三个月免费试用"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "Apple Music",
+      "EX60",
+      "EX90",
+      "ES90"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8wXG/s1/volvo-cars-native-apple-music.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:22.047Z"
+  },
+  "https://www.motor1.com/news/800807/mercedes-small-g-class-made-in-hungary/": {
+    "title_zh": "奔驰小 G 级或不在德国生产",
+    "summary_short": "消息称奔驰小型 G 级将转至匈牙利生产以降低成本，预计 2027 年上市。",
+    "summary_long": "据接近奔驰的消息人士透露，小型 G 级（g-Class）将不会在德国拉施塔特工厂生产，而是转至匈牙利凯奇凯梅特工厂，以降低运营成本。该车型基于与 CLA 相同的平台，预计 2027 年上市。奔驰已投资 10 亿欧元扩建匈牙利工厂，年产能将提升至 40 万辆。",
+    "highlights_zh": [
+      "小型 G 级将匈牙利生产",
+      "基于 CLA 平台",
+      "预计 2027 年上市",
+      "投资 10 亿欧元扩建工厂"
+    ],
+    "entities": [
+      "奔驰 | Mercedes-Benz",
+      "G 级 | G-Class",
+      "CLA",
+      "匈牙利"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6NBLN/s1/mercedes-g-class-junior-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:22.104Z"
+  },
+  "https://insideevs.com/news/800811/new-polestar-4-suv/": {
+    "title_zh": "新款极星 4 SUV：并非旅行车，但空间更大",
+    "summary_short": "极星推出 Polestar 4 SUV，非旅行车但空间更大，续航达 391 英里，9 月 2 日海外上市。",
+    "summary_long": "极星虽退出美国市场，但仍在全球扩展产品线。最新车型命名为 Polestar 4 SUV，并非此前期待的旅行车，但提供更大后备箱空间和后排车窗（常规版无后窗，依赖摄像头）。长续航后驱版 WLTP 续航达 391 英里，另有双电机版本。新车将于 9 月 2 日在多数市场开售，目前仅发布预告图，显示 C 柱车窗和全景天窗。",
+    "highlights_zh": [
+      "命名为 Polestar 4 SUV",
+      "长续航后驱版 WLTP 续航 391 英里",
+      "9 月 2 日海外上市",
+      "提供更大后备箱和后排车窗"
+    ],
+    "entities": [
+      "极星 | Polestar",
+      "Polestar 4 SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGMYmM/s1/polestar-4-wagon-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:26.441Z"
+  },
+  "https://www.motor1.com/news/800796/bmw-m2-new-nurburgring-record/": {
+    "title_zh": "宝马 M2 刷新纽博格林圈速纪录",
+    "summary_short": "宝马 M2 搭载全新 M Performance Track 套件，以 7 分 25 秒刷新紧凑型车纽博格林圈速纪录，比 M2 CS 快 0.5 秒。",
+    "summary_long": "宝马 M2 在纽博格林北环赛道以 7 分 25 秒的成绩刷新了紧凑型车的圈速纪录，比去年 M2 CS 创造的 7 分 25.5 秒快了 0.5 秒。尽管标准 M2 比 M2 CS 重 35 公斤且马力少 50 匹，但凭借全新的 M Performance Track 套件，它成功超越了 M2 CS。该套件在德国售价高达 23,500 欧元，本月上市。",
+    "highlights_zh": [
+      "标准 M2 以 7 分 25 秒刷新纪录",
+      "比 M2 CS 快 0.5 秒",
+      "M Performance Track 套件售价 2…",
+      "圈速超越 M3 CS 和 M3 CS Touring"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M2",
+      "M2 CS",
+      "M Performance Track 套件",
+      "纽博格林"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8g1k/s1/bmw-m2-with-track-kit.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:27.125Z"
+  },
+  "https://insideevs.com/news/800793/canada-ev-e-bike-beachman-aviator/": {
+    "title_zh": "加拿大最新电动车：1960 年代咖啡赛车风格电动自行车",
+    "summary_short": "加拿大 Beachman 推出 Aviator 电动自行车，灵感源自 1960 年代咖啡赛车，无需驾照，续航超 55 英里。",
+    "summary_long": "加拿大 Beachman Bikes 推出最新电动两轮车 Aviator，灵感源自 1960 年代英国咖啡赛车。入门级 Class 2 电动自行车售价 5499 美元，配备脚踏板以符合法规，无需驾照或注册。搭载 2.8 千瓦时可拆卸电池，续航超 55 英里，最高时速 20 英里（私人道路可达 35 英里）。可选 4.3 千瓦时电池将续航提升至 80 英里以上，支持 120 伏家用插座充电。",
+    "highlights_zh": [
+      "灵感源自 1960 年代咖啡赛车",
+      "Class 2 电动自行车",
+      "续航超 55 英里",
+      "支持 120 伏家用充电"
+    ],
+    "entities": [
+      "Beachman",
+      "Aviator",
+      "加拿大 | Canada"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzLmb/s1/beachman-aviator-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-07T15:59:30.984Z"
   }
 }
