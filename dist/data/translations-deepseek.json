@@ -66094,5 +66094,777 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-07T15:59:30.984Z"
+  },
+  "https://response.jp/article/2026/07/08/413743.html": {
+    "title_zh": "本田在铃鹿 8 耐展示全新 CB400 超级四缸，价格或低于 100 万日元",
+    "summary_short": "本田在铃鹿 8 耐上展示全新 CB400 超级四缸，可试坐、启动引擎并体验 E 离合器，引发热烈关注。",
+    "summary_long": "在 2026 年 7 月 3 日至 5 日举行的铃鹿 8 耐赛事中，本田展台成为全场焦点，展示了备受期待的全新 CB400 超级四缸。观众不仅可以跨坐体验骑行姿势，还能启动引擎聆听声浪，并通过后轮滚轮台试操作 E 离合器。这一互动展示吸引了大量参观者，成为赛事期间最热门的话题之一。",
+    "highlights_zh": [
+      "全新 CB400 超级四缸亮相铃鹿 8 耐",
+      "可启动引擎并体验 E 离合器",
+      "观众可跨坐感受骑行姿势",
+      "或成为价格低于 100 万日元的惊喜"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CB400 超级四缸 | CB400 Super Four",
+      "铃鹿 8 耐",
+      "E 离合器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225503.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225503.jpg",
+      "https://response.jp/imgs/fill2/2225501.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:41:56.160Z"
+  },
+  "https://response.jp/article/2026/07/08/413726.html": {
+    "title_zh": "新出光子公司推出月费制共享订阅服务，15 人共用 1 台车",
+    "summary_short": "新出光子公司推出“Budget Subsc Car Share”，1 站 1 车由约 15 人共同使用，月费制，7 月 9 日起从福冈逐步展开。",
+    "summary_long": "新出光子公司 Idex Auto Japan 将于 7 月 9 日起推出日本唯一的共同使用型订阅服务“Budget Subsc Car Share”。该服务采用“1 站 1 车”模式，每个站点约 15 名会员共同使用一辆车，用户注册专属“My Station”后，每月支付固定费用即可不限次数使用。距离费用为每公里 12 日元，相当于汽油费。服务还引入了基于专利的会员互评系统，以维持车辆清洁和加油状态。",
+    "highlights_zh": [
+      "1 站 1 车",
+      "月费制",
+      "距离费每公里 12 日元",
+      "引入会员互评系统"
+    ],
+    "entities": [
+      "新出光",
+      "Idex Auto Japan",
+      "Budget Subsc Car Share",
+      "福冈"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225396.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225396.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:41:56.304Z"
+  },
+  "https://response.jp/article/2026/07/08/413745.html": {
+    "title_zh": "斯巴鲁 Levorg Layback S:HEV 试驾：降低车高+混动，操控更均衡",
+    "summary_short": "斯巴鲁 Levorg Layback 推出 S:HEV 混动版，车高降低 20mm，前悬缩短 35mm，带来更均衡的操控与精致外观。",
+    "summary_long": "斯巴鲁为跨界车型 Levorg Layback 新增 S:HEV 混合动力版本，搭载混动系统并将车高降低 20mm，前悬缩短 35mm。试驾显示，新车外观更显均衡精致，前大灯源自 Crosstrek。动力与底盘调校使车辆在蜿蜒道路上表现稳健，操控感提升明显。",
+    "highlights_zh": [
+      "车高降低 20mm",
+      "搭载 S:HEV 混合动力系统",
+      "前大灯源自 Crosstrek",
+      "弯道操控更均衡稳健"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "レヴォーグ レイバック",
+      "クロストレック",
+      "混合动力",
+      "操控"
+    ],
+    "gallery_images": [
+      "https://response.jp/base/images/img_ogp.png",
+      "https://response.jp/imgs/zoom1/2225466.jpg",
+      "https://response.jp/imgs/zoom1/2225467.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:41:59.933Z"
+  },
+  "https://response.jp/article/2026/07/08/413731.html": {
+    "title_zh": "ALFLEX 将展出基于 Caravan 和 HiAce 的两款新型露营车",
+    "summary_short": "ALFLEX 将在东京露营车展上展出基于日产 Caravan 和丰田 HiAce 的两款新型露营车，分别注重乘坐与睡眠的平衡及日常与旅行的融合。",
+    "summary_long": "ALFLEX 将在 7 月 11-12 日于东京 Big Sight 举办的东京露营车展 2026 上，展出 ADDSET 品牌下的两款新型露营车：基于日产 Caravan 的 CRESEED 和基于丰田 HiAce 的 CEEBUS。CRESEED 可容纳最多 7 人正向乘坐，并可选 4 人乘坐加固定床位的布局，后部固定床免去每日铺床的麻烦，中部厨房兼隔断营造独立空间。CEEBUS 则配备双侧滑门，方便上下车，内部设有厨房和灵活的自由空间，可根据当天需求用于储物、休息、用餐或爱好活动，旨在模糊日常与旅行的界限。",
+    "highlights_zh": [
+      "CRESEED：7 人正向乘坐或 4 人+固定床",
+      "CEEBUS：双侧滑门",
+      "两款新车均注重日常与旅行的融合"
+    ],
+    "entities": [
+      "ALFLEX",
+      "ADDSET",
+      "日产 | Nissan",
+      "キャラバン",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225387.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225387.jpg",
+      "https://response.jp/imgs/fill2/2225390.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:00.578Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562132": {
+    "title_zh": "车名猜谜：第 803 回——三菱帕杰罗 Mini",
+    "summary_short": "三菱帕杰罗 Mini 诞生于 RV 热潮，搭载 659cc 发动机与易选四驱系统，以亲民价格和越野基因风靡一时。",
+    "summary_long": "本期车名猜谜聚焦三菱帕杰罗 Mini。这款轻自动车诞生于 RV 热潮，继承了帕杰罗的越野技术，搭载 659cc 直列四缸发动机，提供 SOHC 自然吸气和 DOHC 涡轮增压两种版本。采用易选四驱系统，可在后驱和四驱间切换，凭借休闲风格和实惠价格广受欢迎。",
+    "highlights_zh": [
+      "RV 热潮中诞生的轻自动车",
+      "搭载 659cc 直列四缸发动机",
+      "易选四驱系统",
+      "休闲风格与亲民价格获青睐"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗 Mini",
+      "轻自动车",
+      "易选四驱"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27134556/afc846e3b0e182995782425bd5ae8a5c.jpg?v=1782535558",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27134556/afc846e3b0e182995782425bd5ae8a5c-600x400.jpg?v=1782535558",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27114335/main_former_0145s-600x401.jpg?v=1782528216"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:04.074Z"
+  },
+  "https://bestcarweb.jp/newcar/1568003": {
+    "title_zh": "新型 Hilux Z 与 Adventure 对比：52 万日元差价，顶级版专属装备超值",
+    "summary_short": "丰田 Hilux Z 与 Adventure 差价约 52 万日元，后者拥有专属外观、内饰及配置，性价比值得考量。",
+    "summary_long": "丰田 Hilux 在日本推出 Z 和 Z Adventure 两个等级，价格分别为 498 万 800 日元和 550 万日元，差价约 52 万日元。Adventure 版本在外观上采用大型前下饰条、侧饰条、彩色前护板，以及专属 18 英寸哑光灰铝合金轮毂，备胎也升级为铝合金材质。内饰方面提供专属配色。对于注重实用性的用户，Z 版本已足够；而追求外观冲击力和专属感的用户，Adventure 版本则更具吸引力。",
+    "highlights_zh": [
+      "Z 与 Adventure 差价约 52 万日元",
+      "Adventure 专属大型前下饰条和侧饰条",
+      "18 英寸哑光灰铝合金轮毂",
+      "实用派选 Z"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Hilux",
+      "Z",
+      "Adventure"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03120136/8089e50294910c6cb163e5cb54ad137b-4.jpg?v=1783047697",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03120136/8089e50294910c6cb163e5cb54ad137b-4-600x400.jpg?v=1783047697",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06125529/TOYOTA-RAV4-PHEV_019_1-600x400.jpg?v=1783310130"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:04.096Z"
+  },
+  "https://response.jp/article/2026/07/08/413737.html": {
+    "title_zh": "HERE 与 Cariqa 合作，整合 EV 导航与支付在欧洲推出",
+    "summary_short": "HERE 与 Cariqa 合作，将充电支付集成到 HERE WeGo 导航应用，欧洲用户可直接查找充电站并完成支付。",
+    "summary_long": "HERE Technologies 与 Cariqa 达成合作，将 Cariqa 的电动汽车充电直接支付基础设施整合到 HERE 的免费导航应用 HERE WeGo 中。该服务首先在欧洲推出，驾驶员可在 HERE WeGo 上查找参与充电站，查看充电运营商设定的价格，然后跳转至 Cariqa 网页完成充电会话支付。",
+    "highlights_zh": [
+      "HERE 与 Cariqa 合作整合充电支付",
+      "欧洲用户可在 HERE WeGo 查找充电站",
+      "查看实时价格并跳转支付",
+      "提升 EV 充电体验"
+    ],
+    "entities": [
+      "HEREテクノロジーズ",
+      "カリカ",
+      "HERE WeGo",
+      "电动汽车充电"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225529.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225529.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:07.915Z"
+  },
+  "https://response.jp/article/2026/07/08/413738.html": {
+    "title_zh": "FORVIA HELLA 发布 12V 锂离子电池组，比铅酸电池轻约 20%",
+    "summary_short": "FORVIA HELLA 推出首款完全集成式 12V 锂离子电池组，重量比传统铅酸电池轻约 20%，提升电动车与混动车低压供电的可靠性与智能化。",
+    "summary_long": "FORVIA HELLA 发布了其首款完全集成式 12V 锂离子电池组，旨在满足电动汽车和混合动力汽车对低压电源供应日益增长的高可靠性和智能化需求。该产品将锂离子电芯与电池管理系统集成于一个子系统，在减轻重量和系统复杂性的同时，提高了车辆能源供应的安全性和可靠性。相比传统铅酸电池，重量减轻约 20%，并减少了安装空间和系统接口。",
+    "highlights_zh": [
+      "首款完全集成式 12V 锂离子电池组",
+      "重量比铅酸电池减轻约 20%",
+      "集成 BMS",
+      "减少安装空间与系统接口"
+    ],
+    "entities": [
+      "FORVIA HELLA",
+      "12V 锂离子电池",
+      "铅酸电池",
+      "电池管理系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225530.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225530.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:08.649Z"
+  },
+  "https://response.jp/article/2026/07/08/413723.html": {
+    "title_zh": "MG 将在 2026 古德伍德速度节全球首发两款电动概念车",
+    "summary_short": "MG 将在 2026 古德伍德速度节全球首发两款电动概念车，包括一款 B 级电动掀背车和一款设计愿景车型。",
+    "summary_long": "MG 宣布将在 2026 年 7 月 9 日至 12 日举行的古德伍德速度节上全球首发两款电动概念车。其中一款是计划于 2027 年量产的 B 级电动掀背车，另一款则展示品牌未来的设计方向。两款概念车将由 MG 全球设计副总裁约瑟夫·卡班亲自揭幕。此外，现场还将有机器人互动表演，展示最新技术。",
+    "highlights_zh": [
+      "两款电动概念车全球首发",
+      "包括 B 级电动掀背车和设计愿景车型",
+      "2027 年量产计划",
+      "现场机器人互动表演"
+    ],
+    "entities": [
+      "MG",
+      "古德伍德速度节",
+      "B 级电动掀背车",
+      "电动概念车",
+      "约瑟夫·卡班"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225341.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225341.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:11.333Z"
+  },
+  "https://bestcarweb.jp/feature/column/1569260": {
+    "title_zh": "刻意选择最低配车型反而满意度更高？选购高配前的真实性价比分界线",
+    "summary_short": "热门车型的高配版虽受欢迎，但最低配版性价比可能更高。本文对比最低配与次低配的配置与价格，给出推荐指数。",
+    "summary_long": "热门车型的畅销配置通常偏向最高配，但最低配版本往往被忽视。本文聚焦最低配车型，通过对比其与次低配的装备和价格差异，评估其性价比是否值得购买，并给出百分制推荐指数。以某车型为例，最低配 X 与次低配 G 差价约 34 万日元，G 增加了前后行车记录仪、盲点监测、8 英寸显示屏和右侧自动门等配置，其中部分配置可在 X 上以约 23 万日元选装，但 X 的车身颜色选择较少，综合来看 G 更值得推荐。另一车型中，X 与 Autech Line 差价 11 万日元，后者增加了铝合金轮毂、合成皮革座椅等，若 X 选装铝合金轮毂需 8 万日元，因此 Autech Line 也是不错的选择。",
+    "highlights_zh": [
+      "最低配与次低配差价约 34 万日元",
+      "部分配置可后期选装",
+      "铝合金轮毂选装费高达 8 万日元",
+      "Autech Line 仅贵 11 万日元"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "X",
+      "G",
+      "Autech Line",
+      "性价比"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03211704/00_sairenka-grade_head.jpg?v=1783081025",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03211704/00_sairenka-grade_head-600x400.jpg?v=1783081025",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06101459/MG_0199_1-600x400.jpg?v=1783300500"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:13.319Z"
+  },
+  "https://response.jp/article/2026/07/08/413735.html": {
+    "title_zh": "Alpine A110 下一代将成电动跑车，开发车 Goodwood 2026 首秀",
+    "summary_short": "Alpine 将在 Goodwood 2026 展示第三代 A110 电动跑车开发车 A110 FUTURE，基于全新 Alpine 性能平台，目标超越燃油车性能。",
+    "summary_long": "Alpine 宣布将在 Goodwood Festival of Speed 2026 上首次公开第三代 A110 的开发车，命名为 A110 FUTURE。该车用于验证下一代 A110 的技术，定位为“世界首款真正的电动跑车”，基于全新 Alpine 性能平台（APP）。平台采用先进铝架构、前后 40/60 重量分配、800V 电池技术、SiC 逆变器双电机等，旨在超越当前顶级燃油跑车的性能。活动期间还将展出 A110 历史车型及电动车型 A290 和 A390。",
+    "highlights_zh": [
+      "开发车 A110 FUTURE 将在 Goodwoo…",
+      "基于全新 Alpine 性能平台",
+      "前后 40/60 重量分配",
+      "目标成为世界首款真正电动跑车"
+    ],
+    "entities": [
+      "アルピーヌ",
+      "A110",
+      "Goodwood 速度节",
+      "Alpine 性能平台"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225474.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225474.jpg",
+      "https://response.jp/imgs/fill2/2225475.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:15.289Z"
+  },
+  "https://response.jp/article/2026/07/08/413741.html": {
+    "title_zh": "法雷奥改造法国昂热工厂，生产下一代照明系统",
+    "summary_short": "法雷奥完成法国昂热工厂现代化改造，投资超 4500 万欧元，生产下一代照明系统。",
+    "summary_long": "法国汽车零部件巨头法雷奥集团宣布完成法国昂热工厂的现代化改造计划。该计划于 2023 年至 2026 年实施，总投资超过 4500 万欧元。为配合法雷奥战略计划“Valeo Elevate 2028”的增长目标，工厂对生产线进行了全面升级，并引入了新一代光学技术。昂热和布卢瓦两个基地共有超过 1200 名高技能员工，每天为全球主要汽车制造商供应 9000 个前大灯和 22000 个复合模块。",
+    "highlights_zh": [
+      "投资超 4500 万欧元",
+      "2023-2026 年实施",
+      "引入新一代光学技术",
+      "日产 9000 个前大灯"
+    ],
+    "entities": [
+      "法雷奥",
+      "昂热",
+      "布卢瓦",
+      "前大灯",
+      "复合模块"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225540.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225540.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:16.624Z"
+  },
+  "https://response.jp/article/2026/07/08/413739.html": {
+    "title_zh": "德国汽车业迎来第二转折点：在德记者熊谷彻访谈",
+    "summary_short": "德国汽车业面临历史性转折，大众计划关闭国内 4 家工厂并裁员 10 万，行业危机堪比底特律。",
+    "summary_long": "德国汽车工业正经历历史性转折，在德记者熊谷彻指出，2026 年行业形势进一步恶化。大众汽车计划裁员 10 万人，较 2025 年翻倍，并首次考虑关闭国内工厂：大众 10 家工厂中的 3 家及奥迪 1 家工厂将逐步缩减或关闭。这将是大众乃至德国汽车史上的首次。2026 年 5 月德国乘用车产量同比下降 18%，有观点认为，奔驰总部所在的巴登-符腾堡州可能重蹈底特律覆辙。",
+    "highlights_zh": [
+      "大众计划裁员 10 万人",
+      "大众首次考虑关闭国内 4 家工厂",
+      "2026 年 5 月德国乘用车产量同比降 18%",
+      "德国汽车业面临底特律式危机风险"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "奥迪 | Audi",
+      "奔驰 | Mercedes-Benz",
+      "德国汽车工业",
+      "底特律"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225465.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225465.jpg",
+      "https://response.jp/imgs/p/OMHSDY1RhmI6_sRAaLcpIH5P30HRQkNERUZH/2206816.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:19.275Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551977": {
+    "title_zh": "吉姆尼诺马德效应显著，铃木跃居日本国内销量第二",
+    "summary_short": "铃木凭借吉姆尼系列等车型的强劲表现，2025 年度国内销量跃居第二，超越本田，实现历史性突破。",
+    "summary_long": "2025 年度，铃木在日本国内新车销量（含轻型车）达 72.5 万辆，同比增长 2%，自 1993 年以来首次超越本田升至第二位。其中，2025 年 4 月推出的吉姆尼诺马德等车型表现突出，吉姆尼系列月销约 6000 台，带动注册车销量增长 27%至 16.8 万辆，弥补了轻型车 4.8%的下滑。",
+    "highlights_zh": [
+      "铃木 2025 年度国内销量跃居第二",
+      "吉姆尼诺马德等车型月销约 6000 台",
+      "注册车销量增长 27%弥补轻型车下滑",
+      "自 1993 年以来首次超越本田"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼诺马德",
+      "吉姆尼",
+      "本田 | Honda",
+      "注册车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16205752/00_suzuki_photo03_head.jpg?v=1781611073",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16205752/00_suzuki_photo03_head-600x400.jpg?v=1781611073",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06101459/MG_0199_1-600x400.jpg?v=1783300500"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:20.498Z"
+  },
+  "https://response.jp/article/2026/07/08/413744.html": {
+    "title_zh": "邓禄普与古德伍德复兴节合作，参与 9 月英国全球性赛车运动",
+    "summary_short": "住友橡胶旗下邓禄普与古德伍德复兴节达成合作，将在 2026 年 9 月英国赛事中设展并展出福特 GT40。",
+    "summary_long": "住友橡胶工业旗下的邓禄普品牌与全球性赛车运动盛会“古德伍德复兴节”签署了合作伙伴关系。该合作基于邓禄普自 1948 年古德伍德赛道创立以来的赞助渊源，为期最长三年，旨在提升品牌价值。2026 年 9 月 18 日至 20 日，邓禄普将在英国古德伍德赛道设置约 600 平方米的展位和 VIP 设施，并展出搭载邓禄普轮胎的福特 GT40。展位将展示三辆 1966 年款福特 GT40，这些车辆将配备邓禄普赛车轮胎参赛。第 11 代里士满公爵查尔斯·戈登-伦诺克斯表示，邓禄普作为自赛道创立以来的合作伙伴，成为古德伍德复兴节的首个呈现合作伙伴实至名归。",
+    "highlights_zh": [
+      "邓禄普成为古德伍德复兴节首个呈现合作伙伴",
+      "合作基于 1948 年以来的赞助历史",
+      "2026 年 9 月 18-20 日在英国古德伍德赛…",
+      "将展出三辆 1966 年款福特 GT40 并参赛"
+    ],
+    "entities": [
+      "邓禄普",
+      "住友橡胶工业",
+      "古德伍德复兴节",
+      "古德伍德赛道",
+      "福特 GT40 | Ford GT40"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225551.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225551.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:23.739Z"
+  },
+  "https://bestcarweb.jp/news/1568201": {
+    "title_zh": "马自达车身颜色变身夏日饮品！在青山品尝限定菜单",
+    "summary_short": "马自达将魂动红等标志性车身颜色做成夏日限定饮品，在东京青山品牌体验店发售，共 5 款，每杯 770 日元。",
+    "summary_long": "马自达位于东京港区南青山的品牌体验设施“MAZDA TRANS AOYAMA”自 2026 年 7 月 1 日起推出夏季限定饮品“SIGNATURE COLOR FLOAT SUMMER LIMITED”，以马自达车型的标志性车身颜色为灵感，提供蓝色、绿色、黄色、红色和黑色共 5 款饮品，每杯售价 770 日元（含税），可堂食或外带。该企划将马自达的色彩哲学转化为味觉体验，让顾客通过饮品感受品牌设计精髓。",
+    "highlights_zh": [
+      "马自达车身颜色变身夏日饮品",
+      "5 款颜色对应经典车漆",
+      "每杯 770 日元",
+      "东京青山品牌体验店限定"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-5",
+      "魂动红",
+      "MAZDA TRANS AOYAMA"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03163742/9a3f4e6837d66158bbed9a08345340a1.jpg?v=1783064263",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03163742/9a3f4e6837d66158bbed9a08345340a1-600x374.jpg?v=1783064263",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03163551/50806c4f33848c5fca644d83b87728a2-600x600.jpg?v=1783064153"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:24.349Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1553112": {
+    "title_zh": "土耳其电动小巴 Karsan e-JEST 进入千叶县南房总市",
+    "summary_short": "土耳其电动小巴 Karsan e-JEST 正式进入日本千叶县南房总市，交付仪式已举行，该车以紧凑车身和独特设计引人注目。",
+    "summary_long": "土耳其制造的电动小巴 Karsan e-JEST 正式进入日本市场，千叶县南房总市宣布引进该车型并举行了交付仪式。e-JEST 以其紧凑的车身和独特的包装设计在众多巴士中独树一帜，具有强烈的存在感。交付仪式上，市长致辞、钥匙交接和纪念摄影等活动顺利进行，现场气氛热烈，参与者对 e-JEST 充满期待。",
+    "highlights_zh": [
+      "土耳其电动小巴 Karsan e-JEST 进入日本",
+      "千叶县南房总市引进并举行交付仪式",
+      "紧凑车身与独特设计引人注目",
+      "现场参与者对新车充满期待"
+    ],
+    "entities": [
+      "Karsan e-JEST",
+      "南房总市",
+      "千叶县",
+      "电动小巴"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17212712/00_Turkey_001_head.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/19102447/DSC04236-1024x684.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/14152443/DSC03855-1024x684.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:27.862Z"
+  },
+  "https://bestcarweb.jp/feature/column/1570273": {
+    "title_zh": "兰德酷路泽 250 ZX 独享三大高科技配置，大哥兰德酷路泽 300 都没有",
+    "summary_short": "兰德酷路泽 250 ZX 配备三大专属高科技功能，包括自适应远光灯和可调座椅，提升日常与越野体验。",
+    "summary_long": "兰德酷路泽 250 的最顶级版本 ZX 拥有三项专属高科技配置，这些功能甚至在其大哥兰德酷路泽 300 上都没有配备。其中，自适应远光灯系统（AHS）能根据对向车辆自动切换远近光，同时照亮路肩等暗区；座椅前端可调功能允许驾驶者根据体型调整坐垫长度，提升长途舒适性。这些配置不仅适用于越野，在日常驾驶中同样实用。",
+    "highlights_zh": [
+      "自适应远光灯系统（AHS）自动切换远近光",
+      "座椅坐垫长度可调",
+      "这些配置连兰德酷路泽 300 都没有"
+    ],
+    "entities": [
+      "兰德酷路泽 250 | Land Cruiser 250",
+      "兰德酷路泽 300 | Land Cruiser 300",
+      "ZX",
+      "自适应远光灯"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06101459/MG_0199_1.jpg?v=1783300500",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06101459/MG_0199_1-600x400.jpg?v=1783300500",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21110913/00_nissan_BJMS2026_Terrano_04_head-600x400.jpg?v=1782007754"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:27.884Z"
+  },
+  "https://www.motor1.com/news/800895/ford-mustang-mach-e-recalls/": {
+    "title_zh": "福特最新召回 11 万辆汽车，涉及 Mustang",
+    "summary_short": "福特因雨刷器和后差速器问题召回 11 万辆汽车，涉及 Mustang 及 Mustang Mach-E。",
+    "summary_long": "福特宣布两项召回，共涉及 110,626 辆汽车。其中较大规模召回影响 67,842 辆 2024 至 2026 款 Mustang（含高性能 Mustang GTD），原因是低温可能导致雨刷电机失去通信，使雨刷仅高速运转且清洗系统失效。问题源于供应商电路板编程错误。另一项召回涉及 Mustang Mach-E 的后差速器问题。",
+    "highlights_zh": [
+      "福特召回 11 万辆汽车",
+      "涉及 Mustang 及 Mustang Mach-…",
+      "雨刷器在低温下可能失效",
+      "后差速器存在隐患"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Mustang",
+      "Mustang Mach-E",
+      "Mustang GTD"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4Oq6w/s1/ford-mustang-gtd-spirit-of-america-2.0.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:31.337Z"
+  },
+  "https://bestcarweb.jp/fullload/1568813": {
+    "title_zh": "奈良土木公司引入艾里逊 AT 8 吨自卸车，效率获好评",
+    "summary_short": "奈良塚本商事引入搭载艾里逊自动变速箱的日野 Ranger FJ 8 吨自卸车，在狭窄工地中实现高效运输，获高度评价。",
+    "summary_long": "奈良县土木建设公司塚本商事于 2019 年引入搭载艾里逊全自动变速箱的日野 Ranger FJ 自卸车（总重 14 吨），并于 2025 年底更换为同规格后继车型。该车在狭窄住宅区工地中展现出高运输效率和 AT 带来的优异操控性，获得公司高度评价。塚本商事每日需将约 70 吨砂石从临时堆场运至各工地，此前 4 吨级车辆运量有限需多次往返，而大型自卸车无法进入狭窄道路。日野 Ranger FJ 基于中型车平台，载重 8 吨，搭载 A05C-TE 发动机（240 马力/81kgf·m），兼顾通过性与运载效率。",
+    "highlights_zh": [
+      "搭载艾里逊全自动变速箱",
+      "8 吨载重兼顾狭窄工地通过性",
+      "每日运输砂石约 70 吨",
+      "替代 4 吨车减少往返次数"
+    ],
+    "entities": [
+      "塚本商事",
+      "日野",
+      "Ranger FJ",
+      "艾里逊",
+      "自卸车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/03155847/img36-1-1024x673.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/06/30151022/WEB_ISZ-YKHM_Bat-Changer-RCV_Eyecatch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/02143335/00-WaabiVAS-01_Original-file.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:32.539Z"
+  },
+  "https://www.motor1.com/news/800891/man-orders-jeep-another-state/": {
+    "title_zh": "男子订购 Jeep 后发现车辆在另一州，交易告吹",
+    "summary_short": "一名顾客在经销商处订购 Jeep，销售员费尽周折找到车源，却发现车辆位于另一州，最终交易失败。",
+    "summary_long": "一位 Jeep 销售员为满足客户需求，努力寻找特定配置的 2026 款 Jeep Wrangler，最终找到一辆黑色 Rubicon 带一键式顶篷的车型。然而，他随后发现该车实际位于另一州，这一失误导致客户取消订单，交易告吹。",
+    "highlights_zh": [
+      "客户想升级到 2026 款 Jeep Wrangle…",
+      "销售员找到黑色 Rubicon 带一键顶篷",
+      "车辆实际在另一州"
+    ],
+    "entities": [
+      "Jeep",
+      "Jeep Wrangler"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4xVM/s1/man-orders-jeep-from-dealership-with-less-than-200-miles-on-it.-then-he-realizes-he-just-ordered-it-from-another-state.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:34.590Z"
+  },
+  "https://www.motor1.com/news/800911/oreilly-automotive-buy-napa-auto-parts/": {
+    "title_zh": "O'Reilly 拟百亿美元收购 NAPA，打造售后市场巨头",
+    "summary_short": "O'Reilly Automotive 出价 100 亿美元收购 Genuine Parts 旗下汽车零部件部门，包括 NAPA Auto Parts，若成功将重塑美国汽配市场格局。",
+    "summary_long": "据彭博社报道，O'Reilly Automotive 已出价 100 亿美元收购 Genuine Parts Company 的汽车零部件业务，该业务包含 NAPA Auto Parts 品牌。Genuine Parts 于今年 2 月宣布计划将汽车零部件与工业业务分拆为两家独立上市公司，此次收购意向正是该分拆计划的一部分。Genuine Parts 的汽车业务在全球拥有超过 1 万家门店，其中美国境内 NAPA 门店超过 6000 家，2025 年销售额超过 150 亿美元。目前尚不清楚 Genuine Parts 是否会接受该报价、保留该业务或出售给其他竞购者。若交易达成，将诞生一家美国汽车售后市场的巨头企业。",
+    "highlights_zh": [
+      "O'Reilly 出价 100 亿美元收购 NAPA",
+      "Genuine Parts 汽车业务年销超 150…",
+      "NAPA 在美国拥有超 6000 家门店",
+      "交易将重塑美国汽配市场格局"
+    ],
+    "entities": [
+      "O'Reilly Automotive",
+      "NAPA Auto Parts",
+      "Genuine Parts Company",
+      "售后市场",
+      "收购"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3Jy3/s1/o-reilly-and-napa-merger-report.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:36.520Z"
+  },
+  "https://insideevs.com/news/800900/leapmotor-mexico-sales-stellantis-chinese/": {
+    "title_zh": "又一家中国电动车企登陆北美：零跑在墨西哥开售 B10",
+    "summary_short": "零跑汽车通过 Stellantis 经销网络在墨西哥推出 B10 跨界车，售价约 3.3 万美元，续航达 990 公里。",
+    "summary_long": "在美国对中国汽车加强打压之际，中国电动车初创公司零跑汽车宣布进入墨西哥市场，推出 B10 增程式电动跨界车，售价 57.5 万墨西哥比索（约 3.3 万美元），续航里程达 990 公里。零跑通过 Stellantis 的经销网络销售，后者持有零跑 21%的股份。墨西哥正经历中国电动车热潮，去年插电式汽车销量增长三倍，其中 85%为中国进口。零跑是中国最大的新能源车初创企业，今年上半年销量约 35.6 万辆，同比增长一倍。",
+    "highlights_zh": [
+      "零跑汽车进入墨西哥市场",
+      "B10 增程式跨界车售价约 3.3 万美元",
+      "续航达 990 公里",
+      "通过 Stellantis 经销网络销售"
+    ],
+    "entities": [
+      "零跑",
+      "B10",
+      "Stellantis",
+      "墨西哥"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/OoMq4B/s1/leapmotor-b10---lancamento-no-brasil.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:38.031Z"
+  },
+  "https://insideevs.com/news/800754/bmw-ix5-hydrogen-energy-storage-solution/": {
+    "title_zh": "宝马为何不放弃氢燃料电池车",
+    "summary_short": "宝马在全新 X5 上推出氢燃料电池版 iX5，计划 2028 年上市，押注氢能作为储能方案。",
+    "summary_long": "尽管氢燃料电池车多年来进展缓慢，宝马仍看好其前景。全新第五代 X5 提供五种动力总成，包括氢燃料电池版 iX5，计划 2028 年推出。宝马认为，随着可再生能源发电量激增，氢能可作为电网级储能方案，与电池互补。目前全球加氢站稀少，美国仅加州有 47 座，但宝马仍坚持投入。",
+    "highlights_zh": [
+      "宝马全新 X5 提供氢燃料电池版 iX5",
+      "iX5 计划 2028 年上市",
+      "氢能被视为电网储能方案",
+      "全球加氢站稀少"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5",
+      "iX5",
+      "氢燃料电池",
+      "加氢站"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJNJ8/s1/bmw-ix5-hydrogen.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:40.424Z"
+  },
+  "https://insideevs.com/news/800908/new-solid-state-battery-study-dendrite-formation/": {
+    "title_zh": "MIT 找到解决固态电池枝晶问题的方法",
+    "summary_short": "固态电池因锂枝晶生长导致短路，MIT 研究揭示晶界是主因，并提出抑制方案。",
+    "summary_long": "固态电池因锂枝晶生长导致短路，阻碍其商业化。MIT 与慕尼黑工业大学研究发现，固态电解质中的晶界是枝晶形成的关键，通过调整材料结构可抑制其生长，为固态电池量产铺平道路。",
+    "highlights_zh": [
+      "固态电池枝晶问题有解",
+      "MIT 锁定晶界为枝晶主因",
+      "新方法可抑制锂金属生长"
+    ],
+    "entities": [
+      "MIT",
+      "固态电池",
+      "枝晶",
+      "晶界",
+      "锂金属"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXYege/s1/sk-on-solid-state-ev-battery.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:40.929Z"
+  },
+  "https://www.motor1.com/news/800887/chevy-trailblazer-transmission-blows/": {
+    "title_zh": "女子购买雪佛兰 Trailblazer，行驶 3 万英里变速箱报废",
+    "summary_short": "一位俄亥俄州女子的雪佛兰 Trailblazer 在行驶 3 万英里后变速箱报废，引发对通用汽车变速箱问题的关注。",
+    "summary_long": "一位俄亥俄州女子在 TikTok 上分享她的雪佛兰 Trailblazer 在仅行驶 3 万英里后变速箱报废的经历，引发广泛关注。该视频已获得超过 44.2 万次观看。许多通用汽车车型长期存在变速箱问题，并已引发多次召回。",
+    "highlights_zh": [
+      "雪佛兰 Trailblazer 行驶 3 万英里变速…",
+      "车主在 TikTok 上分享经历引发热议",
+      "通用汽车变速箱问题长期存在并多次召回"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Trailblazer",
+      "通用汽车",
+      "变速箱"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGARO/s1/woman-buys-a-chevy.-then-the-transmission-blows-at-30-000-miles.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:43.350Z"
+  },
+  "https://www.motor1.com/news/800906/fiat-topolino-price/": {
+    "title_zh": "菲亚特 Topolino 以 1.5 万美元成为美国最便宜新车",
+    "summary_short": "菲亚特 Topolino 以 1.5 万美元成为美国最便宜新车，但更像高尔夫球车，极速仅 19 英里/时。",
+    "summary_long": "菲亚特 Topolino 以 14,985 美元（含运费）的价格成为美国市场最便宜的新车，但严格来说它更像一辆高尔夫球车。该车仅 8 马力，极速 19 英里/时，续航 46 英里，充电需 5 小时。标配 LED 灯、安全带、数字仪表盘和手机支架，仅提供 Verde Vita 绿色。",
+    "highlights_zh": [
+      "售价 14",
+      "8 马力",
+      "续航 46 英里",
+      "标配 LED 灯、数字仪表盘、手机支架"
+    ],
+    "entities": [
+      "菲亚特 | Fiat",
+      "Topolino",
+      "Hyundai Venue",
+      "Nissan Versa"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9mxo/s1/2026-fiat-topolino.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:43.950Z"
+  },
+  "https://insideevs.com/news/800902/topolino-usa-launch-fiat-ev/": {
+    "title_zh": "菲亚特 Topolino：13995 美元电动车，可爱但不算车",
+    "summary_short": "菲亚特 Topolino 售价 13995 美元，续航 46 英里，极速 19 英里/时，需升级才能合法上路，实为微型四轮车。",
+    "summary_long": "菲亚特 Topolino 以 13995 美元低价进入美国市场，比 500e 便宜 16500 美元，但本质上并非汽车，而是基于雪铁龙 Ami 的微型四轮车。其标准版极速仅 19 英里/时，续航 46 英里，需免费升级才能达到低速车辆标准（20 英里/时），且无法上高速。设计可爱，车门对称反向开启，但功能简陋，更像高尔夫球车。",
+    "highlights_zh": [
+      "售价仅 13995 美元",
+      "极速 19 英里/时",
+      "续航 46 英里",
+      "基于雪铁龙 Ami 的微型四轮车"
+    ],
+    "entities": [
+      "菲亚特 | Fiat",
+      "Topolino",
+      "雪铁龙",
+      "Ami",
+      "500e"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlxKo/s1/2026-fiat-topolino.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:46.750Z"
+  },
+  "https://www.thedrive.com/news/hooray-you-can-now-buy-a-fiat-topolino-in-the-us-but-its-too-darn-expensive": {
+    "title_zh": "菲亚特 Topolino 登陆美国，但价格太贵",
+    "summary_short": "菲亚特 Topolino 微型电动车在美国上市，续航 46 英里，极速 25 英里/时，售价近 1.5 万美元，被指太贵。",
+    "summary_long": "菲亚特 Topolino 微型电动车正式在美国上市，提供基础版和 Dolcevita 敞篷版两种配置。该车搭载 5.4 千瓦时电池，续航仅 46 英里，极速 19 英里/时（可通过改装套件提升至 25 英里/时）。起售价 13,990 美元，加上运费后接近 1.5 万美元，被批评为价格过高，相当于一辆时尚的双人高尔夫球车。",
+    "highlights_zh": [
+      "售价近 1.5 万美元",
+      "续航仅 46 英里",
+      "极速 19 英里/时",
+      "可改装至 25 英里/时"
+    ],
+    "entities": [
+      "菲亚特 | Fiat",
+      "Topolino",
+      "Stellantis"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2025/09/2025-fiat-topolino-ev-review-jerry-perez-16.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2025/09/2025-fiat-topolino-ev-review-jerry-perez-1.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2025/09/2025-fiat-topolino-ev-review-jerry-perez-15.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:47.448Z"
+  },
+  "https://www.motor1.com/news/800881/toyota-tacoma-production-moved-american-investment/": {
+    "title_zh": "丰田将 Tacoma 生产迁回美国",
+    "summary_short": "丰田投资 36 亿美元扩建得州工厂，将 Tacoma 皮卡生产从墨西哥迁至美国，新增 2000 个岗位。",
+    "summary_long": "丰田宣布投资 36 亿美元扩建其位于得克萨斯州圣安东尼奥的工厂，新增第二条生产线，将 Tacoma 皮卡的生产从墨西哥转移至美国。此举将使工厂面积扩大一倍至 500 万平方英尺，并创造 2000 个就业岗位，员工总数增至约 6000 人。Tacoma 将与 Tundra 和 Sequoia 在美共线生产，三者均基于 TNGA-F 平台。",
+    "highlights_zh": [
+      "投资 36 亿美元扩建得州工厂",
+      "Tacoma 生产从墨西哥迁至美国",
+      "新增 2000 个就业岗位",
+      "与 Tundra、Sequoia 共线生产"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tacoma",
+      "Tundra",
+      "Sequoia",
+      "TNGA-F 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWJEB/s1/2026-toyota-tacoma-trd-pro.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:50.118Z"
+  },
+  "https://www.thedrive.com/news/this-is-what-four-years-in-a-river-does-to-a-gm-6-2l-v8": {
+    "title_zh": "GM 6.2L V8 在河底浸泡四年后的惨状",
+    "summary_short": "一台雪佛兰 Camaro SS 的 6.2L V8 发动机在俄亥俄河底浸泡四年，内部充满泥浆、锈迹和杂物，拆解过程触目惊心。",
+    "summary_long": "一台来自雪佛兰 Camaro SS 的 6.2L V8 发动机（L99）在俄亥俄河底浸泡四年后被打捞。外部布满锈迹和藤壶，内部则充满泥浆、油污和粘稠杂物。拆解视频显示，螺栓头被厚厚污垢覆盖，放油螺塞拧开后先流出大量河水，随后是混有碎块的机油，发动机整体已严重腐蚀。",
+    "highlights_zh": [
+      "发动机外部布满锈迹和藤壶",
+      "内部充满泥浆、油污和粘稠杂物",
+      "放油螺塞拧开后先流出大量河水",
+      "螺栓头被厚厚污垢覆盖"
+    ],
+    "entities": [
+      "雪佛兰 Camaro SS",
+      "GM 6.2L V8",
+      "L99",
+      "俄亥俄河"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Nasty-Flood-Engine-Teardown-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-11.21.20-AM.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-11.21.38-AM.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:51.115Z"
+  },
+  "https://www.thedrive.com/news/two-tesla-cybercabs-just-landed-in-minneapolis-nobody-knows-why": {
+    "title_zh": "两辆特斯拉 Cybercab 现身明尼阿波利斯，原因不明",
+    "summary_short": "两辆特斯拉 Cybercab 无人看管地停在明尼阿波利斯郊区，VIN 显示为早期生产车型，引发外界猜测。",
+    "summary_long": "一位读者在明尼苏达州明尼阿波利斯郊区的布鲁克林公园发现了两辆特斯拉 Cybercab，它们停放在特斯拉自有办公室外的停车场，VIN 显示为早期生产车型。目前尚不清楚这些车辆为何出现在此地，可能预示着特斯拉正在为机器人出租车服务开拓新市场。",
+    "highlights_zh": [
+      "两辆金色 Cybercab 现身明尼阿波利斯",
+      "VIN 显示为早期生产车型",
+      "停在特斯拉办公室外",
+      "或为机器人出租车服务铺路"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Cybercab"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_5217-e1783439559308.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_5220.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_5219.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:53.439Z"
+  },
+  "https://www.motor1.com/news/800863/winners-losers-june-quarterly-auto-sales-results/": {
+    "title_zh": "6 月汽车销量赢家与输家",
+    "summary_short": "6 月汽车销量喜忧参半：现代起亚集团和 Stellantis 增长，福特通用下滑，极星陷入困境。",
+    "summary_long": "6 月汽车销量数据出炉，市场表现分化明显。现代、起亚和 Stellantis 实现增长，而福特和通用汽车销量下滑，极星品牌则陷入停滞。新车价格仍处高位，油价虽有所下降但依然偏高。消费者应对高用车成本的趋势逐渐清晰：混合动力和紧凑型车受到青睐，缺乏此类产品的品牌则遭受损失。起亚凭借 Sportage、Sorento 和 Carnival 的混动版本销量大幅增长，6 月销量达 70,507 辆，同比增长 10%，上半年累计销量 430,727 辆，创历史新高。",
+    "highlights_zh": [
+      "起亚 6 月销量创历史新高",
+      "混动车型成增长引擎",
+      "福特通用销量下滑",
+      "极星品牌陷入困境"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "现代 | Hyundai",
+      "Stellantis",
+      "福特",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WE8jj/s1/june-sales-winners-and-losers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T03:42:55.180Z"
   }
 }

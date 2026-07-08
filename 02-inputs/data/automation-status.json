@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-07T15:58:08.807Z",
+    "generated_at": "2026-07-08T03:41:51.333Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 366,
-    "deepseek_untranslated_before_run": 34,
-    "newly_fetched_articles": 34,
-    "newly_fetched_untranslated": 34,
+    "deepseek_translated_before_run": 367,
+    "deepseek_untranslated_before_run": 33,
+    "newly_fetched_articles": 33,
+    "newly_fetched_untranslated": 33,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 34,
+    "translation_queue_count": 33,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.7",
-        "title": "Porsche’s ‘GT3’ Label Isn’t About the Track Anymore",
-        "url": "https://www.thedrive.com/news/porsches-gt3-label-isnt-about-the-track-anymore"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.7",
-        "title": "The Next Range Rover Velar Could Look Very Different",
-        "url": "https://www.motor1.com/news/800866/range-rover-velar-model-redesign/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.7",
-        "title": "Photos: Porsche 911 GT3 S/C",
-        "url": "https://www.motor1.com/news/800861/porsche-911-gt3-sc-photos/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.7",
-        "title": "The Price Gap Between Regular and Premium Gas Is Widening. Drivers Are Responding: TDS",
-        "url": "https://www.thedrive.com/news/the-price-gap-between-regular-and-premium-gas-is-widening-drivers-are-responding-tds"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.7",
-        "title": "2027 Ram 1500 TRX SRT First-Drive Review: Prehistoric Power in a Modern Off-Road Monster",
-        "url": "https://www.thedrive.com/car-reviews/2027-ram-1500-trx-srt-first-drive-review"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.7",
-        "title": "2027 Ram TRX vs Rumble Bee Hellcat: Your Guide to Ram’s Supercharged SRT Pickups",
-        "url": "https://www.thedrive.com/news/2027-ram-trx-vs-rumble-bee-hellcat-your-guide-to-rams-supercharged-srt-pickups"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.7",
-        "title": "'Get Blinded By It': BMW Driver Sees Holographic Tesla On Highway. Then He Notices How Light Is Reflecting Off It. Is That Legal?",
-        "url": "https://www.motor1.com/news/800785/san-diego-holographic-tesla/"
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "「100万円切り」はあるか？ 新型『CB400スーパーフォア』、ホンダが鈴鹿8耐で“本気のサプライズ”！",
+        "url": "https://response.jp/article/2026/07/08/413743.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "「出たら最高なんだが」スズキ『カプチーノ』復活スクープにファン興奮！「250万じゃ買えない」の声も",
-        "url": "https://response.jp/article/2026/07/07/413713.html"
+        "time": "2026.7.8",
+        "title": "「1ステーション1台」を15名程度で共同利用、月額制サブスクを新出光の子会社が7月9日開始…福岡から順次展開",
+        "url": "https://response.jp/article/2026/07/08/413726.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "【ボルボ V60 PHEV 新型試乗】クラシカルな温もりと、未来に残すべきパッケージング…中村孝仁",
-        "url": "https://response.jp/article/2026/07/07/413721.html"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.7",
-        "title": "2027 Porsche 911 GT3 S/C First-Drive Review: The Ultimate 911, Actually",
-        "url": "https://www.thedrive.com/car-reviews/2027-porsche-911-gt3-s-c-first-drive-review"
+        "time": "2026.7.8",
+        "title": "『キャラバン』と『ハイエース』ベース、ALFLEXが新型2台出展へ…東京キャンピングカーショー2026",
+        "url": "https://response.jp/article/2026/07/08/413731.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "BMW『iX3』新型、「アドバン・スポーツ V107」を新車装着…横浜ゴムが納入開始",
-        "url": "https://response.jp/article/2026/07/07/413706.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "GRパーツ、新型トヨタ『アクア』向けに6種発売 走行安定性向上からドレスアップまで",
-        "url": "https://response.jp/article/2026/07/07/413704.html"
+        "time": "2026.7.8",
+        "title": "【スバル レヴォーグ レイバック 試乗】待望（？）のローダウン＋ハイブリッド仕様が登場！ その走りに触れた。",
+        "url": "https://response.jp/article/2026/07/08/413745.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "MFゴースト限定ジッポーが登場！ シリアルナンバー入り100個限定販売!!",
-        "url": "https://bestcarweb.jp/news/1568199"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "NIPPON EXPRESS、宇宙スタートアップ「ElevationSpace」に出資…宇宙物流構築へ",
-        "url": "https://response.jp/article/2026/07/07/413716.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "エンジンオイルの適正油温は何度？ オイルクーラーが必要な条件と注意点～カスタムHOW TO～",
-        "url": "https://response.jp/article/2026/07/07/413717.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "クラシックカー＆バイクの集い「20世紀ミーティング2026秋季」を開催 新潟三条で10月11日",
-        "url": "https://response.jp/article/2026/07/07/413722.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "スズキ、サステナビリティAI「ASUENE」導入…27カ国・地域でCO2排出量のグローバル管理基盤を構築",
-        "url": "https://response.jp/article/2026/07/07/413720.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "ダイナミックマップ、米ピッツバーグの国際サミットに参加…高精度地図とAIで自動運転を支援",
-        "url": "https://response.jp/article/2026/07/07/413718.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.7",
-        "title": "トヨタ株価が続伸…米サンアントニオ工場に36億ドル投資",
-        "url": "https://response.jp/article/2026/07/07/413708.html"
+        "time": "2026.7.8",
+        "title": "【新型ハイラックスグレード比較】52万円の差!! でも最上級グレードは専用装備だらけでかなり得!?",
+        "url": "https://bestcarweb.jp/newcar/1568003"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.7",
-        "title": "一文字でビシッと光る姿がイケイケすぎる！ マストで付けたい新型レイバックS:HEVのアクセサリー",
-        "url": "https://bestcarweb.jp/newcar/1567061"
+        "time": "2026.7.8",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第803回",
+        "url": "https://bestcarweb.jp/feature/column/1562132"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "FORVIA HELLA、12Vリチウムイオン電池パック発表…鉛蓄電池より約20%軽量化",
+        "url": "https://response.jp/article/2026/07/08/413738.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "HEREテクノロジーズとCariqaが提携、EVナビと決済を一体化…欧州で展開",
+        "url": "https://response.jp/article/2026/07/08/413737.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "MG、Bセグ電動ハッチなど2台のEVコンセプト世界初公開へ…グッドウッド2026",
+        "url": "https://response.jp/article/2026/07/08/413723.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "あえて最廉価グレードを選ぶほうが満足度は高い!? 上位グレードを選ぶ前のリアルなコスパ境界線",
+        "url": "https://bestcarweb.jp/feature/column/1569260"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "アルピーヌ『A110』次期型はEVスポーツに、開発車両を初公開へ…グッドウッド2026",
+        "url": "https://response.jp/article/2026/07/08/413735.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "ヴァレオ、仏アンジェ工場を改修…次世代照明システム生産へ",
+        "url": "https://response.jp/article/2026/07/08/413741.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "このままではデトロイトのようになる：ドイツ自動車業界が迎える第2の転換点…在独ジャーナリスト 熊谷徹 氏［インタビュー］",
+        "url": "https://response.jp/article/2026/07/08/413739.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "ジムニーノマド効果がスゴい!! スズキが国内販売2位へ大躍進！ 軽から登録車へ転換が成功",
+        "url": "https://bestcarweb.jp/feature/column/1551977"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "ダンロップ、「グッドウッド・リバイバル」と提携…9月英国開催の世界的モータースポーツイベントに参画",
+        "url": "https://response.jp/article/2026/07/08/413744.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "マツダのボディカラーがまさかの飲み物に!! 夏限定メニューを青山で飲もう!!",
+        "url": "https://bestcarweb.jp/news/1568201"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "兄貴分のランクル300にも付いていない特別装備!? ランクル250の最上級グレードZXだけに備わる3つのハイテク機能",
+        "url": "https://bestcarweb.jp/feature/column/1570273"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "南房総市が新たな活躍フィールドに加わった!! トルコからやって来たバス・カルサンe-JESTが千葉県に進出!!",
+        "url": "https://bestcarweb.jp/busmagazine/1553112"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "奈良の土木・建設会社が効率性アップで高評価!! 現場で存在感を示すアリソンAT搭載8トンダンプ",
+        "url": "https://bestcarweb.jp/fullload/1568813"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.8",
+        "title": "Ford's Latest Recalls Affect 110,000 Vehicles—Including The Mustang",
+        "url": "https://www.motor1.com/news/800895/ford-mustang-mach-e-recalls/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28880154700",
-    "sha": "ada9b1948010dedb4576135b8a09a60fa2ce1742",
-    "completed_at": "2026-07-07T15:59:31.271Z",
+    "run_id": "28915784569",
+    "sha": "78d9d2186640a31a6c32e90d14de36317ebe9c49",
+    "completed_at": "2026-07-08T03:42:55.460Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 34,
-    "queued_articles": 34,
-    "processed": 34,
-    "started_at": "2026-07-07T15:58:09.164Z",
-    "finished_at": "2026-07-07T15:59:31.001Z",
+    "scoped_articles": 33,
+    "queued_articles": 33,
+    "processed": 33,
+    "started_at": "2026-07-08T03:41:51.654Z",
+    "finished_at": "2026-07-08T03:42:55.196Z",
     "success": true,
     "error": ""
   }
