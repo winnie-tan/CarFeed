@@ -66866,5 +66866,703 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-08T03:42:55.180Z"
+  },
+  "https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me": {
+    "title_zh": "Flock 摄像头误报车辆被盗，导致记者被警方包围",
+    "summary_short": "Flock 车牌识别系统因数据错误将记者误判为偷车贼，警方追踪数日后将其包围，暴露了 AI 监控系统的漏洞。",
+    "summary_long": "记者在测试一辆价值 15.5 万美元的揽胜时，因 Flock 车牌识别摄像头的数据错误被标记为偷车贼。该系统将加州的一处数据错误与明尼苏达州的车牌关联，导致警方追踪数日后在停车场将其包围。事件凸显了 AI 监控系统在处理边缘案例时的缺陷。",
+    "highlights_zh": [
+      "Flock 摄像头误报车牌被盗",
+      "警方追踪数日后包围记者",
+      "数据错误源于 2000 英里外",
+      "AI 监控系统存在漏洞"
+    ],
+    "entities": [
+      "Flock",
+      "揽胜",
+      "Plymouth Police Department"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_4873-e1782941106261.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_4836.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_4880.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:10.561Z"
+  },
+  "https://www.thedrive.com/news/30-years-ago-ferrari-automated-the-manual-transmission-now-its-manualized-the-automatic": {
+    "title_zh": "法拉利 30 年前将手动挡自动化，如今又将自动挡手动化",
+    "summary_short": "法拉利推出 12Cilindri Manuale，采用线控手动变速箱，结合传统离合与换挡杆，实现舒适与驾驶乐趣的统一。",
+    "summary_long": "30 年前，法拉利将 F1 赛车的半自动拨片换挡技术引入量产车 F355 F1，开启了超跑自动化浪潮。如今，法拉利在旗舰 V12 车型 12Cilindri 上推出 Manuale 线控手动变速箱，保留物理离合踏板和六速换挡杆，但通过电子信号控制变速箱，既提供传统手动挡的参与感，又具备自动挡的便利性。这一设计标志着技术循环的闭合，从自动化回归手动化，但以更现代的方式实现。",
+    "highlights_zh": [
+      "法拉利推出 12Cilindri Manuale 线…",
+      "保留物理离合踏板和六速换挡杆",
+      "30 年前 F355 F1 首次引入半自动变速箱",
+      "线控手动兼顾舒适与驾驶乐趣"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "F355 F1",
+      "12Cilindri Manuale",
+      "线控手动变速箱"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/JH-Ferrari167GH-17-e1783269051324.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/JH-Ferrari167GH-2.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-02-at-11.14.34-PM.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:11.316Z"
+  },
+  "https://www.thedrive.com/news/aston-martin-will-keep-v12s-alive-if-only-barely-tds": {
+    "title_zh": "阿斯顿·马丁将保留 V12 发动机，但产量受限",
+    "summary_short": "阿斯顿·马丁 CEO 表示，通过将 V12 年销量控制在 1000 辆以内，可豁免法规至 2035 年，从而延续 V12 生命。",
+    "summary_long": "阿斯顿·马丁 CEO Adrian Hallmark 透露，品牌已对 V12 发动机进行合规化改造，使其符合欧美法规。通过将年销量控制在 1000 辆以下，可豁免相关排放法规直至 2035 年，从而延续 V12 发动机的生产。尽管产量受限，但阿斯顿·马丁本身并非高销量品牌，此举旨在平衡法规与性能传统。",
+    "highlights_zh": [
+      "V12 年销量控制在 1000 辆以下",
+      "豁免法规至 2035 年",
+      "已完成欧美合规化改造",
+      "延续 V12 发动机生产"
+    ],
+    "entities": [
+      "阿斯顿·马丁 | Aston Martin",
+      "V12 发动机",
+      "Adrian Hallmark",
+      "排放法规"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Aston_Martin_Valkyrie_Engine_2-JPG.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_4873-e1782941106261.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:15.229Z"
+  },
+  "https://www.motor1.com/news/800894/toyota-camry-hotter-variant/": {
+    "title_zh": "丰田或推凯美瑞运动版",
+    "summary_short": "丰田申请“Camry Apex”商标，可能推出凯美瑞运动版，延续卡罗拉 Apex 策略，动力不变但底盘调校更运动。",
+    "summary_long": "丰田可能为现款凯美瑞复活一个短暂使用的性能徽章。根据 CarBuzz 发现的商标申请，丰田于 2026 年 6 月 30 日提交了“Camry Apex”商标，目前正在美国专利商标局审核中。该商标涵盖“汽车及其结构部件”。此前丰田曾为 2021 款卡罗拉推出 Apex Edition，限量 6000 台，2022 款继续但随后被 GR 卡罗拉取代。卡罗拉 Apex 未提升动力（仍为 169 马力四缸），但增加了专属弹簧、降低车身、重新调校减震器、新型减震块和定制电动助力转向。预计凯美瑞 Apex 将沿用类似策略，动力系统不变（混动 225 马力，四驱 232 马力），但底盘和操控会有所强化。",
+    "highlights_zh": [
+      "丰田申请“Camry Apex”商标",
+      "或效仿卡罗拉 Apex",
+      "动力不变",
+      "商标申请于 2026 年 6 月 30 日提交"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "凯美瑞 | Camry",
+      "卡罗拉",
+      "Apex"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lqw7/s1/toyota-camry-gt-s-concept-sema.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:15.803Z"
+  },
+  "https://response.jp/article/2026/07/08/413768.html": {
+    "title_zh": "时间对齐功能有两种类型！区别是什么？［车内聆听学…调音篇］",
+    "summary_short": "汽车音响调音中，时间对齐功能有内置和外置 DSP 两种类型，前者功能简单，后者更强大。",
+    "summary_long": "在汽车音响调音中，时间对齐功能用于调整扬声器发声时机，以补偿车内左右聆听位置差异导致的音效偏差。该功能分为两种类型：一种是内置在主机中的简易版本，功能有限；另一种是外置 DSP（数字信号处理器）提供的高级版本，功能更强大。本文详细解释了两者的区别。",
+    "highlights_zh": [
+      "时间对齐功能有两种类型",
+      "主机内置版功能简单",
+      "外置 DSP 版更强大",
+      "用于补偿车内聆听位置偏差"
+    ],
+    "entities": [
+      "DSP",
+      "时间对齐",
+      "汽车音响",
+      "调音"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225200.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225200.jpg",
+      "https://response.jp/imgs/fill2/2225199.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:20.321Z"
+  },
+  "https://response.jp/article/2026/07/08/413772.html": {
+    "title_zh": "BMW 摩托拉德高层谈未来野心：铃鹿 8 耐只是起点，MotoGP 参赛计划已在路上",
+    "summary_short": "BMW 摩托拉德在铃鹿 8 耐取得历史性第三名，高层透露未来将挑战 MotoGP。",
+    "summary_long": "BMW 摩托拉德在 2026 年第 47 届铃鹿 8 小时耐力赛中，由厂队 BMW MOTORRAD WORLD ENDURANCE TEAM 夺得总成绩第三名，成为该赛事自 1978 年创办以来首个登上领奖台的进口品牌。此外，官方车队“オートレース宇部 Racing Team”也获得第五名，充分展示了 BMW M1000RR 的强大性能。赛后，BMW Motorrad CEO Markus Flasch 和赛车运动负责人 Sven Blusch 在东京接受专访，表示铃鹿 8 耐的佳绩只是开始，公司已明确计划未来参加 MotoGP，并正在评估最佳时机与方式。",
+    "highlights_zh": [
+      "BMW 摩托拉德在铃鹿 8 耐获第三",
+      "官方车队同时拿下第五名",
+      "CEO 表示 MotoGP 参赛计划已提上日程",
+      "铃鹿 8 耐被视为进军顶级赛事的跳板"
+    ],
+    "entities": [
+      "BMW 摩托拉德 | BMW Motorrad",
+      "铃鹿 8 耐",
+      "MotoGP",
+      "BMW M1000RR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225620.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225620.jpg",
+      "https://response.jp/imgs/fill2/2225599.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:21.477Z"
+  },
+  "https://response.jp/article/2026/07/08/413774.html": {
+    "title_zh": "雅马哈 YZF-R6 赛道版即将停产，车迷不舍",
+    "summary_short": "雅马哈宣布 YZF-R6 赛道版将于 2027 年 2 月 26 日最后一批生产，车迷纷纷表达不舍。",
+    "summary_long": "雅马哈宣布其赛道专用车型 YZF-R6 赛道版将于 2027 年 2 月 26 日发售，此次为限时订单生产，之后该车型将正式停产。该车基于欧版 2020 年款 YZF-R6 开发，搭载 599cc 水冷四缸发动机，配备牵引力控制、快速换挡等电子系统，并沿用 R1 赛道版的前悬挂和刹车。消息传出后，社交媒体上涌现出大量惋惜之声。",
+    "highlights_zh": [
+      "2027 年 2 月 26 日最后一批发售",
+      "限时订单生产",
+      "基于欧版 2020 年款 YZF-R6",
+      "配备牵引力控制和快速换挡"
+    ],
+    "entities": [
+      "雅马哈 | Yamaha",
+      "YZF-R6 赛道版 | YZF-R6 Race Base",
+      "YZF-R1 赛道版 | YZF-R1 Race Base",
+      "牵引力控制系统",
+      "快速换挡"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225106.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225106.jpg",
+      "https://response.jp/imgs/fill2/2225652.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:25.357Z"
+  },
+  "https://response.jp/article/2026/07/08/413764.html": {
+    "title_zh": "丰田升级工厂：兰德酷路泽 FJ 等三款车型可后装原厂配件",
+    "summary_short": "丰田推出升级工厂服务，兰德酷路泽 FJ、新款海拉克斯及兰德酷路泽 250 可在线申请后装原厂配件。",
+    "summary_long": "丰田通过“丰田升级工厂”服务，为兰德酷路泽 FJ、新款海拉克斯及兰德酷路泽 250 提供部分原厂配件的后装服务。车主购车后可通过在线申请，在正规经销店进行安装。配件包括户外用坚固部件及提升日常便利性的物品。该服务由丰田委托 KINTO 运营。",
+    "highlights_zh": [
+      "三款车型可后装原厂配件",
+      "在线申请",
+      "兰德酷路泽 FJ 提供 8 种配件",
+      "新款海拉克斯提供 3 种配件"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽 FJ",
+      "海拉克斯",
+      "兰德酷路泽 250 | Land Cruiser 250",
+      "KINTO"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225630.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225630.jpg",
+      "https://response.jp/imgs/fill2/2225631.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:27.271Z"
+  },
+  "https://response.jp/article/2026/07/08/413755.html": {
+    "title_zh": "1000 马力单座 EV‘Spiering PURE’：0-96km/h 加速 1.55 秒，最高时速 305km/h，2026 古德伍德亮相",
+    "summary_short": "McMurtry Automotive 推出电动单座超跑 Spiering PURE，1000 马力，0-96km/h 加速 1.55 秒，最高时速 305km/h，2026 古德伍德速度节首发。",
+    "summary_long": "英国 McMurtry Automotive 发布了电动单座超跑 Spiering PURE 的量产版，相比原型车 95%的部件经过重新设计。该车搭载 100kWh 电池（原型为 60kWh），采用 Molicel P50B NCA 21700 电芯，模块化设计支持未来升级。其独有的“下压力按需”技术可产生高达 2000kg 的下压力。Spiering PURE 将于 2026 年 7 月 9 日至 12 日的古德伍德速度节上公开亮相。此前，其原型车曾在 2022 年刷新古德伍德爬山赛纪录，2025 年又打破了 Top Gear 测试赛道纪录（原纪录由 2004 年雷诺 F1 赛车保持），并实现了全球首次倒置行驶。",
+    "highlights_zh": [
+      "1000 马力单座电动超跑",
+      "0-96km/h 加速仅 1.55 秒",
+      "最高时速 305km/h",
+      "2026 古德伍德速度节首发"
+    ],
+    "entities": [
+      "McMurtry Automotive",
+      "Spiering PURE",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225583.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225583.jpg",
+      "https://response.jp/imgs/fill2/2225586.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:30.647Z"
+  },
+  "https://www.motor1.com/news/800898/toyota-sienna-damaged/": {
+    "title_zh": "家庭公路旅行因丰田塞纳底盘受损而中断，维修费高达 7000 美元",
+    "summary_short": "丰田塞纳因小物体刺穿底盘护板，损坏线束，触发所有警告灯，维修费用高达 7000 美元。",
+    "summary_long": "一位丰田塞纳车主在家庭公路旅行中，因一个小物体刺穿车辆底盘护板，导致线束损坏，所有警告灯亮起，混合动力系统不可用，发动机过热警告。维修需要更换全车传感器和线束，费用高达 7000 美元。车主最初检查时未发现明显问题，但重新启动后车辆完全瘫痪。",
+    "highlights_zh": [
+      "小物体刺穿底盘护板",
+      "损坏线束",
+      "维修需更换全车传感器和线束",
+      "费用高达 7000 美元"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "塞纳",
+      "线束",
+      "底盘护板",
+      "维修费用"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3QkpV/s1/man-s-family-road-trip-gets-derailed.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:31.747Z"
+  },
+  "https://response.jp/article/2026/07/08/413762.html": {
+    "title_zh": "ZF 测试技术被印度政府试验机构采用，覆盖电池、轮胎、动力总成三大领域",
+    "summary_short": "ZF 测试系统部门宣布其电池、轮胎、动力总成测试技术被印度三家政府试验机构采用，支持“印度制造”战略。",
+    "summary_long": "ZF 集团旗下的 ZF 测试系统部门宣布，其电池测试、轮胎测试、动力总成及电动出行测试技术已被印度三家独立的政府试验机构采用。此举支持了印度政府的“印度制造”战略，并积极提升本地采购率。",
+    "highlights_zh": [
+      "ZF 测试技术被印度政府机构采用",
+      "覆盖电池、轮胎、动力总成三大领域",
+      "支持“印度制造”战略",
+      "提升本地采购率"
+    ],
+    "entities": [
+      "ZF",
+      "印度制造"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225625.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225625.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:34.649Z"
+  },
+  "https://response.jp/article/2026/07/08/413766.html": {
+    "title_zh": "爱信语音转文字应用与 AI 智能眼镜联动，实时显示对话内容",
+    "summary_short": "爱信与 SB C&S 合作，将语音转文字应用 YYSystem 集成到 AI 智能眼镜 AiLENS V1 上，实现对话内容实时显示在镜片上。",
+    "summary_long": "爱信宣布与 SB C&S 合作，将其语音转文字应用 YYSystem 集成到 AI 智能眼镜 AiLENS V1 上。YYSystem 可实时将语音转为文字，并显示在眼镜镜片上，方便用户在无法手持手机的场景下查看对话内容。该应用此前已用于听障人士沟通支持、会议、商谈及现场作业等场景。此次联动旨在提供更便捷的沟通环境，推动无障碍社会建设。",
+    "highlights_zh": [
+      "YYSystem 实时转写语音为文字",
+      "文字内容显示在 AiLENS V1 镜片上",
+      "适用于会议、商谈、现场作业等场景",
+      "助力听障人士沟通与无障碍社会"
+    ],
+    "entities": [
+      "爱信",
+      "SB C&S",
+      "AiLENS V1",
+      "YYSystem",
+      "ThinkAR Japan"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225648.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225648.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:36.367Z"
+  },
+  "https://response.jp/article/2026/07/08/413751.html": {
+    "title_zh": "阿斯顿·马丁高性能 S 系列领衔，DB12、Vantage、DBX 齐聚古德伍德 2026",
+    "summary_short": "阿斯顿·马丁将在古德伍德速度节展示 DB12 S、Vantage S 和 DBX S 三款高性能车型，其中 DB12 S 拥有 700 马力。",
+    "summary_long": "阿斯顿·马丁将在 2026 年古德伍德速度节上展示其史上最强阵容，核心是全新的 S 系列高性能车型。DB12 S 搭载前置 V8 发动机，最大功率 700 马力，峰值扭矩 800 牛·米，0-100km/h 加速仅需 3.4 秒，并配备了改进的悬架和碳陶瓷刹车。一同亮相的还有 Vantage S（680 马力，0-100km/h 3.3 秒）和 DBX S。此外，Valkyrie、Valhalla、Vanquish 以及 F1 赛车 AMR25 也将参与爬山赛。",
+    "highlights_zh": [
+      "DB12 S：700 马力",
+      "Vantage S：680 马力",
+      "DBX S 同步展出",
+      "Valkyrie、Valhalla 等超跑同场竞技"
+    ],
+    "entities": [
+      "阿斯顿·马丁",
+      "DB12 S",
+      "Vantage S",
+      "DBX S",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225564.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225564.jpg",
+      "https://response.jp/imgs/fill2/2225565.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:39.717Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564869": {
+    "title_zh": "雷克萨斯 TZ：3 排纯电 SUV 能否挑战埃尔法？",
+    "summary_short": "雷克萨斯发布全新 3 排纯电 SUV TZ，定位旗舰级“司机 SUV”，以 5.1 米车长、3 米轴距和静谧空间挑战传统豪华 MPV 市场。",
+    "summary_long": "雷克萨斯于 2026 年 5 月 7 日全球首发了品牌首款 3 排座椅大型纯电 SUV——TZ，计划同年冬季在日本上市。该车车长约 5.1 米，轴距达 3050 毫米，采用 BEV 专属平台实现平坦地板和宽敞座舱，以“驾驶 lounge”概念强调全席舒适性。相比日本市场主流的豪华 MPV（如丰田埃尔法/威尔法、雷克萨斯 LM），TZ 以 SUV 形态提供更高静谧性、后轮转向灵活性及设计感，旨在满足全球尤其是北美富裕阶层对大型豪华 SUV 的需求。其车身尺寸与雷克萨斯 LX 相当，但轴距更长、车高更低，塑造出修长动感的比例。",
+    "highlights_zh": [
+      "雷克萨斯首款 3 排纯电 SUV",
+      "5.1 米车长",
+      "BEV 专属平台",
+      "后轮转向提升灵活性"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "TZ",
+      "阿尔法",
+      "LM",
+      "BEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30183522/4115a2e5525eaab05bd9f061c9b78f09-5.jpg?v=1782812123",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30183522/4115a2e5525eaab05bd9f061c9b78f09-5-600x338.jpg?v=1782812123",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/31192300/1ad8d59d8c784944d8a309d34afb9cf2-600x400.jpg?v=1774952581"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:41.890Z"
+  },
+  "https://response.jp/article/2026/07/08/413756.html": {
+    "title_zh": "奥托立夫与长城汽车签署全球战略合作协议，加速国际扩张",
+    "summary_short": "奥托立夫与长城汽车签署全球战略合作框架协议，旨在支持长城国际扩张并共同提升全球竞争力。",
+    "summary_long": "奥托立夫（Autoliv）宣布与中国长城汽车（GWM）签署全球战略合作框架协议，签约仪式在河北保定举行。该协议基于双方 2023 年建立的合作关系，旨在支持长城汽车的国际扩张，并共同提升全球市场竞争力。合作领域涵盖全球业务拓展、供应链协同、本地化运营、集成安全系统开发及可持续发展，同时加强创新与产品战略协作，持续推进人才与能力建设。",
+    "highlights_zh": [
+      "奥托立夫与长城汽车签署全球战略合作框架协议",
+      "合作旨在支持长城国际扩张并提升全球竞争力",
+      "涵盖供应链协同、本地化运营及安全系统开发",
+      "加强创新、产品战略及人才能力建设"
+    ],
+    "entities": [
+      "奥托立夫",
+      "长城汽车",
+      "全球战略合作",
+      "集成安全系统",
+      "供应链协同"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225598.png",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225598.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:45.161Z"
+  },
+  "https://response.jp/article/2026/07/08/413761.html": {
+    "title_zh": "大陆集团为雷诺开发 EV 专用轮胎，滚动阻力降低 35%续航增加 30km",
+    "summary_short": "大陆集团与雷诺合作开发 EV 专用轮胎，滚动阻力降低 35%，续航增加 30km，基于 EcoContact 7 改进。",
+    "summary_long": "大陆集团宣布与雷诺集团建立战略合作伙伴关系，共同开发专为电动汽车设计的高效轮胎。该轮胎基于大陆集团的 EcoContact 7，通过改进胎面胶料、定制侧壁和优化结构，将滚动阻力比欧盟轮胎标签最高 A 级标准降低 35%。搭载于续航 500km 的 EV 时，每次充电可额外行驶约 30km，相当于巴黎到凡尔赛的距离。",
+    "highlights_zh": [
+      "滚动阻力降低 35%",
+      "续航增加约 30km",
+      "基于 EcoContact 7 改进",
+      "专为雷诺 EV 定制"
+    ],
+    "entities": [
+      "大陆集团",
+      "雷诺",
+      "EcoContact 7",
+      "电动汽车 | EV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225623.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225623.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:45.562Z"
+  },
+  "https://bestcarweb.jp/newcar/1563663": {
+    "title_zh": "本田思域小改款：后座 USB 接口提升家庭实用性",
+    "summary_short": "本田思域小改款新增后座 USB 接口，看似细微却大幅提升家庭实用性，让运动型轿车更贴合日常家庭需求。",
+    "summary_long": "本田思域于 6 月 4 日进行小改款，除了新增 e:HEV RS 车型和 Honda S+ Shift 功能外，还全系标配后座 USB 接口。这一改进看似简单，但对家庭用户至关重要，尤其在后排乘客需要为手机、平板等设备充电时。思域作为一款 5 门掀背车，兼具运动造型和实用空间，后座 USB 的加入使其更适合家庭使用。此外，EX 和 e:HEV EX 车型还增加了方向盘加热功能，进一步提升了日常舒适性。",
+    "highlights_zh": [
+      "全系标配后座 USB 接口",
+      "新增 e:HEV RS 车型",
+      "EX/e:HEV EX 增加方向盘加热",
+      "提升家庭实用性"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域",
+      "e:HEV RS",
+      "Honda S+ Shift"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06162218/ZYO_3669_1.jpg?v=1783322539",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06162218/ZYO_3669_1-600x400.jpg?v=1783322539",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06125529/TOYOTA-RAV4-PHEV_019_1-600x400.jpg?v=1783310130"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:50.020Z"
+  },
+  "https://bestcarweb.jp/news/1568204": {
+    "title_zh": "搭载驾驶员监控系统！KITARO×行车记录仪开售，助力物流安全",
+    "summary_short": "Axis 推出 KITARO×行车记录仪，集成 DMS 实时检测危险驾驶，提升车辆陆运安全与运输品质。",
+    "summary_long": "车辆陆运行业对安全管理的要求日益提高。Axis 公司于 2026 年 7 月 1 日面向车辆陆运企业推出“KITARO×行车记录仪”服务。该产品不仅记录接近事故的影像，还通过驾驶员监控系统（DMS）实时检测危险驾驶行为，旨在提升运输品质。产品基于原有 KITARO×行车记录仪功能，针对车辆运输业务优化，采用 Streamax 公司的行车记录仪，集成了安全驾驶辅助与运行管理功能。",
+    "highlights_zh": [
+      "Axis 推出 KITARO×行车记录仪",
+      "搭载 DMS 实时检测危险驾驶",
+      "针对车辆陆运业务优化",
+      "采用 Streamax 行车记录仪"
+    ],
+    "entities": [
+      "アクシス",
+      "KITARO×行车记录仪 | KITARO×ドラレコ",
+      "Streamax"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03164519/b55c209f13a132e325b971ab7d6ae3d9.jpg?v=1783064721",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03164519/b55c209f13a132e325b971ab7d6ae3d9-600x386.jpg?v=1783064721",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08183203/S__93896731_1-600x400.jpg?v=1783503124"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:50.080Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1573973": {
+    "title_zh": "波乱最终日：新井大辉回顾罗马站，称“拉力人生最糟”",
+    "summary_short": "ERC 罗马站最终日酷热难耐，新井大辉遭遇后发车、车内 60℃高温及赛道意外，坦言这是拉力生涯最艰难的一天。",
+    "summary_long": "欧洲拉力锦标赛罗马站最终日，车手新井大辉面临极端挑战：后发车导致交通拥堵、车内温度接近 60℃、赛道突发意外。作为私人车手，他克服了主办方处罚带来的不利发车位置，在酷暑中坚持完赛。尽管过程痛苦，但他仍展现出继续前进的决心。",
+    "highlights_zh": [
+      "后发车导致拥堵",
+      "车内温度近 60℃",
+      "赛道突发意外",
+      "私人车手克服困难"
+    ],
+    "entities": [
+      "欧洲拉力锦标赛",
+      "新井大辉",
+      "罗马"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08183203/S__93896731_1.jpg?v=1783503124",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08183203/S__93896731_1-600x400.jpg?v=1783503124",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07145518/S__93798407-1-600x475.jpg?v=1783403720"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:54.821Z"
+  },
+  "https://bestcarweb.jp/news/1568205": {
+    "title_zh": "ECLIPSE 推出新型车载导航 RS/RBS 系列，支持全波段电视和 HDMI 输入",
+    "summary_short": "ECLIPSE 推出新型 7 英寸车载导航 AVN-RS01 和 AVN-RBS01，首次支持 HDMI 输入，兼顾易用性与性价比。",
+    "summary_long": "ECLIPSE 品牌推出两款新型 7 英寸车载导航 AVN-RS01 和 AVN-RBS01，其中 AVN-RS01 配备全波段电视接收器，AVN-RBS01 为无电视版本。两款导航均为该品牌首次支持 HDMI 输入，可连接外部设备。它们搭载最新地图数据，注重操作便捷性和即时启动能力，满足用户对传统车载导航稳定性和智能手机互联功能的需求。AVN-RBS01 将于 2026 年 7 月下旬发售，AVN-RS01 于同年 8 月中旬发售，价格均为开放定价。",
+    "highlights_zh": [
+      "首次支持 HDMI 输入",
+      "7 英寸屏幕",
+      "注重易用性与性价比",
+      "最新地图数据"
+    ],
+    "entities": [
+      "ECLIPSE",
+      "AVN-RS01",
+      "AVN-RBS01",
+      "车载导航",
+      "HDMI"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03164603/AVN-RS01.jpg?v=1783064764",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03164603/AVN-RS01-600x345.jpg?v=1783064764",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03164519/b55c209f13a132e325b971ab7d6ae3d9-600x386.jpg?v=1783064721"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:55.312Z"
+  },
+  "https://bestcarweb.jp/feature/column/1565690": {
+    "title_zh": "本田 S660 中古车行情：百万日元级优质车源值得立即入手",
+    "summary_short": "本田 S660 中古车价格将上涨，目前百万日元级优质车源仍可入手，建议尽早购买。",
+    "summary_long": "本田 S660 于 2015 年推出，2022 年停产，因人气极高，中古车价格坚挺。最新年式低里程车型价格已超 260 万日元，但 2016 年左右、行驶 4 万公里的 Alpha 版本仍可在 160 万日元左右入手。考虑到新车价格 218 万日元，贬值幅度较小，且未来价格可能进一步上涨，当前是购买良机。",
+    "highlights_zh": [
+      "S660 中古车价格将上涨",
+      "优质车源 160 万日元左右可入手",
+      "低里程车型已超 260 万日元",
+      "建议尽早购买"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "S660"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01130032/00_used_S660_head.jpg?v=1782878434",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01130032/00_used_S660_head-600x400.jpg?v=1782878434",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/31192300/1ad8d59d8c784944d8a309d34afb9cf2-600x400.jpg?v=1774952581"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:37:59.854Z"
+  },
+  "https://bestcarweb.jp/feature/column/1565347": {
+    "title_zh": "不只是便宜！坦途 148.5 万日元最廉价版 L 到底值不值？",
+    "summary_short": "坦途最廉价版 L 售价 148.5 万日元，虽为入门款但空间和安全配置不减，适合日常实用需求。",
+    "summary_long": "坦途 L 作为标准系最廉价版本，起售价 148.5 万日元，比 X 版便宜 13.2 万日元，但 WLTC 油耗同为 22.7km/L，日常使用成本更低。车身尺寸和内部空间与高配一致，配备奇迹开门、LED 大灯、智能辅助驾驶等实用功能。虽然轮毂和内饰装饰较为朴素，但核心实用性未打折扣，适合注重性价比的用户。",
+    "highlights_zh": [
+      "售价 148.5 万日元",
+      "油耗与高配相同",
+      "空间和奇迹开门功能与高配一致",
+      "配备智能辅助驾驶"
+    ],
+    "entities": [
+      "坦途",
+      "L",
+      "X",
+      "智能辅助驾驶"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/12/26114652/5bac0aa31ae0005cf609f4e0611da7af.jpg?v=1766717213",
+      "https://img.bestcarweb.jp/wp-content/uploads/2025/12/26114652/5bac0aa31ae0005cf609f4e0611da7af-600x314.jpg?v=1766717213",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/31192300/1ad8d59d8c784944d8a309d34afb9cf2-600x400.jpg?v=1774952581"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:01.652Z"
+  },
+  "https://www.motor1.com/news/800884/mechanic-fakes-200-repairs/": {
+    "title_zh": "前技师承认伪造 200 多次维修，归咎于计件薪酬制度",
+    "summary_short": "一名前汽车技师承认在保修期内伪造 200 多次维修，声称是计件薪酬制度所迫，引发行业争议。",
+    "summary_long": "一名自称前汽车技师的人士承认在职业生涯中伪造了数百次保修维修，但声称有充分理由。他指责计件薪酬制度（flat-rate pay system）是根本原因，该制度按维修项目付费，导致技师为完成工作量而走捷径。该技师回忆称，曾有车辆返厂，因另一名技师发现所谓更换的零件“明显没换”。他向老板坦白后遭解雇。此事在社交媒体上引发关于行业薪酬体系合理性的讨论。",
+    "highlights_zh": [
+      "前技师承认伪造 200 多次维修",
+      "归咎于计件薪酬制度",
+      "曾因零件未更换被同事发现",
+      "最终因此被解雇"
+    ],
+    "entities": [
+      "计件薪酬制度"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Mkg2E6/s1/ex-mechanic-admits-to-faking-over-200-repairs.-then-he-explains-why.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:05.930Z"
+  },
+  "https://bestcarweb.jp/feature/column/1571003": {
+    "title_zh": "本田 WR-V：214 万日元起的“令和超值 SUV”",
+    "summary_short": "本田 WR-V 以 214.94 万日元起售，全系不超 260 万日元，提供紧凑级 SUV 的大空间与硬朗外观，堪称高性价比之选。",
+    "summary_long": "本田 WR-V 是一款主打性价比的紧凑型 SUV，起售价仅 214.94 万日元，顶配也不超过 260 万日元。车身尺寸 4325×1790×1650mm，比丰田雅力士 Cross 和大发 Rocky 更大，提供宽敞的乘坐与储物空间。动力搭载 1.5L 汽油发动机与 CVT 变速箱，仅前驱，WLTC 油耗 16.2-16.4km/L。2025 年 3 月改款新增 Z 和 Z+的 Black Style 特别版，价格分别为 248.38 万和 258.06 万日元。虽然缺少混动和四驱，但凭借亲民价格和 SUV 的实用特性，WR-V 成为追求高性价比消费者的理想选择。",
+    "highlights_zh": [
+      "起售价 214.94 万日元",
+      "车身尺寸大于同级竞品",
+      "1.5L 汽油+CVT",
+      "2025 年 3 月改款新增 Black Style…"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "WR-V",
+      "丰田 | Toyota",
+      "雅力士 Cross",
+      "大发 | Daihatsu"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07172133/DSC0324_1.jpg?v=1783412494",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07172133/DSC0324_1-600x400.jpg?v=1783412494",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/03/31192300/1ad8d59d8c784944d8a309d34afb9cf2-600x400.jpg?v=1774952581"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:06.219Z"
+  },
+  "https://insideevs.com/news/800947/ford-mustang-mach-e-recall-rear-differential/": {
+    "title_zh": "福特因后差速器断裂风险召回 43,000 辆 Mustang Mach-E",
+    "summary_short": "福特因后差速器小齿轮轴可能断裂导致动力中断或溜车，召回近 43,000 辆 Mustang Mach-E 电动汽车。",
+    "summary_long": "福特宣布在美国召回 42,784 辆 Mustang Mach-E 电动汽车，原因是后差速器小齿轮轴可能因弯曲疲劳而断裂，导致动力丧失或未拉手刹时车辆意外移动。此次召回涉及 2021 至 2023 款后驱车型，目前全球已发现 82 起相关案例，但无事故或伤亡报告。福特尚未确定根本原因，将免费为车主检查并更换后差速器总成。",
+    "highlights_zh": [
+      "召回涉及 42",
+      "小齿轮轴断裂可导致动力中断或溜车",
+      "全球已报告 82 起案例",
+      "福特将免费检查并更换后差速器"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Mustang Mach-E",
+      "美国国家公路交通安全管理局",
+      "后差速器"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAXyVE/s1/2021-ford-mustang-mach-e-at-model-t-factory.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:10.575Z"
+  },
+  "https://www.motor1.com/news/800944/pagani-huayra-70-derecho-details/": {
+    "title_zh": "帕加尼 Huayra 70 Derecho：无顶手动挡 V12 回归",
+    "summary_short": "帕加尼推出 Huayra 70 Derecho 敞篷版，搭载 V12 发动机和七速手动变速箱，为庆祝创始人 70 岁生日而打造。",
+    "summary_long": "帕加尼在 2026 年古德伍德速度节上发布了 Huayra 70 Derecho，这是为庆祝创始人奥拉西欧·帕加尼 70 岁生日而打造的三款特别版车型中的第二款。该车采用无顶设计，并配备七速手动变速箱，与法拉利 12Cilindri Manuale 形成竞争。外观采用珍珠橙与墨蓝双色涂装，半透明漆面凸显碳纤维编织纹理，并配有更宽的后扰流板。内饰以陶瓷白与意大利蓝皮革为主，搭配橙色点缀，仪表盘设计极为复杂。",
+    "highlights_zh": [
+      "无顶敞篷设计",
+      "七速手动变速箱",
+      "V12 发动机",
+      "限量三台之一"
+    ],
+    "entities": [
+      "帕加尼 | Pagani",
+      "Huayra 70 Derecho",
+      "V12",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O194/s1/pagani-huayra-70-derecho-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:10.901Z"
+  },
+  "https://insideevs.com/news/800939/lucid-10000-discount-evs/": {
+    "title_zh": "Lucid 大幅降价：Gravity 和 Air 最高优惠 1 万美元",
+    "summary_short": "Lucid 本月对 2026 款 Gravity 和 Air 库存车提供最高 1 万美元折扣，叠加忠诚度和置换优惠，但仅限特定车型。",
+    "summary_long": "Lucid Motors 本月对库存车辆进行大幅折扣，2026 款 Gravity 和 Air 车型可叠加多项优惠。Gravity SUV 现金购买直降 1 万美元，老车主再享 3000 美元忠诚折扣，置换符合条件的车辆还可额外优惠 3000 美元。融资购买同样享受 1 万美元 Lucid 信用额度及 0% APR 分期。Air 车型折扣略低，Pure 和 Touring 现金优惠 7500 美元，Grand Touring 可享 1 万美元折扣。",
+    "highlights_zh": [
+      "Gravity 现金购买直降 1 万美元",
+      "老车主额外享 3000 美元折扣",
+      "置换符合条件的车辆再减 3000 美元",
+      "Air 车型最高优惠 1 万美元"
+    ],
+    "entities": [
+      "Lucid",
+      "Gravity",
+      "Air"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wlWnqR/s1/2026-insideevs-breakthrough-awards-editor-s-choice-lucid-gravity.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:14.967Z"
+  },
+  "https://www.motor1.com/news/800932/land-rover-defender-bmw-v8-detuned/": {
+    "title_zh": "路虎削减 Defender OCTA 的宝马 V8 近 100 马力",
+    "summary_short": "路虎为满足欧 6e-bis 排放标准，将 Defender OCTA 的宝马 V8 从 626 马力降至 533 马力，百公里加速变慢 0.4 秒。",
+    "summary_long": "路虎为满足更严格的排放法规，不得不调低 Defender OCTA 的发动机功率。在欧洲等市场，这款源自宝马的双涡轮增压 4.4 升 V8 发动机从 626 马力降至 533 马力，减少了 93 马力。性能随之下降，0-100 公里/小时加速时间从 4.0 秒延长至 4.4 秒。不过扭矩仍保持 750 牛·米，且工程师重新调校了排气系统，使声浪更加深沉。此前宝马自身也为欧洲版 M5 调低了同款发动机，但仅减少 41 马力，且通过增强电机补偿了输出。而 Defender OCTA 仅搭载纯 V8 动力，无法通过电机弥补。",
+    "highlights_zh": [
+      "功率从 626 马力降至 533 马力",
+      "0-100km/h 加速慢 0.4 秒",
+      "扭矩保持 750 牛·米不变",
+      "排气声浪更低沉"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "Defender OCTA",
+      "宝马 | BMW",
+      "V8 发动机",
+      "欧 6e-bis 排放标准"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O1eE/s1/2027-land-rover-defender-octa.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:15.543Z"
+  },
+  "https://insideevs.com/news/800927/voltpost-lamppost-ev-charger-expansion-us/": {
+    "title_zh": "Voltpost 路灯充电桩即将覆盖美国更多停车位",
+    "summary_short": "Voltpost 与 InCharge Energy 合作，将路灯改造为 Level 2 充电桩，降低安装成本，首先在纽约、康涅狄格和加州部署。",
+    "summary_long": "美国初创公司 Voltpost 与 InCharge Energy 合作，大规模部署基于路灯杆的 Level 2 电动汽车充电桩。这些充电桩利用现有路灯电力基础设施，降低安装成本，适合商场等停车数小时的场景。充电速度较慢，但通过 AT&T 蜂窝网络实现联网，并借助 InCharge 的 InControl 软件进行实时监控和维护，以提高可用性。初期部署将覆盖纽约、康涅狄格和加州。",
+    "highlights_zh": [
+      "利用现有路灯杆",
+      "充电速度较慢",
+      "通过 AT&T 联网",
+      "首批部署纽约、康涅狄格和加州"
+    ],
+    "entities": [
+      "Voltpost",
+      "InCharge Energy",
+      "Level 2 充电桩",
+      "路灯充电桩"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7Z23J7/s1/voltpost-air-lamppost-charger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:19.652Z"
+  },
+  "https://www.motor1.com/news/800918/2027-dacia-striker-photos-info/": {
+    "title_zh": "达契亚 Striker：欧洲廉价全能车型",
+    "summary_short": "达契亚推出 Striker，一款结合 SUV 粗犷、旅行车空间和轿车效率的平价跨界车，填补欧洲主流市场空缺。",
+    "summary_long": "雷诺旗下平价品牌达契亚推出全新 Striker 车型，定位为 C 级跨界车，融合 SUV 的粗犷风格、旅行车的多功能性和轿车的燃油效率。该车基于 Bigster 平台打造，但车身更低，拥有独特造型和 T 形前后灯组。车长 4.62 米，配备大量塑料车身覆层以强化越野外观，并提供 17 至 19 英寸轮毂、全景天窗等配置。内饰搭载 10.1 英寸触摸屏，动力系统采用高效混合动力。Striker 旨在填补大众 Alltrack 等车型退出后留下的市场空白，为欧洲消费者提供高性价比的全能选择。",
+    "highlights_zh": [
+      "结合 SUV 粗犷、旅行车空间和轿车效率",
+      "车长 4.62 米",
+      "提供 17-19 英寸轮毂及全景天窗",
+      "填补大众 Alltrack 退出后的市场空白"
+    ],
+    "entities": [
+      "达契亚 | Dacia",
+      "Striker",
+      "Bigster",
+      "雷诺",
+      "跨界车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8Kwwr/s1/2027-dacia-striker.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-08T15:38:20.794Z"
   }
 }

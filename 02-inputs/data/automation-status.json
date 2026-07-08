@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-08T03:41:51.333Z",
+    "generated_at": "2026-07-08T15:37:05.689Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 367,
-    "deepseek_untranslated_before_run": 33,
-    "newly_fetched_articles": 33,
-    "newly_fetched_untranslated": 33,
+    "deepseek_translated_before_run": 370,
+    "deepseek_untranslated_before_run": 30,
+    "newly_fetched_articles": 30,
+    "newly_fetched_untranslated": 30,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 33,
+    "translation_queue_count": 30,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.8",
-        "title": "「100万円切り」はあるか？ 新型『CB400スーパーフォア』、ホンダが鈴鹿8耐で“本気のサプライズ”！",
-        "url": "https://response.jp/article/2026/07/08/413743.html"
+        "title": "How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates and Sent Police After Me",
+        "url": "https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me"
       },
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.8",
-        "title": "「1ステーション1台」を15名程度で共同利用、月額制サブスクを新出光の子会社が7月9日開始…福岡から順次展開",
-        "url": "https://response.jp/article/2026/07/08/413726.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "『キャラバン』と『ハイエース』ベース、ALFLEXが新型2台出展へ…東京キャンピングカーショー2026",
-        "url": "https://response.jp/article/2026/07/08/413731.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "【スバル レヴォーグ レイバック 試乗】待望（？）のローダウン＋ハイブリッド仕様が登場！ その走りに触れた。",
-        "url": "https://response.jp/article/2026/07/08/413745.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "【新型ハイラックスグレード比較】52万円の差!! でも最上級グレードは専用装備だらけでかなり得!?",
-        "url": "https://bestcarweb.jp/newcar/1568003"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第803回",
-        "url": "https://bestcarweb.jp/feature/column/1562132"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "FORVIA HELLA、12Vリチウムイオン電池パック発表…鉛蓄電池より約20%軽量化",
-        "url": "https://response.jp/article/2026/07/08/413738.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "HEREテクノロジーズとCariqaが提携、EVナビと決済を一体化…欧州で展開",
-        "url": "https://response.jp/article/2026/07/08/413737.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "MG、Bセグ電動ハッチなど2台のEVコンセプト世界初公開へ…グッドウッド2026",
-        "url": "https://response.jp/article/2026/07/08/413723.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "あえて最廉価グレードを選ぶほうが満足度は高い!? 上位グレードを選ぶ前のリアルなコスパ境界線",
-        "url": "https://bestcarweb.jp/feature/column/1569260"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "アルピーヌ『A110』次期型はEVスポーツに、開発車両を初公開へ…グッドウッド2026",
-        "url": "https://response.jp/article/2026/07/08/413735.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "ヴァレオ、仏アンジェ工場を改修…次世代照明システム生産へ",
-        "url": "https://response.jp/article/2026/07/08/413741.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "このままではデトロイトのようになる：ドイツ自動車業界が迎える第2の転換点…在独ジャーナリスト 熊谷徹 氏［インタビュー］",
-        "url": "https://response.jp/article/2026/07/08/413739.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "ジムニーノマド効果がスゴい!! スズキが国内販売2位へ大躍進！ 軽から登録車へ転換が成功",
-        "url": "https://bestcarweb.jp/feature/column/1551977"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "ダンロップ、「グッドウッド・リバイバル」と提携…9月英国開催の世界的モータースポーツイベントに参画",
-        "url": "https://response.jp/article/2026/07/08/413744.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "マツダのボディカラーがまさかの飲み物に!! 夏限定メニューを青山で飲もう!!",
-        "url": "https://bestcarweb.jp/news/1568201"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "兄貴分のランクル300にも付いていない特別装備!? ランクル250の最上級グレードZXだけに備わる3つのハイテク機能",
-        "url": "https://bestcarweb.jp/feature/column/1570273"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "南房総市が新たな活躍フィールドに加わった!! トルコからやって来たバス・カルサンe-JESTが千葉県に進出!!",
-        "url": "https://bestcarweb.jp/busmagazine/1553112"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "奈良の土木・建設会社が効率性アップで高評価!! 現場で存在感を示すアリソンAT搭載8トンダンプ",
-        "url": "https://bestcarweb.jp/fullload/1568813"
+        "title": "30 Years Ago, Ferrari Automated the Manual Transmission. Now It’s Manualized the Automatic",
+        "url": "https://www.thedrive.com/news/30-years-ago-ferrari-automated-the-manual-transmission-now-its-manualized-the-automatic"
       },
       {
         "source": "Motor1",
         "time": "2026.7.8",
-        "title": "Ford's Latest Recalls Affect 110,000 Vehicles—Including The Mustang",
-        "url": "https://www.motor1.com/news/800895/ford-mustang-mach-e-recalls/"
+        "title": "Toyota Could Be Working On A Hotter Camry",
+        "url": "https://www.motor1.com/news/800894/toyota-camry-hotter-variant/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.8",
+        "title": "Aston Martin Will Keep V12s Alive, If Only Barely: TDS",
+        "url": "https://www.thedrive.com/news/aston-martin-will-keep-v12s-alive-if-only-barely-tds"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "「MotoGPには、いつか参戦する」BMWモトラッド首脳が語る…「鈴鹿8耐」表彰台は通過点、次なる野望とは",
+        "url": "https://response.jp/article/2026/07/08/413772.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "「タイムアライメント機能」には2タイプある！ 違いは何？［イン・カー・リスニング学…チューニング編］",
+        "url": "https://response.jp/article/2026/07/08/413768.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "「ついに終わりか～」「最強最速だった」ヤマハ『YZF-R6 レースベース車』生産終了を惜しむ声",
+        "url": "https://response.jp/article/2026/07/08/413774.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "『ランドクルーザーFJ』など3車種、純正アクセサリー後付け開始…トヨタ アップグレード ファクトリー",
+        "url": "https://response.jp/article/2026/07/08/413764.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "1000馬力の1名乗りEV『スピアリングPURE』、0‐96km/h加速1.55秒・最高速305km/h…グッドウッド2026で公開へ",
+        "url": "https://response.jp/article/2026/07/08/413755.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.8",
+        "title": "Man’s Family Road Trip Gets Derailed When A Small Object Bangs Under His Toyota On The Highway. Then He’s Told It’ll Cost $7,000:",
+        "url": "https://www.motor1.com/news/800898/toyota-sienna-damaged/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "ZFの自動車安全インフラを支えるテスト技術、インド政府系試験機関に採用…バッテリー・タイヤ・パワートレインの3分野",
+        "url": "https://response.jp/article/2026/07/08/413762.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "アイシンの文字起こしアプリ「YYSystem」、AIスマートグラス「AiLENS V1」と連携…レンズ部にリアルタイムで文字化した会話内容を表示",
+        "url": "https://response.jp/article/2026/07/08/413766.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "アストンマーティンは高性能「S」モデルが主役、『DB12』、『ヴァンテージ』、『DBX』が集結…グッドウッド2026",
+        "url": "https://response.jp/article/2026/07/08/413751.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "アルファード「じゃない」高級車の新提案!! 新型レクサス「TZ」は3列BEVで“ショーファーSUV”になるのか",
+        "url": "https://bestcarweb.jp/feature/column/1564869"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "オートリブと中国長城汽車、グローバル戦略協力協定を締結…国際展開を加速へ",
+        "url": "https://response.jp/article/2026/07/08/413756.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.8",
+        "title": "コンチネンタル、ルノー向けEVタイヤ開発…転がり抵抗35%低減で航続30km延長",
+        "url": "https://response.jp/article/2026/07/08/413761.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "シビックの後席USB追加は地味に効く？ マイナーチェンジで高まったファミリーユース適性",
+        "url": "https://bestcarweb.jp/newcar/1563663"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "ドライバーモニタリング搭載!! 物流の安全を支えるKITARO×ドラレコ販売開始！",
+        "url": "https://bestcarweb.jp/news/1568204"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "フルセグにHDMI対応!! エクリプスの新型カーナビRS/RBSシリーズが登場!!",
+        "url": "https://bestcarweb.jp/news/1568205"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.8",
+        "title": "一体なにが起きた!? 波乱の最終日……新井大輝選手が「ラリー人生最悪」と語るローマラウンドを振り返る",
+        "url": "https://bestcarweb.jp/news/motorsport/1573973"
       }
     ],
     "event_name": "schedule",
-    "run_id": "28915784569",
-    "sha": "78d9d2186640a31a6c32e90d14de36317ebe9c49",
-    "completed_at": "2026-07-08T03:42:55.460Z",
+    "run_id": "28955255604",
+    "sha": "5228e27e144a287c178b5cd080ae6dba324edab1",
+    "completed_at": "2026-07-08T15:38:21.082Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 33,
-    "queued_articles": 33,
-    "processed": 33,
-    "started_at": "2026-07-08T03:41:51.654Z",
-    "finished_at": "2026-07-08T03:42:55.196Z",
+    "scoped_articles": 30,
+    "queued_articles": 30,
+    "processed": 30,
+    "started_at": "2026-07-08T15:37:06.014Z",
+    "finished_at": "2026-07-08T15:38:20.812Z",
     "success": true,
     "error": ""
   }
