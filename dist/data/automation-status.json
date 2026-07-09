@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-09T04:11:14.416Z",
+    "generated_at": "2026-07-09T16:09:34.547Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 366,
-    "deepseek_untranslated_before_run": 34,
-    "newly_fetched_articles": 34,
-    "newly_fetched_untranslated": 34,
+    "deepseek_translated_before_run": 367,
+    "deepseek_untranslated_before_run": 33,
+    "newly_fetched_articles": 33,
+    "newly_fetched_untranslated": 33,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 34,
+    "translation_queue_count": 33,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.9",
-        "title": "「2026年版グローバル自動車業界見通し」発表、脱グローバル化と中国勢台頭が加速…アリックスパートナーズ",
-        "url": "https://response.jp/article/2026/07/09/413789.html"
+        "title": "Audi F1 Academy Driver Emma Felbermayr on Her Journey From Karting to the Global Spotlight",
+        "url": "https://www.thedrive.com/news/audi-f1-academy-driver-emma-felbermayr-on-her-journey-from-karting-to-the-global-spotlight"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.9",
+        "title": "Toyota Delays 2027 Highlander EV As Demand For Gas Model Remains Robust",
+        "url": "https://insideevs.com/news/801150/toyota-highlander-ev-launch-delayed/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.9",
+        "title": "This Company Built A Simulated Manual For Ferraris Before Ferrari Did",
+        "url": "https://www.motor1.com/news/801058/ferrari-manual-quick-shift-rezvani/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.9",
+        "title": "Ruf Just Brought Back the Flat-Eight Engine With a Clean Sheet Design Making 1,000+ HP",
+        "url": "https://www.thedrive.com/news/ruf-just-brought-back-the-flat-eight-engine-with-a-clean-sheet-design-making-1000-hp"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.9",
+        "title": "NHTSA Says Robotaxis Need to Stop Holding Up First Responders Already: TDS",
+        "url": "https://www.thedrive.com/news/nhtsa-says-robotaxis-need-to-stop-holding-up-first-responders-already-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.9",
+        "title": "China's New Supercar Packs 1,500 Horsepower And Stunning Looks",
+        "url": "https://www.motor1.com/news/801102/denza-z-supercar-debut-china/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.9",
+        "title": "The New Mercedes-AMG CLA EV’s Huge Power Comes From Three Tiny Motors",
+        "url": "https://insideevs.com/news/801128/mercedes-amg-cla-45-axial-flux-motors/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.9",
+        "title": "The Mercedes-AMG CLA 45 Is Back, And It's Electric",
+        "url": "https://www.motor1.com/news/801122/mercedes-amg-cla-45-electric/"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.9",
-        "title": "「このサイズ感の車待ってた！」走りのミニバンとして復活!? トヨタ『エスティマ』次期型に期待の声",
-        "url": "https://response.jp/article/2026/07/09/413796.html"
+        "title": "「カロッツェリア」ブランド40周年、パイオニアがブランディング賞を受賞…用品大賞2026",
+        "url": "https://response.jp/article/2026/07/09/413813.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.9",
-        "title": "【へっぽこバスガイドの珍道中】お客様が観光中にバスガイドは何をしているのか？",
-        "url": "https://bestcarweb.jp/busmagazine/1552128"
+        "title": "「より速く」の終焉──名車たちの挑戦から紐解く、これからのスポーツカーに必要なものとは!?",
+        "url": "https://bestcarweb.jp/feature/column/1570271"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む",
+        "url": "https://response.jp/article/2026/07/09/413816.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.9",
-        "title": "【夏の紫外線対策】運転中の照り返しに勝つ！ そのままお出かけもできる超実力派サングラス",
-        "url": "https://bestcarweb.jp/news/car-accessory/1572559"
+        "title": "9万3500円差ならターボ推し!? タント ファンクロスを買うならNAかターボか",
+        "url": "https://bestcarweb.jp/feature/column/1565359"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.9",
+        "title": "Chrysler Salesman Says He’d Never Buy A Pacifica. Then He Reveals The Real Reason Why: 'Chrysler Was Never On My List'",
+        "url": "https://www.motor1.com/news/801037/is-chrysler-pacifica-worth-it/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "E2E自動運転向け大規模GPUインフラ構築へ、チューリングとBIPROGYが資本業務提携",
+        "url": "https://response.jp/article/2026/07/09/413819.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "JVCケンウッド、米IP無線企業SLAを完全子会社化…ハイブリッド無線領域に本格参入",
+        "url": "https://response.jp/article/2026/07/09/413815.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "VWグループ、V2G技術を量産市場へ…EVバッテリーを仮想発電所として活用",
+        "url": "https://response.jp/article/2026/07/09/413821.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "オートバックス生駒店、奈良県に7月10日オープン…オートバックスカーズも同日開店",
+        "url": "https://response.jp/article/2026/07/09/413825.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "クルマの“静けさ”は後から作れる？ DIY静音処理で車内の質感を高める方法～Weeklyメンテナンス～",
+        "url": "https://response.jp/article/2026/07/09/413822.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.9",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第804回",
-        "url": "https://bestcarweb.jp/feature/column/1562217"
+        "title": "スバルがマイルドハイブリッド車の販売終了を発表!! 今後はストロングハイブリッドに注力！",
+        "url": "https://bestcarweb.jp/newcar/1575523"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.9",
-        "title": "BASFコーティングス、事業売却完了…新会社「サーヴェンティス」発足",
-        "url": "https://response.jp/article/2026/07/09/413790.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "D-SPORTから『コペン』専用サンシェードが発売 ハイカーブ形状に対応した専用設計",
-        "url": "https://response.jp/article/2026/07/09/413797.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "LiDARで駐車場の空き状況をリアルタイム把握、名古屋大学が春日井市で社会実装…空き情報をウェブで公開",
-        "url": "https://response.jp/article/2026/07/09/413793.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "NTTモビリティ、「運行アシスト」提供開始…自動運転レベル4の遠隔運行を統合支援",
-        "url": "https://response.jp/article/2026/07/09/413782.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "アウディ『Q5』新型、木梨憲武氏が1台限りのアートカー制作…全国巡回展示へ",
-        "url": "https://response.jp/article/2026/07/09/413800.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "アライヘルメット、2024年JSB1000チャンピオン・岡本裕生選手のレプリカ『RX-7X オカモト』発売",
-        "url": "https://response.jp/article/2026/07/09/413799.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "ええええ、ライトでこんなことできるんかい!! 新型カロクロで始まったライトの未来がスゴい",
-        "url": "https://bestcarweb.jp/feature/column/1554033"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "スカイアクティブに水平対向エンジン、VCターボ……「技術」に賭けた珠玉のクルマ選",
-        "url": "https://bestcarweb.jp/feature/column/1569609"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "スズキ、モトクロッサー『RM-Z250/450』2027年モデルを12月発売へ FIM音量規制に対応、足回りの進化も",
-        "url": "https://response.jp/article/2026/07/09/413795.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "スズキ『ジムニー シエラ』『ジムニー ノマド』用、AWIN製GOZELパーツを全国のスズキ販売店で発売…7月24日より",
-        "url": "https://response.jp/article/2026/07/09/413780.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "バイオ燃料「サステオ」でトラック輸送開始、ユーグレナと丸紅が荷主参加型の脱炭素物流モデル構築",
-        "url": "https://response.jp/article/2026/07/09/413786.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "バッテリーEV大型トラックの「電費」はどれくらい？ ダイムラートラックが実運送でのデータを公開！",
-        "url": "https://bestcarweb.jp/fullload/1571724"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "ランクル250の最上級モデル装備がさすがの一言!! 街乗りSUVを黙らせるZX専用の本格オフロードシステムにシビれる！",
-        "url": "https://bestcarweb.jp/feature/column/1570445"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "内装もエンジンもランクル250と共通なの!? 街乗りでも感じられる新型ハイラックスの進化",
-        "url": "https://bestcarweb.jp/newcar/1568176"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "売れるんだよなぁ…ホンダフィットが7/10にマイチェン発売!! 新グレード「Z」はスポーティと快適性と価格の「いいとこどり」",
-        "url": "https://bestcarweb.jp/newcar/1573129"
+        "title": "ゼンリン、別府市・由布市と観光DX協定を締結…「STLOCAL」で温泉郷の周遊促進へ",
+        "url": "https://response.jp/article/2026/07/09/413820.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 34,
-    "queued_articles": 34,
-    "processed": 34,
-    "started_at": "2026-07-09T04:11:14.746Z",
-    "finished_at": "2026-07-09T04:12:33.169Z",
+    "scoped_articles": 33,
+    "queued_articles": 33,
+    "processed": 33,
+    "started_at": "2026-07-09T16:09:34.874Z",
+    "finished_at": "2026-07-09T16:10:43.500Z",
     "success": true,
     "error": ""
   }

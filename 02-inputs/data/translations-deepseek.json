@@ -68346,5 +68346,777 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-09T04:12:33.151Z"
+  },
+  "https://insideevs.com/news/801150/toyota-highlander-ev-launch-delayed/": {
+    "title_zh": "丰田推迟 2027 款汉兰达 EV 上市，燃油版需求强劲",
+    "summary_short": "丰田原定 2026 年底推出的汉兰达 EV 推迟上市，因当前燃油版需求强劲，调整后生产时间待定。",
+    "summary_long": "丰田原计划于 2026 年底推出第五代汉兰达 EV，但现已确认推迟。官方表示正在对车辆进行额外调整，具体延迟时长未公布。汉兰达是丰田首款完全电动化的车型，计划从 2027 款起仅提供电动版本，取消燃油和混动版。然而，当前第四代燃油汉兰达自 2019 年上市以来销售强劲，可能是延迟原因之一。",
+    "highlights_zh": [
+      "汉兰达 EV 原定 2026 年底上市",
+      "丰田未公布具体延迟时长",
+      "汉兰达将成丰田首款纯电专属车型",
+      "当前燃油版汉兰达需求依然强劲"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "汉兰达 | Highlander",
+      "bZ",
+      "C-HR",
+      "雷克萨斯 | Lexus"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxBPA7/s1/2027-toyota-highlander-ev.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:38.711Z"
+  },
+  "https://www.thedrive.com/news/audi-f1-academy-driver-emma-felbermayr-on-her-journey-from-karting-to-the-global-spotlight": {
+    "title_zh": "奥迪 F1 学院车手艾玛·费尔伯迈尔：从卡丁车到全球聚光灯的旅程",
+    "summary_short": "19 岁奥地利车手艾玛·费尔伯迈尔在奥迪支持下，成为本赛季唯一每站都获积分的 F1 学院车手，正冲击 2026 年冠军。",
+    "summary_long": "F1 学院旨在为 20 名年轻女性提供顶级赛车平台，奥迪支持的艾玛·费尔伯迈尔是本赛季唯一每站都获积分的车手。她已赢得两场比赛，仅次于红牛车手阿莉莎·帕尔莫夫斯基的三胜。2026 赛季剩余比赛包括赞德福特、奥斯汀和拉斯维加斯，费尔伯迈尔有望在 F1 学院的最后一年争夺冠军。她曾在 2025 年代表索伯旗下的罗丹车队取得首胜，并在排位赛和逆袭中展现出色实力。",
+    "highlights_zh": [
+      "唯一每站积分车手",
+      "两场胜利",
+      "奥迪全力支持",
+      "2026 年冲击冠军"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "F1 学院 | F1 Academy",
+      "艾玛·费尔伯迈尔 | Emma Felbermayr",
+      "红牛",
+      "阿莉莎·帕尔莫夫斯基"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/A264773.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/A268193.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/A2613672.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:39.152Z"
+  },
+  "https://www.motor1.com/news/801058/ferrari-manual-quick-shift-rezvani/": {
+    "title_zh": "Rezvani 抢先法拉利推出模拟手动变速箱 Quick Shift",
+    "summary_short": "Rezvani Motors 在法拉利推出 Manuale 之前，为 458、488 和 12Cilindri 开发了模拟手动变速箱 Quick Shift，并计划扩展至兰博基尼和科尔维特。",
+    "summary_long": "在法拉利为 12Cilindri 推出线控手动技术之前，Rezvani Motors 已联合意大利 Studio Carrozzi 开发了名为 Quick Shift 的模拟手动变速箱。该系统目前适配法拉利 458、488 和 12Cilindri，未来将扩展至兰博基尼部分车型及科尔维特 ZR1。Rezvani 以打造极端超跑和装甲 SUV 闻名，此次技术旨在还原手动换挡手感。",
+    "highlights_zh": [
+      "Rezvani 推出 Quick Shift 模拟手…",
+      "适配法拉利 458、488 和 12Cilindri",
+      "计划扩展至兰博基尼和科尔维特 ZR1",
+      "与意大利 Studio Carrozzi 联合开发"
+    ],
+    "entities": [
+      "Rezvani Motors",
+      "法拉利 | Ferrari",
+      "兰博基尼",
+      "科尔维特",
+      "Quick Shift"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3yJgm/s1/rezvani-quick-shift-manual-for-ferrari.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:42.262Z"
+  },
+  "https://www.thedrive.com/news/ruf-just-brought-back-the-flat-eight-engine-with-a-clean-sheet-design-making-1000-hp": {
+    "title_zh": "Ruf 全新设计水平对置八缸发动机，功率超 1000 马力",
+    "summary_short": "Ruf 推出全新设计的 4.8 升双涡轮增压水平对置八缸发动机，功率超 1000 马力，搭载于加长 CTR3 原型车，计划未来量产。",
+    "summary_long": "Ruf 发布了一台全新设计的 4.8 升双涡轮增压水平对置八缸发动机（B8），最大功率超过 1000 马力，峰值扭矩 737 磅-英尺。该发动机目前搭载于一台加长 3.9 英寸的 CTR3 原型车上，配备六速手动变速箱。Ruf 计划未来将其用于量产车型。这台发动机完全由 Ruf 内部设计开发，是罕见的水平对置八缸布局，此前仅有保时捷在 1960 年代的赛车中使用过。该原型车将在古德伍德速度节上亮相并参与爬山赛。",
+    "highlights_zh": [
+      "全新 4.8 升双涡轮增压水平对置八缸发动机",
+      "功率超 1000 马力",
+      "搭载于加长 CTR3 原型车",
+      "计划未来量产"
+    ],
+    "entities": [
+      "Ruf",
+      "CTR3",
+      "水平对置八缸发动机",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/RUF-8-Zylinder-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Ruf_8-Zylinder_02.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Ruf_8-Zylinder_03.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:43.344Z"
+  },
+  "https://www.thedrive.com/news/nhtsa-says-robotaxis-need-to-stop-holding-up-first-responders-already-tds": {
+    "title_zh": "NHTSA 要求自动驾驶出租车不得阻碍应急响应",
+    "summary_short": "美国 NHTSA 要求自动驾驶汽车制造商解决在紧急情况下阻碍急救人员的“明显模式”问题。",
+    "summary_long": "美国国家公路交通安全管理局（NHTSA）局长 Jonathan Morrison 致信自动驾驶汽车制造商，要求其解决车辆在紧急情况下阻碍急救人员的“明显模式”问题。Morrison 在信中表示，“无法检测并适当应对此类情况代表功能缺陷”。据悉，该部门本月将与供应商召开会议以解决该问题。",
+    "highlights_zh": [
+      "NHTSA 要求自动驾驶汽车不得阻碍急救人员",
+      "局长称这是“功能缺陷”",
+      "本月将与供应商开会解决"
+    ],
+    "entities": [
+      "NHTSA",
+      "Jonathan Morrison",
+      "自动驾驶汽车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2285146103.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_4873-e1782941106261.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:44.939Z"
+  },
+  "https://www.motor1.com/news/801102/denza-z-supercar-debut-china/": {
+    "title_zh": "腾势 Z 超跑：1500 马力电动猛兽，即将登陆欧洲",
+    "summary_short": "比亚迪旗下腾势 Z 电动超跑亮相，拥有 1500 马力、1500kW 超快充，将推出轿跑、蜘蛛侠及赛道版，并进军欧洲市场。",
+    "summary_long": "比亚迪旗下高端品牌腾势推出全新电动超跑 Denza Z，搭载三电机全轮驱动系统，综合功率达 1180kW（约 1500 马力），支持最高 1500kW 超快充，9 分钟内即可将电量从 10%充至 97%。该车基于比亚迪 e3 平台打造，配备双电机后轴实现主动扭矩矢量控制。除标准轿跑和赛车版外，还推出 Spider 敞篷版及专为纽博格林北环设计的特别版。Denza Z 已在 2026 年古德伍德速度节上首次公开亮相，并将登陆欧洲市场。车身长 4.79 米，高仅 1.34 米，设计由比亚迪首席设计师沃尔夫冈·艾格操刀，强调空气动力学与冷却效率。",
+    "highlights_zh": [
+      "1500 马力三电机全轮驱动",
+      "1500kW 超快充",
+      "轿跑、Spider 敞篷及赛道版多车型",
+      "2026 古德伍德首秀"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "腾势",
+      "腾势 Z",
+      "e3 平台",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPA7j/s1/denza-z-coupe-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:48.139Z"
+  },
+  "https://insideevs.com/news/801128/mercedes-amg-cla-45-axial-flux-motors/": {
+    "title_zh": "全新梅赛德斯-AMG CLA EV：三台小型电机爆发出 670 马力",
+    "summary_short": "梅赛德斯-AMG CLA 45 4Matic+搭载三台轴向磁通电机，总功率 670 马力，0-100 公里/小时加速仅需 3 秒，WLTP 续航最高 670 公里。",
+    "summary_long": "梅赛德斯-AMG CLA 45 4Matic+是一款高性能电动轿车，采用三台轴向磁通电机，这种电机比传统径向磁通电机更轻更紧凑，常见于 AMG GT 等顶级混动超跑。前轴一台电机（301 马力），后轴两台，总功率 670 马力，0-100 公里/小时加速仅需 3 秒（含起步距离 2.7 秒）。前电机集成在 HP.EDU 单元中，包含齿轮箱、SiC 逆变器等，可断开以提升长途效率。电池容量 94 千瓦时（可用），WLTP 续航轿车 670 公里，猎装版 640 公里。电池阳极采用硅氧混合石墨，提升能量密度。",
+    "highlights_zh": [
+      "三台轴向磁通电机",
+      "0-100 公里/小时加速仅需 3 秒",
+      "前轴电机可断开",
+      "WLTP 续航最高 670 公里"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "CLA 45 4Matic+",
+      "轴向磁通电机",
+      "HP.EDU",
+      "SiC 逆变器"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8VW4/s1/mercedes-amg-cla-45-4matic-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:49.249Z"
+  },
+  "https://www.motor1.com/news/801122/mercedes-amg-cla-45-electric/": {
+    "title_zh": "梅赛德斯-AMG CLA 45 回归，纯电驱动",
+    "summary_short": "全新 AMG CLA 45 采用三电机纯电驱动，最大功率 680 马力，扭矩高达 1759 牛·米，0-100km/h 加速仅需 3 秒，续航可达 416 英里。",
+    "summary_long": "梅赛德斯-AMG CLA 45 以纯电形式回归，取代了之前的 2.0 升涡轮增压四缸发动机。新车采用三电机布局（前轴一台、后轴两台），综合最大功率 680 马力，连续输出功率 612 马力，峰值扭矩高达 1759 牛·米，是燃油版的三倍以上。提供轿车和旅行车两种车身形式，0-100km/h 加速时间均为 3 秒，最高时速可达 270 公里（选装 AMG Dynamic Plus 套件）。续航里程最高为 416 英里（约 669 公里）。新车与燃油版仅共享 4Matic 全轮驱动系统，其余部分完全不同。",
+    "highlights_zh": [
+      "三电机纯电驱动",
+      "峰值扭矩 1759 牛·米",
+      "0-100km/h 加速 3 秒",
+      "最高续航 416 英里"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "CLA 45",
+      "AMG GT 4-Door Coupe",
+      "4Matic"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kbgy00/s1/mercedes-amg-cla-45-4matic-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:52.018Z"
+  },
+  "https://response.jp/article/2026/07/09/413813.html": {
+    "title_zh": "先锋 Carrozzeria 品牌 40 周年获用品大赏 2026 品牌奖",
+    "summary_short": "先锋 Carrozzeria 品牌因 40 周年获日本用品大赏 2026 品牌奖，表彰其长期品牌价值与技术贡献。",
+    "summary_long": "先锋公司于 7 月 9 日宣布，其 Carrozzeria 品牌诞生 40 周年荣获日刊汽车新闻社主办的“用品大赏 2026”品牌奖。该奖项旨在表彰在汽车用品行业中为车主提供丰富车生活、开拓售后市场的产品，评选标准包括技术开发力、企划力、创意、独特性和先锋精神。新设的品牌奖针对长期构建品牌价值并持续提升技术与产品力的品牌，评选期为 2025 年 4 月至 2026 年 6 月。",
+    "highlights_zh": [
+      "Carrozzeria 品牌 40 周年获奖",
+      "用品大赏 2026 新设品牌奖",
+      "表彰长期品牌价值与技术力",
+      "评选期 2025 年 4 月至 2026 年 6 月"
+    ],
+    "entities": [
+      "先锋",
+      "Carrozzeria",
+      "用品大赏 2026",
+      "品牌奖"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225956.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225956.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:53.487Z"
+  },
+  "https://bestcarweb.jp/feature/column/1570271": {
+    "title_zh": "“更快”的终结——从名车挑战中解读未来跑车所需",
+    "summary_short": "跑车价值不止于圈速，创新技术与赛道热情才是核心。回顾日产 Fairlady Z432 等经典，探寻未来跑车方向。",
+    "summary_long": "跑车的本质价值不能仅由赛道圈速决定。回顾历史，那些颠覆常识的技术创新、独特设计以及将赛车技术投入量产车的挑战，才是真正打动车迷的关键。以日产 Fairlady Z432 为例，其搭载的 S20 发动机源自赛车 GR8 系列，将纯正赛车动力带入民用跑车，这种突破常规的做法至今令人难忘。未来跑车需要的不只是速度，更是技术与激情的融合。",
+    "highlights_zh": [
+      "跑车价值不止于圈速",
+      "创新技术与赛道热情是关键",
+      "Fairlady Z432 将赛车引擎带入民用",
+      "未来跑车需技术与激情融合"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Fairlady Z432",
+      "Skyline GT-R",
+      "S20 发动机",
+      "跑车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06112754/images_nissan_fairlady_1969_1-1.jpg?v=1783304875",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06112754/images_nissan_fairlady_1969_1-1-600x400.jpg?v=1783304875",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09110511/tanto_221003067-1-600x400.jpg?v=1783562712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:56.762Z"
+  },
+  "https://response.jp/article/2026/07/09/413816.html": {
+    "title_zh": "三菱汽车与 Highlanders 合作量产日本产人形机器人，2027 年目标 1000 台",
+    "summary_short": "三菱汽车与东大初创公司 Highlanders 合作，量产人形机器人“N”，2027 年目标年产 1000 台，旨在解决制造业劳动力短缺。",
+    "summary_long": "三菱汽车与东京大学初创公司 Highlanders 签署基本协议，共同开发用于工厂的物理 AI 人形机器人，并计划在京都工厂量产。2027 年初启动生产，年中至后期实现年产 1000 台。合作背景是日本制造业劳动力不足和生产现场升级需求。Highlanders 成立于 2023 年，专注于人形机器人和机器人技术，其机器人“N”将先在工厂替代简单人工操作，积累数据后优化开发。",
+    "highlights_zh": [
+      "三菱汽车与 Highlanders 合作量产人形机器…",
+      "2027 年目标年产 1000 台",
+      "机器人“N”将用于工厂替代简单作业",
+      "旨在缓解日本制造业劳动力短缺"
+    ],
+    "entities": [
+      "三菱汽车 | Mitsubishi Motors",
+      "Highlanders",
+      "人形机器人",
+      "物理 AI",
+      "京都工厂"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226048.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226048.jpg",
+      "https://response.jp/imgs/fill2/2226039.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:09:57.191Z"
+  },
+  "https://www.motor1.com/news/801037/is-chrysler-pacifica-worth-it/": {
+    "title_zh": "克莱斯勒销售员称绝不买 Pacifica，背后原因竟是……",
+    "summary_short": "克莱斯勒销售员视频吐槽 Pacifica，却意外成为推销，揭示其不买的真正原因与使用场景有关。",
+    "summary_long": "一位克莱斯勒销售员在社交媒体上发布视频，起初声称自己绝不会购买克莱斯勒 Pacifica，随后却详细列举了该车的众多优点，最终揭示其不买的理由归结于个人使用需求。视频反而成为对 Pacifica 的变相推销。该销售员指出，Pacifica 和 Voyager 搭载 3.6 升 Pentastar V6 发动机，是展厅最畅销车型之一，但他本人因用途不符而不会选择。",
+    "highlights_zh": [
+      "销售员视频先吐槽后推销",
+      "Pacifica 搭载 3.6L V6 发动机",
+      "不买原因在于个人使用需求",
+      "该车为展厅最畅销车型之一"
+    ],
+    "entities": [
+      "克莱斯勒 | Chrysler",
+      "Pacifica",
+      "Voyager",
+      "Pentastar V6 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWVxy/s1/chrysler-salesman-says-he-d-never-buy-a-pacifica.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:00.944Z"
+  },
+  "https://bestcarweb.jp/feature/column/1565359": {
+    "title_zh": "9 万 3500 日元差价选涡轮？坦途 FunCros 购车指南：NA 还是涡轮",
+    "summary_short": "坦途 FunCros NA 与涡轮版差价 9.35 万日元，涡轮扭矩更强，NA 更省油，城市通勤选 NA，高速或山路选涡轮。",
+    "summary_long": "坦途 FunCros 是轻自动车中人气很高的户外风格车型，NA 版售价 180.95 万日元，涡轮版 190.3 万日元，差价 9.35 万日元。NA 版 WLTC 油耗 21.9km/L，涡轮版 20.6km/L，差距 1.3km/L。NA 版最大功率 52PS，扭矩 60Nm，适合城市低速行驶；涡轮版功率 64PS，扭矩 100Nm，在起步、爬坡和高速并线时动力更充裕。如果日常以短途通勤和接送为主，NA 版性价比高；若经常自驾出游或需要应对坡道，涡轮版更值得推荐。",
+    "highlights_zh": [
+      "NA 版 180.95 万日元",
+      "NA 油耗 21.9km/L",
+      "涡轮扭矩 100Nm",
+      "城市通勤选 NA"
+    ],
+    "entities": [
+      "坦途",
+      "ファンクロス",
+      "轻自动车",
+      "涡轮增压",
+      "WLTC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09110511/tanto_221003067-1.jpg?v=1783562712",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09110511/tanto_221003067-1-600x400.jpg?v=1783562712",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23180737/5a497226e54ffd4d3a77fdc9f34d91c9-1-600x400.jpg?v=1782205658"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:01.475Z"
+  },
+  "https://response.jp/article/2026/07/09/413815.html": {
+    "title_zh": "JVC 建伍收购美国 IP 无线企业 SLA，正式进军混合无线领域",
+    "summary_short": "JVC 建伍收购美国 IP 无线企业 SLA 全部股份，正式进军混合无线领域，推动 VISION2030 战略。",
+    "summary_long": "JVC 建伍宣布收购美国加州 IP 无线企业 San Luis Aviation, Inc.（SLA）全部股份，使其成为全资子公司。此举旨在落实 2026 年 5 月制定的中期经营计划“VISION2030”，将无线系统业务的“窄带领域”作为增长引擎，而“混合领域”则定位为期待与挑战领域，标志着公司正式进军混合无线领域。",
+    "highlights_zh": [
+      "收购美国 IP 无线企业 SLA 全部股份",
+      "SLA 成为 JVC 建伍全资子公司",
+      "落实 VISION2030 中期经营计划",
+      "混合无线领域定位为期待与挑战领域"
+    ],
+    "entities": [
+      "JVC 建伍 | JVCケンウッド",
+      "SLA"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225961.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225961.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:05.400Z"
+  },
+  "https://response.jp/article/2026/07/09/413819.html": {
+    "title_zh": "Turing 与 BIPROGY 合作构建 E2E 自动驾驶大规模 GPU 基础设施",
+    "summary_short": "BIPROGY 投资 Turing，合作构建大规模 GPU 基础设施，加速端到端自动驾驶开发与社会化部署。",
+    "summary_long": "BIPROGY 宣布投资自动驾驶初创公司 Turing，双方达成资本与业务合作，旨在加速完全自动驾驶技术的开发与社会化应用。合作将重点构建大规模 GPU 基础设施，以支持基于摄像头输入的端到端（E2E）自动驾驶系统，该系统集感知、决策与车辆控制于一体。此举旨在推动中长期的自动驾驶服务落地。",
+    "highlights_zh": [
+      "BIPROGY 投资 Turing",
+      "构建大规模 GPU 基础设施",
+      "支持端到端自动驾驶开发",
+      "加速自动驾驶社会化部署"
+    ],
+    "entities": [
+      "チューリング",
+      "BIPROGY",
+      "端到端自动驾驶 | E2E 自動運転",
+      "GPU 基础设施 | GPUインフラ",
+      "资本业务合作 | 資本業務提携"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226033.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226033.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:05.553Z"
+  },
+  "https://response.jp/article/2026/07/09/413821.html": {
+    "title_zh": "大众集团将 V2G 技术推向量产市场，EV 电池化身虚拟发电厂",
+    "summary_short": "大众集团宣布在德国推出 V2G 技术，让 EV 电池向电网送电，用户可获收益并降低能源成本。",
+    "summary_long": "大众集团宣布将车辆到电网（V2G）技术投入量产市场，首先在德国面向大众、大众商用车和 Cupra 品牌客户推出。该技术允许电动汽车将电池储存的电能回馈给电网，用户可通过智能控制获得收入或降低能源成本。目前欧洲已有约 100 万辆 MEB 平台车型支持双向充电，为服务扩展奠定基础。未来计划将服务扩展至法国、英国等市场。",
+    "highlights_zh": [
+      "V2G 技术让 EV 电池向电网送电",
+      "用户可获收入或降低能源成本",
+      "欧洲已有 100 万辆 MEB 车型支持",
+      "先在德国推出"
+    ],
+    "entities": [
+      "大众集团 | Volkswagen Group",
+      "MEB 平台",
+      "V2G",
+      "Cupra",
+      "德国"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226056.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226056.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:09.258Z"
+  },
+  "https://response.jp/article/2026/07/09/413825.html": {
+    "title_zh": "奥德巴克斯生驹店将于 7 月 10 日在奈良县开业，奥德巴克斯卡兹同日开张",
+    "summary_short": "奥德巴克斯生驹店 7 月 10 日开业，位于奈良县生驹市，提供汽车用品、车检、维修及二手车买卖服务。",
+    "summary_long": "奥德巴克斯关西销售将于 7 月 10 日开设奥德巴克斯生驹店，该店位于近铁京阪奈线学研北生驹站北部，主要地方道 7 号线东侧的新购物中心内。除汽车用品外，还提供车检、维修、二手车收购与销售等服务。同日，奥德巴克斯卡兹生驹高滨店也将开业。两店地址均为奈良县生驹市上町 3461 番，共用 350 个停车位，配备 8 个维修工位。营业时间为 9:30 至 19:30，不定期休息。奥德巴克斯集团在日本国内共有 1073 家门店，包括奥德巴克斯 524 家、超级奥德巴克斯 71 家等。",
+    "highlights_zh": [
+      "7 月 10 日开业",
+      "位于奈良县生驹市",
+      "提供汽车用品、车检、维修及二手车服务",
+      "奥德巴克斯卡兹同日开张"
+    ],
+    "entities": [
+      "奥德巴克斯",
+      "奥德巴克斯卡兹",
+      "奈良县",
+      "生驹市",
+      "车检"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226062.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226062.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:09.814Z"
+  },
+  "https://response.jp/article/2026/07/09/413822.html": {
+    "title_zh": "DIY 静音处理提升车内质感",
+    "summary_short": "通过 DIY 静音处理，使用制振材、遮音材等降低路噪和风噪，可显著提升车内静谧性与质感。",
+    "summary_long": "车辆的静谧性是影响车内质感的关键因素之一。通过 DIY 静音处理，使用制振材、遮音材、吸音材等材料，可以有效降低路噪、风噪、发动机噪音和雨声，从而提升车内舒适性和高级感。这种处理不仅改善乘坐体验，还能提升音响效果，适合追求高音质的用户。不同车型和配置的静音水平差异明显，DIY 静音是低成本提升质感的有效方法。",
+    "highlights_zh": [
+      "静音处理可显著提升车内质感",
+      "使用制振材、遮音材等 DIY 材料",
+      "降低路噪、风噪、发动机噪音",
+      "同时改善音响聆听体验"
+    ],
+    "entities": [
+      "静音处理",
+      "制振材",
+      "遮音材",
+      "吸音材",
+      "车内质感"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225749.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225749.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:13.173Z"
+  },
+  "https://bestcarweb.jp/newcar/1575523": {
+    "title_zh": "斯巴鲁宣布停产轻度混合动力车，未来聚焦强混系统",
+    "summary_short": "斯巴鲁宣布结束 Impreza 和 Crosstrek 的 e-BOXER 轻度混合动力车型生产，未来将转向强混 S:HEV 系统。",
+    "summary_long": "斯巴鲁于 2026 年 7 月 9 日宣布，将停止 Impreza 和 Crosstrek 的 e-BOXER 轻度混合动力车型的生产。此举是出于电动化进程和环境法规强化的考虑，旨在优化产品组合。未来斯巴鲁将专注于强混 S:HEV 系统，Crosstrek 将仅提供 S:HEV 版本，而 Impreza 则保留 2.0L 汽油版。与 1 电机轻度混动相比，2 电机强混系统在燃油经济性上优势明显，WLTC 工况下 Crosstrek 强混版油耗为 22.7km/L，优于轻度混动的 19.3km/L。",
+    "highlights_zh": [
+      "Impreza 和 Crosstrek 的轻度混动版…",
+      "未来主推 S:HEV 强混系统",
+      "强混版油耗 22.7km/L",
+      "Crosstrek 仅提供 S:HEV"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "インプレッサ",
+      "クロストレック",
+      "e-BOXER",
+      "S:HEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09181038/10_kageusu_impreza_24.jpg?v=1783588240",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09181038/10_kageusu_impreza_24-600x378.jpg?v=1783588240",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06123644/TOYOTA-RAV4-PHEV_026_1-600x400.jpg?v=1783309006"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:14.804Z"
+  },
+  "https://response.jp/article/2026/07/09/413820.html": {
+    "title_zh": "Zenrin 与别府市、由布市签订旅游 DX 协议，利用 STLOCAL 促进温泉乡周游",
+    "summary_short": "Zenrin 与别府市、由布市签订旅游 DX 协议，利用 STLOCAL 促进温泉乡周游。",
+    "summary_long": "Zenrin 宣布与大分县别府市和由布市签订旅游 DX 推进合作协议。通过其平台 STLOCAL，旨在促进温泉乡的周游，提升游客体验。",
+    "highlights_zh": [
+      "Zenrin 与别府市、由布市签订旅游 DX 协议",
+      "利用 STLOCAL 平台促进温泉乡周游",
+      "旨在提升游客体验"
+    ],
+    "entities": [
+      "ゼンリン",
+      "别府市",
+      "由布市",
+      "STLOCAL"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226049.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226049.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:16.174Z"
+  },
+  "https://response.jp/article/2026/07/09/413811.html": {
+    "title_zh": "SORACOM Automotive Suite：一站式车载通信与计费平台",
+    "summary_short": "日本 SORACOM 推出汽车通信套件，简化 SDV 通信基盘设计，提供从车载通信到计费、用户门户的一站式方案。",
+    "summary_long": "日本物联网企业 SORACOM 在 7 月 2 日的媒体说明会上发布了面向汽车行业的“SORACOM Automotive Suite”。该方案旨在简化软件定义汽车（SDV）通信基盘的设计与运维，提供从车载通信到按用量计费、用户门户及应用程序的一站式服务，帮助车企加速车联网系统的开发与运营。",
+    "highlights_zh": [
+      "面向 SDV 的通信基盘解决方案",
+      "提供按用量计费与详细账单功能",
+      "包含用户门户和应用程序",
+      "简化车联网系统开发与运维"
+    ],
+    "entities": [
+      "SORACOM",
+      "SORACOM Automotive Suite",
+      "软件定义汽车 | SDV",
+      "车联网"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225867.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225867.jpg",
+      "https://response.jp/imgs/p/OMHSDY1RhmI6_sRAaLcpIH5P30HRQkNERUZH/1861604.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:18.510Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556860": {
+    "title_zh": "铃木 Solio 对比丰田 Roomy：易用性与油耗之争",
+    "summary_short": "铃木 Solio 与丰田 Roomy 两款高顶紧凑型 MPV 对比，从尺寸、操控和油耗角度分析日常使用中的优劣。",
+    "summary_long": "铃木 Solio 和丰田 Roomy 是日本市场热门的高顶紧凑型 MPV，均配备滑动门和宽敞车厢，适合家庭使用。Solio 车长 3810mm、宽 1645mm、高 1745mm，Roomy 标准版车长 3700mm、宽 1670mm、高 1735mm。Roomy 车长更短，转弯半径 4.6m（Solio 4.8m），在狭窄停车场和街道上更灵活；Solio 车身更窄，提供更好的错车安全感。内部空间方面，Solio 前后方向更宽敞（室内长 2500mm vs 2180mm），Roomy 横向更优（室内宽 1480mm vs 1420mm）。选择取决于驾驶环境：Roomy 适合频繁窄路掉头，Solio 适合注重前后排空间和窄路通过性。",
+    "highlights_zh": [
+      "Roomy 车长更短",
+      "Solio 车身更窄",
+      "Solio 前后排空间更充裕",
+      "选择取决于日常行驶道路和停车环境"
+    ],
+    "entities": [
+      "铃木 Solio | Suzuki Solio",
+      "丰田 Roomy | Toyota Roomy",
+      "高顶紧凑型 MPV",
+      "油耗"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23180737/5a497226e54ffd4d3a77fdc9f34d91c9-1.jpg?v=1782205658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23180737/5a497226e54ffd4d3a77fdc9f34d91c9-1-600x400.jpg?v=1782205658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09110511/tanto_221003067-1-600x400.jpg?v=1783562712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:21.629Z"
+  },
+  "https://response.jp/article/2026/07/09/413828.html": {
+    "title_zh": "Toy Factory 发布全新房车 Da Vinci 5.4，将在东京房车展 2026 上市",
+    "summary_short": "Toy Factory 发布全新房车 Da Vinci 5.4，基于菲亚特 Ducato L2H2，售价 1584 万日元，主打双人豪华旅行。",
+    "summary_long": "Toy Factory 发布了全新房车 Da Vinci 5.4，该车基于菲亚特 Ducato L2H2（日本正规进口版），车身尺寸为 5410×2100×2525mm，室内高 1880mm，可乘坐 4 人、就寝 2 人。内饰与旗舰车型 Da Vinci 6.0 统一风格，采用现代精致设计，融合明亮色调与天然木纹。上下床铺宽度均有扩展，上铺尺寸 1930×1180mm，下铺 1810×1055mm，并采用 50mm 厚高密度高回弹聚氨酯床垫，提供舒适支撑。新车将在 7 月 11-12 日东京房车展 2026 首次亮相并开售，含税价 1584 万日元。",
+    "highlights_zh": [
+      "基于菲亚特 Ducato L2H2",
+      "售价 1584 万日元",
+      "双人豪华旅行定位",
+      "床铺加宽"
+    ],
+    "entities": [
+      "トイファクトリー",
+      "ダヴィンチ5.4",
+      "菲亚特 Ducato",
+      "东京房车展 2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226012.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226012.jpg",
+      "https://response.jp/imgs/fill2/2226058.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:22.561Z"
+  },
+  "https://bestcarweb.jp/news/1575009": {
+    "title_zh": "三菱与 AI 初创公司合作，2027 年量产人形机器人",
+    "summary_short": "三菱汽车与 AI 初创公司 Highlanders 合作，计划 2027 年在京都工厂量产国产通用人形机器人，以应对劳动力短缺和海外科技巨头竞争。",
+    "summary_long": "三菱汽车与东京大学孵化的 AI 初创公司 Highlanders 签署基本协议，计划 2027 年在京都工厂量产国产通用人形机器人“N”。此举旨在利用汽车量产技术与 AI 垂直整合，解决制造业劳动力短缺，重振日本制造强国地位，并正面迎战海外科技巨头。",
+    "highlights_zh": [
+      "三菱与 AI 初创公司 Highlanders 合作",
+      "2027 年京都工厂量产人形机器人",
+      "应对劳动力短缺",
+      "垂直整合汽车技术与 AI"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Highlanders",
+      "人形机器人"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09161818/copy_22EC11DD-2641-4C3C-82B1-E100DDC4E9B1.jpeg?v=1783581499",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09161818/copy_22EC11DD-2641-4C3C-82B1-E100DDC4E9B1-600x482.jpeg?v=1783581499",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165027/fad0d18fa566d7fba6e72a452672b35e-600x400.jpg?v=1783065028"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:25.918Z"
+  },
+  "https://response.jp/article/2026/07/09/413829.html": {
+    "title_zh": "丰田 Hilux 氢燃料电池车将征战 2027 达喀尔拉力赛",
+    "summary_short": "丰田 GAZOO Racing 宣布以氢燃料电池实验车 DKR GR FC Hilux 参加 2027 达喀尔拉力赛，旨在极端环境下验证燃料电池技术。",
+    "summary_long": "丰田旗下 GAZOO Racing 于 7 月 9 日宣布，将派出以氢燃料电池为动力的实验车 DKR GR FC Hilux 参加 2027 年达喀尔拉力赛。该赛事将于 2027 年 1 月 1 日至 15 日在沙特阿拉伯举行。参赛车辆将投入旨在技术验证的“Dakar Future Mission 1000”组别，在 10 个赛段共计 1000 公里的竞赛路段中比拼。达喀尔拉力赛高温、崎岖路面和长距离赛段的严酷环境，对燃料电池的小型化、冷却、耐久性及能量管理提出了极高要求。车辆测试与组装已在比利时基地启动，后续将逐步推进测试计划。此举是丰田通过 motorsport 实现碳中和并拓展氢能技术的重要一步。",
+    "highlights_zh": [
+      "丰田以氢燃料电池 Hilux 参加 2027 达喀尔…",
+      "参赛组别为技术验证类“Dakar Future Mi…",
+      "在 10 个赛段共 1000 公里竞赛路段验证燃料电…",
+      "车辆测试与组装已在比利时基地启动"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Hilux",
+      "GAZOO Racing",
+      "达喀尔拉力赛",
+      "氢燃料电池"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226064.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226064.jpg",
+      "https://response.jp/imgs/fill2/2226065.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:26.191Z"
+  },
+  "https://bestcarweb.jp/news/1568207": {
+    "title_zh": "车内眼镜收纳新神器：CRAFTWORKS サングラスダブルクリップ",
+    "summary_short": "CRAFTWORKS 推出サングラスダブルクリップ，磁吸双夹设计，轻松固定在遮阳板上，解决车内眼镜收纳难题。",
+    "summary_long": "日本品牌 CRAFTWORKS 于 2026 年 6 月推出サングラスダブルクリップ，采用强力磁铁和双夹设计，可轻松安装在遮阳板上，用于收纳太阳镜或眼镜。产品解决了驾驶中眼镜无处放置、易滑落或找不到的烦恼，售价从 1179 日元起，在亚马逊、乐天等平台有售。",
+    "highlights_zh": [
+      "磁吸双夹设计",
+      "适配遮阳板",
+      "解决眼镜滑落、丢失烦恼",
+      "售价 1179 日元起"
+    ],
+    "entities": [
+      "CRAFTWORKS",
+      "サングラスダブルクリップ",
+      "遮阳板",
+      "磁吸"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165027/fad0d18fa566d7fba6e72a452672b35e.jpg?v=1783065028",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165027/fad0d18fa566d7fba6e72a452672b35e-600x400.jpg?v=1783065028",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09161818/copy_22EC11DD-2641-4C3C-82B1-E100DDC4E9B1-600x482.jpeg?v=1783581499"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:29.736Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556391": {
+    "title_zh": "预算不足时的替代之选：CR-V、CX-5 等车型推荐",
+    "summary_short": "预算从 500 万降至 350 万日元？本文推荐 CR-V、CX-5 等替代车型，兼顾性价比与驾驶乐趣。",
+    "summary_long": "受退休收入减少和物价上涨影响，购车预算可能从 500 万日元降至 350 万日元。本文以丰田 Crown Crossover、日产 Fairlady Z、丰田 RAV4 为例，推荐预算内的替代车型，如丰田 Prius、丰田 GR86 / 斯巴鲁 BRZ 等，并由专家清水草一评分。替代车型在设计和性能上不输本命，且价格更亲民。",
+    "highlights_zh": [
+      "预算从 500 万降至 350 万日元",
+      "Crown Crossover 替代为 Prius",
+      "Fairlady Z 替代为 GR86 / BRZ",
+      "RAV4 替代为 CX-5"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日产 | Nissan",
+      "斯巴鲁 | Subaru",
+      "马自达 | Mazda",
+      "Crown Crossover"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21191331/00_kenjya_028_head.jpg?v=1782036813",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21191331/00_kenjya_028_head-600x400.jpg?v=1782036813",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09110511/tanto_221003067-1-600x400.jpg?v=1783562712"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:30.526Z"
+  },
+  "https://insideevs.com/news/801112/bmw-ix3-euro-ncap-crash-test/": {
+    "title_zh": "宝马 iX3 通过更严格的 Euro NCAP 新规测试",
+    "summary_short": "宝马 iX3 在 Euro NCAP 更严格的新安全测试中获得五星评级，成为首批接受新规测试的车型之一。",
+    "summary_long": "宝马新一代纯电动 SUV iX3 在 Euro NCAP 最新修订的评估标准下以优异成绩获得五星安全评级。该车与极氪 7GT 旅行车是欧洲安全机构今年引入新规后首批接受测试的车型。新协议基于碰撞时间线分为“安全驾驶”、“碰撞避免”、“碰撞保护”和“碰撞后安全”四个类别。在安全驾驶类别中 iX3 获得 73% 评分，碰撞避免类别获得 83%，碰撞保护类别获得 86%，其中侧面碰撞测试获得满分。",
+    "highlights_zh": [
+      "五星安全评级",
+      "新规首批测试车型",
+      "碰撞保护得分 86%",
+      "侧面碰撞满分"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3",
+      "Euro NCAP",
+      "极氪",
+      "7GT"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lBze/s1/bmw-ix3-euro-ncap-crash-test-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:33.433Z"
+  },
+  "https://www.motor1.com/news/801049/ruf-development-prototype-future-models-eight-cylinder/": {
+    "title_zh": "Ruf 下一代性能车将拥有 1000 马力，首次曝光",
+    "summary_short": "Ruf 在古德伍德速度节展示 B8 Erprober 原型车，搭载全新 4.4 升八缸水平对置双涡轮增压发动机，功率超 1000 马力，配六速手动变速箱。",
+    "summary_long": "Ruf 汽车公司为庆祝成立 50 周年，在古德伍德速度节上公开了其下一代性能车的开发原型——B8 Erprober。该车基于加长版 CTR3 打造，用于验证新技术。核心是 Ruf 全新研发的 4.4 升八缸水平对置双涡轮增压发动机，输出超过 1000 马力和 738 磅英尺扭矩，匹配六速手动变速箱。原型车由赛车手 Tanner Faust 驾驶，身披致敬 CTR Yellowbird 的特别涂装。Ruf 已从改装保时捷转型为独立制造整车，此车将奠定未来车型基础。",
+    "highlights_zh": [
+      "全新 4.4 升八缸水平对置双涡轮增压发动机",
+      "功率超 1000 马力",
+      "匹配六速手动变速箱",
+      "古德伍德速度节首次公开演示"
+    ],
+    "entities": [
+      "Ruf",
+      "B8 Erprober",
+      "CTR3",
+      "CTR Yellowbird",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6NmPw/s1/ruf-b8-erprober-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:35.712Z"
+  },
+  "https://www.motor1.com/news/800914/midas-6000-dollar-estimate/": {
+    "title_zh": "女子首次换机油遭 Midas 开出 6000 美元天价维修单",
+    "summary_short": "一名女子首次去 Midas 换机油，却被开出 6000 美元维修估价，并遭店员训斥，她提醒网友“别再去了”。",
+    "summary_long": "一名女子首次去 Midas 换机油，却被店员告知她的车“危险且状况不佳”，并开出一份 6000 美元的维修估价。她要求提供详细清单后，店员态度转变，甚至询问她购车价格并贬低其价值。该女子将经历发到网上，提醒其他车主警惕此类行为。",
+    "highlights_zh": [
+      "首次换机油被报价 6000 美元",
+      "店员称车辆“危险且状况不佳”",
+      "要求清单后遭店员训斥",
+      "提醒网友“别再去了”"
+    ],
+    "entities": [
+      "Midas"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O1RP/s1/woman-goes-to-midas-for-her-first-oil-change-ever.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:36.713Z"
+  },
+  "https://www.motor1.com/news/801083/porsche-gas-macan-production-ends/": {
+    "title_zh": "初代保时捷 Macan 本月停产",
+    "summary_short": "保时捷初代 Macan 将于 7 月底停产，燃油版正式谢幕，电动版后继车型已上市但销量未达预期。",
+    "summary_long": "保时捷初代 Macan 将于本月停产，最后一辆燃油版紧凑型跨界车在莱比锡工厂下线。该车自 2014 年初投产，因未能满足欧盟网络安全法规，已在欧洲停售两年。大众集团 CEO 承认停产决策失误，原以为用户会自然转向电动版，但实际燃油版需求依然强劲。2026 年上半年，燃油版 Macan 交付量达 19,695 辆，超过电动版的 15,620 辆。",
+    "highlights_zh": [
+      "初代 Macan 将于 7 月底停产",
+      "燃油版因欧盟法规已在欧洲停售",
+      "2026 上半年燃油版销量反超电动版",
+      "大众 CEO 承认停产决策失误"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Macan",
+      "大众集团 | Volkswagen Group",
+      "莱比锡工厂"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JJKP4/s1/2022-porsche-macan-s-exterior.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:39.564Z"
+  },
+  "https://insideevs.com/news/801084/ford-affordable-electric-pickup-size-small/": {
+    "title_zh": "福特 3 万美元电动皮卡尺寸解析",
+    "summary_short": "福特将其 3 万美元电动皮卡从“中型”降级为“小型”，但官方称此为笔误，实际仍为中型。",
+    "summary_long": "福特自去年宣布 Universal Electric Vehicle 平台以来，一直将首款基于该平台的电动皮卡定位为中型车。然而，近期谍照显示该车实际尺寸较小，福特在二季度销售报告中首次将其称为“小型”。随后发言人澄清此为笔误，已更正为“中型”。该车预计 2027 年上市，售价约 3 万美元。",
+    "highlights_zh": [
+      "福特 3 万美元电动皮卡尺寸引争议",
+      "官方曾称中型",
+      "谍照显示实际尺寸偏小",
+      "2027 年上市"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Universal Electric Vehicle",
+      "中型",
+      "小型"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8qOvq/s1/a-teaser-of-ford-s-30-000-electric-pickup.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:40.211Z"
+  },
+  "https://www.motor1.com/news/801071/mclaren-788-hs-specs-photos/": {
+    "title_zh": "迈凯伦 788HS：三款超级跑车的最终章",
+    "summary_short": "迈凯伦推出 788HS，作为 720S、750S 和 765LT 系列的终极版本，限量 200 台，拥有 777 马力。",
+    "summary_long": "迈凯伦为 720S、750S 和 765LT 系列画上句号，推出终极版本 788HS（High Sport）。该车搭载双涡轮增压 4.0 升 V8 发动机，输出 777 马力和 590 磅英尺扭矩，0-100 公里/小时加速仅需 2.8 秒，极速 330 公里/小时。788HS 提供硬顶和敞篷版，各限量 100 台，硬顶版干重仅 1265 公斤，功率重量比达 614 马力/吨。新车空气动力学套件源自 F1 技术，下压力比 765LT 提升 10%，可选全碳纤维车身。",
+    "highlights_zh": [
+      "限量 200 台",
+      "777 马力 V8",
+      "干重仅 1265 公斤",
+      "下压力比 765LT 提升 10%"
+    ],
+    "entities": [
+      "迈凯伦 | McLaren",
+      "720S",
+      "750S",
+      "765LT",
+      "788HS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJ7VE/s1/2027-mclaren-788hs.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-09T16:10:43.478Z"
   }
 }
