@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-08T15:37:05.689Z",
+    "generated_at": "2026-07-09T04:11:14.416Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 370,
-    "deepseek_untranslated_before_run": 30,
-    "newly_fetched_articles": 30,
-    "newly_fetched_untranslated": 30,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
+    "newly_fetched_articles": 34,
+    "newly_fetched_untranslated": 34,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 30,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.8",
-        "title": "How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates and Sent Police After Me",
-        "url": "https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.8",
-        "title": "30 Years Ago, Ferrari Automated the Manual Transmission. Now It’s Manualized the Automatic",
-        "url": "https://www.thedrive.com/news/30-years-ago-ferrari-automated-the-manual-transmission-now-its-manualized-the-automatic"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.8",
-        "title": "Toyota Could Be Working On A Hotter Camry",
-        "url": "https://www.motor1.com/news/800894/toyota-camry-hotter-variant/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.8",
-        "title": "Aston Martin Will Keep V12s Alive, If Only Barely: TDS",
-        "url": "https://www.thedrive.com/news/aston-martin-will-keep-v12s-alive-if-only-barely-tds"
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "「2026年版グローバル自動車業界見通し」発表、脱グローバル化と中国勢台頭が加速…アリックスパートナーズ",
+        "url": "https://response.jp/article/2026/07/09/413789.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "「MotoGPには、いつか参戦する」BMWモトラッド首脳が語る…「鈴鹿8耐」表彰台は通過点、次なる野望とは",
-        "url": "https://response.jp/article/2026/07/08/413772.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "「タイムアライメント機能」には2タイプある！ 違いは何？［イン・カー・リスニング学…チューニング編］",
-        "url": "https://response.jp/article/2026/07/08/413768.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "「ついに終わりか～」「最強最速だった」ヤマハ『YZF-R6 レースベース車』生産終了を惜しむ声",
-        "url": "https://response.jp/article/2026/07/08/413774.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "『ランドクルーザーFJ』など3車種、純正アクセサリー後付け開始…トヨタ アップグレード ファクトリー",
-        "url": "https://response.jp/article/2026/07/08/413764.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "1000馬力の1名乗りEV『スピアリングPURE』、0‐96km/h加速1.55秒・最高速305km/h…グッドウッド2026で公開へ",
-        "url": "https://response.jp/article/2026/07/08/413755.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.8",
-        "title": "Man’s Family Road Trip Gets Derailed When A Small Object Bangs Under His Toyota On The Highway. Then He’s Told It’ll Cost $7,000:",
-        "url": "https://www.motor1.com/news/800898/toyota-sienna-damaged/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "ZFの自動車安全インフラを支えるテスト技術、インド政府系試験機関に採用…バッテリー・タイヤ・パワートレインの3分野",
-        "url": "https://response.jp/article/2026/07/08/413762.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "アイシンの文字起こしアプリ「YYSystem」、AIスマートグラス「AiLENS V1」と連携…レンズ部にリアルタイムで文字化した会話内容を表示",
-        "url": "https://response.jp/article/2026/07/08/413766.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "アストンマーティンは高性能「S」モデルが主役、『DB12』、『ヴァンテージ』、『DBX』が集結…グッドウッド2026",
-        "url": "https://response.jp/article/2026/07/08/413751.html"
+        "time": "2026.7.9",
+        "title": "「このサイズ感の車待ってた！」走りのミニバンとして復活!? トヨタ『エスティマ』次期型に期待の声",
+        "url": "https://response.jp/article/2026/07/09/413796.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "アルファード「じゃない」高級車の新提案!! 新型レクサス「TZ」は3列BEVで“ショーファーSUV”になるのか",
-        "url": "https://bestcarweb.jp/feature/column/1564869"
+        "time": "2026.7.9",
+        "title": "【へっぽこバスガイドの珍道中】お客様が観光中にバスガイドは何をしているのか？",
+        "url": "https://bestcarweb.jp/busmagazine/1552128"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.9",
+        "title": "【夏の紫外線対策】運転中の照り返しに勝つ！ そのままお出かけもできる超実力派サングラス",
+        "url": "https://bestcarweb.jp/news/car-accessory/1572559"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.9",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第804回",
+        "url": "https://bestcarweb.jp/feature/column/1562217"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "オートリブと中国長城汽車、グローバル戦略協力協定を締結…国際展開を加速へ",
-        "url": "https://response.jp/article/2026/07/08/413756.html"
+        "time": "2026.7.9",
+        "title": "BASFコーティングス、事業売却完了…新会社「サーヴェンティス」発足",
+        "url": "https://response.jp/article/2026/07/09/413790.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.8",
-        "title": "コンチネンタル、ルノー向けEVタイヤ開発…転がり抵抗35%低減で航続30km延長",
-        "url": "https://response.jp/article/2026/07/08/413761.html"
+        "time": "2026.7.9",
+        "title": "D-SPORTから『コペン』専用サンシェードが発売 ハイカーブ形状に対応した専用設計",
+        "url": "https://response.jp/article/2026/07/09/413797.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "LiDARで駐車場の空き状況をリアルタイム把握、名古屋大学が春日井市で社会実装…空き情報をウェブで公開",
+        "url": "https://response.jp/article/2026/07/09/413793.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "NTTモビリティ、「運行アシスト」提供開始…自動運転レベル4の遠隔運行を統合支援",
+        "url": "https://response.jp/article/2026/07/09/413782.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "アウディ『Q5』新型、木梨憲武氏が1台限りのアートカー制作…全国巡回展示へ",
+        "url": "https://response.jp/article/2026/07/09/413800.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "アライヘルメット、2024年JSB1000チャンピオン・岡本裕生選手のレプリカ『RX-7X オカモト』発売",
+        "url": "https://response.jp/article/2026/07/09/413799.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "シビックの後席USB追加は地味に効く？ マイナーチェンジで高まったファミリーユース適性",
-        "url": "https://bestcarweb.jp/newcar/1563663"
+        "time": "2026.7.9",
+        "title": "ええええ、ライトでこんなことできるんかい!! 新型カロクロで始まったライトの未来がスゴい",
+        "url": "https://bestcarweb.jp/feature/column/1554033"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "ドライバーモニタリング搭載!! 物流の安全を支えるKITARO×ドラレコ販売開始！",
-        "url": "https://bestcarweb.jp/news/1568204"
+        "time": "2026.7.9",
+        "title": "スカイアクティブに水平対向エンジン、VCターボ……「技術」に賭けた珠玉のクルマ選",
+        "url": "https://bestcarweb.jp/feature/column/1569609"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "スズキ、モトクロッサー『RM-Z250/450』2027年モデルを12月発売へ FIM音量規制に対応、足回りの進化も",
+        "url": "https://response.jp/article/2026/07/09/413795.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "スズキ『ジムニー シエラ』『ジムニー ノマド』用、AWIN製GOZELパーツを全国のスズキ販売店で発売…7月24日より",
+        "url": "https://response.jp/article/2026/07/09/413780.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.9",
+        "title": "バイオ燃料「サステオ」でトラック輸送開始、ユーグレナと丸紅が荷主参加型の脱炭素物流モデル構築",
+        "url": "https://response.jp/article/2026/07/09/413786.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "フルセグにHDMI対応!! エクリプスの新型カーナビRS/RBSシリーズが登場!!",
-        "url": "https://bestcarweb.jp/news/1568205"
+        "time": "2026.7.9",
+        "title": "バッテリーEV大型トラックの「電費」はどれくらい？ ダイムラートラックが実運送でのデータを公開！",
+        "url": "https://bestcarweb.jp/fullload/1571724"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.8",
-        "title": "一体なにが起きた!? 波乱の最終日……新井大輝選手が「ラリー人生最悪」と語るローマラウンドを振り返る",
-        "url": "https://bestcarweb.jp/news/motorsport/1573973"
+        "time": "2026.7.9",
+        "title": "ランクル250の最上級モデル装備がさすがの一言!! 街乗りSUVを黙らせるZX専用の本格オフロードシステムにシビれる！",
+        "url": "https://bestcarweb.jp/feature/column/1570445"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.9",
+        "title": "内装もエンジンもランクル250と共通なの!? 街乗りでも感じられる新型ハイラックスの進化",
+        "url": "https://bestcarweb.jp/newcar/1568176"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.9",
+        "title": "売れるんだよなぁ…ホンダフィットが7/10にマイチェン発売!! 新グレード「Z」はスポーティと快適性と価格の「いいとこどり」",
+        "url": "https://bestcarweb.jp/newcar/1573129"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 30,
-    "queued_articles": 30,
-    "processed": 30,
-    "started_at": "2026-07-08T15:37:06.014Z",
-    "finished_at": "2026-07-08T15:38:20.812Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-07-09T04:11:14.746Z",
+    "finished_at": "2026-07-09T04:12:33.169Z",
     "success": true,
     "error": ""
   }
