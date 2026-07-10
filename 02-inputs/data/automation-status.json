@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-09T16:09:34.547Z",
+    "generated_at": "2026-07-10T04:11:57.657Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 367,
-    "deepseek_untranslated_before_run": 33,
-    "newly_fetched_articles": 33,
-    "newly_fetched_untranslated": 33,
+    "deepseek_translated_before_run": 362,
+    "deepseek_untranslated_before_run": 38,
+    "newly_fetched_articles": 38,
+    "newly_fetched_untranslated": 38,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 33,
+    "translation_queue_count": 38,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.9",
-        "title": "Audi F1 Academy Driver Emma Felbermayr on Her Journey From Karting to the Global Spotlight",
-        "url": "https://www.thedrive.com/news/audi-f1-academy-driver-emma-felbermayr-on-her-journey-from-karting-to-the-global-spotlight"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.9",
-        "title": "Toyota Delays 2027 Highlander EV As Demand For Gas Model Remains Robust",
-        "url": "https://insideevs.com/news/801150/toyota-highlander-ev-launch-delayed/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.9",
-        "title": "This Company Built A Simulated Manual For Ferraris Before Ferrari Did",
-        "url": "https://www.motor1.com/news/801058/ferrari-manual-quick-shift-rezvani/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.9",
-        "title": "Ruf Just Brought Back the Flat-Eight Engine With a Clean Sheet Design Making 1,000+ HP",
-        "url": "https://www.thedrive.com/news/ruf-just-brought-back-the-flat-eight-engine-with-a-clean-sheet-design-making-1000-hp"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.9",
-        "title": "NHTSA Says Robotaxis Need to Stop Holding Up First Responders Already: TDS",
-        "url": "https://www.thedrive.com/news/nhtsa-says-robotaxis-need-to-stop-holding-up-first-responders-already-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.9",
-        "title": "China's New Supercar Packs 1,500 Horsepower And Stunning Looks",
-        "url": "https://www.motor1.com/news/801102/denza-z-supercar-debut-china/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.9",
-        "title": "The New Mercedes-AMG CLA EV’s Huge Power Comes From Three Tiny Motors",
-        "url": "https://insideevs.com/news/801128/mercedes-amg-cla-45-axial-flux-motors/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.9",
-        "title": "The Mercedes-AMG CLA 45 Is Back, And It's Electric",
-        "url": "https://www.motor1.com/news/801122/mercedes-amg-cla-45-electric/"
+        "source": "Response.jp",
+        "time": "2026.7.10",
+        "title": "「WALD」とコラボ、Bruno特別仕様は5台限定…東京キャンピングカーショー2026で初公開へ",
+        "url": "https://response.jp/article/2026/07/10/413849.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "「カロッツェリア」ブランド40周年、パイオニアがブランディング賞を受賞…用品大賞2026",
-        "url": "https://response.jp/article/2026/07/09/413813.html"
+        "time": "2026.7.10",
+        "title": "「サブウーファー」の音は、どう聴こえるのが正解？［低音を制する者はカーオーディオを制す］",
+        "url": "https://response.jp/article/2026/07/10/413851.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.10",
+        "title": "「やっぱセダンはかっこいい」トヨタ最強セダン爆誕か？『GRカムリ』の可能性にSNSで注目集まる",
+        "url": "https://response.jp/article/2026/07/10/413853.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "「より速く」の終焉──名車たちの挑戦から紐解く、これからのスポーツカーに必要なものとは!?",
-        "url": "https://bestcarweb.jp/feature/column/1570271"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む",
-        "url": "https://response.jp/article/2026/07/09/413816.html"
+        "time": "2026.7.10",
+        "title": "【バス運転士日誌】なぜ記者が対象に!? 添乗監査ってなんなんだよぉ～……？",
+        "url": "https://bestcarweb.jp/busmagazine/1545091"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "9万3500円差ならターボ推し!? タント ファンクロスを買うならNAかターボか",
-        "url": "https://bestcarweb.jp/feature/column/1565359"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.9",
-        "title": "Chrysler Salesman Says He’d Never Buy A Pacifica. Then He Reveals The Real Reason Why: 'Chrysler Was Never On My List'",
-        "url": "https://www.motor1.com/news/801037/is-chrysler-pacifica-worth-it/"
+        "time": "2026.7.10",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第805回",
+        "url": "https://bestcarweb.jp/feature/column/1562441"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "E2E自動運転向け大規模GPUインフラ構築へ、チューリングとBIPROGYが資本業務提携",
-        "url": "https://response.jp/article/2026/07/09/413819.html"
+        "time": "2026.7.10",
+        "title": "8/25申込締切 BEV一本槍の終焉、その次にくる論点～電動車は誰が最後まで面倒を見るのか～",
+        "url": "https://response.jp/article/2026/07/10/413831.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "JVCケンウッド、米IP無線企業SLAを完全子会社化…ハイブリッド無線領域に本格参入",
-        "url": "https://response.jp/article/2026/07/09/413815.html"
+        "time": "2026.7.10",
+        "title": "BYD 12万人の技術力と日本市場への本気度は？…今週のビジネス記事ランキング",
+        "url": "https://response.jp/article/2026/07/10/413843.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "VWグループ、V2G技術を量産市場へ…EVバッテリーを仮想発電所として活用",
-        "url": "https://response.jp/article/2026/07/09/413821.html"
+        "time": "2026.7.10",
+        "title": "JFEエンジニアリングと住友三井オートサービス、バッテリー交換式EVの社会実装に向けて提携",
+        "url": "https://response.jp/article/2026/07/10/413839.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "オートバックス生駒店、奈良県に7月10日オープン…オートバックスカーズも同日開店",
-        "url": "https://response.jp/article/2026/07/09/413825.html"
+        "time": "2026.7.10",
+        "title": "JR両国駅ホームにGTマシンが登場、「SUPER GT CONNECT FES 2026」…7月12日開催",
+        "url": "https://response.jp/article/2026/07/10/413858.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "クルマの“静けさ”は後から作れる？ DIY静音処理で車内の質感を高める方法～Weeklyメンテナンス～",
-        "url": "https://response.jp/article/2026/07/09/413822.html"
+        "time": "2026.7.10",
+        "title": "KTM『XC/XC-F』シリーズ6モデル登場、新グラフィックと電子制御を採用 123万9000円から",
+        "url": "https://response.jp/article/2026/07/10/413848.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.10",
+        "title": "ZFと中国の建設機械XCMG、農業機械分野で合弁会社設立へ",
+        "url": "https://response.jp/article/2026/07/10/413840.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.9",
-        "title": "スバルがマイルドハイブリッド車の販売終了を発表!! 今後はストロングハイブリッドに注力！",
-        "url": "https://bestcarweb.jp/newcar/1575523"
+        "time": "2026.7.10",
+        "title": "クルマのドライバー目線で見るとあまりにも理不尽!? 自転車を避けようとして黄色いセンターラインを越えたら即切符を切られるのか？",
+        "url": "https://bestcarweb.jp/news/entame/1572685"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.9",
-        "title": "ゼンリン、別府市・由布市と観光DX協定を締結…「STLOCAL」で温泉郷の周遊促進へ",
-        "url": "https://response.jp/article/2026/07/09/413820.html"
+        "time": "2026.7.10",
+        "title": "コンチネンタル、自社初の風力発電所を建設へ…独タイヤ工場の電力需要の約3分の2をまかなう",
+        "url": "https://response.jp/article/2026/07/10/413852.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.10",
+        "title": "こんなエルフミオもアリ!? いすゞが東京アウトドアショー2026で見せたオーバーランドスタイルがカッコいい!!",
+        "url": "https://bestcarweb.jp/fullload/1572149"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.10",
+        "title": "スズキ、エンストの恐れで『スペーシア』や『ハスラー』など4車種50万459台リコール［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/07/10/413838.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.10",
+        "title": "スズキ『クロスビー』用ボディキット2種、ダムドが同時発売 「可愛い」と「ワイルド」の対極スタイルを提案",
+        "url": "https://response.jp/article/2026/07/10/413854.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.10",
+        "title": "スズキ『ジムニー』専用の私有地オフロード体験「野火」山梨県で開始、サウナ・五右衛門風呂も完備",
+        "url": "https://response.jp/article/2026/07/10/413855.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.10",
+        "title": "スペーシアギアとN-BOX JOYを徹底比較!! 遊べる軽スーパーハイトはどっちが買いか？",
+        "url": "https://bestcarweb.jp/feature/column/1565839"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.10",
+        "title": "セレナの顔付きをよりゴージャスに!! フロントダイナミックパックは付けたほうがいい？",
+        "url": "https://bestcarweb.jp/feature/column/1564302"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.10",
+        "title": "ドゥカティ神奈川イースト、7月11日オープン 川崎市に新拠点",
+        "url": "https://response.jp/article/2026/07/10/413857.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29032324724",
-    "sha": "1a12d866123811768fa0e2cd5fe3a806adeb0cf0",
-    "completed_at": "2026-07-09T16:10:43.792Z",
+    "run_id": "29068477424",
+    "sha": "3703ff7bca2435cb93108ae4180000dfb9a032c3",
+    "completed_at": "2026-07-10T04:13:18.742Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 33,
-    "queued_articles": 33,
-    "processed": 33,
-    "started_at": "2026-07-09T16:09:34.874Z",
-    "finished_at": "2026-07-09T16:10:43.500Z",
+    "scoped_articles": 38,
+    "queued_articles": 38,
+    "processed": 38,
+    "started_at": "2026-07-10T04:11:57.981Z",
+    "finished_at": "2026-07-10T04:13:18.460Z",
     "success": true,
     "error": ""
   }
