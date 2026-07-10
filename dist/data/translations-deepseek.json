@@ -70008,5 +70008,839 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-10T04:13:18.439Z"
+  },
+  "https://insideevs.com/news/801289/us-q2-ev-sales-post-tax-credit/": {
+    "title_zh": "美国 Q2 电动车销量反弹至补贴取消后最高水平",
+    "summary_short": "美国 Q2 电动车销量环比增长 14.2%，达 247,226 辆，为联邦补贴取消后最佳季度，市场逐步企稳。",
+    "summary_long": "根据 Cox Automotive 数据，2026 年第二季度美国电动车销量达 247,226 辆，环比增长 14.2%，为去年 9 月联邦税收抵免取消以来最高水平。尽管同比仍下降 20.5%，但季度增长表明市场正从政策冲击中恢复。特斯拉以 124,800 辆销量领先，Model Y 和 Model 3 分别环比增长 8%和 10%。现代 Ioniq 5 和丰田 bZ 位列第三、第四。",
+    "highlights_zh": [
+      "Q2 销量 247",
+      "为补贴取消后最佳季度",
+      "特斯拉售出 124",
+      "Model Y 以 84"
+    ],
+    "entities": [
+      "Cox Automotive",
+      "特斯拉 | Tesla",
+      "现代 Ioniq 5 | Hyundai Ioniq 5",
+      "丰田 bZ | Toyota bZ",
+      "Model Y"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlVOj/s1/q2-2026-ev-sales.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:44.092Z"
+  },
+  "https://www.thedrive.com/news/24-hours-this-diecast-mazda-787b-has-been-driving-on-a-belt-sander-for-11-days": {
+    "title_zh": "风火轮马自达 787B 在砂带机上跑了 11 天",
+    "summary_short": "风火轮马自达 787B 模型车在砂带机上连续行驶 11 天，累计里程超过 3 万比例英里，远超地球周长。",
+    "summary_long": "一项始于新奇实验的玩具耐力测试演变为真正的折磨挑战。风火轮马自达 787B 模型车在砂带机上连续行驶 284 小时，累计比例里程超过 3 万英里，远超地球周长（2.49 万英里）。此前一辆丰田 Soarer 仅坚持 3 天，而这款勒芒冠军模型已持续运行 11 天，实际测量距离达 478 英里。",
+    "highlights_zh": [
+      "连续行驶 284 小时",
+      "累计比例里程超 3 万英里",
+      "实际测量距离 478 英里",
+      "远超 1991 年真实勒芒冠军里程"
+    ],
+    "entities": [
+      "风火轮 | Hot Wheels",
+      "马自达 | Mazda",
+      "马自达 787B | Mazda 787B",
+      "砂带机",
+      "耐力测试"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Mazda-Diecast-Endurance-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-10.09.18-AM.png?strip=all",
+      "https://i.ytimg.com/vi/pW7p96d7GGg/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:44.323Z"
+  },
+  "https://insideevs.com/news/801174/nhtsa-robotaxi-av-first-responders/": {
+    "title_zh": "联邦监管机构对 Robotaxi 阻碍急救人员忍无可忍",
+    "summary_short": "NHTSA 致函 Robotaxi 运营商，要求改善自动驾驶汽车在紧急情况下与急救人员的互动，称当前状况不可接受。",
+    "summary_long": "美国国家公路交通安全管理局（NHTSA）致函 Robotaxi 运营商，明确要求改进自动驾驶汽车在紧急情况下与急救人员的互动。NHTSA 指出，紧急场景并非罕见或极端边缘案例，当前行业状况“不可接受”。近年来，自动驾驶汽车多次出现撞上消防车、驶入施工区、被警察拦截等混乱行为，引发公众关注。",
+    "highlights_zh": [
+      "NHTSA 要求 Robotaxi 改善与急救人员的…",
+      "紧急场景并非罕见或极端边缘案例",
+      "自动驾驶汽车曾多次撞上消防车、驶入施工区",
+      "当前行业状况被指“不可接受”"
+    ],
+    "entities": [
+      "NHTSA",
+      "Robotaxi"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/OoMAnl/s1/waymo-driver-highway-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:47.839Z"
+  },
+  "https://www.motor1.com/news/801295/volkswagen-group-poor-sales-results-china/": {
+    "title_zh": "大众集团再陷困境：中国销量暴跌 36.6%",
+    "summary_short": "大众集团二季度全球销量下滑 8.6%，中国区暴跌 36.6%，新兴市场未能弥补缺口。",
+    "summary_long": "大众集团二季度全球销量同比下滑 8.6%，主要受中国市场拖累。在华销量 4-6 月骤降 36.6%，上半年累计下降 25.9%。尽管拉丁美洲和欧洲市场实现增长，但无法抵消中国及亚太其他地区的颓势。大众销售高管表示，中国整体市场萎缩约 20%，新推出的本土化电动车未能扭转局面。",
+    "highlights_zh": [
+      "全球销量下滑 8.6%",
+      "中国区二季度暴跌 36.6%",
+      "拉美销量增长 9.4%",
+      "欧洲市场小幅增长"
+    ],
+    "entities": [
+      "大众集团 | Volkswagen Group",
+      "中国",
+      "拉丁美洲",
+      "欧洲"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWgyK/s1/2027-volkswagen-atlas.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:47.899Z"
+  },
+  "https://www.motor1.com/news/801158/premium-gas-pricing/": {
+    "title_zh": "美国司机因高油价避开高标号汽油",
+    "summary_short": "高油价导致美国许多豪华车和性能车车主放弃高标号汽油，改用普通汽油以节省开支，但可能引发发动机问题。",
+    "summary_long": "根据 AAA 燃油价格数据，7 月美国汽油均价已跌破 4 美元，但司机仍感油价压力。6 月高油价导致许多豪华车和性能车车主放弃高标号汽油，改用更便宜的普通汽油。Upside 应用数据显示，6 月 22 日至 25 日高标号汽油销量较 2 月下降 5%，中档汽油下降 2%，而普通汽油销量飙升 10%。GasBuddy 分析师指出，高标号汽油用户转向普通汽油是常见现象。但许多车型要求使用高标号汽油，否则可能导致发动机爆震甚至永久性损坏。",
+    "highlights_zh": [
+      "高标号汽油销量下降 5%",
+      "普通汽油销量飙升 10%",
+      "使用低标号汽油可能损坏发动机"
+    ],
+    "entities": [
+      "AAA",
+      "Upside",
+      "GasBuddy",
+      "马自达 | Mazda"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YQGo/s1/gas-pumps.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:51.435Z"
+  },
+  "https://www.thedrive.com/car-reviews/honda-e-clutch-review": {
+    "title_zh": "本田 E-Clutch：让受伤骑手重拾骑行乐趣",
+    "summary_short": "本田 E-Clutch 半自动换挡系统，让因手部受伤无法骑车的作者重新上路，兼顾便利与驾驶乐趣。",
+    "summary_long": "本田 E-Clutch 是一种独特的半自动离合器系统，在简化操作的同时保留了骑行的灵魂。作者因严重手部受伤无法操作传统离合器，但 E-Clutch 让他重新享受摩托车骑行。CB650R E-Clutch 平衡了现代感与经典韵味，既活泼又不令人生畏。离合器可设为自动，但换挡仍需骑手操作，适合新手和寻求技术升级的老手。",
+    "highlights_zh": [
+      "E-Clutch 半自动换挡",
+      "保留手动换挡",
+      "CB650R 平衡现代与经典",
+      "作者因手伤无法骑行"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CB650R E-Clutch",
+      "E-Clutch",
+      "半自动离合器"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/eclutch-hand-top.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/motion-rightbound.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/heroic-CB650R-IMG_1204.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:52.005Z"
+  },
+  "https://www.thedrive.com/news/toyota-wanted-to-replace-the-highlander-with-an-ev-its-already-delayed-tds": {
+    "title_zh": "丰田计划用电动车取代汉兰达，但已推迟",
+    "summary_short": "丰田原定年底上市的汉兰达 EV 因“额外调整”推迟，燃油版和混动版将继续生产。",
+    "summary_long": "丰田原计划在今年年底推出汉兰达 EV，以取代燃油版汉兰达，但官方宣布因“额外调整”而推迟上市，新上市时间未定。在此期间，燃油版和混动版汉兰达将继续生产。",
+    "highlights_zh": [
+      "汉兰达 EV 原定年底上市",
+      "因额外调整推迟",
+      "燃油版和混动版继续生产"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "汉兰达 | Highlander"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Highlander-10.png",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_4873-e1782941106261.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:53.977Z"
+  },
+  "https://www.motor1.com/news/801144/bmw-x5-off-roader-reason/": {
+    "title_zh": "宝马解释为何 X5 不更专注于越野",
+    "summary_short": "宝马 X5 已足够应对多数车主需求，且可能推出全新硬派越野车型对标卫士和 G 级。",
+    "summary_long": "尽管老款宝马 X5 提供越野套件（含空气悬架、后桥差速锁、底盘护板及全地形轮胎），但全新 2027 款 G65 X5 并未进一步强化越野能力。宝马豪华、Alpina 及劳斯莱斯高级副总裁 Philip Koehn 表示，提升越野性能并非 X5 的首要任务，新车已是史上最强越野能力的 X5。此外，宝马可能正在开发代号 G74 的全新硬派越野车型，以对标路虎卫士和奔驰 G 级。",
+    "highlights_zh": [
+      "老款 X5 可选越野套件",
+      "宝马高管称越野非 X5 首要任务",
+      "新车已是史上最强越野能力的 X5",
+      "宝马或推 G74 硬派越野车对标卫士和 G 级"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 X5 | BMW X5",
+      "路虎卫士 | Land Rover Defender",
+      "奔驰 G 级 | Mercedes-Benz G-Class"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z83rN/s1/2027-bmw-ix5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:56.205Z"
+  },
+  "https://insideevs.com/news/801269/audi-usa-ev-sales-q2-h1-2026/": {
+    "title_zh": "美国人就是不买奥迪电动车",
+    "summary_short": "奥迪上半年在美国仅售出 1730 辆电动车，Q6 e-tron 销量最高也仅 1058 辆，市场表现惨淡。",
+    "summary_long": "奥迪在美国电动车市场遭遇困境，尽管拥有 Q6 e-tron、A6 e-tron 等充电快、续航足的车型，但消费者兴趣寥寥。2026 年上半年，奥迪在美国仅售出 1730 辆电动车，其中第二季度交付 1088 辆。最畅销的 Q6 e-tron 也只卖出 1058 辆，而 Q4 e-tron 更是仅有 158 辆。甚至更昂贵的 e-tron GT 销量都超过了 Q4 e-tron。",
+    "highlights_zh": [
+      "上半年仅售 1730 辆电动车",
+      "Q6 e-tron 销量最高",
+      "Q4 e-tron 仅 158 辆"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q6 e-tron",
+      "A6 e-tron",
+      "Q4 e-tron",
+      "e-tron GT"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WENKA/s1/audi-usa-sales.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:40:57.732Z"
+  },
+  "https://response.jp/article/2026/07/10/413887.html": {
+    "title_zh": "本田飞度中期改款：新增“Z”型，RS 风格下放",
+    "summary_short": "本田飞度中期改款，新增“Z”型采用 RS 同款运动外观，RS 配置升级，起售价约 180.6 万日元。",
+    "summary_long": "本田对紧凑型车飞度进行了中期改款，新增“Z”型，其外观采用与 RS 相同的运动风格设计，内饰为黑色基调，标配座椅加热和 UV+IR 隔热玻璃。RS 型则升级了黑色格栅、红色缝线座椅、运动踏板、无线充电和方向盘加热等配置。车系调整为 X、Z、RS 和 CROSSTAR 四种类型，起售价 180.62 万日元。",
+    "highlights_zh": [
+      "新增“Z”型",
+      "RS 型配置升级",
+      "全系标配座椅加热和隔热玻璃",
+      "起售价约 180.6 万日元"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "飞度",
+      "RS",
+      "Z",
+      "CROSSTAR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226482.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226482.jpg",
+      "https://response.jp/imgs/fill2/2226302.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:01.437Z"
+  },
+  "https://response.jp/article/2026/07/10/413880.html": {
+    "title_zh": "现代推出“Premium Care”服务，提供 4 年后 40%残值保证等四项安心保障",
+    "summary_short": "现代日本推出 Premium Care 服务，包含 4 年后 40%残值保证、30 天退车保障及免费保养等四项安心保障。",
+    "summary_long": "现代汽车日本公司于 7 月 10 日推出“Hyundai Premium Care”服务，从购车到售后全程支持。该服务基于客户反馈，将购车、保养、转售各阶段的不安整理为“四项安心”。第一项为残值保证，预先设定未来回购价格，4 年后残值保证 40%，适用于 INSTER 和 NEXO 车型。第二项为满意保证，交车后 30 天内且行驶里程 1000 公里以内可退车。第三项为 Hyundai Assurance Program（HAP），提供新车注册后前 3 年（NEXO 为 4 年）的免费法定检查、车检基本费用及 IONIQ 5 的电池冷却液更换等。",
+    "highlights_zh": [
+      "4 年后 40%残值保证",
+      "30 天内 1000 公里内可退车",
+      "前 3 年免费法定检查及车检费用",
+      "IONIQ 5 免费更换电池冷却液"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "INSTER",
+      "NEXO",
+      "IONIQ 5",
+      "Premium Care"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226439.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226439.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:01.455Z"
+  },
+  "https://response.jp/article/2026/07/10/413869.html": {
+    "title_zh": "「Route Compass AI」自动生成配送计划，应对 2024 问题",
+    "summary_short": "common 公司推出 AI 服务「Route Compass AI」，可在数十秒内自动生成符合法规的配送计划，应对物流 2024 问题。",
+    "summary_long": "common 株式会社推出 AI 服务「Route Compass AI」，可自动创建集货与配送路线计划。该服务能在考虑多个集货点、配送点、基地以及自营与外包混合作业等复杂现实条件的同时，遵守驾驶员劳动时间法规（2024 问题），在数十秒内生成运输成本最低的计划。",
+    "highlights_zh": [
+      "数十秒自动生成配送计划",
+      "应对驾驶员劳动时间法规",
+      "支持多基地与混合作业",
+      "最小化运输成本"
+    ],
+    "entities": [
+      "common",
+      "Route Compass AI",
+      "2024 问题"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226331.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226331.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:05.042Z"
+  },
+  "https://bestcarweb.jp/feature/column/1553917": {
+    "title_zh": "【今更问不出口!?】这，是什么缩写？汽车界缩写猜谜「BEV」",
+    "summary_short": "汽车行业缩写 BEV 代表 Battery Electric Vehicle，即纯电动汽车，仅靠电池供电行驶。",
+    "summary_long": "BEV 是 Battery Electric Vehicle 的缩写，指完全依靠车载大容量电池供电行驶的纯电动汽车，不搭载汽油发动机。充电方式分为普通充电（夜间或日间在家/办公室）和快速充电（长途途中补给），例如日产 Sakura 就同时配备普通和快速充电接口。",
+    "highlights_zh": [
+      "BEV 是 Battery Electric Veh…",
+      "纯电动汽车",
+      "充电方式：普通充电和快速充电",
+      "日产 Sakura 配备两种充电接口"
+    ],
+    "entities": [
+      "Battery Electric Vehicle",
+      "日产 | Nissan",
+      "日产 Sakura",
+      "纯电动汽车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18160843/00b.png?v=1781766524",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18160843/00b-600x400.png?v=1781766524",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03173142/00_jpn-clng_2000-2010_head-600x400.jpg?v=1783067504"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:06.273Z"
+  },
+  "https://response.jp/article/2026/07/10/413878.html": {
+    "title_zh": "BBS 日本锻造轮圈 FL 获日刊汽车新闻用品大奖 2026 最高奖",
+    "summary_short": "BBS 日本旗舰锻造轮圈 FL 采用新材质 FORTEGA，轻量化约 10%，获日刊汽车新闻用品大奖 2026 最高奖。",
+    "summary_long": "BBS 日本宣布其旗舰锻造一体轮圈 FL 荣获第 40 届日刊汽车新闻用品大奖 2026 最高奖。该奖项创立于 1987 年，旨在推动汽车用品行业发展。FL 采用 BBS 自主研发的新铝合金材料 FORTEGA，相比传统铝合金减重约 10%，兼具高刚性和轻量化。",
+    "highlights_zh": [
+      "BBS 日本 FL 轮圈获最高奖",
+      "采用新材质 FORTEGA",
+      "比传统铝合金轻 10%",
+      "旗舰锻造一体式设计"
+    ],
+    "entities": [
+      "BBS 日本",
+      "FL",
+      "FORTEGA",
+      "日刊汽车新闻用品大奖"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226382.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226382.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:08.703Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564897": {
+    "title_zh": "GRMN 卡罗拉发布：舍弃后排的终极两座版，丰田的认真与疯狂",
+    "summary_short": "丰田发布 GRMN 卡罗拉，基于 GR 卡罗拉打造，移除后排座椅变为两座，专注赛道性能。",
+    "summary_long": "2026 年 6 月 2 日，GAZOO Racing 发布了 GRMN 卡罗拉，这是 GR 卡罗拉的顶级型号。该车基于 GR 卡罗拉打造，融入了超级耐久系列赛和纽博格林赛道的经验，对车身、底盘、空气动力学和冷却系统进行了全面升级。为追求轻量化，后排座椅被移除，改为两座布局。空气动力学套件源自氢燃料 GR 卡罗拉赛车，并配备专用单管减震器、回弹弹簧和可变角度尾翼。车身结构胶涂布长度增加至 32.7 米，并采用冷空气导管以抑制进气温度上升。",
+    "highlights_zh": [
+      "移除后排座椅",
+      "空气动力学套件源自氢燃料赛车",
+      "车身结构胶涂布延长至 32.7 米",
+      "配备专用单管减震器和可变尾翼"
+    ],
+    "entities": [
+      "GRMN 卡罗拉",
+      "GR 卡罗拉",
+      "GAZOO Racing",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30185811/9e27d8926c12e413cf49b755ba0c3e3f-11.jpg?v=1782813492",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30185811/9e27d8926c12e413cf49b755ba0c3e3f-11-600x338.jpg?v=1782813492",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03173142/00_jpn-clng_2000-2010_head-600x400.jpg?v=1783067504"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:11.012Z"
+  },
+  "https://bestcarweb.jp/feature/column/1569148": {
+    "title_zh": "GT-R、思域、马自达再掀热潮：日本车巅峰轨迹",
+    "summary_short": "回顾 2000-2010 年代日本挑战性车型：GT-R、欧蓝德 PHEV、CX-5 等，展现日本车从锐利到主流的转变。",
+    "summary_long": "日本车从过去的“锐利存在”逐渐成为全球主流，但并未止步。本文回顾 2000-2010 年代日本挑战性车型：日产 GT-R 以绝对速度挑战世界强敌，在纽博格林创下佳绩；三菱欧蓝德 PHEV 作为首款量产 SUV 插电混动，开创先河；马自达 CX-5 首次融合 SKYACTIV 技术与魂动设计，将 SUV 推向时尚前沿，其柴油发动机以低压缩比和顺畅驾驶感受赢得认可。",
+    "highlights_zh": [
+      "日产 GT-R 以纽博格林佳绩震惊世界",
+      "三菱欧蓝德 PHEV 开创量产 SUV 插混先河",
+      "马自达 CX-5 融合 SKYACTIV 与魂动设计",
+      "日本车从锐利转向主流仍持续挑战"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "GT-R",
+      "三菱 | Mitsubishi",
+      "欧蓝德 PHEV",
+      "马自达 | Mazda"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03173142/00_jpn-clng_2000-2010_head.jpg?v=1783067504",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03173142/00_jpn-clng_2000-2010_head-600x400.jpg?v=1783067504",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18160843/00b-600x400.png?v=1781766524"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:12.718Z"
+  },
+  "https://www.motor1.com/news/801168/o-reilly-versus-autozone/": {
+    "title_zh": "老顾客在 AutoZone 遭遇冷漠服务，转投 O'Reilly 并称被“转化”",
+    "summary_short": "一位 20 年 AutoZone 老顾客因店员冷漠服务，中途放弃购物转投 O'Reilly，引发网友对客服重要性的热议。",
+    "summary_long": "一位自称 20 年 AutoZone 老顾客的汽车音响安装师，在购买刹车清洁剂和开口销时遭遇店员冷漠对待——店员仅简单问候后便躲到柜台后。他放弃交易，转而前往附近的 O'Reilly Auto Parts，并称被其优质服务“转化”。该视频在 TikTok 上引发共鸣，许多现任及前任员工参与讨论，凸显客户服务对品牌忠诚度的影响。",
+    "highlights_zh": [
+      "20 年老顾客因冷漠服务转投竞品",
+      "AutoZone 店员问候后躲到柜台后",
+      "O'Reilly 服务获赞",
+      "视频引发员工与顾客对客服的讨论"
+    ],
+    "entities": [
+      "AutoZone",
+      "O'Reilly Auto Parts",
+      "TikTok",
+      "客户服务"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3EBo/s1/man-goes-to-autozone.-then-he-walks-out-and-goes-to-o-reilly.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:15.363Z"
+  },
+  "https://response.jp/article/2026/07/10/413876.html": {
+    "title_zh": "NOK 约 40 年来首次更新工作制服，迎接创立 85 周年",
+    "summary_short": "NOK 为纪念创立 85 周年，时隔约 40 年全面更新工作制服，由佐藤可士和监修，注重安全、品质与舒适性。",
+    "summary_long": "NOK 于 7 月 9 日宣布，为迎接创立 85 周年，将时隔约 40 年全面更新生产现场及研究基地等工作制服。新制服由创意总监佐藤可士和（SAMURAI）监修，采用反映企业标识（CI）的统一设计，计划 10 月起从国内事业场陆续启用。开发过程中，以“保护穿着者安全”“不影响产品品质”“提升功能性与舒适性”为优先事项，通过超 4300 份问卷、170 人面对面访谈、全生产基地试穿及安全品质部门验证，最终确定规格。",
+    "highlights_zh": [
+      "约 40 年来首次更新工作制服",
+      "由佐藤可士和监修",
+      "基于 4300 份问卷和 170 人访谈开发",
+      "10 月起从国内事业场陆续启用"
+    ],
+    "entities": [
+      "NOK",
+      "佐藤可士和",
+      "SAMURAI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226359.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226359.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:17.726Z"
+  },
+  "https://press.piaggiogroup.com/en_EN/post/show/354321/two-italian-icons-meet-in-new-.html": {
+    "title_zh": "两大意大利标志在纽约相遇",
+    "summary_short": "一辆独一无二的 Vespa 致敬意大利海军最负盛名的舰船 Amerigo Vespucci，在纽约展出。",
+    "summary_long": "一辆独一无二的 Vespa 摩托车在纽约与意大利海军训练舰 Amerigo Vespucci 相遇，以此向这艘最负盛名的舰船致敬。该特别版 Vespa 采用与舰船相呼应的涂装设计，融合了意大利海军传统与 Vespa 的经典美学，成为两大意大利标志的完美结合。",
+    "highlights_zh": [
+      "独一无二的 Vespa 致敬意大利海军舰船",
+      "在纽约与 Amerigo Vespucci 号相遇",
+      "融合海军传统与 Vespa 经典设计"
+    ],
+    "entities": [
+      "Vespa",
+      "Amerigo Vespucci",
+      "意大利海军",
+      "纽约"
+    ],
+    "gallery_images": [
+      "https://media.lulop.com/media/getimage/l/354321/4/640,480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:18.985Z"
+  },
+  "https://response.jp/article/2026/07/10/413864.html": {
+    "title_zh": "MK 汽车推出自带机油更换服务，仅收基本工时费 500 日元",
+    "summary_short": "MK 汽车为应对中东局势导致的机油供应问题，推出自带机油更换服务，仅收基本工时费 500 日元。",
+    "summary_long": "MK 汽车旗下车辆维修部门 MK 汽车宣布，受中东局势等因素影响，发动机机油供应环境发生变化。为应对这一情况，该店将积极接受顾客从其他店铺或网购渠道购买的发动机机油，进行自带机油更换服务，仅收取基本工时费，不额外加收费用。近年来，中东局势不稳定以及原材料和物流成本波动，导致部分机油产品供应不稳定、价格上涨。维修厂难以常备所有品牌和粘度的机油，预约或到店时需临时应对的情况增多。",
+    "highlights_zh": [
+      "自带机油更换仅收 500 日元基本工时费",
+      "应对中东局势导致的机油供应不稳定",
+      "接受其他店铺或网购渠道购买的机油",
+      "解决维修厂难以常备所有机油的问题"
+    ],
+    "entities": [
+      "MK 汽车",
+      "中东局势",
+      "发动机机油",
+      "工时费"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226313.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226313.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:21.684Z"
+  },
+  "https://bestcarweb.jp/news/1568214": {
+    "title_zh": "导航厂商的易用性！先锋“COCCHi”适配 CX-5",
+    "summary_short": "先锋推出云导航应用 COCCHi for Automotive，首款适配车型为新一代马自达 CX-5，无需连接手机即可使用。",
+    "summary_long": "随着搭载谷歌车载信息娱乐系统的车型增多，先锋推出了云导航应用“COCCHi for Automotive”。首款适配车型为 2026 年 5 月发布的新一代马自达 CX-5。该应用可直接从 Google Play 商店下载，无需连接智能手机即可在车载屏幕上使用，针对车载系统优化的界面确保了行驶中的易读性和操作性。",
+    "highlights_zh": [
+      "先锋发布云导航应用 COCCHi for Autom…",
+      "首款适配车型为新一代马自达 CX-5",
+      "无需手机连接",
+      "针对车载系统优化 UI"
+    ],
+    "entities": [
+      "先锋",
+      "马自达 CX-5 | Mazda CX-5",
+      "COCCHi for Automotive",
+      "云导航",
+      "Google 车载信息娱乐系统"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172159/9c4f26c740b8e93bed242f12bc94c375.jpg?v=1783066920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172159/9c4f26c740b8e93bed242f12bc94c375-600x377.jpg?v=1783066920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165344/ALL-TOYOTA-CIRCULAR-STORE.jpg?v=1783065225"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:23.444Z"
+  },
+  "https://bestcarweb.jp/newcar/1563657": {
+    "title_zh": "本田思域即使售价 400 万日元也值得选？SUV 全盛时代为何坚持买掀背车",
+    "summary_short": "本田思域改款后售价高达 400 万日元级，但在 SUV 主导的市场中，其低重心、驾驶乐趣和丰富配置仍具独特价值。",
+    "summary_long": "本田思域于 6 月 4 日完成改款，价格区间从汽油版 394 万日元到 e:HEV RS 版 465 万日元，已不再是传统意义上的平价掀背车。然而，在 SUV 盛行的当下，思域凭借低矮宽大的车身、低重心带来的操控稳定性以及驾驶者与车辆的紧密感，提供了 SUV 难以替代的驾驶乐趣。新增的 e:HEV RS 版本通过 Honda S+ Shift 和专用悬架强化了混动车型的运动感，同时 6 速手动挡汽油 RS 版依然保留。全系标配 Honda SENSING、9 英寸 Google 车载系统、BOSE 音响等高级配置，使其在 400 万日元级别中具备竞争力。",
+    "highlights_zh": [
+      "改款后售价 394 万至 465 万日元",
+      "低重心设计带来出色操控",
+      "新增 e:HEV RS 运动混动版",
+      "全系标配高级安全与娱乐配置"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域",
+      "e:HEV RS",
+      "Honda SENSING",
+      "BOSE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01173912/HONDA-CIVIC-RS_023_.jpg?v=1782895153",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/01173912/HONDA-CIVIC-RS_023_-600x400.jpg?v=1782895153",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09181038/10_kageusu_impreza_24-600x378.jpg?v=1783588240"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:26.402Z"
+  },
+  "https://response.jp/article/2026/07/10/413874.html": {
+    "title_zh": "Smile Company 加入 JPUC，获取示范条款监修编号，提升二手车收购透明度",
+    "summary_short": "Smile Company 宣布加入日本汽车购买协会（JPUC），并取得示范条款监修编号，旨在提升二手车收购流程的透明度与消费者信任。",
+    "summary_long": "Smile Company 宣布加入一般社团法人日本汽车购买协会（JPUC），并已获得该协会的示范条款监修编号。JPUC 成立于 2014 年，以“为一般消费者提供安全、安心的服务”为理念，致力于推动二手车收购行业的健康发展。该协会成员包括二手车收购企业和车辆评估媒体运营企业，并与经济产业省、消费者厅、国民生活中心等机构合作。Smile Company 此举旨在通过遵循行业标准条款，增强业务透明度，提升消费者信心。",
+    "highlights_zh": [
+      "Smile Company 加入 JPUC",
+      "取得示范条款监修编号",
+      "提升二手车收购透明度",
+      "JPUC 成立于 2014 年"
+    ],
+    "entities": [
+      "Smile Company",
+      "日本汽车购买协会 | JPUC",
+      "二手车收购",
+      "示范条款监修编号"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226342.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226342.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:28.040Z"
+  },
+  "https://response.jp/article/2026/07/10/413867.html": {
+    "title_zh": "动态地图平台亮相德国 AVTE 2026，展示 AI 原生数据与交通仿真",
+    "summary_short": "动态地图平台在德国 AVTE 2026 展示 AI 原生数据与高精地图驱动的交通仿真模型，助力自动驾驶开发。",
+    "summary_long": "动态地图平台（Dynamic Map Platform）在德国斯图加特举办的自动驾驶与 ADAS 国际展会 AVTE 2026 上亮相，展示了面向 AI 学习和评估的 AI 原生数据，以及利用高精度 3D 地图数据构建的交通仿真模型。该展会作为 Vehicle Tech Week Europe 的一部分，汇聚了 OEM、Tier 1 供应商、软件企业和研究机构，聚焦自动驾驶、仿真、AI 及软件定义车辆等前沿技术。",
+    "highlights_zh": [
+      "展出 AI 原生数据与高精地图",
+      "构建交通仿真模型",
+      "助力自动驾驶开发与测试",
+      "亮相德国 AVTE 2026 展会"
+    ],
+    "entities": [
+      "动态地图平台",
+      "AVTE 2026",
+      "AI 原生数据",
+      "高精度 3D 地图",
+      "交通仿真"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226325.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226325.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:30.232Z"
+  },
+  "https://response.jp/article/2026/07/10/413866.html": {
+    "title_zh": "大发 Copen 生产结束纪念活动，8 月 31 日见证最后一台下线",
+    "summary_short": "大发 Copen 将于 2026 年 8 月停产，8 月 31 日举办纪念活动，见证最后一台车下线，并邀请参观 Copen 展。",
+    "summary_long": "大发工业宣布，轻量敞篷跑车 Copen 的现款车型将于 2026 年 8 月停产。为此，8 月 31 日将在总部（池田）工厂第二厂区举办第三弹特别活动“OPEN FUTURE DAY”，现场播放最终生产车的制造过程影像，并与参与者共同见证最后一台车驶离生产线。活动同时通过 YouTube Live 直播。此外，现场参与者可受邀参观 9 月 1 日起在总部附属设施“Humobility World”举办的“Copen 展”。报名时间为 7 月 10 日至 7 月 27 日，通过 Copen 特别网站申请，8 月上旬发送中选通知。",
+    "highlights_zh": [
+      "大发 Copen 现款车型 2026 年 8 月停产",
+      "8 月 31 日举办最终生产车下线纪念活动",
+      "活动线上线下同步",
+      "现场参与者可受邀参观 Copen 展"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "COPEN",
+      "轻量敞篷跑车",
+      "停产纪念活动",
+      "Humobility World"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226316.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226316.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:32.862Z"
+  },
+  "https://response.jp/article/2026/07/10/413862.html": {
+    "title_zh": "Toy Factory 10 年后推出新款 ZARA 露营车",
+    "summary_short": "Toy Factory 10 年后推出新款 ZARA 露营车，基于丰田海狮，配备直流冷却系统和无水马桶，将于东京露营车展首发。",
+    "summary_long": "Toy Factory 时隔 10 年推出新款 ZARA 露营车，基于丰田海狮宽体中顶底盘，车身尺寸紧凑（4840×1880×2105mm），可停入限高 2.3 米的立体停车场。新车标配 Alpine 车载直流冷却系统，改善车内睡眠舒适度；并配备无水卷式马桶 clesana X1 专用储物空间，以及可重组床垫。该车将于 2026 年 7 月 11-12 日在东京露营车展首次公开并开始销售。",
+    "highlights_zh": [
+      "10 年后全面改款",
+      "标配直流冷却系统",
+      "无水马桶专用收纳",
+      "可停入立体停车场"
+    ],
+    "entities": [
+      "トイファクトリー",
+      "ザラ",
+      "丰田 | Toyota",
+      "海狮",
+      "东京露营车展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226290.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226290.jpg",
+      "https://response.jp/imgs/fill2/2226296.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:34.509Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556730": {
+    "title_zh": "丰田 Raize 后备箱实测：小型 SUV 也能享受户外乐趣",
+    "summary_short": "丰田 Raize 虽为紧凑型 SUV，但后备箱设计巧妙，双层甲板结构兼顾日常与户外需求，实用性强。",
+    "summary_long": "丰田 Raize 车身尺寸为 3995mm×1695mm，属于 5 号牌小型 SUV，但后备箱实用性超出预期。其采用双层甲板结构，上段便于日常购物和重物装卸，下段可容纳较高物品如户外椅和冷藏箱，甲板下方还有额外储物空间。后排座椅支持 6:4 放倒，放倒后几乎全平，适合两人日间户外活动。价格从 180 万日元起，是一款兼顾日常便利与轻度户外需求的 SUV。",
+    "highlights_zh": [
+      "双层甲板结构",
+      "后排座椅放倒后几乎全平",
+      "甲板下方隐藏储物",
+      "价格亲民"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Raize",
+      "SUV",
+      "后备箱",
+      "双层甲板"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23164223/RockyRaize147_1.jpg?v=1782200544",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23164223/RockyRaize147_1-600x400.jpg?v=1782200544",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03173142/00_jpn-clng_2000-2010_head-600x400.jpg?v=1783067504"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:37.974Z"
+  },
+  "https://bestcarweb.jp/news/1568208": {
+    "title_zh": "兰德酷路泽官方精品店在中部国际机场开业",
+    "summary_short": "丰田兰德酷路泽官方精品店入驻中部国际机场，销售服饰、户外装备等，体现循环制造理念。",
+    "summary_long": "2026 年 7 月 1 日，丰田旗下“LAND CRUISER OFFICIAL ITEMS”在中部国际机场（Centrair）的“ALL TOYOTA CIRCULAR STORE”内开设常设店铺。该店销售体现兰德酷路泽品牌精神的服饰和户外装备，如承重 100kg 的折叠踏步凳（3900 日元），适合车顶行李装卸、洗车等场景。此举不仅吸引越野车爱好者，也展示了丰田集团推动循环制造的努力。",
+    "highlights_zh": [
+      "兰德酷路泽官方精品店入驻中部国际机场",
+      "销售服饰、折叠踏步凳等户外装备",
+      "折叠踏步凳承重 100kg",
+      "体现丰田循环制造理念"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽",
+      "中部国际机场",
+      "ALL TOYOTA CIRCULAR STORE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165344/ALL-TOYOTA-CIRCULAR-STORE.jpg?v=1783065225",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172159/9c4f26c740b8e93bed242f12bc94c375-600x377.jpg?v=1783066920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165639/264d1cee7dd74c10fea2883dba0f1b79-600x600.jpg?v=1783065400"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:38.610Z"
+  },
+  "https://bestcarweb.jp/feature/column/1568153": {
+    "title_zh": "日产ルークス后座真的舒适吗？从躺平和座椅布局看家庭性能",
+    "summary_short": "日产ルークス后座宽敞，滑动量 320mm，可躺平，适合家庭使用。",
+    "summary_long": "日产ルークス作为轻型超高地台旅行车，后座空间是其亮点之一。室内长 2315mm，后座腿部空间 795mm，滑动量 320mm，可根据需求调整前后位置。后座支持躺平功能，提升长途舒适性。座椅布局灵活，适应婴儿车、购物袋等不同载物需求。",
+    "highlights_zh": [
+      "后座腿部空间 795mm",
+      "后座可躺平",
+      "座椅布局灵活"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ルークス",
+      "轻型超高地台旅行车",
+      "后座",
+      "座椅布局"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07164954/A32_0864_1.jpg?v=1783410595",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07164954/A32_0864_1-600x400.jpg?v=1783410595",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03173142/00_jpn-clng_2000-2010_head-600x400.jpg?v=1783067504"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:41.279Z"
+  },
+  "https://bestcarweb.jp/news/1568209": {
+    "title_zh": "传奇 R32 GT-R 鼠标回归！人气售罄模型焕新发售",
+    "summary_short": "日产 Skyline GT-R（BNR32）无线鼠标复刻版发售，新增灯光效果与专用鼠标垫。",
+    "summary_long": "CAMSHOP.JP 推出日产官方授权的 Skyline GT-R（BNR32）无线鼠标复刻版，基于此前售罄的初版进行升级。新品配备专用包装和鼠标垫，并加入灯光点亮功能，立体再现传奇跑车造型。",
+    "highlights_zh": [
+      "立体再现 BNR32 GT-R 造型",
+      "新增灯光点亮效果",
+      "附赠专用鼠标垫",
+      "日产官方授权商品"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "スカイラインGT-R",
+      "BNR32",
+      "CAMSHOP.JP"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165639/264d1cee7dd74c10fea2883dba0f1b79.jpg?v=1783065400",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165639/264d1cee7dd74c10fea2883dba0f1b79-600x600.jpg?v=1783065400",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165344/ALL-TOYOTA-CIRCULAR-STORE.jpg?v=1783065225"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:41.882Z"
+  },
+  "https://www.motor1.com/news/801173/maximize-trade-in-price/": {
+    "title_zh": "丰田销售员分享二手车置换估价技巧：三平台比价",
+    "summary_short": "丰田销售员揭秘：通过 Carvana、Kelley Blue Book 和 CarMax 三家平台获取估价，可最大化二手车置换价值。",
+    "summary_long": "一位丰田销售员在 TikTok 视频中分享了一个提高二手车置换价格的技巧：分别从 Carvana、Kelley Blue Book 和 CarMax 获取三个估价，然后利用这些报价作为谈判筹码，从而获得更优的交易条件。",
+    "highlights_zh": [
+      "获取三个估价",
+      "利用报价谈判",
+      "最大化置换价值"
+    ],
+    "entities": [
+      "丰田",
+      "Carvana",
+      "Kelley Blue Book",
+      "CarMax"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WENej/s1/man-trades-car-in-at-the-dealership.-then-the-salesman-shares-a-little-known-hack-for-getting-more-money-out-of-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:44.981Z"
+  },
+  "https://insideevs.com/news/801243/denza-z-electric-supercar-specs/": {
+    "title_zh": "腾势 Z 电动超跑：1582 马力+1.5 兆瓦充电",
+    "summary_short": "比亚迪腾势 Z 电动超跑拥有 1582 马力，支持 1.5 兆瓦快充，9 分钟可从 10%充至 97%，零百加速不到 2 秒。",
+    "summary_long": "比亚迪旗下腾势品牌推出全新电动超跑 Denza Z，搭载三电机系统，综合功率达 1582 马力，0-62 英里/小时加速时间不到 2 秒。该车配备 76 千瓦时磷酸铁锂电池，支持高达 1500 千瓦的充电功率，在比亚迪闪充站上，从 10%充至 97%仅需 9 分钟，从 10%充至 70%只需 5 分钟。即使在-30°C 低温环境下，从 20%充至 97%也只需 12 分钟。电池通过了针刺和 500 次满功率循环测试，无起火、冒烟或热失控现象，且衰减比前代 LFP 电池慢 2.5%。",
+    "highlights_zh": [
+      "1582 马力三电机",
+      "1.5 兆瓦充电",
+      "76kWh LFP 电池",
+      "通过针刺及 500 次循环测试"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "腾势",
+      "腾势 Z",
+      "磷酸铁锂电池",
+      "兆瓦充电"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZE6YA/s1/denza-z.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:45.480Z"
+  },
+  "https://insideevs.com/news/801234/ford-ev-free-home-charger-2026/": {
+    "title_zh": "购买福特电动车仍可免费获赠家用充电器",
+    "summary_short": "福特延长 Power Promise 计划，购买或租赁 2025/2026 款 Mustang Mach-E 可免费获赠家用充电器及标准安装。",
+    "summary_long": "福特再次延长其 Power Promise 计划，该计划为新车购买者提供免费家用充电器及标准安装服务。目前仅 2025 款 Mustang Mach-E（截至 2026 年 7 月）和 2026 款 Mustang Mach-E（截至 2026 年 9 月）可享受此优惠。标准安装包括 60 安培电路、80 英尺布线等，无需地下挖掘或电表升级。用户也可选择 2000 美元购车折扣。",
+    "highlights_zh": [
+      "福特延长 Power Promise 计划",
+      "仅 Mustang Mach-E 可享免费充电器",
+      "标准安装覆盖 60 安培电路",
+      "可选 2000 美元购车折扣"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Mustang Mach-E",
+      "Power Promise"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jl0mk7/s1/ford-power-promise.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:48.302Z"
+  },
+  "https://www.motor1.com/news/801208/porsche-911-outselling-taycan-nearly-5-times/": {
+    "title_zh": "保时捷 911 销量碾压 Taycan，比例接近 5:1",
+    "summary_short": "保时捷 2026 上半年销量报告：911 增长 19%，Taycan 暴跌 25%，两者销量比接近 5:1。",
+    "summary_long": "保时捷 2026 年上半年销量喜忧参半：911 销量达 30,534 辆，同比增长 19%，而 Taycan 仅售出 6,219 辆，暴跌 25%。911 与 Taycan 的销量比接近 5:1，作为小众跑车超越四门主流车型实属罕见。未来 Taycan 可能仅在美国销售轿车版，而旅行版继续在其他市场提供。CEO 暗示 Taycan 与 Panamera 可能合并以降低成本。",
+    "highlights_zh": [
+      "911 销量增长 19%",
+      "Taycan 销量暴跌 25%",
+      "销量比接近 5:1",
+      "Taycan 或与 Panamera 合并降本"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Porsche 911",
+      "Porsche Taycan",
+      "Porsche Panamera"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8X7q/s1/2027-porsche-911-gt3-s-c-first-drive-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:49.433Z"
+  },
+  "https://insideevs.com/news/801209/hyundai-ioniq-6-cheap-lease-july-2026/": {
+    "title_zh": "现代 Ioniq 6 租赁优惠：月付不到 200 美元",
+    "summary_short": "现代 Ioniq 6 租赁价低至每月 189 美元，加州优惠截至 8 月 3 日，性价比极高。",
+    "summary_long": "现代 Ioniq 6 虽是一款出色的电动车，但销量平平，因此现代汽车正通过大幅降价清理库存。在加州，2025 款 Ioniq 6 SE 标准续航版 24 个月租赁期月付仅 189 美元，首付 3999 美元。该车续航 240 英里，单电机后驱，最大功率 149 马力，使用 350 千瓦快充 18 分钟可充至 80%。若每月多付 10 美元，可选择 Ioniq 5 SE，续航 342 英里，功率 225 马力。纽约地区价格稍高，入门版月付 229 美元，长续航版 239 美元，但仍是超值选择。",
+    "highlights_zh": [
+      "月付仅 189 美元起",
+      "加州优惠截至 8 月 3 日",
+      "快充 18 分钟至 80%",
+      "多付 10 美元可选 Ioniq 5"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Ioniq 6",
+      "Ioniq 5",
+      "加州",
+      "租赁"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E63jYB/s1/hyundai-ioniq-6.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/ioniq-6-lease-deals-july.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:53.367Z"
+  },
+  "https://www.motor1.com/news/801068/future-audi-interiors-smaller-screens/": {
+    "title_zh": "奥迪重新思考内饰设计：减少屏幕、增加物理按键、提升品质",
+    "summary_short": "奥迪计划在未来的车型中缩小屏幕尺寸，回归物理按键，并提升内饰材料品质，以重塑其在内饰设计上的领先地位。",
+    "summary_long": "奥迪在去年的一次采访中承认其内饰品质不如从前，并承诺将进行改进。如今，奥迪推出了名为“Strive For Clarity”的新设计语言，并在 Concept C 概念车上首次应用。该设计强调减少屏幕使用、增加物理控制，并采用更高品质的材料。奥迪首席技术官表示，未来将注重显示尺寸和触觉元素的微妙性，并确保材料质感真实，如金属件必须为真实金属。这一内饰革命旨在恢复奥迪在座舱设计和工艺上的顶级评价。",
+    "highlights_zh": [
+      "缩小屏幕尺寸",
+      "提升材料品质",
+      "新设计语言“Strive For Clarity”首…",
+      "Concept C 概念车预示未来内饰方向"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Concept C",
+      "Strive For Clarity",
+      "物理按键",
+      "内饰品质"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbMb6A/s1/audi-concept-c-2025.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-10T15:41:53.868Z"
   }
 }
