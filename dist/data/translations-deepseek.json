@@ -70842,5 +70842,526 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-10T15:41:53.868Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564333": {
+    "title_zh": "日产 Serena 防晕车设计：从气味到视野的全面关怀",
+    "summary_short": "日产 Serena 通过抑制摇晃、改善视野、减少异味等多项设计，科学降低后排乘客晕车风险。",
+    "summary_long": "日产 Serena 针对家庭用户常见的后排晕车问题，从体感、视觉、嗅觉等多维度进行科学优化。通过分析人体发汗量和头部晃动，Serena 在座椅设计上采用零重力座椅抑制身体前滑，优化安全带位置减少腹部压迫，并改善电机回馈扭矩控制使加减速更平顺。此外，可移动的中央座椅让后排乘客视野更开阔，低气味内饰和可选除臭过滤器也进一步减少不适感。",
+    "highlights_zh": [
+      "科学分析晕车四大诱因：摇晃、气味、压迫感、视野",
+      "零重力座椅+优化安全带减少身体晃动",
+      "可移动中央座椅改善后排视野",
+      "低气味内饰与除臭过滤器减少嗅觉刺激"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "セレナ"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07164053/DSC7858_1.jpg?v=1783410054",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07164053/DSC7858_1-600x400.jpg?v=1783410054",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/04203546/00_2seater_head-600x400.jpg?v=1783164947"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:37.008Z"
+  },
+  "https://response.jp/article/2026/07/11/413892.html": {
+    "title_zh": "丰田 Celica 复活有望？下一代车型谍照引发期待",
+    "summary_short": "丰田 Celica 复活项目或已启动，下一代车型可能搭载 2.0T 四缸引擎与四驱系统，成为现代版 GT-FOUR。",
+    "summary_long": "据丰田内部消息及近期开发动向，Celica 复活项目可能正在推进。社交媒体上粉丝期待高涨，希望新车能在拉力赛中大放异彩。下一代 Celica 或命名为 GR Celica，搭载新开发的 2.0 升直列四缸涡轮增压发动机，最大功率超过 300 马力，配合高性能四驱系统，成为现代版 GT-FOUR。随着 GR Supra 于 2026 年 3 月停产，GR 品牌阵容面临调整，GR Celica 的加入可能影响 GR86 的未来定位，但两者性格差异较大，直接竞争可能性低。",
+    "highlights_zh": [
+      "丰田 Celica 复活项目或已启动",
+      "下一代车型或搭载 2.0T 四缸引擎与四驱",
+      "GR Supra 停产后 GR 品牌阵容调整",
+      "GR Celica 与 GR86 定位不同"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "セリカ",
+      "GR Supra",
+      "GR86",
+      "GT-FOUR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226329.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226329.jpg",
+      "https://response.jp/imgs/fill2/2226693.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:37.408Z"
+  },
+  "https://response.jp/article/2026/07/11/413894.html": {
+    "title_zh": "CARTUNE 本周投稿主题：大自然与爱车",
+    "summary_short": "CARTUNE 发起“大自然与爱车”主题投稿，鼓励用户分享自驾照片，为梅雨后的休闲季节提供灵感。",
+    "summary_long": "汽车爱好者社交平台 CARTUNE 每周推出用户参与投稿主题，本周主题为“大自然与爱车”。平台鼓励用户分享令人向往的风景与爱车合影，共同规划今年的自驾行程，在大自然中放松身心。CARTUNE 是一个专注于汽车改装、维修、DIY 等信息的社区，汇集了各类车型的轮胎、轮毂、空气套件、悬挂等改装案例与创意。",
+    "highlights_zh": [
+      "每周投稿主题：大自然与爱车",
+      "分享自驾照片",
+      "梅雨季后休闲季节灵感来源",
+      "CARTUNE 是汽车改装爱好者社区"
+    ],
+    "entities": [
+      "CARTUNE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226457.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226453.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:40.226Z"
+  },
+  "https://response.jp/article/2026/07/11/413898.html": {
+    "title_zh": "铃木 Wagon R 新款试驾：手动挡爱好者的福音",
+    "summary_short": "铃木 Wagon R 新款试驾，手动挡车型依然存在，为 MT 爱好者提供选择。",
+    "summary_long": "铃木 Wagon R 新款试驾，手动挡车型依然存在，为 MT 爱好者提供选择。现款 Wagon R 诞生于 2017 年，虽历经 9 年，但 2025 年底进行了较大改款，ADAS 和车身结构有所升级。车型精简为混合动力 ZX 和汽油 ZL 两个版本，其中 ZL 提供手动挡。",
+    "highlights_zh": [
+      "手动挡车型依然存在",
+      "2025 年底较大改款",
+      "ADAS 和车身结构升级",
+      "车型精简为两个版本"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Wagon R",
+      "手动挡",
+      "ADAS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226678.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226678.jpg",
+      "https://response.jp/imgs/fill2/2226677.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:40.578Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562444": {
+    "title_zh": "【猜车名】这些名车、珍车，你知道吗？第 806 回",
+    "summary_short": "本田 1972 年推出轻商用高顶车，基于初代 Life 平台，FF 驱动，356cc 直列 2 缸 30 马力。",
+    "summary_long": "本田在 1972 年推出了一款轻商用高顶车，基于初代 Life 平台，采用高车身设计，兼顾商用与休闲。驱动方式为前轮驱动，搭载 356cc 直列 2 缸发动机，最大功率 30 马力。",
+    "highlights_zh": [
+      "1972 年本田轻商用高顶车",
+      "基于初代 Life 平台",
+      "FF 驱动",
+      "最大功率 30PS"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Life"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29150912/main_am197209_life17_01002H.jpg?v=1782713353",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29150912/main_am197209_life17_01002H-600x400.jpg?v=1782713353",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28143022/main_19990924_01_09-600x400.jpg?v=1782624624"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:43.272Z"
+  },
+  "https://bestcarweb.jp/fullload/1573157": {
+    "title_zh": "eキャンター电动卡车底盘+全电动起重机：Tadano 发布多款特种车辆",
+    "summary_short": "Tadano 在 CSPI2026 展会上公开了基于三菱 eCanter 的全电动起重机及锂电静音高空作业车，均计划年内发售。",
+    "summary_long": "Tadano 在 2026 年 6 月举办的 CSPI2026（第 8 届国际建设·测量展）上，首次公开了基于三菱扶桑 eCanter 电动卡车底盘的全电动随车起重机 TM-ZX294HRENS（暂定名），以及搭载锂电池的静音型高空作业车 Skyboy AT-146TE。这两款车型均计划在年内上市。其中，电动起重机采用 eCanter 的专用起重机底盘，配备 2.94 吨级 4 节臂，作业噪音比柴油版低约 6dB，平均约 65dB。",
+    "highlights_zh": [
+      "基于三菱 eCanter 电动卡车底盘",
+      "全电动起重机噪音低至 65dB",
+      "锂电高空作业车静音环保",
+      "两款车型均计划年内发售"
+    ],
+    "entities": [
+      "タダノ",
+      "eキャンター",
+      "三菱扶桑 | Mitsubishi Fuso",
+      "CSPI2026",
+      "EVOLT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/08115429/00_AR5I6732-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/07144549/0B5A8656-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/07105517/00-26DT106_002.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:44.934Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551690": {
+    "title_zh": "丰田卡罗拉姬路推出复合户外设施“卡洛姬河”",
+    "summary_short": "丰田卡罗拉姬路打造复合型体验设施“卡洛姬河”，集汽车展示与露营、别墅于一体，开创经销商新模式。",
+    "summary_long": "丰田卡罗拉姬路于 2026 年 4 月在兵库县神崎郡开设了复合型户外设施“卡洛姬河”，这是其“卡洛姬公园”系列的第二弹。该设施将汽车经销商与露营地、别墅相结合，提供家庭和朋友间享受汽车与自然的独特体验，体现了品牌从单纯销售向用户生活方式陪伴的转型。",
+    "highlights_zh": [
+      "丰田经销商打造复合露营设施",
+      "集汽车展示、露营、别墅于一体",
+      "2026 年 4 月兵库县开业",
+      "倡导汽车与自然融合的生活方式"
+    ],
+    "entities": [
+      "丰田卡罗拉姬路 | Toyota Corolla Himeji",
+      "卡洛姬河",
+      "卡洛姬公园",
+      "复合型体验设施",
+      "户外露营"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16180818/00_corohime-river_02.jpg?v=1781600899",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/16180818/00_corohime-river_02-600x400.jpg?v=1781600899",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07164053/DSC7858_1-600x400.jpg?v=1783410054"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:47.306Z"
+  },
+  "https://response.jp/article/2026/07/11/413896.html": {
+    "title_zh": "丰田 GR Supra 下一代车型或由丰田主导独立开发",
+    "summary_short": "丰田 GR Supra 下一代车型可能由丰田主导独立开发，不再与宝马合作，引发关注。",
+    "summary_long": "根据 7 月 3 日至 9 日的访问量排名，丰田 GR Supra 下一代车型成为本周最受关注的话题。有消息称，新一代 GR Supra 可能由丰田主导独立开发，不再延续与宝马的合作关系。这一变化意味着丰田将独自承担研发工作，可能带来更纯粹的丰田跑车体验。",
+    "highlights_zh": [
+      "GR Supra 下一代或由丰田独立开发",
+      "不再与宝马合作",
+      "本周访问量排名第一"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR Supra"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226237.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226237.jpg",
+      "https://response.jp/imgs/zoom/2224666.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:48.066Z"
+  },
+  "https://response.jp/article/2026/07/11/413891.html": {
+    "title_zh": "哈雷戴维森 Sportster S 因前叉夹断裂风险召回 2569 台",
+    "summary_short": "哈雷戴维森日本因前叉上联板强度不足可能导致断裂，召回 2569 台 Sportster S，涉及 2020 至 2025 年款。",
+    "summary_long": "哈雷戴维森日本于 2025 年 7 月 8 日向国土交通省提交召回申请，涉及 2569 台 Sportster S（型号 8BLRH4），生产日期为 2020 年 12 月 18 日至 2025 年 9 月 26 日。问题出在转向柱上联板（上三角台），因强度设计不足，行驶中承受过大负荷时可能产生裂纹，继续使用会导致联板断裂，无法固定前叉，最坏情况下车辆失衡可能引发摔车。",
+    "highlights_zh": [
+      "召回 2569 台 Sportster S",
+      "上联板强度不足可能断裂",
+      "最坏情况导致前叉失控摔车",
+      "涉及 2020 至 2025 年款车型"
+    ],
+    "entities": [
+      "哈雷戴维森 | Harley-Davidson",
+      "Sportster S",
+      "日本国土交通省",
+      "召回"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226489.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226489.jpg",
+      "https://response.jp/imgs/fill2/2226488.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:51.562Z"
+  },
+  "https://response.jp/article/2026/07/10/413872.html": {
+    "title_zh": "KYB 为应对丰田坦途逆进口，在日本推出高性能减震器“2000 Series”",
+    "summary_short": "KYB 在日本开售面向丰田坦途的高性能减震器“2000 Series”，应对逆进口车增长，售价 46.2 万日元。",
+    "summary_long": "KYB（カヤバ）宣布在日本市场开始销售面向全尺寸皮卡的高性能减震器“KYB 2000 Series”，该产品此前仅面向北美市场。随着北美逆进口车数量增加，日本国内丰田坦途用户预计将增长，因此 KYB 将北美规格产品引入日本。该减震器经过北美沙漠等严苛环境测试，兼顾舒适性与操控稳定性，采用铝制车身、大直径单筒结构，具备出色的越野性能和耐久性。适用车型为 2022 年以后的丰田坦途，建议零售价为 46.2 万日元（含税，单支）。",
+    "highlights_zh": [
+      "KYB 在日本开售“2000 Series”减震器",
+      "适配 2022 年后丰田坦途",
+      "售价 46.2 万日元（含税）",
+      "采用铝制大直径单筒结构"
+    ],
+    "entities": [
+      "KYB",
+      "丰田 | Toyota",
+      "坦途",
+      "2000 Series"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226338.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226338.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:51.882Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1563611": {
+    "title_zh": "小笠原父岛村营巴士：便捷前往海滩的公共交通",
+    "summary_short": "小笠原父岛的村营巴士不仅服务日常通勤，还能方便地到达多个美丽海滩，是探索海岛游玩的理想选择。",
+    "summary_long": "小笠原群岛的父岛拥有多处白沙滩海岸，适合游泳、浮潜、海滩漫步等活动。村营巴士连接了港口与多个海滩景点，如小港海岸、扇浦海岸和境浦海岸，游客可轻松搭乘巴士前往这些海游胜地。",
+    "highlights_zh": [
+      "村营巴士连接多个海滩",
+      "可到达小港、扇浦、境浦海岸",
+      "适合游泳、浮潜等海游活动",
+      "巴士站下车后步行可达"
+    ],
+    "entities": [
+      "小笠原群岛",
+      "父岛",
+      "村营巴士",
+      "小港海岸",
+      "扇浦海岸"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/29170823/ogsw_bchbsacs_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/12120217/IMGL1463.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17111301/LINE_ALBUM_20260603_260617_4-1024x768.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:54.962Z"
+  },
+  "https://bestcarweb.jp/feature/column/1569597": {
+    "title_zh": "趁还能开，双座跑车的魅力：空间实用性不如极致浪漫",
+    "summary_short": "双座跑车虽空间小、不实用，但极致驾驶乐趣与浪漫感无可替代，是值得趁早体验的车型。",
+    "summary_long": "当下多座车型盛行，但双座跑车以牺牲空间和实用性为代价，换来了轻量化与纯粹驾驶乐趣。文章认为，人生不必完全奉献给实用，选择双座跑车能让人与驾驶深度对话，获得活力。以马自达 MX-5 RF 为例，其 2.0L 发动机输出 184 马力，展现了跑车的精髓。",
+    "highlights_zh": [
+      "双座跑车牺牲空间",
+      "人生不必完全实用",
+      "马自达 MX-5 RF 搭载 2.0L 184 马力…"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MX-5",
+      "双座跑车",
+      "驾驶乐趣"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/04203546/00_2seater_head.jpg?v=1783164947",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/04203546/00_2seater_head-600x400.jpg?v=1783164947",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07164053/DSC7858_1-600x400.jpg?v=1783410054"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:55.608Z"
+  },
+  "https://www.motor1.com/news/801177/mercedes-g-wagon-markup/": {
+    "title_zh": "男子终于找到不加价的奔驰 G 级经销商，却发现一个陷阱：加价 6 万美元！",
+    "summary_short": "一名男子找到一家不加价的奔驰 G 级经销商，但实际却存在 6 万美元的加价陷阱，引发热议。",
+    "summary_long": "一名男子寻找不加价的奔驰 G 级（G-Wagon）经销商，最终发现一家号称不加价的店，但实际却存在 6 万美元的加价。销售经理指出，即使加价 6 万美元，该车型每年仍能售罄，令人震惊。",
+    "highlights_zh": [
+      "奔驰 G 级普遍加价销售",
+      "一家经销商声称不加价",
+      "实际存在 6 万美元加价",
+      "加价后仍每年售罄"
+    ],
+    "entities": [
+      "奔驰 | Mercedes-Benz",
+      "G 级",
+      "G-Wagon"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OVX8/s1/man-finally-finds-mercedes-g-wagon-dealer-who-doesn-t-do-mark-ups.-then-he-realizes-there-s-a-catch.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:58.673Z"
+  },
+  "https://www.motor1.com/news/801159/ford-ceo-not-satisfied-quality-recalls/": {
+    "title_zh": "福特 CEO 仍不满意品牌质量",
+    "summary_short": "福特 CEO Jim Farley 承认公司对质量提升仍不满意，尽管在 JD Power 初始质量研究中领先，但 2026 年召回数量行业第一。",
+    "summary_long": "福特 CEO Jim Farley 在接受 CNBC 采访时表示，尽管公司在 JD Power 最新初始质量研究中位居主流品牌榜首，但 2026 年已发起 56 次召回，涉及 1210 万辆汽车，质量仍有很大提升空间。自 2023 年起，Farley 通过加强开发测试、招聘技术专家和促进协作来改善质量。2024 年，美国国家公路交通安全管理局因福特未能妥善召回而罚款 6500 万美元，其中 5500 万美元暂缓支付，并要求福特审查过去三年的召回记录。Farley 承诺将继续减少召回次数和保修成本。",
+    "highlights_zh": [
+      "JD Power 初始质量研究排名第一",
+      "2026 年召回 56 次",
+      "NHTSA 罚款 6500 万美元",
+      "Farley 承诺继续降低召回和保修成本"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Jim Farley",
+      "JD Power",
+      "美国国家公路交通安全管理局"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0eWEnk/s1/2025-ford-expedition-platinum.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:39:58.992Z"
+  },
+  "https://www.motor1.com/news/801326/audi-sales-results-down-2026/": {
+    "title_zh": "奥迪新车型支撑 2026 年销量",
+    "summary_short": "奥迪 2026 年第二季度美国销量同比下降 3%，上半年累计下降 17%，但 A5、A6、Q5 等新车型表现亮眼。",
+    "summary_long": "奥迪公布 2026 年第二季度美国交付量为 38,030 辆，同比下降 3.0%；上半年累计交付 67,916 辆，同比下降 17.0%。尽管整体销量下滑，但新车型表现强劲：A5、A6、Q5 等近期换代车型在第二季度均实现增长，显示消费者对新产品反应积极。然而，新款 Q3 销量下降 8.0%，Q6 E-tron 因电动车需求疲软和关税影响暴跌 83.0%。",
+    "highlights_zh": [
+      "Q2 销量 38",
+      "上半年累计降 17%",
+      "A5、A6、Q5 新车型增长",
+      "Q6 E-tron 销量暴跌 83%"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A5",
+      "A6",
+      "Q5",
+      "Q6 E-tron"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3emEJ/s1/audi-q3-2025.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:02.032Z"
+  },
+  "https://insideevs.com/news/801336/xiaomi-skynomad-n90-erev-china/": {
+    "title_zh": "SkyNomad N90：小米首款增程式越野 SUV",
+    "summary_short": "小米发布首款增程式电动 SUV SkyNomad N90，定位家庭越野，车长超 5.2 米，三排座椅，设计灵活。",
+    "summary_long": "小米旗下新品牌 Sky Nomad 推出首款车型 N90，这是一款增程式电动 SUV，主打家庭与户外探险。车长 208 英寸（约 5.28 米），比 Kia EV9 长 10 英寸，采用方正硬朗造型，与 SU7、YU7 的低趴运动风格截然不同。内饰尚未完全公开，但强调空间灵活性，可自由变换布局。小米 CEO 雷军表示，该车旨在“随心所欲地适应”。",
+    "highlights_zh": [
+      "小米首款增程式电动 SUV",
+      "车长超 5.2 米",
+      "方正硬朗造型",
+      "内饰空间灵活多变"
+    ],
+    "entities": [
+      "小米 | Xiaomi",
+      "SkyNomad N90",
+      "增程式电动车",
+      "SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9g1R/s1/skynomad-n90.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:03.786Z"
+  },
+  "https://www.motor1.com/news/801145/women-negotiate-kias/": {
+    "title_zh": "两名女性到起亚经销商处购买两辆车，要求优惠 1 万美元",
+    "summary_short": "两名女性在起亚经销商处购车，因内饰颜色不符要求，竟要求优惠 1 万美元，引发销售员分享谈判趣事。",
+    "summary_long": "两名女性前往起亚经销商处购买两辆车，因不满意棕色内饰，要求优惠 1 万美元。销售员 Sean Thompson 在社交媒体上分享了这段有趣的谈判过程，视频中女性坚持要蓝色内饰，而销售员表示只有棕色内饰的车辆有优惠。",
+    "highlights_zh": [
+      "两名女性购车要求优惠 1 万美元",
+      "因内饰颜色不符引发谈判",
+      "销售员分享谈判趣事"
+    ],
+    "entities": [
+      "起亚 | Kia"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYVRG/s1/2-women-go-to-kia-dealership-to-buy-2-cars.-then-they-ask-for-10k-off.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:05.095Z"
+  },
+  "https://www.motor1.com/news/801301/maserati-project-gt4-race-car-debut/": {
+    "title_zh": "玛莎拉蒂 Project GT4 赛车",
+    "summary_short": "玛莎拉蒂基于 GranTurismo 打造 Project GT4 赛车，2028 年参赛，搭载 3.0 升 V6 发动机，最大功率 690 马力。",
+    "summary_long": "玛莎拉蒂在 2026 年古德伍德速度节上发布了 Project GT4 赛车，该车基于 GranTurismo 打造，由 Maserati Corse 部门开发，计划于 2028 年参加 GT4 组别赛事。Project GT4 继承了 GT2 赛车的技术经验，采用与公路版相同的 3.0 升双涡轮增压 Nettuno V6 发动机，但最大功率提升至 690 马力，并改为后轮驱动。通过拆除所有豪华配置，赛车比公路版减重约 400 公斤，内饰仅保留赛车方向盘、开关、防滚架和六点式安全带。",
+    "highlights_zh": [
+      "基于 GranTurismo 打造",
+      "3.0 升 V6 发动机",
+      "减重 400 公斤",
+      "继承 GT2 赛车技术经验"
+    ],
+    "entities": [
+      "玛莎拉蒂 | Maserati",
+      "GranTurismo",
+      "Project GT4",
+      "Nettuno V6"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BeXA/s1/maserati-project-gt4.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:07.592Z"
+  },
+  "https://www.thedrive.com/news/460000-kia-tellurides-must-go-back-to-the-shop-to-fix-a-botched-fire-risk-recall": {
+    "title_zh": "起亚 Telluride 因火灾隐患二次召回，46 万辆需返修",
+    "summary_short": "起亚因火灾隐患召回 2020-2024 款 Telluride，此前修复方案不当，导致 46 万辆车需再次进店维修。",
+    "summary_long": "起亚宣布召回约 46.3 万辆 2020-2024 款 Telluride SUV，原因是前排电动座椅开关可能卡滞导致过热起火，即使车辆熄火也存在风险。两年前起亚曾针对同一问题发起召回，但修复方案执行不当，未能彻底解决问题。目前已有 11 起电机熔化报告，起亚建议车主在维修完成前将车停放在室外。",
+    "highlights_zh": [
+      "46 万辆 Telluride 因火灾隐患二次召回",
+      "前排座椅开关卡滞可致电机过热起火",
+      "两年前修复方案不当导致问题复发",
+      "已有 11 起电机熔化报告"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "Telluride"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Kia-Telluride-02.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Kia-Telluride-29.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Kia-Telluride-08.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:08.608Z"
+  },
+  "https://www.motor1.com/news/801141/kia-telluride-recall-seat-motor-fires/": {
+    "title_zh": "起亚二次召回 46.3 万辆 Telluride，因座椅电机起火风险",
+    "summary_short": "起亚再次召回 46.3 万辆 Telluride SUV，因座椅开关问题可能导致电机过热起火，此前召回未能彻底修复。",
+    "summary_long": "起亚针对 2020-2024 款 Telluride SUV 发起第二次召回，涉及 462,869 辆车。问题源于电动座椅开关易受外力影响，导致开关错位或损坏，使座椅电机持续运转而过热起火。2024 年 6 月的首次召回通过加装支架和滑块旋钮试图修复，但后续仍发生 7 起座椅起火和 11 起电机熔化事件。最新补救措施是安装电子保险丝，防止开关损坏后电机持续运行。",
+    "highlights_zh": [
+      "涉及 2020-2024 款 Telluride",
+      "座椅开关受外力易损坏",
+      "首次召回后仍发生 7 起起火和 11 起电机熔化",
+      "新方案安装电子保险丝防止过热"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "Telluride"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8oJAo/s1/2024-kia-telluride.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:11.324Z"
+  },
+  "https://insideevs.com/news/801188/rivian-r2-launch-mode-video/": {
+    "title_zh": "Rivian R2 将获得弹射模式，加速比特斯拉 Model Y Performance 更快",
+    "summary_short": "Rivian R2 Performance 通过 OTA 更新获得弹射模式，0-60 英里/小时加速仅需 3.45 秒，超越特斯拉 Model Y Performance。",
+    "summary_long": "Rivian 首席软件官 Wassym Bensaid 宣布，R2 Performance 将在下一次 OTA 更新中启用弹射模式。一段视频显示，该车在弹射模式下 0-60 英里/小时加速仅需 3.45 秒，快于官方宣称的 3.6 秒，并超越特斯拉 Model Y Performance（不计 rollout 时间）。0-100 英里/小时加速为 6.99 秒，接近 Model 3 Performance，比 Model Y Performance 快约 1 秒。四分之一英里加速仅 11.31 秒，同样优于 Model Y Performance。车辆极速可达 130 英里/小时。",
+    "highlights_zh": [
+      "Rivian R2 Performance 获弹射模…",
+      "0-60 英里/小时加速 3.45 秒",
+      "超越特斯拉 Model Y Performance",
+      "极速 130 英里/小时"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2 Performance",
+      "特斯拉 Model Y Performance | Tesla Model Y Performance",
+      "弹射模式",
+      "OTA 更新"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egnXp/s1/rivian-r2-launch-mode-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:12.897Z"
+  },
+  "https://www.thedrive.com/news/the-first-indycar-game-in-over-two-decades-is-coming-early-next-year": {
+    "title_zh": "IndyCar 游戏时隔二十余年将于明年初回归",
+    "summary_short": "iRacing Studios 开发的《IndyCar Racing: The Game》延期至 2027 年初，登陆 PS5、Xbox Series X|S 和 PC。",
+    "summary_long": "iRacing Studios 正在开发一款全新的 IndyCar 官方游戏，这是自 2000 年代中期以来该系列的首款独立作品。游戏原定于 2026 年下半年发布，现已推迟至 2027 年初。该作将登陆 PlayStation 5、Xbox Series X|S 和 PC（Steam），采用 iRacing 自研的 Orontes 引擎，而非 Unreal Engine。此前 IndyCar 游戏授权曾长期被 Motorsport Games 持有但无果而终，最终由 iRacing 接手。",
+    "highlights_zh": [
+      "首款独立 IndyCar 游戏时隔二十余年",
+      "延期至 2027 年初",
+      "采用 iRacing 自研 Orontes 引擎",
+      "原定 2026 年"
+    ],
+    "entities": [
+      "IndyCar",
+      "iRacing Studios",
+      "IndyCar Racing: The Game",
+      "Orontes 引擎",
+      "Motorsport Games"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_4873-e1782941106261.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Mercedes-CLA-350-30.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:15.102Z"
+  },
+  "https://www.motor1.com/news/801167/ferrari-v12-shooting-brake/": {
+    "title_zh": "基于法拉利 V12 的猎装车：玻璃杰作",
+    "summary_short": "荷兰设计公司 Niels van Roij Design 基于法拉利 599 GTB 打造了一款独一无二的猎装车 Daytona Shooting Brake Hommage，致敬 1972 年经典车型。",
+    "summary_long": "荷兰设计公司 Niels van Roij Design 推出了一款名为 Daytona Shooting Brake Hommage 的定制猎装车，基于法拉利 599 GTB Fiorano 打造，旨在致敬 1972 年的法拉利 365 GTB/4 Daytona Shooting Brake。该车保留了原车的 V12 发动机和车门，但重新设计了所有其他车身面板，包括水平前大灯和巨大的玻璃尾门，提升了储物空间和后视野。尾门采用遥控蝴蝶式开启，铰链设计精美。车头徽标改为“Daytona”，去除了法拉利跃马标志。",
+    "highlights_zh": [
+      "基于法拉利 599 GTB Fiorano 打造",
+      "致敬 1972 年法拉利 365 GTB/4 Day…",
+      "巨大玻璃尾门",
+      "水平前大灯"
+    ],
+    "entities": [
+      "Niels van Roij Design",
+      "法拉利 | Ferrari",
+      "599 GTB Fiorano",
+      "Daytona Shooting Brake Hommage"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8PJy/s1/niels-van-roij-design-daytona-shooting-brake-hommage.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T03:40:17.738Z"
   }
 }

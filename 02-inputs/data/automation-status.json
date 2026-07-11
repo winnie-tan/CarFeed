@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-10T15:40:39.749Z",
+    "generated_at": "2026-07-11T03:39:31.975Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 364,
-    "deepseek_untranslated_before_run": 36,
-    "newly_fetched_articles": 36,
-    "newly_fetched_untranslated": 36,
+    "deepseek_translated_before_run": 377,
+    "deepseek_untranslated_before_run": 23,
+    "newly_fetched_articles": 23,
+    "newly_fetched_untranslated": 23,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 36,
+    "translation_queue_count": 23,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "「とうとう復活するか！」トヨタ『セリカ』次期型スクープに期待の声続々！",
+        "url": "https://response.jp/article/2026/07/11/413892.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "「酔わない」は大きな魅力!! においや視界まで考えたセレナの酔わせない工夫が涙モノ!!",
+        "url": "https://bestcarweb.jp/feature/column/1564333"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "【CARTUNE】今週の投稿お題は「大自然と愛車」！ 梅雨明けレジャーシーズンの参考に",
+        "url": "https://response.jp/article/2026/07/11/413894.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "【スズキ ワゴンR 新型試乗】「MTが少ない」と嘆くあなたに、『ワゴンR』があるじゃない…中村孝仁",
+        "url": "https://response.jp/article/2026/07/11/413898.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第806回",
+        "url": "https://bestcarweb.jp/feature/column/1562444"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "eキャンターベースの「フル電動クレーン車」からリチウムバッテリ搭載「静音型高所作業車」まで！ タダノが年内発売予定の特装車を公開！",
+        "url": "https://bestcarweb.jp/fullload/1573157"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "ディーラーなのにキャンプ場!? オートキャンプやヴィラまで完備！ トヨタカローラ姫路「カロひめリバー」とは",
+        "url": "https://bestcarweb.jp/feature/column/1551690"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "トヨタ『GRスープラ』次期型、トヨタ主導の独自開発なるか…土曜ニュースランキング",
+        "url": "https://response.jp/article/2026/07/11/413896.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "トヨタ『タンドラ』の逆輸入開始に対応、KYBがハイパフォーマンスショックアブソーバ「2000 Series」国内投入",
+        "url": "https://response.jp/article/2026/07/10/413872.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "ハーレーダビッドソン『スポーツスターS』2569台をリコール…転倒のおそれ",
+        "url": "https://response.jp/article/2026/07/11/413891.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "ビーチに強いバスだと!? 小笠原の海遊びスポットへは路線バスで行くのが便利すぎる!!",
+        "url": "https://bestcarweb.jp/busmagazine/1563611"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "乗れるうちに乗っておきたい2シータースポーツの魅力!? 室内空間や実用性なんかより圧倒的なロマンこそ大事だろ！",
+        "url": "https://bestcarweb.jp/feature/column/1569597"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.11",
+        "title": "Man Finally Finds Mercedes G-Wagon Dealer Who Doesn't Do Mark Ups. Then He Realizes There's A Catch: '$60,000 Mark Up!'",
+        "url": "https://www.motor1.com/news/801177/mercedes-g-wagon-markup/"
+      },
+      {
+        "source": "Motor1",
         "time": "2026.7.10",
-        "title": "24 Hours? This Hot Wheels Mazda 787B Has Been Driving on a Belt Sander for 11 Days",
-        "url": "https://www.thedrive.com/news/24-hours-this-diecast-mazda-787b-has-been-driving-on-a-belt-sander-for-11-days"
+        "title": "Ford's CEO Still Isn't Satisfied With Brand Quality",
+        "url": "https://www.motor1.com/news/801159/ford-ceo-not-satisfied-quality-recalls/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.10",
+        "title": "Audi’s New Models Are Carrying It Through 2026",
+        "url": "https://www.motor1.com/news/801326/audi-sales-results-down-2026/"
       },
       {
         "source": "InsideEVs",
         "time": "2026.7.10",
-        "title": "U.S. EV Sales Rebound To Their Highest Level Since The Tax Credit Ended",
-        "url": "https://insideevs.com/news/801289/us-q2-ev-sales-post-tax-credit/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.10",
-        "title": "'Public Trust Is Earned': Feds Are Officially Tired Of Robotaxis Getting In The Way Of First Responders",
-        "url": "https://insideevs.com/news/801174/nhtsa-robotaxi-av-first-responders/"
+        "title": "The SkyNomad N90 Is Xiaomi’s Gas-Burning Adventure Rig",
+        "url": "https://insideevs.com/news/801336/xiaomi-skynomad-n90-erev-china/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.10",
-        "title": "This Is Why Volkswagen Group Is In Trouble Again",
-        "url": "https://www.motor1.com/news/801295/volkswagen-group-poor-sales-results-china/"
+        "title": "2 Women Go To Kia Dealership To Buy 2 Cars. Then They Ask For $10K Off. Are There Group Rates?",
+        "url": "https://www.motor1.com/news/801145/women-negotiate-kias/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.10",
+        "title": "The Maserati Project GT4 Is The Race Car You Didn’t Expect",
+        "url": "https://www.motor1.com/news/801301/maserati-project-gt4-race-car-debut/"
       },
       {
         "source": "The Drive",
         "time": "2026.7.10",
-        "title": "A Serious Injury Kept Me Off Motorcycles. Honda’s E-Clutch Got Me Back in the Saddle",
-        "url": "https://www.thedrive.com/car-reviews/honda-e-clutch-review"
+        "title": "460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall",
+        "url": "https://www.thedrive.com/news/460000-kia-tellurides-must-go-back-to-the-shop-to-fix-a-botched-fire-risk-recall"
       },
       {
         "source": "Motor1",
         "time": "2026.7.10",
-        "title": "US Drivers Are Staying Away From Premium Gas Due To High Prices",
-        "url": "https://www.motor1.com/news/801158/premium-gas-pricing/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.10",
-        "title": "Toyota Wanted to Replace the Highlander With an EV. It’s Already Delayed: TDS",
-        "url": "https://www.thedrive.com/news/toyota-wanted-to-replace-the-highlander-with-an-ev-its-already-delayed-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.10",
-        "title": "BMW Explains Why The X5 Isn't More Off-Road Focused",
-        "url": "https://www.motor1.com/news/801144/bmw-x5-off-roader-reason/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.10",
-        "title": "Americans Just Aren’t Buying Audi EVs",
-        "url": "https://insideevs.com/news/801269/audi-usa-ev-sales-q2-h1-2026/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.10",
-        "title": "「Hyundaiプレミアムケア」開始、4年後の残価保証40%保証など「4つの安心」",
-        "url": "https://response.jp/article/2026/07/10/413880.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.10",
-        "title": "「RS顔になるとは」ホンダ『フィット』マイナーチェンジにSNSも注目！「これは売れる」の声も",
-        "url": "https://response.jp/article/2026/07/10/413887.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.10",
-        "title": "「ルートコンパスAI」、配車計画を数十秒で自動生成…2024年問題にも対応",
-        "url": "https://response.jp/article/2026/07/10/413869.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.10",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「BEV」",
-        "url": "https://bestcarweb.jp/feature/column/1553917"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.10",
-        "title": "BBSジャパンの鍛造ホイール「FL」、日刊自動車新聞 用品大賞2026グランプリ受賞",
-        "url": "https://response.jp/article/2026/07/10/413878.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.10",
-        "title": "GRMNカローラ発表!! リヤシート捨てた2シーター究極仕様に込めるトヨタの本気と狂気",
-        "url": "https://bestcarweb.jp/feature/column/1564897"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.10",
-        "title": "GT-R、シビック、そしてマツダが再び世界を沸かした!! 頂点に立ったニッポンのクルマたちの軌跡",
-        "url": "https://bestcarweb.jp/feature/column/1569148"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.10",
-        "title": "Longtime Customer Goes To AutoZone. Then A Worker Makes Him Walk Out And Go To O'Reilly: 'Please Wait For Cashier'",
-        "url": "https://www.motor1.com/news/801168/o-reilly-versus-autozone/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.10",
-        "title": "NOK、ワークユニフォームを約40年ぶり刷新…創立85周年を機に",
-        "url": "https://response.jp/article/2026/07/10/413876.html"
-      },
-      {
-        "source": "Vespa",
-        "time": "2026.7.10",
-        "title": "Two Italian icons meet in New York",
-        "url": "https://press.piaggiogroup.com/en_EN/post/show/354321/two-italian-icons-meet-in-new-.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.10",
-        "title": "エムケイ自動車、持ち込みエンジンオイル交換を基本工賃500円のみで受付…中東情勢の影響に対応",
-        "url": "https://response.jp/article/2026/07/10/413864.html"
+        "title": "Kia Recalls 463,000 SUVs A Second Time For Seat Motor Fires",
+        "url": "https://www.motor1.com/news/801141/kia-telluride-recall-seat-motor-fires/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29104540332",
-    "sha": "bbd2c7833438f7b7f2ef2abad291ac2dc76437f0",
-    "completed_at": "2026-07-10T15:41:54.180Z",
+    "run_id": "29138346788",
+    "sha": "684a8a5d69718ad194902c0c35e0263a9a6a66af",
+    "completed_at": "2026-07-11T03:40:18.014Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 36,
-    "queued_articles": 36,
-    "processed": 36,
-    "started_at": "2026-07-10T15:40:40.082Z",
-    "finished_at": "2026-07-10T15:41:53.889Z",
+    "scoped_articles": 23,
+    "queued_articles": 23,
+    "processed": 23,
+    "started_at": "2026-07-11T03:39:32.391Z",
+    "finished_at": "2026-07-11T03:40:17.754Z",
     "success": true,
     "error": ""
   }
