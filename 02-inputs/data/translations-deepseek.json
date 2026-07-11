@@ -71363,5 +71363,350 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-11T03:40:17.738Z"
+  },
+  "https://www.thedrive.com/news/the-stepranger-is-a-stuff-hauler-that-fits-where-trucks-cant": {
+    "title_zh": "StepRanger：比卡车更灵活的微型搬运车",
+    "summary_short": "StepRanger 微型卡车仅 65 英寸长，可承载 1000 磅货物，能轻松驶入卡车无法到达的狭窄空间。",
+    "summary_long": "StepRanger 是一款由电动马达驱动的微型卡车，尺寸极小（长 65 英寸，宽 31 英寸），却能承载 1000 磅货物。其设计类似带把手的小拖车，后部有踏板供操作员站立，货台几乎占据全部空间。它可被当作大型卡车的“附属艇”，在卡车无法进入的狭窄区域（如建筑内部或小径）运输物品。",
+    "highlights_zh": [
+      "长度仅 65 英寸",
+      "可承载 1000 磅货物",
+      "可驶入卡车无法到达的狭窄空间",
+      "电动驱动"
+    ],
+    "entities": [
+      "StepRanger",
+      "R1T",
+      "Stellantis",
+      "Topolino",
+      "微型卡车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/StepRanger-Hero-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_5770.jpg.webp?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/StepRanger_Feb_Seeley_07.jpg.webp?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:17.823Z"
+  },
+  "https://insideevs.com/news/801340/toyota-ev-sales-doubled-2026/": {
+    "title_zh": "丰田今年电动车销量翻倍",
+    "summary_short": "丰田今年上半年在美电动车销量达 21855 辆，同比增长 136%，成为美国第五大电动车品牌。",
+    "summary_long": "丰田今年上半年在美国销售了 21855 辆电动车，同比增长 136%，成为美国第五大电动车品牌。去年同期丰田仅有一款 bZ 车型在售，今年新增了 C-HR 和 bZ Woodland，并提升了 bZ 的续航和充电速度。在其他车企因政策变化而销量下滑的背景下，丰田逆势增长。",
+    "highlights_zh": [
+      "上半年销量 21855 辆",
+      "新增 C-HR 和 bZ Woodland 车型",
+      "bZ 销量近翻倍至 17553 辆",
+      "成为美国第五大电动车品牌"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "bZ",
+      "C-HR",
+      "bZ Woodland",
+      "Cox Automotive"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8X01/s1/2026-toyota-c-hr.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:18.224Z"
+  },
+  "https://www.motor1.com/news/801285/undercover-officer-rides-bumper-gives-ticket/": {
+    "title_zh": "孕妇被便衣警车尾随后超速被拦，情绪崩溃称“这是诱捕”",
+    "summary_short": "亚特兰大一名孕妇称被便衣警车紧贴车尾，加速后遭拦停并开罚单，她情绪崩溃指责警方诱捕。",
+    "summary_long": "亚特兰大一名孕妇在通勤途中被一辆未标记警车紧贴车尾，她误以为是普通驾驶者而加速至 100 英里/小时，随后被便衣警察拦停。警察指责她超速，她情绪崩溃并反呛对方尾随在先。她在 TikTok 上发布视频，称警方的行为属于诱捕，引发热议。",
+    "highlights_zh": [
+      "孕妇被便衣警车紧贴车尾",
+      "加速至 100 英里/小时后被拦",
+      "情绪崩溃指责警方诱捕",
+      "TikTok 视频引发热议"
+    ],
+    "entities": [
+      "亚特兰大",
+      "便衣警察",
+      "超速",
+      "诱捕"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4q84/s1/woman-gets-pulled-over-by-an-undercover-cop..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:22.799Z"
+  },
+  "https://response.jp/article/2026/07/11/413906.html": {
+    "title_zh": "川崎 Z500 / Ninja500 试驾：52cc 升级带来的从容，推荐给厌倦大排量摩托的骑士",
+    "summary_short": "川崎 Z500 与 Ninja500 排量升至 451cc，强化中低速扭矩，兼顾日常与运动骑行，为追求实用性的骑士提供更从容的体验。",
+    "summary_long": "川崎 Z500 与 Ninja500 基于 Z400/Ninja400 升级而来，排量从 399cc 扩大至 451cc（增加 52cc），通过加长行程强化中低速扭矩，弥补了老款在出弯加速时动力稍显不足的短板。新车保留了高张力钢管车架和骑行姿势，操控无违和感，同时标配辅助滑动离合器，提升制动稳定性。Z500 采用直立坐姿和宽把，偏向街道战斗风格；Ninja500 则拥有全整流罩和略前倾姿势，更适合高速巡航。",
+    "highlights_zh": [
+      "排量从 399cc 增至 451cc",
+      "保留高张力钢管车架",
+      "Z500 直立宽把",
+      "标配辅助滑动离合器"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Z500",
+      "Ninja500",
+      "Z400",
+      "Ninja400"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226789.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226789.jpg",
+      "https://response.jp/imgs/fill2/2226795.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:24.355Z"
+  },
+  "https://insideevs.com/news/801327/extend-range-ev-battery-pack/": {
+    "title_zh": "便携电池组能否为电动车增程？这位博主正在尝试",
+    "summary_short": "YouTuber Simon Lindley 用 EverDrive 原型系统将福特 F-150 Lightning 变为增程式电动车，通过接入高压系统实现行驶中充电。",
+    "summary_long": "增程式电动车（EREV）正成为行业新趋势，宝马、中国车企及 Scout 等纷纷布局。然而，现有电动车车主能否享受类似技术？YouTuber Simon Lindley 在频道 Trucked Up EVs 上测试了一款名为 EverDrive 的原型产品，旨在将他的福特 F-150 Lightning 改造为“移动增程车”。该系统并非通过充电口外接电池，而是直接接入车辆高压系统：在货箱内安装辅助 J1772 接口，电缆沿底盘铺设至车头，通过 PEAK 微控制器和继电器向车载充电器发送定制 CAN 信号，从而实现行驶中充电。",
+    "highlights_zh": [
+      "EverDrive 原型系统直接接入车辆高压系统",
+      "在货箱安装辅助 J1772 接口",
+      "PEAK 微控制器发送定制 CAN 信号实现行驶充电",
+      "将福特 F-150 Lightning 变为增程式电…"
+    ],
+    "entities": [
+      "福特",
+      "F-150 Lightning",
+      "EverDrive",
+      "增程式电动车",
+      "PEAK"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/koKxAM/s1/ford-f150-lightning-bluetti-batteries-everdrive-hero.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/everdrive-controller.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/f-150-lightning-batteries-in-bed.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:29.147Z"
+  },
+  "https://www.motor1.com/news/801308/stolen-cars-lose-dealership-license/": {
+    "title_zh": "经销商被盗两车后可能面临吊销执照",
+    "summary_short": "新泽西一家二手车经销商被盗两辆车，不仅面临车辆损失，还可能因保险索赔导致营业执照被吊销。",
+    "summary_long": "新泽西一家二手车经销商在凌晨遭遇盗窃，两名窃贼闯入停车场，直奔办公室拿走两把钥匙，盗走一辆 2018 款林肯 Navigator 和一辆 2016 款升高版丰田 Tacoma。经销商 Greg 在 TikTok 上表示，如果车辆无法找回并通过保险索赔，他可能面临营业执照被吊销的困境。窃贼只针对这两辆车，未动收银机等其他物品。",
+    "highlights_zh": [
+      "凌晨 3 点窃贼闯入停车场",
+      "盗走 2018 款林肯 Navigator 和 20…",
+      "经销商担心保险索赔导致执照吊销"
+    ],
+    "entities": [
+      "林肯",
+      "丰田 | Toyota",
+      "Navigator",
+      "Tacoma",
+      "新泽西"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWmll/s1/thieves-steal-2-cars.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:29.231Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563635": {
+    "title_zh": "本田思域 EX：中核升级，值得选择？",
+    "summary_short": "本田思域中期改款，EX 新增方向盘加热和后座 USB，日常舒适性提升，性价比突出。",
+    "summary_long": "本田思域中期改款，除了新增 e:HEV RS 运动版外，中核 EX 也值得关注。EX 新增方向盘加热和后座 USB 接口，提升日常舒适性。搭载 1.5T 发动机，售价 394.68 万日元，定位务实，适合日常使用。",
+    "highlights_zh": [
+      "新增方向盘加热和后座 USB",
+      "1.5T+CVT",
+      "售价 394.68 万日元",
+      "兼顾实用与舒适"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域",
+      "EX",
+      "RS",
+      "e:HEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07170715/20210914-AU0I52521_1.jpg?v=1783411636",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07170715/20210914-AU0I52521_1-600x400.jpg?v=1783411636",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03135921/00_jpn-clng_1960-1970_head-600x400.jpg?v=1783054763"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:34.078Z"
+  },
+  "https://response.jp/article/2026/07/11/413901.html": {
+    "title_zh": "起亚 PV5 乘客版专用床套件，Toy Factory 开售 33 万日元起",
+    "summary_short": "Toy Factory 为起亚 PV5 乘客版推出专用床套件，采用双人床尺寸设计，支持灵活收纳与起居，起售价 33 万日元。",
+    "summary_long": "Toy Factory 已与起亚 PBV 签署官方经销商协议，并推出首款产品——面向起亚 PV5 乘客版的专用床套件。该套件设计理念为“为 EV 增添温馨”，提供长 1850mm、宽 1400mm 的双人床空间，可容纳两名成人伸展睡眠。床垫采用轻量化分割结构，便于女性或儿童轻松组装。床下设有行李空间，可在展开床铺的同时存取物品；单侧座椅可保持立起，兼顾乘车、载物与休息。右侧还配有专用杯桌。床垫面料可选传统“尾州织”或“高级麂皮”，家具采用新色“摩卡白”以匹配车内氛围，外部可选木纹贴膜。价格方面，基础床套件（织物）33 万日元，高级麂皮版 34.1 万日元，完整套装（含行李家具、侧板、杯桌）56.133 万日元（九折）。",
+    "highlights_zh": [
+      "双人床尺寸（1850×1400mm）",
+      "轻量化分割结构",
+      "床下可存行李",
+      "可选尾州织或高级麂皮面料"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5 乘客版 | PV5 Passenger",
+      "Toy Factory",
+      "尾州织",
+      "摩卡白"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226414.png",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226414.png",
+      "https://response.jp/imgs/fill2/2226405.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:36.058Z"
+  },
+  "https://response.jp/article/2026/07/11/413903.html": {
+    "title_zh": "TEIN 推出多款车型适配的 Endura Pro Basic 减震器",
+    "summary_short": "TEIN 为 Swift Sport、Yaris Cross 等车型新增 Endura Pro Basic 减震器，采用新平台降低成本，保持高品质。",
+    "summary_long": "日本悬挂专业制造商 TEIN 为其在售的原厂替换型减震器“Endura Pro Basic”新增了多款适配车型，包括奔驰 A 级、铃木 Swift Sport、丰田 Yaris Cross 等。该产品继承前代性能，采用黑色涂装和新“屏蔽结构”平台，在保持高品质的同时通过固定式设计降低成本。销售单位为前后各两根一组，便于维修更换。壳体强度和油量均优于原厂，并搭载了从海外拉力赛经验中反馈开发的液压缓冲限位器（H.B.S.）。",
+    "highlights_zh": [
+      "新增奔驰 A 级、Swift Sport、Yaris…",
+      "采用屏蔽结构平台",
+      "前后各两根一组",
+      "搭载液压缓冲限位器（H.B.S.）"
+    ],
+    "entities": [
+      "TEIN",
+      "Endura Pro Basic",
+      "スイフトスポーツ",
+      "ヤリスクロス",
+      "Aクラス"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225789.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225789.jpg",
+      "https://response.jp/imgs/fill2/2225790.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:39.610Z"
+  },
+  "https://bestcarweb.jp/news/1568195": {
+    "title_zh": "头盔与骑行鞋展示盒：Daytona 新品让收藏与展示两不误",
+    "summary_short": "Daytona 推出头盔与骑行鞋展示盒，兼顾防尘与展示，让爱用品成为车库装饰的一部分。",
+    "summary_long": "日本品牌 Daytona 于 2026 年 6 月 29 日推出两款展示盒：头盔展示盒（品号 69715）和骑行鞋展示盒（品号 69716）。它们专为希望将头盔、骑行鞋等装备既收纳又展示的骑士设计，能有效防尘，同时将爱用品作为车库空间的美观装饰。",
+    "highlights_zh": [
+      "Daytona 推出头盔与骑行鞋展示盒",
+      "防尘设计",
+      "适合收藏限量版或个性化装备",
+      "2026 年 6 月 29 日发售"
+    ],
+    "entities": [
+      "Daytona"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172306/50611db8cf70aa34f3766bf7ad8eeed6.jpg?v=1783066987",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172306/50611db8cf70aa34f3766bf7ad8eeed6-600x450.jpg?v=1783066987",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03165344/ALL-TOYOTA-CIRCULAR-STORE.jpg?v=1783065225"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:41.229Z"
+  },
+  "https://bestcarweb.jp/feature/column/1568448": {
+    "title_zh": "GT-R、思域、转子发动机：日本名车传奇的起点",
+    "summary_short": "回顾 1960-70 年代日本汽车挑战欧美、震惊世界的名车起源，包括马自达 Cosmo Sport、本田 S 系列等。",
+    "summary_long": "1960 年代后期，日本汽车产业迅速崛起，机械与设计均达到世界水平。马自达率先将双转子发动机实用化并搭载于 Cosmo Sport 跑车，本田则推出搭载高转速 DOHC 发动机的 S 系列敞篷跑车，这些车型奠定了日本名车传奇的基础。",
+    "highlights_zh": [
+      "马自达 Cosmo Sport：首款量产双转子发动机…",
+      "本田 S 系列：高转速 DOHC 发动机的敞篷跑车",
+      "日本车在 1960-70 年代挑战欧美技术壁垒"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "本田 | Honda",
+      "Cosmo Sport",
+      "S 系列 | S Series",
+      "转子发动机"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03135921/00_jpn-clng_1960-1970_head.jpg?v=1783054763",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03135921/00_jpn-clng_1960-1970_head-600x400.jpg?v=1783054763",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07170715/20210914-AU0I52521_1-600x400.jpg?v=1783411636"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:44.393Z"
+  },
+  "https://www.motor1.com/news/801273/audi-nuvolari-jaguar-ev-goodwood-2026/": {
+    "title_zh": "奥迪 Nuvolari 与捷豹 Type 01 亮相古德伍德，网络反应激烈",
+    "summary_short": "奥迪 Nuvolari 与捷豹 Type 01 在古德伍德爬山赛中亮相，设计引发网络争议，两款车均将于 2027 年上市。",
+    "summary_long": "奥迪 Nuvolari 和伪装版捷豹 Type 01 在古德伍德速度节爬山赛中亮相，引发网络热议。两款车均因设计受到批评。Nuvolari 是奥迪最强大的量产车，限量 499 台；Type 01 则标志着捷豹向电动超豪华转型。两者都计划于 2027 年上市。",
+    "highlights_zh": [
+      "奥迪 Nuvolari 与捷豹 Type 01 亮相…",
+      "设计引发网络争议",
+      "两款车均于 2027 年上市",
+      "Nuvolari 限量 499 台"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "捷豹 | Jaguar",
+      "Nuvolari",
+      "Type 01",
+      "古德伍德"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPLRy/s1/audi-nuvolari-and-jaguar-type-01.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:45.321Z"
+  },
+  "https://www.motor1.com/news/801354/goodwood-festival-of-speed-2026-livestream/": {
+    "title_zh": "2026 古德伍德速度节直播",
+    "summary_short": "第 33 届古德伍德速度节开幕，奥迪、兰博基尼等品牌将发布新车，超跑、SUV 等车型参与爬山赛。",
+    "summary_long": "第 33 届古德伍德速度节在英国正式开幕，作为标志性的速度与性能庆典，本届活动有望成为最佳之一。数十款新车将首次参加爬山赛，涵盖 SUV、跑车和超级跑车。奥迪、兰博基尼、Gordon Murray 等制造商将在古德伍德草坪上发布新车型和概念车。",
+    "highlights_zh": [
+      "第 33 届古德伍德速度节开幕",
+      "数十款新车参加爬山赛",
+      "奥迪、兰博基尼等发布新车型",
+      "Gordon Murray 展示新概念车"
+    ],
+    "entities": [
+      "古德伍德速度节 | Goodwood Festival of Speed",
+      "奥迪 | Audi",
+      "兰博基尼",
+      "Gordon Murray"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4wAk/s1/2026-goodwood-festival-of-speed.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:48.429Z"
+  },
+  "https://www.motor1.com/news/801307/mechanic-takes-customer-car-shopping/": {
+    "title_zh": "车主发现 4S 店员工开自己的车办私事",
+    "summary_short": "车主将车送修后，通过行程记录 App 发现员工驾车行驶 50 英里，包括回家和去餐厅，引发争议。",
+    "summary_long": "一位车主将车送到经销商处维修，随后通过手机上的行程记录 App 发现，维修人员驾驶他的车行驶了约 50 英里，途中包括回家和去餐厅等私人行程。车主在 TikTok 上发布视频询问这是否正常，视频获得超过 9.67 万次观看。多名经销商员工证实，客户车辆被用于未经授权的行程并不罕见。",
+    "highlights_zh": [
+      "车主通过 App 发现车辆被开 50 英里",
+      "员工驾车回家并去餐厅",
+      "视频获 9.67 万次观看",
+      "经销商员工称此类情况常见"
+    ],
+    "entities": [
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJYg6/s1/man-drop-his-car-off-at-the-dealership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:50.079Z"
+  },
+  "https://www.motor1.com/news/801044/buy-ugly-auction-cars/": {
+    "title_zh": "二手车商揭秘：买“丑车”才是赚钱之道",
+    "summary_short": "二手车商透露，拍卖会上外观破旧的车辆才是利润来源，经过清洁维修后转售获利。",
+    "summary_long": "在二手车拍卖会上，外观光鲜的车辆往往竞争激烈，价格被推高，利润空间有限。佛罗里达州一家车行的销售员在 TikTok 视频中表示，真正的赚钱机会在于那些外观粗糙、吓跑其他买家的车辆。车商低价购入这些“丑车”，经过清洁、维修和整备后，以零售价出售，从而获得利润。视频提醒消费者，购买这类翻新车时应询问实际修复内容。",
+    "highlights_zh": [
+      "车商靠买外观破旧的拍卖车赚钱",
+      "漂亮车竞争激烈",
+      "丑车经清洁维修后转售获利",
+      "消费者应询问车辆实际修复情况"
+    ],
+    "entities": [
+      "GAA Auto"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3E9J/s1/used-car-salesman-reveals-a-trade-secret.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-11T14:33:53.209Z"
   }
 }

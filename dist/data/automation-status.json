@@ -1,145 +1,115 @@
 {
   "workflow": {
-    "generated_at": "2026-07-11T03:39:31.975Z",
+    "generated_at": "2026-07-11T14:33:13.209Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 377,
-    "deepseek_untranslated_before_run": 23,
-    "newly_fetched_articles": 23,
-    "newly_fetched_untranslated": 23,
+    "deepseek_translated_before_run": 385,
+    "deepseek_untranslated_before_run": 15,
+    "newly_fetched_articles": 15,
+    "newly_fetched_untranslated": 15,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 23,
+    "translation_queue_count": 15,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.11",
-        "title": "「とうとう復活するか！」トヨタ『セリカ』次期型スクープに期待の声続々！",
-        "url": "https://response.jp/article/2026/07/11/413892.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "「酔わない」は大きな魅力!! においや視界まで考えたセレナの酔わせない工夫が涙モノ!!",
-        "url": "https://bestcarweb.jp/feature/column/1564333"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "【CARTUNE】今週の投稿お題は「大自然と愛車」！ 梅雨明けレジャーシーズンの参考に",
-        "url": "https://response.jp/article/2026/07/11/413894.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "【スズキ ワゴンR 新型試乗】「MTが少ない」と嘆くあなたに、『ワゴンR』があるじゃない…中村孝仁",
-        "url": "https://response.jp/article/2026/07/11/413898.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第806回",
-        "url": "https://bestcarweb.jp/feature/column/1562444"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "eキャンターベースの「フル電動クレーン車」からリチウムバッテリ搭載「静音型高所作業車」まで！ タダノが年内発売予定の特装車を公開！",
-        "url": "https://bestcarweb.jp/fullload/1573157"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "ディーラーなのにキャンプ場!? オートキャンプやヴィラまで完備！ トヨタカローラ姫路「カロひめリバー」とは",
-        "url": "https://bestcarweb.jp/feature/column/1551690"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "トヨタ『GRスープラ』次期型、トヨタ主導の独自開発なるか…土曜ニュースランキング",
-        "url": "https://response.jp/article/2026/07/11/413896.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "トヨタ『タンドラ』の逆輸入開始に対応、KYBがハイパフォーマンスショックアブソーバ「2000 Series」国内投入",
-        "url": "https://response.jp/article/2026/07/10/413872.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "ハーレーダビッドソン『スポーツスターS』2569台をリコール…転倒のおそれ",
-        "url": "https://response.jp/article/2026/07/11/413891.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "ビーチに強いバスだと!? 小笠原の海遊びスポットへは路線バスで行くのが便利すぎる!!",
-        "url": "https://bestcarweb.jp/busmagazine/1563611"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "乗れるうちに乗っておきたい2シータースポーツの魅力!? 室内空間や実用性なんかより圧倒的なロマンこそ大事だろ！",
-        "url": "https://bestcarweb.jp/feature/column/1569597"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Man Finally Finds Mercedes G-Wagon Dealer Who Doesn't Do Mark Ups. Then He Realizes There's A Catch: '$60,000 Mark Up!'",
-        "url": "https://www.motor1.com/news/801177/mercedes-g-wagon-markup/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.10",
-        "title": "Ford's CEO Still Isn't Satisfied With Brand Quality",
-        "url": "https://www.motor1.com/news/801159/ford-ceo-not-satisfied-quality-recalls/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.10",
-        "title": "Audi’s New Models Are Carrying It Through 2026",
-        "url": "https://www.motor1.com/news/801326/audi-sales-results-down-2026/"
+        "title": "The StepRanger Is a Stuff Hauler That Fits Where Trucks Can’t",
+        "url": "https://www.thedrive.com/news/the-stepranger-is-a-stuff-hauler-that-fits-where-trucks-cant"
       },
       {
         "source": "InsideEVs",
-        "time": "2026.7.10",
-        "title": "The SkyNomad N90 Is Xiaomi’s Gas-Burning Adventure Rig",
-        "url": "https://insideevs.com/news/801336/xiaomi-skynomad-n90-erev-china/"
+        "time": "2026.7.11",
+        "title": "Toyota's EV Sales Have More Than Doubled This Year",
+        "url": "https://insideevs.com/news/801340/toyota-ev-sales-doubled-2026/"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.10",
-        "title": "2 Women Go To Kia Dealership To Buy 2 Cars. Then They Ask For $10K Off. Are There Group Rates?",
-        "url": "https://www.motor1.com/news/801145/women-negotiate-kias/"
+        "time": "2026.7.11",
+        "title": "Woman Gets Pulled Over By An Undercover Officer. Then She Has An Emotional Breakdown: ‘What He Did Was Entrapment’",
+        "url": "https://www.motor1.com/news/801285/undercover-officer-rides-bumper-gives-ticket/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "【カワサキ Z500 / Ninja500 試乗】ビッグバイクに疲れた大人におすすめしたい「52cc」アップの余裕…佐川健太郎",
+        "url": "https://response.jp/article/2026/07/11/413906.html"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.11",
+        "title": "Can You Extend An EV's Range With Portable Battery Banks? This Guy Is Trying It.",
+        "url": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.10",
-        "title": "The Maserati Project GT4 Is The Race Car You Didn’t Expect",
-        "url": "https://www.motor1.com/news/801301/maserati-project-gt4-race-car-debut/"
+        "time": "2026.7.11",
+        "title": "Thieves Steal 2 Cars From Dealership. Then The Small Business Owner Realizes His Troubles Are Just Starting: 'Big, Big Problem'",
+        "url": "https://www.motor1.com/news/801308/stolen-cars-lose-dealership-license/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.10",
-        "title": "460,000 Kia Tellurides Must Go Back to the Shop to Fix a Botched Fire-Risk Recall",
-        "url": "https://www.thedrive.com/news/460000-kia-tellurides-must-go-back-to-the-shop-to-fix-a-botched-fire-risk-recall"
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "キア『PV5 パッセンジャー』向けベッドキット、トイファクトリーが販売開始 33万円から",
+        "url": "https://response.jp/article/2026/07/11/413901.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "シビックはEXで十分？ ステアリングヒーター追加で快適性が上がった中核グレードをチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1563635"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.11",
+        "title": "テインの純正互換ショックアブソーバー「エンデュラ・プロ・ベーシック」、『スイフトスポーツ』『ヤリスクロス』用など一挙追加発売",
+        "url": "https://response.jp/article/2026/07/11/413903.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "メットやシューズは「飾る」時代！ デイトナからヘルメット＆シューズのディスプレイケース登場!!",
+        "url": "https://bestcarweb.jp/news/1568195"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.11",
+        "title": "世界を震撼させたクルマつくりの原点に迫る!! GT-R、シビック、ロータリーエンジンに見る国産名車伝説の始まり",
+        "url": "https://bestcarweb.jp/feature/column/1568448"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.10",
-        "title": "Kia Recalls 463,000 SUVs A Second Time For Seat Motor Fires",
-        "url": "https://www.motor1.com/news/801141/kia-telluride-recall-seat-motor-fires/"
+        "time": "2026.7.11",
+        "title": "Audi Nuvolari And Jaguar Type 01 Storm Goodwood. The Internet Reacts",
+        "url": "https://www.motor1.com/news/801273/audi-nuvolari-jaguar-ev-goodwood-2026/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.11",
+        "title": "Watch The 2026 Goodwood Festival Of Speed: Live",
+        "url": "https://www.motor1.com/news/801354/goodwood-festival-of-speed-2026-livestream/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.11",
+        "title": "Man Drops His Car Off At The Dealership. Then He Checks The Car’s Driving History: 'That's Not OK'",
+        "url": "https://www.motor1.com/news/801307/mechanic-takes-customer-car-shopping/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.11",
+        "title": "Used Car Salesman Reveals A Wild Trade Secret. Then He Says It’s All About Buying Your Ugly Car: ‘How We Make Money’",
+        "url": "https://www.motor1.com/news/801044/buy-ugly-auction-cars/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 23,
-    "queued_articles": 23,
-    "processed": 23,
-    "started_at": "2026-07-11T03:39:32.391Z",
-    "finished_at": "2026-07-11T03:40:17.754Z",
+    "scoped_articles": 15,
+    "queued_articles": 15,
+    "processed": 15,
+    "started_at": "2026-07-11T14:33:13.522Z",
+    "finished_at": "2026-07-11T14:33:53.225Z",
     "success": true,
     "error": ""
   }
