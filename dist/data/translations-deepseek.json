@@ -71708,5 +71708,473 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-11T14:33:53.209Z"
+  },
+  "https://bestcarweb.jp/feature/column/1558109": {
+    "title_zh": "丰田 bZ4X 大幅进化：续航 746km，商品力飙升",
+    "summary_short": "丰田 bZ4X 经过 2025 年秋季大幅改良，续航提升至 746km，商品力全面复活，成为日本最畅销 BEV。",
+    "summary_long": "丰田 bZ4X 在 2025 年 10 月进行大幅改良，对电池、e 轴、电源管理、内外饰等全面刷新，商品力大幅提升。改良后车型续航里程达 746km，价格调整和补贴政策也助力其销量增长。2026 年 3 月销量超过 3300 台，成为日本最畅销的纯电动车。汽车评论家渡边敏史试驾后给予高度评价，认为 bZ4X 已完全复活。",
+    "highlights_zh": [
+      "续航提升至 746km",
+      "电池、e 轴、电源管理全面刷新",
+      "2026 年 3 月销量超 3300 台",
+      "成为日本最畅销 BEV"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "bZ4X",
+      "e-TNGA",
+      "斯巴鲁 | Subaru"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23151233/00_takatte_bZ4X_DSC0623.jpg?v=1782195154",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23151233/00_takatte_bZ4X_DSC0623-600x400.jpg?v=1782195154",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22132223/00_kenjya_K-car_046_head-600x400.jpg?v=1782102144"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:53:56.114Z"
+  },
+  "https://response.jp/article/2026/07/12/413909.html": {
+    "title_zh": "下一代丰田 GR Supra 或搭载混动系统，SNS 热议",
+    "summary_short": "下一代丰田 GR Supra 可能采用混动系统，搭载 2.0T 四缸发动机与电机，综合功率达 450 马力，设计延续锤头风格。",
+    "summary_long": "下一代丰田 GR Supra 预计将脱离与宝马的合作，采用丰田自主研发的技术。动力方面，可能搭载丰田新一代 2.0 升四缸涡轮增压发动机，并匹配单电机混动系统，综合功率约 450 马力，超越现款车型。外观将采用丰田最新的“锤头”设计语言，结合细长 LED 日行灯和大型下格栅，同时保留长车头短车尾的经典比例。",
+    "highlights_zh": [
+      "可能搭载 2.0T 混动系统",
+      "外观采用锤头设计",
+      "脱离宝马合作",
+      "SNS 上对设计表示期待"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR Supra",
+      "GR Yaris",
+      "GR Corolla",
+      "GR86"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226378.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226378.jpg",
+      "https://response.jp/imgs/fill2/2226376.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:53:57.135Z"
+  },
+  "https://response.jp/article/2026/07/12/413911.html": {
+    "title_zh": "铃木 Hustler 小改款试驾：新前脸背后的实力",
+    "summary_short": "铃木 Hustler 小改款登场，新前脸设计、驾驶辅助升级，行驶性能强化，试驾体验全面解析。",
+    "summary_long": "铃木微型跨界车 Hustler 迎来小改款，前脸设计焕新，驾驶辅助系统大幅升级，包括全系标配盲点监测、后方交叉交通警报和升级版碰撞缓解制动。此外，电子手刹的加入配合自适应巡航的拥堵停止保持功能，提升了便利性。试驾车型为 Hybrid X 前驱版，行驶性能也得到强化。",
+    "highlights_zh": [
+      "新前脸设计更可爱",
+      "全系标配盲点监测和后方交叉交通警报",
+      "电子手刹配合 ACC 拥堵停止保持",
+      "碰撞缓解制动支持交叉路口"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "ハスラー",
+      "Hybrid X"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226816.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226815.jpg",
+      "https://response.jp/imgs/fill2/2226815.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:53:59.968Z"
+  },
+  "https://bestcarweb.jp/feature/column/1556436": {
+    "title_zh": "预算 200 万日元以下：斯威夫特运动版二手 1 万公里仅 170 万日元？超值二手推荐",
+    "summary_short": "预算 200 万日元以下，二手斯威夫特运动版、雅力士等性能车性价比极高，1 万公里车况仅 170 万日元左右。",
+    "summary_long": "受退休收入减少和物价上涨影响，购车预算下降的人增多。但不必只盯着新车，二手市场仍有大量高性价比选择。推荐最终版 Suzuki Swift Sport，6 速 AT 版约 160 万日元可购得 3 万公里车况；若坚持 MT，需加 10 万日元。Toyota Yaris 1.5L MT 版操控轻快，1 万公里车况约 170 万日元。若追求高级感，可考虑 Nissan Note Aura 前期型。",
+    "highlights_zh": [
+      "Suzuki Swift Sport 二手约 160…",
+      "Toyota Yaris MT 版 1 万公里仅 1…",
+      "Nissan Note Aura 前期型提供高级感",
+      "预算 200 万日元以下仍有优质选择"
+    ],
+    "entities": [
+      "スズキ スイフトスポーツ",
+      "トヨタ ヤリス",
+      "日産 ノートオーラ",
+      "二手性能车",
+      "高性价比"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21202412/00_kenjya_035_head.jpg?v=1782041054",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/21202412/00_kenjya_035_head-600x400.jpg?v=1782041054",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22132223/00_kenjya_K-car_046_head-600x400.jpg?v=1782102144"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:01.833Z"
+  },
+  "https://response.jp/article/2026/07/12/413908.html": {
+    "title_zh": "都营交通举办小学生职业体验活动",
+    "summary_short": "东京都交通局为小学生举办巴士和地铁职业体验活动，可参观营业所、体验模拟驾驶。",
+    "summary_long": "东京都交通局将于 2026 年 8 月 5 日和 6 日举办“都营交通 乘物工作探险队”活动，面向都内在住或上学的小学生。活动在都营巴士营业所和都营地铁研修所举行，孩子们可直接向现场工作人员学习工作内容。今年首次开设巴士课程，可体验巴士驾驶和维修；地铁课程则包含驾驶模拟器体验。参与者将获得调查报告表，可整理见闻作为自由研究。",
+    "highlights_zh": [
+      "8 月 5 日、6 日举办",
+      "巴士和地铁双课程",
+      "首次开设巴士课程",
+      "可作自由研究素材"
+    ],
+    "entities": [
+      "都营交通",
+      "都营巴士",
+      "都营地铁"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226674.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226685.jpg",
+      "https://response.jp/base/images/provider_resemom.gif"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:03.844Z"
+  },
+  "https://response.jp/article/2026/07/12/413907.html": {
+    "title_zh": "NEXCO 东日本举办“高速公路☆儿童探险队 2026”体验活动",
+    "summary_short": "NEXCO 东日本为小学生举办高速公路体验活动，可参观管制中心、体验 ETC 和隧道放水等，免费参加。",
+    "summary_long": "NEXCO 东日本关东支社将于 2026 年 7 月 31 日在埼玉县埼玉市、8 月 6 日在群马县高崎市举办面向小学生的体验活动“高速公路☆儿童探险队 2026”。活动旨在让儿童在暑假期间近距离感受高速公路，提供“道路管制中心参观”和“高速公路安全设备与技术体验”两个课程。埼玉课程可参观 24 小时监控的管制中心、参与问答和涂色、模拟管制员体验，并乘坐高速公路作业车辆。高崎课程可在技术培训中心和高崎管理事务所体验 ETC 栏杆、隧道放水等安全设备，同样可乘坐巡逻车和除雪车。活动免费，但需自行承担集合解散地点的交通费。",
+    "highlights_zh": [
+      "面向小学生的免费体验活动",
+      "参观道路管制中心",
+      "体验 ETC 和隧道放水",
+      "乘坐巡逻车和除雪车"
+    ],
+    "entities": [
+      "NEXCO 东日本",
+      "埼玉县",
+      "群马县",
+      "高速公路",
+      "儿童探险队"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226665.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226665.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:06.415Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562920": {
+    "title_zh": "【猜车名】第 807 回：日产 Sunny 第四代（B310 型）",
+    "summary_short": "日产 Sunny 第四代（B310 型）是最后一代使用 Datsun 品牌和 FR 布局的车型，1977 年上市，提供多种车身形式。",
+    "summary_long": "日产 Sunny 诞生于 1966 年，与丰田 Corolla 竞争，至 2004 年停产，共九代。第四代（B310 型）于 1977 年 11 月推出，是最后一代悬挂 Datsun 品牌且采用前置后驱（FR）布局的 Sunny。提供轿车、双门轿跑和货车三种车身形式。1979 年改款，前大灯由圆形改为方形，同年还推出了五门旅行车 Sunny California。",
+    "highlights_zh": [
+      "第四代 Sunny（B310 型）是最后一代 Dat…",
+      "1977 年 11 月上市",
+      "1979 年改款",
+      "同年推出五门旅行车 Sunny California"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Sunny",
+      "丰田 | Toyota",
+      "Corolla",
+      "Datsun"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29140242/main_SP01450012.jpg?v=1782709363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29140242/main_SP01450012-600x400.jpg?v=1782709363",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29150912/main_am197209_life17_01002H-600x400.jpg?v=1782713353"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:08.187Z"
+  },
+  "https://response.jp/article/2026/07/12/413914.html": {
+    "title_zh": "Indian 将停产搭载空冷 1890cc 发动机的旅行/巡航车型（2026 年款）",
+    "summary_short": "Indian 宣布 2026 年款后将停产搭载 Thunderstroke 116 空冷 V 型双缸发动机的旅行/巡航车型，包括 Roadmaster、Chieftain 和 Springfield。",
+    "summary_long": "Polaris Japan 于 7 月 10 日宣布，Indian Motorcycle 旗下搭载 1890cc 纯空冷发动机“Thunderstroke 116”的旅行/巡航车型（空冷重型系列：Roadmaster、Chieftain、Springfield）将在 2026 年款后停产。随着全球排放和噪音法规日益严格，大排量纯空冷 V 型双缸发动机逐渐减少。Indian 长期坚守传统空冷 V 型双缸的魅力，但为应对环境法规并转向下一代车型，Thunderstroke 116 系列将结束使命。该发动机以 1940 年代设计为灵感，采用独特的三凸轮机构实现推杆造型，并配备气缸歇缸、骑行模式等先进技术，其不等间隔点火和散热片造型独具魅力。",
+    "highlights_zh": [
+      "Indian 空冷重型系列 2026 年款后停产",
+      "涉及 Roadmaster、Chieftain、Sp…",
+      "Thunderstroke 116 发动机排量 18…",
+      "停产主因是全球排放与噪音法规趋严"
+    ],
+    "entities": [
+      "インディアンモーターサイクル",
+      "Thunderstroke 116",
+      "ロードマスター",
+      "チーフテン",
+      "スプリングフィールド"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226862.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226862.jpg",
+      "https://response.jp/imgs/fill2/2226637.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:11.958Z"
+  },
+  "https://response.jp/article/2026/07/12/413916.html": {
+    "title_zh": "OGK Kabuto Kamui-5 新涂装“LUNOA”发布：极光色彩演绎存在感与幻想",
+    "summary_short": "OGK Kabuto 为 Kamui-5 全盔推出新涂装 LUNOA，以极光色彩展现深邃美感，售价 51700 日元，7 月上旬开售。",
+    "summary_long": "OGK Kabuto 为其全盔 Kamui-5 新增涂装型号 LUNOA，以极光般变幻的色彩表现深邃美感与幻想性。涂装精细描绘了静寂中光波的摇曳，兼具存在感与梦幻感。提供珍珠白薄荷和哑光黑霓虹两种配色。Kamui-5 标配 CF-2 UIC 镜片，可阻隔 99% 紫外线和 74% 红外线，抑制头盔内部升温。此外还配备大型内遮阳板、两段式下巴通风、双轴棘轮机构及新设计内衬，提升舒适性与便利性。头盔采用 2 壳 5 尺寸设计，覆盖 XS 至 XL。",
+    "highlights_zh": [
+      "新涂装 LUNOA 以极光色彩呈现",
+      "标配 CF-2 UIC 镜片",
+      "配备大型内遮阳板与双轴棘轮机构",
+      "2 壳 5 尺寸"
+    ],
+    "entities": [
+      "OGK Kabuto",
+      "KAMUI-5",
+      "ルノア",
+      "全盔"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225936.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225936.jpg",
+      "https://response.jp/imgs/fill2/2225932.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:13.077Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1576082": {
+    "title_zh": "梦幻巴士之旅：四家运营商首次合作",
+    "summary_short": "西武绿色之旅策划的“巴士爱好者最爱！四社局梦幻合作之旅”将于 7 月 26 日举行，汇集西武巴士、横滨市营巴士、相铁巴士和东急巴士的经典车型。",
+    "summary_long": "西武绿色之旅策划的“巴士爱好者最爱！四社局梦幻合作之旅”将于 7 月 26 日（周日）举行。此次活动汇集了平时难得同台的西武巴士、横滨市营巴士、相铁巴士和东急巴士四家运营商，为巴士爱好者呈现一场梦幻般的体验。参与车辆各具特色：西武巴士和横滨市营巴士均派出“日野蓝丝带城市混合动力”车型，该车是日本早期混合动力技术的代表；相铁巴士提供人气车型“三菱扶桑 Aero Star 非阶梯”；东急巴士则带来稀有的“三菱扶桑 Aero Star One-Roma”车型，这是一种兼具路线巴士和包车巴士功能的兼用车。",
+    "highlights_zh": [
+      "四家运营商首次合作举办巴士之旅",
+      "西武巴士和横滨市营巴士派出日野混合动力车型",
+      "相铁巴士提供三菱扶桑 Aero Star 非阶梯巴士",
+      "东急巴士展示稀有的三菱扶桑 Aero Star On…"
+    ],
+    "entities": [
+      "西武巴士",
+      "横滨市营巴士",
+      "相铁巴士",
+      "东急巴士",
+      "日野蓝丝带城市混合动力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/10115349/2026_02_07_EOS-R3_0662-1024x407.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/29170823/ogsw_bchbsacs_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/12120217/IMGL1463.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:20.356Z"
+  },
+  "https://bestcarweb.jp/fullload/1573182": {
+    "title_zh": "丰和工业约 20 年首度全面改进路面清扫车",
+    "summary_short": "丰和工业约 20 年来首度全面改进路面清扫车，新增作业监控屏，提升操作与维护便利性。",
+    "summary_long": "丰和工业对路面清扫车“Street Sweeper”的主力机型 HF95H 和 HF85H 进行了约 20 年来的首次全面改进，2026 年 7 月起发售。改进重点在于提升操作性和维护性，新增作业专用监控屏显示刷子工作状态，重新设计控制盒，并加大料斗举升高度、增大维护门、采用外部集中润滑等，同时将燃油箱从 100L 增至 140L 以延长续航。",
+    "highlights_zh": [
+      "约 20 年首次全面改进",
+      "新增作业专用监控屏",
+      "料斗举升高度增加 150mm",
+      "燃油箱从 100L 增至 140L"
+    ],
+    "entities": [
+      "丰和工业",
+      "路面清扫车",
+      "HF95H",
+      "HF85H",
+      "CSPI2026"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/08125310/00_AR5I6848-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/08115429/00_AR5I6732-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/07144549/0B5A8656-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:21.330Z"
+  },
+  "https://www.motor1.com/news/801365/buyer-catfishes-car-salesman/": {
+    "title_zh": "客户“钓鱼”销售员，男友出面拿底价",
+    "summary_short": "一位马自达销售员抱怨客户用“钓鱼”方式压低价格，实际购车者是她的男友，评论区却称赞这是教科书式的砍价方法。",
+    "summary_long": "一位加州圣莱安德罗的马自达销售员在 TikTok 上抱怨，一名女子预约看车并不断压价，最终成交时才发现实际购车者是她的男友。销售员称自己被“钓鱼”，但评论区却认为这是经典的砍价策略。",
+    "highlights_zh": [
+      "客户用假身份预约",
+      "销售员称被“钓鱼”压低底价",
+      "评论区称赞为教科书式砍价"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "圣莱安德罗",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJwZ1/s1/man-goes-to-car-dealership.-then-he-catfishes-the-salesman--and-gets-away-with-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:23.927Z"
+  },
+  "https://www.motor1.com/news/801364/enterprise-car-rental-vs-costco/": {
+    "title_zh": "Costco 租车比 Enterprise 便宜近一半",
+    "summary_short": "一位妈妈对比 Enterprise 和 Costco 租车价格，发现通过 Costco 预订 Chrysler Pacifica 可节省近一半费用。",
+    "summary_long": "一位妈妈在计划家庭公路旅行时，对比了 Enterprise 和 Costco 的租车价格。她需要租一辆 Chrysler Pacifica 或类似七座车，Enterprise 报价超过 1000 美元，而通过 Costco Travel 预订仅需 570 美元，价格几乎减半。她分享了这一省钱技巧，提醒消费者在租车前多比较不同渠道。",
+    "highlights_zh": [
+      "Enterprise 报价超 1000 美元",
+      "Costco 仅需 570 美元",
+      "租车省钱技巧分享"
+    ],
+    "entities": [
+      "Enterprise",
+      "Costco",
+      "Chrysler Pacifica"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Qe7J3N/s1/mom-checks-price-to-rent-chrysler-pacifica-from-enterprise.-then-she-compares-it-to-costco.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:24.855Z"
+  },
+  "https://www.motor1.com/news/801362/rimlox-prevent-wheel-theft/": {
+    "title_zh": "拖车司机分享 100%防止车轮被盗的方法",
+    "summary_short": "拖车司机发现又一辆车轮被盗的汽车，分享一种号称 100%有效的防盗方法。",
+    "summary_long": "一名马里兰州拖车司机在拖运一辆 2026 款本田思域时发现其车轮被盗，车辆仅靠汽水瓶箱支撑。他随后分享了一种名为 Rimlox 的防盗装置，声称能 100%防止车轮被盗。该司机因频繁遇到车轮被盗车辆而受到当地媒体关注。",
+    "highlights_zh": [
+      "拖车司机发现 2026 款本田思域车轮被盗",
+      "车辆仅靠汽水瓶箱支撑",
+      "推荐 Rimlox 防盗装置",
+      "声称 100%有效防止车轮被盗"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域",
+      "马里兰州",
+      "Rimlox"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3Xvv/s1/tow-truck-driver-picks-up-2026-honda-civic-with-stolen-wheels.-then-he-shares-a-100-guaranteed-way-to-stop-tire-theft.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:27.096Z"
+  },
+  "https://www.thedrive.com/news/the-fiat-topolino-is-barely-a-car-but-it-might-get-an-abarth-variant": {
+    "title_zh": "菲亚特 Topolino 或将推出 Abarth 性能版",
+    "summary_short": "菲亚特计划为微型电动车 Topolino 推出 Abarth 性能版，但这款最高时速仅 25 英里的“四轮车”能否真正运动化仍存疑。",
+    "summary_long": "菲亚特正考虑为其微型电动车 Topolino 推出 Abarth 性能版本。CEO Olivier Francois 表示这是一个“梦想”，并称“正在努力，可能会实现”。然而，Topolino 本质上是一款微型低速电动车，在欧洲被归类为“四轮车”，最高时速仅 25 英里，续航 46 英里。尽管此前许多非运动型菲亚特车型成功推出了 Abarth 版本，但 Topolino 的基础架构使其运动化颇具挑战。菲亚特已在意大利市场推出 Topolino Sport 装饰版，但仅增加赛车条纹，无机械改动。",
+    "highlights_zh": [
+      "菲亚特考虑为 Topolino 推出 Abarth…",
+      "CEO 称这是“梦想”",
+      "Topolino 最高时速仅 25 英里",
+      "欧洲归类为“四轮车”"
+    ],
+    "entities": [
+      "菲亚特 | Fiat",
+      "Topolino",
+      "Abarth"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/BU026_101EV.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/BU026_100EV.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/BU026_098EV.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:29.362Z"
+  },
+  "https://www.thedrive.com/news/slate-knows-that-gray-is-boring-so-its-launching-with-legit-crayola-wraps": {
+    "title_zh": "Slate 与 Crayola 合作推出彩色车衣",
+    "summary_short": "Slate 电动皮卡与 Crayola 合作推出五款彩色车衣，包括 Cerulean、Fern 等，售价 1549.99 美元，预计今年第四季度交付。",
+    "summary_long": "Slate 电动皮卡以简约设计著称，默认车身是未涂装的灰色面板。为增加个性，Slate 与 Crayola 合作推出五款 Crayola 彩色车衣：Cerulean（蓝色）、Fern（绿色）、Jersey Tomato（橙色）、Dandelion（黄色）和 Razzmatazz（粉红色）。这些车衣以“入门包”形式销售，包含车衣、贴纸、钥匙扣帽和可夹在挡风玻璃上的蜡笔装饰，售价 1549.99 美元。基础车衣起价 500 美元，安装费另加 500 美元。Slate 已开放预订单，需支付 300 美元不可退还定金，车辆基础价 24950 美元，预计今年第四季度开始交付。",
+    "highlights_zh": [
+      "Slate 与 Crayola 合作推出五款彩色车衣",
+      "车衣颜色包括 Cerulean、Fern、Jerse…",
+      "入门包售价 1549.99 美元",
+      "Slate 电动皮卡预订单已开放"
+    ],
+    "entities": [
+      "Slate",
+      "Crayola",
+      "Slate 电动皮卡"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Slate-Truck-in-the-Slate-x-Crayola.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/260602_JM_CrayolaSlate_Day_02_Mirror_Detail_Fern__1_.jpg.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/collabs-modulesText_and_Media_-_1080_x_720__2-Up_center_square_.jpg.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:31.525Z"
+  },
+  "https://www.motor1.com/news/801330/new-italian-supercar-v8-manual/": {
+    "title_zh": "意大利新超跑搭载自然吸气 V8 和手动变速箱",
+    "summary_short": "Automobili Mignatta 发布 Rina Coupe 预览图，确认搭载自然吸气 V8 发动机、手动变速箱和碳纤维单体壳，追求纯粹驾驶体验。",
+    "summary_long": "意大利皮埃蒙特的小众手工跑车制造商 Automobili Mignatta 在 2026 年古德伍德速度节上预览了即将于 2027 年推出的 Rina Coupe。该车延续了 Rina Barchetta 的核心理念，采用封闭式车身，设计灵感源自 1960 年代的意大利 GT 跑车，拥有双气泡车顶和 Kamm 式车尾。机械部分保持不变：碳纤维单体壳、5.0 升自然吸气 V8 发动机（约 493 马力）和六速手动变速箱，强调纯模拟驾驶体验。同场还展示了新涂装的 Rina Barchetta，致敬皮埃蒙特传统车身工艺。",
+    "highlights_zh": [
+      "自然吸气 5.0L V8 发动机",
+      "六速手动变速箱",
+      "碳纤维单体壳",
+      "2027 年推出"
+    ],
+    "entities": [
+      "Automobili Mignatta",
+      "Rina Coupe",
+      "Rina Barchetta",
+      "自然吸气 V8",
+      "手动变速箱"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3QkwJ/s1/automobili-mignatta-i-primi-bozzetti-della-futura-rina-coupe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:33.935Z"
+  },
+  "https://www.motor1.com/news/801181/jeep-battery/": {
+    "title_zh": "吉普角斗士更换电池仍无法启动，机修工发现惊人改装",
+    "summary_short": "吉普角斗士车主更换新电池后仍无法启动，机修工发现发动机舱内布满杂乱的电线和管路，疑似非法改装导致漏电。",
+    "summary_long": "一位吉普角斗士车主因电池亏电更换了新电池，但车辆仍无法启动。机修工 Andrew 检查时发现发动机舱内布满了杂乱的红线、附加线路和软管，这些改装并非原厂配置。虽然视频未明确说明具体问题，但推测可能是加装附件或充电系统改造导致的寄生电流。机修工在开始测试前已对复杂的改装感到困惑。",
+    "highlights_zh": [
+      "更换新电池后仍无法启动",
+      "发动机舱内发现杂乱改装线路",
+      "疑似寄生电流导致亏电",
+      "机修工对改装感到震惊"
+    ],
+    "entities": [
+      "吉普 | Jeep",
+      "角斗士",
+      "寄生电流",
+      "改装"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8VmA/s1/man-says-his-car-won-t-start-despite-putting-a-new-battery-.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:35.676Z"
+  },
+  "https://www.thedrive.com/news/we-used-to-be-a-country-this-1988-chevrolet-hot-shot-hauler-is-a-bygone-beauty-you-can-buy": {
+    "title_zh": "1988 款雪佛兰 Hot Shot Hauler：复古风格迷你半挂卡车",
+    "summary_short": "1988 年雪佛兰 3500 改装成迷你半挂卡车，配备第五轮和卧铺，风格独特，即将拍卖。",
+    "summary_long": "现代重型卡车在性能和舒适性上无可挑剔，但论及风格，它们无法与几十年前的卡车相提并论。这辆基于 1988 年雪佛兰 3500 双后轮底盘改装的 Hot Shot Hauler，本质上是一辆带有第五轮和扩展第二排座椅（兼作卧铺）的迷你半挂卡车。它拥有时代感的条纹涂装、大量天线、鸭尾式车顶、气喇叭和巨大的镀铬后视镜。动力来自 7.4 升 V8 汽油发动机，匹配三速自动变速箱，并配备三个油箱以增加续航。该车将于 7 月 23 日在 Mecum 拍卖会上出售。",
+    "highlights_zh": [
+      "基于 1988 年雪佛兰 3500 双后轮改装",
+      "配备第五轮和卧铺",
+      "7.4 升 V8 发动机",
+      "三个油箱"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Hot Shot Hauler",
+      "Mecum"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-12.09.16-PM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-12.11.42-PM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-12.09.35-PM.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:38.232Z"
+  },
+  "https://www.motor1.com/news/801361/travis-pastrana-subaru-goodwood-2026-video/": {
+    "title_zh": "Travis Pastrana 驾驶 670 马力 Subaru Brataroo 漂移攻山",
+    "summary_short": "Travis Pastrana 驾驶 670 马力定制 Subaru Brataroo 在古德伍德速度节上漂移攻山，冲击新纪录。",
+    "summary_long": "Travis Pastrana 驾驶其 670 马力的定制 Subaru Brataroo 参加今年古德伍德速度节。该车基于原版 Subaru Brat 打造，采用碳纤维车身，专为 Gymkhana 设计。在正式计时赛前，Pastrana 进行了练习，几乎每个弯道都采用漂移过弯，充分展示了车辆的动力和驾驶技术。Pastrana 自 2021 年起成为古德伍德常客，曾驾驶 862 马力的 Subaru Airslayer STI 创下 46.20 秒的纪录，2023 年和 2024 年驾驶 Subaru Family Huckster 分别跑出 49.32 秒和 47.50 秒。今年他希望在 Brataroo 上刷新纪录。",
+    "highlights_zh": [
+      "Travis Pastrana 驾驶 670 马力…",
+      "车辆基于原版 Subaru Brat",
+      "Pastrana 在练习中几乎每个弯道都漂移过弯",
+      "他曾在 2021 年驾驶 862 马力 Subaru…"
+    ],
+    "entities": [
+      "Travis Pastrana",
+      "Subaru Brataroo",
+      "Subaru Airslayer STI",
+      "Subaru Family Huckster",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWqMl/s1/travis-pastrana-subaru-goodwood.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T03:54:40.728Z"
   }
 }

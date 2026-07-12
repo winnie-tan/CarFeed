@@ -1,115 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-11T14:33:13.209Z",
+    "generated_at": "2026-07-12T03:53:51.952Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 385,
-    "deepseek_untranslated_before_run": 15,
-    "newly_fetched_articles": 15,
-    "newly_fetched_untranslated": 15,
+    "deepseek_translated_before_run": 380,
+    "deepseek_untranslated_before_run": 20,
+    "newly_fetched_articles": 20,
+    "newly_fetched_untranslated": 20,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 15,
+    "translation_queue_count": 20,
     "translation_queue_preview": [
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "「ここまで変わるとは……」完全復活の声も!? 航続746kmで商品力アップ！ 「bZ4X」の進化すごい",
+        "url": "https://bestcarweb.jp/feature/column/1558109"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "「発売が楽しみ」次期トヨタ『GRスープラ』はハイブリッドになる？ SNSでは燃費、デザインに関心",
+        "url": "https://response.jp/article/2026/07/12/413909.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "【スズキ ハスラー 試乗】新しいフロントマスクの奥に秘めた走りの実力は？ 最新モデルを試す。",
+        "url": "https://response.jp/article/2026/07/12/413911.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "【予算200万円以下】スイスポ中古1万キロの個体でも170万円台!? 掘り出し物中古がアツすぎる",
+        "url": "https://bestcarweb.jp/feature/column/1556436"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "【夏休み】お仕事探検隊…都営交通・バス営業所や地下鉄研修所へ",
+        "url": "https://response.jp/article/2026/07/12/413908.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "【夏休み】高速道路体験イベント「ハイウェイ☆キッズたんけん隊2026」開催---NEXCO東日本",
+        "url": "https://response.jp/article/2026/07/12/413907.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第807回",
+        "url": "https://bestcarweb.jp/feature/column/1562920"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "インディアン、空冷1890ccエンジン搭載のツーリング/バガーモデルを2026年モデルで終了へ",
+        "url": "https://response.jp/article/2026/07/12/413914.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "オーロラの色彩で存在感と幻想性を表現、オージーケーカブト『カムイ・5』に新グラフィック「ルノア」登場",
+        "url": "https://response.jp/article/2026/07/12/413916.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "ブラシの作動状況が見えるモニターを新設定！ 約20年ぶりにフルモデルチェンジした豊和工業の路面清掃車の進化に迫る！",
+        "url": "https://bestcarweb.jp/fullload/1573182"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "夢のプログラム「バス好き大好き！ ４社局夢のコラボツアー」でコラボ4社局ってどこなのよ？",
+        "url": "https://bestcarweb.jp/busmagazine/1576082"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.12",
+        "title": "Car Salesman Says Customer Catfished Him—And Walked Away With The ‘Best Price Out The Door’",
+        "url": "https://www.motor1.com/news/801365/buyer-catfishes-car-salesman/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.11",
+        "title": "Woman Tries To Rent A Car From Enterprise. Then She Checks Out Her Options At Costco: ‘I Was Literally Shocked’",
+        "url": "https://www.motor1.com/news/801364/enterprise-car-rental-vs-costco/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.11",
+        "title": "Tow Truck Driver Discovers Yet Another Car With Stolen Wheels. Then He Shares A ‘100% Guaranteed’ Way To Stop Tire Theft: 'Hurts'",
+        "url": "https://www.motor1.com/news/801362/rimlox-prevent-wheel-theft/"
+      },
       {
         "source": "The Drive",
         "time": "2026.7.11",
-        "title": "The StepRanger Is a Stuff Hauler That Fits Where Trucks Can’t",
-        "url": "https://www.thedrive.com/news/the-stepranger-is-a-stuff-hauler-that-fits-where-trucks-cant"
+        "title": "The Fiat Topolino Is Barely a Car, But It Might Get an Abarth Variant",
+        "url": "https://www.thedrive.com/news/the-fiat-topolino-is-barely-a-car-but-it-might-get-an-abarth-variant"
       },
       {
-        "source": "InsideEVs",
+        "source": "The Drive",
         "time": "2026.7.11",
-        "title": "Toyota's EV Sales Have More Than Doubled This Year",
-        "url": "https://insideevs.com/news/801340/toyota-ev-sales-doubled-2026/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Woman Gets Pulled Over By An Undercover Officer. Then She Has An Emotional Breakdown: ‘What He Did Was Entrapment’",
-        "url": "https://www.motor1.com/news/801285/undercover-officer-rides-bumper-gives-ticket/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "【カワサキ Z500 / Ninja500 試乗】ビッグバイクに疲れた大人におすすめしたい「52cc」アップの余裕…佐川健太郎",
-        "url": "https://response.jp/article/2026/07/11/413906.html"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.11",
-        "title": "Can You Extend An EV's Range With Portable Battery Banks? This Guy Is Trying It.",
-        "url": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/"
+        "title": "Slate Knows That Gray Is Boring, So It’s Launching With Legit Crayola Wraps",
+        "url": "https://www.thedrive.com/news/slate-knows-that-gray-is-boring-so-its-launching-with-legit-crayola-wraps"
       },
       {
         "source": "Motor1",
         "time": "2026.7.11",
-        "title": "Thieves Steal 2 Cars From Dealership. Then The Small Business Owner Realizes His Troubles Are Just Starting: 'Big, Big Problem'",
-        "url": "https://www.motor1.com/news/801308/stolen-cars-lose-dealership-license/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "キア『PV5 パッセンジャー』向けベッドキット、トイファクトリーが販売開始 33万円から",
-        "url": "https://response.jp/article/2026/07/11/413901.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "シビックはEXで十分？ ステアリングヒーター追加で快適性が上がった中核グレードをチェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1563635"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.11",
-        "title": "テインの純正互換ショックアブソーバー「エンデュラ・プロ・ベーシック」、『スイフトスポーツ』『ヤリスクロス』用など一挙追加発売",
-        "url": "https://response.jp/article/2026/07/11/413903.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "メットやシューズは「飾る」時代！ デイトナからヘルメット＆シューズのディスプレイケース登場!!",
-        "url": "https://bestcarweb.jp/news/1568195"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.11",
-        "title": "世界を震撼させたクルマつくりの原点に迫る!! GT-R、シビック、ロータリーエンジンに見る国産名車伝説の始まり",
-        "url": "https://bestcarweb.jp/feature/column/1568448"
+        "title": "This New Italian Supercar Packs A Naturally Aspirated V8 And A Manual Transmission",
+        "url": "https://www.motor1.com/news/801330/new-italian-supercar-v8-manual/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.11",
-        "title": "Audi Nuvolari And Jaguar Type 01 Storm Goodwood. The Internet Reacts",
-        "url": "https://www.motor1.com/news/801273/audi-nuvolari-jaguar-ev-goodwood-2026/"
+        "title": "Man Says Truck Won’t Start Despite Putting A New Battery In Recently. Mechanic Looks Under The Hood, Makes A Shocking Discovery",
+        "url": "https://www.motor1.com/news/801181/jeep-battery/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.11",
+        "title": "We Used To Be a Country: This 1988 Chevrolet Hot Shot Hauler Is a Bygone Beauty You Can Buy",
+        "url": "https://www.thedrive.com/news/we-used-to-be-a-country-this-1988-chevrolet-hot-shot-hauler-is-a-bygone-beauty-you-can-buy"
       },
       {
         "source": "Motor1",
         "time": "2026.7.11",
-        "title": "Watch The 2026 Goodwood Festival Of Speed: Live",
-        "url": "https://www.motor1.com/news/801354/goodwood-festival-of-speed-2026-livestream/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Man Drops His Car Off At The Dealership. Then He Checks The Car’s Driving History: 'That's Not OK'",
-        "url": "https://www.motor1.com/news/801307/mechanic-takes-customer-car-shopping/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Used Car Salesman Reveals A Wild Trade Secret. Then He Says It’s All About Buying Your Ugly Car: ‘How We Make Money’",
-        "url": "https://www.motor1.com/news/801044/buy-ugly-auction-cars/"
+        "title": "Travis Pastrana Drifts His Way Up Goodwood In A 670-Horsepower Subaru: Video",
+        "url": "https://www.motor1.com/news/801361/travis-pastrana-subaru-goodwood-2026-video/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 15,
-    "queued_articles": 15,
-    "processed": 15,
-    "started_at": "2026-07-11T14:33:13.522Z",
-    "finished_at": "2026-07-11T14:33:53.225Z",
+    "scoped_articles": 20,
+    "queued_articles": 20,
+    "processed": 20,
+    "started_at": "2026-07-12T03:53:52.278Z",
+    "finished_at": "2026-07-12T03:54:40.744Z",
     "success": true,
     "error": ""
   }
