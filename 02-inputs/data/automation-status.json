@@ -1,140 +1,104 @@
 {
   "workflow": {
-    "generated_at": "2026-07-12T03:53:51.952Z",
+    "generated_at": "2026-07-12T14:38:17.100Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 380,
-    "deepseek_untranslated_before_run": 20,
-    "newly_fetched_articles": 20,
-    "newly_fetched_untranslated": 20,
+    "deepseek_translated_before_run": 386,
+    "deepseek_untranslated_before_run": 14,
+    "newly_fetched_articles": 14,
+    "newly_fetched_untranslated": 14,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 20,
+    "translation_queue_count": 14,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "「ここまで変わるとは……」完全復活の声も!? 航続746kmで商品力アップ！ 「bZ4X」の進化すごい",
-        "url": "https://bestcarweb.jp/feature/column/1558109"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "「発売が楽しみ」次期トヨタ『GRスープラ』はハイブリッドになる？ SNSでは燃費、デザインに関心",
-        "url": "https://response.jp/article/2026/07/12/413909.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "【スズキ ハスラー 試乗】新しいフロントマスクの奥に秘めた走りの実力は？ 最新モデルを試す。",
-        "url": "https://response.jp/article/2026/07/12/413911.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "【予算200万円以下】スイスポ中古1万キロの個体でも170万円台!? 掘り出し物中古がアツすぎる",
-        "url": "https://bestcarweb.jp/feature/column/1556436"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "【夏休み】お仕事探検隊…都営交通・バス営業所や地下鉄研修所へ",
-        "url": "https://response.jp/article/2026/07/12/413908.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "【夏休み】高速道路体験イベント「ハイウェイ☆キッズたんけん隊2026」開催---NEXCO東日本",
-        "url": "https://response.jp/article/2026/07/12/413907.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第807回",
-        "url": "https://bestcarweb.jp/feature/column/1562920"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "インディアン、空冷1890ccエンジン搭載のツーリング/バガーモデルを2026年モデルで終了へ",
-        "url": "https://response.jp/article/2026/07/12/413914.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "オーロラの色彩で存在感と幻想性を表現、オージーケーカブト『カムイ・5』に新グラフィック「ルノア」登場",
-        "url": "https://response.jp/article/2026/07/12/413916.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "ブラシの作動状況が見えるモニターを新設定！ 約20年ぶりにフルモデルチェンジした豊和工業の路面清掃車の進化に迫る！",
-        "url": "https://bestcarweb.jp/fullload/1573182"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "夢のプログラム「バス好き大好き！ ４社局夢のコラボツアー」でコラボ4社局ってどこなのよ？",
-        "url": "https://bestcarweb.jp/busmagazine/1576082"
-      },
-      {
         "source": "Motor1",
         "time": "2026.7.12",
-        "title": "Car Salesman Says Customer Catfished Him—And Walked Away With The ‘Best Price Out The Door’",
-        "url": "https://www.motor1.com/news/801365/buyer-catfishes-car-salesman/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Woman Tries To Rent A Car From Enterprise. Then She Checks Out Her Options At Costco: ‘I Was Literally Shocked’",
-        "url": "https://www.motor1.com/news/801364/enterprise-car-rental-vs-costco/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Tow Truck Driver Discovers Yet Another Car With Stolen Wheels. Then He Shares A ‘100% Guaranteed’ Way To Stop Tire Theft: 'Hurts'",
-        "url": "https://www.motor1.com/news/801362/rimlox-prevent-wheel-theft/"
+        "title": "Woman Books Full-Size Car With Hertz. Then She Sees What They’re Giving Her: ‘They’re Arguing With Me’",
+        "url": "https://www.motor1.com/news/801331/woman-full-size-reservation-hertz/"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.11",
-        "title": "The Fiat Topolino Is Barely a Car, But It Might Get an Abarth Variant",
-        "url": "https://www.thedrive.com/news/the-fiat-topolino-is-barely-a-car-but-it-might-get-an-abarth-variant"
+        "time": "2026.7.12",
+        "title": "Only Two Yellow 2006 Ford GTs Left the Factory Without Stripes, and One Is for Sale",
+        "url": "https://www.thedrive.com/news/only-two-yellow-2006-ford-gts-left-the-factory-without-stripes-and-one-is-for-sale"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.11",
-        "title": "Slate Knows That Gray Is Boring, So It’s Launching With Legit Crayola Wraps",
-        "url": "https://www.thedrive.com/news/slate-knows-that-gray-is-boring-so-its-launching-with-legit-crayola-wraps"
+        "source": "InsideEVs",
+        "time": "2026.7.12",
+        "title": "BMW's U.S. Sales Are Up. But Its EVs Are Struggling",
+        "url": "https://insideevs.com/news/801304/bmw-q2-2026-sales-us/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "“BC戦争”でブルーバードを抜き記録を打ち立てた、3代目『コロナ』【懐かしのカーカタログ】",
+        "url": "https://response.jp/article/2026/07/12/413923.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "「激アツやん」「普通にかっこよくて草」トヨタ『アクア』「GR SPORT」グレード追加がSNSで話題に",
+        "url": "https://response.jp/article/2026/07/12/413919.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "【プジョー 5008 新型試乗】非日常感覚のインテリアと、プジョーらしいフラットライド…島崎七生人",
+        "url": "https://response.jp/article/2026/07/12/413921.html"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "This New Italian Supercar Packs A Naturally Aspirated V8 And A Manual Transmission",
-        "url": "https://www.motor1.com/news/801330/new-italian-supercar-v8-manual/"
+        "time": "2026.7.12",
+        "title": "Man Installs New Doors For His Volkswagen Golf. Then He Realizes How Badly He Miscalculated: ‘This Is Why AutoZone Employees Ask’",
+        "url": "https://www.motor1.com/news/801345/volkswagen-golf-door/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "R32やNSXが世界を夢中にさせた!! ネオクラ伝説の幕開け80年代＆90年代国産車をイッキ見！",
+        "url": "https://bestcarweb.jp/feature/column/1568667"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "アメリカンバイクの老舗インディアン!! バイカー心をくすぐるトートバッグ登場!!",
+        "url": "https://bestcarweb.jp/news/1568213"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "カーオーディオの音はケーブルで変わる？ まず知っておきたい3種類の違い［カー用音響機材・チョイスの極意…パーツ＆部材編］",
+        "url": "https://response.jp/article/2026/07/12/413922.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.12",
+        "title": "カワサキ、『Ninja ZX-10R』モチーフの子供用木製バランスバイク販売…7月10‐20日の期間限定受注",
+        "url": "https://response.jp/article/2026/07/12/413920.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "今が買い時ってマジ!? 税制改正で実質値下げの衝撃！ コルベットがさらに狙い目になった理由",
+        "url": "https://bestcarweb.jp/feature/column/1559508"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.12",
+        "title": "常識破りの連続!! 破天荒な軽トラからNSXまで名車が続々！ “技術のホンダ”を築いた革新車たち",
+        "url": "https://bestcarweb.jp/feature/column/1558695"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Man Says Truck Won’t Start Despite Putting A New Battery In Recently. Mechanic Looks Under The Hood, Makes A Shocking Discovery",
-        "url": "https://www.motor1.com/news/801181/jeep-battery/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.11",
-        "title": "We Used To Be a Country: This 1988 Chevrolet Hot Shot Hauler Is a Bygone Beauty You Can Buy",
-        "url": "https://www.thedrive.com/news/we-used-to-be-a-country-this-1988-chevrolet-hot-shot-hauler-is-a-bygone-beauty-you-can-buy"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.11",
-        "title": "Travis Pastrana Drifts His Way Up Goodwood In A 670-Horsepower Subaru: Video",
-        "url": "https://www.motor1.com/news/801361/travis-pastrana-subaru-goodwood-2026-video/"
+        "time": "2026.7.12",
+        "title": "Man Makes Offer On $25K Car. Then The Dealership Reveals The Out-The-Door Price: 'This Is Why Delivrd Has A Business'",
+        "url": "https://www.motor1.com/news/801366/otd-vs-msrp-price/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29178889256",
-    "sha": "e9b3ff47e4c82e7d1e96580d46dc7e6b19f97211",
-    "completed_at": "2026-07-12T03:54:41.040Z",
+    "run_id": "29196616659",
+    "sha": "84557fa3ea7b0bf64a94100ba1285a0bec3e418e",
+    "completed_at": "2026-07-12T14:38:55.171Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +109,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 20,
-    "queued_articles": 20,
-    "processed": 20,
-    "started_at": "2026-07-12T03:53:52.278Z",
-    "finished_at": "2026-07-12T03:54:40.744Z",
+    "scoped_articles": 14,
+    "queued_articles": 14,
+    "processed": 14,
+    "started_at": "2026-07-12T14:38:17.445Z",
+    "finished_at": "2026-07-12T14:38:54.895Z",
     "success": true,
     "error": ""
   }

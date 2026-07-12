@@ -72176,5 +72176,329 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-12T03:54:40.728Z"
+  },
+  "https://www.thedrive.com/news/only-two-yellow-2006-ford-gts-left-the-factory-without-stripes-and-one-is-for-sale": {
+    "title_zh": "仅有两台黄色 2006 款福特 GT 无条纹出厂，其中一台正在出售",
+    "summary_short": "2006 款福特 GT 黄色无条纹版极为罕见，仅有两台出厂，其中一台正在拍卖，里程仅 8734 英里。",
+    "summary_long": "2006 款福特 GT 作为向 GT40 致敬的车型，多数车主都选择了赛车条纹涂装。但有一台黄色无条纹的版本极为罕见，仅有两台以这种规格出厂。该车搭载 5.4 升机械增压 V8 发动机，最大功率 550 马力，目前正在 DuPont Registry 拍卖，里程仅 8734 英里，曾有三任车主。",
+    "highlights_zh": [
+      "仅两台黄色无条纹 2006 款福特 GT 出厂",
+      "搭载 5.4 升机械增压 V8",
+      "里程仅 8734 英里"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "福特 GT | Ford GT",
+      "GT40"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-11.08.13-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-11.07.58-AM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-11.08.06-AM.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:21.855Z"
+  },
+  "https://www.motor1.com/news/801331/woman-full-size-reservation-hertz/": {
+    "title_zh": "女子在 Hertz 预订全尺寸车，却被提供 Kia 等小型车",
+    "summary_short": "一名 Hertz 金卡会员在坦帕机场预订全尺寸车，却被提供 Kia Soul 等小型车，且工作人员坚称这些属于全尺寸类别。",
+    "summary_long": "一位名为 Melissa 的 TikTok 用户在坦帕国际机场的 Hertz 租车点遭遇服务争议。作为 Hertz 金卡会员，她预订了 F 级全尺寸车辆，但现场可选的车型包括 Kia Soul、Kia K4、Nissan Versa 和 Buick Encore，这些均属于小型或紧凑型车。她指出，尽管理解租车短缺的情况，但工作人员不仅未提供预订的车型，还坚持称这些车属于全尺寸类别，并与其争论。Melissa 认为，问题不在于短缺本身，而在于租车公司重新定义车辆类别，并低估顾客的辨别能力。",
+    "highlights_zh": [
+      "预订全尺寸车",
+      "Hertz 工作人员坚称 Kia K4 等属于全尺寸",
+      "金卡会员感觉服务降级而非升级",
+      "顾客呼吁诚实告知库存问题而非重新定义类别"
+    ],
+    "entities": [
+      "Hertz",
+      "Kia",
+      "Nissan",
+      "Buick"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJgy7/s1/woman-books-full-size-car-with-hertz.-then-she-sees-what-they-re-giving-her.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:24.076Z"
+  },
+  "https://insideevs.com/news/801304/bmw-q2-2026-sales-us/": {
+    "title_zh": "宝马美国销量增长，但电动车表现挣扎",
+    "summary_short": "宝马美国 Q2 销量增长 13%，但纯电动车销量大跌约 41%，插电混动增长 22.9%。",
+    "summary_long": "宝马 2026 年第二季度美国销量同比增长 13%至 102,713 辆，但电动化车型（纯电+插混）总销量下降 18.1%。其中插电混动销量增长 22.9%，而纯电动车销量据估算暴跌约 41%至 6,547 辆。美国电动车需求受税收优惠取消影响，且宝马现有电动车型较老。即将推出的 Neue Klasse 平台新车（i3、iX3、iX5）将改善局面，其中 iX3 和改款 i7 将于近期在美上市，i3 和 iX5 预计 2027 年抵达。",
+    "highlights_zh": [
+      "宝马美国 Q2 总销量增长 13%",
+      "纯电动车销量估算下降 41%",
+      "插电混动销量增长 22.9%",
+      "Neue Klasse 新车将提升竞争力"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "BMW i3",
+      "BMW iX3",
+      "BMW iX5",
+      "Neue Klasse"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8qx4/s1/bmw-ix5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:26.485Z"
+  },
+  "https://response.jp/article/2026/07/12/413923.html": {
+    "title_zh": "BC 战争：第三代丰田 Corona 如何击败 Bluebird 创下纪录",
+    "summary_short": "第三代丰田 Corona 凭借“Arrow Line”设计、日本首款硬顶车型及高速耐久性测试，在 BC 战争中击败日产 Bluebird，成为家庭车标杆。",
+    "summary_long": "丰田 Corona 意为“太阳之冠”，定位为明亮亲和的家庭车。第三代车型于 1964 年 9 月推出，采用倾斜车头设计（Arrow Line），相比前两代更显现代。车身类型包括四门轿车、日本首款硬顶车型以及欧式五门轿车，此外还有商用版。该车成功完成了名神高速公路 10 万公里连续高速公开测试，彰显了高速性能与耐久性。1965 年款提供 1.2L、1.5L 和 1.6L 发动机，其中 1.5L 可选 3 速手动或 2 速自动变速箱（Toyoglide）。在 BC 战争中，Corona 凭借产品力超越日产 Bluebird，创下销售纪录。",
+    "highlights_zh": [
+      "第三代 Corona 采用 Arrow Line 设…",
+      "推出日本首款硬顶车型及欧式五门轿车",
+      "完成名神高速 10 万公里连续高速测试",
+      "提供 1.2L、1.5L、1.6L 发动机及 2 速…"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Corona",
+      "Bluebird",
+      "Arrow Line",
+      "Toyoglide"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226921.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226921.jpg",
+      "https://response.jp/imgs/fill2/2226923.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:30.627Z"
+  },
+  "https://response.jp/article/2026/07/12/413919.html": {
+    "title_zh": "丰田 Aqua 新增 GR SPORT 版本，SNS 热议",
+    "summary_short": "丰田 Aqua 新增 GR SPORT 版本，外观内饰运动化升级，SNS 上引发热议。",
+    "summary_long": "丰田于 7 月 6 日对紧凑型车 Aqua 进行部分改良，并新增 GR SPORT 版本。该版本在内外饰上采用专属运动设计，包括专用前保险杠、侧裙、17 英寸轮毂、红色制动卡钳等，内饰配备 GR 标识座椅、真皮方向盘、铝制踏板等。底盘方面通过增加加强件、调校悬架和优化 EPS 控制，提升操控响应。标准配置包括 10.5 英寸显示屏、全景监视器、方向盘和座椅加热等。",
+    "highlights_zh": [
+      "新增 GR SPORT 版本",
+      "专属外观套件与 17 英寸轮毂",
+      "底盘强化与专属悬架调校",
+      "标配 10.5 英寸屏与全景监视器"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Aqua",
+      "GR SPORT"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226383.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226383.jpg",
+      "https://response.jp/imgs/fill2/2226391.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:31.510Z"
+  },
+  "https://response.jp/article/2026/07/12/413921.html": {
+    "title_zh": "【标致 5008 新款试驾】非日常感内饰与标致式平顺行驶…岛崎七生人",
+    "summary_short": "标致 5008 第三代车型试驾报告，内饰充满非日常感，行驶质感保持标致一贯的平顺特性。",
+    "summary_long": "标致 5008 最初以 MPV 身份诞生，2017 年第二代转型为 SUV 并保留三排七座布局。今年 2 月在日本上市的第三代车型延续 SUV 风格，外观设计神秘且细节考究，但不过分张扬。内饰采用 21 英寸曲面屏和可自定义的 i-Toggles 触摸开关，营造出超现代的非日常感。座椅填充扎实，第二排为 40:20:40 分割，注重两侧乘坐舒适性。",
+    "highlights_zh": [
+      "第三代标致 5008 延续 SUV 风格",
+      "21 英寸曲面屏与 i-Toggles 触摸开关",
+      "三排七座布局",
+      "行驶质感平顺"
+    ],
+    "entities": [
+      "标致",
+      "5008"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2224791.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2224791.jpg",
+      "https://response.jp/imgs/fill2/2224792.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:35.404Z"
+  },
+  "https://www.motor1.com/news/801345/volkswagen-golf-door/": {
+    "title_zh": "男子为大众高尔夫更换车门，尺寸严重不符",
+    "summary_short": "一男子自行更换大众高尔夫车门，未核对尺寸导致车门过小，留下巨大缝隙，视频引发热议。",
+    "summary_long": "一名大众高尔夫车主在自行更换车门时，因未测量尺寸，安装后发现新车门比原车开口小很多，无法正常关闭。该视频在 TikTok 上走红，观看量超过 600 万次。车主在视频中展示了旧车门靠在车旁，新车门安装后关闭时留下明显缝隙，表明这是一次失败的 DIY 维修。",
+    "highlights_zh": [
+      "未测量尺寸导致车门过小",
+      "安装后车门无法正常关闭",
+      "视频在 TikTok 上走红"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "高尔夫 | Golf",
+      "DIY 维修"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egyVn/s1/man-installs-new-doors-for-his-volkswagen-golf.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:36.166Z"
+  },
+  "https://bestcarweb.jp/news/1568213": {
+    "title_zh": "美国老牌摩托车品牌 Indian 推出复古风帆布托特包",
+    "summary_short": "美国最古老摩托车品牌 Indian 推出复古帆布托特包，四款设计，售价 2750 日元，兼具实用与品牌格调。",
+    "summary_long": "美国最古老摩托车品牌 Indian（印第安）推出新款帆布托特包，由服饰制造商 Ecom Group 生产，于 2026 年 7 月中旬在日本全国门店发售。包身采用厚帆布材质，印有品牌 Logo、复古摩托车和发动机图案，配色以象牙白和黑色为主，兼具粗犷感与日常搭配性。共有四种设计，售价 2750 日元（含税），适合摩托车爱好者及美式休闲风格用户。",
+    "highlights_zh": [
+      "Indian 推出复古帆布托特包",
+      "四款设计",
+      "厚帆布材质",
+      "日常百搭"
+    ],
+    "entities": [
+      "Indian",
+      "Ecom Group",
+      "帆布托特包",
+      "复古风格",
+      "摩托车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172117/a15a69211bc8f2f232428df0f7553eba.jpg?v=1783066878",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172117/a15a69211bc8f2f232428df0f7553eba-600x600.jpg?v=1783066878",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03172306/50611db8cf70aa34f3766bf7ad8eeed6-600x450.jpg?v=1783066987"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:40.759Z"
+  },
+  "https://bestcarweb.jp/feature/column/1568667": {
+    "title_zh": "R32 和 NSX 让世界着迷！80-90 年代日本经典车一览",
+    "summary_short": "回顾 80-90 年代日本经典车型，包括 R32 Skyline GT-R 和本田 NSX，它们凭借先进技术和出色性能征服了全球车迷。",
+    "summary_long": "在 1960-70 年代日本汽车开始崭露头角后，80-90 年代日本车势头不减，全球需求旺盛。本文介绍了这一时期的代表性车型：R32 型 Skyline GT-R 采用电子控制扭矩分配四驱系统 ATTESA E-TS、2.6L RB26DETT 直六双涡轮增压发动机、四轮多连杆悬架和 Super HICAS，展现了超凡性能。本田 NSX 则挑战法拉利、保时捷等老牌跑车，采用世界首创的全铝单体壳车身，中置 V6 VTEC 发动机，且能容纳两套高尔夫球袋，兼顾实用与驾驶乐趣。",
+    "highlights_zh": [
+      "R32 Skyline GT-R 搭载 RB26DE…",
+      "NSX 采用全球首款全铝单体壳车身",
+      "NSX 中置引擎可放两套高尔夫球袋",
+      "80-90 年代日本车全球需求旺盛"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "本田 | Honda",
+      "R32 Skyline GT-R",
+      "NSX",
+      "ATTESA E-TS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03154417/00_jpn-clng_1980-1990_head.jpg?v=1783061058",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03154417/00_jpn-clng_1980-1990_head-600x400.jpg?v=1783061058",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24160905/00_s_americana_24_head-600x400.jpg?v=1782284946"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:41.477Z"
+  },
+  "https://response.jp/article/2026/07/12/413922.html": {
+    "title_zh": "汽车音响的音质会因线缆而改变？首先需要了解的 3 种线缆区别",
+    "summary_short": "汽车音响线缆主要分为扬声器线缆、信号线缆和电源线缆三种，了解其区别有助于正确升级音响系统。",
+    "summary_long": "汽车音响升级中，线缆的选择至关重要。线缆主要分为三种：扬声器线缆连接功放与扬声器，传输放大后的音乐信号；信号线缆用于传输音频信号；电源线缆则为系统供电。每种线缆的材质、屏蔽和规格都会影响音质。本文详细介绍了这三种线缆的基本特性和选购要点，帮助爱好者做出明智选择。",
+    "highlights_zh": [
+      "线缆分扬声器、信号、电源三种",
+      "扬声器线缆连接功放与喇叭",
+      "信号线缆传输音频信号",
+      "电源线缆为系统供电"
+    ],
+    "entities": [
+      "扬声器线缆",
+      "信号线缆",
+      "电源线缆",
+      "功放",
+      "音质"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226863.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226863.jpg",
+      "https://response.jp/imgs/fill2/2226864.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:45.847Z"
+  },
+  "https://response.jp/article/2026/07/12/413920.html": {
+    "title_zh": "川崎推出 Ninja ZX-10R 主题儿童木质平衡车",
+    "summary_short": "川崎推出以 Ninja ZX-10R 为设计灵感的儿童木质平衡车，限时订购 10 天。",
+    "summary_long": "川崎摩托车日本公司宣布，将销售由英国 Kiddimoto 公司企划开发的儿童木质平衡车“Ninja ZX-10R”。该产品以川崎超级运动车型 Ninja ZX-10R 为设计灵感，采用逼真的图形设计，旨在让儿童在玩耍中自然掌握平衡感，适合作为学习自行车前的训练工具。订购时间为 7 月 10 日至 20 日，可在川崎授权经销商及官方网店购买。",
+    "highlights_zh": [
+      "以 Ninja ZX-10R 为设计灵感",
+      "英国 Kiddimoto 公司开发",
+      "帮助儿童自然掌握平衡感",
+      "限时订购：7 月 10 日至 20 日"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Ninja ZX-10R",
+      "Kiddimoto",
+      "平衡车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226649.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226649.webp",
+      "https://response.jp/imgs/fill2/2226651.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:46.675Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559508": {
+    "title_zh": "税制改革带来实质降价，雪佛兰科尔维特更值得入手",
+    "summary_short": "日本税制改革废除环境性能税，雪佛兰科尔维特实际降价，性价比进一步提升，现在正是入手纯正美式跑车的好时机。",
+    "summary_long": "2026 年 4 月 1 日起，日本废除购车时的环境性能税，使得雪佛兰科尔维特等进口车实际价格下降。科尔维特凭借中置发动机布局和强劲性能，在超级跑车市场中一直以高性价比著称，此次税改进一步巩固了其优势。对于想拥有纯正美国跑车的消费者来说，现在正是最佳购买时机。",
+    "highlights_zh": [
+      "日本废除环境性能税",
+      "科尔维特性价比本就突出",
+      "省下的费用可用于选配更多个性化选项"
+    ],
+    "entities": [
+      "雪佛兰",
+      "科尔维特",
+      "日本",
+      "环境性能税",
+      "税制改革"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24160905/00_s_americana_24_head.jpg?v=1782284946",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24160905/00_s_americana_24_head-600x400.jpg?v=1782284946",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03154417/00_jpn-clng_1980-1990_head-600x400.jpg?v=1783061058"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:50.785Z"
+  },
+  "https://bestcarweb.jp/feature/column/1558695": {
+    "title_zh": "打破常规！从破天荒轻卡到 NSX，本田技术革新名车回顾",
+    "summary_short": "回顾本田从轻卡 T360 到 NSX 的革新车型，展现其技术至上与独创造车理念。",
+    "summary_long": "2026 年 3 月本田宣布四轮电动化战略调整与业绩修正，在困境中期待其独创新车。本文回顾本田历史上打破常规的车型：1963 年推出搭载 DOHC 发动机的轻卡 T360 和跑车 S500，随后挑战 F1，展现技术至上主义。从破天荒的轻卡到 NSX，本田以创新精神打造了众多名车。",
+    "highlights_zh": [
+      "本田四轮电动化战略调整",
+      "1963 年推出 DOHC 轻卡 T360 和跑车…",
+      "挑战 F1",
+      "从破天荒轻卡到 NSX"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "T360",
+      "S500",
+      "NSX",
+      "DOHC 发动机"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23184730/00_s_honda_001_head.jpg?v=1782208051",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23184730/00_s_honda_001_head-600x400.jpg?v=1782208051",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24160905/00_s_americana_24_head-600x400.jpg?v=1782284946"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:52.163Z"
+  },
+  "https://www.motor1.com/news/801366/otd-vs-msrp-price/": {
+    "title_zh": "男子看中 2.5 万美元汽车，经销商报出落地价后令人咋舌",
+    "summary_short": "一辆标价 2.5 万美元的汽车，经销商报出的落地价竟高达 3.4 万美元，差价近万美元引发热议。",
+    "summary_long": "一位购车者记录了自己与经销商的谈判过程，展示了一辆标价 2.5 万美元的汽车，最终落地价却高达 3.4 万美元，差价近万美元。视频引发广泛关注，凸显了经销商附加费用对购车成本的影响，并引发消费者对透明定价的讨论。",
+    "highlights_zh": [
+      "标价 2.5 万美元",
+      "经销商附加费导致近万美元差价",
+      "购车者记录谈判过程引发热议",
+      "消费者呼吁透明定价"
+    ],
+    "entities": [
+      "Delivrd"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzr3J/s1/man-makes-offer-on-25k-car.-then-the-dealership-says-the-out-the-door-price-is-34k.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-12T14:38:54.878Z"
   }
 }
