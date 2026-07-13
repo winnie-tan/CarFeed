@@ -1,104 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-12T14:38:17.100Z",
+    "generated_at": "2026-07-13T03:57:23.396Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 386,
-    "deepseek_untranslated_before_run": 14,
-    "newly_fetched_articles": 14,
-    "newly_fetched_untranslated": 14,
+    "deepseek_translated_before_run": 373,
+    "deepseek_untranslated_before_run": 27,
+    "newly_fetched_articles": 27,
+    "newly_fetched_untranslated": 27,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 14,
+    "translation_queue_count": 27,
     "translation_queue_preview": [
       {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "「ふんわりアクセル」が燃費悪化の新常識!? プロが教える省燃費ドライビング術",
+        "url": "https://bestcarweb.jp/feature/column/1557255"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "「今年は本格SUV熱い」年内復活の三菱『パジェロ』、デザイン予想が加熱！ SNSで注目に",
+        "url": "https://response.jp/article/2026/07/13/413944.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "【へっぽこバスガイドの珍道中】貸切バスでお客様がお宿に到着！ ガイドも仕事終了で温泉まったり!?",
+        "url": "https://bestcarweb.jp/busmagazine/1557006"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第808回",
+        "url": "https://bestcarweb.jp/feature/column/1562974"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "10年目でも現役続投…ボルボ『XC40』が大幅刷新か、新世代ディスプレイ採用へ",
+        "url": "https://response.jp/article/2026/07/13/413941.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "SkyDriveとJapan Biz Aviation、「空飛ぶクルマ」の国内商業運航で基本合意",
+        "url": "https://response.jp/article/2026/07/13/413931.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "アンリツグループ、モーター評価の多信号同期計測を紹介へ…TECHNO-FRONTIER 2026",
+        "url": "https://response.jp/article/2026/07/13/413932.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "イヴェコが2026年モデルのトラックを発表！ タタとの統合を控えてBEVでも巻き返しを図る",
+        "url": "https://bestcarweb.jp/fullload/1574733"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "ヴァレオ、女子中高生向け体験イベント「リコチャレ2026」を茨城・つくばで開催へ…自動ブレーキなど最先端技術を実車体験",
+        "url": "https://response.jp/article/2026/07/13/413948.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "え、眼とか腰とかだけじゃないの!? 意外なトコが辛くなる還暦超えのクルマライフ",
+        "url": "https://bestcarweb.jp/feature/column/1569506"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "カーシェア「OURCAR」、新潟市で実証開始…「にいがた2km」構想と連動",
+        "url": "https://response.jp/article/2026/07/13/413939.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "キア『PV5』ベースのキャンピングカー「DC EVLIFE」、ダイレクトカーズが発表…東京キャンピングカーショー2026",
+        "url": "https://response.jp/article/2026/07/13/413926.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "キックス圧巻の乗り味で堂々発信！ 価格戦略で日産の救世主になれるのか？",
+        "url": "https://bestcarweb.jp/newcar/1577620"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "スバル『レヴォーグ』は次期型を待つべきか、現行型を買うべきか…ストロングハイブリッド投入時期は？",
+        "url": "https://response.jp/article/2026/07/12/413915.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "デニム自販機が業界初登場、山陽道・福山SAに設置…試着室不要のフリーサイズ設計",
+        "url": "https://response.jp/article/2026/07/13/413946.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "ナトリウムイオン電池、NEDOが技術開発事業に採択…GSユアサやクラレなど産学12機関が連携",
+        "url": "https://response.jp/article/2026/07/13/413934.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "寝られる軽スーパーハイトか!? タント ファンクロスの“車中泊度”をチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1565383"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "日産版ロッキー/ライズ&シエンタ誕生?!「ベストカー 8月10日号発売！」",
+        "url": "https://bestcarweb.jp/backnumber/1557240"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "横断歩道を渡ろうとしている人にどうぞと譲られたが切符を切られた！ いったいドライバーはどうすればいいのか？",
+        "url": "https://bestcarweb.jp/feature/column/1573884"
+      },
+      {
         "source": "Motor1",
-        "time": "2026.7.12",
-        "title": "Woman Books Full-Size Car With Hertz. Then She Sees What They’re Giving Her: ‘They’re Arguing With Me’",
-        "url": "https://www.motor1.com/news/801331/woman-full-size-reservation-hertz/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.12",
-        "title": "Only Two Yellow 2006 Ford GTs Left the Factory Without Stripes, and One Is for Sale",
-        "url": "https://www.thedrive.com/news/only-two-yellow-2006-ford-gts-left-the-factory-without-stripes-and-one-is-for-sale"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.12",
-        "title": "BMW's U.S. Sales Are Up. But Its EVs Are Struggling",
-        "url": "https://insideevs.com/news/801304/bmw-q2-2026-sales-us/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "“BC戦争”でブルーバードを抜き記録を打ち立てた、3代目『コロナ』【懐かしのカーカタログ】",
-        "url": "https://response.jp/article/2026/07/12/413923.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "「激アツやん」「普通にかっこよくて草」トヨタ『アクア』「GR SPORT」グレード追加がSNSで話題に",
-        "url": "https://response.jp/article/2026/07/12/413919.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "【プジョー 5008 新型試乗】非日常感覚のインテリアと、プジョーらしいフラットライド…島崎七生人",
-        "url": "https://response.jp/article/2026/07/12/413921.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.12",
-        "title": "Man Installs New Doors For His Volkswagen Golf. Then He Realizes How Badly He Miscalculated: ‘This Is Why AutoZone Employees Ask’",
-        "url": "https://www.motor1.com/news/801345/volkswagen-golf-door/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "R32やNSXが世界を夢中にさせた!! ネオクラ伝説の幕開け80年代＆90年代国産車をイッキ見！",
-        "url": "https://bestcarweb.jp/feature/column/1568667"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "アメリカンバイクの老舗インディアン!! バイカー心をくすぐるトートバッグ登場!!",
-        "url": "https://bestcarweb.jp/news/1568213"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "カーオーディオの音はケーブルで変わる？ まず知っておきたい3種類の違い［カー用音響機材・チョイスの極意…パーツ＆部材編］",
-        "url": "https://response.jp/article/2026/07/12/413922.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.12",
-        "title": "カワサキ、『Ninja ZX-10R』モチーフの子供用木製バランスバイク販売…7月10‐20日の期間限定受注",
-        "url": "https://response.jp/article/2026/07/12/413920.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "今が買い時ってマジ!? 税制改正で実質値下げの衝撃！ コルベットがさらに狙い目になった理由",
-        "url": "https://bestcarweb.jp/feature/column/1559508"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.12",
-        "title": "常識破りの連続!! 破天荒な軽トラからNSXまで名車が続々！ “技術のホンダ”を築いた革新車たち",
-        "url": "https://bestcarweb.jp/feature/column/1558695"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.12",
-        "title": "Man Makes Offer On $25K Car. Then The Dealership Reveals The Out-The-Door Price: 'This Is Why Delivrd Has A Business'",
-        "url": "https://www.motor1.com/news/801366/otd-vs-msrp-price/"
+        "time": "2026.7.13",
+        "title": "Woman Stops At Krispy Kreme For ‘Cheat Day.’ She Realizes That Was A Big Mistake When Chevy Avalanche Driver Pulls Up",
+        "url": "https://www.motor1.com/news/801187/chevy-avalanche-krispy-kreme-crash/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29196616659",
-    "sha": "84557fa3ea7b0bf64a94100ba1285a0bec3e418e",
-    "completed_at": "2026-07-12T14:38:55.171Z",
+    "run_id": "29222783696",
+    "sha": "784b37c465c37b6be6f062b39d100e1f579be332",
+    "completed_at": "2026-07-13T03:58:21.990Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -109,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 14,
-    "queued_articles": 14,
-    "processed": 14,
-    "started_at": "2026-07-12T14:38:17.445Z",
-    "finished_at": "2026-07-12T14:38:54.895Z",
+    "scoped_articles": 27,
+    "queued_articles": 27,
+    "processed": 27,
+    "started_at": "2026-07-13T03:57:23.729Z",
+    "finished_at": "2026-07-13T03:58:21.697Z",
     "success": true,
     "error": ""
   }
