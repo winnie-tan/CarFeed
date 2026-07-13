@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-13T03:57:23.396Z",
+    "generated_at": "2026-07-13T16:00:46.135Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 373,
-    "deepseek_untranslated_before_run": 27,
-    "newly_fetched_articles": 27,
-    "newly_fetched_untranslated": 27,
+    "deepseek_translated_before_run": 370,
+    "deepseek_untranslated_before_run": 30,
+    "newly_fetched_articles": 30,
+    "newly_fetched_untranslated": 30,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 27,
+    "translation_queue_count": 30,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "InsideEVs",
         "time": "2026.7.13",
-        "title": "「ふんわりアクセル」が燃費悪化の新常識!? プロが教える省燃費ドライビング術",
-        "url": "https://bestcarweb.jp/feature/column/1557255"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "「今年は本格SUV熱い」年内復活の三菱『パジェロ』、デザイン予想が加熱！ SNSで注目に",
-        "url": "https://response.jp/article/2026/07/13/413944.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "【へっぽこバスガイドの珍道中】貸切バスでお客様がお宿に到着！ ガイドも仕事終了で温泉まったり!?",
-        "url": "https://bestcarweb.jp/busmagazine/1557006"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第808回",
-        "url": "https://bestcarweb.jp/feature/column/1562974"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "10年目でも現役続投…ボルボ『XC40』が大幅刷新か、新世代ディスプレイ採用へ",
-        "url": "https://response.jp/article/2026/07/13/413941.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "SkyDriveとJapan Biz Aviation、「空飛ぶクルマ」の国内商業運航で基本合意",
-        "url": "https://response.jp/article/2026/07/13/413931.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "アンリツグループ、モーター評価の多信号同期計測を紹介へ…TECHNO-FRONTIER 2026",
-        "url": "https://response.jp/article/2026/07/13/413932.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "イヴェコが2026年モデルのトラックを発表！ タタとの統合を控えてBEVでも巻き返しを図る",
-        "url": "https://bestcarweb.jp/fullload/1574733"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "ヴァレオ、女子中高生向け体験イベント「リコチャレ2026」を茨城・つくばで開催へ…自動ブレーキなど最先端技術を実車体験",
-        "url": "https://response.jp/article/2026/07/13/413948.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "え、眼とか腰とかだけじゃないの!? 意外なトコが辛くなる還暦超えのクルマライフ",
-        "url": "https://bestcarweb.jp/feature/column/1569506"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "カーシェア「OURCAR」、新潟市で実証開始…「にいがた2km」構想と連動",
-        "url": "https://response.jp/article/2026/07/13/413939.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "キア『PV5』ベースのキャンピングカー「DC EVLIFE」、ダイレクトカーズが発表…東京キャンピングカーショー2026",
-        "url": "https://response.jp/article/2026/07/13/413926.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "キックス圧巻の乗り味で堂々発信！ 価格戦略で日産の救世主になれるのか？",
-        "url": "https://bestcarweb.jp/newcar/1577620"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "スバル『レヴォーグ』は次期型を待つべきか、現行型を買うべきか…ストロングハイブリッド投入時期は？",
-        "url": "https://response.jp/article/2026/07/12/413915.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "デニム自販機が業界初登場、山陽道・福山SAに設置…試着室不要のフリーサイズ設計",
-        "url": "https://response.jp/article/2026/07/13/413946.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "ナトリウムイオン電池、NEDOが技術開発事業に採択…GSユアサやクラレなど産学12機関が連携",
-        "url": "https://response.jp/article/2026/07/13/413934.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "寝られる軽スーパーハイトか!? タント ファンクロスの“車中泊度”をチェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1565383"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "日産版ロッキー/ライズ&シエンタ誕生?!「ベストカー 8月10日号発売！」",
-        "url": "https://bestcarweb.jp/backnumber/1557240"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "横断歩道を渡ろうとしている人にどうぞと譲られたが切符を切られた！ いったいドライバーはどうすればいいのか？",
-        "url": "https://bestcarweb.jp/feature/column/1573884"
+        "title": "After 87,000 Miles, This 2022 Tesla Model Y Didn’t Just Lose Range. It Charges Slower Too",
+        "url": "https://insideevs.com/news/801469/tesla-model-y-adac-test/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.13",
-        "title": "Woman Stops At Krispy Kreme For ‘Cheat Day.’ She Realizes That Was A Big Mistake When Chevy Avalanche Driver Pulls Up",
-        "url": "https://www.motor1.com/news/801187/chevy-avalanche-krispy-kreme-crash/"
+        "title": "Slate Lets You Pick A Color Straight From The Crayola Crayon Box",
+        "url": "https://www.motor1.com/news/801475/slate-crayola-trucks-colorful/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.13",
+        "title": "2026 Honda Civic Sport Review: The Best $28,000 You’ll Spend",
+        "url": "https://www.thedrive.com/car-reviews/2026-honda-civic-sport-review"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.13",
+        "title": "Jeep and Ram Are Riding High Thanks to North America: TDS",
+        "url": "https://www.thedrive.com/news/jeep-and-ram-are-riding-high-thanks-to-north-america-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.13",
+        "title": "Over 300,000 Honda Odyssey Minivans Have Backup Camera Issues",
+        "url": "https://www.motor1.com/news/801026/honda-odyssey-camera-recall/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.13",
+        "title": "‘We’ve Specialized In Toyota Tacomas, Toyota 4Runners’: Man Goes To Dealership. Then Salesman Explains Why They Don’t Sell Tundras",
+        "url": "https://www.motor1.com/news/801392/toyota-dealer-wont-sell-tundras/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "「これは売れる」「めっちゃいい」トヨタ『カローラクロス』60周年記念車がSNSで話題に！",
+        "url": "https://response.jp/article/2026/07/13/413978.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "【スズキ ジムニーシエラ 新型試乗】ジムニーにACCが搭載される日がくるとは…9年目で進化した5型の走り",
+        "url": "https://response.jp/article/2026/07/13/413976.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "【レスポンスカンファレンス2026】グローバルで進むクルマの知能化。勝ち抜くカギは「AIガバナンスと全体最適化」…PwCが解説",
+        "url": "https://response.jp/article/2026/07/13/413964.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "【日産 リーフ 新型】インテリアデザインのテーマ「フィジタル」とは何か？",
+        "url": "https://response.jp/article/2026/07/13/413953.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「常滑」",
+        "url": "https://bestcarweb.jp/feature/column/1535874"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "18インチホイール設定に新色も!! 60周年特別記念車も出たカローラスポーツの一部改良がゴージャスすぎ!!",
+        "url": "https://bestcarweb.jp/newcar/1578871"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "500万円で買うならどっち!? ランクルFJと新型ハイラックス「普段使い」と「所有する幸せ」をガチ比較",
+        "url": "https://bestcarweb.jp/feature/column/1570241"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "ATじゃ終われない！ 締めはやっぱり「3ペダル」でしょ！ 肩肘張らずに乗れるMT車4選",
+        "url": "https://bestcarweb.jp/feature/column/1573435"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "KTM、2027年型『SXシリーズ』9モデルを発表、フルサイズからミニサイクルモデルまで展開",
+        "url": "https://response.jp/article/2026/07/13/413973.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "PFAS検知など5分野のナノ材料ソリューション、NanoFrontierが出展へ…JASIS 2026",
+        "url": "https://response.jp/article/2026/07/13/413959.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "TokyoDriveCarClub 2026 S/Sコレクションを7月18日にリリース、即完売続きのキャップや復刻アイテムも登場",
+        "url": "https://response.jp/article/2026/07/13/413975.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "アウディ『Q6 Sportback e-tron』、熊本の国際環境サミットに展示へ…ネイチャーポジティブへの取り組みを発信",
+        "url": "https://response.jp/article/2026/07/13/413971.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.13",
+        "title": "アクセンチュア、IndXを買収…シーメンス技術とAIで製造業のデジタル変革を加速",
+        "url": "https://response.jp/article/2026/07/13/413960.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.13",
+        "title": "アシスト性能20%向上!! 新型電動自転車エネシスシティで通勤が快適に!!",
+        "url": "https://bestcarweb.jp/news/1568211"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29222783696",
-    "sha": "784b37c465c37b6be6f062b39d100e1f579be332",
-    "completed_at": "2026-07-13T03:58:21.990Z",
+    "run_id": "29264604402",
+    "sha": "978bda0a836bc65ddf550b289ca9c3fbea0e79cf",
+    "completed_at": "2026-07-13T16:02:08.229Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 27,
-    "queued_articles": 27,
-    "processed": 27,
-    "started_at": "2026-07-13T03:57:23.729Z",
-    "finished_at": "2026-07-13T03:58:21.697Z",
+    "scoped_articles": 30,
+    "queued_articles": 30,
+    "processed": 30,
+    "started_at": "2026-07-13T16:00:46.458Z",
+    "finished_at": "2026-07-13T16:02:07.958Z",
     "success": true,
     "error": ""
   }

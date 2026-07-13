@@ -73126,5 +73126,709 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-13T03:58:21.680Z"
+  },
+  "https://insideevs.com/news/801469/tesla-model-y-adac-test/": {
+    "title_zh": "行驶 8.7 万英里后，2022 款特斯拉 Model Y 不仅续航缩水，充电也变慢了",
+    "summary_short": "ADAC 测试显示，行驶 8.7 万英里后，特斯拉 Model Y 电池容量下降 14%，峰值充电功率降低，30 分钟充电量减少 13%。",
+    "summary_long": "德国汽车协会 ADAC 对其自 2022 年起使用的特斯拉 Model Y 进行了长期测试，该车已行驶 14 万公里（约 8.7 万英里）。测试发现，电池健康度从最初的 100%降至 86%，即损失约 14%的可用容量。同时，峰值充电功率下降，30 分钟内补充的能量减少 13%。相比之下，行驶 22 万公里（13.6 万英里）的大众 ID.3 电池健康度仍有 89%，表现更优。",
+    "highlights_zh": [
+      "电池容量下降 14%",
+      "峰值充电功率降低",
+      "30 分钟充电量减少 13%",
+      "大众 ID.3 同里程表现更优"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y",
+      "ADAC",
+      "大众 | Volkswagen",
+      "ID.3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBG1X9/s1/tesla-model-y-lhd.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:00.884Z"
+  },
+  "https://www.motor1.com/news/801475/slate-crayola-trucks-colorful/": {
+    "title_zh": "Slate 与 Crayola 合作推出彩绘皮卡",
+    "summary_short": "Slate 与 Crayola 合作，为 Blank Slate 皮卡和 SUV 提供五种蜡笔色贴膜，售价 1549.99 美元。",
+    "summary_long": "Slate 公司为旗下售价 2.5 万美元的 Blank Slate 皮卡及 SUV 提供 Crayola 蜡笔色贴膜，共五种颜色，售价 1549.99 美元。车主可自行安装，也可选配蛇形条纹等贴纸。此外，Slate 还提供标准贴膜（499.99 美元）和定制贴膜（1599.99 美元）。",
+    "highlights_zh": [
+      "Slate 与 Crayola 合作推出五种蜡笔色贴…",
+      "Blank Slate 皮卡起售价 25",
+      "Crayola 贴膜售价 1",
+      "提供蛇形条纹等定制贴纸"
+    ],
+    "entities": [
+      "Slate",
+      "Crayola",
+      "Blank Slate"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak37ZV/s1/slate-crayola-color-options.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:03.928Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-honda-civic-sport-review": {
+    "title_zh": "2026 款本田思域 Sport 评测：最值得花的 2.8 万美元",
+    "summary_short": "2026 款本田思域 Sport 以 2.8 万美元的价格提供了出色的价值，平衡了简单、高效、可靠与驾驶乐趣。",
+    "summary_long": "2026 款本田思域 Sport 是思域系列中性价比最高的车型，起售价 27,890 美元（含目的地费用）。它搭载 2.0 升四缸发动机，输出 150 马力和 133 磅-英尺扭矩，虽非最强动力，但足以满足日常驾驶。该车继承了本田的核心理念：简单、高效、可靠且富有驾驶乐趣，是预算有限消费者的理想选择。",
+    "highlights_zh": [
+      "起售价 27",
+      "2.0 升四缸发动机",
+      "兼顾可靠性与驾驶乐趣",
+      "思域 | Civic 系列中最具价值之选"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域 | Civic",
+      "思域 Sport | Civic Sport",
+      "2.0 升发动机"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_8079.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_8084.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/15-2022-Honda-Civic-Sedan-Sport.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:04.903Z"
+  },
+  "https://www.thedrive.com/news/jeep-and-ram-are-riding-high-thanks-to-north-america-tds": {
+    "title_zh": "Jeep 和 Ram 在北美市场表现强劲",
+    "summary_short": "Stellantis 第二季度全球销量增长 10%，北美市场贡献显著，Jeep 和 Ram 车型推动区域出货量飙升 38%。",
+    "summary_long": "Stellantis 公布 2026 年第二季度财报，全球销量同比增长 10%，其中北美市场表现尤为突出，出货量激增 38%。这主要得益于 Jeep 和 Ram 的改款车型以及更新后的 Chrysler Pacifica。此外，Stellantis 承认提前增产以应对夏季工厂停工计划。",
+    "highlights_zh": [
+      "全球销量增长 10%",
+      "北美出货量飙升 38%",
+      "Jeep 和 Ram 改款车型推动增长",
+      "提前增产应对夏季停工"
+    ],
+    "entities": [
+      "Stellantis",
+      "Jeep",
+      "Ram",
+      "Chrysler Pacifica",
+      "北美"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/JP027_004GC.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_8079.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:07.133Z"
+  },
+  "https://www.motor1.com/news/801026/honda-odyssey-camera-recall/": {
+    "title_zh": "本田奥德赛因倒车摄像头问题召回超 30 万辆",
+    "summary_short": "本田因倒车摄像头进水导致黑屏，召回 2018-2020 款奥德赛超 32.5 万辆，免费更换摄像头。",
+    "summary_long": "本田奥德赛因倒车摄像头故障被美国国家公路交通安全管理局（NHTSA）召回。2018 至 2020 款车型的倒车摄像头可能因进水导致电路板损坏，挂入倒挡时无法显示图像。此次召回涉及 325,588 辆汽车，经销商将免费更换摄像头。本田将于 2026 年 8 月 24 日起通知车主。此前 2019-2020 款已有 212,068 辆被召回，本次新增 2018 款 113,520 辆。",
+    "highlights_zh": [
+      "超 32.5 万辆奥德赛因摄像头进水召回",
+      "倒车时摄像头可能黑屏",
+      "经销商免费更换摄像头",
+      "涉及 2018-2020 款车型"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "奥德赛 | Odyssey",
+      "NHTSA"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgLPX/s1/honda-partnered-accessories-2026-honda-odyssey.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:10.257Z"
+  },
+  "https://www.motor1.com/news/801392/toyota-dealer-wont-sell-tundras/": {
+    "title_zh": "丰田经销商为何不卖坦途？",
+    "summary_short": "俄勒冈州一家丰田经销商因坦途车主“粗鲁、自以为是”而停止销售该车型，引发热议。",
+    "summary_long": "俄勒冈州一家丰田经销商 Stouffair Motors 的老板 Chadwick Stouffair 在 TikTok 视频中解释，他们已十多年不主动销售丰田 Tundra，原因是 Tundra 车主普遍“粗鲁、自以为是、爱指手画脚”。尽管该店专营 Tacoma 和 4Runner，但并非 Tundra 本身有问题，而是车主性格让经销商避而远之。视频引发关于车型刻板印象与销售策略的讨论。",
+    "highlights_zh": [
+      "经销商称 Tundra 车主“粗鲁且自以为是”",
+      "该店专营 Tacoma 和 4Runner",
+      "经销商强调并非 Tundra 本身有问题",
+      "视频引发关于车型刻板印象的讨论"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tundra",
+      "Tacoma",
+      "4Runner",
+      "俄勒冈州"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbgxgG/s1/man-goes-to-toyota-dealership..jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:11.170Z"
+  },
+  "https://response.jp/article/2026/07/13/413978.html": {
+    "title_zh": "丰田卡罗拉 Cross 60 周年纪念版引发热议",
+    "summary_short": "丰田推出卡罗拉 Cross 60 周年纪念版，外观大幅升级，SNS 上好评如潮。",
+    "summary_long": "丰田于 7 月 1 日对 SUV 卡罗拉 Cross 进行部分改进，并推出卡罗拉诞生 60 周年纪念特别仕样车 Z“Adventure”。该车作为卡罗拉系列 60 周年纪念的第三弹，以前格栅和保险杠为中心大幅改变设计，强化户外形象。主要装备包括 60 周年纪念标识贴纸、专属格栅、黑色饰条及 17 英寸铝合金轮毂等。SNS 上用户纷纷称赞“太棒了”“这车肯定大卖”。",
+    "highlights_zh": [
+      "60 周年纪念第三弹",
+      "前格栅与保险杠大幅改款",
+      "户外风格强化",
+      "SNS 好评如潮"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉 Cross",
+      "卡罗拉",
+      "Adventure"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227196.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227196.jpg",
+      "https://response.jp/imgs/fill2/2226428.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:14.781Z"
+  },
+  "https://response.jp/article/2026/07/13/413976.html": {
+    "title_zh": "铃木吉姆尼 Sierra 新款试驾：ACC 加持，9 年进化第五代",
+    "summary_short": "铃木吉姆尼 Sierra 第五代车型新增 ACC 自适应巡航，经典硬派越野车在第九年迎来智能化升级。",
+    "summary_long": "铃木吉姆尼系列（含吉姆尼 Sierra）在推出近 9 年后迎来第五代改款，最大亮点是首次搭载自适应巡航控制（ACC）。试驾车型为 Sierra 4 速自动挡版本，ACC 的加入显著提升了长途驾驶的便利性。尽管外观内饰几乎未变，但这一经典非承载式越野车仍保持强劲销量，2025 年度日本市场注册量超 5 万辆，加上轻型车版本，年销量接近 10 万辆。",
+    "highlights_zh": [
+      "首次搭载 ACC 自适应巡航",
+      "9 年磨一剑的第五代改款",
+      "经典非承载式车身+前后硬轴",
+      "2025 年销量同比翻倍超 5 万台"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "吉姆尼 Sierra",
+      "诺马德",
+      "自适应巡航控制"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226823.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226822.jpg",
+      "https://response.jp/imgs/fill2/2226822.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:16.247Z"
+  },
+  "https://response.jp/article/2026/07/13/413964.html": {
+    "title_zh": "全球汽车智能化加速，PwC 称制胜关键在于 AI 治理与整体优化",
+    "summary_short": "PwC 在 Response Conference 2026 上指出，汽车智能化竞争中，产业架构整体优化和 AI 治理是制胜关键。",
+    "summary_long": "在 6 月 30 日于东京举办的 Response Conference 2026 上，PwC 围绕汽车智能化发表演讲。PwC 认为，在激烈的自动驾驶技术开发竞争中，要实现胜出，必须进行产业架构的整体优化，并构建支撑安全 AI 应用的 AI 治理体系。PwC 智能移动综合研究所提出了从产业架构视角进行整体俯瞰和优化的方法，并介绍了最新的 AI 治理框架。PwC 咨询总监细井裕介从宏观角度分析称，汽车行业正经历电动化（GX）和数字化（DX）双重变革，车辆正向 SDV、自动驾驶和服务化方向发展，进而推动物流和交通形态的升级。",
+    "highlights_zh": [
+      "产业架构整体优化是竞争关键",
+      "AI 治理保障安全应用",
+      "电动化与数字化双重变革并行",
+      "车辆向 SDV、自动驾驶和服务化演进"
+    ],
+    "entities": [
+      "PwC",
+      "Response Conference 2026",
+      "AI 治理",
+      "整体优化",
+      "自动驾驶"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226973.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226973.jpg",
+      "https://response.jp/imgs/fill2/2226972.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:19.081Z"
+  },
+  "https://response.jp/article/2026/07/13/413953.html": {
+    "title_zh": "日产新款 Leaf 内饰设计主题“Phygital”是什么？",
+    "summary_short": "日产新款 Leaf 内饰采用“Phygital”概念，融合数字与物理元素，打造宽敞空间。",
+    "summary_long": "日产新款 Leaf 的内饰设计以“Phygital”为概念，旨在融合数字与物理元素。首席设计师田势信崇表示，通过水平基调设计，将显示屏融入空间，实现数字与物理的融合，营造宽敞感。此外，平坦地板因空调系统移至发动机舱而得以实现，配合薄仪表台和低矮中控台，最大化空间优势。",
+    "highlights_zh": [
+      "内饰主题“Phygital”融合数字与物理",
+      "水平基调设计使显示屏融入空间",
+      "平坦地板带来宽敞足部空间",
+      "薄仪表台和低中控台优化布局"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "リーフ",
+      "Phygital",
+      "田势信崇"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2211017.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2211017.jpg",
+      "https://response.jp/imgs/zoom1/2227030.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:19.899Z"
+  },
+  "https://bestcarweb.jp/feature/column/1535874": {
+    "title_zh": "【读错会尴尬！？】这个地名你会读吗？难读地名 Quiz“常滑”",
+    "summary_short": "介绍日本难读地名“常滑”的正确读音，以及当地特产常滑烧、中部国际机场等观光信息。",
+    "summary_long": "日本各地存在许多容易读错的地名，在重要场合读错会令人尴尬。本企划介绍难读地名的正确读音，并附带特产、名胜等观光信息。爱知县常滑市以中部国际机场（Centrair）闻名，机场内有波音 787 初号机展示的“飞行之梦”等设施。常滑也是“常滑烧”陶瓷产地，保留着古窑和烟囱的“陶瓷散步道”充满复古风情，其登窑被指定为重要有形民俗文化财。",
+    "highlights_zh": [
+      "难读地名“常滑”的正确读音",
+      "中部国际机场及波音 787 展示",
+      "常滑烧陶瓷产地与古窑散步道",
+      "日本最大级登窑文化财"
+    ],
+    "entities": [
+      "常滑",
+      "常滑烧",
+      "中部国际机场",
+      "波音 787 | Boeing 787",
+      "爱知县"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114530/96090361595d405e4adccc15b58920bb.jpg?v=1780195531",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/31114530/96090361595d405e4adccc15b58920bb-600x400.jpg?v=1780195531",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08135439/mazda3_image1-600x400.jpg?v=1783486480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:27.477Z"
+  },
+  "https://bestcarweb.jp/newcar/1578871": {
+    "title_zh": "丰田卡罗拉运动版改款：新增 18 英寸轮毂及 60 周年纪念版",
+    "summary_short": "丰田卡罗拉运动版推出 60 周年纪念车 G“Z·ACTIVE ELEGANCE”，并新增 18 英寸轮毂，提升运动感与豪华感。",
+    "summary_long": "丰田于 2026 年 7 月 13 日对卡罗拉运动版进行部分改良，并推出卡罗拉诞生 60 周年纪念特别仕样车 G“Z·ACTIVE ELEGANCE”。该纪念车是卡罗拉系列 60 周年纪念车的第四弹，此前已推出卡罗拉、卡罗拉旅行版和卡罗拉跨界版。纪念版车型在细节上精心打造，包括前翼子板上的 60 周年纪念标识、合成皮革包裹的仪表板、专属真皮+合成皮革运动座椅（シャトー×黑色配色）、烟熏银色内饰装饰以及铝制踏板。此外，普通版车型也得到升级，G“Z”版本标配 225/40R18 轮胎和 18×8J 铝合金轮毂（切削光辉+黑色涂装），提升了外观的运动感。",
+    "highlights_zh": [
+      "60 周年纪念版 G“Z·ACTIVE ELEGAN…",
+      "新增 18 英寸轮毂",
+      "专属真皮座椅与烟熏银内饰",
+      "纪念标识与铝制踏板细节"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉运动版 | Corolla Sport",
+      "G“Z·ACTIVE ELEGANCE”",
+      "18 英寸轮毂"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13180003/s-20260713_02_08.jpg?v=1783933204",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13180003/s-20260713_02_08-600x423.jpg?v=1783933204",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13103752/A35_2533_1-600x400.jpg?v=1783906673"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:27.832Z"
+  },
+  "https://bestcarweb.jp/feature/column/1570241": {
+    "title_zh": "500 万日元选谁？兰德酷路泽 FJ vs 全新 Hilux 日常与拥有感大比拼",
+    "summary_short": "丰田兰德酷路泽 FJ 与全新 Hilux 均为 500 万日元级硬派 4WD，但日常实用性与拥有满足感各有侧重。",
+    "summary_long": "2026 年 5 月，丰田推出两款全新硬派四驱车型：兰德酷路泽 FJ 和全新 Hilux。两者均基于 IMV 平台，采用梯形大梁结构，售价约 500 万日元。兰德酷路泽 FJ 主打轻松享受越野乐趣，车身紧凑（长 4575mm、宽 1855mm），配备分时四驱和后桥差速锁，注重日常易用性。全新 Hilux 则从传统工具车转型为生活方式皮卡，搭载全景影像、盲点监测等舒适配置，兼顾工作与休闲。对比两者在日常驾驶和拥有感上的差异。",
+    "highlights_zh": [
+      "兰德酷路泽 FJ 主打轻松越野",
+      "全新 Hilux 从工具车转型为生活方式皮卡",
+      "两者均约 500 万日元",
+      "FJ 侧重日常"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽 FJ",
+      "Hilux"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06092644/9e27d8926c12e413cf49b755ba0c3e3f.jpg?v=1783297605",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06092644/9e27d8926c12e413cf49b755ba0c3e3f-600x338.jpg?v=1783297605",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08135439/mazda3_image1-600x400.jpg?v=1783486480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:32.742Z"
+  },
+  "https://bestcarweb.jp/feature/column/1573435": {
+    "title_zh": "AT 无法终结！最后还得是“三踏板”MT 车，4 款轻松享受的手动挡车型推荐",
+    "summary_short": "推荐 4 款新车上能买到的轻松驾驶 MT 车型，包括马自达 3 等，兼顾乐趣与实用性。",
+    "summary_long": "手动挡车型能带来更纯粹的驾驶乐趣，但通常多见于跑车，购买时可能牺牲实用性且门槛较高。对于想重拾手动挡的驾驶者，操作上的不安也是顾虑。本文推荐 4 款在售新车中能轻松享受的手动挡车型，如马自达 3（MAZDA3），其作为马自达全球主力车型，累计销量超 600 万辆，采用第二代创驰蓝天技术和魂动设计，提供 1.5L、2.0L 汽油、2.0L 轻混及 1.8L 柴油等多种动力。",
+    "highlights_zh": [
+      "手动挡驾驶乐趣更纯粹",
+      "推荐 4 款在售轻松 MT 车型",
+      "马自达 3 累计销量超 600 万",
+      "提供多种动力选择"
+    ],
+    "entities": [
+      "马自达 3 | MAZDA3",
+      "创驰蓝天",
+      "魂动设计",
+      "手动挡 | MT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08135439/mazda3_image1.jpg?v=1783486480",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08135439/mazda3_image1-600x400.jpg?v=1783486480",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09132439/f6519e1fe6f968419422c285795202ea-600x400.jpg?v=1783571081"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:32.916Z"
+  },
+  "https://response.jp/article/2026/07/13/413959.html": {
+    "title_zh": "NanoFrontier 将在 JASIS 2026 展出 PFAS 检测等 5 大纳米材料解决方案",
+    "summary_short": "NanoFrontier 将在 JASIS 2026 展出 5 大纳米材料解决方案，包括高灵敏度低成本的 PFAS 检测简易套件。",
+    "summary_long": "纳米前沿公司（NanoFrontier）宣布将在 9 月 2 日至 4 日于幕张展览馆举办的 JASIS 2026 展会上出展。JASIS 是亚洲最大的分析测量仪器专业展会，与 analytica 和 Pittcon 齐名。该公司基于东北大学多元物质科学研究所 30 多年积累的纳米粒子生成技术，构建了可自由设计和量产纳米粒子的平台。本次展会将展出 5 个解决方案，包括利用有机纳米粒子技术特异性检测特定 PFAS 水污染的高灵敏度低成本简易套件，可满足现场即时检测需求。",
+    "highlights_zh": [
+      "展出 5 大纳米材料解决方案",
+      "高灵敏度低成本的 PFAS 检测套件",
+      "基于 30 多年纳米粒子技术积累",
+      "JASIS 2026 于 9 月 2 日开幕"
+    ],
+    "entities": [
+      "NanoFrontier",
+      "JASIS 2026",
+      "PFAS",
+      "纳米粒子",
+      "水污染检测"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227060.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227060.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:37.375Z"
+  },
+  "https://response.jp/article/2026/07/13/413973.html": {
+    "title_zh": "KTM 发布 2027 款 SX 系列 9 款车型，涵盖全尺寸与迷你车型",
+    "summary_short": "KTM 推出 2027 款 SX 系列 9 款摩托车，包括 6 款全尺寸和 3 款迷你车型，采用新涂装、EFI 系统及高端组件。",
+    "summary_long": "KTM 发布了 2027 年款 SX 系列摩托车，共 9 款车型，包括 6 款全尺寸和 3 款迷你车型。新车采用更醒目的橙色涂装和红色点缀，油箱扰流板使用模内工艺，提升耐久性。车架为液压成型钢制，优化了响应性和轻量化。所有车型均配备电子燃油喷射系统，符合 FIM 噪音法规。全尺寸 SX-F 系列搭载 WP 悬架、Dunlop 轮胎、Brembo 制动等高端部件。4 冲程车型包括 450 SX-F、350 SX-F 和 250 SX-F，售价从 135.9 万日元起，将于 2026 年 9 月至 10 月陆续上市。",
+    "highlights_zh": [
+      "2027 款 SX 系列共 9 款车型",
+      "全尺寸 6 款+迷你 3 款",
+      "新涂装与模内工艺",
+      "全系 EFI 电子燃油喷射"
+    ],
+    "entities": [
+      "KTM",
+      "SX 系列 | SX Series",
+      "450 SX-F",
+      "350 SX-F",
+      "250 SX-F"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227145.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227145.jpg",
+      "https://response.jp/imgs/fill2/2227092.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:38.184Z"
+  },
+  "https://response.jp/article/2026/07/13/413971.html": {
+    "title_zh": "奥迪 Q6 Sportback e-tron 亮相熊本国际环境峰会",
+    "summary_short": "奥迪日本将在熊本国际环境峰会展示 Q6 Sportback e-tron，该车基于 PPE 平台，生产实现碳中和。",
+    "summary_long": "奥迪日本将于 7 月 14-15 日在熊本城ホール举办的“NATURE TECH！”展会上展出 Q6 Sportback e-tron quattro advanced。该展会与“Global Nature Positive Summit 2026”同期举行，旨在推动自然正向发展。Q6 Sportback e-tron 基于奥迪与保时捷共同开发的 PPE 平台，是奥迪在德国因戈尔施塔特工厂生产的首款量产电动车，该工厂已实现净零碳排放，座椅部分采用回收材料。",
+    "highlights_zh": [
+      "奥迪 Q6 Sportback e-tron 亮相熊…",
+      "基于 PPE 平台",
+      "生产工厂实现净零碳排放",
+      "座椅采用回收材料"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q6 Sportback e-tron",
+      "PPE 平台",
+      "保时捷 | Porsche",
+      "Global Nature Positive Summit"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227140.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227140.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:42.143Z"
+  },
+  "https://response.jp/article/2026/07/13/413975.html": {
+    "title_zh": "TokyoDriveCarClub 2026 春夏系列 7 月 18 日发售，热门帽款与复刻单品登场",
+    "summary_short": "TokyoDriveCarClub 2026 春夏系列 7 月 18 日发售，包含新设计 T 恤、帽款及复刻单品，热门帽款曾数分钟售罄。",
+    "summary_long": "汽车文化生活方式品牌 TokyoDriveCarClub 将于 7 月 18 日 13 时发布 2026 春夏系列，通过官网及合作店铺销售。该品牌以发售即售罄著称，本次系列包括新设计的衬衫、长袖 T 恤、卫衣，以及过去数分钟内售罄的热门帽款复刻版和别色版本，共 20 种帽款。T 恤提供 9 种款式，涵盖经典照片 T、嘻哈风格设计、刺绣贴布 T 及简约 Logo T，售价 8800-11000 日元。帽款以“I like Porsches I don't like Porsche owners”等标语设计为核心，售价 15400 日元。此外，复刻皮革钥匙链也将同步发售，售价 9900 日元。",
+    "highlights_zh": [
+      "2026 春夏系列 7 月 18 日 13 时发售",
+      "热门帽款曾数分钟售罄",
+      "T 恤共 9 款",
+      "复刻皮革钥匙链同步发售"
+    ],
+    "entities": [
+      "TokyoDriveCarClub",
+      "Porsche"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2225434.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2225434.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:42.231Z"
+  },
+  "https://bestcarweb.jp/news/1568211": {
+    "title_zh": "新型电动自行车 ENERSYS CITY：助力性能提升 20%，通勤更舒适",
+    "summary_short": "新型 ENERSYS CITY 电动自行车助力性能提升 20%，通勤更轻松，兼具运动设计与实用性。",
+    "summary_long": "电动助力自行车作为通勤工具日益流行。Cycle Base Asahi 的 ENERSYS CITY 推出新款，助力性能提升 20%，起步更轻快，城市通勤更顺畅。同时兼具运动化设计与实用性，适合与汽车搭配使用。",
+    "highlights_zh": [
+      "助力性能提升 20%",
+      "起步更轻快",
+      "运动设计与实用性兼顾",
+      "适合通勤及与汽车搭配使用"
+    ],
+    "entities": [
+      "ENERSYS CITY",
+      "サイクルベースあさひ"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03171349/df966016389aeb595b22fe0cde4dc279.jpg?v=1783066430",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03171349/df966016389aeb595b22fe0cde4dc279-600x300.jpg?v=1783066430",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10140508/3ed4b3310eacccda632bbb9b41605e6a-600x314.jpg?v=1783659909"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:45.782Z"
+  },
+  "https://response.jp/article/2026/07/13/413960.html": {
+    "title_zh": "埃森哲收购 IndX，借西门子技术与 AI 加速制造业数字化转型",
+    "summary_short": "埃森哲收购西门子软件咨询公司 IndX，强化 IT/OT 融合与 AI 能力，推动制造业数字化转型。",
+    "summary_long": "埃森哲宣布收购 IndX，后者是一家专注于西门子工业软件的咨询公司，总部位于罗马和芝加哥。IndX 在离散制造和流程制造领域经验丰富，擅长实施数字线程解决方案，涵盖 PLM、仿真、数字孪生、SCADA、工业边缘计算和云计算等，帮助客户整合工厂、制造与自动化环节，实现 IT 与 OT 的深度融合。此次收购将增强埃森哲在制造业数字化领域的服务能力，加速 AI 与西门子技术的应用。",
+    "highlights_zh": [
+      "埃森哲收购西门子软件咨询公司 IndX",
+      "IndX 专注数字线程与 IT/OT 融合",
+      "强化 PLM、数字孪生、边缘计算能力",
+      "加速制造业 AI 与数字化转型"
+    ],
+    "entities": [
+      "埃森哲",
+      "IndX",
+      "西门子"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227059.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227059.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:45.944Z"
+  },
+  "https://response.jp/article/2026/07/13/413957.html": {
+    "title_zh": "科尔维特与凯迪拉克 EV 引入 Google Gemini，日本也可用 AI 助手",
+    "summary_short": "GM 为凯迪拉克 EV 和科尔维特引入 Google Gemini AI 助手，支持自然对话、复合指令，日本等市场同步上线。",
+    "summary_long": "通用汽车宣布，继北美之后，将在日本、澳大利亚、新西兰及欧洲各国，为所有搭载“Google 内置”系统的凯迪拉克 EV 和科尔维特车型，逐步引入 AI 助手“Google Gemini”。Gemini 运行于 GM 的信息娱乐系统内，具备自然语言处理和上下文感知能力，可替代传统 Google 助手，实现无需记忆命令的自然对话。用户可在不松开方向盘、视线不离路面的情况下，通过单一对话流处理复合任务，如“导航到附近邮局，途中想喝咖啡”，并能在对话中切换音乐请求。Gemini 还能搜索沿途高评分咖啡馆、适配车辆接口的 EV 充电站，获取实时交通信息，并根据景色创建播放列表或推荐播客，与 Amazon Music、Spotify 等车载应用联动。更新将在数月内分批推送，使用需有效互联服务及 Google 账户登录。",
+    "highlights_zh": [
+      "GM 为凯迪拉克 EV 和科尔维特引入 Google…",
+      "支持自然对话与复合指令",
+      "可搜索沿途充电站、咖啡店",
+      "日本、澳洲、欧洲等市场同步上线"
+    ],
+    "entities": [
+      "凯迪拉克",
+      "科尔维特",
+      "Google Gemini",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227049.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227049.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:50.764Z"
+  },
+  "https://bestcarweb.jp/feature/column/1573867": {
+    "title_zh": "本田 Vezel e:HEV 与丰田 Yaris Cross 全面对比：舒适性与燃油经济性决定最强紧凑 SUV",
+    "summary_short": "本田 Vezel e:HEV 与丰田 Yaris Cross 全面对比，舒适性与燃油经济性成关键，哪款紧凑 SUV 更胜一筹？",
+    "summary_long": "本田 Vezel e:HEV 与丰田 Yaris Cross 是日本紧凑型 SUV 市场的热门车型，均提供混合动力版本。Vezel 凭借中心油箱布局带来宽敞平坦的后排空间和高级感，2025 年 10 月改款后新增导航和无线充电器选装，e:HEV Z（2WD）售价约 326 万日元。Yaris Cross 则因车身紧凑、转弯半径小，城市操控灵活，2026 年 2 月改款后升级 10.5 英寸大屏和质感更好的扶手，Hybrid Z（2WD）售价约 299 万日元，价格更低。燃油经济性方面，Yaris Cross Hybrid X（2WD）WLTC 油耗达 30.8km/L，Hybrid Z（2WD）为 27.8km/L，1.5L 三缸发动机与电机组合经济性突出。若重视后排空间和舒适性，Vezel 更优；若追求低油耗和城市便利性，Yaris Cross 是更好选择。",
+    "highlights_zh": [
+      "Vezel 后排空间宽敞",
+      "Yaris Cross 油耗低至 30.8km/L",
+      "Yaris Cross 价格更亲民",
+      "Vezel 改款后新增导航和无线充电"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Vezel e:HEV",
+      "丰田 | Toyota",
+      "Yaris Cross"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09132439/f6519e1fe6f968419422c285795202ea.jpg?v=1783571081",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09132439/f6519e1fe6f968419422c285795202ea-600x400.jpg?v=1783571081",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08135439/mazda3_image1-600x400.jpg?v=1783486480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:51.325Z"
+  },
+  "https://bestcarweb.jp/feature/column/1558853": {
+    "title_zh": "马自达秘藏名车大公开：从战前三轮卡车到梦幻跑车",
+    "summary_short": "探访马自达 R&D 中心横滨，揭秘从战前三轮卡车 T1500 到转子引擎跑车 Cosmo Sport 的珍贵历史车型。",
+    "summary_long": "马自达 R&D 中心横滨（原马自达横滨研究所）内设有一处特别空间，收藏了众多历史名车。本文介绍了其中部分秘藏车型：战前即开始生产三轮卡车的马自达（当时称东洋工业），在 1959 年推出了配备钢制驾驶室的 2 吨卡车 T1500，其时尚外观和先进技术（如全轮制动、液压离合器、1484cc 水冷直列四缸 OHV 发动机）备受瞩目。此外，还展示了 1964 年东京车展首次公开的 Cosmo Sport 原型车，搭载双转子发动机，是马自达转子引擎技术的先驱。",
+    "highlights_zh": [
+      "马自达 R&D 中心横滨秘藏历史名车",
+      "1959 年 2 吨卡车 T1500：钢制驾驶室与先…",
+      "Cosmo Sport 原型车：双转子发动机先驱",
+      "从三轮卡车到转子跑车的品牌进化"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "T1500",
+      "Cosmo Sport",
+      "转子发动机",
+      "三轮卡车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23211228/00_s_mazda_05_head.jpg?v=1782216749",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23211228/00_s_mazda_05_head-600x400.jpg?v=1782216749",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08135439/mazda3_image1-600x400.jpg?v=1783486480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:55.558Z"
+  },
+  "https://bestcarweb.jp/feature/column/1571242": {
+    "title_zh": "日产 NV200 巴尼特 迈入姆：移动小房间",
+    "summary_short": "日产 NV200 巴尼特迈入姆是一款介于露营车和轻卡之间的车中泊车型，2025 年 12 月升级后更舒适。",
+    "summary_long": "日产 NV200 巴尼特迈入姆是一款基于商用 NV200 巴尼特打造的移动房间概念车，提供 5 座布局和 400kg 载重。其核心是 2 排 2 合 1 座椅，行驶时朝前，停车时可变为沙发或床，左右 5:5 分割设计允许灵活分区。搭配平置床和滑动桌，车内瞬间成为小客厅兼卧室，适合单人或双人使用。2025 年 12 月进行了规格升级，提升了舒适装备。价格约 484 万日元起，虽不便宜，但日产原厂改装品质使其区别于普通床垫改装车。",
+    "highlights_zh": [
+      "2 排 2 合 1 座椅可切换沙发或床",
+      "左右 5:5 分割",
+      "平置床+滑动桌",
+      "2025 年 12 月舒适装备升级"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "NV200 巴尼特 迈入姆 | NV200 Vanette Myroom",
+      "车中泊",
+      "露营车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09113418/260701-00-j_03_NV200_MYROOM_1.jpg?v=1783564459",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09113418/260701-00-j_03_NV200_MYROOM_1-600x400.jpg?v=1783564459",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08135439/mazda3_image1-600x400.jpg?v=1783486480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:56.235Z"
+  },
+  "https://insideevs.com/news/801441/waze-ai-destination-search-motorcycle-mode/": {
+    "title_zh": "Waze 借助 Gemini AI 升级目的地搜索",
+    "summary_short": "Waze 推出 AI 语音搜索、对话式报告及摩托车模式，提升导航体验。",
+    "summary_long": "Waze 在最新更新中引入多项 AI 功能。用户可通过 Gemini AI 语音助手快速搜索目的地，如“找一家现在营业的咖啡店”。对话式报告功能扩展至地图问题，用户可语音报告道路封闭或地址错误。新增摩托车模式，AI 优化路线以适应两轮车特性，提供更精准的到达时间预估。此外，Waze 还会根据用户历史行程推荐路线。",
+    "highlights_zh": [
+      "AI 语音搜索目的地",
+      "对话式报告地图问题",
+      "新增摩托车导航模式",
+      "基于历史行程推荐路线"
+    ],
+    "entities": [
+      "Waze",
+      "Gemini AI",
+      "Google"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8rgb/s1/waze.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:59.684Z"
+  },
+  "https://bestcarweb.jp/news/1576061": {
+    "title_zh": "全新 Aqua 专属 GR 套件登场！操控与稳定性如何进化？",
+    "summary_short": "丰田为改款 Aqua 推出 GR 系列改装件，涵盖空力、稳定性和外观升级，提升日常驾驶乐趣。",
+    "summary_long": "丰田定制与开发公司随改款 Aqua 上市，推出了 GR 系列改装件。不同于传统运动车型的 GR 套件，本次产品以提升日常通勤和购物场景下的性能为核心。重点包括 GR 空气动力学扰流器和 GR 运动侧遮阳板，通过控制气流增强高速和弯道稳定性。此外，GR 放电胶带和 GR 车门稳定器分别优化车身表面气流和车门刚性，提升操控响应。",
+    "highlights_zh": [
+      "GR 空气动力学扰流器提升高速稳定性",
+      "GR 运动侧遮阳板优化气流控制",
+      "GR 放电胶带改善车身表面气流",
+      "GR 车门稳定器增强刚性响应"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Aqua",
+      "GR PARTS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10140508/3ed4b3310eacccda632bbb9b41605e6a.jpg?v=1783659909",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10140508/3ed4b3310eacccda632bbb9b41605e6a-600x314.jpg?v=1783659909",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/03171349/df966016389aeb595b22fe0cde4dc279-600x300.jpg?v=1783066430"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:01:59.931Z"
+  },
+  "https://www.motor1.com/news/801413/vw-group-discontinue-10-cars-report/": {
+    "title_zh": "大众集团计划砍掉半数车型，Jetta 和 Taycan 或面临停产",
+    "summary_short": "大众集团计划到 2030 年削减 50%车型，Jetta、Taos 及 Taycan 等 10 款车可能被砍。",
+    "summary_long": "大众集团确认将精简产品线，计划到 2030 年削减多达 50%的车型，同时将可选配置减少 75%，年产能从 1000 万辆降至 900 万辆。德国媒体称，大众品牌 Jetta 和 Taos 将不再推出下一代，保时捷 Taycan、奥迪 Q8 e-tron 等也在潜在停产名单中。大众产品传播总监表示不予置评。",
+    "highlights_zh": [
+      "大众计划 2030 年前砍掉 50%车型",
+      "Jetta 和 Taos 将不再换代",
+      "保时捷 Taycan 或面临停产",
+      "年产能将从 1000 万降至 900 万"
+    ],
+    "entities": [
+      "大众集团 | VW Group",
+      "Jetta",
+      "Taos",
+      "Taycan",
+      "保时捷 | Porsche"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XB6gyl/s1/2025-volkswagen-jetta-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:02:03.578Z"
+  },
+  "https://insideevs.com/news/801422/fisker-ocean-dead-ev-hands-free-driving/": {
+    "title_zh": "Fisker Ocean 或终获解放双手驾驶功能，尽管公司已倒闭",
+    "summary_short": "Fisker Ocean 有望通过开源方案实现从未交付的解放双手驾驶功能，Comma AI 正在测试中。",
+    "summary_long": "Fisker Ocean 电动汽车在破产前从未交付其宣传的解放双手驾驶系统。如今，Comma AI 公司正通过其硬件与软件组合，在 Ocean 上测试该功能。目前仅支持转向，加速和制动尚未实现，软件仍处于开发阶段。",
+    "highlights_zh": [
+      "Fisker Ocean 原厂硬件支持解放双手驾驶",
+      "Comma AI 正测试其开源系统",
+      "当前仅支持转向",
+      "系统使用独立摄像头和计算单元"
+    ],
+    "entities": [
+      "Fisker Ocean",
+      "Comma AI",
+      "解放双手驾驶",
+      "开源"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40mgOz/s1/2023-fisker-ocean.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:02:03.606Z"
+  },
+  "https://www.motor1.com/news/801402/vw-boss-admits-cars-not-profitable-enough/": {
+    "title_zh": "大众集团 CEO 承认：车型不盈利是核心问题",
+    "summary_short": "大众集团 CEO 承认旗下车型虽受欢迎但利润不足，计划削减 50%产品线以降低成本。",
+    "summary_long": "大众集团 CEO Oliver Blume 在接受德国《图片报》采访时指出，集团面临的核心问题并非需求不足，而是盈利能力低下。尽管车型“非常受欢迎”，但利润空间被高昂的生产成本侵蚀，导致无法从畅销车型中赚取足够利润。为此，大众已启动严苛的成本削减计划，可能砍掉核心品牌、奥迪、斯柯达、兰博基尼、保时捷、宾利、西雅特及 Cupra 等品牌多达 50%的车型，优先保留高销量和高利润产品。未确认的初步清单包含 10 款车型，如 Jetta 和 Taycan。",
+    "highlights_zh": [
+      "车型受欢迎但利润不足",
+      "计划削减 50%产品线",
+      "优先保留高销量高利润车型",
+      "Jetta 和 Taycan 或面临停产"
+    ],
+    "entities": [
+      "大众集团 | Volkswagen Group",
+      "奥迪 | Audi",
+      "斯柯达",
+      "保时捷 | Porsche",
+      "Jetta"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGP3PY/s1/celebration-of-the-one-millionth-vw-beetle-at-the-wolfsburg-factory-in-1955..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:02:07.745Z"
+  },
+  "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/": {
+    "title_zh": "特斯拉拆除 Model S 工厂，改建人形机器人产线",
+    "summary_short": "特斯拉将弗里蒙特工厂中生产 Model S 和 Model X 的产线拆除，仅用 46 天改造成人形机器人制造基地。",
+    "summary_long": "特斯拉位于加州弗里蒙特的工厂曾生产出全球首款真正意义上的现代电动汽车 Model S，如今该产线已正式退役。特斯拉用 46 天拆除了原 Model S 和 Model X 的装配线，将其改造成人形机器人生产车间。Model S 和 Model X 因销量低迷，在季度报告中已被归入“其他车型”类别，但它们在电动汽车发展史上具有里程碑意义。",
+    "highlights_zh": [
+      "Model S 产线运行 14 年后正式退役",
+      "46 天内完成拆除并改建机器人工厂",
+      "Model S 和 Model X 销量低迷",
+      "Model S 曾开创电动汽车新纪元"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model S",
+      "Model X",
+      "弗里蒙特工厂",
+      "人形机器人"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Mkgo66/s1/tesla-model-s-and-model-x-assembly-line-decommissioning.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-13T16:02:07.937Z"
   }
 }
