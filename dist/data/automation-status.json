@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-13T16:00:46.135Z",
+    "generated_at": "2026-07-14T03:30:38.184Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 370,
-    "deepseek_untranslated_before_run": 30,
-    "newly_fetched_articles": 30,
-    "newly_fetched_untranslated": 30,
+    "deepseek_translated_before_run": 368,
+    "deepseek_untranslated_before_run": 32,
+    "newly_fetched_articles": 32,
+    "newly_fetched_untranslated": 32,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 30,
+    "translation_queue_count": 32,
     "translation_queue_preview": [
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "【バス運転士日誌】フジエクスプレス東京営業所見学会で即日応募者が3割超えだと!?",
+        "url": "https://bestcarweb.jp/busmagazine/1552220"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "BMW M2に新キット装着、独ニュルブルクリンクで「M2 C2」の記録更新",
+        "url": "https://response.jp/article/2026/07/14/413983.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "BMW「ノイエクラッセ」第1弾『iX3』新型、最新安全試験で5つ星獲得…ユーロNCAP",
+        "url": "https://response.jp/article/2026/07/14/413994.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "SKYDRIVE「空飛ぶクルマ」、瀬戸内海遊覧想定のデモフライト…スズキ社長も視察",
+        "url": "https://response.jp/article/2026/07/14/413998.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "SUBARU、ライフセーバーカー39台で水辺の事故ゼロを支援",
+        "url": "https://response.jp/article/2026/07/14/413990.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "WR-V対ヴェゼル!! 同じホンダSUVでも“安いWR-V”と“上質ヴェゼル”は何が違う？",
+        "url": "https://bestcarweb.jp/feature/column/1571229"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "アウディ『A3オールストリート』、車高30mmアップのSUVに改良新型…インテリアを刷新",
+        "url": "https://response.jp/article/2026/07/14/413986.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "インフィニオン、SiC技術をADVANTICSに供給…メガワット充電システムの効率を向上",
+        "url": "https://response.jp/article/2026/07/14/413992.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "クラウド型点呼システム「Cagou IT点呼」、日本郵便の全国3000拠点以上に正式導入",
+        "url": "https://response.jp/article/2026/07/14/413993.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "コーンズテクノロジー、次世代ワイヤレス給電技術など展示へ…TECHNO-FRONTIER 2026",
+        "url": "https://response.jp/article/2026/07/14/413999.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "ひと昔前のアルヴェルの価格でイケる!? 460万円でしかもディーゼルならグランエース今こそじゃないか!?!?!",
+        "url": "https://bestcarweb.jp/feature/column/1574509"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "もしもの時絶対便利!! 1台4役をこなす車載エアポンプが神アイテムな件",
+        "url": "https://bestcarweb.jp/news/1576074"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "ロータリーファン感涙!! ル・マン優勝車と幻のロータリースポーツを一挙紹介！ マツダの挑戦を振り返る",
+        "url": "https://bestcarweb.jp/feature/column/1558891"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "打倒ヤリスクロス!? EVだけだったけどハイブリッド追加の新型アベンジャーが魅力的すぎ!!",
+        "url": "https://bestcarweb.jp/feature/column/1559230"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "毎日やってない？ AT車オーナーが無意識に愛車を傷める行為3選",
+        "url": "https://bestcarweb.jp/feature/column/1565422"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.14",
+        "title": "Man Gets 4 New Tires For His Lexus. Then The Shop Calls Him About A Missing Part: 'I Threw That Away'",
+        "url": "https://www.motor1.com/news/801391/lexus-tires-wheel-lock/"
+      },
       {
         "source": "InsideEVs",
         "time": "2026.7.13",
-        "title": "After 87,000 Miles, This 2022 Tesla Model Y Didn’t Just Lose Range. It Charges Slower Too",
-        "url": "https://insideevs.com/news/801469/tesla-model-y-adac-test/"
+        "title": "California's $3,500 EV Rebate Program Starts 'Later This Summer'",
+        "url": "https://insideevs.com/news/801512/california-ev-rebate-3500-2026/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.13",
+        "title": "BYD's New Electric Supercar Costs $190,000 In Europe. Will Customers Show Up?",
+        "url": "https://insideevs.com/news/801513/denza-uk-price-z-supercar/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.13",
-        "title": "Slate Lets You Pick A Color Straight From The Crayola Crayon Box",
-        "url": "https://www.motor1.com/news/801475/slate-crayola-trucks-colorful/"
+        "title": "Woman Buys Chevrolet Tahoe. Then Her Wheel Flies Off. Then The Dealership Ghosts Her—After Agreeing To Take Accountability",
+        "url": "https://www.motor1.com/news/801389/dealership-ghosts-chevrolet-tahoe/"
       },
       {
         "source": "The Drive",
         "time": "2026.7.13",
-        "title": "2026 Honda Civic Sport Review: The Best $28,000 You’ll Spend",
-        "url": "https://www.thedrive.com/car-reviews/2026-honda-civic-sport-review"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.13",
-        "title": "Jeep and Ram Are Riding High Thanks to North America: TDS",
-        "url": "https://www.thedrive.com/news/jeep-and-ram-are-riding-high-thanks-to-north-america-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.13",
-        "title": "Over 300,000 Honda Odyssey Minivans Have Backup Camera Issues",
-        "url": "https://www.motor1.com/news/801026/honda-odyssey-camera-recall/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.13",
-        "title": "‘We’ve Specialized In Toyota Tacomas, Toyota 4Runners’: Man Goes To Dealership. Then Salesman Explains Why They Don’t Sell Tundras",
-        "url": "https://www.motor1.com/news/801392/toyota-dealer-wont-sell-tundras/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "「これは売れる」「めっちゃいい」トヨタ『カローラクロス』60周年記念車がSNSで話題に！",
-        "url": "https://response.jp/article/2026/07/13/413978.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "【スズキ ジムニーシエラ 新型試乗】ジムニーにACCが搭載される日がくるとは…9年目で進化した5型の走り",
-        "url": "https://response.jp/article/2026/07/13/413976.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "【レスポンスカンファレンス2026】グローバルで進むクルマの知能化。勝ち抜くカギは「AIガバナンスと全体最適化」…PwCが解説",
-        "url": "https://response.jp/article/2026/07/13/413964.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "【日産 リーフ 新型】インテリアデザインのテーマ「フィジタル」とは何か？",
-        "url": "https://response.jp/article/2026/07/13/413953.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「常滑」",
-        "url": "https://bestcarweb.jp/feature/column/1535874"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "18インチホイール設定に新色も!! 60周年特別記念車も出たカローラスポーツの一部改良がゴージャスすぎ!!",
-        "url": "https://bestcarweb.jp/newcar/1578871"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "500万円で買うならどっち!? ランクルFJと新型ハイラックス「普段使い」と「所有する幸せ」をガチ比較",
-        "url": "https://bestcarweb.jp/feature/column/1570241"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "ATじゃ終われない！ 締めはやっぱり「3ペダル」でしょ！ 肩肘張らずに乗れるMT車4選",
-        "url": "https://bestcarweb.jp/feature/column/1573435"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "KTM、2027年型『SXシリーズ』9モデルを発表、フルサイズからミニサイクルモデルまで展開",
-        "url": "https://response.jp/article/2026/07/13/413973.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "PFAS検知など5分野のナノ材料ソリューション、NanoFrontierが出展へ…JASIS 2026",
-        "url": "https://response.jp/article/2026/07/13/413959.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "TokyoDriveCarClub 2026 S/Sコレクションを7月18日にリリース、即完売続きのキャップや復刻アイテムも登場",
-        "url": "https://response.jp/article/2026/07/13/413975.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "アウディ『Q6 Sportback e-tron』、熊本の国際環境サミットに展示へ…ネイチャーポジティブへの取り組みを発信",
-        "url": "https://response.jp/article/2026/07/13/413971.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.13",
-        "title": "アクセンチュア、IndXを買収…シーメンス技術とAIで製造業のデジタル変革を加速",
-        "url": "https://response.jp/article/2026/07/13/413960.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.13",
-        "title": "アシスト性能20%向上!! 新型電動自転車エネシスシティで通勤が快適に!!",
-        "url": "https://bestcarweb.jp/news/1568211"
+        "title": "How The Wrong Car Cover Can Cause Rust",
+        "url": "https://www.thedrive.com/news/how-the-wrong-car-cover-can-cause-rust"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 30,
-    "queued_articles": 30,
-    "processed": 30,
-    "started_at": "2026-07-13T16:00:46.458Z",
-    "finished_at": "2026-07-13T16:02:07.958Z",
+    "scoped_articles": 32,
+    "queued_articles": 32,
+    "processed": 32,
+    "started_at": "2026-07-14T03:30:38.468Z",
+    "finished_at": "2026-07-14T03:31:50.587Z",
     "success": true,
     "error": ""
   }
