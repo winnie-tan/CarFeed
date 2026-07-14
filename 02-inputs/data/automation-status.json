@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-14T03:30:38.184Z",
+    "generated_at": "2026-07-14T15:04:00.351Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
+    "newly_fetched_articles": 35,
+    "newly_fetched_untranslated": 34,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.7.14",
-        "title": "【バス運転士日誌】フジエクスプレス東京営業所見学会で即日応募者が3割超えだと!?",
-        "url": "https://bestcarweb.jp/busmagazine/1552220"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "BMW M2に新キット装着、独ニュルブルクリンクで「M2 C2」の記録更新",
-        "url": "https://response.jp/article/2026/07/14/413983.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "BMW「ノイエクラッセ」第1弾『iX3』新型、最新安全試験で5つ星獲得…ユーロNCAP",
-        "url": "https://response.jp/article/2026/07/14/413994.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "SKYDRIVE「空飛ぶクルマ」、瀬戸内海遊覧想定のデモフライト…スズキ社長も視察",
-        "url": "https://response.jp/article/2026/07/14/413998.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "SUBARU、ライフセーバーカー39台で水辺の事故ゼロを支援",
-        "url": "https://response.jp/article/2026/07/14/413990.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "WR-V対ヴェゼル!! 同じホンダSUVでも“安いWR-V”と“上質ヴェゼル”は何が違う？",
-        "url": "https://bestcarweb.jp/feature/column/1571229"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "アウディ『A3オールストリート』、車高30mmアップのSUVに改良新型…インテリアを刷新",
-        "url": "https://response.jp/article/2026/07/14/413986.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "インフィニオン、SiC技術をADVANTICSに供給…メガワット充電システムの効率を向上",
-        "url": "https://response.jp/article/2026/07/14/413992.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "クラウド型点呼システム「Cagou IT点呼」、日本郵便の全国3000拠点以上に正式導入",
-        "url": "https://response.jp/article/2026/07/14/413993.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "コーンズテクノロジー、次世代ワイヤレス給電技術など展示へ…TECHNO-FRONTIER 2026",
-        "url": "https://response.jp/article/2026/07/14/413999.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "ひと昔前のアルヴェルの価格でイケる!? 460万円でしかもディーゼルならグランエース今こそじゃないか!?!?!",
-        "url": "https://bestcarweb.jp/feature/column/1574509"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "もしもの時絶対便利!! 1台4役をこなす車載エアポンプが神アイテムな件",
-        "url": "https://bestcarweb.jp/news/1576074"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "ロータリーファン感涙!! ル・マン優勝車と幻のロータリースポーツを一挙紹介！ マツダの挑戦を振り返る",
-        "url": "https://bestcarweb.jp/feature/column/1558891"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "打倒ヤリスクロス!? EVだけだったけどハイブリッド追加の新型アベンジャーが魅力的すぎ!!",
-        "url": "https://bestcarweb.jp/feature/column/1559230"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "毎日やってない？ AT車オーナーが無意識に愛車を傷める行為3選",
-        "url": "https://bestcarweb.jp/feature/column/1565422"
+        "title": "Alfa Romeo Teases New Crossover. No, Still Not The Stelvio",
+        "url": "https://www.motor1.com/news/801604/alfa-romeo-crossover-teaser/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.14",
-        "title": "Man Gets 4 New Tires For His Lexus. Then The Shop Calls Him About A Missing Part: 'I Threw That Away'",
-        "url": "https://www.motor1.com/news/801391/lexus-tires-wheel-lock/"
+        "title": "The Lexus LS Refuses To Die",
+        "url": "https://www.motor1.com/news/801508/lexus-ls-lineup/"
       },
       {
         "source": "InsideEVs",
-        "time": "2026.7.13",
-        "title": "California's $3,500 EV Rebate Program Starts 'Later This Summer'",
-        "url": "https://insideevs.com/news/801512/california-ev-rebate-3500-2026/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.13",
-        "title": "BYD's New Electric Supercar Costs $190,000 In Europe. Will Customers Show Up?",
-        "url": "https://insideevs.com/news/801513/denza-uk-price-z-supercar/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.13",
-        "title": "Woman Buys Chevrolet Tahoe. Then Her Wheel Flies Off. Then The Dealership Ghosts Her—After Agreeing To Take Accountability",
-        "url": "https://www.motor1.com/news/801389/dealership-ghosts-chevrolet-tahoe/"
+        "time": "2026.7.14",
+        "title": "This New EV Range Extender Skips Gas And Packs A New Kind Of Generator",
+        "url": "https://insideevs.com/news/801593/horse-d20-methanol-ev-range-extender/"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.13",
-        "title": "How The Wrong Car Cover Can Cause Rust",
-        "url": "https://www.thedrive.com/news/how-the-wrong-car-cover-can-cause-rust"
+        "time": "2026.7.14",
+        "title": "Volkswagen’s Cost-Cutting Crusade Could Doom Jetta, Porsche Taycan and 718: TDS",
+        "url": "https://www.thedrive.com/news/volkswagens-cost-cutting-crusade-could-doom-jetta-porsche-taycan-and-718"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.14",
+        "title": "'Unexpected' Isn't Over: Lamborghini Hints At More Sterrato Models",
+        "url": "https://www.motor1.com/news/801505/more-lamborghini-sterrato-models-possible/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "「テクトンキターーーー」日産の新型SUV『テクトン』、インド発表に「日本で欲しい」の声",
+        "url": "https://response.jp/article/2026/07/14/414033.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "【ポルシェ 911 GT3 S/C 新型試乗】マニュアル一択！ 数字では語れない“サーキット直系の刺激”",
+        "url": "https://response.jp/article/2026/07/14/414035.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "ABB、最新のモーターとインバータ技術を披露へ…TECHNO-FRONTIER 2026",
+        "url": "https://response.jp/article/2026/07/14/414028.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.14",
+        "title": "Expert Gets In Car. Then He Shows How To Adjust Settings To Get The Most Out Of Your Factory Sound System: 'Works For Any Genre'",
+        "url": "https://www.motor1.com/news/801515/best-car-sound-system-settings/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "GaN・SiC時代の計測ソリューション、日置電機が披露へ…TECHNO-FRONTIER 2026",
+        "url": "https://response.jp/article/2026/07/14/414022.html"
+      },
+      {
+        "source": "Vespa",
+        "time": "2026.7.14",
+        "title": "Gigi Saint Tropez x Vespa",
+        "url": "https://press.piaggiogroup.com/en_EN/post/show/354591/gigi-saint-tropez-x-vespa.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "MotoGP由来のウィングレット装着！ アプリリア『RSV4 Factory』、363万円で限定12台発売",
+        "url": "https://response.jp/article/2026/07/14/414032.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "NDロードスター専用の防水フロアマット発売!! 立体設計だから液体に強い！",
+        "url": "https://bestcarweb.jp/news/1576063"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "OKIエンジニアリング、EMC・ノイズ対策の最新ソリューション出展へ…TECHNO-FRONTIER 2026",
+        "url": "https://response.jp/article/2026/07/14/414027.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "Siriより優秀だって!? ヘイ、トヨタでできる音声操作が超便利な件",
+        "url": "https://bestcarweb.jp/feature/column/1575043"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.14",
+        "title": "Why America Built Fewer EV Fast-Charging Stations In Q2",
+        "url": "https://insideevs.com/news/801501/us-public-ev-fast-charging-growth-q2/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "おかえり日産「プリメーラ」!! 約20年ぶり復活でも中身は中国生まれの大型EV「N7」だった",
+        "url": "https://bestcarweb.jp/feature/column/1570372"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.14",
+        "title": "ガソリン価格高騰で家計負担を8割が実感、次回電動車検討は6割に…KINTO調査",
+        "url": "https://response.jp/article/2026/07/14/414021.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "コンパクトSUVの王者争い！ ヴェゼルとカローラクロスの室内空間と荷室の広さを徹底比較!!",
+        "url": "https://bestcarweb.jp/feature/column/1573916"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.14",
+        "title": "サンシェードって意味あるの？ 気休め程度ってほんと？ 今年こそ遮光率の高いものを選ぶべし！",
+        "url": "https://bestcarweb.jp/news/entame/1573797"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29303670650",
-    "sha": "9d3ede2555c9d176cd46b273cc7aabd06aa7c2fc",
-    "completed_at": "2026-07-14T03:31:50.826Z",
+    "run_id": "29343640942",
+    "sha": "15e468643c9da49ade7fe0d96c2f40e56e032d4b",
+    "completed_at": "2026-07-14T15:05:08.295Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-07-14T03:30:38.468Z",
-    "finished_at": "2026-07-14T03:31:50.587Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-07-14T15:04:00.672Z",
+    "finished_at": "2026-07-14T15:05:08.025Z",
     "success": true,
     "error": ""
   }

@@ -74569,5 +74569,782 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-14T03:31:50.571Z"
+  },
+  "https://www.motor1.com/news/801508/lexus-ls-lineup/": {
+    "title_zh": "雷克萨斯 LS 拒绝消亡",
+    "summary_short": "雷克萨斯 LS 在美国已停售，但澳大利亚市场将推出 2027 款，取消 V6 涡轮增压版，仅保留混动版。",
+    "summary_long": "雷克萨斯 LS 在美国已停产，无法再订购。然而据 CarExpert 报道，澳大利亚市场将迎来 2027 款 LS，并非简单延续，而是有技术更新。2027 款取消了双涡轮增压 V6 的 LS 500 版本，仅保留搭载 3.5 升 V6 混动系统的 LS 500h。内饰方面没有大屏或新软件等重大变化，但新增了全景玻璃天窗，这是第五代 LS 长期被要求的配置。",
+    "highlights_zh": [
+      "美国已停售",
+      "取消 V6 双涡轮增压版",
+      "新增全景玻璃天窗"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3QRG/s1/lexus-ls-500-f-sport.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:04.661Z"
+  },
+  "https://www.motor1.com/news/801604/alfa-romeo-crossover-teaser/": {
+    "title_zh": "阿尔法·罗密欧预告新跨界车，仍不是 Stelvio",
+    "summary_short": "阿尔法·罗密欧预告一款基于 STLA Medium 平台的新 C-SUV，定位介于 Tonale 与下一代 Stelvio 之间，预计 2027 年上市。",
+    "summary_long": "阿尔法·罗密欧在意大利商业与制造部主办的全国汽车工业圆桌会议上发布了一款新车型的预告图。该车基于 Stellantis STLA Medium 平台，是一款 C-SUV，定位介于现有的 Tonale 和即将推出的第二代 Stelvio 之间，可能采用新名称。新车将提供多种动力总成，包括轻混、插混和纯电，但并非所有版本都会进入美国市场。设计由阿尔法·罗密欧位于都灵的设计中心负责，预告图显示其拥有溜背式尾部造型。",
+    "highlights_zh": [
+      "基于 STLA Medium 平台",
+      "定位在 Tonale 与下一代 Stelvio 之间",
+      "提供轻混、插混和纯电动力",
+      "预计 2027 年上市"
+    ],
+    "entities": [
+      "阿尔法·罗密欧 | Alfa Romeo",
+      "Stelvio",
+      "Tonale",
+      "STLA Medium 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzrje/s1/alfa-romeo-c-suv-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:04.738Z"
+  },
+  "https://www.thedrive.com/news/volkswagens-cost-cutting-crusade-could-doom-jetta-porsche-taycan-and-718": {
+    "title_zh": "大众成本削减计划或导致捷达、保时捷 Taycan 和 718 停产",
+    "summary_short": "大众集团为削减成本，可能砍掉旗下多款车型，包括保时捷 Taycan、718 及大众捷达等。",
+    "summary_long": "大众集团正推行一项激进的成本削减计划，可能导致旗下多个品牌的车型被淘汰。据德国《图片报》报道，涉及车型包括保时捷 Taycan、Cayenne Coupe 和 718 后继车型，大众 Jetta 和 Taos，以及奥迪 Q5 Sportback 和 Q6 E-Tron Sportback。此外，Rivian 的商用货车在第二季度销量超过 4000 辆，远超竞争对手。",
+    "highlights_zh": [
+      "大众集团多款车型面临停产风险",
+      "保时捷 Taycan、718 后继车型或被砍",
+      "大众 Jetta 和 Taos 可能被淘汰",
+      "Rivian 商用货车销量领先"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "保时捷 | Porsche",
+      "奥迪 | Audi",
+      "Rivian",
+      "捷达 | Jetta"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Original-17982-LIPMANJL14346.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/massive_FH_6_S03_EW_Italian_Exotics_Shop_01_16x9_WM_3121a23f36.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:08.473Z"
+  },
+  "https://insideevs.com/news/801593/horse-d20-methanol-ev-range-extender/": {
+    "title_zh": "新型甲醇增程器：更小、更高效，告别汽油",
+    "summary_short": "雷诺与吉利旗下 Horse Powertrain 推出 D20 甲醇增程器，采用轴向磁通电机，体积缩小 46%，效率达 96.4%。",
+    "summary_long": "Horse Powertrain 发布 D20 增程器，采用 2.0 升涡轮增压四缸发动机，专为燃烧 100% 甲醇设计，碳排放更低。其轴向磁通电机直接安装在曲轴上，输出功率达 105 kW，体积比传统径向磁通电机缩短 46%，单位体积功率提升 64%，电效率达 96.4%。发动机配备高能点火系统，支持超稀薄燃烧，可在 -31°F 低温下纯甲醇冷启动，符合欧 7 和国 6b 标准。",
+    "highlights_zh": [
+      "轴向磁通电机体积缩小 46%",
+      "电效率达 96.4%",
+      "支持-31°F 纯甲醇冷启动"
+    ],
+    "entities": [
+      "Horse Powertrain",
+      "D20",
+      "甲醇",
+      "轴向磁通电机",
+      "雷诺"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3XRW/s1/horse-powertrain-d20-methanol-range-extender.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:08.678Z"
+  },
+  "https://www.motor1.com/news/801505/more-lamborghini-sterrato-models-possible/": {
+    "title_zh": "兰博基尼暗示更多 Sterrato 车型",
+    "summary_short": "兰博基尼首席营销官透露，Sterrato 系列可能不会止步于 Huracán，未来或将推出更多车型。",
+    "summary_long": "兰博基尼首席营销官 Federico Foschini 在古德伍德速度节上表示，Sterrato 概念对品牌仍很重要。尽管 Huracán Sterrato 最初被视为一次性的尝试，但实际表现优异，成为品牌近年最成功的车型之一。Foschini 还提到，新款 Urus SE Performante 配备 Rally 模式，因为车主经常在非铺装路面使用。",
+    "highlights_zh": [
+      "Sterrato 概念对兰博基尼仍很重要",
+      "Huracán Sterrato 成为近年最佳车型之…",
+      "新款 Urus SE Performante 配备…",
+      "车主常在非铺装路面使用 Urus"
+    ],
+    "entities": [
+      "兰博基尼 | Lamborghini",
+      "Huracán Sterrato",
+      "Urus SE Performante",
+      "Federico Foschini"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WAYvj/s1/2024-lamborghini-huracan-sterrato-exterior-front-quarter-on-dirt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:11.577Z"
+  },
+  "https://response.jp/article/2026/07/14/414033.html": {
+    "title_zh": "日产全新 SUV“Tecton”印度首发，日本粉丝高呼“想要”",
+    "summary_short": "日产在印度发布全新 SUV Tecton，设计灵感源自 Patrol，引发日本粉丝热议，期待引入本土市场。",
+    "summary_long": "日产汽车于 7 月 9 日在印度全球首发全新 SUV“Tecton”。该车从大型 SUV“Patrol”汲取设计灵感，配备最新装备，不仅吸引印度消费者，也在日本粉丝中引发热议，社交媒体上出现“Tecton 来了！”“普通也不错啊”等评论。Tecton 是日产复兴计划“Re:Nissan”的成果之一，通过与雷诺集团合作在印度开发生产，并将出口至中东、非洲等 50 个市场。日产首席绩效官 Guillaume Cartier 表示，Tecton 体现了日产利用战略合作伙伴关系扩大销售市场、提升竞争力、丰富产品线的变革方向。",
+    "highlights_zh": [
+      "日产在印度全球首发全新 SUV Tecton",
+      "设计灵感源自大型 SUV Patrol",
+      "与雷诺合作开发",
+      "日本粉丝期待引入本土"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Tecton",
+      "Patrol",
+      "印度",
+      "雷诺"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227512.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227512.jpg",
+      "https://response.jp/imgs/fill2/2227514.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:13.401Z"
+  },
+  "https://response.jp/article/2026/07/14/414035.html": {
+    "title_zh": "保时捷 911 GT3 S/C 海外试驾：手动挡唯一选择！数字无法描述的赛道直系刺激",
+    "summary_short": "保时捷 911 GT3 S/C 海外试驾：手动挡唯一选择，赛道直系刺激与敞篷快感的完美融合。",
+    "summary_long": "保时捷 911 GT3 S/C 作为 GT3 系列首款自动开闭敞篷车型，并非简单地将 GT3 改为敞篷版，而是借鉴了 S/T 的轻量化组件，将车重控制在 1.5 吨以内。在德国蜿蜒道路上的试驾体验表明，手动挡版本提供了数字无法描述的纯粹驾驶乐趣，是赛道直系刺激与敞篷自由感的完美结合。",
+    "highlights_zh": [
+      "手动挡唯一选择",
+      "借鉴 S/T 轻量化组件",
+      "车重控制在 1.5 吨以内",
+      "赛道直系刺激与敞篷快感"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "911 GT3 S/C",
+      "S/T"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227516.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227515.jpg",
+      "https://response.jp/imgs/fill2/2227515.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:15.415Z"
+  },
+  "https://response.jp/article/2026/07/14/414028.html": {
+    "title_zh": "ABB 将在 TECHNO-FRONTIER 2026 展示最新电机与逆变器技术",
+    "summary_short": "ABB 将在东京 TECHNO-FRONTIER 2026 展示 IE5/IE6 高效电机及集成逆变器，助力节能与脱碳。",
+    "summary_long": "ABB 将于 7 月 15-17 日在东京 TECHNO-FRONTIER 2026 展出最新电机与逆变器技术。展位位于西 2 馆 2-W22。面对能源成本上升和脱碳需求，电机系统占工业用电约 60%，高效化刻不容缓。ABB 将展示无磁铁、无转子绕组的 IE5 级高效电机，并可通过 SynRM 技术实现 IE6 效率，同时推出集成电机与逆变器的简化平台，可降低能耗达 30%，提升安装与维护便利性。",
+    "highlights_zh": [
+      "展示 IE5/IE6 级高效电机",
+      "SynRM 技术实现 IE6 效率",
+      "集成电机与逆变器平台",
+      "简化安装与维护"
+    ],
+    "entities": [
+      "ABB",
+      "TECHNO-FRONTIER 2026",
+      "SynRM",
+      "IE5",
+      "IE6"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227382.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227382.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:17.222Z"
+  },
+  "https://www.motor1.com/news/801515/best-car-sound-system-settings/": {
+    "title_zh": "音频工程师教你调出最佳车载音响效果",
+    "summary_short": "音频工程师分享如何调整 EQ 设置，最大化原厂音响潜力，适用于任何音乐类型。",
+    "summary_long": "一位既是音频工程师又是汽车销售员的专家，通过视频演示如何调整车载音响的均衡器（EQ）设置，以最大化原厂扬声器的表现。他指出许多车主在设置音响时常犯的错误，并提供了适用于任何音乐类型的通用调音方法。该视频在 TikTok 上获得超过 70 万次观看，不少观众表示认同其建议。",
+    "highlights_zh": [
+      "音频工程师分享原厂音响调音技巧",
+      "调整 EQ 设置可最大化扬声器潜力",
+      "适用于任何音乐类型",
+      "纠正常见音响设置错误"
+    ],
+    "entities": [
+      "音频工程师",
+      "原厂音响",
+      "均衡器",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8NXV/s1/audio-engineer-reveals-how-to-adjust-your-settings.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:18.921Z"
+  },
+  "https://response.jp/article/2026/07/14/414022.html": {
+    "title_zh": "日置电机将在 TECHNO-FRONTIER 2026 展示 GaN/SiC 时代测量方案",
+    "summary_short": "日置电机将在 TECHNO-FRONTIER 2026 展示针对 GaN/SiC 器件的测量解决方案，涵盖低功率因数测量、电机潜在缺陷检测等。",
+    "summary_long": "日置电机（HIOKI）宣布将于 7 月 15 日至 17 日在东京 Big Sight 举办的 TECHNO-FRONTIER 2026 上，在第 5 届电力电子技术展中展示其测量解决方案。随着 GaN（氮化镓）和 SiC（碳化硅）器件的普及，传统测量方法难以应对的现场问题日益凸显。本次展示将围绕四个主题进行演示，包括低功率因数下的电力测量（如振铃功率和电抗器损耗测量），以及电机潜在缺陷检测（如双模式局部放电检查和电腐蚀应对）。",
+    "highlights_zh": [
+      "日置电机参展 TECHNO-FRONTIER 202…",
+      "展示 GaN/SiC 器件测量方案",
+      "聚焦低功率因数电力测量",
+      "电机潜在缺陷检测技术"
+    ],
+    "entities": [
+      "日置电机",
+      "GaN",
+      "SiC",
+      "TECHNO-FRONTIER 2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227324.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227324.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:21.047Z"
+  },
+  "https://press.piaggiogroup.com/en_EN/post/show/354591/gigi-saint-tropez-x-vespa.html": {
+    "title_zh": "Gigi Saint Tropez x Vespa",
+    "summary_short": "Vespa 与 Gigi 推出联名合作，融合意大利自由精神与现代优雅，灵感源自夏日与不羁天性。",
+    "summary_long": "Vespa 与时尚品牌 Gigi 宣布独家合作，灵感源自夏日与自由奔放的自然。该联名系列将 Vespa 的经典意式风格与 Gigi 的现代优雅相结合，打造出独特的时尚单品与生活方式产品。",
+    "highlights_zh": [
+      "Vespa 与 Gigi 联名合作",
+      "灵感源自夏日与自由",
+      "融合经典意式与现代优雅",
+      "推出时尚与生活方式单品"
+    ],
+    "entities": [
+      "Vespa",
+      "Gigi"
+    ],
+    "gallery_images": [
+      "https://media.lulop.com/media/getimage/l/354591/7/640,480"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:22.414Z"
+  },
+  "https://response.jp/article/2026/07/14/414032.html": {
+    "title_zh": "搭载 MotoGP 衍生小翼！Aprilia RSV4 Factory 限量 12 台发售",
+    "summary_short": "Aprilia RSV4 Factory 限量 12 台日本发售，搭载 MotoGP 技术小翼，220 马力 V4 引擎，售价 363 万日元。",
+    "summary_long": "Aprilia RSV4 Factory 在日本限量 12 台发售，起售价 363 万日元。新车采用源自 MotoGP 技术的集成式小翼，通过双层翼面设计增加下压力，提升弯道精度和高速稳定性。新整流罩使空气阻力系数降低 6%，抬头趋势减少 8%。动力方面，1099cc V4 发动机可输出 220 马力，符合 Euro 5+排放标准。电子系统搭载预测型控制算法，实时处理车速、倾角等参数，实现更平顺的干预。标配六轴惯性平台、线控油门、弯道 ABS 及 aPRC 系统，并包含赛道包、舒适包和赛车包等全部功能。",
+    "highlights_zh": [
+      "MotoGP 技术集成式小翼",
+      "220 马力 V4 发动机",
+      "预测型电子控制系统",
+      "日本限量 12 台"
+    ],
+    "entities": [
+      "アプリリア",
+      "RSV4 Factory",
+      "MotoGP",
+      "V 型 4 缸发动机",
+      "小翼"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227505.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227505.jpg",
+      "https://response.jp/imgs/fill2/2227367.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:25.060Z"
+  },
+  "https://bestcarweb.jp/news/1576063": {
+    "title_zh": "ND Roadster 专用防水地板垫发售",
+    "summary_short": "3D U ACE 推出 ND Roadster 专用立体防水地板垫，高贴合度与防水性能兼顾，保护车内清洁。",
+    "summary_long": "株式会社 Proto 作为日本正规销售代理商，推出“3D U ACE”品牌车种专用防水地板垫“KAGU”，专为马自达 ND Roadster 设计。该产品采用 3D 立体结构，通过测量、建模、模具加工和高温压制成型，完美贴合车辆地板形状，有效防止液体渗漏。日常使用或敞篷驾驶时，可阻挡沙尘和湿气，保持车内整洁。产品包括驾驶席和副驾驶席两片装，含税售价 21,890 日元，预计 2026 年 7 月中旬发售。",
+    "highlights_zh": [
+      "专为 ND Roadster 设计",
+      "3D 立体结构",
+      "两片装售价 21"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "NDロードスター",
+      "3D U ACE",
+      "KAGU",
+      "株式会社 Proto"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10161127/d6753dd932f2234a009baf448af7cb69.jpg?v=1783667489",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10161127/d6753dd932f2234a009baf448af7cb69-600x495.jpg?v=1783667489",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14233951/4f612e69d66b8b58c1ec58064df5b4ba-600x338.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:26.596Z"
+  },
+  "https://response.jp/article/2026/07/14/414027.html": {
+    "title_zh": "OKI 工程将参展 TECHNO-FRONTIER 2026，展示 EMC 与噪声对策最新解决方案",
+    "summary_short": "OKI 工程将在 TECHNO-FRONTIER 2026 上展示基于 EMC 领域经验的噪声对策解决方案，并提供免费技术咨询。",
+    "summary_long": "OKI 工程将于 7 月 15 日至 17 日参加在东京 Big Sight 举办的 TECHNO-FRONTIER 2026 展会。展位号为 3-C08（西 3 栋 4 楼）。公司将展示基于 EMC（电磁兼容性）领域知识与实际经验的噪声对策技术，并提供测试、评估、分析等最新技术信息，以及针对制造现场课题解决的各种服务。此外，还将介绍各类环境试验（如加温耐水自动循环试验、车载臭氧试验等）。展会期间，每天将举办免费展位内研讨会，由专职技术人员现场答疑。",
+    "highlights_zh": [
+      "OKI 工程参展 TECHNO-FRONTIER 2…",
+      "展示 EMC 与噪声对策解决方案",
+      "提供免费展位内技术研讨会",
+      "涵盖环境试验与车载测试服务"
+    ],
+    "entities": [
+      "OKI 工程",
+      "TECHNO-FRONTIER 2026",
+      "EMC",
+      "噪声对策",
+      "环境试验"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227378.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227378.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:28.883Z"
+  },
+  "https://bestcarweb.jp/feature/column/1575043": {
+    "title_zh": "比 Siri 更优秀？丰田语音助手“Hey TOYOTA”超便利",
+    "summary_short": "丰田语音助手“Hey TOYOTA”支持免提操作导航、空调、车窗等，还能自定义唤醒词，比 Siri 更实用。",
+    "summary_long": "丰田的语音助手“Hey TOYOTA”可通过语音指令实现导航、空调、车窗、音频等多项操作，无需触碰屏幕或方向盘，提升驾驶安全性。用户还能自定义唤醒词，并通过分步指令提高搜索精度。",
+    "highlights_zh": [
+      "免提语音控制导航、空调、车窗等",
+      "可自定义唤醒词",
+      "分步指令提升搜索精度"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Hey TOYOTA",
+      "语音助手",
+      "Siri"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13104529/1dcfc4fda4c0dd02009924447838a11f-1.jpg?v=1783907130",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13104529/1dcfc4fda4c0dd02009924447838a11f-1-600x363.jpg?v=1783907130",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09152016/SP01900226-600x400.jpg?v=1783578017"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:29.610Z"
+  },
+  "https://insideevs.com/news/801501/us-public-ev-fast-charging-growth-q2/": {
+    "title_zh": "美国 Q2 公共快充站建设放缓",
+    "summary_short": "美国第二季度新增公共快充站数量同比下降 10%，运营商转向盈利与可靠性优先。",
+    "summary_long": "美国公共快充站建设在第二季度放缓，充电网络运营商将重心转向盈利和提升可靠性。据 Paren 数据，Q2 新增 4382 个充电端口和 806 个站点，同比下降 10%，也远低于 Q4 创下的纪录。分析师指出，运营商优先考虑运营质量、客户体验和盈利能力，而非单纯扩张。新站点配备卫生间、咖啡厅、WiFi 等设施，部分网络如 Ionna 还提供空调休息室。",
+    "highlights_zh": [
+      "Q2 新增快充端口 4382 个",
+      "运营商转向盈利与体验优先",
+      "新站点配备卫生间、咖啡厅、WiFi",
+      "Ionna 等网络提供空调休息室"
+    ],
+    "entities": [
+      "Paren",
+      "Chargeonomics",
+      "Ionna"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WEzyK/s1/gm-evs-at-electrify-america-charging-station.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:32.306Z"
+  },
+  "https://bestcarweb.jp/feature/column/1570372": {
+    "title_zh": "日产 Primera 复活：中国产大型 EV N7 换标归来",
+    "summary_short": "日产经典运动轿车 Primera 时隔约 20 年复活，但实为中国研发的纯电动轿车 N7 换标，标志着日产“从中国出口”战略启动。",
+    "summary_long": "日产在 2026 年菲律宾国际车展上发布了全新纯电动轿车 Primera EV，这是该经典车系自 2008 年停产后时隔约 18 年首次复活。然而，新车并非传统意义上的换代，而是基于中国市场的日产 N7 换标而来。N7 是日产在中国研发的大型纯电动轿车，此次以 Primera 之名推向海外市场，标志着日产“From China”出口战略的正式启动。日产首席绩效官纪尧姆·卡地亚表示，此举是“从中国出口”战略的开端。",
+    "highlights_zh": [
+      "日产 Primera 时隔约 18 年复活",
+      "新车实为中国产纯电动轿车 N7 换标",
+      "标志日产“From China”出口战略启动",
+      "1990 年代经典运动轿车以电动形式回归"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "プリメーラ",
+      "N7"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06105519/4115a2e5525eaab05bd9f061c9b78f09-1.jpg?v=1783302920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06105519/4115a2e5525eaab05bd9f061c9b78f09-1-600x338.jpg?v=1783302920",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09152016/SP01900226-600x400.jpg?v=1783578017"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:34.328Z"
+  },
+  "https://response.jp/article/2026/07/14/414021.html": {
+    "title_zh": "KINTO 调查：8 成车主感受油价上涨负担，6 成考虑电动化",
+    "summary_short": "KINTO 调查显示，近 8 成车主感受到油价上涨带来的家庭负担，6 成受访者表示下次换车会考虑电动车型。",
+    "summary_long": "KINTO 针对 330 名汽油车用户进行的调查显示，77.8%的受访者感受到油价上涨带来的家庭负担，其中 34.5%认为负担很重。在节油措施中，40.6%的人选择生态驾驶，36.7%选择更便宜的加油站，31.2%减少用车频率。尽管油价上涨，56.7%的人仍无法减少日常购物用车，44.2%无法减少通勤用车。关于油价极限，24.8%的人认为每升 200 日元是上限，但 29.4%的人表示无论多贵都会继续开车。此外，60.9%的受访者表示下次换车会考虑电动车型，其中 65.1%的人因油价上涨而增强了电动化意愿。",
+    "highlights_zh": [
+      "77.8%车主感受油价负担",
+      "60.9%考虑电动车型",
+      "29.4%愿为用车承受高油价",
+      "节油首选生态驾驶"
+    ],
+    "entities": [
+      "KINTO"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227412.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227412.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:37.128Z"
+  },
+  "https://bestcarweb.jp/feature/column/1573916": {
+    "title_zh": "紧凑型 SUV 王者之争！本田 Vezel 与丰田 Corolla Cross 车内空间及行李厢彻底对比",
+    "summary_short": "本田 Vezel 与丰田 Corolla Cross 在紧凑型 SUV 市场激烈竞争，车内空间和行李厢各有优势。",
+    "summary_long": "本田 Vezel 与丰田 Corolla Cross 是紧凑型 SUV 市场的热门车型，均经过最新改良。Vezel 采用本田独有的中央油箱布局，后排腿部空间异常宽敞，乘坐舒适性突出。Corolla Cross 车身尺寸更大，行李厢容积达 487L，装载能力更强。两者在空间设计上各有侧重，消费者可根据需求选择。",
+    "highlights_zh": [
+      "Vezel 后排腿部空间同级领先",
+      "Corolla Cross 行李厢容积 487L",
+      "Vezel 采用中央油箱布局优化空间",
+      "Corolla Cross 车身尺寸更大"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "丰田 | Toyota",
+      "ヴェゼル",
+      "カローラクロス",
+      "紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09172736/vezel-karokuro.jpg?v=1783585658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09172736/vezel-karokuro-600x400.jpg?v=1783585658",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09152016/SP01900226-600x400.jpg?v=1783578017"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:37.935Z"
+  },
+  "https://bestcarweb.jp/news/entame/1573797": {
+    "title_zh": "遮阳板真的有用吗？今年要选遮光率高的！",
+    "summary_short": "遮阳板并非心理安慰，正确使用可大幅降低车内温度与紫外线伤害，今年应选高遮光率产品。",
+    "summary_long": "随着梅雨季结束，酷暑将至，汽车遮阳板再次成为关注焦点。许多人怀疑遮阳板只是心理安慰，但实际测试表明，高品质遮阳板能有效阻挡阳光直射，降低仪表盘和座椅表面温度，减少紫外线对内饰的损害。不过，遮阳板并不能像空调那样迅速降低整体车内温度，其核心作用是减缓热量积聚和保护内饰。选购时应优先考虑遮光率高的产品，并注意贴合度与安装便利性。",
+    "highlights_zh": [
+      "遮阳板能有效降低仪表盘温度",
+      "高遮光率产品效果更显著",
+      "主要作用是减缓热量积聚",
+      "正确使用可保护内饰"
+    ],
+    "entities": [
+      "遮阳板"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13135934/7a5643532d877ad800f166b158f6c342-1.jpg?v=1783918775",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13135934/7a5643532d877ad800f166b158f6c342-1-600x374.jpg?v=1783918775",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14233951/4f612e69d66b8b58c1ec58064df5b4ba-600x338.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:40.758Z"
+  },
+  "https://response.jp/article/2026/07/14/414029.html": {
+    "title_zh": "铃木召回 Spacia、Hustler 等 4 款车型共 50 万辆，存在熄火风险",
+    "summary_short": "铃木因发动机曲轴皮带轮螺栓缺陷召回约 50 万辆车，涉及 Spacia、Hustler 等 4 款车型，可能导致熄火。",
+    "summary_long": "铃木于 7 月 9 日向日本国土交通省提交召回申请，涉及 2019 年 1 月至 2025 年 7 月生产的 Spacia、Hustler、马自达 Flair Wagon 和 Flair Crossover 共 4 款车型，总计 500,459 辆。缺陷源于发动机曲轴皮带轮螺栓的紧固和强度设定不当，导致耐久性不足。螺栓可能断裂，造成曲轴相位检测盘松动或皮带轮偏移，使发动机无法正确控制，存在熄火风险。铃木将为所有车辆更换改良螺栓，若皮带轮等部件受损也将一并更换。",
+    "highlights_zh": [
+      "铃木召回 4 款车型共 50 万辆",
+      "曲轴皮带轮螺栓缺陷导致熄火",
+      "涉及 Spacia、Hustler 及马自达贴牌车",
+      "免费更换改良螺栓及受损部件"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "スペーシア",
+      "ハスラー",
+      "马自达 | Mazda",
+      "フレアワゴン"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227284.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227284.jpg",
+      "https://response.jp/imgs/fill2/2227286.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:42.187Z"
+  },
+  "https://response.jp/article/2026/07/14/414034.html": {
+    "title_zh": "住友橡胶在 TECHNO-FRONTIER 2026 展出 AI 设备故障诊断方案",
+    "summary_short": "住友橡胶旗下邓禄普首次参展 TECHNO-FRONTIER 2026，展示基于 AI 的制造设备故障原因分析及预测方案。",
+    "summary_long": "住友橡胶工业（邓禄普）将于 7 月 15 日至 17 日在东京 Big Sight 举办的 TECHNO-FRONTIER 2026 上首次设展。展位将介绍利用美国集团企业 Viadata 的 AI 技术开发的制造设备故障原因分析解决方案，以及面向运输设备制造商的故障预测方案。其中，“核心制造模式”整合企业内部开发、生产、销售、质量等数据，通过 AI 进行跨部门分析、相似案例提取和趋势把握，实现设备故障原因快速定位。“客户故障模式”则针对运输设备制造商，通过 AI 模型学习产品规格、传感器信息、维修记录及保修数据，提取故障模式并预测未来风险，辅助维护计划和质量改进决策。Viadata 总部位于美国硅谷，拥有高通用性 AI 技术，可分析车辆和工厂海量数据，实现异常早期发现、预测及原因定位。住友橡胶于 2025 年 8 月宣布收购该公司。",
+    "highlights_zh": [
+      "首次参展 TECHNO-FRONTIER 2026",
+      "展示 AI 设备故障原因分析方案",
+      "推出面向运输设备的故障预测方案",
+      "基于美国 Viadata 公司 AI 技术"
+    ],
+    "entities": [
+      "住友橡胶工业",
+      "邓禄普",
+      "Viadata",
+      "TECHNO-FRONTIER"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227375.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227375.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:45.577Z"
+  },
+  "https://response.jp/article/2026/07/14/414018.html": {
+    "title_zh": "丰田股价 5 日来首次反弹，滞后感引发买盘",
+    "summary_short": "丰田股价 5 日来首次反弹，受滞后感买盘推动，日经指数上涨，内需股支撑市场。",
+    "summary_long": "7 月 14 日，日经平均股价反弹，收于 67743.50 日元，上涨 500.77 日元。尽管受美股下跌影响，开盘时卖盘占优，但随后半导体相关股遭抛售，内需相关股支撑市场。丰田股价在连续下跌后出现反弹，因投资者认为其涨幅滞后而买入。",
+    "highlights_zh": [
+      "丰田股价 5 日来首次反弹",
+      "日经指数上涨 500 点",
+      "内需股支撑市场",
+      "滞后感引发买盘"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日经平均股价",
+      "内需股",
+      "半导体"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227359.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227359.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:45.802Z"
+  },
+  "https://bestcarweb.jp/news/1576073": {
+    "title_zh": "Triumph 2027 年款新色惊艳登场！全 8 色魅力解析",
+    "summary_short": "Triumph 2027 年款新增 8 种配色，覆盖 Speed 400 到 Rocket 3 等主流车型，设计感十足。",
+    "summary_long": "Triumph Motorcycles Japan 宣布 2027 年款将为 Modern Classic、Roadster、Adventure 及 Rocket 系列主要车型新增 8 种车身颜色。此次更新不仅是颜色增加，更通过整车设计与原厂配件的整体协调，凸显各车型个性。其中，400cc 级热门车型 Speed 400 新增“Racing Red / Pewter Grey”双色调，搭配 Phantom Black 条纹，融合英式经典与运动感，售价维持 75.2 万日元。",
+    "highlights_zh": [
+      "新增 8 种配色",
+      "Speed 400 新色 Racing Red /…",
+      "整体设计协调",
+      "售价不变"
+    ],
+    "entities": [
+      "トライアンフ",
+      "Speed 400",
+      "Rocket 3",
+      "Modern Classic",
+      "Roadster"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10183954/e2e1a8c897af2977382b4e279faa30b1.jpg?v=1783676395",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10183954/e2e1a8c897af2977382b4e279faa30b1-600x338.jpg?v=1783676395",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14233951/4f612e69d66b8b58c1ec58064df5b4ba-600x338.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:49.655Z"
+  },
+  "https://response.jp/article/2026/07/14/414031.html": {
+    "title_zh": "铃木全新 GSX-R1000R：为何不标配翼片？背后的哲学",
+    "summary_short": "铃木全新 GSX-R1000R 将翼片设为选装件，尊重用户偏好，体现独特设计哲学。",
+    "summary_long": "铃木全新 GSX-R1000R 的翼片（翼端板）并未作为标准配置，而是以纯正选装件形式提供（每侧 18.7 万日元）。首席工程师东乡隼也表示，翼片虽能提升赛道性能，但并非所有用户都喜欢其外观。铃木开发团队充分理解用户心理，让追求性能的用户可选装，而偏好简洁外观的用户则无需为此买单。这一做法体现了铃木对用户多样化需求的尊重。",
+    "highlights_zh": [
+      "翼片为选装件",
+      "每侧售价 18.7 万日元",
+      "尊重用户对翼片外观的偏好",
+      "兼顾赛道性能与日常审美"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "GSX-R1000R",
+      "翼片",
+      "选装件"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227413.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227413.jpg",
+      "https://response.jp/imgs/fill2/2227448.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:49.894Z"
+  },
+  "https://bestcarweb.jp/feature/column/1574928": {
+    "title_zh": "昭和与平成时代理所当然？如今可能引发争议的 6 条汽车广告语",
+    "summary_short": "回顾昭和与平成时代 6 条如今可能引发争议的汽车广告语，如丰田 Passo Sette 针对主妇的直白文案，反映时代变迁。",
+    "summary_long": "汽车广告中不乏经典广告语，但过去一些文案以现代眼光看可能引发争议。文章回顾了 6 条如今可能被视为“危险”的广告语，例如 2008 年丰田 Passo Sette 的广告语直接针对主妇群体，因过于直白的性别表达而备受质疑，最终车型也早早停产。这些案例反映了社会价值观的变迁。",
+    "highlights_zh": [
+      "丰田 Passo Sette 广告语因性别刻板印象引…",
+      "过去直白文案如今可能被视为“炎上”",
+      "社会价值观变迁影响广告表达"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Passo Sette"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09152016/SP01900226.jpg?v=1783578017",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09152016/SP01900226-600x400.jpg?v=1783578017",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09172736/vezel-karokuro-600x400.jpg?v=1783585658"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:53.338Z"
+  },
+  "https://bestcarweb.jp/feature/column/1565412": {
+    "title_zh": "大开口还是得利卡脸？Tanto FunCros vs Delica Mini 玩乐轻车谁更胜一筹",
+    "summary_short": "对比两款户外风格轻高顶车型：大发的 Tanto FunCros 与三菱 Delica Mini，从价格、油耗、空间和便利性分析选择关键。",
+    "summary_long": "大发 Tanto FunCros 和三菱 Delica Mini 是两款热门户外风格轻高顶车，均配备侧滑门，适合家庭和周末休闲。价格方面，Tanto FunCros 更便宜，NA 版差约 15.5 万日元，涡轮版差约 14 万日元。油耗也略优，Tanto FunCros WLTC 模式 21.9km/L，Delica Mini 为 21.0km/L。Tanto 的最大优势是“奇迹开门”，通过隐藏 B 柱实现超大开口，方便上下车和装载。Delica Mini 则内饰更宽敞，车长和车高略胜，提供更舒适的乘坐空间。选择取决于用户更看重便利开口还是 SUV 感与空间。",
+    "highlights_zh": [
+      "Tanto FunCros 价格更低",
+      "Tanto FunCros 油耗更优",
+      "Tanto 的“奇迹开门”提供超大开口",
+      "Delica Mini 室内长和高更大"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "三菱 | Mitsubishi",
+      "Tanto FunCros",
+      "Delica Mini",
+      "轻高顶车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09153944/8089e50294910c6cb163e5cb54ad137b-6.jpg?v=1783579185",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09153944/8089e50294910c6cb163e5cb54ad137b-6-600x400.jpg?v=1783579185",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09152016/SP01900226-600x400.jpg?v=1783578017"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:54.540Z"
+  },
+  "https://insideevs.com/news/801581/kia-pv5-lightcamp-camper-conversion/": {
+    "title_zh": "起亚 PV5 LightCamp：紧凑电动露营车竟能睡四人",
+    "summary_short": "起亚 PV5 电动厢式车经 Vantrack 改装，配备两张床和可拆卸厨房，在紧凑车身内实现四人睡眠空间。",
+    "summary_long": "荷兰露营车改装商 Vantrack 为起亚 PV5 电动厢式车推出 LightCamp 套件，在仅与丰田 RAV4 相当的车身内实现了四人睡眠能力。车内配备 51×75 英寸充气床垫，车顶帐篷提供 79×51 英寸床位，通过天窗进入。可滑动厨房包含电磁炉、水槽和 11 升水箱，床铺平台还可兼作行李架。Vantrack 认为 PV5 是大众 ID. Buzz 之外首个严肃的电动露营替代方案。",
+    "highlights_zh": [
+      "车内与车顶共四张床",
+      "可拆卸厨房含电磁炉与水槽",
+      "充气床垫节省空间",
+      "车身尺寸与 RAV4 相当"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5",
+      "Vantrack",
+      "LightCamp",
+      "丰田 RAV4 | Toyota RAV4"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OKxN/s1/vantrack-lightcamp.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:57.500Z"
+  },
+  "https://insideevs.com/news/801568/rivian-van-best-selling-q2-2026/": {
+    "title_zh": "Rivian 电动货车销量超对手总和 70%",
+    "summary_short": "Rivian 电动货车 Q2 销量 4003 辆，超对手总和 70%，成为品牌第二畅销车型。",
+    "summary_long": "根据 Cox Automotive 数据，Rivian Commercial Van（RCV）在第二季度售出 4003 辆，同比增长 48.2%，销量超过竞争对手总和 70%，仅次于 R1S 成为品牌第二畅销车型。竞争对手中，已停产的雪佛兰 BrightDrop 以 460 辆位列第二，但同比下滑 65.1%；奔驰 eSprinter 售出 315 辆，同比增长 270.6%；福特 E-Transit 和 Ram ProMaster EV 分别售出 293 辆和 110 辆。上半年累计销量中，Rivian EDV 以 7216 辆领先，雪佛兰 BrightDrop、奔驰 eSprinter、福特 E-Transit 和 Ram ProMaster EV 依次位列其后。",
+    "highlights_zh": [
+      "Rivian 电动货车 Q2 销量 4003 辆",
+      "同比增长 48.2%",
+      "雪佛兰 BrightDrop 销量 460 辆",
+      "奔驰 eSprinter 销量 315 辆"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian Commercial Van",
+      "雪佛兰",
+      "BrightDrop",
+      "奔驰 | Mercedes-Benz"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnGOqN/s1/rivian-electric-commercial-van-ecv.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:04:58.410Z"
+  },
+  "https://www.motor1.com/news/801514/take-5-cabin-air-filter-40-dollars/": {
+    "title_zh": "女子拒绝 40 美元空气滤芯，看到收据上的留言后惊呆了",
+    "summary_short": "一位车主拒绝在换油时更换 40 美元的空调滤芯，技师在收据上写下警告，网友支持她自行更换。",
+    "summary_long": "一位名叫 Kaylie Cheyenne 的得克萨斯州车主在 Take 5 进行常规保养（包括换油、更换放油螺塞垫片和机油滤芯）时，拒绝了技师推荐的 40 美元空调滤芯更换服务，表示会自己动手。技师在收据上写下“客户不想换空气滤芯，滤芯吸入情况很糟”。Cheyenne 随后购买了滤芯并自行安装，视频引发热议，网友普遍认为她的选择合理。",
+    "highlights_zh": [
+      "拒绝 40 美元滤芯更换",
+      "技师收据留言警告",
+      "车主自行购买安装",
+      "网友支持 DIY 选择"
+    ],
+    "entities": [
+      "Take 5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONmj4/s1/woman-refuses-40-air-filter-at-take-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:05:01.262Z"
+  },
+  "https://www.motor1.com/news/801558/audi-new-rs-model-never-offered-before/": {
+    "title_zh": "奥迪首款 RS Q5 谍照曝光：插混 V6 动力",
+    "summary_short": "奥迪正在开发首款 RS Q5，搭载来自 RS5 的插电混动 V6 系统，最大功率 630 马力。",
+    "summary_long": "奥迪正在为首款 RS Q5 进行最后测试，这款高性能 SUV 将首次获得 RS 徽章。谍照显示，测试车采用双椭圆形排气、加宽轮拱和高压贴纸，确认其为插电混动车型。动力系统预计来自 RS5 的插电混动 V6，综合输出 630 马力和 825 牛·米扭矩，配备 25.9 千瓦时电池组。由于 SUV 通常更重，RS Q5 的整备质量可能超过 RS5 Avant 的 2370 公斤。",
+    "highlights_zh": [
+      "首款 RS Q5 正在路试",
+      "搭载插混 V6",
+      "双椭圆排气和宽体轮拱",
+      "或比 RS5 Avant 更重"
+    ],
+    "entities": [
+      "奥迪",
+      "RS Q5",
+      "RS5",
+      "Q5",
+      "插电混动"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4wrg/s1/audi-rs-q5-screenshot-from-spy-video.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:05:01.929Z"
+  },
+  "https://www.motor1.com/news/801544/bmw-m3-electric-name-confirmed/": {
+    "title_zh": "电动宝马 M3 将与燃油版共享 M3 徽标",
+    "summary_short": "宝马 M CEO 确认电动 M3 将直接命名为 M3，而非 iM3，燃油版 M3 将于 2028 年推出，电动版先行。",
+    "summary_long": "宝马 M 部门 CEO Frank van Meel 在古德伍德速度节上确认，即将于 2027 年推出的电动 M3 将直接沿用 M3 名称，而非此前传闻的 iM3。他表示，M3 始终是 M3，无论动力形式如何变化。电动 M3 不会取代燃油版，搭载直列六缸发动机的新一代燃油 M3 预计 2028 年上市，因此电动版将成为约一年内唯一的 M3 车型。",
+    "highlights_zh": [
+      "电动 M3 直接命名 M3",
+      "燃油版 M3 将于 2028 年推出",
+      "电动版将先于燃油版上市约一年",
+      "M CEO 强调 M3 名称不因动力改变"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M3",
+      "Frank van Meel",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N41qn/s1/bmw-m-concept-neue-klasse-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:05:04.610Z"
+  },
+  "https://www.motor1.com/news/801539/vw-group-memo-100000-layoffs/": {
+    "title_zh": "大众集团内部备忘录要求裁员翻倍",
+    "summary_short": "大众集团内部备忘录显示，CEO Oliver Blume 警告可能再裁员 5 万人，使总裁员数达 10 万，以应对成本危机。",
+    "summary_long": "据路透社报道，大众集团内部备忘录中，CEO Oliver Blume 告诉员工要为“理论上的”额外 5 万人裁员做好准备。此前大众已宣布裁员 5 万、削减一半车型及 75%选装件，并将年产量减少 100 万辆。Blume 指出大众成本比同类车企高 20%，尽管他反对关闭工厂，但备忘录对埃姆登、汉诺威、茨维考和内卡苏尔姆四家德国工厂的前景表示悲观，称无法确认它们在 2030 年代后的竞争力。",
+    "highlights_zh": [
+      "大众集团可能再裁员 5 万人",
+      "CEO 称成本比竞争对手高 20%",
+      "四家德国工厂未来存疑",
+      "高尔夫生产将移至墨西哥"
+    ],
+    "entities": [
+      "大众集团 | Volkswagen Group",
+      "Oliver Blume",
+      "高尔夫",
+      "墨西哥",
+      "ID.4"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:05:05.502Z"
+  },
+  "https://insideevs.com/news/801543/2026-subaru-uncharted-70-mph-range-test/": {
+    "title_zh": "斯巴鲁最畅销电动车 Uncharted 70 英里高速续航实测",
+    "summary_short": "斯巴鲁 Uncharted 在 70 英里/小时高速续航测试中表现如何？这款最便宜、最小的电动车型成为品牌第二季度最畅销 EV。",
+    "summary_long": "斯巴鲁 Uncharted 是品牌最新、最便宜且最小的电动车型，第二季度以微弱优势超越 Solterra 和 Trailseeker 成为最畅销 EV。顶配 GT 版搭载双电机四驱，EPA 续航 273 英里，实测 70 英里/小时高速续航表现值得关注。",
+    "highlights_zh": [
+      "第二季度最畅销斯巴鲁 EV",
+      "顶配 GT 版 EPA 续航 273 英里",
+      "74.7kWh 电池",
+      "起售价 46"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "Uncharted",
+      "Solterra",
+      "Trailseeker"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZkrw/s1/subaru-uncharted-gt-70-mph-highway-range-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-14T15:05:08.006Z"
   }
 }
