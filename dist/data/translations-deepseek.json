@@ -76231,5 +76231,889 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-15T03:32:05.437Z"
+  },
+  "https://www.thedrive.com/news/cheap-dash-cams-deals-and-more-car-accessories-on-sale-right-now": {
+    "title_zh": "行车记录仪及汽车配件优惠推荐",
+    "summary_short": "亚马逊推出多款行车记录仪及汽车配件折扣，最高可享 40%优惠。",
+    "summary_long": "亚马逊目前提供多款行车记录仪及汽车配件折扣，包括 ROVE R2 行车记录仪（33%折扣，售价 80.39 美元）和 REDTIGER 4K 行车记录仪（27%折扣，售价 109.99 美元）。这些优惠适合想要升级车载设备或为爱车增添配件的消费者。",
+    "highlights_zh": [
+      "亚马逊行车记录仪最高 40%折扣",
+      "ROVE R2 行车记录仪 33%折扣",
+      "REDTIGER 4K 行车记录仪 27%折扣",
+      "适合低成本升级车载设备"
+    ],
+    "entities": [
+      "亚马逊",
+      "ROVE R2",
+      "REDTIGER 4K",
+      "行车记录仪",
+      "汽车配件"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Amazon-Dash-Cam-Deals-July-2026.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Rove-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:40.772Z"
+  },
+  "https://www.motor1.com/news/801639/dodge-charger-sixpack-pricing/": {
+    "title_zh": "道奇为 Charger Sixpack 提供高达 5500 美元优惠",
+    "summary_short": "道奇重启 Power Dollars 计划，购买 2026 款 Charger Sixpack 可享每马力 10 美元折扣，最高优惠 5500 美元。",
+    "summary_long": "道奇重启 Power Dollars 现金优惠计划，针对 2026 款 Charger Sixpack 车型提供每马力 10 美元的折扣。活动时间为 2026 年 7 月 9 日至 8 月 3 日。420 马力的 R/T 车型可优惠 4200 美元，起售价降至 47790 美元；550 马力的 Scat Pack 车型可优惠 5500 美元，起售价降至 51490 美元。该优惠适用于搭载六缸发动机的 Charger R/T、R/T Plus、Scat Pack 和 Scat Pack Plus 车型，但不包括电动 Charger Daytona。",
+    "highlights_zh": [
+      "每马力优惠 10 美元",
+      "R/T 车型优惠 4200 美元",
+      "Scat Pack 车型优惠 5500 美元",
+      "活动截止 8 月 3 日"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "Charger Sixpack",
+      "Power Dollars",
+      "Hurricane 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzMrR/s1/2026-dodge-charger-r-t.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:41.355Z"
+  },
+  "https://www.thedrive.com/news/volvo-reportedly-eyeing-wagon-comeback-right-after-killing-off-v60-tds": {
+    "title_zh": "沃尔沃或推电动旅行车重返美国市场",
+    "summary_short": "沃尔沃据报正考虑在美国推出电动旅行车，此前 V60 Cross Country 已于 4 月停产。",
+    "summary_long": "据 Automotive News 援引知情人士消息，沃尔沃正考虑在美国推出一款电动中型轿车和旅行车，预计 2028 年上市。这些车型已在欧洲市场开发中，只需完成美国认证即可销售。此前，沃尔沃在美国的最后一款旅行车 V60 Cross Country 已于 4 月停产。",
+    "highlights_zh": [
+      "沃尔沃考虑在美国推出电动旅行车",
+      "新车预计 2028 年上市",
+      "V60 Cross Country 已于 4 月停产"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "V60 Cross Country"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/265666_1_5.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/police-tahoe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:44.532Z"
+  },
+  "https://www.motor1.com/news/801502/alpine-ev-sports-car-not-cancelled/": {
+    "title_zh": "Alpine 坚称不会取消电动跑车",
+    "summary_short": "Alpine CEO 表示下一代 A110 电动跑车按计划推进，并准备在必要时加入燃油引擎作为备选方案。",
+    "summary_long": "法国跑车制造商 Alpine 确认下一代 A110 将于明年推出，采用双后置电机驱动。尽管市场对电动车态度转冷，CEO Phillippe Krief 表示 Alpine 不像保时捷那样面临挑战，因为品牌通过 A290 和 A390 扩大了客户群。新平台 APP 可支持燃油引擎，但 Krief 认为无需走这条路，并计划在 2026 年第四季度根据市场反馈决定是否推出燃油版。",
+    "highlights_zh": [
+      "下一代 Alpine A110 将于明年推出",
+      "采用双后置电机",
+      "APP 平台可兼容燃油引擎作为备选",
+      "CEO 对电动跑车前景充满信心"
+    ],
+    "entities": [
+      "Alpine",
+      "Alpine A110",
+      "APP",
+      "电动跑车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZENWW/s1/alpine-a110-ev-prototype-goodwood.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:45.020Z"
+  },
+  "https://www.motor1.com/news/801649/hennessey-bespoke-division-interview-exclusive/": {
+    "title_zh": "Hennessey 新定制部门 Maverick：任何改装皆有可能",
+    "summary_short": "Hennessey 推出全新定制部门 Maverick，可对 Venom F5 进行全车重塑，首款作品 F5-M 已发布。",
+    "summary_long": "Hennessey 在古德伍德速度节上展示了其新定制部门 Maverick 的首个完整项目——Venom F5-M。该部门类似于劳斯莱斯 Bespoke 或法拉利 Special Projects，可为客户提供深度定制服务，甚至包括全车重塑。F5-M 搭载 6 速手动变速箱，输出 2031 马力，限量 12 台，售价 265 万美元。",
+    "highlights_zh": [
+      "Maverick 是 Hennessey 新成立的定…",
+      "F5-M 搭载 6 速手动变速箱",
+      "限量 12 台",
+      "可对整车进行重新设计"
+    ],
+    "entities": [
+      "Hennessey",
+      "Venom F5-M",
+      "Maverick",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJY36/s1/hennessey-venom-f5-revolution-lf.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:48.240Z"
+  },
+  "https://www.thedrive.com/news/gmc-is-making-a-new-yellow-hummer-ev-to-honor-the-old-h2": {
+    "title_zh": "GMC 推出黄色 Hummer EV 致敬经典 H2",
+    "summary_short": "GMC 推出限量版 Hummer EV Icon 25，采用经典黄色涂装，致敬 2002 年 H2 车型，提供皮卡和 SUV 两种车身形式。",
+    "summary_long": "为纪念初代 H2 诞生 25 周年，GMC 推出 Hummer EV Icon 25 特别版，采用与 2002 年 H2 相同的黄色涂装，搭配黑色车顶和底部，形成高对比双色外观。内饰为 Jet Black 黑色主题，仅仪表盘徽章等细节使用黄色点缀。该车提供 3X 三电机（1160 马力）和 2X 双电机（635 马力）两种动力，配备 Extreme Off-Road Package。限量生产，每车带有序列号铭牌。",
+    "highlights_zh": [
+      "致敬 2002 年 H2 经典黄色涂装",
+      "限量生产",
+      "提供皮卡和 SUV 两种车型",
+      "三电机版 1160 马力"
+    ],
+    "entities": [
+      "GMC",
+      "Hummer EV",
+      "H2"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Hummer.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/022.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/033.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:49.523Z"
+  },
+  "https://insideevs.com/news/801721/volkswagen-id-cross-cheapest-ev-suv/": {
+    "title_zh": "大众最便宜电动 SUV ID. Cross 续航 265 英里",
+    "summary_short": "大众推出最便宜电动 SUV ID. Cross，续航最高 265 英里，支持 V2L 功能，起售价低于 ID. Polo。",
+    "summary_long": "大众汽车在欧洲推出全新 ID. Cross，这是品牌最便宜的电动跨界车。ID. Cross 可视为 ID. Polo 的跨界版本，底盘略高，提供三种电机和两种电池选择。入门版搭载 37kWh LFP 电池和 114 马力电机，WLTP 续航 196 英里；高配版采用 52kWh NMC 电池，续航达 265 英里，支持最高 105kW 快充。车辆还具备 V2L 外放电功能和后备箱下方大储物空间。",
+    "highlights_zh": [
+      "起售价为大众最便宜电动 SUV",
+      "WLTP 最高续航 265 英里（427 公里）",
+      "支持 V2L 外放电功能",
+      "提供 37kWh 和 52kWh 两种电池"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID. Cross",
+      "ID. Polo",
+      "WLTP"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egy6j/s1/volkswagen-id.-cross-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:53.207Z"
+  },
+  "https://insideevs.com/news/801724/tesla-model-3-lpf-degradation/": {
+    "title_zh": "LFP 电池在特斯拉 Model 3 衰减对比中胜出",
+    "summary_short": "行驶 6.2 万英里后，CATL 供应的 LFP 电池平均保留 93.3%容量，优于其他镍基电池。",
+    "summary_long": "瑞典 Carla 分析比较了四种特斯拉 Model 3 电池包在行驶超 10 万公里（约 6.2 万英里）后的容量保持率。CATL 供应的磷酸铁锂（LFP）电池表现最佳，平均保留 93.3%原始容量，该电池用于中国制造的后驱版 Model 3，初始容量约 60.5 千瓦时。LFP 电池能量密度较低，但成本更低、热稳定性更好，能承受频繁快充并保持更长寿命。其他三种镍基电池中，LG Energy Solution 圆柱电池（上海产长续航/性能版）保留 91.5%，松下电池（早期加州产长续航/性能版 77.8 千瓦时包）保留 89.8%，松下标准续航版 52.4 千瓦时包保留 88.2%。",
+    "highlights_zh": [
+      "CATL LFP 电池保留 93.3%容量",
+      "LG 电池保留 91.5%",
+      "松下电池保留 89.8%和 88.2%",
+      "LFP 更便宜、热稳定性更好"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3",
+      "CATL",
+      "LFP 电池",
+      "电池衰减 | battery degradation"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40KAOZ/s1/tesla-model-3-long-range.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:53.233Z"
+  },
+  "https://response.jp/article/2026/07/15/414089.html": {
+    "title_zh": "RoboCup 2026 仁川大会：人形机器人与物理 AI 改变竞技格局",
+    "summary_short": "RoboCup 2026 在韩国仁川举行，商用高性能人形机器人的出现正改变比赛面貌，推动机器人技术集成发展。",
+    "summary_long": "RoboCup 2026 世界大会于 2026 年 7 月 2 日至 6 日在韩国仁川举行，来自约 40 个国家的 3000 人参与。作为日本发源的全球最大机器人 AI 竞赛之一，RoboCup 以“2050 年人形机器人足球队战胜人类世界杯冠军”为目标。商用高性能人形机器人的出现正显著改变比赛格局，推动步行、图像识别、多机协作等技术的集成。本文由长期参与运营的アールティ中川友纪子带来现场报告。",
+    "highlights_zh": [
+      "RoboCup 2026 在韩国仁川举办",
+      "商用高性能人形机器人改变比赛",
+      "目标：2050 年机器人战胜人类冠军",
+      "集成步行、识别、协作等多技术"
+    ],
+    "entities": [
+      "RoboCup",
+      "アールティ",
+      "中川友纪子",
+      "仁川"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227818.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227792.jpg",
+      "https://response.jp/imgs/zoom1/2227819.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:57.952Z"
+  },
+  "https://bestcarweb.jp/news/motorsport/1579315": {
+    "title_zh": "斯巴鲁工程师竟来参观三菱 Lancer？宿敌联手打造日本最强战车",
+    "summary_short": "斯巴鲁工程师曾主动要求参观三菱 Lancer Evolution？这对宿敌在 Super Taikyu 赛场上的竞争与协作，揭示了真正强大车型的进化之道。",
+    "summary_long": "赛车手中谷明彦回顾了三菱 Lancer Evolution 与斯巴鲁 Impreza WRX 在 Super Taikyu 系列赛中的经典对决。他强调，真正强大的车型并非仅凭单圈速度，而是能够持续进化的车型。1998 年 Lancer Evolution V 正式参赛，此前三菱 GTO 虽战力强劲，但因大排量带来的重量劣势难以击败 GT-R，促使三菱转向更轻量化的平台。",
+    "highlights_zh": [
+      "真正强的车不是单圈快",
+      "三菱 Lancer Evolution 与斯巴鲁 I…",
+      "1998 年 Lancer Evolution V…"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "斯巴鲁 | Subaru",
+      "ランサーエボリューション",
+      "インプレッサWRX",
+      "Super Taikyu"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14130228/782f4ff2867430aea71e3f746fadfb9a.jpg?v=1784001749",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14130228/782f4ff2867430aea71e3f746fadfb9a-600x400.jpg?v=1784001749",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14103258/IMG_9304_1-600x400.jpg?v=1783992780"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:02:58.744Z"
+  },
+  "https://response.jp/article/2026/07/15/414086.html": {
+    "title_zh": "《头文字 D》AE86 漫画风钥匙链登场",
+    "summary_short": "《头文字 D》推出漫画风格 AE86 金属钥匙链，细节还原藤原豆腐店字样，附赠漫画场景板。",
+    "summary_long": "《头文字 D》主题周边再添新成员，一款以漫画风格再现丰田 AE86（俗称“八六”）的金属钥匙链在亚马逊开启预订。该钥匙链采用特殊涂装，突出漫画的动感与质感，车身侧面印有“藤原豆腐店（自家用）”字样，并附带作品 Logo 板及漫画场景板，让粉丝在掌间感受作品世界。",
+    "highlights_zh": [
+      "漫画风格金属钥匙链",
+      "还原藤原豆腐店字样",
+      "附赠漫画场景板",
+      "特殊涂装突出动感"
+    ],
+    "entities": [
+      "头文字 D",
+      "丰田 | Toyota",
+      "AE86"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227761.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227748.jpg",
+      "https://response.jp/imgs/zoom1/2227762.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:03.027Z"
+  },
+  "https://response.jp/article/2026/07/15/414085.html": {
+    "title_zh": "奥迪 Q3 Sportback 新款试驾",
+    "summary_short": "奥迪 Q3 Sportback 虽为 A 级车，但 ICE 动力表现干脆利落，无框格栅设计彰显新风格。",
+    "summary_long": "新款奥迪 Q3 Sportback 在欧州被归类为 A 级车，但其内燃机动力表现毫不含糊，驾驶感受干脆利落。外观上，奥迪标志性的单框格栅在新车上取消了边框，但依然保持醒目的大尺寸设计，体现了品牌对前脸造型的执着。",
+    "highlights_zh": [
+      "欧州 A 级车定位",
+      "ICE 动力干脆利落",
+      "无框格栅设计",
+      "奥迪品牌新风格"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q3 Sportback",
+      "单框格栅",
+      "内燃机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227716.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227716.jpg",
+      "https://response.jp/imgs/fill2/2227710.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:03.148Z"
+  },
+  "https://www.thedrive.com/car-reviews/2027-ferrari-849-testarossa-spider-review": {
+    "title_zh": "2027 款法拉利 849 Testarossa Spider 首试：1000 马力敞篷更带感",
+    "summary_short": "法拉利 849 Testarossa Spider 敞篷版比硬顶版更酷，1000 马力混合动力 V8 带来极致驾驶体验。",
+    "summary_long": "尽管对法拉利 849 Testarossa 的外观和目标客户群存在争议，但敞篷 Spider 版无疑比硬顶 Coupe 版更酷。搭载 4.0 升双涡轮增压混合动力 V8 发动机，最大功率 1036 马力，配合三电机四驱系统，性能强悍。实车外观比照片更具视觉冲击力，前脸方正、侧面楔形、尾部凶悍。",
+    "highlights_zh": [
+      "1036 马力混合动力 V8",
+      "敞篷版比硬顶版更酷",
+      "实车外观比照片更具冲击力",
+      "三电机四驱系统"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Testarossa Spider",
+      "SF90"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2027-ferrari-849-testarossa-spider-jerry-perez-12.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2027-ferrari-849-testarossa-spider-jerry-perez-7.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2027-ferrari-849-testarossa-spider-jerry-perez-17.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:07.547Z"
+  },
+  "https://bestcarweb.jp/news/1565819": {
+    "title_zh": "200 万日元级也不贵？Spacia Gear 标准配置令人信服",
+    "summary_short": "铃木 Spacia Gear 虽售价近 200 万日元，但标配双侧电滑门、电子手刹、防水座椅等，物有所值。",
+    "summary_long": "铃木 Spacia Gear 作为轻型车售价接近 200 万日元，看似昂贵，但标准配置极为丰富。全系标配双侧电动滑门、电子手刹及自动驻车、全速域自适应巡航、车道保持辅助和彩色抬头显示器。此外，座椅和门板采用防水面料，行李厢地板防污，适合户外活动。车辆尺寸紧凑但内部高度达 1415mm，空间宽敞。",
+    "highlights_zh": [
+      "标配双侧电动滑门",
+      "电子手刹+自动驻车",
+      "全速域 ACC+车道保持",
+      "防水座椅与防污行李厢"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Spacia Gear",
+      "轻型车",
+      "户外装备"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09134925/7R1_5180_1.jpg?v=1783572566",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09134925/7R1_5180_1-600x400.jpg?v=1783572566",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10172533/95098328925f25593dc1ade9dd203dd7-600x338.jpg?v=1783671934"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:07.651Z"
+  },
+  "https://insideevs.com/news/801646/trump-rollbacks-end-energy-programs/": {
+    "title_zh": "特朗普撤销清洁能源政策致美国损失超 11.1 万个就业岗位",
+    "summary_short": "特朗普撤销拜登时期清洁能源激励政策，导致 223 个项目取消，投资损失 829 亿美元，超 11.1 万个岗位流失。",
+    "summary_long": "特朗普政府逆转拜登时期的联邦清洁能源激励政策，导致美国企业取消或暂停 223 个清洁能源项目，总投资损失达 829 亿美元。根据蓝绿联盟报告，由此造成 111,765 个就业岗位流失。该非营利组织指出，这些数字清晰展示了本届政府和国会政策带来的巨大投资与就业损失。特朗普长期以来反对太阳能、风能等替代能源，其签署的《一项大而美的法案》还取消了购买新/二手电动汽车的联邦税收抵免。",
+    "highlights_zh": [
+      "223 个清洁能源项目被取消",
+      "投资损失 829 亿美元",
+      "超 11.1 万个岗位流失",
+      "特朗普法案取消 EV 税收抵免"
+    ],
+    "entities": [
+      "特朗普 | Trump",
+      "拜登",
+      "蓝绿联盟",
+      "清洁能源",
+      "电动汽车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3r7v/s1/gm-evs-at-ionna-rechargery.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:11.403Z"
+  },
+  "https://response.jp/article/2026/07/15/414075.html": {
+    "title_zh": "EV Lab 项目迎来首个地方政府：三重县松阪市参与 EV 碳信用化",
+    "summary_short": "三重县松阪市成为首个参与“EV Lab”项目的地方政府，该项目由 Bywill 与三井住友海上保险合作，将 EV 减排效果转化为 J-credit。",
+    "summary_long": "由 Bywill 与三井住友海上火灾保险共同推进的“EV Lab”项目，旨在将电动汽车（EV）的脱碳效果转化为 J-credit（日本政府认证的碳信用）。三重县松阪市作为首个地方政府加入该项目。通过将 EV 引入带来的温室气体减排效果可视化并认证为 J-credit，实现环境价值创造与经济循环。J-credit 制度允许企业间交易信用额度，用于达成减排目标。",
+    "highlights_zh": [
+      "松阪市成为首个参与 EV Lab 的地方政府",
+      "项目由 Bywill 与三井住友海上保险共同推进",
+      "将 EV 减排效果转化为 J-credit 碳信用",
+      "J-credit 可交易"
+    ],
+    "entities": [
+      "EV Lab",
+      "J-クレジット",
+      "三重县松阪市",
+      "バイウィル",
+      "三井住友海上火灾保险"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227637.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227637.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:12.319Z"
+  },
+  "https://response.jp/article/2026/07/15/414082.html": {
+    "title_zh": "HERE WeGo 与 Cariqa 合作，实现 EV 充电搜索到支付一体化",
+    "summary_short": "HERE 与 Cariqa 合作，在 HERE WeGo 应用中集成充电搜索与支付功能，欧洲用户可无缝完成充电交易。",
+    "summary_long": "HERE Technologies 与 Cariqa 达成合作，将 Cariqa 的电动汽车充电直接支付基础设施接入 HERE 的免费导航应用 HERE WeGo。在欧洲初期部署中，用户可通过 HERE WeGo 搜索兼容充电点，查看合作充电点运营商的费率，并跳转至 Cariqa 网页应用完成充电支付。",
+    "highlights_zh": [
+      "HERE WeGo 集成 Cariqa 支付",
+      "搜索充电点并查看费率",
+      "跳转网页应用完成支付",
+      "欧洲率先部署"
+    ],
+    "entities": [
+      "HERE Technologies",
+      "Cariqa",
+      "HERE WeGo",
+      "电动汽车充电"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227739.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227739.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:15.043Z"
+  },
+  "https://www.motor1.com/news/801715/costco-auto-program-ford-mustang-gt/": {
+    "title_zh": "男子想买福特 Mustang，去 Costco 只为问：能用 Costco 卡付吗？",
+    "summary_short": "Costco 卖福特 Mustang GT，标价 53633 美元，无议价购车方式引发热议。",
+    "summary_long": "一位汽车内容创作者在 Costco 仓库发现一辆全新福特 Mustang GT 陈列在平板电视和烤鸡旁边，标价 53633 美元，暗示可以像买纸巾一样直接购买。Costco 的汽车购买计划已存在数十年，允许会员以无议价方式购车。该视频获得超过 3.09 万次观看，评论区有人惊讶 Costco 卖车，也有人对此早已熟知。",
+    "highlights_zh": [
+      "Costco 仓库内陈列福特 Mustang GT",
+      "标价 53",
+      "视频引发 3.09 万次观看热议",
+      "Costco 汽车计划已运行数十年"
+    ],
+    "entities": [
+      "Costco",
+      "福特 | Ford",
+      "Mustang GT",
+      "无议价购车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Qe7J91/s1/man-wants-to-buy-a-mustang.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:16.771Z"
+  },
+  "https://bestcarweb.jp/feature/column/1570453": {
+    "title_zh": "丰田 Aqua 的“平滑停止”是什么？不止油耗，检查停车质感",
+    "summary_short": "丰田 Aqua 通过“平滑停止”功能抑制停车后摇晃，提升日常驾驶的停车质感，兼顾油耗与舒适性。",
+    "summary_long": "丰田 Aqua 以紧凑型混合动力车的高燃油效率著称，但 2025 年 9 月改款后，除了锤头式前脸设计，还引入了“平滑停止”功能。该功能在车辆完全停止后抑制车身晃动，减少乘客头部摆动，提升停车时的舒适性。尤其适合城市通勤，在信号灯和临时停车多的路况下，显著改善乘坐体验。最新 Aqua 价格从 249.7 万日元起，WLTC 油耗最低 34.3km/L，保持 5 号车尺寸的便利性。",
+    "highlights_zh": [
+      "平滑停止抑制停车后摇晃",
+      "提升城市通勤的停车质感",
+      "改款后锤头式前脸设计",
+      "WLTC 油耗最低 34.3km/L"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Aqua",
+      "平滑停止",
+      "混合动力",
+      "WLTC 油耗"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09163310/20250901_02_02.jpg?v=1783582391",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09163310/20250901_02_02-600x400.jpg?v=1783582391",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13180037/HONDA-FREED_019_1-600x400.jpg?v=1783933238"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:19.773Z"
+  },
+  "https://response.jp/article/2026/07/15/414064.html": {
+    "title_zh": "阿尔法·罗密欧预告全新 C 级 SUV，2027 年亮相",
+    "summary_short": "阿尔法·罗密欧发布全新 C 级 SUV 预告图，基于 STLA 中型平台，2027 年上市。",
+    "summary_long": "阿尔法·罗密欧首次公开了全新 C 级 SUV 的尾部预告图。该车基于 STLA Medium 平台，将提供多种动力总成，由都灵设计中心操刀，在意大利梅尔菲工厂生产。新车是 Stellantis“Fastlane 2030”计划的一部分，旨在提升主流细分市场竞争力，预计 2027 年正式亮相。",
+    "highlights_zh": [
+      "首张尾部预告图发布",
+      "基于 STLA Medium 平台",
+      "多能源动力总成",
+      "2027 年正式亮相"
+    ],
+    "entities": [
+      "阿尔法·罗密欧",
+      "STLA Medium",
+      "Stellantis",
+      "C 级 SUV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227620.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227620.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:20.579Z"
+  },
+  "https://bestcarweb.jp/news/1576075": {
+    "title_zh": "买车现金还是贷款？维护费调查揭示意外事实",
+    "summary_short": "调查显示，现金购车者常因维护费困扰，实际持有期长于理想，对“第三选项”兴趣上升。",
+    "summary_long": "许多人认为现金一次性购车最划算，但 Joycal Japan 最新调查显示，现金购车者中多数因维护费而困扰，实际持有车辆时间比理想更长。同时，对既非购买也非贷款的“第三选项”关注度上升，为未来汽车持有方式提供了重要参考。调查发现，选择现金购车的主要原因是“不想支付利息和手续费”（42.4%），其次是“有足够资金”（40.7%）和“对贷款有抵触”（29.1%），而“想拥有车辆”仅占 13.3%，表明现金派更注重避免额外成本而非所有权。",
+    "highlights_zh": [
+      "现金购车者常因维护费困扰",
+      "实际持有期长于理想",
+      "“第三选项”关注度上升",
+      "现金派更注重避免额外成本"
+    ],
+    "entities": [
+      "Joycal Japan"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10224843/fabf4139a4486a45c18d0aa8e205969e.jpg?v=1783691325",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10224843/fabf4139a4486a45c18d0aa8e205969e-600x450.jpg?v=1783691325",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10172533/95098328925f25593dc1ade9dd203dd7-600x338.jpg?v=1783671934"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:24.649Z"
+  },
+  "https://response.jp/article/2026/07/15/414077.html": {
+    "title_zh": "超级方程式第 3 届技术会议：SDV 主题吸引 13 家企业齐聚富士赛道",
+    "summary_short": "超级方程式第 3 届技术会议将于 7 月 17 日在富士赛道举行，主题为 SDV，13 家企业参展创历史新高。",
+    "summary_long": "超级方程式运营方日本赛事推广公司（JRP）宣布，第 3 届技术会议将于 7 月 17 日在富士赛道举行，主题为软件定义汽车（SDV）。本届会议参展企业及团体达 13 家，为历史最多。本田将就二轮车与互联技术发表演讲，GAZOO Racing 则介绍以赛车运动为起点的 GR 软件开发。日本汽车赛事工业协会（JMIA）将展示国产下一代方程式原型车 JNFP-1，并举办相关演讲。技术展示区涵盖精密加工、云服务、能源、轮胎及 IT 系统等领域，旨在促进跨行业共创与商业对接。",
+    "highlights_zh": [
+      "主题为 SDV",
+      "本田与 GAZOO Racing 工程师发表演讲",
+      "展示日本下一代方程式原型车 JNFP-1",
+      "技术展示涵盖精密加工、云、能源等领域"
+    ],
+    "entities": [
+      "超级方程式",
+      "日本赛事推广公司",
+      "本田 | Honda",
+      "GAZOO Racing",
+      "JNFP-1"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227649.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227649.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:24.800Z"
+  },
+  "https://bestcarweb.jp/news/1576081": {
+    "title_zh": "斯巴鲁 Spacia 专用 LED 控制台箱：放置即增收纳空间",
+    "summary_short": "斯巴鲁 Spacia 专用 LED 控制台箱，集收纳、无线充电、LED 照明于一体，约 20 秒完成安装，提升驾驶便利性。",
+    "summary_long": "CRAFTWORKS 推出斯巴鲁 Spacia（MK54S/MK94S）专用 LED 控制台箱，专为解决轻自动车收纳空间不足而设计。该产品集成了收纳盒、LED 照明、无线充电和 USB 电源，采用专车定制尺寸，安装仅需约 20 秒，提供原厂般的贴合感。",
+    "highlights_zh": [
+      "专为斯巴鲁 Spacia 设计",
+      "集成收纳、无线充电、LED 照明和 USB 电源",
+      "约 20 秒快速安装"
+    ],
+    "entities": [
+      "斯巴鲁 | Suzuki",
+      "Spacia",
+      "CRAFTWORKS",
+      "LED 控制台箱"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10141027/fd1a871a7bbbdd7d80ae546f63a892e9.jpg?v=1783660229",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10141027/fd1a871a7bbbdd7d80ae546f63a892e9-600x400.jpg?v=1783660229",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10172533/95098328925f25593dc1ade9dd203dd7-600x338.jpg?v=1783671934"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:29.249Z"
+  },
+  "https://response.jp/article/2026/07/15/414059.html": {
+    "title_zh": "大发 Taft 部分改良，新增两款特别版车型",
+    "summary_short": "大发 Taft 进行部分改良，新增预防安全功能，并推出两款特别版车型，起售价 143.55 万日元。",
+    "summary_long": "大发工业于 7 月 15 日对轻型乘用车 Taft 进行了部分改良并上市，起售价 143.55 万日元。主要改进包括：预防安全系统“Smart Assist”新增对横穿自行车及左右转弯时的检测功能；新增车身色“Spark Orange”；采用 7 英寸 TFT 主动式多功能信息显示屏。同时推出两款特别版车型：“Rugged Venture”采用专属发动机盖饰条、后备厢门饰条及枪金属色内饰，强调粗犷实用风格；“Active Mode”配备铝合金轮毂和黑色基调内饰，并提供基于该车型的“Active Mode Style”选装方案，加入橙色侧贴纸等专属装饰。",
+    "highlights_zh": [
+      "预防安全系统新增横穿自行车检测",
+      "新增 Spark Orange 车身色",
+      "7 英寸 TFT 数字仪表提升可视性",
+      "两款特别版：Rugged Venture 与 Act…"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "タフト",
+      "Smart Assist",
+      "Rugged Venture",
+      "Active Mode"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227591.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227591.jpg",
+      "https://response.jp/imgs/fill2/2227593.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:29.921Z"
+  },
+  "https://bestcarweb.jp/newcar/1580673": {
+    "title_zh": "2026 年 9 月中期改款丰田皇冠跨界版设计提前曝光",
+    "summary_short": "丰田提前公开 2026 年 9 月中期改款皇冠跨界版设计，前脸与尾部调整，强调宽稳姿态。",
+    "summary_long": "丰田提前公开了计划于 2026 年 9 月中旬进行中期改款的皇冠跨界版设计。新车前脸和尾部造型有所调整，官方称尾部设计变更实现了更稳定的宽幅姿态。皇冠跨界版作为第 16 代皇冠系列成员，于 2022 年 7 月首次亮相，此次是继 2024 年和 2025 年特别版之后的又一次重要更新。",
+    "highlights_zh": [
+      "2026 年 9 月中旬中期改款",
+      "前脸与尾部设计调整",
+      "尾部变更实现宽稳姿态",
+      "第 16 代皇冠系列第三次更新"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "皇冠",
+      "皇冠跨界版"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15150347/20260715_01_01-1.jpg?v=1784095428",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15150347/20260715_01_01-1-600x438.jpg?v=1784095428",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13150100/A35_3077_1-1-600x400.jpg?v=1783922461"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:33.193Z"
+  },
+  "https://response.jp/article/2026/07/15/414073.html": {
+    "title_zh": "丰田皇冠跨界车改款设计提前公开，9 月上市",
+    "summary_short": "丰田提前公开皇冠跨界车改款设计，采用新后保险杠，计划 2026 年 9 月中旬上市。",
+    "summary_long": "丰田汽车于 7 月 15 日提前公开了皇冠跨界车的改款设计。此次公开的为黑+白双色涂装原型车，与现款相比，后保险杠采用全新设计。改款车型计划于 2026 年 9 月中旬上市，量产版可能有所调整。",
+    "highlights_zh": [
+      "丰田提前公开皇冠跨界车改款设计",
+      "采用新后保险杠",
+      "计划 2026 年 9 月中旬上市",
+      "目前为原型车"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "皇冠",
+      "皇冠跨界车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227636.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227636.jpg",
+      "https://response.jp/imgs/fill2/2227635.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:33.891Z"
+  },
+  "https://response.jp/article/2026/07/15/414052.html": {
+    "title_zh": "耐克森轮胎首次为比亚迪供应原配轮胎",
+    "summary_short": "耐克森轮胎首次为比亚迪 Seal 6 和 Dolphin Surf 供应原配轮胎，强化全球 EV 市场地位。",
+    "summary_long": "韩国轮胎制造商耐克森轮胎宣布，将首次为中国比亚迪的两款车型——Seal 6 和 Dolphin Surf 提供原配轮胎。其中，面向澳大利亚市场的 Seal 6 将搭载超高性能夏季轮胎 N'FERA Sport，而面向欧洲市场的 Dolphin Surf 则配备高效夏季轮胎 N'Blue S。耐克森自 2012 年起开始为海外车企供应原配轮胎，已覆盖多家欧洲豪华品牌，此次合作进一步巩固了其在全球电动汽车市场的影响力。",
+    "highlights_zh": [
+      "耐克森首次为比亚迪供应原配轮胎",
+      "Seal 6 配 N'FERA Sport 超高性能…",
+      "Dolphin Surf 配 N'Blue S 高效…",
+      "强化全球 EV 市场地位"
+    ],
+    "entities": [
+      "耐克森轮胎",
+      "比亚迪 | BYD",
+      "比亚迪海豹 6",
+      "比亚迪海豚冲浪",
+      "原配轮胎"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227583.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227583.jpg",
+      "https://response.jp/imgs/fill2/2227582.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:37.097Z"
+  },
+  "https://response.jp/article/2026/07/15/414087.html": {
+    "title_zh": "胡斯瓦纳发布 2027 款越野系列三款新车",
+    "summary_short": "胡斯瓦纳推出 2027 款 FX 450、FX 350 和 TX 300，采用全新白色粉末涂层车架和瑞典传统风格涂装。",
+    "summary_long": "胡斯瓦纳·摩托车发布了 2027 年款越野系列三款车型：FX 450、FX 350 和 TX 300。新车采用全新白色粉末涂层车架，搭配受瑞典传统启发的鲜艳图形设计。悬挂系统配备 WP XACT 48mm 封闭式弹簧前叉和最新 WP XACT 后减震，无需工具即可调节。轮胎为邓禄普 Geomax AT82，并采用 Brembo、ProTaper、Twin Air、ODI 等高端组件。四冲程 FX 450 和 FX 350 配备快速换挡、牵引力控制、起步控制和两种发动机模式，可选装连接单元与应用程序进行精细调校。二冲程 TX 300 采用节气门体喷射技术，输出强劲且易于控制。",
+    "highlights_zh": [
+      "全新白色粉末涂层车架",
+      "WP XACT 可调悬挂系统",
+      "四冲程车型配备快速换挡与牵引力控制",
+      "二冲程 TX 300 采用节气门体喷射"
+    ],
+    "entities": [
+      "胡斯瓦纳",
+      "FX 450",
+      "FX 350",
+      "TX 300",
+      "WP XACT"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227631.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227631.jpg",
+      "https://response.jp/imgs/fill2/2227647.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:38.820Z"
+  },
+  "https://bestcarweb.jp/feature/column/1570747": {
+    "title_zh": "初代日产 Murano：开辟高级跨界 SUV 新世界",
+    "summary_short": "初代日产 Murano 以独特设计和高品质内饰，与丰田 Harrier 正面竞争，开辟了高级跨界 SUV 新世界。",
+    "summary_long": "日产 Murano 作为高级跨界 SUV 的代表，初代车型于 2002 年在北美推出，凭借流畅造型和宽敞空间获得好评。2004 年进入日本市场，与丰田 Harrier 直接竞争，其设计灵感源自威尼斯穆拉诺岛的玻璃工艺，展现出独特魅力。如今 Murano 重返日本，延续初代精神。",
+    "highlights_zh": [
+      "初代 Murano 于 2002 年北美首发",
+      "设计灵感源自威尼斯穆拉诺玻璃",
+      "与丰田 Harrier 正面竞争",
+      "2026 年日本市场复活"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ムラーノ",
+      "丰田 | Toyota",
+      "ハリアー",
+      "跨界 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06135749/9e27d8926c12e413cf49b755ba0c3e3f-1.jpg?v=1783313870",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06135749/9e27d8926c12e413cf49b755ba0c3e3f-1-600x338.jpg?v=1783313870",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13180037/HONDA-FREED_019_1-600x400.jpg?v=1783933238"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:41.728Z"
+  },
+  "https://response.jp/article/2026/07/15/414039.html": {
+    "title_zh": "保时捷卡宴再次进化！EV 延期延长寿命，729 马力涡轮版也将更新",
+    "summary_short": "保时捷卡宴改良型原型车再次曝光，因 EV 计划推迟，内燃机车型将进行进一步升级。",
+    "summary_long": "保时捷正在开发的卡宴改良型原型车在德国再次被拍到。现款第三代车型已在 2024 年款进行了大规模改进，但鉴于内燃机车型销售期延长的方针，预计将进行进一步优化。此次拍摄到的车辆疑似为“Turbo E-Hybrid”版本，外观细节有所调整，如前脸日行灯图形更简洁、前格栅可能改为单条设计，头灯和尾部也有细微变化。",
+    "highlights_zh": [
+      "卡宴改良型原型车再次曝光",
+      "疑似 Turbo E-Hybrid 版本",
+      "前脸日行灯图形更简洁",
+      "内燃机车型因 EV 延期而延长寿命"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "卡宴",
+      "Turbo E-Hybrid",
+      "内燃机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226900.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226900.jpg",
+      "https://response.jp/imgs/fill2/2226905.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:43.405Z"
+  },
+  "https://response.jp/article/2026/07/15/414048.html": {
+    "title_zh": "玛莎拉蒂 GranTurismo 和 GranCabrio 改款发布：EV 与燃油版性能均提升",
+    "summary_short": "玛莎拉蒂发布 GranTurismo 和 GranCabrio 改款，发动机与变速箱重新调校，性能与声浪提升，新增 490hp 和 590hp 版本。",
+    "summary_long": "玛莎拉蒂在欧洲发布了高性能双门跑车 GranTurismo 和敞篷车 GranCabrio 的改款车型。这两款车自 2022 年和 2023 年换代后，此次进行了广泛升级，包括发动机与变速箱的重新调校、设计优化、行驶动力学改进以及内饰质感提升。动力方面，490hp 版本配备专属轮毂、镀铬细节和全粒面皮革内饰；590hp 的 Trofeo 版本搭载 3.0 升 V6 双涡轮增压“Nettuno”发动机，功率较上一代增加 40hp，并采用源自 F1 的 MTC 技术和气缸停用系统，配备电子限滑差速器和运动排气。",
+    "highlights_zh": [
+      "发动机与变速箱重新调校",
+      "490hp 版本配备专属轮毂和全粒面皮革",
+      "Trofeo 版 590hp",
+      "内饰质感提升"
+    ],
+    "entities": [
+      "玛莎拉蒂",
+      "格兰特里斯莫",
+      "格兰卡布里奥",
+      "内图诺",
+      "Trofeo"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227563.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227563.jpg",
+      "https://response.jp/imgs/fill2/2227570.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:47.137Z"
+  },
+  "https://www.motor1.com/news/801638/ferrari-luce-reactions-backlash-response/": {
+    "title_zh": "法拉利对 Luce 的批评者感到满意",
+    "summary_short": "法拉利对旗下首款纯电车型 Luce 引发的强烈反响感到满意，尽管设计争议超出预期，但公司认为这体现了品牌关注度。",
+    "summary_long": "法拉利首款纯电动车型 Luce 自 5 月底发布以来，因其颠覆性设计引发两极分化评论。法拉利全球营销总监 Emanuele Carando 表示，公司预料到设计会引发争议，但未预料到批评的“规模”，不过他对这种反应感到“非常满意”，认为每个人都有权对法拉利发表看法。尽管争议不断，法拉利 CEO Benedetto Vigna 透露 Luce 已收到“强烈兴趣”，包括新客户订单，甚至有报道称中国市场的配额已售罄。",
+    "highlights_zh": [
+      "法拉利对 Luce 的争议反应感到满意",
+      "设计批评规模超出预期但被视为积极信号",
+      "Luce 已收到大量订单"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "纯电动车型",
+      "设计争议"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPkZl/s1/ferrari-luce.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:48.222Z"
+  },
+  "https://www.motor1.com/news/801694/vw-id-cross-production-version-specs-photos/": {
+    "title_zh": "大众 ID. Cross：最便宜电动 SUV",
+    "summary_short": "大众 ID. Cross 起售价 2.8 万欧元，定位低于 ID.4，基于 MEB+平台，提供两种电池和三种功率选择。",
+    "summary_long": "大众 ID. Cross 是一款入门级电动跨界车，在德国起售价为 2.8 万欧元。它基于 MEB+平台开发，采用前轮驱动布局，与燃油版 T-Cross 无关。车身长 4153 毫米，轴距 2601 毫米，提供 475 升后备箱空间和 25 升前备箱。新车提供两种电池选项和三种功率等级，入门版配备 17 英寸轮毂，高配版可达 20 英寸。",
+    "highlights_zh": [
+      "起售价 2.8 万欧元",
+      "基于 MEB+平台",
+      "两种电池三种功率",
+      "后备箱 475 升"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID. Cross",
+      "ID.4",
+      "MEB+平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8rAy/s1/vw-id.-cross.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:50.535Z"
+  },
+  "https://www.motor1.com/news/801651/audi-warranty-110k-miles/": {
+    "title_zh": "男子从 Carvana 购车后犯下 3.2 万美元错误——其实很常见",
+    "summary_short": "男子在 Carvana 购买奥迪 Q7，保修期内索赔 3.2 万美元，却在保修到期前 130 英里才去维修。",
+    "summary_long": "一位车主在 Carvana 购买了一辆奥迪 Q7，并在 5 年保修期内成功索赔了 3.2 万美元的维修费用。然而，他在保修即将到期、仅剩 130 英里里程时，才前往经销商处处理一个“咔嗒”异响问题。视频显示，当时里程表显示 109,870 英里，而保修上限为 110,000 英里，经销商距离约 20 英里，时间非常紧迫。",
+    "highlights_zh": [
+      "车主在 Carvana 购买奥迪 Q7",
+      "5 年保修期内索赔 3.2 万美元",
+      "保修到期前 130 英里才去维修",
+      "异响问题需在 110"
+    ],
+    "entities": [
+      "Carvana",
+      "奥迪 | Audi",
+      "奥迪 Q7 | Audi Q7",
+      "保修"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lXoq/s1/man-buys-audi-q7-on-carvana.-5-years-later-he-tries-to-use-the-warranty.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:52.210Z"
+  },
+  "https://www.motor1.com/news/801684/nissan-killing-altima-official/": {
+    "title_zh": "日产最终将停产 Altima",
+    "summary_short": "日产确认将停产 Altima，为新一代 Sentra 让路，同时调整产品线，Xterra 等车型将加入。",
+    "summary_long": "日产美洲产品负责人 Ponz Pandikuthira 透露，Altima 将在 2026 年车型年后停产，为新一代“成熟”的 Sentra 腾出市场空间。此前入门级 Versa 已在 2025 年后退出美国市场，Maxima 也在 2023 年后停产，Sentra 将成为日产在美国唯一的轿车。此外，日产取消了两款此前宣布的美国制造电动轿车计划，原因是预计需求不足，直到 2030 年左右成本下降才可能改变。不过，日本新一代 Skyline 将于冬季首发，并衍生出更豪华的英菲尼迪车型，可能作为 Q50 的继任者，采用后驱布局、手动变速箱和双涡轮 V6 发动机。",
+    "highlights_zh": [
+      "Altima 将在 2026 年后停产",
+      "Sentra 成为日产美国唯一轿车",
+      "两款电动轿车计划取消",
+      "新一代 Skyline 将衍生英菲尼迪车型"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Altima",
+      "Sentra",
+      "Skyline",
+      "英菲尼迪"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xqn7Ww/s1/2025-nissan-altima.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:54.971Z"
+  },
+  "https://insideevs.com/news/801677/bmw-phev-recall-us-3-series-5-series-7-series/": {
+    "title_zh": "宝马在美召回近 3 万辆插电混动车，要求停户外，原因不在电池",
+    "summary_short": "宝马因起动机故障在美召回近 3 万辆插电混动车，存在火灾风险，要求车主停户外。",
+    "summary_long": "宝马在美国召回 29,119 辆插电式混合动力车，涉及 3 系、5 系和 7 系部分车型，原因是发动机起动机的电气继电器可能进水腐蚀，导致短路过热，极端情况下可能引发火灾。问题不在高压电池，而是内燃机部件。受影响车型包括 2016-2018 款宝马 330e、2018-2020 款 530e 和 2017-2019 款 740Le。宝马将免费更换起动机，并报销已自费维修的车主。",
+    "highlights_zh": [
+      "召回近 3 万辆插电混动车",
+      "起火风险源于起动机",
+      "涉及 3 系、5 系、7 系 PHEV",
+      "免费更换起动机"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "3 系 | 3 Series",
+      "5 系 | 5 Series",
+      "7 系 | 7 Series",
+      "美国国家公路交通安全管理局"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Z7LMA/s1/bmw-530e-iperformance-review-finds-the-new-plug-in-a-contender.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:56.243Z"
+  },
+  "https://www.motor1.com/news/801667/lexus-lfa-returns-2027/": {
+    "title_zh": "雷克萨斯 LFA 将于 2027 年回归，但不再搭载 V10 发动机",
+    "summary_short": "雷克萨斯 LFA 将于 2027 年以纯电动形式回归，基于丰田 GR GT 平台，尺寸更大，但保留双座布局。",
+    "summary_long": "雷克萨斯确认 LFA 将于 2027 年回归，但新车将完全电动化，不再搭载 V10 发动机。新车基于丰田 GR GT 平台，采用铝密集型结构，尺寸较原版更大（长 4690mm，宽 2040mm，高 1195mm），轴距 2725mm，仅提供双座布局。原型车已在古德伍德速度节亮相，预计将使用与 GR GT3 相同的平台，但取消双涡轮增压 4.0 升 V8 发动机，转而采用电机和电池组。",
+    "highlights_zh": [
+      "2027 年回归",
+      "基于丰田 GR GT 平台",
+      "尺寸更大",
+      "仅双座布局"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LFA",
+      "丰田 | Toyota",
+      "GR GT",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPkRM/s1/lexus-lfa-concept-at-2026-goodwood-festival-of-speed.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:03:58.980Z"
+  },
+  "https://insideevs.com/news/801672/aptera-solar-ev-service-network/": {
+    "title_zh": "Aptera 不建服务网络，车主将获 RepairPal 支持",
+    "summary_short": "太阳能电动车初创公司 Aptera 与 RepairPal 合作，为车主提供全美 4300 多家认证维修点，省下自建网络成本。",
+    "summary_long": "Aptera 宣布与 RepairPal 合作，为其三轮太阳能电动车提供售后服务，而非像特斯拉或 Rivian 那样自建服务网络。RepairPal 在美国拥有超过 4300 家认证维修点，其中 200 多家具备高压电动车维修资质，车主可预约日常保养和高压系统维修。此举为 Aptera 节省数百万美元，用于车辆开发。目前 Aptera 已获得 EPA 合规证书，五辆验证车正在路测，但量产时间仍未公布。",
+    "highlights_zh": [
+      "Aptera 与 RepairPal 合作",
+      "全美 4300+ 认证维修点",
+      "节省数百万美元用于车辆开发",
+      "已获 EPA 合规证书"
+    ],
+    "entities": [
+      "Aptera",
+      "RepairPal",
+      "特斯拉 | Tesla",
+      "Rivian",
+      "太阳能电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEG8WJ/s1/aptera-ev-service.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T15:04:00.506Z"
   }
 }

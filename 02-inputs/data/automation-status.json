@@ -1,6 +1,6 @@
 {
   "workflow": {
-    "generated_at": "2026-07-15T03:30:46.988Z",
+    "generated_at": "2026-07-15T15:02:37.082Z",
     "articles_in_feed": 400,
     "deepseek_translated_before_run": 362,
     "deepseek_untranslated_before_run": 38,
@@ -11,130 +11,130 @@
     "translation_queue_count": 38,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.7.15",
-        "title": "「えっ！ そこからレクサスIS!?」タレント岡元あつこが語る ハイエースから始まった「思い出のクルマ」ストーリー",
-        "url": "https://bestcarweb.jp/feature/column/1578063"
+        "title": "Dodge Gives You 5,500 Reasons To Buy A New Charger Sixpack",
+        "url": "https://www.motor1.com/news/801639/dodge-charger-sixpack-pricing/"
       },
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.15",
-        "title": "「クロスオーバー機能」を使えばスピーカーの性能を一層引き出せる！［イン・カー・リスニング学…チューニング編］",
-        "url": "https://response.jp/article/2026/07/15/414053.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "「センスいい！」日産『ノートオーラNISMO』にブラック仕様追加の可能性！「価格もアップ？」の声も",
-        "url": "https://response.jp/article/2026/07/15/414055.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "「ほぼ完璧」なのに惜しい!! e-POWERの高速性能に不満アリ!? 日産 ノートの改善点をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1562053"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "「車種半減」の独VW、10万人削減へ大規模リストラの現実味［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/07/15/414041.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "「阪神高速おでかけパス2026」発売、1日定額で大阪・神戸を周遊…7月18日から利用可能",
-        "url": "https://response.jp/article/2026/07/15/414056.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第809回",
-        "url": "https://bestcarweb.jp/feature/column/1562977"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "18万円差で顔つき激変!! ルークスのハイウェイスターは本当に必要か",
-        "url": "https://bestcarweb.jp/feature/column/1568138"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "1970年代にタイムスリップ!! それは中型バスが路線バスとして確立し始めた時だった",
-        "url": "https://bestcarweb.jp/busmagazine/1553119"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "BYD『SEALION 7』が一部改良、リアトノカバー標準化…498万3000円から",
-        "url": "https://response.jp/article/2026/07/15/414044.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "e:HEV専用化でどう変わった？ ホンダ ZR-V2026年モデルの注目点をチェック！",
-        "url": "https://bestcarweb.jp/feature/column/1572496"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "JVCケンウッド、FTSE RussellのESGスコアで最高評価…国内企業では3社のみ",
-        "url": "https://response.jp/article/2026/07/15/414037.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "MINI『カントリーマン』、新グレード「S ALL4 SELECT」追加…553万円",
-        "url": "https://response.jp/article/2026/07/15/414038.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "アプリリア『RS 660』に限定モデル「ファクトリー」登場、ウィングレット採用＆105hpに出力向上 価格は198万円",
-        "url": "https://response.jp/article/2026/07/15/414057.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "イクヨ、子会社イクヨオートモーティブに最大50億円の増資検討…米国上場準備を加速",
-        "url": "https://response.jp/article/2026/07/15/414051.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "イケウチ、スタートアップワールドカップ展示会に出展…板金塗装×AIで業界変革へ",
-        "url": "https://response.jp/article/2026/07/15/414050.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "こんなミニバン見たことない!! 「ワル顔」メッキで唯一無二！ オーテックが育てた歴代日産「エルグランド」の軌跡",
-        "url": "https://bestcarweb.jp/feature/column/1560717"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "シャープのアルコールチェック管理サービス『スリーゼロ』、運転者用新アプリ『スリーゼロ V2』提供開始",
-        "url": "https://response.jp/article/2026/07/15/414045.html"
+        "title": "Cheap Dash Cams Deals and More Car Accessories on Sale Right Now",
+        "url": "https://www.thedrive.com/news/cheap-dash-cams-deals-and-more-car-accessories-on-sale-right-now"
       },
       {
         "source": "Motor1",
         "time": "2026.7.15",
-        "title": "Man Buys Ford Truck. Then He Notices It Has A BlueCruise Tracker: ‘It’s Privacy Invasion’",
-        "url": "https://www.motor1.com/news/801517/ford-f-150-bluecruise-tracker/"
+        "title": "Alpine Swears It Isn't Cancelling Its EV Sports Car",
+        "url": "https://www.motor1.com/news/801502/alpine-ev-sports-car-not-cancelled/"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.14",
-        "title": "How Texas Police Spent $4.5 Million on Four Chevy Tahoes",
-        "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes"
+        "time": "2026.7.15",
+        "title": "Volvo Reportedly Eyeing Wagon Comeback Right After Killing Off V60: TDS",
+        "url": "https://www.thedrive.com/news/volvo-reportedly-eyeing-wagon-comeback-right-after-killing-off-v60-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.15",
+        "title": "'We'd Rebody The Whole Car:' Hennessey Says Anything Is Possible With Its New One-Off Division",
+        "url": "https://www.motor1.com/news/801649/hennessey-bespoke-division-interview-exclusive/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.15",
+        "title": "GMC Is Making a New Yellow Hummer EV to Honor the Old H2",
+        "url": "https://www.thedrive.com/news/gmc-is-making-a-new-yellow-hummer-ev-to-honor-the-old-h2"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.15",
+        "title": "LFP Wins This Tesla Model 3 Battery Degradation Comparison",
+        "url": "https://insideevs.com/news/801724/tesla-model-3-lpf-degradation/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.15",
+        "title": "Volkswagen’s Cheapest New EV SUV Has 265 Miles Of Range",
+        "url": "https://insideevs.com/news/801721/volkswagen-id-cross-cheapest-ev-suv/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "［ロボカップ世界大会2026］ヒューマノイドとフィジカルAIが変える競技…現地レポート前編",
+        "url": "https://response.jp/article/2026/07/15/414089.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "「ランサーを見せてほしい」とスバルの開発者がやってきた!? 宿命のライバル同士が築きあげた日本が誇る本当に強いクルマとは",
+        "url": "https://bestcarweb.jp/news/motorsport/1579315"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "『頭文字D』ハチロクが“漫画風”ミニカーに!? 特別塗装のキーチェーン登場",
+        "url": "https://response.jp/article/2026/07/15/414086.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "【アウディ Q3スポーツバック 新型試乗】このサイズでも欧州では「Aセグメント」！ 電気に頼らないICEの潔い走り…中村孝仁",
+        "url": "https://response.jp/article/2026/07/15/414085.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "200万円級でも高くない!? スペーシアギアは標準装備を見たら納得のアウトドア軽だった",
+        "url": "https://bestcarweb.jp/news/1565819"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.15",
+        "title": "2027 Ferrari 849 Testarossa Spider First-Drive Review: 1,000 HP Is Better Without a Roof",
+        "url": "https://www.thedrive.com/car-reviews/2027-ferrari-849-testarossa-spider-review"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.15",
+        "title": "America Lost Over 111,000 Jobs Due To Trump's Clean Energy Pullback",
+        "url": "https://insideevs.com/news/801646/trump-rollbacks-end-energy-programs/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "EVのJ-クレジット化プロジェクト「EVラボ」、三重県松阪市が自治体第1号に…三井住友海上とバイウィルが推進",
+        "url": "https://response.jp/article/2026/07/15/414075.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "HERE WeGoとCariqaが連携、EV充電の検索から決済まで一体化",
+        "url": "https://response.jp/article/2026/07/15/414082.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.15",
+        "title": "Man Wants To Buy A Ford Mustang. Then He Goes To Costco For One Specific Reason: 'Can I Charge It To My Costco Card?'",
+        "url": "https://www.motor1.com/news/801715/costco-auto-program-ford-mustang-gt/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "アクアの「スムーズストップ」って何？ 燃費だけじゃない“止まり方の上質感”をチェック",
+        "url": "https://bestcarweb.jp/feature/column/1570453"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "アルファロメオ、新型CセグメントSUVを予告…デビューは2027年",
+        "url": "https://response.jp/article/2026/07/15/414064.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29386688434",
-    "sha": "34c2016e7a309829f09d05410074e1d9ec826930",
-    "completed_at": "2026-07-15T03:32:05.652Z",
+    "run_id": "29426285777",
+    "sha": "9cc9ab62f89925eae705de96f7277f4036cace30",
+    "completed_at": "2026-07-15T15:04:00.808Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -148,8 +148,8 @@
     "scoped_articles": 38,
     "queued_articles": 38,
     "processed": 38,
-    "started_at": "2026-07-15T03:30:47.200Z",
-    "finished_at": "2026-07-15T03:32:05.451Z",
+    "started_at": "2026-07-15T15:02:37.406Z",
+    "finished_at": "2026-07-15T15:04:00.523Z",
     "success": true,
     "error": ""
   }
