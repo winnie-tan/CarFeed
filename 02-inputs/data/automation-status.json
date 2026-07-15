@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-14T15:04:00.351Z",
+    "generated_at": "2026-07-15T03:30:46.988Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 366,
-    "deepseek_untranslated_before_run": 34,
-    "newly_fetched_articles": 35,
-    "newly_fetched_untranslated": 34,
+    "deepseek_translated_before_run": 362,
+    "deepseek_untranslated_before_run": 38,
+    "newly_fetched_articles": 38,
+    "newly_fetched_untranslated": 38,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 34,
+    "translation_queue_count": 38,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.14",
-        "title": "Alfa Romeo Teases New Crossover. No, Still Not The Stelvio",
-        "url": "https://www.motor1.com/news/801604/alfa-romeo-crossover-teaser/"
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "「えっ！ そこからレクサスIS!?」タレント岡元あつこが語る ハイエースから始まった「思い出のクルマ」ストーリー",
+        "url": "https://bestcarweb.jp/feature/column/1578063"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "「クロスオーバー機能」を使えばスピーカーの性能を一層引き出せる！［イン・カー・リスニング学…チューニング編］",
+        "url": "https://response.jp/article/2026/07/15/414053.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "「センスいい！」日産『ノートオーラNISMO』にブラック仕様追加の可能性！「価格もアップ？」の声も",
+        "url": "https://response.jp/article/2026/07/15/414055.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "「ほぼ完璧」なのに惜しい!! e-POWERの高速性能に不満アリ!? 日産 ノートの改善点をチェック",
+        "url": "https://bestcarweb.jp/feature/column/1562053"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "「車種半減」の独VW、10万人削減へ大規模リストラの現実味［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/07/15/414041.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "「阪神高速おでかけパス2026」発売、1日定額で大阪・神戸を周遊…7月18日から利用可能",
+        "url": "https://response.jp/article/2026/07/15/414056.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第809回",
+        "url": "https://bestcarweb.jp/feature/column/1562977"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "18万円差で顔つき激変!! ルークスのハイウェイスターは本当に必要か",
+        "url": "https://bestcarweb.jp/feature/column/1568138"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "1970年代にタイムスリップ!! それは中型バスが路線バスとして確立し始めた時だった",
+        "url": "https://bestcarweb.jp/busmagazine/1553119"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "BYD『SEALION 7』が一部改良、リアトノカバー標準化…498万3000円から",
+        "url": "https://response.jp/article/2026/07/15/414044.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "e:HEV専用化でどう変わった？ ホンダ ZR-V2026年モデルの注目点をチェック！",
+        "url": "https://bestcarweb.jp/feature/column/1572496"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "JVCケンウッド、FTSE RussellのESGスコアで最高評価…国内企業では3社のみ",
+        "url": "https://response.jp/article/2026/07/15/414037.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "MINI『カントリーマン』、新グレード「S ALL4 SELECT」追加…553万円",
+        "url": "https://response.jp/article/2026/07/15/414038.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "アプリリア『RS 660』に限定モデル「ファクトリー」登場、ウィングレット採用＆105hpに出力向上 価格は198万円",
+        "url": "https://response.jp/article/2026/07/15/414057.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "イクヨ、子会社イクヨオートモーティブに最大50億円の増資検討…米国上場準備を加速",
+        "url": "https://response.jp/article/2026/07/15/414051.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "イケウチ、スタートアップワールドカップ展示会に出展…板金塗装×AIで業界変革へ",
+        "url": "https://response.jp/article/2026/07/15/414050.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.15",
+        "title": "こんなミニバン見たことない!! 「ワル顔」メッキで唯一無二！ オーテックが育てた歴代日産「エルグランド」の軌跡",
+        "url": "https://bestcarweb.jp/feature/column/1560717"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.15",
+        "title": "シャープのアルコールチェック管理サービス『スリーゼロ』、運転者用新アプリ『スリーゼロ V2』提供開始",
+        "url": "https://response.jp/article/2026/07/15/414045.html"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.14",
-        "title": "The Lexus LS Refuses To Die",
-        "url": "https://www.motor1.com/news/801508/lexus-ls-lineup/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.14",
-        "title": "This New EV Range Extender Skips Gas And Packs A New Kind Of Generator",
-        "url": "https://insideevs.com/news/801593/horse-d20-methanol-ev-range-extender/"
+        "time": "2026.7.15",
+        "title": "Man Buys Ford Truck. Then He Notices It Has A BlueCruise Tracker: ‘It’s Privacy Invasion’",
+        "url": "https://www.motor1.com/news/801517/ford-f-150-bluecruise-tracker/"
       },
       {
         "source": "The Drive",
         "time": "2026.7.14",
-        "title": "Volkswagen’s Cost-Cutting Crusade Could Doom Jetta, Porsche Taycan and 718: TDS",
-        "url": "https://www.thedrive.com/news/volkswagens-cost-cutting-crusade-could-doom-jetta-porsche-taycan-and-718"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.14",
-        "title": "'Unexpected' Isn't Over: Lamborghini Hints At More Sterrato Models",
-        "url": "https://www.motor1.com/news/801505/more-lamborghini-sterrato-models-possible/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "「テクトンキターーーー」日産の新型SUV『テクトン』、インド発表に「日本で欲しい」の声",
-        "url": "https://response.jp/article/2026/07/14/414033.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "【ポルシェ 911 GT3 S/C 新型試乗】マニュアル一択！ 数字では語れない“サーキット直系の刺激”",
-        "url": "https://response.jp/article/2026/07/14/414035.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "ABB、最新のモーターとインバータ技術を披露へ…TECHNO-FRONTIER 2026",
-        "url": "https://response.jp/article/2026/07/14/414028.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.14",
-        "title": "Expert Gets In Car. Then He Shows How To Adjust Settings To Get The Most Out Of Your Factory Sound System: 'Works For Any Genre'",
-        "url": "https://www.motor1.com/news/801515/best-car-sound-system-settings/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "GaN・SiC時代の計測ソリューション、日置電機が披露へ…TECHNO-FRONTIER 2026",
-        "url": "https://response.jp/article/2026/07/14/414022.html"
-      },
-      {
-        "source": "Vespa",
-        "time": "2026.7.14",
-        "title": "Gigi Saint Tropez x Vespa",
-        "url": "https://press.piaggiogroup.com/en_EN/post/show/354591/gigi-saint-tropez-x-vespa.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "MotoGP由来のウィングレット装着！ アプリリア『RSV4 Factory』、363万円で限定12台発売",
-        "url": "https://response.jp/article/2026/07/14/414032.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "NDロードスター専用の防水フロアマット発売!! 立体設計だから液体に強い！",
-        "url": "https://bestcarweb.jp/news/1576063"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "OKIエンジニアリング、EMC・ノイズ対策の最新ソリューション出展へ…TECHNO-FRONTIER 2026",
-        "url": "https://response.jp/article/2026/07/14/414027.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "Siriより優秀だって!? ヘイ、トヨタでできる音声操作が超便利な件",
-        "url": "https://bestcarweb.jp/feature/column/1575043"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.14",
-        "title": "Why America Built Fewer EV Fast-Charging Stations In Q2",
-        "url": "https://insideevs.com/news/801501/us-public-ev-fast-charging-growth-q2/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "おかえり日産「プリメーラ」!! 約20年ぶり復活でも中身は中国生まれの大型EV「N7」だった",
-        "url": "https://bestcarweb.jp/feature/column/1570372"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.14",
-        "title": "ガソリン価格高騰で家計負担を8割が実感、次回電動車検討は6割に…KINTO調査",
-        "url": "https://response.jp/article/2026/07/14/414021.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "コンパクトSUVの王者争い！ ヴェゼルとカローラクロスの室内空間と荷室の広さを徹底比較!!",
-        "url": "https://bestcarweb.jp/feature/column/1573916"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.14",
-        "title": "サンシェードって意味あるの？ 気休め程度ってほんと？ 今年こそ遮光率の高いものを選ぶべし！",
-        "url": "https://bestcarweb.jp/news/entame/1573797"
+        "title": "How Texas Police Spent $4.5 Million on Four Chevy Tahoes",
+        "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29343640942",
-    "sha": "15e468643c9da49ade7fe0d96c2f40e56e032d4b",
-    "completed_at": "2026-07-14T15:05:08.295Z",
+    "run_id": "29386688434",
+    "sha": "34c2016e7a309829f09d05410074e1d9ec826930",
+    "completed_at": "2026-07-15T03:32:05.652Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 34,
-    "queued_articles": 34,
-    "processed": 34,
-    "started_at": "2026-07-14T15:04:00.672Z",
-    "finished_at": "2026-07-14T15:05:08.025Z",
+    "scoped_articles": 38,
+    "queued_articles": 38,
+    "processed": 38,
+    "started_at": "2026-07-15T03:30:47.200Z",
+    "finished_at": "2026-07-15T03:32:05.451Z",
     "success": true,
     "error": ""
   }

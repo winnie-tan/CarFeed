@@ -75346,5 +75346,890 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-14T15:05:08.006Z"
+  },
+  "https://bestcarweb.jp/feature/column/1578063": {
+    "title_zh": "冈元亚津子的爱车故事：从丰田海狮到雷克萨斯 IS",
+    "summary_short": "日本艺人冈元亚津子分享从丰田海狮到雷克萨斯 IS300h 的爱车故事，展现汽车与生活的紧密联系。",
+    "summary_long": "日本艺人冈元亚津子公开了她的爱车——雷克萨斯 IS300h。她回忆了与多辆丰田海狮的往事，并讲述了当前座驾的亮点，如 CD 播放器和方向盘加热等配置。汽车不仅是她的工作伙伴，也是她生活中不可或缺的一部分。",
+    "highlights_zh": [
+      "爱车为雷克萨斯 IS300h",
+      "曾拥有多辆丰田海狮",
+      "CD 播放器是工作利器",
+      "长距离驾驶也不觉累"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "IS300h",
+      "丰田海狮 | Toyota HiAce",
+      "冈元亚津子"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13124511/9f969c95cf125fac0317e91e087bae6c.jpg?v=1783914312",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13124511/9f969c95cf125fac0317e91e087bae6c-600x381.jpg?v=1783914312",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22184155/00_syouene04_tikE_head-600x400.jpg?v=1782121316"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:30:51.484Z"
+  },
+  "https://response.jp/article/2026/07/15/414053.html": {
+    "title_zh": "利用“分频功能”进一步发挥扬声器性能！［车内聆听学…调音篇］",
+    "summary_short": "本文深入讲解汽车音响调音中的分频功能，说明外置 DSP 如何通过精确的频段分割提升音质。",
+    "summary_long": "本连载全方位解说提升车载音响音质的理论与技巧，当前为“声音调音篇”。本次聚焦“分频功能”。车载音响常使用 DSP（数字信号处理器）进行调音，以修正车内声学不利因素。主机虽内置 DSP，但功能较简易；外置 DSP 性能更高，因此爱好者多将其纳入系统。分频功能负责将音乐信号分割为不同频段，外置 DSP 可实现更精细的频段分配，而主机通常仅能分割前声场与低音炮之间的频段。",
+    "highlights_zh": [
+      "外置 DSP 性能远超主机内置 DSP",
+      "分频功能实现音乐信号频段分割",
+      "主机分频通常仅限前声场与低音炮",
+      "精确分频可提升扬声器表现"
+    ],
+    "entities": [
+      "DSP",
+      "分频功能",
+      "车载音响",
+      "调音"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226951.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226951.jpg",
+      "https://response.jp/imgs/fill2/2226952.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:30:52.214Z"
+  },
+  "https://response.jp/article/2026/07/15/414055.html": {
+    "title_zh": "日产 Note Aura NISMO 或推 Black Limited 黑色特别版",
+    "summary_short": "日产计划于 2026 年 8 月为 Note 及 Note Aura 进行商品改良，可能新增 Note Aura NISMO Black Limited 黑色特别版。",
+    "summary_long": "日产计划于 2026 年 8 月对紧凑型车 Note 及 Note Aura 进行商品改良，并可能推出新的特别版车型。其中备受关注的是 Note Aura NISMO Black Limited。该车基于现款 Note Aura NISMO 打造，采用黑色主题设计，减少红色点缀，以深色涂装前唇、侧裙、后视镜及轮毂，营造精悍高级感。现款 Note Aura NISMO 于 2021 年推出，配备专属悬架、ECU 及空气动力学套件，2024 年改款后升级了第二代 e-POWER 系统及底盘调校。",
+    "highlights_zh": [
+      "日产 Note 及 Note Aura 将于 202…",
+      "可能新增 Note Aura NISMO Black…",
+      "黑色主题设计",
+      "现款 NISMO 搭载专属悬架及第二代 e-POWE…"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "ノートオーラ",
+      "NISMO",
+      "Black Limited"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227586.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227586.jpg",
+      "https://response.jp/imgs/fill2/2227585.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:30:55.771Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562053": {
+    "title_zh": "日产 Note e-POWER：近乎完美，但高速性能仍有遗憾",
+    "summary_short": "日产 Note e-POWER 虽近乎完美，但高速油耗不佳，且质感与配置仍有提升空间。",
+    "summary_long": "日产 Note 在 2024 年 1 月完成中期改款，凭借 e-POWER 系统带来的电动化驾驶体验，成为同级中备受好评的紧凑型车。然而，其高速油耗表现并不理想，原因在于 1.2L 发动机在高速下需维持高转速，且缺乏类似本田 e:HEV 的发动机直驱模式。此外，车内细节如位置灯采用灯泡、座椅材质偏商务感，似乎有意与更高阶的 Aura 车型拉开差距。",
+    "highlights_zh": [
+      "e-POWER 电机响应快",
+      "高速油耗不佳",
+      "缺乏发动机直驱模式",
+      "内饰质感与配置向高阶车型 Aura 妥协"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ノート",
+      "e-POWER",
+      "オーラ",
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26234203/00_ketten_note_03_head.jpg?v=1782484924",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/26234203/00_ketten_note_03_head-600x400.jpg?v=1782484924",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22184155/00_syouene04_tikE_head-600x400.jpg?v=1782121316"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:30:56.578Z"
+  },
+  "https://response.jp/article/2026/07/15/414041.html": {
+    "title_zh": "大众计划削减半数车型，或裁员 10 万人进行大规模重组",
+    "summary_short": "大众计划削减半数车型，并考虑在已裁 5 万人基础上再裁 5 万，总计裁员 10 万人。",
+    "summary_long": "大众汽车宣布重组计划，将车型数量减半，年产能从 1000 万辆降至 900 万辆，以集中资源于高附加值产品。同时，大众正考虑在已达成 5 万人裁员协议的基础上再裁 5 万人，使总裁员规模达 10 万人。CEO Oliver Blume 在致员工信中表示，间接成本比竞争对手高 20%，需进一步削减。",
+    "highlights_zh": [
+      "车型数量减半",
+      "年产能降至 900 万辆",
+      "已裁 5 万人",
+      "间接成本高 20%"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "保时捷 | Porsche",
+      "奥迪 | Audi",
+      "丰田 | Toyota",
+      "日产 | Nissan"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227552.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227552.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:00.339Z"
+  },
+  "https://response.jp/article/2026/07/15/414056.html": {
+    "title_zh": "阪神高速推出“外出通行证 2026”，一日定额畅游大阪神户",
+    "summary_short": "阪神高速发售一日定额通行证，可在周末及节假日无限次通行，并附观光设施优惠。",
+    "summary_long": "阪神高速道路推出“阪神高速おでかけパス2026”，可在周六、周日及节假日以一日定额方式使用阪神高速。使用期间为 2026 年 7 月 18 日至 2027 年 3 月 28 日，但排除盂兰盆节、白银周及年末年初。该通行证适用于安装 ETC 的普通车及轻自动车，分为“大阪周游”和“神户周游”两种路线，每张 ETC 卡每种路线最多可使用 9 次，每日限量 6000 名。此外，还提供与神户须磨海洋世界等 26 个观光设施的门票套餐，购买套餐可再享 200 日元折扣，并附赠 67 个合作设施的优惠券。",
+    "highlights_zh": [
+      "一日定额通行",
+      "分大阪周游与神户周游两种路线",
+      "每张 ETC 卡每种路线最多 9 次",
+      "与 26 个观光设施推出套餐优惠"
+    ],
+    "entities": [
+      "阪神高速道路",
+      "大阪周游",
+      "神户周游",
+      "神户须磨海洋世界",
+      "ETC"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227603.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227603.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:01.541Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562977": {
+    "title_zh": "【猜车名】这些名车、珍车，你知道吗？第 809 回",
+    "summary_short": "本田初代 Today 于 1985 年推出，仅轻商用，搭载 2 缸引擎；1988 年增加 3 缸乘用版，7 年售出 71 万辆。",
+    "summary_long": "本田初代 Today 于 1985 年推出时仅提供轻商用车型，搭载紧凑型 2 缸发动机。1988 年增加 547cc 3 缸发动机的乘用版本。该车在约 7 年内累计销量超过 71 万辆。1993 年 1 月全面改款的第二代车型采用乘用专用设计，外观独特，居住性和车身刚性提升。1996 年小改款时重新设计尾部，采用更亲和的造型，并将后备箱改为掀背式。",
+    "highlights_zh": [
+      "初代 Today 1985 年推出",
+      "1988 年增加 3 缸乘用版",
+      "7 年累计销量超 71 万辆",
+      "1993 年第二代改款"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Today"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29141142/main_am199301_tdyp03_01001H.jpg?v=1782709903",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29141142/main_am199301_tdyp03_01001H-600x400.jpg?v=1782709903",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29150903/main_P45-galant-600x433.jpg?v=1782713344"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:04.531Z"
+  },
+  "https://bestcarweb.jp/feature/column/1568138": {
+    "title_zh": "18 万日元差让前脸大变！日产ルークス选标准版还是 Highway Star？",
+    "summary_short": "日产ルークス标准版与 Highway Star 版价差 18 万日元，主要区别在于外观设计，核心性能与油耗一致。",
+    "summary_long": "日产ルークス在选购时，标准版 X 与 Highway Star X 的价差为 18 万 400 日元，但两者在动力、油耗、空间等基本性能上完全相同。标准版 X 售价 173.91 万日元，外观温和亲民，适合家庭用户；Highway Star X 售价 191.95 万日元，通过专属前格栅和保险杠营造出精悍的迷你厢型车风格，满足追求外观冲击力的消费者。选择哪款取决于用户对外观与预算的权衡。",
+    "highlights_zh": [
+      "标准版 X 与 Highway Star X 价差…",
+      "两者动力、油耗、空间等基本性能相同",
+      "标准版外观温和",
+      "选择取决于外观偏好与预算"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ルークス",
+      "Highway Star",
+      "轻自动车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13160353/s-NISSAN-ROOX_066.jpg?v=1783926237",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13160353/s-NISSAN-ROOX_066-600x400.jpg?v=1783926237",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22184155/00_syouene04_tikE_head-600x400.jpg?v=1782121316"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:06.019Z"
+  },
+  "https://response.jp/article/2026/07/15/414044.html": {
+    "title_zh": "比亚迪海狮 7 改款：标配后遮物帘，售价 498.3 万日元起",
+    "summary_short": "比亚迪海狮 7 系列改款，全系标配后遮物帘，优化后视视野，售价上调 3.3 万日元，并推出限量版。",
+    "summary_long": "比亚迪日本公司宣布对 SEALION 7 系列进行部分规格升级，全系标配后遮物帘，并优化副驾侧外后视镜可动范围以改善后方视野。受中东局势导致燃油及相关费用上涨影响，全系价格上调 3.3 万日元，新售价为 498.3 万日元起。同时为庆祝累计注册突破 2000 台，推出 20 台限量版 SEALION 7 Limited，基于后驱版并采用新色薰衣草。",
+    "highlights_zh": [
+      "全系标配后遮物帘",
+      "优化副驾后视镜视野",
+      "售价上调 3.3 万日元",
+      "限量版 20 台"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "海狮 7 | SEALION 7",
+      "日本",
+      "后遮物帘",
+      "限量版"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227527.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227527.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:10.485Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1553119": {
+    "title_zh": "1970 年代：中型巴士作为路线巴士的起步时代",
+    "summary_short": "1970 年代后期，日本各厂商正式推出中型路线巴士，但普及缓慢，直到 1980 年代才成为主力。",
+    "summary_long": "1970 年代后期，日本各巴士制造商开始将中型巴士纳入路线巴士产品线。然而，在整个 1970 年代，中型路线巴士并未迅速普及，地方线路仍多采用大型巴士。真正以中型路线巴士为主力是在 1980 年代之后。中型巴士全长约 9 米（短款约 8 米），宽 2.3 米。四家厂商均推出了中型路线巴士，但车身设计各异：日野和日产柴油采用缩小版大型巴士造型，而五十铃和三菱则采用与大型巴士不同的原创设计。",
+    "highlights_zh": [
+      "1970 年代后期中型路线巴士正式推出",
+      "普及缓慢",
+      "四厂商车身设计分两类：缩小大型与原创"
+    ],
+    "entities": [
+      "日野",
+      "日产柴油 | Nissan Diesel",
+      "五十铃",
+      "三菱 | Mitsubishi",
+      "中型巴士"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17213859/00_nihonno_001_head.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17140242/1DX31712-1-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/26130546/LINE_ALBUM_20260603_260617_75-1024x768.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:15.289Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572496": {
+    "title_zh": "本田 ZR-V 2026 年改款：全面 e:HEV 化，新增 Google 车载系统",
+    "summary_short": "本田 ZR-V 2026 年改款取消纯燃油版，全系搭载 e:HEV 混动，并引入 Google 车载系统，定位更清晰。",
+    "summary_long": "本田 ZR-V 在 2026 年 3 月进行中期改款，最大变化是取消纯燃油车型，全系标配 2.0L 直喷阿特金森循环发动机与双电机组成的 e:HEV 混动系统，发动机最大功率 141 马力，电机 184 马力，兼顾日常驾驶的平顺与动力。燃油经济性方面，前驱版 WLTC 油耗 22.1km/L，四驱版 20.8km/L。车身尺寸维持 4570×1840×1620mm，定位介于 Vezel 与 CR-V 之间。高配车型（e:HEV Z、Black Style、Cross Touring）首次搭载 9 英寸 Honda CONNECT 显示屏，支持 Google Maps、Google Assistant 及 Google Play，提升智能互联体验。价格方面，入门版 e:HEV X 前驱 370.7 万日元，四驱 392.7 万日元；高配 e:HEV Z 前驱 430.76 万日元，四驱 452.76 万日元。此次改款使 ZR-V 从“可选燃油或混动”变为“纯混动 SUV”，产品定位更加明确。",
+    "highlights_zh": [
+      "取消燃油版",
+      "高配车型搭载 Google 车载系统",
+      "新增 Cross Touring 特别版",
+      "油耗 WLTC 22.1km/L（前驱）"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ZR-V",
+      "e:HEV",
+      "Honda CONNECT",
+      "Vezel"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13155338/IKE_317-71_1.jpg?v=1783925619",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13155338/IKE_317-71_1-600x400.jpg?v=1783925619",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22184155/00_syouene04_tikE_head-600x400.jpg?v=1782121316"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:16.273Z"
+  },
+  "https://response.jp/article/2026/07/15/414037.html": {
+    "title_zh": "JVC 建伍获 FTSE Russell ESG 评分最高评级，日本仅三家公司",
+    "summary_short": "JVC 建伍在 FTSE Russell ESG 评分中获最高 5.0 分，日本仅三家公司获此评级，并连续六年入选相关指数。",
+    "summary_long": "JVC 建伍于 7 月 14 日宣布，在伦敦证券交易所集团旗下 FTSE Russell 的 ESG 评分中获得最高评级 5.0 分（满分 5 分）。该公司已连续六年被选为 ESG 投资指数“FTSE JPX Blossom Japan Index”的成分股，并连续五年入选“FTSE JPX Blossom Japan Sector Relative Index”。在日本，仅有包括 JVC 建伍在内的三家公司获得此最高评分。",
+    "highlights_zh": [
+      "ESG 评分获 5.0 满分",
+      "日本仅三家公司获此评级",
+      "连续六年入选 FTSE JPX Blossom Ja…",
+      "连续五年入选 Sector Relative Ind…"
+    ],
+    "entities": [
+      "JVC 建伍",
+      "FTSE Russell",
+      "ESG 评分",
+      "FTSE JPX Blossom Japan Index"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227532.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227532.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:19.076Z"
+  },
+  "https://response.jp/article/2026/07/15/414038.html": {
+    "title_zh": "MINI Countryman 新增 S ALL4 SELECT 车型，售价 553 万日元",
+    "summary_short": "MINI Countryman 新增 S ALL4 SELECT 车型，搭载四驱与 48V 轻混系统，标配驾驶辅助与 AR 导航，售价 553 万日元。",
+    "summary_long": "MINI Countryman 新增 S ALL4 SELECT 车型，售价 553 万日元，预计 9 月后交付。该车搭载 ALL4 四驱系统和 48V 轻混系统，兼顾行驶稳定性与燃油经济性。标配驾驶辅助系统、AR 导航、无线充电等丰富配置，并提供 3 年免费保养服务。",
+    "highlights_zh": [
+      "新增 S ALL4 SELECT 车型",
+      "搭载 ALL4 四驱与 48V 轻混系统",
+      "标配驾驶辅助、AR 导航等丰富配置",
+      "提供 3 年免费保养服务"
+    ],
+    "entities": [
+      "MINI カントリーマン",
+      "S ALL4 SELECT",
+      "ALL4",
+      "48V 轻混系统",
+      "AR 导航"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227404.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227404.jpg",
+      "https://response.jp/imgs/fill2/2227407.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:19.832Z"
+  },
+  "https://response.jp/article/2026/07/15/414057.html": {
+    "title_zh": "Aprilia RS 660 Factory 限量版发布：配备翼片，功率提升至 105 马力，售价 198 万日元",
+    "summary_short": "Aprilia RS 660 Factory 限量版发布，配备全新空气动力学套件和Öhlins 悬架，功率提升至 105 马力，日本限量 12 台。",
+    "summary_long": "Aprilia 推出 RS 660 的限量版车型 Factory，基于标准版 RS 660 打造，配备 Öhlins 全可调悬架、全新设计的空气动力学套件（包括大型翼片和两个小型扰流件），并采用更大口径的节气门（52mm），使最大功率从 100 马力提升至 105 马力。电子系统新增起步控制（ALC），仪表升级为 5 英寸全彩 TFT。日本市场限量 12 台，售价 198 万日元，颜色仅提供 Shakedown Yellow。",
+    "highlights_zh": [
+      "限量 12 台",
+      "功率提升至 105 马力",
+      "配备Öhlins 悬架和全新翼片",
+      "新增起步控制功能"
+    ],
+    "entities": [
+      "アプリリア",
+      "RS 660 Factory",
+      "Öhlins",
+      "MotoGP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227386.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227386.jpg",
+      "https://response.jp/imgs/fill2/2227384.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:22.898Z"
+  },
+  "https://response.jp/article/2026/07/15/414051.html": {
+    "title_zh": "イクヨ拟对子公司增资 50 亿日元，加速美国上市准备",
+    "summary_short": "日本イクヨ公司计划对其全资子公司イクヨオートモーティブ增资最多 50 亿日元，以加速美国上市进程并推动新业务发展。",
+    "summary_long": "日本イクヨ公司宣布，为加速集团成长战略及推进美国上市准备，已开始具体讨论对其全资子公司イクヨオートモーティブ进行最多 50 亿日元的增资。该公司此前已公布基于 2025 年 7 月 30 日发布的成长战略，在强化现有汽车零部件业务的同时，积极挑战加密资产、稳定币、机器人及氢能等新业务领域。此举旨在提升全球市场影响力，并多样化未来融资手段。",
+    "highlights_zh": [
+      "增资上限 50 亿日元",
+      "子公司为汽车零部件企业",
+      "加速美国上市准备",
+      "拓展加密资产、机器人等新业务"
+    ],
+    "entities": [
+      "イクヨ",
+      "イクヨオートモーティブ",
+      "汽车零部件",
+      "美国上市",
+      "加密资产"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227581.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227581.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:23.392Z"
+  },
+  "https://response.jp/article/2026/07/15/414050.html": {
+    "title_zh": "イケウチ参展创业世界杯，板金涂装×AI 推动行业变革",
+    "summary_short": "日本板金涂装企业イケウチ将参展创业世界杯，展示 AI 与数据技术在传统蓝领产业中的应用，旨在提升生产力并重塑蓝领价值。",
+    "summary_long": "日本汽车板金涂装企业イケウチ将于 7 月 17 日参展由美国 Pegasus Tech Ventures 主办的“创业世界杯”展示会。该赛事是全球最大的创业路演竞赛之一，优胜企业将争夺约 1.5 亿日元的投资奖金。面对传统产业中严重的人手不足和老龄化问题，イケウチ将 AI 和数据活用作为经营核心，致力于提升劳动密集型蓝领领域的生产效率。同时，公司倡导重新评估“蓝领价值”，为工匠创造有尊严且富足的工作环境。展会上，イケウチ将介绍其“蓝领产业×技术”的独特实践，并与参观者交流。",
+    "highlights_zh": [
+      "イケウチ参展创业世界杯展示会",
+      "板金涂装×AI 应对人手不足",
+      "重新评估蓝领价值",
+      "展示蓝领产业与技术融合案例"
+    ],
+    "entities": [
+      "イケウチ",
+      "创业世界杯",
+      "Pegasus Tech Ventures",
+      "板金涂装",
+      "AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227579.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227579.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:26.957Z"
+  },
+  "https://bestcarweb.jp/feature/column/1560717": {
+    "title_zh": "日产埃尔格兰德 Autech 版历史回顾",
+    "summary_short": "回顾日产埃尔格兰德 Autech 改装版历史，从初代“恶人脸”镀铬格栅到独特个性，引领豪华 MPV 改装风潮。",
+    "summary_long": "2025 年日本移动出行展上，新一代日产埃尔格兰德发布在即。作为豪华 MPV 的鼻祖，Autech Japan 通过改装使其更具魅力。初代埃尔格兰德于 1997 年问世，Autech 推出的“Rider”版本以美式定制风格和镀铬格栅塑造出“恶人脸”形象，颠覆了人们对 MPV 的认知，满足了车主对个性的追求。第二代车型则进一步强化了主角气场。",
+    "highlights_zh": [
+      "2025 年日本移动出行展发布新一代日产埃尔格兰德",
+      "Autech Japan 通过改装提升埃尔格兰德魅力",
+      "初代“Rider”版本以镀铬格栅打造“恶人脸”风格",
+      "改装 MPV 满足车主对个性的追求"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "埃尔格兰德",
+      "Autech Japan",
+      "日本移动出行展"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25200542/00_s_elgrand_06_head.jpg?v=1782385543",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25200542/00_s_elgrand_06_head-600x400.jpg?v=1782385543",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22184155/00_syouene04_tikE_head-600x400.jpg?v=1782121316"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:27.433Z"
+  },
+  "https://response.jp/article/2026/07/15/414045.html": {
+    "title_zh": "夏普酒精检测管理服务“Three Zero”推出驾驶员新应用“Three Zero V2”",
+    "summary_short": "夏普发布酒精检测管理服务“Three Zero”的驾驶员新应用“Three Zero V2”，优化界面与操作流程。",
+    "summary_long": "夏普宣布面向企业提供酒精检测管理服务“Three Zero”的驾驶员新应用“Three Zero V2”。该服务通过智能手机应用，让企业统一管理驾驶员使用酒精检测仪确认的酒精含量等信息。新应用重新设计了界面和操作流程，首页可一目了然查看检测结果，并按酒精测量、驾驶日志等任务设置标签，方便快速访问常用功能。",
+    "highlights_zh": [
+      "夏普推出酒精检测管理新应用“Three Zero V…",
+      "新应用重新设计界面",
+      "按任务设置标签"
+    ],
+    "entities": [
+      "夏普",
+      "Three Zero"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227557.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227557.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:29.993Z"
+  },
+  "https://www.motor1.com/news/801517/ford-f-150-bluecruise-tracker/": {
+    "title_zh": "男子购买福特 F-150 后发现 BlueCruise 追踪器：这是隐私侵犯",
+    "summary_short": "男子购买福特 F-150 后发现驾驶员侧门有 BlueCruise 追踪器，引发隐私担忧。",
+    "summary_long": "一名男子购买了一辆新款福特 F-150，发现驾驶员侧门有一个带闪烁灯光的黑色小装置，这是福特 BlueCruise 驾驶辅助技术的一部分。他在社交媒体上发布视频询问，引发广泛关注，评论从幽默到批评不一。该装置用于监控驾驶员状态，但车主认为这侵犯隐私。",
+    "highlights_zh": [
+      "男子购买福特 F-150 后发现 BlueCruis…",
+      "装置位于驾驶员侧门",
+      "车主认为这是隐私侵犯",
+      "视频获得超过 210 万次观看"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "福特 F-150 | Ford F-150",
+      "BlueCruise",
+      "隐私"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAl3oG/s1/man-buys-ford-truck.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:30.852Z"
+  },
+  "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes": {
+    "title_zh": "德州警方花 450 万美元买四辆雪佛兰 Tahoe",
+    "summary_short": "德州警方斥资 450 万美元购买四辆配备以色列监控技术的雪佛兰 Tahoe，用于秘密追踪手机数据。",
+    "summary_long": "德州公共安全部以 450 万美元紧急采购四辆 2026 款雪佛兰 Tahoe，每辆成本超百万美元。这些车辆搭载以色列 Cognyte 公司的 FalcoNet 监控系统，可通过拦截手机与基站连接秘密追踪人员。采购文件显示，该部门以“保护人员安全”为由申请紧急采购，但未说明为何突然需要这项昂贵技术。该系统已在佛罗里达州使用。",
+    "highlights_zh": [
+      "四辆雪佛兰 Tahoe 总价 450 万美元",
+      "搭载以色列 FalcoNet 监控系统",
+      "通过拦截手机信号秘密追踪",
+      "德州警方以紧急采购为由获批"
+    ],
+    "entities": [
+      "德州公共安全部",
+      "雪佛兰 | Chevy",
+      "Tahoe",
+      "Cognyte",
+      "FalcoNet"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/police-tahoe.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Cognyte-1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Cognyte-2.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:33.100Z"
+  },
+  "https://www.motor1.com/news/801613/nilu27-v12-engine-sound/": {
+    "title_zh": "Nilu27 6.5 升 V12 发动机首次点火，1070 马力",
+    "summary_short": "Nilu27 超跑搭载 6.5 升 V12 发动机，由 Hartley Engines 打造，首次台架测试即达 1070 马力，红线转速 11000 转/分。",
+    "summary_long": "Nilu27 超跑搭载的 6.5 升自然吸气 V12 发动机首次点火成功，该发动机由新西兰 Hartley Engines 制造，在首次台架测试中即超过 1070 马力的目标，红线转速高达 11000 转/分。发动机将运往德国研发中心，与七速手动变速箱匹配，组装成首台驾驶原型车。",
+    "highlights_zh": [
+      "6.5 升 V12 自然吸气发动机",
+      "首次台架测试即达 1070 马力",
+      "红线转速 11000 转/分",
+      "由 Hartley Engines 打造"
+    ],
+    "entities": [
+      "Nilu27",
+      "Hartley Engines"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Mkgoyp/s1/the-6.5-liter-v12-built-for-the-nilu27-hypercar.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:33.914Z"
+  },
+  "https://www.motor1.com/features/801434/history-of-alfa-romeo-facts/": {
+    "title_zh": "关于阿尔法·罗密欧你可能不知道的五件事",
+    "summary_short": "从车标起源到航空发动机，阿尔法·罗密欧的历史充满鲜为人知的细节，揭示品牌更深层的魅力。",
+    "summary_long": "阿尔法·罗密欧不仅拥有标志性车型和丰富的赛车传统，其历史还充满了鲜为人知的细节。从车标的起源到最先进的技术成就，这家米兰品牌常常开创先河，在汽车行业留下深刻印记。其中一些故事只有最热忱的车迷才了解，另一些则几乎被时间遗忘。本文揭示了阿尔法·罗密欧鲜为人知的一面，包括其 1910 年最初版车标比今天更为简约，蛇形图案和图形元素更简单，并在 20 世纪经历了重大风格演变，最终成为全球公认的形象。车标的颜色、图形细节和外边框也多次变化，但始终保留了受米兰城和维斯康蒂家族启发的核心历史元素。",
+    "highlights_zh": [
+      "1910 年车标比今天更简约",
+      "车标灵感来自米兰和维斯康蒂家族",
+      "品牌历史上曾制造航空发动机",
+      "几乎手工打造的超级跑车"
+    ],
+    "entities": [
+      "阿尔法·罗密欧 | Alfa Romeo",
+      "米兰",
+      "维斯康蒂家族",
+      "车标",
+      "航空发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KNvL/s1/alfa-romeo.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:37.238Z"
+  },
+  "https://insideevs.com/news/801645/lucid-stock-crash-bankruptcy-rumor/": {
+    "title_zh": "Lucid 否认破产传闻，称报道“完全虚假”",
+    "summary_short": "Lucid 否认考虑破产的报道，称公司流动性充足，股价暴跌后已恢复。",
+    "summary_long": "Lucid 强烈否认一则关于其考虑破产保护的报道，该报道导致其股价一度暴跌近 56%，触发两次停牌。Lucid 通讯主管 Nick Twork 在 X 平台辟谣，称公司流动性足以支撑运营至明年，且未成立特别委员会探讨破产或私有化。报道称 AlixPartners 被聘请提供重组建议，但 Lucid 表示该咨询公司仅协助改善运营，未建议破产。",
+    "highlights_zh": [
+      "Lucid 股价一度暴跌 56%",
+      "公司否认考虑破产或私有化",
+      "称流动性充足",
+      "AlixPartners 仅协助运营改善"
+    ],
+    "entities": [
+      "Lucid",
+      "AlixPartners",
+      "破产",
+      "股价暴跌",
+      "辟谣"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N238g/s1/lucid-nvidia-preview.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:37.752Z"
+  },
+  "https://www.thedrive.com/news/torture-test-shows-how-a-cummins-diesel-survives-cold-starts-down-to-40-degrees": {
+    "title_zh": "极寒测试：康明斯柴油机在-40°C 下如何冷启动",
+    "summary_short": "Banks Power 将 2024 款 Ram HD 置于冷室，测试康明斯柴油机在-40°C 下的冷启动表现。",
+    "summary_long": "Banks Power 将一辆 2024 款 Ram 2500 HD 置于南加州的冷室中，测试其搭载的康明斯 6.7 升柴油机在-40°C 下的冷启动能力。测试前，车辆更换了全新 AGM 电池、Amsoil 5W-40 机油及防凝添加剂，并使用冬季柴油。测试对比了有无缸体加热器的情况，测量了冷却液温度、电压和启动转速等数据。",
+    "highlights_zh": [
+      "测试在-40°C 冷室中进行",
+      "使用全新 AGM 电池和冬季柴油",
+      "缸体加热器显著改善启动",
+      "对比有无加热器的启动表现"
+    ],
+    "entities": [
+      "康明斯 | Cummins",
+      "Ram",
+      "Banks Power",
+      "柴油机"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Cummins-Cold-Start-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-3.20.59-PM.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-11.50.40-AM.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:40.434Z"
+  },
+  "https://insideevs.com/news/801643/toyota-koji-sato-japan-rival-chinese-ev/": {
+    "title_zh": "丰田副董事长：日本车企必须联手对抗中国电动车",
+    "summary_short": "丰田副董事长佐藤浩二警告，若不变革日本车企将无法生存，提议标准化零部件以对抗中国电动车攻势。",
+    "summary_long": "丰田副董事长佐藤浩二在年度供应商会议上提出，日本车企应联合标准化汽车零部件，以降低成本、提升效率并促进创新，从而应对中国车企的崛起。他指出，除非改变，否则日本车企将无法生存。数据显示，中国品牌在欧洲市场销量首次超越日本品牌，凸显了紧迫性。",
+    "highlights_zh": [
+      "丰田副董事长警告日本车企面临生存危机",
+      "提议标准化零部件以降低成本",
+      "中国品牌欧洲销量首次超越日本品牌",
+      "日本车企需提升国际竞争力"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "佐藤浩二",
+      "中国电动车",
+      "日本车企",
+      "欧洲市场"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEN9p/s1/toyota-koji-sato.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:41.030Z"
+  },
+  "https://www.motor1.com/news/801516/driver-doesnt-press-ac-button/": {
+    "title_zh": "女子以为汽车空调坏了，结果只是没按 AC 按钮",
+    "summary_short": "女子以为汽车空调坏了，送去维修，结果发现只是没按 AC 按钮，引发对年轻一代基本汽车知识的讨论。",
+    "summary_long": "一名年轻女子因汽车空调不制冷而将车送到经销商处维修，结果发现原因只是她没有按下 AC 按钮，仅开启了风扇。这一事件在社交媒体上引发热议，视频获得超过 7.7 万次观看，评论者感叹年轻一代缺乏基本汽车常识。",
+    "highlights_zh": [
+      "女子因空调不制冷送修",
+      "维修发现未按 AC 按钮",
+      "视频引发社会热议"
+    ],
+    "entities": [
+      "空调",
+      "AC 按钮",
+      "汽车维修"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3y8VQ/s1/woman-s-a-c-goes-out..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:43.930Z"
+  },
+  "https://www.thedrive.com/news/new-grand-tour-featuring-throttle-house-and-tiktoks-favorite-trainspotter-drops-sept-4": {
+    "title_zh": "新《大巡游》9 月 4 日上线：Throttle House 与 TikTok 火车迷联手",
+    "summary_short": "新《大巡游》由 Throttle House 和 TikTok 火车迷 Francis Bourgeois 主持，首季 6 集 9 月 4 日上线，穿越安哥拉沙漠、挑战法律。",
+    "summary_long": "《大巡游》新一季确定由 Throttle House 的 Thomas Holland 和 James Engelsman，以及 TikTok 上知名的火车爱好者 Francis Bourgeois 共同主持。首季共 6 集，将于 9 月 4 日在 Prime Video 上线。节目延续原版风格，包含“驾驶赛道车穿越安哥拉沙漠”、“挑战国家法律体系”等冒险情节。三位主持人均对拍摄经历印象深刻，Bourgeois 回忆了与同伴在帐篷中忍受硫磺味屁味、外面豺狼徘徊的趣事。",
+    "highlights_zh": [
+      "新主持阵容：Throttle House + Fra…",
+      "首季 6 集 9 月 4 日 Prime Video…",
+      "冒险包括穿越安哥拉沙漠、挑战法律",
+      "延续原版“大冒险、烂车、欢笑”风格"
+    ],
+    "entities": [
+      "大巡游",
+      "Throttle House",
+      "Francis Bourgeois",
+      "Prime Video",
+      "安哥拉"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/the-grand-tour-2.png",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/police-tahoe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:45.027Z"
+  },
+  "https://insideevs.com/news/801624/sweden-batter-degradation-group-test/": {
+    "title_zh": "近万次电池衰减测试：两款电动车表现最佳",
+    "summary_short": "瑞典对近万辆电动车电池测试发现，起亚 e-Niro 和现代 Kona Electric 在行驶 6.2 万英里后仍保持 97%以上容量。",
+    "summary_long": "瑞典二手车平台 Carla 分析了 2022 年至 2026 年间近 1 万次电池健康测试，结果显示起亚 e-Niro（美国称 Niro Electric）以 97.25%的容量保持率夺冠，现代 Kona Electric 以 97.18%紧随其后。起亚 EV6、沃尔沃 XC40 Recharge 和极星 2 也表现优异，容量保持率均超 94%。研究强调，电池衰减受使用习惯、充电方式和车型影响，里程数并非唯一指标。",
+    "highlights_zh": [
+      "起亚 e-Niro 容量保持率 97.25%",
+      "现代 Kona Electric 保持 97.18%",
+      "起亚 EV6 保持 95.95%",
+      "沃尔沃 XC40 Recharge 保持 94.70…"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "现代 | Hyundai",
+      "沃尔沃",
+      "极星",
+      "电池衰减"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xqg1E2/s1/kia-niro-ev-2022-in-der-ersten-sitzprobe.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/vtdvx-ev-battery-health-over-time.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:47.657Z"
+  },
+  "https://www.motor1.com/news/801628/grand-tour-settembre-debutto/": {
+    "title_zh": "《The Grand Tour》第七季 9 月回归，三位新主持人接棒",
+    "summary_short": "亚马逊宣布《The Grand Tour》第七季将于 2026 年 9 月 4 日上线，六集一次性放出，由 Throttle House 双人组和火车迷 Francis Bourgeois 接替原主持。",
+    "summary_long": "亚马逊 Prime Video 宣布《The Grand Tour》第七季将于 2026 年 9 月 4 日回归，六集新内容一次性上线，覆盖 240 多个国家和地区。原 Top Gear 三人组退休后，新主持由 YouTube 频道 Throttle House 的 James Engelsman 和 Thomas Holland，以及知名火车迷 Francis Bourgeois 担任。新一季将包括穿越安哥拉沙漠、探索马来西亚汽车文化、加州性能车测试以及战斗机挑战等精彩内容。",
+    "highlights_zh": [
+      "第七季 9 月 4 日上线",
+      "新主持来自 Throttle House 和火车迷…",
+      "内容涵盖沙漠穿越、马来西亚汽车文化、战斗机挑战"
+    ],
+    "entities": [
+      "The Grand Tour",
+      "Amazon Prime Video",
+      "Throttle House",
+      "Francis Bourgeois",
+      "Top Gear"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YnqK/s1/the-grand-tour-new-hosts.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:48.796Z"
+  },
+  "https://insideevs.com/news/801631/slate-truck-price-destination-fee/": {
+    "title_zh": "Slate Truck 最终价格揭晓：含运费仅 26,400 美元",
+    "summary_short": "Slate 卡车最终含运费价格为 26,400 美元，运费 1,450 美元为美国皮卡最低，基础版无电动窗、收音机等配置。",
+    "summary_long": "Slate 卡车最终含运费价格为 26,400 美元，其中运费 1,450 美元，为美国皮卡中最低。基础版几乎不含任何现代标准配置，如电动窗、收音机、中控屏，甚至没有油漆，需通过第三方改装。用户可额外支付 5,000 美元选装 SUV 套件，或 7,000 美元选装溜背 SUV 车身。",
+    "highlights_zh": [
+      "最终含运费价 26",
+      "运费 1",
+      "基础版无电动窗、收音机、油漆",
+      "可选 SUV 套件（5"
+    ],
+    "entities": [
+      "Slate"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3y9M/s1/slate-auto-truck.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:50.929Z"
+  },
+  "https://www.motor1.com/news/801619/rezvani-dune-off-road-supercar/": {
+    "title_zh": "Rezvani 推出狂野 V10 越野超级跑车 Dune",
+    "summary_short": "Rezvani 基于兰博基尼 Huracan Sterrato 打造 V10 越野超跑 Dune，机械增压后马力达 800 匹，定金仅需 1500 美元。",
+    "summary_long": "Rezvani Motors 预告了其最新项目 Dune，一款机械增压中置 V10 越野超级跑车，采用碳纤维车身。该车很可能基于兰博基尼 Huracan Sterrato 打造，原厂 5.2 升 V10 发动机输出 601 马力，经 Rezvani 加装机械增压后提升至 800 马力。Rezvani 仅发布了少量预告图，显示头灯和尾灯完全不同于原厂 Huracan，采用两个中置圆形灯组搭配水平灯条。新车定金仅需 1500 美元，但最终售价可能高达 50 万美元。",
+    "highlights_zh": [
+      "基于 Huracan Sterrato 打造",
+      "机械增压 V10 输出 800 马力",
+      "碳纤维车身",
+      "定金 1500 美元"
+    ],
+    "entities": [
+      "Rezvani",
+      "Dune",
+      "兰博基尼 Huracan Sterrato",
+      "V10 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/RqkwZ9/s1/rezvani-dune-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:53.007Z"
+  },
+  "https://www.thedrive.com/news/california-dmv-threatens-to-cancel-drivers-licenses-file-charges-amid-massive-cheating-scandal": {
+    "title_zh": "加州 DMV 因大规模作弊丑闻威胁吊销驾照并提起指控",
+    "summary_short": "加州 DMV 发现约 1.1 万名居民驾照笔试存在作弊嫌疑，要求重考，否则吊销驾照。",
+    "summary_long": "加州机动车辆管理局（DMV）在例行监控中发现约 1.1 万名居民的驾照笔试成绩存在异常，疑似大规模作弊。DMV 已向相关驾驶员发出通知，要求其在规定时间内重新参加笔试，否则将面临驾照吊销及可能的刑事指控。DMV 未明确作弊手段，但暗示涉及数字化作弊方法。",
+    "highlights_zh": [
+      "约 1.1 万名居民被要求重考驾照笔试",
+      "作弊手段疑似涉及数字化方式",
+      "不重考将面临驾照吊销及刑事指控"
+    ],
+    "entities": [
+      "加州机动车辆管理局 | California DMV"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-22471017351.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/image_6cd2c1.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:54.237Z"
+  },
+  "https://www.motor1.com/news/801615/range-extended-methanol-engine-axial-flux-horse/": {
+    "title_zh": "甲醇发动机为电动车增程，Horse Powertrain 发布 D20 系统",
+    "summary_short": "Horse Powertrain 推出甲醇燃料增程器，轴向磁通电机更紧凑，功率提升 63%，燃料转化效率 47%。",
+    "summary_long": "Horse Powertrain（雷诺与吉利合资）发布 D20 甲醇增程器，专为纯电动车设计，作为发电机使用。其轴向磁通电机比传统径向磁通电机短 46%，功率高出 63%，总重 375 磅，可输出 141 马力。系统燃料转化效率达 47%，仅需 5.2 加仑甲醇即可为 40kWh 电池充满电。采用高能点火系统实现超稀薄燃烧，满足欧中排放法规。电机直接安装在发动机曲轴上，结构紧凑。",
+    "highlights_zh": [
+      "甲醇燃料增程器",
+      "轴向磁通电机比径向电机短 46%",
+      "燃料转化效率 47%",
+      "满足欧洲和中国排放法规"
+    ],
+    "entities": [
+      "Horse Powertrain",
+      "甲醇",
+      "轴向磁通电机",
+      "增程器",
+      "D20 Methanol"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3XRW/s1/horse-powertrain-d20-methanol-range-extender.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:57.021Z"
+  },
+  "https://insideevs.com/news/801592/tikotk-bytedance-autonomous-car-game/": {
+    "title_zh": "TikTok 母公司字节跳动或进军自动驾驶领域",
+    "summary_short": "字节跳动据报正探索进入自动驾驶领域，其 AI 研发团队 Seed 的技术与无人驾驶高度契合。",
+    "summary_long": "据 36 氪援引多位匿名内部人士消息，TikTok 母公司字节跳动正探索进入自动驾驶领域，重点方向为“无人物流”。该项目由字节跳动的研发团队 Seed 负责，该团队专注于 AI 工具开发，包括视觉与语音模型、世界模型及下一代交互技术，这些技术与自动驾驶汽车的环境感知、预测和规划需求高度重叠。此外，字节跳动已与自动驾驶领域的其他供应商进行商业讨论，并向行业顶尖人才发出工作邀请。不过，字节跳动迅速否认了这些传闻。",
+    "highlights_zh": [
+      "字节跳动据报探索自动驾驶领域",
+      "重点方向为无人物流",
+      "由 AI 研发团队 Seed 负责",
+      "已与供应商洽谈并招募人才"
+    ],
+    "entities": [
+      "字节跳动",
+      "TikTok",
+      "Seed",
+      "自动驾驶",
+      "无人物流"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAl34j/s1/tiktok-bytedance-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:31:57.804Z"
+  },
+  "https://www.thedrive.com/news/how-four-random-lando-fans-showed-me-what-real-f1-fandom-at-silverstone-is-all-about": {
+    "title_zh": "四位兰多车迷让我看到银石真正的 F1 粉丝文化",
+    "summary_short": "作者在银石赛道偶遇四位兰多·诺里斯车迷，从误解到共度欢乐夜晚，展现了 F1 围场外真实、纯粹的粉丝文化。",
+    "summary_long": "F1 常被贴上势利、阶级分化的标签，围场内充斥着奢侈品与直升机接送，但围场外的看台和公共区域才是真正氛围所在。作者在银石赛道首次体验时，偶遇四位自称“兰多粉丝”的车迷，起初误以为他们指的是兰多·诺里斯，后来发现他们其实是冲着兰多·诺里斯来的——尽管其中一人穿着马克斯·维斯塔潘的 T 恤。这场误会演变成了一夜的欢笑和一段跨洋友谊，让作者深刻体会到 F1 粉丝文化的真实与热情。",
+    "highlights_zh": [
+      "围场内外氛围截然不同",
+      "偶遇四位自称兰多粉丝的车迷",
+      "误会与欢笑中建立友谊",
+      "展现真实 F1 粉丝文化"
+    ],
+    "entities": [
+      "银石 | Silverstone",
+      "兰多·诺里斯",
+      "马克斯·维斯塔潘",
+      "F1 粉丝文化"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-silverstone-adventure-jerry-perez-7.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-silverstone-adventure-jerry-perez-2.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-silverstone-adventure-jerry-perez-18.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:32:01.432Z"
+  },
+  "https://www.motor1.com/features/801599/bmw-x5-vs-audi-q7-comparison/": {
+    "title_zh": "奥迪 Q7 vs 宝马 X5：哪款豪华 SUV 更值得买？",
+    "summary_short": "全新一代宝马 X5 与奥迪 Q7 正面交锋，设计、技术、动力全面对比，谁更胜一筹？",
+    "summary_long": "宝马 X5 和奥迪 Q7 迎来全新换代，两者在设计、技术和动力系统上均有重大更新。宝马 X5 采用 Neue Klasse 设计语言，提供汽油、柴油、插电混动、纯电甚至氢燃料等多种动力选项；奥迪 Q7 则延续传统风格，主打优雅造型、宽敞座舱和双涡轮 V6 发动机，并提供七座布局。两款豪华 SUV 风格迥异，但目标客户高度重合。",
+    "highlights_zh": [
+      "宝马 X5 采用 Neue Klasse 设计语言",
+      "奥迪 Q7 提供七座布局",
+      "X5 动力选项涵盖燃油、混动、纯电及氢燃料",
+      "Q7 主打双涡轮 V6 发动机"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "宝马 | BMW",
+      "奥迪 Q7 | Audi Q7",
+      "宝马 X5 | BMW X5",
+      "Neue Klasse"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZkGA/s1/audi-q7-vs-bmw-x5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:32:01.750Z"
+  },
+  "https://www.thedrive.com/news/how-much-is-half-a-mercedes-g-wagen-worth-were-about-to-find-out": {
+    "title_zh": "半辆奔驰 G-Wagen 值多少钱？答案即将揭晓",
+    "summary_short": "一辆 2024 款奔驰 G63 被拆解至只剩骨架和部分零件，在 Copart 拍卖，出价已超 2.2 万美元。",
+    "summary_long": "一辆 2024 款奔驰 G63 在 Copart 拍卖，车辆被严重拆解，仅剩部分车身、双涡轮增压 V8 发动机、前轴和内饰。拍卖尚未达到保留价，但出价已超过 2.2 万美元，接近单独购买低里程 V8 发动机的价格。最终成交价将揭示半辆 G63 的价值。",
+    "highlights_zh": [
+      "2024 款奔驰 G63 被拆解至只剩骨架",
+      "保留双涡轮 V8、前轴和部分内饰",
+      "拍卖出价已超 2.2 万美元",
+      "最终成交价将揭示半辆 G63 的价值"
+    ],
+    "entities": [
+      "奔驰 | Mercedes-Benz",
+      "G63",
+      "Copart",
+      "V8 发动机"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/g63-auc.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/54250516_Image_2.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/54250516_Image_4.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:32:04.846Z"
+  },
+  "https://insideevs.com/news/801603/walmart-q2-ev-fast-charging-growth/": {
+    "title_zh": "沃尔玛 Q2 充电桩部署激增，仅次于特斯拉",
+    "summary_short": "沃尔玛 Q2 新增 368 个直流快充端口，超越 Electrify America 等网络，成为美国第二大充电运营商。",
+    "summary_long": "尽管美国电动汽车销量增速放缓，但快充网络仍在快速扩张。沃尔玛在第二季度新增 368 个直流快充端口，仅次于特斯拉的 1185 个，超过 ChargePoint（333 个）、Red E（315 个）和 Electrify America（202 个），占全美新增公共快充站的 8.4%。沃尔玛拥有超过 3500 家超级中心，自带停车场和无需租赁土地的结构性优势，使其充电网络扩张潜力巨大。",
+    "highlights_zh": [
+      "Q2 新增 368 个直流快充端口",
+      "超越 Electrify America 等老牌运营…",
+      "占全美新增快充站 8.4%",
+      "3500+超级中心提供场地优势"
+    ],
+    "entities": [
+      "沃尔玛 | Walmart",
+      "特斯拉 | Tesla",
+      "ChargePoint",
+      "Electrify America",
+      "直流快充"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnzrKy/s1/walmart-branded-abb-e-mobility-a400-dc-fast-chargers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-15T03:32:05.437Z"
   }
 }
