@@ -1,134 +1,134 @@
 {
   "workflow": {
-    "generated_at": "2026-07-15T15:02:37.082Z",
+    "generated_at": "2026-07-16T03:34:10.160Z",
     "articles_in_feed": 400,
     "deepseek_translated_before_run": 362,
     "deepseek_untranslated_before_run": 38,
-    "newly_fetched_articles": 38,
+    "newly_fetched_articles": 39,
     "newly_fetched_untranslated": 38,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
     "translation_queue_count": 38,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.15",
-        "title": "Dodge Gives You 5,500 Reasons To Buy A New Charger Sixpack",
-        "url": "https://www.motor1.com/news/801639/dodge-charger-sixpack-pricing/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.15",
-        "title": "Cheap Dash Cams Deals and More Car Accessories on Sale Right Now",
-        "url": "https://www.thedrive.com/news/cheap-dash-cams-deals-and-more-car-accessories-on-sale-right-now"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.15",
-        "title": "Alpine Swears It Isn't Cancelling Its EV Sports Car",
-        "url": "https://www.motor1.com/news/801502/alpine-ev-sports-car-not-cancelled/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.15",
-        "title": "Volvo Reportedly Eyeing Wagon Comeback Right After Killing Off V60: TDS",
-        "url": "https://www.thedrive.com/news/volvo-reportedly-eyeing-wagon-comeback-right-after-killing-off-v60-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.15",
-        "title": "'We'd Rebody The Whole Car:' Hennessey Says Anything Is Possible With Its New One-Off Division",
-        "url": "https://www.motor1.com/news/801649/hennessey-bespoke-division-interview-exclusive/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.15",
-        "title": "GMC Is Making a New Yellow Hummer EV to Honor the Old H2",
-        "url": "https://www.thedrive.com/news/gmc-is-making-a-new-yellow-hummer-ev-to-honor-the-old-h2"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.15",
-        "title": "LFP Wins This Tesla Model 3 Battery Degradation Comparison",
-        "url": "https://insideevs.com/news/801724/tesla-model-3-lpf-degradation/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.15",
-        "title": "Volkswagen’s Cheapest New EV SUV Has 265 Miles Of Range",
-        "url": "https://insideevs.com/news/801721/volkswagen-id-cross-cheapest-ev-suv/"
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "［ロボカップ世界大会2026］競技が育てる！ フィジカルAI時代の日本への提言…現地レポート後編",
+        "url": "https://response.jp/article/2026/07/16/414104.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "［ロボカップ世界大会2026］ヒューマノイドとフィジカルAIが変える競技…現地レポート前編",
-        "url": "https://response.jp/article/2026/07/15/414089.html"
+        "time": "2026.7.16",
+        "title": "「MINI UNITED」日本初開催、山梨・サンメドウズ清里で10月3日に…新型車もお披露目へ",
+        "url": "https://response.jp/article/2026/07/16/414101.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "「ランサーを見せてほしい」とスバルの開発者がやってきた!? 宿命のライバル同士が築きあげた日本が誇る本当に強いクルマとは",
-        "url": "https://bestcarweb.jp/news/motorsport/1579315"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "『頭文字D』ハチロクが“漫画風”ミニカーに!? 特別塗装のキーチェーン登場",
-        "url": "https://response.jp/article/2026/07/15/414086.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "【アウディ Q3スポーツバック 新型試乗】このサイズでも欧州では「Aセグメント」！ 電気に頼らないICEの潔い走り…中村孝仁",
-        "url": "https://response.jp/article/2026/07/15/414085.html"
+        "time": "2026.7.16",
+        "title": "【へっぽこバスガイドの珍道中】旅が終わってからがお仕事ですよ～！ 車庫に戻る回送とその後に何が待っている？",
+        "url": "https://bestcarweb.jp/busmagazine/1562894"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "200万円級でも高くない!? スペーシアギアは標準装備を見たら納得のアウトドア軽だった",
-        "url": "https://bestcarweb.jp/news/1565819"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.15",
-        "title": "2027 Ferrari 849 Testarossa Spider First-Drive Review: 1,000 HP Is Better Without a Roof",
-        "url": "https://www.thedrive.com/car-reviews/2027-ferrari-849-testarossa-spider-review"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.15",
-        "title": "America Lost Over 111,000 Jobs Due To Trump's Clean Energy Pullback",
-        "url": "https://insideevs.com/news/801646/trump-rollbacks-end-energy-programs/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "EVのJ-クレジット化プロジェクト「EVラボ」、三重県松阪市が自治体第1号に…三井住友海上とバイウィルが推進",
-        "url": "https://response.jp/article/2026/07/15/414075.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "HERE WeGoとCariqaが連携、EV充電の検索から決済まで一体化",
-        "url": "https://response.jp/article/2026/07/15/414082.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.15",
-        "title": "Man Wants To Buy A Ford Mustang. Then He Goes To Costco For One Specific Reason: 'Can I Charge It To My Costco Card?'",
-        "url": "https://www.motor1.com/news/801715/costco-auto-program-ford-mustang-gt/"
+        "time": "2026.7.16",
+        "title": "【最速累計300万台突破】絶対王者N-BOXがマイナーチェンジ！ CUSTOMはなぜ「顔」を変えたのか",
+        "url": "https://bestcarweb.jp/newcar/1581189"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.15",
-        "title": "アクアの「スムーズストップ」って何？ 燃費だけじゃない“止まり方の上質感”をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1570453"
+        "time": "2026.7.16",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第810回",
+        "url": "https://bestcarweb.jp/feature/column/1562979"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.16",
+        "title": "【速報】新型エルグランドついに発売!! 約16年ぶり全面刷新で価格は689万円から…第3世代e-POWER×e-4ORCEの全貌",
+        "url": "https://bestcarweb.jp/newcar/1581226"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.16",
+        "title": "1年または1万5000kmって長くない？ おじさん世代だったら3カ月3000kmだろっ！ メーカー推奨のエンジンオイルの交換をサボったらどうなる？",
+        "url": "https://bestcarweb.jp/feature/column/1576879"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.15",
-        "title": "アルファロメオ、新型CセグメントSUVを予告…デビューは2027年",
-        "url": "https://response.jp/article/2026/07/15/414064.html"
+        "time": "2026.7.16",
+        "title": "BMW『4シリーズ グランクーペ』、黒アクセントの「Edition Shadow」追加…800万円から",
+        "url": "https://response.jp/article/2026/07/16/414097.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "HERE、ジャガー・ランドローバーとの協業を拡大…電動車オーナーの充電体験向上へ",
+        "url": "https://response.jp/article/2026/07/16/414099.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "KyndrylとAptiv、戦略的協業を発表…ミッションクリティカル環境の革新加速へ",
+        "url": "https://response.jp/article/2026/07/16/414102.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "STマイクロとFocalPoint、GNSS測位の信頼性向上へ…ADAS・V2X機能強化を支援",
+        "url": "https://response.jp/article/2026/07/16/414100.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "SUPER FORMULA夏祭り2026、花火・縁日・グリッドパーティーも…富士スピードウェイで7月17‐19日開催",
+        "url": "https://response.jp/article/2026/07/16/414115.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "VW、新型コンパクト電動SUV『ID. Cross』発表…航続最大427km",
+        "url": "https://response.jp/article/2026/07/16/414113.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.16",
+        "title": "アウトランダーにe-POWER版!? 国内販売もあり得る!? だったらお手頃価格切望",
+        "url": "https://bestcarweb.jp/feature/column/1577143"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "ニコニコレンタカー、GMO顧客満足度ランキング2026でレンタカー部門総合No.1を獲得",
+        "url": "https://response.jp/article/2026/07/16/414107.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.16",
+        "title": "ハリアーはモデル末期でもまだ買いか？ 熟成SUVだからこそ光る魅力とは",
+        "url": "https://bestcarweb.jp/feature/column/1539420"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "フィアット、新型SUV『グリズリー』公開…EVやマイルドハイブリッド設定",
+        "url": "https://response.jp/article/2026/07/16/414095.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.16",
+        "title": "ブリヂストンのTB用スタッドレスタイヤに新商品「W909」が登場！ 摩耗性能を大幅に向上し2回リトレッドにも対応！",
+        "url": "https://bestcarweb.jp/fullload/1579688"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.16",
+        "title": "ヘッドライトの黄ばみは車検が通らないってほんと？ 8月1日からロービーム計測に変更！ 黄ばみを取るにはどうすればいい？",
+        "url": "https://bestcarweb.jp/news/entame/1574929"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.16",
+        "title": "マツダ『ロードスター』20代購入が6年で2倍、発売11年目で販売ピーク",
+        "url": "https://response.jp/article/2026/07/16/414109.html"
       }
     ]
   },
@@ -138,8 +138,8 @@
     "scoped_articles": 38,
     "queued_articles": 38,
     "processed": 38,
-    "started_at": "2026-07-15T15:02:37.406Z",
-    "finished_at": "2026-07-15T15:04:00.523Z",
+    "started_at": "2026-07-16T03:34:10.481Z",
+    "finished_at": "2026-07-16T03:35:24.693Z",
     "success": true,
     "error": ""
   }

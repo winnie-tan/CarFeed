@@ -77115,5 +77115,882 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-15T15:04:00.506Z"
+  },
+  "https://response.jp/article/2026/07/16/414101.html": {
+    "title_zh": "MINI UNITED 首次登陆日本，10 月 3 日山梨清里举办",
+    "summary_short": "MINI 全球盛会 MINI UNITED 首次在日本举办，将于 10 月 3 日在山梨县清里举行，届时将展示新车。",
+    "summary_long": "宝马集团宣布，MINI 品牌的全球盛会“MINI UNITED”将于 2026 年 10 月 3 日在日本山梨县北杜市的サンメドウズ清里首次举办，同时与日本最大规模的 MINI 粉丝聚会“MINI LIVE!”联合举行。活动内容包括 MINI 车主聚会、改装车竞赛、新车展示以及音乐演出等。门票及详细内容将于 2026 年 8 月上旬在特设网站公布。",
+    "highlights_zh": [
+      "MINI 全球盛会首次登陆日本",
+      "10 月 3 日山梨清里举办",
+      "与 MINI LIVE",
+      "将展示全新车型"
+    ],
+    "entities": [
+      "MINI",
+      "MINI UNITED",
+      "MINI LIVE!",
+      "宝马 | BMW"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227746.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227746.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:14.658Z"
+  },
+  "https://response.jp/article/2026/07/16/414104.html": {
+    "title_zh": "RoboCup 2026 仁川大会：竞技孕育技术与人才，对日本的物理 AI 时代建言",
+    "summary_short": "RoboCup 2026 仁川大会后篇：竞技如何培养技术与人才，韩国仁川的产业培育举措，以及对日本在物理 AI 时代的建议。",
+    "summary_long": "RoboCup 2026 世界大会在韩国仁川举行，约 40 国 3000 人参与。作为日本起源的全球机器人竞赛，商用高能力人形机器人的出现正改变大会面貌。后篇聚焦竞技如何培养技术与人才，以及仁川的产业培育举措。竞技不仅是比赛，更是大规模实证实验场，迫使机器人在不可预测的真实条件下运行，如光照变化、对手意外动作、碰撞、跌倒、通信不稳定等。人形机器人足球需要同时整合双足行走、跌倒恢复、图像识别、自我定位、团队协作、策略变更、实时控制等技术，在有限时间内可靠运行。",
+    "highlights_zh": [
+      "RoboCup 2026 仁川大会约 40 国 30…",
+      "竞技是培养技术与人才的大规模实证实验场",
+      "人形机器人足球需整合多项技术实时运行",
+      "韩国仁川推进产业培育举措"
+    ],
+    "entities": [
+      "RoboCup",
+      "仁川",
+      "アールティ",
+      "中川友紀子",
+      "物理 AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227861.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227862.jpg",
+      "https://response.jp/imgs/zoom1/2227785.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:15.574Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1562894": {
+    "title_zh": "巴士导游的幕后工作：送客后返回车库的旅程",
+    "summary_short": "巴士导游在游客下车后仍需完成回送车辆、清洁整理等幕后工作，本文揭秘这一过程。",
+    "summary_long": "巴士导游的工作并非在游客下车后结束。送别乘客后，导游需随巴士返回车库，途中可能还需处理车辆清洁、物品整理等事务。本文通过一位现役导游的亲身经历，展现了从告别乘客到车辆入库的全过程，包括情感上的不舍与职业责任感。",
+    "highlights_zh": [
+      "游客下车后导游工作仍在继续",
+      "回送车辆是重要环节",
+      "告别乘客常伴随情感波动",
+      "幕后工作体现职业精神"
+    ],
+    "entities": [
+      "巴士导游",
+      "回送",
+      "车库",
+      "职业责任感"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/03145948/S__16498705_0-1024x768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17213859/00_nihonno_001_head.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17140242/1DX31712-1-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:18.261Z"
+  },
+  "https://bestcarweb.jp/newcar/1581189": {
+    "title_zh": "绝对王者 N-BOX 小改款：CUSTOM 为何换脸",
+    "summary_short": "本田 N-BOX 累计销量突破 300 万辆，创下最快纪录。2026 年 7 月小改款，CUSTOM 前脸焕新，新增 JOY BLACK STYLE 特别版。",
+    "summary_long": "本田 N-BOX 于 2026 年 7 月 17 日迎来小改款，距第三代车型上市仅 2 年 9 个月。主力车型 N-BOX CUSTOM 采用全新前脸设计，N-BOX JOY 新增黑色特别版“BLACK STYLE”，时尚版更新双色车顶配色。N-BOX 系列累计销量于 2026 年 4 月突破 300 万辆，用时 14 年 4 个月，成为本田四轮车型中最快达成该纪录的车型。同时，N-BOX 已连续 11 年位居轻型车销量榜首，连续 5 年位居国内新车销量（含注册车）第一。",
+    "highlights_zh": [
+      "累计销量突破 300 万辆",
+      "CUSTOM 前脸焕新",
+      "连续 11 年轻型车销量第一",
+      "第三代车型安全获 JNCAP 五星奖"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "N-BOX",
+      "N-BOX CUSTOM",
+      "N-BOX JOY",
+      "Honda SENSING"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15224422/ba4484efc2ac63799284ca5685cfccd8.jpg?v=1784123063",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15224422/ba4484efc2ac63799284ca5685cfccd8-600x359.jpg?v=1784123063",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13150037/s-A35_2559-600x400.jpg?v=1783922438"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:19.859Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562979": {
+    "title_zh": "车名猜谜：这款名车/珍车你知道吗？第 810 回",
+    "summary_short": "斯巴鲁 360 以“瓢虫”昵称闻名，1958 年诞生，小巧车身可载 4 人，推动私家车普及。",
+    "summary_long": "本文为车名猜谜系列第 810 回，聚焦斯巴鲁 360。该车 1958 年问世，因独特造型获“瓢虫”爱称，车长不足 3 米却可容纳 4 名成人，搭载 356cc 水冷直列 2 缸发动机，最大功率 16 马力，极速 83km/h，为日本私家车普及做出贡献。",
+    "highlights_zh": [
+      "斯巴鲁 360 昵称“瓢虫”",
+      "1958 年诞生",
+      "可载 4 人",
+      "356cc 引擎"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "斯巴鲁 360 | Subaru 360"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2022/02/28133842/0034.jpg?v=1646023124",
+      "https://img.bestcarweb.jp/wp-content/uploads/2022/02/28133842/0034-600x400.jpg?v=1646023124",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29141142/main_am199301_tdyp03_01001H-600x400.jpg?v=1782709903"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:21.580Z"
+  },
+  "https://bestcarweb.jp/newcar/1581226": {
+    "title_zh": "日产全新 Elgrand 发布：16 年首次换代，搭载 e-POWER 与 e-4ORCE",
+    "summary_short": "日产时隔 16 年推出全新 Elgrand，全系搭载第三代 e-POWER 混动系统与 e-4ORCE 四驱技术，起售价 689.7 万日元。",
+    "summary_long": "日产于 2026 年 7 月 16 日发布全新一代 Elgrand，这是自 2010 年 E52 型以来约 16 年的首次全面换代。新车全系搭载第三代 e-POWER 混动系统和 e-4ORCE 电动四驱技术，起售价 689.7 万日元。设计灵感源自“磁悬浮列车”，融合速度感与威严姿态。内饰采用 14.3 英寸大屏、64 色氛围灯及全席零重力座椅，营造豪华私人休息室氛围。动力方面，高效 1.5T 发动机与集成式电驱单元结合，提升静谧性与燃油经济性。",
+    "highlights_zh": [
+      "16 年来首次全面换代",
+      "全系搭载第三代 e-POWER 与 e-4ORCE",
+      "起售价 689.7 万日元",
+      "内饰配备 14.3 英寸大屏与全席零重力座椅"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "エルグランド",
+      "e-POWER",
+      "e-4ORCE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16102216/PXL_20260716_010433385.jpg?v=1784164937",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16102216/PXL_20260716_010433385-600x452.jpg?v=1784164937",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25200542/00_s_elgrand_06_head-600x400.jpg?v=1782385543"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:24.068Z"
+  },
+  "https://bestcarweb.jp/feature/column/1576879": {
+    "title_zh": "1 年或 1.5 万公里算长吗？大叔世代可是 3 个月 3000 公里！忽视厂家建议的机油更换会怎样？",
+    "summary_short": "现代汽车机油更换周期延长至 1.5 万公里或 1 年，但发动机负荷增加，旧标准仍有效吗？",
+    "summary_long": "现代汽车机油更换周期通常为 1.5 万公里或 1 年，但高性能发动机和混动系统对机油要求更高，实际负担可能增加。机油需具备润滑、清洁、防锈、密封和冷却等多重功能，通过基础油和添加剂实现。忽视更换可能导致油泥积聚、磨损加剧，甚至引发烧瓦等严重故障。",
+    "highlights_zh": [
+      "现代车机油更换周期约 1.5 万公里或 1 年",
+      "发动机负荷增加",
+      "机油需具备润滑、清洁、防锈、密封、冷却功能",
+      "忽视更换可能导致油泥、磨损甚至烧瓦"
+    ],
+    "entities": [
+      "发动机机油",
+      "更换周期",
+      "润滑",
+      "添加剂",
+      "烧瓦"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10181231/e62acc88d28d8bfb239367bac9074d02.jpg?v=1783674752",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10181231/e62acc88d28d8bfb239367bac9074d02-600x450.jpg?v=1783674752",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161905/AD4I0706-600x400.jpg?v=1781075946"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:25.550Z"
+  },
+  "https://response.jp/article/2026/07/16/414097.html": {
+    "title_zh": "宝马 4 系 Gran Coupe 新增黑色套件 Edition Shadow，起价 800 万日元",
+    "summary_short": "宝马 4 系 Gran Coupe 推出 Edition Shadow 特别版，基于 M 运动套件，采用黑色外观细节，标配驾驶辅助与数字钥匙，起价 800 万日元。",
+    "summary_long": "宝马为 4 系 Gran Coupe 新增 Edition Shadow 特别版，基于 M 运动套件打造，外观采用黑色高光阴影线、黑色格栅、黑色后视镜盖及 19 英寸 M 轻合金轮毂，搭配自适应 LED 大灯和激光尾灯，呈现精悍风格。配置方面，标配带脱手功能的拥堵辅助系统、BMW 数字钥匙、Apple CarPlay 及语音控制等。日本市场售价 800 万日元起，预计 9 月后交付。",
+    "highlights_zh": [
+      "基于 M 运动套件",
+      "标配脱手拥堵辅助与数字钥匙",
+      "19 英寸 M 轻合金轮毂",
+      "日本起价 800 万日元"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "4 系 Gran Coupe | 4 Series Gran Coupe",
+      "Edition Shadow"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227740.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227740.jpg",
+      "https://response.jp/imgs/fill2/2227741.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:28.276Z"
+  },
+  "https://response.jp/article/2026/07/16/414099.html": {
+    "title_zh": "HERE 与捷豹路虎扩大合作，提升电动车充电体验",
+    "summary_short": "HERE 与捷豹路虎扩大合作，整合充电点功能，实时显示兼容充电站，提升电动车充电体验。",
+    "summary_long": "HERE Technologies 与捷豹路虎（JLR）扩大合作，旨在改善插电混动和纯电动车车主的充电体验。HERE 的 EV 充电点功能将与 eMSP 集成，在车载屏幕上实时显示兼容的充电站，消除充电不确定性。此前 HERE 已在车载地图上提供智能 EV 路线规划功能。",
+    "highlights_zh": [
+      "HERE 与 JLR 扩大合作",
+      "整合充电点功能",
+      "实时显示兼容充电站",
+      "消除充电不确定性"
+    ],
+    "entities": [
+      "HERE Technologies",
+      "捷豹路虎",
+      "插电混动",
+      "纯电动车",
+      "充电点"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227769.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227769.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:28.784Z"
+  },
+  "https://response.jp/article/2026/07/16/414102.html": {
+    "title_zh": "Kyndryl 与 Aptiv 达成战略合作，加速关键任务环境创新",
+    "summary_short": "Kyndryl 与 Aptiv 宣布战略合作，整合 Wind River 技术，加速全球关键任务环境创新。",
+    "summary_long": "Kyndryl 与 Aptiv 宣布战略合作，旨在加速全球关键任务环境中的客户创新。Aptiv 选择 Kyndryl 作为合作伙伴，委托其提供咨询、实施和托管服务，以现代化客户体验和产品工程。Kyndryl 将把 Aptiv 旗下 Wind River 的软件（包括 Wind River 云平台的私有/主权云功能、eLxr Pro、VxWorks 和 Helix 虚拟化平台）整合到自身解决方案组合中。",
+    "highlights_zh": [
+      "Kyndryl 与 Aptiv 达成战略合作",
+      "整合 Wind River 软件技术",
+      "加速关键任务环境创新",
+      "提供咨询、实施和托管服务"
+    ],
+    "entities": [
+      "Kyndryl",
+      "Aptiv",
+      "Wind River",
+      "关键任务环境"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227855.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227855.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:31.620Z"
+  },
+  "https://response.jp/article/2026/07/16/414100.html": {
+    "title_zh": "ST 与 FocalPoint 合作提升 GNSS 定位可靠性，助力 ADAS/V2X",
+    "summary_short": "STMicroelectronics 与 FocalPoint 达成商业合作，结合 S-GNSS Auto 软件与 Teseo 硬件，提升城市峡谷等复杂环境下的 GNSS 定位可靠性，支持 ADAS 和 V2X 功能。",
+    "summary_long": "英国 GNSS 软件公司 FocalPoint 与半导体巨头 STMicroelectronics 签署商业协议，将 FocalPoint 的 S-GNSS Auto 软件与 ST 的 Teseo 硬件结合，推出联合解决方案。该方案旨在提升高楼林立的城市区域、林荫道等传统 GNSS 易受干扰环境下的定位可靠性，从而增强 ADAS（高级驾驶辅助系统）和 V2X（车联网）功能。双方于 2025 年 5 月宣布合作，此次签约标志着方案进入正式商用阶段。",
+    "highlights_zh": [
+      "FocalPoint 与 STMicroelectr…",
+      "结合 S-GNSS Auto 软件与 Teseo 硬…",
+      "提升城市峡谷等复杂环境定位可靠性",
+      "支持 ADAS 和 V2X 功能增强"
+    ],
+    "entities": [
+      "STマイクロエレクトロニクス",
+      "フォーカルポイント",
+      "GNSS",
+      "ADAS",
+      "V2X"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227854.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227854.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:32.197Z"
+  },
+  "https://response.jp/article/2026/07/16/414113.html": {
+    "title_zh": "大众发布全新紧凑型电动 SUV ID. Cross，续航最高 427 公里",
+    "summary_short": "大众推出紧凑型电动 SUV ID. Cross，续航最高 427 公里，支持信号灯识别自动停车。",
+    "summary_long": "大众汽车于 7 月 15 日在欧洲发布了全新电动紧凑型 SUV ID. Cross。该车起售价约 2.8 万欧元，定位小型 SUV 市场，注重车内舒适氛围，可选装高级音响和按摩座椅。技术方面，ID. Cross 搭载 Connected Travel Assist 系统，可识别信号灯并在红灯时自动停车。动力基于 MEB+平台，提供 85kW、99kW、155kW 三种电机输出，搭配 37kWh 或 52kWh 电池组，WLTP 续航最高 427 公里。直流快充从 10%充至 80%约需 23-24 分钟。",
+    "highlights_zh": [
+      "起售价约 2.8 万欧元",
+      "续航最高 427 公里",
+      "支持信号灯识别自动停车",
+      "快充 10%-80%约 23 分钟"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID. Cross",
+      "MEB+",
+      "Connected Travel Assist"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227919.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227919.jpg",
+      "https://response.jp/imgs/fill2/2227920.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:35.404Z"
+  },
+  "https://response.jp/article/2026/07/16/414115.html": {
+    "title_zh": "SUPER FORMULA 夏祭り 2026 将在富士赛道举办",
+    "summary_short": "SUPER FORMULA 夏祭り2026 将于 7 月 17-19 日在富士赛道举行，包含花火、缘日、美食和赛后派对。",
+    "summary_long": "日本赛事推广公司 JRP 宣布，7 月 17 日至 19 日在富士赛道举行的“第 3 回瑶子女王杯 2026 年全日本超级方程式锦标赛第 3 战·第 6 战·第 7 战”将以“SUPER FORMULA 夏祭り2026”为主题。活动包括夏祭缘日、美食摊位、赛道烟花（7 月 18 日晚）以及赛后网格派对（7 月 19 日），其中派对新增 e-Motorsport 表演赛和 DJ 表演。赛事方面，三天内将进行 2 次自由练习、2 次排位赛和 3 场决赛，共 24 台赛车参赛。",
+    "highlights_zh": [
+      "7 月 17-19 日富士赛道举办",
+      "包含花火、缘日、美食",
+      "三天内进行 3 场决赛",
+      "赛后派对有 DJ 表演"
+    ],
+    "entities": [
+      "SUPER FORMULA",
+      "富士赛道",
+      "瑶子女王杯"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227965.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227965.jpg",
+      "https://response.jp/imgs/fill2/2227966.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:35.641Z"
+  },
+  "https://response.jp/article/2026/07/16/414107.html": {
+    "title_zh": "Niconico 租车获 GMO 顾客满意度 2026 租车部门综合第一",
+    "summary_short": "Niconico 租车在 GMO 顾客满意度 2026 中获租车部门综合第一，并在性价比、预约便利性、手续流畅度三项均夺冠。",
+    "summary_long": "Niconico 租车在 GMO Research & AI 实施的“GMO 顾客满意度排名 2026”中，荣获租车类别综合满意度第一名。此外，还在“性价比”“预约便利性”“手续流畅度”三个单项中夺冠。该调查于 2026 年 3 月 2 日至 11 日在线进行，共有 8009 名 20-74 岁、过去一年内使用过国内租车服务的个人用户参与，调查对象涵盖 32 家企业/服务。Niconico 租车提供 5 座紧凑型车 12 小时 2525 日元（含税）起的租赁价格。",
+    "highlights_zh": [
+      "综合满意度 No.1",
+      "性价比、预约、手续三项均第一",
+      "5 座车 12 小时 2525 日元起"
+    ],
+    "entities": [
+      "Niconico 租车 | ニコニコレンタカー",
+      "GMO Research & AI",
+      "租车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227875.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227875.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:39.264Z"
+  },
+  "https://bestcarweb.jp/feature/column/1577143": {
+    "title_zh": "三菱欧蓝德或将推出 e-POWER 版，日本市场有望",
+    "summary_short": "三菱欧蓝德海外已有两种混动，日本市场或采用日产 e-POWER 与 e-4ORCE 系统，价格成关键。",
+    "summary_long": "随着电动汽车热潮退去，混合动力车重新受到关注。三菱欧蓝德在海外已有两种混合动力版本，但在日本市场，由于现有 PHEV 价格过高（超 600 万日元），推出更亲民的混动车型势在必行。目前三菱的混动路线包括东南亚的 1.6L 自然吸气强混和北美的 1.5L 涡轮增压轻混，但前者仅限前驱，后者燃油经济性不佳。因此，日本市场可能采用日产的 e-POWER 与 e-4ORCE 系统，实现四驱与低油耗，但价格需合理。",
+    "highlights_zh": [
+      "三菱欧蓝德海外已有两种混动",
+      "日本市场或采用日产 e-POWER 系统",
+      "现有 PHEV 价格过高",
+      "e-4ORCE 四驱系统有望引入"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "欧蓝德",
+      "日产 | Nissan",
+      "e-POWER",
+      "e-4ORCE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10200024/00_kinmirai_mtbs_head.jpg?v=1783681226",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10200024/00_kinmirai_mtbs_head-600x400.jpg?v=1783681226",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10181231/e62acc88d28d8bfb239367bac9074d02-600x450.jpg?v=1783674752"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:39.760Z"
+  },
+  "https://response.jp/article/2026/07/16/414095.html": {
+    "title_zh": "菲亚特发布全新 SUV“Grizzly”，提供 EV 及轻混动力",
+    "summary_short": "菲亚特为纪念成立 127 周年，推出全新 SUV Grizzly 及轿跑版 Grizzly Fastback，提供燃油、轻混和纯电三种动力。",
+    "summary_long": "菲亚特在成立 127 周年之际，发布了全新 SUV“Grizzly”及其轿跑版本“Grizzly Fastback”。两款车型均定位紧凑型 SUV，Grizzly 车长 4.4 米，注重空间与日常实用性；Grizzly Fastback 车长 4.5 米，兼具优雅造型与 600 升后备箱容积。动力方面提供汽油、48V 轻混和纯电动三种选择，最大功率 145 马力，可选手动或自动变速箱。新车将于 2026 年 10 月巴黎车展首发，同年第四季度上市。",
+    "highlights_zh": [
+      "菲亚特发布全新 SUV Grizzly 及轿跑版",
+      "提供燃油、轻混和纯电三种动力",
+      "Grizzly 车长 4.4 米",
+      "2026 年 10 月巴黎车展首发"
+    ],
+    "entities": [
+      "菲亚特",
+      "Grizzly",
+      "Grizzly Fastback",
+      "Stellantis"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227844.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227844.jpg",
+      "https://response.jp/imgs/fill2/2227845.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:43.489Z"
+  },
+  "https://bestcarweb.jp/feature/column/1539420": {
+    "title_zh": "丰田 Harrier 在车型末期仍值得购买？成熟 SUV 的魅力",
+    "summary_short": "丰田 Harrier 虽处车型末期，但凭借高级感、出色静音和成熟驾乘体验，仍具竞争力。",
+    "summary_long": "现款丰田 Harrier（第四代）于 2020 年推出，已进入车型生命周期后半段，甚至下一代车型的传闻已起。然而，其魅力并未减退。Harrier 的最大优势在于超越规格表的高级感：4740mm 车长、1855mm 车宽、1660mm 车高，搭配轿跑式车顶线条，营造出恰到好处的优雅气质。价格方面，汽油版 G 2WD 起价 371 万日元，混合动力 G 2WD 为 430 万日元，Z 混合动力 2WD 为 477 万日元，PHEV 版本则从 547 万日元起。尽管价格不低，但考虑到其内饰质感、静谧性和平稳的驾乘感受，它仍是一款能提供“豪华 SUV 体验”的车型。燃油经济性也保持竞争力：汽油车 WLTC 模式 14.8-15.8km/L，混合动力 21.7-22.7km/L，PHEV 为 20.5km/L（纯电续航 93km）。在众多新 SUV 涌现的市场中，Harrier 的综合实力依然稳固。",
+    "highlights_zh": [
+      "现款 Harrier 于 2020 年上市",
+      "轿跑式车顶线条与优雅设计是核心魅力",
+      "混合动力版油耗 21.7-22.7km/L",
+      "PHEV 纯电续航 93km"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Harrier"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161905/AD4I0706.jpg?v=1781075946",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161905/AD4I0706-600x400.jpg?v=1781075946",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10181231/e62acc88d28d8bfb239367bac9074d02-600x450.jpg?v=1783674752"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:44.295Z"
+  },
+  "https://bestcarweb.jp/news/entame/1574929": {
+    "title_zh": "车检新规：2026 年 8 月起改用近光灯检测，大灯发黄可能不合格",
+    "summary_short": "2026 年 8 月起车检大灯检测全面改为近光灯，发黄或光量不足将导致不合格，本文介绍应对方法。",
+    "summary_long": "2026 年 8 月 1 日起，日本车检的大灯检测将全面改为近光灯（近光前照灯）进行。此前部分地区允许使用远光灯检测的过渡措施将于 2026 年 7 月底结束。大灯发黄、模糊或光量不足可能导致车检不合格。本文详细解读新规内容及大灯发黄的修复方法。",
+    "highlights_zh": [
+      "2026 年 8 月起车检大灯检测全面改用近光灯",
+      "大灯发黄或光量不足可能导致车检不合格",
+      "远光灯检测的过渡措施于 2026 年 7 月底结束",
+      "文章介绍大灯发黄的修复方法"
+    ],
+    "entities": [
+      "车检"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09153915/63a5ac9a4560bb95c9b549810287f5ce.jpg?v=1783579156",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09153915/63a5ac9a4560bb95c9b549810287f5ce-600x400.jpg?v=1783579156",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14233951/4f612e69d66b8b58c1ec58064df5b4ba-600x338.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:48.162Z"
+  },
+  "https://bestcarweb.jp/fullload/1579688": {
+    "title_zh": "普利司通推出卡车巴士用新雪地胎 W909，耐磨性大幅提升",
+    "summary_short": "普利司通发布卡车巴士用新雪地胎 W909，耐磨性提升 20%，首次支持两次翻新。",
+    "summary_long": "普利司通于 2026 年 7 月 13 日发布卡车巴士用新雪地胎 W909，9 月 1 日起发售，共 12 个尺寸。该胎首次采用低热胎体技术，结合新发泡橡胶与三叉戟接触花纹，耐磨寿命提升 20%，偏磨减少 47%，并首次实现两次翻新。",
+    "highlights_zh": [
+      "首次采用低热胎体技术",
+      "耐磨寿命提升 20%",
+      "偏磨减少 47%",
+      "支持两次翻新"
+    ],
+    "entities": [
+      "普利司通",
+      "W909",
+      "W900",
+      "雪地胎",
+      "卡车巴士"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/14133040/00_2026071301_02-1024x681.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/08141301/00-mk02-2.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/13115408/0B5A9028-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:51.046Z"
+  },
+  "https://response.jp/article/2026/07/16/414109.html": {
+    "title_zh": "马自达 MX-5 20 多岁买家 6 年翻倍，上市第 11 年销量达峰值",
+    "summary_short": "马自达 MX-5（ND 型）上市第 11 年销量创新高，20 多岁买家占比 6 年翻倍，年轻化趋势显著。",
+    "summary_long": "马自达小型敞篷跑车 MX-5（ND 型）改良版于 6 月 26 日开启预订，9 月上旬上市。据马自达国内品牌业务统括本部神田笃介绍，现款 ND 型在上市第 11 年的 2025 年创下销量新高，这与 35 周年纪念版的推出有关。通常跑车销量峰值在上市后 1-2 年，但 MX-5 实现了长生命周期。购买者中 50 代占比最高（33.9%），40 岁以上占约 7 成，男性占 88%。值得注意的是，20 多岁买家比例在 6 年内翻倍，年轻化趋势明显。",
+    "highlights_zh": [
+      "上市第 11 年销量创历史新高",
+      "20 多岁买家 6 年翻倍",
+      "50 代买家占比最高（33.9%）",
+      "男性购买者占 88%"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Mazda MX-5",
+      "ND 型",
+      "敞篷跑车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227697.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227697.jpg",
+      "https://response.jp/imgs/zoom1/2227696.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:52.737Z"
+  },
+  "https://bestcarweb.jp/feature/column/1574449": {
+    "title_zh": "人生最后一台车选什么？推荐 3 款适合高龄驾驶的丰田车",
+    "summary_short": "针对高龄夫妇，推荐丰田三款易上下车、易驾驶的车型：Sienta、Raize，兼顾便利与安全。",
+    "summary_long": "对于结束育儿、回归二人生活的家庭，换购的下一台车可能是人生最后一台。重点在于上下车便利性和驾驶轻松度。丰田 Sienta 五座版采用低地板设计（离地 330mm）和加大开口的电动滑门，方便上下车；第二排座椅可一键折叠，便于装载轮椅或行李。丰田 Raize 作为紧凑型 SUV，车身小巧（长 3995mm、宽 1695mm），转弯半径仅 4.9 米，适合窄路；车内高度充裕，坐姿高、视野好，便于把握车感。",
+    "highlights_zh": [
+      "Sienta 五座版地板低至 330mm",
+      "Raize 转弯半径 4.9 米",
+      "两车均为 5ナンバー尺寸"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "シエンタ",
+      "ライズ"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13125416/ae46b1f460ee46f789c27b264a6cb421-9.jpg?v=1783914858",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13125416/ae46b1f460ee46f789c27b264a6cb421-9-600x400.jpg?v=1783914858",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10181231/e62acc88d28d8bfb239367bac9074d02-600x450.jpg?v=1783674752"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:55.410Z"
+  },
+  "https://www.motor1.com/news/801756/honda-transmission-fluid-leak/": {
+    "title_zh": "检查二手车发现变速箱油漏光，比想象中更常见",
+    "summary_short": "一名技师在检查本田思域二手车时发现变速箱油已完全漏光，提醒车主注意变速箱漏油问题。",
+    "summary_long": "一名技师在检查一辆本田思域二手车时，发现变速箱油已完全漏光，而此前经销商并未发现这一漏油问题。该视频在 TikTok 上引发关注，提醒车主在检查车辆时需特别注意变速箱漏油迹象。",
+    "highlights_zh": [
+      "技师检查本田思域二手车发现变速箱油漏光",
+      "经销商此前未发现漏油问题",
+      "变速箱漏油比想象中更常见",
+      "车主应定期检查变速箱油位"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "思域"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbgxPQ/s1/man-inspects-car.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:55.869Z"
+  },
+  "https://www.thedrive.com/news/ford-now-offers-a-remote-killswitch-on-almost-every-new-model": {
+    "title_zh": "福特为几乎所有新车型提供远程发动机禁用功能",
+    "summary_short": "福特将远程发动机禁用功能扩展到几乎所有新车型，车主可通过 Ford Pass 应用一键禁用发动机。",
+    "summary_long": "福特将远程发动机禁用功能从 F 系列卡车扩展到 2026 款 Expedition、Bronco Sport 和 Mustang Mach-E 等车型。车主只需在 Ford Pass 应用中滑动滑块即可禁用发动机，即使钥匙留在车内也无法启动。该功能作为福特安全套装的一部分，相比后装设备具有原厂支持、无需改动车辆电脑等优势。",
+    "highlights_zh": [
+      "福特将远程发动机禁用功能扩展到几乎所有新车型",
+      "车主通过 Ford Pass 应用滑动滑块即可禁用发…",
+      "即使钥匙留在车内",
+      "原厂支持"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Expedition",
+      "Bronco Sport",
+      "Mustang Mach-E",
+      "Ford Pass"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Expedition-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/https___www.kmauthoring.ford_.com_sites_default_files_styles_cke_media_resize_medium_public_2025-02_FSP-Support-Screen-1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/https___www.kmauthoring.ford_.com_sites_default_files_styles_cke_media_resize_medium_public_2025-02_FSP-Support-Screen-2.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:58.798Z"
+  },
+  "https://www.motor1.com/news/801784/why-does-bmw-m2-have-awd/": {
+    "title_zh": "宝马解释为何最终为 M2 提供全轮驱动",
+    "summary_short": "宝马 M2 首次推出 xDrive 全轮驱动版本，主要受美国东北部和中西部客户需求推动，瑞士市场也有贡献。",
+    "summary_long": "宝马已为 M3 轿车和 M4 轿跑提供全轮驱动版本，如今终于将 xDrive 引入更小的 M2 轿跑。宝马 M 部门负责人 Frank van Meel 解释，美国东北部（纽约、新泽西、宾夕法尼亚）和中西部（伊利诺伊、密歇根、俄亥俄）的客户即使在春夏也使用全季轮胎，后驱 M2“根本不可行”，因此存在大量需求。此外，瑞士市场因多雪也对全轮驱动跑车有巨大需求。与 M3 和 M4 一样，M2 xDrive 将比后驱版更快，0-60 英里/小时加速仅需 3.6 秒（含 1 英尺起步为 3.3 秒），而后驱自动挡版本为 3.9 秒。",
+    "highlights_zh": [
+      "宝马 M2 首次提供 xDrive 全轮驱动",
+      "美国东北部和中西部客户是主要推动力",
+      "瑞士市场因多雪也有巨大需求",
+      "M2 xDrive 0-60 英里/小时加速仅 3.…"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "BMW M2",
+      "xDrive",
+      "BMW M3",
+      "BMW M4"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlP3j/s1/2027-bmw-m2-xdrive-european-model-shown.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:34:59.958Z"
+  },
+  "https://www.motor1.com/news/801718/takr-5-customer-speeds-into-bay/": {
+    "title_zh": "Take 5 员工指挥失误，司机误踩油门撞入工位",
+    "summary_short": "Take 5 员工用手势指挥车辆入位，司机误踩油门冲入工位，网友指责员工手势不清。",
+    "summary_long": "一段 TikTok 视频显示，Take 5 员工用手势指挥车辆进入工位，但司机误解指令，误踩油门冲入工位。网友普遍认为员工手势不清晰是事故主因。文章还讨论了去修车店时的常见焦虑，如维修费用不透明等。",
+    "highlights_zh": [
+      "员工手势指挥不当",
+      "司机误踩油门",
+      "网友指责员工",
+      "修车焦虑普遍"
+    ],
+    "entities": [
+      "Take 5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJYb4/s1/take-5-worker-tells-driver-to-cut.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:02.495Z"
+  },
+  "https://www.motor1.com/news/801775/volvo-sedan-wagon-evs/": {
+    "title_zh": "沃尔沃或将回归轿车与旅行车",
+    "summary_short": "沃尔沃计划基于 SPA3 平台推出电动轿车与旅行车，可能命名为 ES60 和 EV60，以应对 SUV 疲劳。",
+    "summary_long": "据 Automotive News 报道，沃尔沃正在开发基于 SPA3 电动平台的轿车和旅行车，分别可能命名为 ES60 和 EV60。SPA3 平台支持 800 伏架构，充电功率可达 370 千瓦，续航最高 400 英里。这些车型将面向欧洲市场，并有望进入美国。此举旨在满足消费者对 SUV 之外车型的需求，同时延续沃尔沃在轿车和旅行车领域的传统。",
+    "highlights_zh": [
+      "沃尔沃计划推出电动轿车与旅行车",
+      "基于 SPA3 平台",
+      "可能命名为 ES60 和 EV60",
+      "续航最高 400 英里"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "EX60",
+      "ES60",
+      "EV60",
+      "SPA3 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4OwJE/s1/volvo-v60.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:03.481Z"
+  },
+  "https://insideevs.com/news/801765/hyundai-sk-on-ev-battery-plant-georgia/": {
+    "title_zh": "现代与 SK On 佐治亚州 50 亿美元电池工厂投产",
+    "summary_short": "现代与 SK On 在佐治亚州的 50 亿美元电池工厂开始试生产，年产能 35GWh，可供应 30 万辆电动车。",
+    "summary_long": "现代汽车集团与韩国电池制造商 SK On 在佐治亚州巴托县合资建设的 50 亿美元电池工厂已开始试生产，并进入早期生产阶段，计划逐步扩大产能。该工厂是佐治亚州最大的经济发展项目之一，旨在将电池生产本土化，为现代和起亚的 Metaplant America 供应电池，构建完整的电动车制造生态系统。满产时年产能达 35GWh，可满足 30 万辆电动车需求，并创造约 3500 个工作岗位。不过，由于美国联邦税收抵免结束导致电动车销售放缓，工厂何时达到满产尚不确定。",
+    "highlights_zh": [
+      "现代与 SK On 合资电池工厂在佐治亚州投产",
+      "总投资 50 亿美元",
+      "满产可供应 30 万辆电动车",
+      "创造约 3500 个就业岗位"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "SK On",
+      "起亚 | Kia",
+      "佐治亚州",
+      "Metaplant America"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7Z2QBo/s1/sk-on-battery-plant-in-the-u.s..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:06.025Z"
+  },
+  "https://www.motor1.com/news/801762/morgan-performance-car-coming-to-america/": {
+    "title_zh": "摩根最强性能车将入美，但缺失重要配置",
+    "summary_short": "摩根 Supersport 获准进入美国市场，但仅搭载 255 马力四缸发动机，而非欧洲版的六缸 B58 引擎。",
+    "summary_long": "英国汽车制造商摩根终于获得美国联邦批准，将旗下性能最强的 Supersport 车型引入美国市场。该车基于 FAST 法案获批，允许每年销售最多 325 辆。然而，美国版 Supersport 并未搭载欧洲市场使用的宝马 B58 六缸发动机（340 马力），而是沿用 PlusFour 上的 255 马力四缸涡轮增压发动机，匹配 ZF 八速自动变速箱。这令美国车迷感到失望，因为摩根此前已多年未在美国推出高性能车型。",
+    "highlights_zh": [
+      "摩根 Supersport 获准入美",
+      "仅搭载 255 马力四缸发动机",
+      "欧洲版为 340 马力六缸 B58",
+      "美国版产量不足 50 辆"
+    ],
+    "entities": [
+      "摩根 | Morgan",
+      "Supersport",
+      "PlusFour",
+      "宝马 | BMW",
+      "FAST 法案"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPl1y/s1/morgan-supersport.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:07.051Z"
+  },
+  "https://www.motor1.com/news/801769/no-manual-gearbox-for-lamborghini/": {
+    "title_zh": "兰博基尼不追随法拉利推出模拟手动挡",
+    "summary_short": "兰博基尼明确表示不会开发手动变速箱，即使是像法拉利 12Cilindri 那样的模拟手动挡也不考虑。",
+    "summary_long": "兰博基尼无意追随法拉利推出模拟手动变速箱。尽管法拉利在 12Cilindri 上推出了备受争议的模拟手动版本，但兰博基尼首席营销官 Federico Foschini 表示，手动挡虽有市场机会，但并非生产车型需要追随的趋势。兰博基尼最后一款手动挡车型是 2013 年的 Gallardo LP 560-2 50th Anniversario，至今已超过 13 年未提供手动挡。",
+    "highlights_zh": [
+      "兰博基尼不开发手动变速箱",
+      "不追随法拉利模拟手动挡",
+      "手动挡需求低",
+      "最后一款手动挡是 2013 年 Gallardo"
+    ],
+    "entities": [
+      "兰博基尼 | Lamborghini",
+      "法拉利 | Ferrari",
+      "Gallardo LP 560-2 50th Anniversario",
+      "手动变速箱"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnzkRA/s1/lamborghini-miura-s.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:09.567Z"
+  },
+  "https://insideevs.com/news/801771/volvo-sedan-wagon-america/": {
+    "title_zh": "沃尔沃计划 2028 年在美国推出电动轿车和旅行车",
+    "summary_short": "沃尔沃据报考虑在 2028 年向美国市场推出电动轿车和旅行车，此前已停售燃油轿车和旅行车。",
+    "summary_long": "沃尔沃据报正考虑在 2028 年向美国市场推出电动轿车和旅行车，此前该公司已停售燃油版 S60、S90 轿车和 V60 旅行车，全面转向跨界车和 SUV。这一逆转可能与美国极星品牌因中国软件问题被禁售有关，沃尔沃虽属吉利旗下但未受影响。两款新车将基于 SPA3 架构开发，采用 800 伏技术，与 EX60 共享平台。",
+    "highlights_zh": [
+      "2028 年推出电动轿车和旅行车",
+      "基于 SPA3 架构",
+      "此前已停售燃油轿车和旅行车",
+      "极星禁售或促使沃尔沃填补市场"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "极星",
+      "吉利",
+      "SPA3 架构",
+      "EX60"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E663lo/s1/volvo-v60.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:10.742Z"
+  },
+  "https://www.motor1.com/news/801751/honda-fit-japan-update-price-trims-specs/": {
+    "title_zh": "本田 Fit 日本更新：价格超低，配置微调",
+    "summary_short": "本田在日本更新了 Fit 掀背车，调整了配置和价格，起售价依然亲民。",
+    "summary_long": "本田在日本推出了改款 Fit 掀背车，庆祝该车型诞生 25 周年。新车主要对配置和内饰细节进行了微调，取消了 Fit Basic 和 Fit Home 名称，改为 Fit X 和 Fit Z，同时保留 RS 和 Crosstar 两个混动版本。动力方面提供 1.5 升四缸发动机（119 马力）和混动系统（综合 207 马力），可选前驱或四驱，无手动挡。价格依然非常低廉，入门版约合人民币 7.5 万元。",
+    "highlights_zh": [
+      "Fit X 取代 Basic",
+      "混动版 RS 和 Crosstar 保留",
+      "内饰细节升级",
+      "起售价约 7.5 万元人民币"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Fit"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJwMr/s1/updated-honda-fit-japan.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:13.210Z"
+  },
+  "https://insideevs.com/news/801772/chip-motors-ev-remote-driving-2026/": {
+    "title_zh": "Chip Motors 推出 1.5 万美元低速电动车，可远程代客泊车",
+    "summary_short": "Chip Motors 发布 1.5 万美元、时速 25 英里的电动车，主打远程代客泊车，瞄准高尔夫球车升级市场。",
+    "summary_long": "迈阿密初创公司 Chip Motors 推出首款低速电动车，售价 1.5 万美元，最高时速 25 英里。该车无车门，造型介于高尔夫球车与 Jeep 之间，最大亮点是支持远程代客泊车，用户可通过手机让车辆自动寻找车位并停放。Chip 瞄准美国日益增长的高尔夫球车社区出行需求，试图将这类低速车辆从球场带入日常短途通勤。",
+    "highlights_zh": [
+      "售价 1.5 万美元",
+      "无车门设计",
+      "支持远程代客泊车",
+      "瞄准美国高尔夫球车社区出行市场"
+    ],
+    "entities": [
+      "Chip Motors",
+      "远程代客泊车",
+      "低速电动车",
+      "高尔夫球车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzX7v/s1/chip-motors.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:14.529Z"
+  },
+  "https://www.motor1.com/news/801767/hennessey-craziest-customer-requests/": {
+    "title_zh": "Hennessey 揭秘最疯狂客户定制：真金、雪茄盒与枪套",
+    "summary_short": "Hennessey 设计总监透露，客户在 Venom F5 上要求真金、内置雪茄盒和定制枪套等疯狂定制。",
+    "summary_long": "Hennessey 设计总监 Nathan Malinick 在古德伍德透露，其 Maverick 定制部门收到过许多奇特要求。一位墨西哥客户坚持在 Venom F5 发动机盖通风口使用真金，而非金箔或金色装饰，Hennessey 最终实现了这一复杂定制。其他疯狂需求还包括内置雪茄盒和定制枪套。",
+    "highlights_zh": [
+      "客户要求真金替代金属",
+      "发动机盖通风口使用纯金",
+      "内置雪茄盒和枪套定制",
+      "Maverick 部门专攻疯狂需求"
+    ],
+    "entities": [
+      "Hennessey",
+      "Venom F5",
+      "Maverick",
+      "真金",
+      "定制"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYEoy/s1/hennessey-venom-f5-revolution-real-gold.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:16.478Z"
+  },
+  "https://www.thedrive.com/news/the-nissan-altima-once-inescapable-is-finally-dead": {
+    "title_zh": "日产 Altima 正式停产，一代街车谢幕",
+    "summary_short": "日产 Altima 在上市八年后正式停产，销量下滑 32%，公司将重心转向 Sentra。",
+    "summary_long": "日产 Altima 正式停产，结束了其作为美国街头常见车型的生涯。该车自上次换代已过去八年，2025 年取消了可变压缩比涡轮增压动力，如今彻底退市。日产原本计划用电动轿车替代，但未能实现。公司高级副总裁 Ponz Pandikuthira 表示，将专注于更成熟的 Sentra。2026 年至今，Altima 销量下降 32%，而 Sentra 仅下降 12%。",
+    "highlights_zh": [
+      "日产 Altima 正式停产",
+      "自上次换代已过去八年",
+      "电动替代计划未能实现",
+      "公司重心转向 Sentra"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Altima",
+      "Sentra",
+      "Rogue Plug-In Hybrid"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/nissan_altima_sr_36.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/nissan_altima_se-r.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:17.708Z"
+  },
+  "https://insideevs.com/news/801655/ev-freon-ac-charge-advice/": {
+    "title_zh": "给电动车空调加氟？没那么简单",
+    "summary_short": "电动车空调故障不仅影响舒适性，还可能导致车辆限功率、限制快充，维修需注意特殊油品。",
+    "summary_long": "电动车和插电混动车型的空调系统常参与热管理，一旦失效可能导致车辆限制功率或禁止直流快充以保护电池。电池需要冷却才能正常发挥性能，而普通混动车的空调系统也使用特殊油品，维修时需特别注意。",
+    "highlights_zh": [
+      "空调故障可能限制快充",
+      "电池需要冷却才能正常发挥性能",
+      "混动车空调使用特殊油品",
+      "及时维修可避免传动系统问题"
+    ],
+    "entities": [
+      "电动车 | EV",
+      "插电混动",
+      "空调系统",
+      "热管理",
+      "直流快充"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZk7Z/s1/2015-volt-lift.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:19.892Z"
+  },
+  "https://www.thedrive.com/news/the-morgan-supersport-lost-two-cylinders-to-become-us-legal": {
+    "title_zh": "摩根 Supersport 为进入美国市场减少两个气缸",
+    "summary_short": "摩根 Supersport 在欧洲搭载宝马直六发动机，为进入美国市场改用四缸发动机，限量发售。",
+    "summary_long": "摩根 Supersport 是一款紧凑型运动跑车，延续了品牌复古设计风格。欧洲版本搭载宝马 B58 直列六缸发动机，而美国版本为符合法规改用宝马 B46 四缸涡轮增压发动机，功率从 330 马力降至约 250 马力。该车将限量供应美国市场，并配备更酷的换挡杆。",
+    "highlights_zh": [
+      "欧洲版搭载宝马 B58 直六",
+      "功率从 330 马力降至约 250 马力",
+      "限量供应美国市场",
+      "延续摩根复古设计"
+    ],
+    "entities": [
+      "摩根 | Morgan",
+      "Supersport",
+      "宝马 | BMW",
+      "B58",
+      "B46"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Morgan-Supersport-in-the-US.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Morgan-The-Drive-_-Morgan_Supersport_Studio_US_018-1.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Morgan-The-Drive-_-Morgan_Supersport_Studio_US_019-1.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:20.851Z"
+  },
+  "https://www.motor1.com/features/801749/2028-honda-elantra-n-price-specs-details/": {
+    "title_zh": "下一代现代伊兰特 N 或将大幅提升动力",
+    "summary_short": "现代新一代伊兰特 N 即将到来，预计动力大幅提升，设计采用全新“Art of Steel”语言。",
+    "summary_long": "现代汽车已发布新一代伊兰特（韩国市场称 Avante），预示着高性能版伊兰特 N 即将登场。新车尺寸略有增加，采用全新的“Art of Steel”设计语言，并有望获得 N 品牌专属升级。目前动力和价格尚未公布，但现代对 N 性能品牌的投入表明该车型不会缺席。",
+    "highlights_zh": [
+      "新一代伊兰特 N 即将推出",
+      "设计采用“Art of Steel”语言",
+      "动力有望大幅提升",
+      "现代持续投入 N 性能品牌"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "伊兰特 | Elantra",
+      "伊兰特 N | Elantra N",
+      "Avante",
+      "Art of Steel"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZENqA/s1/new-hyundai-elantra-n-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:23.587Z"
+  },
+  "https://insideevs.com/news/801723/tesla-model-s-signature-flip/": {
+    "title_zh": "有人试图转卖最后一批特斯拉 Model S，价格相当“有野心”",
+    "summary_short": "一辆仅行驶 300 英里的特斯拉 Model S Plaid Signature Edition 以近 26 万美元转售，比原价高出 10 万美元。",
+    "summary_long": "特斯拉 Model S 已停产，生产线将转产人形机器人。作为告别，特斯拉推出了仅限邀请购买的 Signature Edition，售价约 16 万美元，限量 350 辆（250 辆 Model S 和 100 辆 Model X）。如今一辆仅行驶 300 英里的二手车在市场上标价近 26 万美元，溢价超过 10 万美元。该车配备石榴红车漆、金色徽章、碳陶瓷刹车、终身免费超级充电和完全自动驾驶能力。",
+    "highlights_zh": [
+      "Model S 停产",
+      "Signature Edition 限量 350 辆",
+      "二手车标价近 26 万美元",
+      "配备石榴红车漆、金色徽章、碳陶瓷刹车"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model S",
+      "Signature Edition",
+      "Plaid"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo70JM/s1/tesla-model-s-plaid-signature-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T03:35:24.675Z"
   }
 }
