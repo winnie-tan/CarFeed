@@ -77992,5 +77992,788 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-16T03:35:24.675Z"
+  },
+  "https://www.thedrive.com/news/new-jensen-interceptor-found-a-shortcut-to-production-its-track-only-for-now": {
+    "title_zh": "新 Jensen Interceptor 以赛道版形式率先亮相",
+    "summary_short": "Jensen 发布全新 Interceptor GTX 赛道版，搭载机械增压 V8 发动机，为后续公路版奠定基础。",
+    "summary_long": "Jensen 在今年初宣布复活 Interceptor 车型后，近日发布了名为 Interceptor GTX 的赛道版原型车。该车采用全新手工铝制车身和铝制底盘，搭载机械增压 V8 发动机，强调纯粹的模拟驾驶体验。GTX 并非复刻或延续车型，而是为未来多个 Interceptor 变体（包括公路版和赛道版）奠定基础的全新设计。",
+    "highlights_zh": [
+      "全新手工铝制车身与底盘",
+      "机械增压 V8 发动机",
+      "纯模拟驾驶体验",
+      "为公路版车型铺路"
+    ],
+    "entities": [
+      "Jensen Interceptor GTX",
+      "Jensen",
+      "机械增压 V8 发动机"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/jensen-interceptor-gtx-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Jensen-Interceptor-_-GTX_3.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Jensen-1950s.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:01.847Z"
+  },
+  "https://www.motor1.com/news/801895/2026-hyundai-ioniq-5-n-price-details/": {
+    "title_zh": "现代最火辣的电动车大幅降价",
+    "summary_short": "现代 2026 款 Ioniq 5 N 降价 6300 美元，起售价 6.15 万美元，并新增漂移优化器多级调节等功能。",
+    "summary_long": "现代宣布 2026 款 Ioniq 5 N 定价，起售价为 6.15 万美元（含 1600 美元运费），比 2025 款便宜 6300 美元。新车在保持 641 马力、3.25 秒破百性能的同时，升级了 N 漂移优化器（新增 10 级可调）、车内摄像头、后窗一键升降及全新性能蓝珠光漆色。",
+    "highlights_zh": [
+      "降价 6300 美元",
+      "N 漂移优化器新增 10 级可调",
+      "641 马力",
+      "新增车内摄像头和性能蓝车漆"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Ioniq 5 N"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vxp2V6/s1/2025-hyundai-ioniq-5-n-front.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:01.873Z"
+  },
+  "https://www.thedrive.com/news/bill-ford-says-carmakers-need-to-tackle-china-head-on-even-if-theyd-rather-not": {
+    "title_zh": "比尔·福特：美国车企必须直面中国竞争",
+    "summary_short": "福特执行董事长比尔·福特呼吁美国车企与中国正面竞争，而非依赖贸易壁垒，尽管公司内部存在分歧。",
+    "summary_long": "福特汽车执行董事长比尔·福特在华盛顿特区的一场活动中表示，美国车企必须与中国汽车制造商正面竞争，不能指望永远将其挡在门外。他认为美国车企需要在中国擅长的领域击败它们。这一立场与福特 CEO 吉姆·法利此前的表态形成对比，法利曾主张阻止中国电动车进入美国市场，并抱怨中国政府的补贴使竞争不公平。此外，福特也是支持《联网汽车安全法案》的游说团体成员，该法案旨在禁止中国制造的汽车及其技术进入美国。",
+    "highlights_zh": [
+      "比尔·福特呼吁与中国车企正面竞争",
+      "福特 CEO 法利曾主张阻止中国电动车进入美国",
+      "福特所属游说团体支持禁止中国汽车技术法案"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "比尔·福特 | Bill Ford",
+      "吉姆·法利",
+      "中国电动车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/F-150-Lightning-Pro.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/police-tahoe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:05.631Z"
+  },
+  "https://insideevs.com/news/801796/dongfeng-canada-china-nammi-box/": {
+    "title_zh": "东风汽车计划 2027 年进入加拿大市场，Nammi Box 和 Vigo 将率先上市",
+    "summary_short": "东风汽车在蒙特利尔展示多款车型，计划 2027 年起在加拿大销售 Nammi Box 和 Vigo 等低价电动车。",
+    "summary_long": "中国东风汽车在蒙特利尔举办活动，展示旗下多款车型，包括高端品牌 Voyah 的 Dream、Free，以及东风 Eπ 007、Eπ 008、M Hero 817、Nammi Box 和 Vigo。东风计划于 2027 年开始在加拿大销售首批车型，首先推出 Nammi Box 和 Vigo。得益于新的贸易协议，加拿大对中国产汽车的关税从 100%降至 6.1%（2027 年最多 4.9 万辆），旨在为消费者提供更多低价电动车选择。",
+    "highlights_zh": [
+      "东风汽车计划 2027 年进入加拿大市场",
+      "首批车型为 Nammi Box 和 Vigo",
+      "加拿大对中国产电动车关税降至 6.1%",
+      "展示 7 款车型"
+    ],
+    "entities": [
+      "东风汽车",
+      "Nammi Box",
+      "Vigo",
+      "Voyah"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwVQK/s1/dongfeng-vigo.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:05.704Z"
+  },
+  "https://www.thedrive.com/news/vr-is-helping-driving-schools-train-better-instructors-tds": {
+    "title_zh": "VR 助力驾校培训更优秀的教练",
+    "summary_short": "英国汽车协会利用 VR 头显培训驾驶教练，将课堂与车内训练结合，提升教学效果。",
+    "summary_long": "英国汽车协会（AA）向路透社展示了其虚拟现实增强型驾驶教练培训项目。该项目使用 VR 头显，让教练在模拟环境中练习教学技巧，模糊了课堂与实车训练的界限，旨在提高教练的培训质量和安全性。",
+    "highlights_zh": [
+      "英国 AA 用 VR 培训驾驶教练",
+      "VR 模糊课堂与实车训练界限",
+      "提升教练教学技巧与安全性"
+    ],
+    "entities": [
+      "英国汽车协会",
+      "VR",
+      "驾驶教练",
+      "驾驶学校 | driving school"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/AA-Driving-School.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/police-tahoe.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:08.695Z"
+  },
+  "https://www.motor1.com/news/801746/infiniti-escalade-v-rival-delayed/": {
+    "title_zh": "英菲尼迪推迟 600 马力 QX80 性能版，对标凯迪拉克 Escalade-V",
+    "summary_short": "英菲尼迪推迟了高性能版 QX80 的发布，该车原计划 2026 年底亮相，搭载超 600 马力 V6 发动机。",
+    "summary_long": "英菲尼迪正在开发新的性能系列，对标宝马 M 和梅赛德斯-AMG，首款产品是高性能版 QX80，原计划 2026 年底发布，但已被推迟。该车将搭载升级版 3.5 升双涡轮增压 V6 发动机，功率超 600 马力，并配备制动、操控、设计等全面升级。英菲尼迪表示正在花时间确保产品“值得等待”。",
+    "highlights_zh": [
+      "高性能版 QX80 推迟发布",
+      "搭载超 600 马力 V6 发动机",
+      "对标凯迪拉克 Escalade-V",
+      "英菲尼迪新性能系列首款车型"
+    ],
+    "entities": [
+      "英菲尼迪 | Infiniti",
+      "QX80",
+      "凯迪拉克",
+      "Escalade-V",
+      "宝马 | BMW"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9mpXO0/s1/infiniti-qx80-r-spec.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:09.246Z"
+  },
+  "https://response.jp/article/2026/07/16/414141.html": {
+    "title_zh": "日产全新 Kicks 试驾：内外兼修，进化令人惊叹",
+    "summary_short": "日产全新 Kicks 全面革新，设计、动力、平台焕然一新，试驾感受其长足进步，堪称品牌复兴关键车型。",
+    "summary_long": "日产紧凑型 SUV Kicks 迎来全新换代，设计、动力总成和平台均彻底更新。新车无论外观还是驾驶体验都展现出显著进化，成为日产复兴的重要车型。在日本，SUV 占非轻型乘用车新车销量最大份额，其中紧凑型 SUV 过半，因此新 Kicks 精准切入主流市场。该车不仅在日本销售，也面向北美和南美市场，是日产重振旗鼓的关键棋子。",
+    "highlights_zh": [
+      "全新设计、动力、平台全面革新",
+      "驾驶进化令人惊喜",
+      "紧凑型 SUV 市场核心车型"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "キックス",
+      "紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228103.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228102.jpg",
+      "https://response.jp/imgs/fill2/2228102.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:13.327Z"
+  },
+  "https://response.jp/article/2026/07/16/414138.html": {
+    "title_zh": "比亚迪在近畿地区开设首家卫星型门店“BYD AUTO 彦根”",
+    "summary_short": "比亚迪日本经销商将于 8 月 1 日在滋贺县彦根市开设近畿地区首家卫星型门店，配备快速充电器和休息区。",
+    "summary_long": "比亚迪日本法人 BYD Auto Japan 的正规经销商 Liberty 将于 8 月 1 日在滋贺县彦根市开设“BYD AUTO 彦根”门店。该店是近畿地区首家卫星型门店，采用紧凑亲切的空间设计，配备快速充电器，不仅限于比亚迪车主，所有电动车用户均可使用，充电期间可在休息区等候。门店位于国道 8 号线沿线，距名神高速彦根 IC 约 5 分钟车程，交通便利。",
+    "highlights_zh": [
+      "近畿地区首家卫星型门店",
+      "配备快速充电器",
+      "充电期间提供休息区",
+      "位于国道 8 号线"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "BYD Auto Japan",
+      "BYD AUTO 彦根",
+      "滋贺县",
+      "卫星型门店"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227772.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227772.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:13.576Z"
+  },
+  "https://www.motor1.com/news/801795/fentanyl-laced-dollar-bill/": {
+    "title_zh": "路边捡到钱？小心是毒贩设下的致命陷阱",
+    "summary_short": "男子路边捡到两张 10 美元假钞，网友警告可能是毒贩用芬太尼浸泡的诱饵，切勿触碰。",
+    "summary_long": "一名男子在路边发现两张 10 美元钞票，以为好运降临，下车捡起后却发现是假钞。他将视频发到社交媒体后，评论区网友纷纷警告，称毒贩可能故意将钞票浸泡在芬太尼中，诱使路人接触后中毒。尽管该男子捡到的只是道具钱，但这一事件引发了关于毒品犯罪新手段的广泛讨论。",
+    "highlights_zh": [
+      "男子路边捡到两张 10 美元钞票",
+      "发现是假钞后发视频分享",
+      "网友警告可能是毒贩的芬太尼陷阱",
+      "提醒勿随意捡拾路边现金"
+    ],
+    "entities": [
+      "芬太尼",
+      "假钞",
+      "毒贩",
+      "社交媒体"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZElvP/s1/driver-pulls-over-after-seeing-mone.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:17.170Z"
+  },
+  "https://response.jp/article/2026/07/16/414134.html": {
+    "title_zh": "V8 延续，2027 年登场？宝马 X5M 渲染图曝光",
+    "summary_short": "宝马新一代 X5M 渲染图曝光，保留 V8 发动机，预计 2027 年亮相，设计更激进。",
+    "summary_long": "宝马在发布第五代 X5 后，高性能版 X5M 的开发已全面展开。基于最新谍照，外媒绘制了 X5M 的渲染图。新车采用专属前脸设计，双肾格栅造型更硬朗，头灯线条更锐利，并可能延续 X 形 LED 日行灯。前保险杠伪装严密，但预计会采用更激进的空气动力学设计，尾部配备 M 专属保险杠和四出排气。动力方面，尽管 X5 系列加速电动化，但宝马明确表示 M Performance 车型将继续搭载 V8 发动机，X5M 预计输出超过 600 马力，有望 2027 年正式亮相。",
+    "highlights_zh": [
+      "保留 V8 发动机",
+      "专属前脸设计",
+      "预计 2027 年正式亮相"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5M",
+      "V8 发动机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227641.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227641.jpg",
+      "https://response.jp/imgs/fill2/2227326.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:18.074Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572521": {
+    "title_zh": "本田 ZR-V Cross Touring 特别版评测",
+    "summary_short": "本田 ZR-V Cross Touring 特别版基于 e:HEV Z，外观更户外，售价 452.98 万日元，值得买吗？",
+    "summary_long": "2026 年 3 月本田 ZR-V 改款，新增 Cross Touring 特别版。基于 e:HEV Z，搭载 2L 混动系统，外观采用哑光灰格栅、黑色轮毂等户外风格，内饰为灰褐色。价格比标准 Z 高 22.22 万日元，但兼具都市与露营场景的跨界定位。全系取消燃油版，WLTC 油耗 FF 版 22.0km/L，4WD 版 20.5km/L。标配 9 英寸 Google 车载系统，支持地图、语音助手等。",
+    "highlights_zh": [
+      "基于 e:HEV Z",
+      "专属哑光灰格栅、黑色轮毂等户外外观",
+      "WLTC 油耗 FF 版 22.0km/L",
+      "9 英寸 Google 车载系统"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ZR-V",
+      "Cross Touring",
+      "e:HEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14150445/IKE_317-66.jpg?v=1784009086",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14150445/IKE_317-66-600x400.jpg?v=1784009086",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09165707/MG_1211-600x400.jpg?v=1780991829"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:22.160Z"
+  },
+  "https://bestcarweb.jp/news/1576064": {
+    "title_zh": "铃木 Every 收纳力大增！专用仪表盘托盘超方便",
+    "summary_short": "CRAFTWORKS 推出铃木 Every 专用仪表盘托盘，无需工具约 30 秒安装，提升小物收纳便利性。",
+    "summary_long": "铃木 Every 作为一款多功能轻型厢式车，在工作和车中过夜等场景中广受欢迎。针对用户反映的小物品收纳空间不足的问题，Fun Standard 公司旗下品牌 CRAFTWORKS 于 2026 年 7 月推出了 Every 专用仪表盘托盘。该托盘集成了手机支架和储物空间，无需工具即可在约 30 秒内完成安装，参考售价 2970 日元（含税）起，在亚马逊、乐天市场等官方商店有售。开发过程中由汽车维修技师使用实车进行验证，确保贴合无晃动。",
+    "highlights_zh": [
+      "专用仪表盘托盘",
+      "集成手机支架和储物空间",
+      "参考售价 2970 日元起",
+      "实车验证"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "エブリイ",
+      "CRAFTWORKS",
+      "仪表盘托盘"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10172005/66a9f8f4e81ec8406f9adec4a2429242.jpg?v=1783671606",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10172005/66a9f8f4e81ec8406f9adec4a2429242-600x400.jpg?v=1783671606",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10173434/1ee7826305419a7336b2f1a683f41772-600x400.jpg?v=1783672475"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:22.607Z"
+  },
+  "https://bestcarweb.jp/news/1576077": {
+    "title_zh": "43/RIDE 轻量折叠床",
+    "summary_short": "Daytona 推出 43/RIDE 折叠床，专为紧凑型汽车和摩托车露营设计，兼顾收纳与舒适。",
+    "summary_long": "Daytona 户外品牌推出 43/RIDE 折叠床，专为解决紧凑型汽车和摩托车露营的收纳与睡眠难题。该床采用分段式框架设计，收纳尺寸仅 43×16×15cm，可轻松放入后备箱或边包。同时保证舒适度和快速搭建，是露营爱好者的理想装备。",
+    "highlights_zh": [
+      "收纳尺寸仅 43×16×15cm",
+      "兼顾舒适与紧凑",
+      "快速搭建设计",
+      "适合摩托车和紧凑型汽车"
+    ],
+    "entities": [
+      "DAYTONA",
+      "43/RIDE 折叠床 | 43/RIDE コット",
+      "紧凑型汽车",
+      "摩托车露营"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10230436/35186cf82b1bb39bd91d5f03ce8edf81.jpg?v=1783692277",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10230436/35186cf82b1bb39bd91d5f03ce8edf81-600x338.jpg?v=1783692277",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10173434/1ee7826305419a7336b2f1a683f41772-600x400.jpg?v=1783672475"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:26.549Z"
+  },
+  "https://bestcarweb.jp/feature/column/1530981": {
+    "title_zh": "皇冠运动版是皇冠家族的主力吗？与跨界、轿车、旅行版对比可见魅力",
+    "summary_short": "皇冠运动版以紧凑尺寸、运动设计和合理价格成为皇冠家族中最具吸引力的选择。",
+    "summary_long": "皇冠已从单一轿车名称扩展为家族系列，包括跨界、运动、轿车和旅行版。其中，皇冠运动版凭借 4720mm 车长、520 万日元起售价和 21.3km/L 油耗，在操控便利性、个性设计和日常实用性之间取得平衡。相比其他车型，它更适合追求现代高级感而非传统庄重感的用户。",
+    "highlights_zh": [
+      "车长 4720mm",
+      "起售价 520 万日元",
+      "HEV 油耗 21.3km/L",
+      "兼顾运动外观与日常实用性"
+    ],
+    "entities": [
+      "皇冠",
+      "皇冠运动版 | Crown Sport",
+      "皇冠跨界版",
+      "皇冠轿车",
+      "皇冠旅行版"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15121432/crown-010_1.jpg?v=1784085273",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15121432/crown-010_1-600x400.jpg?v=1784085273",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14150445/IKE_317-66-600x400.jpg?v=1784009086"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:27.832Z"
+  },
+  "https://response.jp/article/2026/07/16/414122.html": {
+    "title_zh": "舍弗勒第六次荣获通用汽车“年度最佳供应商”奖",
+    "summary_short": "德国汽车零部件制造商舍弗勒凭借气门机构等发动机技术，第六次获得通用汽车“年度最佳供应商”奖。",
+    "summary_long": "德国汽车零部件制造商舍弗勒（Schaeffler）第六次荣获通用汽车（GM）“年度最佳供应商”奖。该奖项基于创新性、安全性、执行力、韧性和客户支持等标准，表彰舍弗勒在气门机构系统等关键发动机技术领域的贡献。",
+    "highlights_zh": [
+      "舍弗勒第六次获通用汽车年度供应商奖",
+      "表彰其在气门机构等发动机技术领域的贡献",
+      "评选标准包括创新、安全、执行力等"
+    ],
+    "entities": [
+      "舍弗勒",
+      "通用汽车 | GM",
+      "气门机构系统",
+      "发动机技术"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228036.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228036.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:30.676Z"
+  },
+  "https://response.jp/article/2026/07/16/414131.html": {
+    "title_zh": "Joyful 本田宇都宫店安装太阳能车棚，发电容量 1126.4kW 为行业最大级",
+    "summary_short": "Joyful 本田在宇都宫店启用太阳能车棚，覆盖 346 个车位，发电容量 1126.4kW，年发电约 120 万 kWh。",
+    "summary_long": "Joyful 本田宣布其宇都宫店（栃木县河内郡上三川町）的太阳能车棚已开始运营。该车棚覆盖 346 个停车位，发电容量达 1126.4kW，为日本家居中心行业最大规模之一，预计年发电量约 120 万 kWh。项目利用日常使用的停车场空间创造可再生能源，旨在实现稳定能源供应和可持续店铺运营。",
+    "highlights_zh": [
+      "覆盖 346 个停车位",
+      "发电容量 1126.4kW",
+      "年发电约 120 万 kWh",
+      "行业最大级规模"
+    ],
+    "entities": [
+      "Joyful 本田 | Joyful Honda",
+      "宇都宫店",
+      "太阳能车棚",
+      "家居中心",
+      "可再生能源"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228059.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228059.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:30.793Z"
+  },
+  "https://response.jp/article/2026/07/16/414127.html": {
+    "title_zh": "乘换案内 App 发售近江巴士·湖国巴士暑假 1 日通票",
+    "summary_short": "Jordan 乘换案内 App 发售近江巴士和湖国巴士暑假 1 日通票，500 日元可全家乘坐，7 月 18 日起可用。",
+    "summary_long": "Jordan 公司通过其“乘换案内”App 发售近江巴士和湖国巴士的“暑假 1 日通票”移动电子票。该票允许一名成人和最多两名儿童在一天内无限次乘坐近江铁道巴士和湖国巴士全线，价格为 500 日元（含税）。通票仅限有儿童（小学生及以下）同行的家庭使用，单独成人不可购买。销售期至 8 月 31 日，使用期为 2026 年 7 月 18 日至 8 月 31 日，仅限购买当日有效。",
+    "highlights_zh": [
+      "乘换案内 App 发售移动电子票",
+      "1 名成人+2 名儿童全天无限乘",
+      "售价 500 日元",
+      "使用期 7 月 18 日至 8 月 31 日"
+    ],
+    "entities": [
+      "ジョルダン",
+      "乘换案内",
+      "近江巴士 | 近江バス",
+      "湖国巴士 | 湖国バス",
+      "暑假 1 日通票"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228056.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228056.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:34.878Z"
+  },
+  "https://response.jp/article/2026/07/16/414142.html": {
+    "title_zh": "铃木 Jimny 系列专用“Bump Adjust Drag Rod End PRO”上市，专为高离地设计提升强度",
+    "summary_short": "Moonface Genb 推出铃木 Jimny 系列专用 Bump Adjust Drag Rod End PRO，专为高离地车辆设计，提升强度与耐久性。",
+    "summary_long": "SPK 担任总代理的 Moonface Genb 品牌推出铃木 Jimny（JB64W）、Jimny Sierra（JB74W）和 Jimny Nomad（JC74W）用售后零件“Bump Adjust Drag Rod End PRO”，含税价 25300 日元。该产品继承原有设计理念，专为高离地及重度改装车辆开发，扩大补偿角度并大幅提升强度与耐久性。通过修正因升高导致的转向几何紊乱，抑制 bump steer，并将转向阻尼器调整至最佳安装角度，充分发挥其衰减性能。采用大直径球头销与锻造壳体，提供直接且刚性的转向手感；锻造 pitman 臂与 drag rod 端部确保高刚性与耐久性，适用于大直径越野轮胎及竞技等严苛环境。",
+    "highlights_zh": [
+      "专为高离地车辆设计",
+      "补偿角度扩大",
+      "大直径球头销与锻造壳体",
+      "适用于大轮胎及竞技用途"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "ジムニー",
+      "ジムニー シエラ",
+      "ジムニー ノマド",
+      "Moonface Genb"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228087.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228087.jpg",
+      "https://response.jp/imgs/fill2/2228088.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:36.114Z"
+  },
+  "https://response.jp/article/2026/07/16/414140.html": {
+    "title_zh": "丰田技术开发引入 JAPAN AI 人事系统，年省 800 份简历筛选工时",
+    "summary_short": "丰田技术开发引入 JAPAN AI 人事平台，实现简历筛选标准统一，大幅削减每年 800 份申请的人工审核工时。",
+    "summary_long": "JAPAN AI 宣布其人事与招聘支持 AI 平台“JAPAN AI HR”被丰田技术开发（Toyota Technical Development）采用。该平台帮助统一了简历筛选标准，并将原本由一人负责的每年约 800 份申请材料的筛选工时大幅削减。丰田技术开发主要从事车辆部件评估所需的测量仿真工具开发，以及丰田集团新技术的专利保护业务。",
+    "highlights_zh": [
+      "JAPAN AI HR 平台被丰田技术开发采用",
+      "统一简历筛选标准",
+      "年处理约 800 份申请",
+      "覆盖测量仿真与知识产权两大业务"
+    ],
+    "entities": [
+      "丰田技术开发 | Toyota Technical Development",
+      "JAPAN AI",
+      "JAPAN AI HR",
+      "人事与招聘支持 AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228109.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228109.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:38.462Z"
+  },
+  "https://response.jp/article/2026/07/16/414130.html": {
+    "title_zh": "丰田股价连续三日上涨，与美半导体巨头合作物理 AI",
+    "summary_short": "丰田股价连续三日上涨，因与美半导体巨头合作物理 AI，但日经指数受半导体股拖累大幅下跌。",
+    "summary_long": "丰田股价连续三日上涨，主要受与美半导体巨头在物理 AI 领域合作的利好消息推动。然而，日经平均指数 16 日大幅下跌 1915 点，收于 66835 点，因美国半导体股下跌及韩国市场走弱拖累。纽约道琼斯指数则因美联储加息预期降温而上涨 150 点。",
+    "highlights_zh": [
+      "丰田股价三日连涨",
+      "与美半导体巨头合作物理 AI",
+      "日经指数受半导体股拖累大跌",
+      "纽约道指因加息预期降温上涨"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "物理 AI",
+      "日经平均指数",
+      "美联储"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228064.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228064.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:39.294Z"
+  },
+  "https://response.jp/article/2026/07/16/414135.html": {
+    "title_zh": "NAVITIME Japan 与台湾酒店协会合作，在应用中新增 4000 家酒店信息",
+    "summary_short": "NAVITIME Japan 与台湾酒店协会合作，在台湾旅游导航应用中新增 4000 家酒店信息，推动台湾观光。",
+    "summary_long": "NAVITIME Japan 宣布与台湾酒店协会签署基本合作协议，共同推进台湾观光。作为合作第一步，已在台湾当地酒店发放促进其台湾旅游导航应用“Taiwan Travel by NAVITIME”使用的贴纸。此次正式展开合作，将在应用内提供台湾酒店协会旗下 4000 家酒店的信息。",
+    "highlights_zh": [
+      "与台湾酒店协会签署合作协议",
+      "应用内新增 4000 家酒店信息",
+      "推动台湾观光旅游"
+    ],
+    "entities": [
+      "NAVITIME Japan",
+      "台湾酒店协会",
+      "Taiwan Travel by NAVITIME"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228065.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228065.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:42.530Z"
+  },
+  "https://bestcarweb.jp/feature/column/1580212": {
+    "title_zh": "为何不让？高速超车道长期占用的现象与对策",
+    "summary_short": "高速超车道被长期占用，引发交通混乱与安全隐患，文章分析原因并给出应对建议。",
+    "summary_long": "高速公路上，许多驾驶员习惯长时间占用超车道，即使未超车也不愿让出，导致交通流受阻，甚至引发事故。日本《道路交通法》明确规定超车后应迅速返回行车道，但现实中这一行为屡禁不止。文章分析了背后的心理原因（如“我开的是法定速度”），指出常见车型，并强调该行为属于“车辆通行带违反”，面临罚款和扣分。同时，给出了安全应对建议，如保持耐心、使用灯光提醒等。",
+    "highlights_zh": [
+      "超车道长期占用违反《道路交通法》第 20 条",
+      "常见于节假日",
+      "违规面临 6000 日元罚款及 1 点扣分",
+      "易引发追尾、路怒等安全隐患"
+    ],
+    "entities": [
+      "日本",
+      "道路交通法",
+      "超车道",
+      "车辆通行带违反"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14173127/naka.jpeg?v=1784017888",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14173127/naka-600x426.jpeg?v=1784017888",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14150445/IKE_317-66-600x400.jpg?v=1784009086"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:43.154Z"
+  },
+  "https://response.jp/article/2026/07/16/414139.html": {
+    "title_zh": "雷诺 Kangoo 限量版“蓝色糖衣”抽签发售",
+    "summary_short": "雷诺日本推出 Kangoo 和 Grand Kangoo 限量版，采用法国传统糖果“糖衣”为灵感的蓝色车漆，共 150 台，抽签发售。",
+    "summary_long": "雷诺日本于 2025 年 7 月 16 日起，以抽签方式限量发售 150 台基于 Kangoo 和 Grand Kangoo 的特别版车型“Kangoo Couleur”和“Grand Kangoo Couleur”。限定车身颜色“蓝色糖衣”灵感源自法国传统糖果“糖衣”。抽签申请期为 7 月 16 日至 26 日，若申请数未达限额则转为先到先得。价格方面，Kangoo Couleur 汽油版和柴油版均为 449 万日元，Grand Kangoo Couleur 为 482 万日元。标配双后门、黑色保险杠、扩展抓地力系统及 16 英寸全季节轮胎。安全配置包括自适应巡航、主动紧急制动、车道保持辅助和泊车辅助。",
+    "highlights_zh": [
+      "限定色“蓝色糖衣”源自法国糖果",
+      "共 150 台",
+      "Kangoo Couleur 起价 449 万日元",
+      "标配双后门和全季节轮胎"
+    ],
+    "entities": [
+      "雷诺",
+      "Kangoo",
+      "Grand Kangoo",
+      "蓝色糖衣"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228095.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228095.jpg",
+      "https://response.jp/imgs/fill2/2228094.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:46.617Z"
+  },
+  "https://bestcarweb.jp/feature/column/1568151": {
+    "title_zh": "日产ルーク斯内饰能否媲美本田 N-BOX？轻超级高度车型质感对决",
+    "summary_short": "日产ルークス内饰质感逼近本田 N-BOX，以明亮空间和柔和设计打造家庭感，但 N-BOX 在配置和细节上仍占优势。",
+    "summary_long": "轻超级高度车型中，本田 N-BOX 凭借宽敞空间和内饰质感长期占据王者地位。日产ルークス通过“圆角方形”设计理念，采用米色内饰营造明亮开放感，后座空间充裕，并提供深色内饰及高级选装包提升质感。然而，N-BOX 在标准配置上更为丰富，如 7 英寸液晶仪表、电子手刹等，整体平衡性更佳。两者价格相近，但 N-BOX 在细节和功能上仍略胜一筹。",
+    "highlights_zh": [
+      "ルークス内饰明亮",
+      "后座腿部空间 795mm",
+      "可选深色内饰及高级选装包",
+      "N-BOX 配置更丰富"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "ルークス",
+      "本田 | Honda",
+      "N-BOX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09141258/0db0f404ba9e765c3a23e20bd4217bee.jpg?v=1783573980",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09141258/0db0f404ba9e765c3a23e20bd4217bee-600x400.jpg?v=1783573980",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14150445/IKE_317-66-600x400.jpg?v=1784009086"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:48.926Z"
+  },
+  "https://bestcarweb.jp/feature/column/1533846": {
+    "title_zh": "雷克萨斯 LBX MORIZO RR：680 万日元也值？与普通 LBX 截然不同的理由",
+    "summary_short": "雷克萨斯 LBX MORIZO RR 搭载 GR Yaris 同款 1.6T 发动机，304 马力，四驱，可选 6MT，售价 680 万日元起，与普通 LBX 截然不同。",
+    "summary_long": "雷克萨斯最小 SUV LBX 推出了高性能版本 MORIZO RR，起售价 680 万日元，比普通 LBX（420 万日元起）贵了 220 万日元以上。但它的动力系统完全不同：搭载 1.6L 直列三缸涡轮增压发动机，最大功率 304 马力，最大扭矩 40.8kgm，匹配 Direct Shift-8AT 或 6 速 iMT 变速箱，并配备四驱系统，这套动力总成直接取自 GR Yaris 和 GR Corolla。WLTC 油耗方面，8AT 版为 10.7km/L，6MT 版为 12.5km/L，远低于普通 LBX 的 28km/L 左右。MORIZO RR 并非普通 LBX 的高配版，而是一款披着 LBX 外壳的真正运动车型，专注于驾驶乐趣，甚至提供 6 速手动变速箱，对于追求驾驶激情的消费者来说极具吸引力。",
+    "highlights_zh": [
+      "搭载 GR Yaris 同款 1.6T 三缸涡轮增压…",
+      "最大功率 304 马力",
+      "可选 6 速 iMT 手动变速箱",
+      "起售价 680 万日元"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LBX MORIZO RR",
+      "GR Yaris",
+      "GR Corolla",
+      "Direct Shift-8AT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09165707/MG_1211.jpg?v=1780991829",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09165707/MG_1211-600x400.jpg?v=1780991829",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14150445/IKE_317-66-600x400.jpg?v=1784009086"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:51.783Z"
+  },
+  "https://bestcarweb.jp/news/1576480": {
+    "title_zh": "初代 Logo 复活！Step Wagon 30 周年特别版再评“不尖锐的魅力”",
+    "summary_short": "本田 Step Wagon 推出 30 周年特别版，复刻初代 Logo，以直系设计和不尖锐的魅力在激进 MPV 市场中独树一帜。",
+    "summary_long": "本田 Step Wagon 于 2026 年迎来诞生 30 周年，为此推出 30 周年特别仕样车，包括 e:HEV Air EX 和 e:HEV Spada 两款。最大亮点是车尾复刻初代 Logo 的专属徽章，内饰也配有专属标签和特别版 H 标背景色。车辆标配多视角摄像头、后出库辅助、自适应远光灯等安全装备，并配备第二排座椅加热和 LED 室内灯。价格分别为 409.86 万日元和 415.91 万日元，在丰富配置下保持亲民定价。",
+    "highlights_zh": [
+      "复刻初代 Logo 徽章",
+      "标配多视角摄像头等先进安全装备",
+      "第二排座椅加热和 LED 灯提升舒适性",
+      "价格亲民"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ステップワゴン",
+      "30 周年特别仕样车",
+      "e:HEV",
+      "Air EX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13170408/044_R1_7069_1.jpg?v=1783929850",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13170408/044_R1_7069_1-600x400.jpg?v=1783929850",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10173434/1ee7826305419a7336b2f1a683f41772-600x400.jpg?v=1783672475"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:53.720Z"
+  },
+  "https://www.motor1.com/news/801792/aston-martin-single-seat-supercar-track-video/": {
+    "title_zh": "阿斯顿·马丁单座超跑赛道测试声浪震撼",
+    "summary_short": "阿斯顿·马丁单座超跑在葡萄牙阿尔加维赛道测试，搭载自然吸气 V12 混动系统，声浪震撼。",
+    "summary_long": "阿斯顿·马丁正在开发一款极端单座超跑，最新视频显示该车在葡萄牙阿尔加维国际赛道进行测试。车辆搭载自然吸气 V12 混合动力系统，排气声浪震撼。据推测，该车基于 Valkyrie 赛道版大幅改装，采用 F1 风格鼻锥、外露推杆悬挂和光环保护装置，动力可能达到 1200 马力。",
+    "highlights_zh": [
+      "单座超跑赛道测试",
+      "自然吸气 V12 混动系统",
+      "F1 风格设计元素",
+      "预计 1200 马力"
+    ],
+    "entities": [
+      "阿斯顿·马丁 | Aston Martin",
+      "Valkyrie",
+      "阿尔加维国际赛道",
+      "V12 发动机",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZElP7/s1/aston-martin-single-seat-supercar.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:55.523Z"
+  },
+  "https://www.motor1.com/news/801789/hyundai-tracker/": {
+    "title_zh": "车主发现 Hyundai 新车暗藏追踪模块",
+    "summary_short": "一位 Hyundai Santa Cruz 车主发现经销商在车内暗装追踪模块，引发对车辆数据收集的争议。",
+    "summary_long": "一位 Hyundai Santa Cruz 车主在购车后收到一封感谢他注册追踪服务的邮件，但他从未主动注册。经过检查，他在仪表板下方发现了一个隐藏的追踪模块，该模块通过 OBD-II 接口连接，能够收集车辆位置和使用数据。车主在 TikTok 上分享了这一发现，引发广泛讨论，视频观看量超过 57 万次。该事件凸显了经销商在未告知车主的情况下安装追踪设备的做法，以及车辆数据隐私的潜在风险。",
+    "highlights_zh": [
+      "车主购车后收到追踪服务注册确认邮件",
+      "在仪表板下发现隐藏的 CarRx 追踪模块",
+      "模块通过 OBD-II 接口收集车辆数据",
+      "视频引发 57 万次观看"
+    ],
+    "entities": [
+      "Hyundai",
+      "Hyundai Santa Cruz",
+      "CarRx",
+      "OBD-II"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPl8y/s1/man-buys-a-hyundai.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:57.598Z"
+  },
+  "https://www.motor1.com/news/801836/electric-bmw-m3-more-power-than-gas-model/": {
+    "title_zh": "电动宝马 M3 动力将超燃油版，但不会过度",
+    "summary_short": "宝马 M 部门负责人透露，电动 M3 动力将超过燃油版 543 马力，但不会追求 1000 马力以上，注重可持续性。",
+    "summary_long": "宝马 M 部门负责人 Frank van Meel 表示，明年推出的纯电动 M3 动力将超过燃油版 M3 CS 的 543 马力。虽然技术上可实现超过 1000 马力，但考虑到散热和可持续性，量产版不会追求极端功率。他强调，车辆需要整体平衡，而非单纯追求数字。",
+    "highlights_zh": [
+      "电动 M3 动力将超过燃油版 543 马力",
+      "技术上可实现 1000 马力以上",
+      "过度功率会导致散热问题",
+      "宝马 M 注重整体平衡"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 M | BMW M",
+      "M3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJ9gx/s1/bmw-m-concept-neue-klasse-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:15:59.465Z"
+  },
+  "https://insideevs.com/news/801829/bmw-toyota-renewable-gas-trial/": {
+    "title_zh": "丰田与宝马测试可再生汽油作为电动车替代方案",
+    "summary_short": "丰田和宝马在西班牙启动为期六个月的试验，使用 Repsol 的可再生汽油 Nexa 95，旨在减少 70%以上排放。",
+    "summary_long": "丰田和宝马正与 Repsol 和博世合作，在西班牙测试可再生汽油 Nexa 95。该燃料由有机废物制成，相比传统汽油可减少 70%以上的有害排放。试验车队约 20 辆车将专用于此燃料，博世提供数字燃料追踪系统。可再生汽油作为即用型替代燃料，其燃烧释放的二氧化碳与有机物质生命周期中吸收的相当。此举与欧盟 2035 年禁燃令的松动有关，新规允许使用可持续燃料的燃油车继续销售。",
+    "highlights_zh": [
+      "丰田与宝马合作测试可再生汽油",
+      "燃料由有机废物制成",
+      "西班牙试验为期六个月",
+      "欧盟新规为可持续燃料燃油车留出空间"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "宝马 | BMW",
+      "Repsol",
+      "博世",
+      "可再生汽油"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8l4g/s1/repsol-nexa-95-renewable-gas.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:16:01.451Z"
+  },
+  "https://www.motor1.com/news/801822/toyota-gr-gt-extreme-version-spy-video/": {
+    "title_zh": "丰田 GR GT 超级跑车极端版谍照曝光",
+    "summary_short": "丰田在纽博格林测试 GR GT 极端版，配备大型尾翼和碳纤维通风口，或为高性能街道版。",
+    "summary_long": "丰田全新 GR GT 超级跑车于去年 12 月首次亮相，但量产版要到明年才上市。最新谍照显示，丰田已在纽博格林测试一款更激进的版本，可能为街道合法的高性能车型。该车配备大型天鹅颈尾翼、前分流器、碳纤维轮拱通风口和保险杠侧翼，部分设计源自 GR GT3 赛车。测试中标准版与极端版同场行驶，凸显差异。这些组件可能作为选装包提供，或推出独立 GR GT 变体。",
+    "highlights_zh": [
+      "丰田 GR GT 极端版纽博格林测试",
+      "配备大型尾翼和碳纤维通风口",
+      "借鉴 GR GT3 赛车空气动力学设计",
+      "可能作为选装包或独立变体推出"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR GT",
+      "GR GT3",
+      "纽博格林"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3Bl0X/s1/toyota-gr-gt-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:16:03.896Z"
+  },
+  "https://www.motor1.com/news/801809/range-rover-sport-electric-first-look/": {
+    "title_zh": "路虎揽胜运动版纯电版首次亮相",
+    "summary_short": "路虎揽胜运动版纯电版将于 2026 年晚些时候上市，外观与燃油版几乎一致，搭载双电机和 118.5 千瓦时电池，续航约 531 公里。",
+    "summary_long": "路虎首次展示了其纯电版揽胜运动版，该车将于 2026 年晚些时候上市，与燃油版一同销售。外观上，纯电版与燃油版几乎相同，仅取消了排气管并采用封闭式格栅。新车基于 MLA 平台打造，该平台可兼容燃油、插混和纯电动力。动力方面，提供 444 或 542 马力两种双电机版本，峰值扭矩 850 牛·米，电池容量 118.5 千瓦时，EPA 续航约 531 公里。",
+    "highlights_zh": [
+      "外观与燃油版几乎一致",
+      "基于 MLA 平台打造",
+      "双电机 444 或 542 马力",
+      "EPA 续航约 531 公里"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "揽胜运动版 | Range Rover Sport",
+      "MLA 平台",
+      "双电机",
+      "118.5 千瓦时电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGN4N/s1/range-rover-sport-electric-prototyp.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:16:05.027Z"
+  },
+  "https://insideevs.com/news/801814/2026-hyundai-ioniq-5-n-price-specs-official/": {
+    "title_zh": "2026 款现代 Ioniq 5 N：史上最便宜",
+    "summary_short": "现代 Ioniq 5 N 降价 6300 美元，起售价 61,500 美元，新增 NACS 充电口和十级漂移模式。",
+    "summary_long": "2026 款现代 Ioniq 5 N 起售价降至 61,500 美元，比老款便宜 6300 美元，更接近特斯拉 Model Y Performance 的 59,630 美元。新车新增原生 NACS 充电口，可直接使用特斯拉超充桩，并标配车内摄像头和十级可调漂移模式。续航仍为 221 英里，远低于 Model Y 的 306 英里，但驾驶乐趣无可比拟。",
+    "highlights_zh": [
+      "降价 6300 美元至 61",
+      "新增原生 NACS 充电口",
+      "漂移模式增至十级可调",
+      "续航 221 英里"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "Ioniq 5 N",
+      "特斯拉 | Tesla",
+      "Model Y Performance",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJz4X/s1/2026-hyundai-ioniq-6-n.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:16:07.444Z"
+  },
+  "https://www.motor1.com/news/801718/take-5-customer-crashes/": {
+    "title_zh": "男子为 50 美元换油去 Take 5，却被迫支付 375 美元拖车费",
+    "summary_short": "一名 Take 5 顾客在换油时冲入车间，视频显示技师手势不清导致事故，最终需支付 375 美元拖车费。",
+    "summary_long": "一名男子前往 Take 5 进行 50 美元的换油服务，却因技师手势不清，在驶入车间时发生事故，最终不得不支付 375 美元的拖车费。该事件被 TikTok 用户记录并引发热议，视频观看量超过 5.3 万次。评论指出，技师的手势信号不明确是导致事故的主要原因。",
+    "highlights_zh": [
+      "顾客为 50 美元换油服务前往 Take 5",
+      "因技师手势不清导致车辆冲入车间",
+      "最终被迫支付 375 美元拖车费",
+      "TikTok 视频引发热议"
+    ],
+    "entities": [
+      "Take 5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJYb4/s1/take-5-worker-tells-driver-to-cut.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-16T15:16:08.504Z"
   }
 }
