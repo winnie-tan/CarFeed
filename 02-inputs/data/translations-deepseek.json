@@ -78775,5 +78775,832 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-16T15:16:08.504Z"
+  },
+  "https://response.jp/article/2026/07/17/414148.html": {
+    "title_zh": "日产全新 Elgrand 预售超 6000 台，品牌口号改为“らしく走れ”",
+    "summary_short": "日产时隔 16 年全面改良大型 MPV Elgrand，预售超 6000 台，搭载新一代 e-POWER，品牌口号从“やっちゃえ”改为“らしく走れ”。",
+    "summary_long": "日产汽车推出时隔 16 年全面改良的大型 MPV 全新 Elgrand，仅提供搭载新一代 e-POWER 混动技术的车型，主打高驾驶性能和乘坐舒适性，以挑战丰田 Alphard 主导的市场。新车价格 689 万日元起，比同级 Alphard 高 20 万日元以上，但通过先进技术实现差异化。目前一般客户订单超 5000 台，含法人合计约 6000 台。同时，日产将品牌口号从激进的“やっちゃえ NISSAN”改为更谦逊的“らしく走れ NISSAN”，强调个性与合规。",
+    "highlights_zh": [
+      "日产全新 Elgrand 预售超 6000 台",
+      "搭载新一代 e-POWER 混动技术",
+      "价格 689 万日元起",
+      "品牌口号改为“らしく走れ”"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "エルグランド",
+      "アルファード",
+      "e-POWER",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228225.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228225.jpg",
+      "https://response.jp/imgs/fill2/2228224.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:27.135Z"
+  },
+  "https://bestcarweb.jp/fullload/1578103": {
+    "title_zh": "绿色 vs 蓝色：哪种氢最适合大型卡车燃料？",
+    "summary_short": "瑞典大学研究显示，绿色氢（可再生能源电解）是大型卡车最环保的燃料选择，蓝色氢次之。",
+    "summary_long": "氢燃料被视为“终极环保车”动力源，但乘用车用氢进展缓慢，而卡车用氢正稳步推进。瑞典查尔姆斯理工大学对卡车用氢进行生命周期评估，比较了不同制氢方法的环境影响。绿色氢（可再生能源电解）碳排放最低，蓝色氢（天然气重整+碳捕获）次之，灰色氢（天然气重整）和黑色/棕色氢（煤制氢）则排放较高。研究结果可应用于其他地区，为政策制定提供依据。",
+    "highlights_zh": [
+      "绿色氢由可再生能源电解水制得",
+      "蓝色氢通过碳捕获技术减少灰色氢的排放",
+      "灰色氢和黑色氢碳排放高",
+      "研究结果可指导各国卡车燃料政策"
+    ],
+    "entities": [
+      "查尔姆斯理工大学",
+      "戴姆勒卡车",
+      "绿色氢",
+      "蓝色氢",
+      "生命周期评估"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/13115720/00-25DT247_023.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/14133040/00_2026071301_02-1024x681.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/08141301/00-mk02-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:28.667Z"
+  },
+  "https://response.jp/article/2026/07/17/414153.html": {
+    "title_zh": "日产发布新品牌口号“像自己一样奔跑，日产。”",
+    "summary_short": "日产发布新品牌口号“らしく走れ、日産。”，强调挑战精神与通过技术实现客户感动。",
+    "summary_long": "日产汽车在 7 月 16 日发布新款 Elgrand 的同时，公布了新品牌口号“らしく走れ、日産。”（像自己一样奔跑，日产）。执行董事杉本全表示，这一口号蕴含了日产未来的愿景。日产自创立以来秉承“做他人不做之事”的精神，通过 GT-R 追求极致性能，通过 Leaf 展现电动车独特性能，并通过 e-POWER 将电机驱动的驾驶乐趣带给广泛用户。同时强调，日产的目标并非技术本身，而是通过技术实现客户的喜悦、感动和更丰富的体验。",
+    "highlights_zh": [
+      "日产发布新品牌口号“らしく走れ、日産",
+      "口号体现“做他人不做之事”的挑战精神",
+      "GT-R、Leaf、e-POWER 是技术代表",
+      "目标是通过技术实现客户感动与丰富体验"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "エルグランド",
+      "GT-R",
+      "リーフ",
+      "e-POWER"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228206.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228206.jpg",
+      "https://response.jp/imgs/zoom1/2228212.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:32.050Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1580771": {
+    "title_zh": "SWANS 驾驶太阳镜：夏日刺眼阳光下不再错过信号灯",
+    "summary_short": "SWANS 驾驶太阳镜采用特殊镜片，增强红黄色信号可见度，同时防强光，提升夏日驾驶安全。",
+    "summary_long": "SWANS 品牌推出的驾驶太阳镜，专为夏日驾驶设计。其 ULTRA LENS 镜片能增强红色和黄色光的可见度，使信号灯、前车刹车灯和标志更醒目，同时有效阻挡强烈阳光，保护眼睛。此外，SWANS 还提供夜间用夜视黄镜片，通过优先过滤蓝光来减少眩光，提升夜间驾驶安全性。该产品由赛车手山野哲也监制，历经十年研发，品质可靠。",
+    "highlights_zh": [
+      "增强红黄色信号可见度",
+      "阻挡强光",
+      "赛车手监制",
+      "夜间款可减少眩光"
+    ],
+    "entities": [
+      "SWANS",
+      "山野哲也"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15164752/samune-0717.jpg?v=1784101673",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15164752/samune-0717-600x322.jpg?v=1784101673",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11171233/samune-0714-600x358.jpg?v=1783757555"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:33.427Z"
+  },
+  "https://response.jp/article/2026/07/17/414149.html": {
+    "title_zh": "日产全新 Kicks：成长的第一步",
+    "summary_short": "日产全新 Kicks 被视为战略车型，是公司迈向成长的重要一步。",
+    "summary_long": "根据 7 月 9 日至 15 日付费会员文章的访问量排名，日产全新 Kicks 位居榜首。日产执行董事杉本表示，该车型是战略模型，也是日产实现增长的关键一步。",
+    "highlights_zh": [
+      "全新 Kicks 登顶付费文章排行",
+      "被视为日产战略车型",
+      "执行董事称是成长第一步"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Kicks"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228116.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228116.jpg",
+      "https://response.jp/imgs/zoom/2211017.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:34.797Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562984": {
+    "title_zh": "车名猜谜：第 811 回——本田雅阁与 Torneo",
+    "summary_short": "本田雅阁第六代车型及姊妹车 Torneo，2000 年改款新增高性能版 Euro R。",
+    "summary_long": "本田雅阁于 1976 年诞生，是本田的代表性 FF 轿车。1997 年推出的第六代车型增加了姊妹车 Torneo，动力搭载 1.8L 和 2.0L VTEC 发动机。2000 年改款时新增了 Euro R 版本，配备专属调校的 2.2L DOHC VTEC 发动机（220 马力）、专用齿比 5 速手动变速箱、Recaro 桶椅和 MOMO 方向盘等运动装备。",
+    "highlights_zh": [
+      "本田雅阁第六代与姊妹车 Torneo",
+      "2000 年改款新增 Euro R 高性能版",
+      "2.2L DOHC VTEC 发动机输出 220 马…",
+      "配备 Recaro 座椅和 MOMO 方向盘"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅阁",
+      "Torneo",
+      "Euro R"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29145142/main_am199901_acd025_01001H.jpg?v=1782712303",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29145142/main_am199901_acd025_01001H-600x400.jpg?v=1782712303",
+      "https://img.bestcarweb.jp/wp-content/uploads/2022/02/28133842/0034-600x400.jpg?v=1646023124"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:38.021Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1570477": {
+    "title_zh": "LED 也不甘示弱！2026 年上半年见到的模拟方向幕公交车",
+    "summary_short": "2026 年上半年，模拟方向幕公交车在日本各地仍可见到，尤其在 JR 大阪站附近，作者一小时内就拍到 5 辆。",
+    "summary_long": "模拟方向幕（卷帘式）公交车曾随处可见，如今已成怀旧之物，但尚未完全消失。2026 年 1 月至 6 月，作者在日本各地仍看到多辆配备模拟方向幕的公交车。例如，在 JR 大阪站巴士总站，大阪城市巴士中仍有数辆模拟方向幕车辆在运营，令作者惊讶又怀念。一小时内，作者记录了 5 辆这样的公交车。",
+    "highlights_zh": [
+      "模拟方向幕公交车尚未绝迹",
+      "大阪站一小时内拍到 5 辆",
+      "与 LED 显示形成对比",
+      "引发怀旧情绪"
+    ],
+    "entities": [
+      "模拟方向幕",
+      "LED",
+      "公交车",
+      "大阪"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/06115317/anlgschld260106_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/03145948/S__16498705_0-1024x768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17213859/00_nihonno_001_head.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:41.502Z"
+  },
+  "https://response.jp/article/2026/07/17/414161.html": {
+    "title_zh": "NSX 也能去露营？本田 Access 展示车中泊与户外活用术",
+    "summary_short": "本田 Access 举办户外体验拍摄会，展示从 NSX 到 N-VAN e:等车型的露营与车中泊方案，拓展汽车户外可能性。",
+    "summary_long": "本田 Access 举办了一场户外体验拍摄会，以车中泊、露营和户外休闲为主题，展示了多款本田车型的户外改装方案。参展车辆包括 Step Wagon、Freed 等热门 MPV，Super-ONE、N-VAN e:等纯电动车，以及 NSX、Civic RS 等运动车型，每辆车都设有内饰布置主题，提供具体且实用的使用方式。其中 NSX 和 Civic RS 作为运动车型被赋予露营用途，NSX 虽为双座跑车，但发动机后方的行李厢实际装载容量超出预期，展示了跑车也能参与户外活动的可能性。",
+    "highlights_zh": [
+      "本田 Access 举办户外体验拍摄会",
+      "展示 NSX、Civic RS 等运动车型的露营方案",
+      "NSX 后部行李厢装载容量超出预期",
+      "涵盖 MPV、BEV 及跑车多种车型"
+    ],
+    "entities": [
+      "本田 Access | Honda Access",
+      "NSX",
+      "シビックRS",
+      "ステップワゴン",
+      "N-VAN e:"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228170.png",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228170.png",
+      "https://response.jp/imgs/fill2/2228171.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:44.217Z"
+  },
+  "https://response.jp/article/2026/07/17/414158.html": {
+    "title_zh": "亚斯泰摩与东北大学开发劣化 PBT 强度恢复技术，推动汽车零部件水平回收",
+    "summary_short": "亚斯泰摩与东北大学联合开发新技术，通过添加链延长剂恢复劣化 PBT 的强度，实现汽车零部件的水平回收。",
+    "summary_long": "亚斯泰摩与东北大学环境科学研究科共同开发了一项回收技术，能够恢复在高温高湿环境下劣化的工程塑料 PBT（聚对苯二甲酸丁二醇酯）的强度。PBT 广泛用于汽车零部件和电子连接器，但使用中分子链断裂导致强度下降，影响再利用品质。该技术通过添加链延长剂，重新结合断裂的高分子链，恢复材料的分子量和物理性能，有望实现汽车零部件的水平回收。",
+    "highlights_zh": [
+      "开发劣化 PBT 强度恢复技术",
+      "添加链延长剂重新结合分子链",
+      "推动汽车零部件水平回收",
+      "PBT 广泛用于汽车和电子部件"
+    ],
+    "entities": [
+      "亚斯泰摩",
+      "东北大学",
+      "聚对苯二甲酸丁二醇酯",
+      "链延长剂",
+      "水平回收"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228247.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228247.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:46.033Z"
+  },
+  "https://bestcarweb.jp/feature/column/1539456": {
+    "title_zh": "皇冠运动版与 Harrier 差价 150 万日元，Harrier 仍具性价比",
+    "summary_short": "丰田 Harrier 与皇冠运动版差价约 150 万日元，Harrier 虽属车型末期，但凭借成熟品质和价格优势仍值得考虑。",
+    "summary_long": "丰田旗下两款高端 SUV——Harrier 与皇冠运动版（Crown Sport）形成鲜明对比。皇冠运动版凭借最新设计和品牌溢价占据高位，而 Harrier 虽处车型生命周期末期，但价格优势显著。Harrier 入门价约 371 万日元，顶配 PHEV 约 626 万日元；皇冠运动版入门价 520 万日元，顶配 PHEV 达 765 万日元，差价约 150 万日元。尺寸上，Harrier 更高，皇冠运动版更低更宽，风格更运动。油耗方面两者接近，皇冠运动版的溢价主要来自品牌、最新技术和动感造型。",
+    "highlights_zh": [
+      "Harrier 与皇冠运动版差价约 150 万日元",
+      "Harrier 入门价 371 万日元",
+      "皇冠运动版更低更宽",
+      "油耗相近"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ハリアー",
+      "皇冠运动版 | Crown Sport"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22104410/kurasup-haria.jpg?v=1782092651",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22104410/kurasup-haria-600x400.jpg?v=1782092651",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13171256/AdobeStock_1835826112-600x466.jpeg?v=1783930377"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:49.539Z"
+  },
+  "https://response.jp/article/2026/07/17/414145.html": {
+    "title_zh": "7-Eleven 在姬路首次举办特斯拉试驾会",
+    "summary_short": "7-Eleven 与特斯拉合作，在姬路门店首次举办试驾会，提供 Model Y 体验，并计划年内增设超充站。",
+    "summary_long": "7-Eleven Japan 与 Tesla Japan 合作，于 2026 年 7 月 21 日、22 日、24 日在兵库县姬路市的 7-Eleven 姬路山田町店首次举办特斯拉试驾会。活动旨在让电动汽车更贴近消费者，面向潜在购车者及驾驶经验较少的人群，提供 Model Y 的试驾体验，包括性能、操控和先进功能。试驾需提前预约，免费参加，现场有工作人员陪同并解答车辆及充电相关问题。此外，7-Eleven 计划在 2026 年度内于约 10 家门店引入特斯拉 NACS 标准超充桩，最大功率 250kW，约 15-30 分钟即可补充足够电量。",
+    "highlights_zh": [
+      "7-Eleven 首次在门店举办特斯拉试驾会",
+      "试驾车型为 Model Y",
+      "2026 年度内计划约 10 家门店引入超充桩",
+      "超充桩最大功率 250kW"
+    ],
+    "entities": [
+      "7-Eleven",
+      "特斯拉",
+      "Model Y",
+      "姬路",
+      "超充桩"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228140.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228140.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:51.631Z"
+  },
+  "https://response.jp/article/2026/07/17/414159.html": {
+    "title_zh": "斯巴鲁全新电动 SUV‘安查特德’成为 WSBK 安全车，英国首秀",
+    "summary_short": "斯巴鲁全新电动 SUV 安查特德成为 FIM 世界超级摩托车锦标赛官方安全车，在英国首次动态亮相。",
+    "summary_long": "斯巴鲁全新纯电动 SUV‘安查特德’被选为 FIM 世界超级摩托车锦标赛（WSBK）的官方安全车，并在英国多宁顿公园赛道完成首次动态亮相。该车采用斯巴鲁标志性的对称全轮驱动系统，前后轴电机总扭矩约 430 牛米，0-100 公里/小时加速 5.0 秒，WLTP 续航超 480 公里。此次合作体现了斯巴鲁在电动化与可持续发展方面的承诺。",
+    "highlights_zh": [
+      "斯巴鲁全新电动 SUV 安查特德成为 WSBK 安全…",
+      "英国多宁顿公园赛道首次动态亮相",
+      "对称全轮驱动",
+      "0-100km/h 加速 5.0 秒"
+    ],
+    "entities": [
+      "斯巴鲁 | SUBARU",
+      "安查特德",
+      "FIM 世界超级摩托车锦标赛",
+      "多宁顿公园"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228268.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228268.jpg",
+      "https://response.jp/imgs/fill2/2228269.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:53.866Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562354": {
+    "title_zh": "丰田 Sienta 最大弱点：第三排座椅太简陋",
+    "summary_short": "丰田 Sienta 虽畅销，但第三排座椅质感过于简陋，希望改善。",
+    "summary_long": "丰田 Sienta 作为紧凑型三排座 MPV，凭借 5 号牌尺寸和灵活空间深受家庭用户喜爱。然而，第三排座椅因收纳设计而显得过于简陋，质感不足。此外，发动机噪音和悬架跳动也影响体验。",
+    "highlights_zh": [
+      "第三排座椅质感简陋",
+      "发动机噪音明显",
+      "悬架跳动影响舒适性",
+      "空间利用率高"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Sienta"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27213532/00_ketten_sienta_12_head.jpg?v=1782563733",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27213532/00_ketten_sienta_12_head-600x400.jpg?v=1782563733",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13171256/AdobeStock_1835826112-600x466.jpeg?v=1783930377"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:55.855Z"
+  },
+  "https://response.jp/article/2026/07/17/414156.html": {
+    "title_zh": "木瓜发酵食品 FPP 改善视野，8 成巴士司机效果显著",
+    "summary_short": "研究发现木瓜发酵食品 FPP 可改善职业司机视野，8 成巴士司机效果显著，成果发表于美国学术期刊。",
+    "summary_long": "岐阜县大里研究所与名古屋大学合作研究发现，木瓜发酵食品 FPP 能有效改善职业司机的疲劳恢复和视野。研究显示，约 80%的巴士司机在服用 FPP 后视野得到改善。该成果已发表于美国《Journal of the American Nutrition Association》。此前研究多关注认知和驾驶能力变化，而针对从身体内部维持和改善这些功能的预防性措施验证不足。",
+    "highlights_zh": [
+      "木瓜发酵食品 FPP 改善视野",
+      "8 成巴士司机效果显著",
+      "研究发表于美国学术期刊",
+      "填补预防性措施验证空白"
+    ],
+    "entities": [
+      "FPP",
+      "大里研究所",
+      "名古屋大学",
+      "Journal of the American Nutrition Association",
+      "职业司机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228244.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228244.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:34:59.248Z"
+  },
+  "https://response.jp/article/2026/07/17/414155.html": {
+    "title_zh": "菲亚特超小型 EV Topolino 登陆美国，作为最高时速 30km/h 的低速电动车销售，约 230 万日元",
+    "summary_short": "菲亚特超小型 EV Topolino 以约 1.4 万美元登陆美国，最高时速 30km/h，续航 74km，瞄准微出行市场。",
+    "summary_long": "菲亚特超小型电动车 Topolino 正式进入美国市场，售价 1 万 3995 美元（约 230 万日元），定位低速电动车（LSV），最高时速 19 英里（约 30km/h），续航 46 英里（约 74km）。该车搭载 5.4kWh 锂电池，可选装 LSV 套件将时速提升至 25 英里。Topolino 设计灵感源自意大利海岸风情，专为度假社区、私人住宅区等场景打造，而非城市通勤。Stellantis 旗下菲亚特借此布局快速增长的微出行市场。提供硬顶版和敞篷版（Dolcevita），配备 14 英寸轮毂、LED 灯组及数字仪表等。",
+    "highlights_zh": [
+      "售价 1.4 万美元",
+      "最高时速 30km/h",
+      "5.4kWh 锂电池",
+      "硬顶与敞篷两种版本"
+    ],
+    "entities": [
+      "菲亚特",
+      "Topolino",
+      "Stellantis",
+      "微出行",
+      "低速电动车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228240.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228240.jpg",
+      "https://response.jp/imgs/fill2/2228241.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:01.497Z"
+  },
+  "https://response.jp/article/2026/07/17/414162.html": {
+    "title_zh": "本田美国俄亥俄变速箱工厂迎来 30 周年，生产双电机混动系统等",
+    "summary_short": "本田美国俄亥俄变速箱工厂投产 30 年，累计投资超 10 亿美元，年产变速箱超 100 万、混动系统 50 万套。",
+    "summary_long": "本田位于美国俄亥俄州拉塞尔兹波因特的变速箱工厂（TMP-O）迎来投产 30 周年。该工厂 1996 年启动运营，主要生产双电机混合动力系统、本田和讴歌四驱车型用无级变速箱（CVT）及差速器等核心部件。工厂总投资超 10 亿美元，建筑面积约 102 万平方米，员工超 1200 人，年产能变速箱及齿轮组超 100 万台，双电机混动系统达 50 万套，同时生产四驱车型的分动箱和差速器。",
+    "highlights_zh": [
+      "本田俄亥俄变速箱工厂投产 30 周年",
+      "总投资超 10 亿美元",
+      "年产变速箱超 100 万、混动系统 50 万",
+      "生产双电机混动及四驱核心部件"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "讴歌",
+      "俄亥俄州",
+      "无级变速箱",
+      "双电机混合动力系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228274.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228274.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:03.801Z"
+  },
+  "https://response.jp/article/2026/07/17/414157.html": {
+    "title_zh": "本田 Stepwgn、WR-V、Freed 变身复古狂野，Damd 推出 4 款新定制零件",
+    "summary_short": "Damd 为本田 Stepwgn、WR-V、Freed 推出 4 款新定制零件，包括复古风格尾门饰条、越野风格灯架和专用轮毂。",
+    "summary_long": "汽车定制零件制造商 Damd 于 7 月 17 日同步推出针对本田 Stepwgn、WR-V 和 Freed 的 4 款定制零件，作为其本田定制整车系列的补充。Stepwgn 用“RESONATOR”系列新增“后尾门饰条”，采用立体凹陷设计并刻有 RESONATOR 字样，左右不对称造型，AES 树脂材质无需额外涂装，可直接覆盖原厂徽章安装。WR-V 方面提供两款零件：“Dury Marker Mount”灯架灵感来自美国大型卡车安全灯，AES 树脂材质，可适配 REVERB 改装车或原厂 WR-V，配备 IPF 制 marker 灯，常亮光量符合车检标准；专用轮毂“COPERNIX”采用钢制轮毂为基础的复古盘式设计，半光枪灰色，WR-V 专用尺寸，可直接使用原厂螺母。Freed 专用轮毂“amabile”再现 1980 年代初本田钢制轮毂的曲面设计，适配 ISOLATOR 改装车或原厂 Freed，专用尺寸且原厂螺母可用。",
+    "highlights_zh": [
+      "Stepwgn 用复古尾门饰条",
+      "WR-V 用越野风格灯架",
+      "WR-V 专用轮毂 COPERNIX",
+      "Freed 专用轮毂 amabile"
+    ],
+    "entities": [
+      "Damd",
+      "本田 | Honda",
+      "ステップワゴン",
+      "WR-V",
+      "フリード"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228139.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228139.jpg",
+      "https://response.jp/imgs/fill2/2228147.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:08.593Z"
+  },
+  "https://bestcarweb.jp/feature/column/1552588": {
+    "title_zh": "丰田 Yaris Cross 新色 Urban Rock 值得买吗？2026 年改款外观变化要点",
+    "summary_short": "丰田 Yaris Cross 2026 年改款新增亚光灰新色 Urban Rock，兼顾都市与户外风格，搭配 10.5 英寸大屏，提升新鲜感。",
+    "summary_long": "丰田 Yaris Cross 于 2026 年 3 月进行部分改良，新增车色 Urban Rock（亚光灰），该色介于鲜艳与素雅之间，凸显 SUV 的工具感与硬朗气质，尤其适合 Z Adventure 等强调户外风格的等级。车身尺寸紧凑（长 4180-4200mm，宽 1765mm，高 1590mm），Urban Rock 色使其在可爱与强悍间取得平衡。此外，改款还扩大了 10.5 英寸显示屏的搭载范围，内外兼修，提升整体新鲜感。",
+    "highlights_zh": [
+      "新增 Urban Rock 亚光灰车色",
+      "10.5 英寸大屏搭载范围扩大",
+      "Z Adventure 等级与新车色最搭",
+      "兼顾都市与户外风格"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Yaris Cross",
+      "Urban Rock",
+      "Z Adventure"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24155140/CC_20260220_01_155.jpg?v=1782283901",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24155140/CC_20260220_01_155-600x400.jpg?v=1782283901",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13171256/AdobeStock_1835826112-600x466.jpeg?v=1783930377"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:08.653Z"
+  },
+  "https://bestcarweb.jp/feature/column/1578800": {
+    "title_zh": "这 5 件事千万别做！会让汽车寿命缩短 3 倍",
+    "summary_short": "不良驾驶习惯会大幅缩短汽车寿命，本文介绍 5 个必须避免的 NG 行为。",
+    "summary_long": "现代汽车虽然耐用，但驾驶方式仍会影响其寿命。本文列举了 5 个会显著缩短汽车寿命的禁忌行为，其中最基本也最易被忽视的是轮胎气压不足。定期检查轮胎气压不仅能延长轮胎寿命，还能改善油耗和行驶稳定性。",
+    "highlights_zh": [
+      "轮胎气压不足是常见问题",
+      "每月至少检查一次气压",
+      "气压不足影响油耗和稳定性"
+    ],
+    "entities": [
+      "轮胎气压",
+      "汽车寿命",
+      "JAF"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13171256/AdobeStock_1835826112.jpeg?v=1783930377",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13171256/AdobeStock_1835826112-600x466.jpeg?v=1783930377",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24155140/CC_20260220_01_155-600x400.jpg?v=1782283901"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:11.888Z"
+  },
+  "https://response.jp/article/2026/07/17/414163.html": {
+    "title_zh": "兰德酷路泽 FJ 可通过 KINTO 订阅，还有 35 岁以下试驾活动",
+    "summary_short": "丰田兰德酷路泽 FJ 可通过 KINTO 订阅服务获取，同时推出 35 岁以下用户试驾活动，降低入手门槛。",
+    "summary_long": "丰田兰德酷路泽 FJ 作为新成员加入系列，继承越野性能并采用更紧凑车身，吸引传统 SUV 用户和潜在新买家。但购车面临交付周期、初始费用和养护成本等挑战。为此，丰田旗下订阅服务 KINTO 重新开放兰德酷路泽 FJ 的订阅，并限时重启针对 35 岁以下用户的“初次汽车试用活动”，让用户更轻松体验兰德酷路泽生活。",
+    "highlights_zh": [
+      "兰德酷路泽 FJ 加入 KINTO 订阅服务",
+      "35 岁以下可参与限时试用活动",
+      "紧凑车身兼顾越野与日常使用",
+      "降低购车门槛"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽",
+      "兰德酷路泽 FJ",
+      "KINTO"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228043.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228043.jpg",
+      "https://response.jp/imgs/fill2/2228046.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:13.919Z"
+  },
+  "https://response.jp/article/2026/07/17/414147.html": {
+    "title_zh": "三菱在印尼推出首款混动车型：小型 SUV Xforce",
+    "summary_short": "三菱汽车在印尼推出首款混动车型 Xforce HEV，搭载源自 PHEV 的混动系统，支持 EV 模式行驶。",
+    "summary_long": "三菱汽车于 7 月 16 日在印度尼西亚开始销售紧凑型 SUV Xforce 的混合动力（HEV）版本。这是三菱在印尼市场推出的首款 HEV 车型，也是其在当地生产的首款 HEV，由当地生产公司 Mitsubishi Motors Krama Yuda Indonesia 负责生产。Xforce 是一款 5 座紧凑型 SUV，自 2023 年 11 月在印尼上市后，已扩展至越南、菲律宾等东盟地区，以及中南美、非洲、中东，是一款全球战略车型。该 HEV 系统源自三菱的插电式混合动力（PHEV）技术，基于前轮驱动，并配备主动偏航控制等四轮控制技术，提供安全安心的驾驶体验。选择 EV 模式可在需要安静的场景下无顾虑行驶。",
+    "highlights_zh": [
+      "三菱在印尼首款 HEV 车型 Xforce 上市",
+      "搭载源自 PHEV 的混动系统",
+      "支持 EV 模式",
+      "全球战略车型"
+    ],
+    "entities": [
+      "三菱汽车 | Mitsubishi Motors",
+      "Xforce",
+      "印尼",
+      "混动"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228111.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228111.jpg",
+      "https://response.jp/imgs/fill2/2228113.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:16.622Z"
+  },
+  "https://response.jp/article/2026/07/13/413945.html": {
+    "title_zh": "全球充电基础设施最新趋势：富士经济分析师访谈",
+    "summary_short": "富士经济分析师山田贤司解读美欧中日印五地充电基础设施最新动向，涵盖政策、标准与市场趋势。",
+    "summary_long": "富士经济分析师山田贤司接受采访，梳理美国、欧洲、中国、日本、印度五地充电基础设施的最新趋势。美国方面，特朗普政府重视燃油车，充电基础设施运营商持观望态度；特斯拉 NACS 标准普及在 2025 年出现停滞。",
+    "highlights_zh": [
+      "特朗普政策导致充电设施投资观望",
+      "特斯拉 NACS 标准普及停滞",
+      "五地充电市场分化明显"
+    ],
+    "entities": [
+      "富士经济",
+      "山田贤司",
+      "特斯拉 | Tesla",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226998.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226998.jpg",
+      "https://response.jp/imgs/p/OMHSDY1RhmI6_sRAaLcpIH5P30HRQkNERUZH/1889470.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:17.492Z"
+  },
+  "https://www.motor1.com/news/801937/toyota-celica-walmart-cart-bay/": {
+    "title_zh": "丰田 Celica 车主将车停进沃尔玛购物车回收区",
+    "summary_short": "德州女子将丰田 Celica 敞篷车停进沃尔玛购物车回收区，视频走红，网友热议。",
+    "summary_long": "一位德州女子在沃尔玛购物时，将她的丰田 Celica 敞篷车停进了购物车回收区，令人惊讶的是车辆刚好能进入。该视频在 TikTok 上获得超过 6 万次观看，引发网友热议。",
+    "highlights_zh": [
+      "女子将丰田 Celica 停进购物车回收区",
+      "车辆刚好能进入",
+      "视频在 TikTok 走红",
+      "网友评论热烈讨论"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Celica",
+      "沃尔玛 | Walmart",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BllX/s1/toyota-driver-goes-to-walmart.-then-she-parks-her-celica-in-the-cart-return-bay.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:20.606Z"
+  },
+  "https://insideevs.com/news/801923/tesla-model-y-performance-launch/": {
+    "title_zh": "2026 款特斯拉 Model Y Performance：弹射模式反而更慢",
+    "summary_short": "实测发现，2026 款特斯拉 Model Y Performance 不使用弹射模式时 0-60 英里加速更快，弹射模式反而慢了约 0.1 秒。",
+    "summary_long": "Out of Spec Studios 的测试显示，2026 款特斯拉 Model Y Performance 在不使用弹射模式时，0-60 英里/小时加速时间为 3.58 秒，而使用弹射模式则为 3.67 秒，多次测试结果一致。该车在中高速区间（50-100 英里/小时）表现最佳，适合高速超车。测试者还提到 Rivian R2 感觉更快，但需仪器验证。",
+    "highlights_zh": [
+      "不用弹射模式 0-60 英里加速 3.58 秒",
+      "使用弹射模式反而 3.67 秒",
+      "中高速区间（50-100 英里/小时）表现最佳",
+      "Rivian R2 感觉更快"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model Y Performance",
+      "Rivian R2",
+      "弹射模式",
+      "加速测试"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/QebNkZ/s1/tesla-model-y-performance-2025-im-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:21.687Z"
+  },
+  "https://www.motor1.com/news/801917/mercedes-electric-gt-debut/": {
+    "title_zh": "梅赛德斯高管称电动 AMG GT“本不该存在”",
+    "summary_short": "梅赛德斯高管承认电动 AMG GT 本不该存在，公司早期电动车项目投入巨大却反响不佳。",
+    "summary_long": "梅赛德斯-奔驰一位高管向德国《经理人杂志》透露，最新款 AMG GT 四门轿跑的电动版本“本不该存在”，但项目推进过深已无法叫停。该高管表示，公司早期电动车战略受前 CEO 康林松（Ola Källenius）推动，意在追赶特斯拉股价，但首代 EQS 和 EQE SUV 等车型开发成本高达约 50 亿欧元，市场表现却未达预期。仅 AMG 电动车型的开发就已耗费超 10 亿美元。",
+    "highlights_zh": [
+      "高管称电动 AMG GT“本不该存在”",
+      "项目推进过深已无法叫停",
+      "首代电动车开发成本约 50 亿欧元",
+      "AMG 电动车型开发耗资超 10 亿美元"
+    ],
+    "entities": [
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "AMG GT 四门轿跑 | AMG GT 4-Door",
+      "EQS",
+      "EQE SUV",
+      "康林松"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9lwB/s1/mercedes-amg-gt63-four-door.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:25.600Z"
+  },
+  "https://www.thedrive.com/news/japan-wants-to-standardize-car-parts-to-protect-its-auto-industry": {
+    "title_zh": "日本计划大规模标准化汽车零部件以保护汽车产业",
+    "summary_short": "日本汽车业正考虑大规模标准化零部件，跨制造商共享平台以降低成本，但可能引发同质化争议。",
+    "summary_long": "日本汽车业正考虑大规模推进零部件标准化，不仅限于同一集团内部，而是跨制造商共享平台。此举旨在降低成本、提高生产效率，但可能带来产品同质化风险。此前大众集团的 MQB 平台是成功案例，但也因“套娃”设计受到批评。日本此举规模将远超以往，如宝马与丰田、马自达与菲亚特的小范围合作。",
+    "highlights_zh": [
+      "日本汽车业考虑大规模零部件标准化",
+      "跨制造商共享平台以降低成本",
+      "大众 MQB 平台是成功案例但引发同质化批评",
+      "规模远超宝马-丰田等小范围合作"
+    ],
+    "entities": [
+      "日本 | Japan",
+      "大众 | Volkswagen",
+      "MQB 平台",
+      "宝马 | BMW",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/03/ToyotaIN_04-copy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Ford-Racing-WEC-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:25.908Z"
+  },
+  "https://www.motor1.com/news/801928/toyota-highlander-seat-recall/": {
+    "title_zh": "丰田汉兰达座椅召回无解决方案，车主愤怒",
+    "summary_short": "丰田汉兰达因第二排座椅锁止问题召回，但车主反映无补救措施，也未提供替代出行方案。",
+    "summary_long": "一位康涅狄格州的丰田汉兰达车主收到召回通知，涉及第二排座椅调节后可能无法完全锁止的问题。丰田建议在修复前避免使用第二排座椅，但车主联系经销商后得知尚无零件和补救方案，也未获得租车或补偿。车主在 TikTok 上表达不满，呼吁丰田改进。",
+    "highlights_zh": [
+      "丰田汉兰达第二排座椅召回",
+      "无零件和补救方案",
+      "车主被建议勿用第二排座椅",
+      "未提供租车或补偿"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "汉兰达 | Highlander",
+      "座椅召回",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4Owjo/s1/mom-gets-toyota-highlander-recall-notice-in-the-mail.-she-can-t-believe-the-fix.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:29.645Z"
+  },
+  "https://www.motor1.com/news/801913/geely-efficient-electric-drive-unit-details-specs/": {
+    "title_zh": "吉利发布 16 合 1 智能电驱系统，效率达 93.8%",
+    "summary_short": "吉利推出 16 合 1 智能电驱系统，效率 93.8%，高度仅 12.8 英寸，重 166 磅，将用于银河 TT 运动轿车。",
+    "summary_long": "吉利汽车集团发布全新 16 合 1 智能电驱系统，效率高达 93.8%（基于中国轻型车测试循环）。该系统将电机、电机控制器、减速器等 12 项硬件功能集成于一体，并配备能量管理、充电管理、运动控制和健康管理四项智能软件控制，消除了 180 多个冗余部件，重量仅 75 公斤（165.35 磅）。电驱单元高度仅 12.8 英寸，为银河 TT 车型增加了约 1 立方英尺的后备箱空间。银河 TT 是一款运动轿车，尺寸与保时捷 Taycan 和宝马 5 系相当。",
+    "highlights_zh": [
+      "效率达 93.8%",
+      "集成 12 项硬件与 4 项智能软件",
+      "消除 180 多个冗余部件",
+      "高度仅 12.8 英寸"
+    ],
+    "entities": [
+      "吉利",
+      "银河 TT",
+      "电驱系统",
+      "效率"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4lVx/s1/geely-thunder-electric-drive-unit.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:30.550Z"
+  },
+  "https://insideevs.com/news/801921/honda-prologue-discontinued-ev-2026/": {
+    "title_zh": "本田在美国砍掉最后一款电动车",
+    "summary_short": "本田宣布停售 Prologue 电动车，美国市场将无纯电车型可售。",
+    "summary_long": "本田确认将于今年晚些时候停售其在美国市场的唯一纯电动车 Prologue，此前讴歌 ZDX 已于 2025 年底停产，0 系列电动车项目也被取消。此举使本田在美国彻底失去纯电产品线。本田表示，过去 18 个月电动车需求显著变化，停售是为了更好地匹配客户需求和市场条件。政策变化和税收优惠取消导致电动车需求下滑，传统车企纷纷缩减电动车型。",
+    "highlights_zh": [
+      "本田 Prologue 将于 2026 年后停售",
+      "讴歌 ZDX 已于 2025 年底停产",
+      "美国电动车需求因政策变化下滑",
+      "本田美国市场暂无纯电车型"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Prologue",
+      "讴歌",
+      "ZDX"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K9xr/s1/honda-prologue-charging.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:33.642Z"
+  },
+  "https://www.motor1.com/news/801920/aston-martin-call-of-duty-suv-dreadnought/": {
+    "title_zh": "阿斯顿·马丁为《使命召唤》打造 V12 SUV",
+    "summary_short": "阿斯顿·马丁为《使命召唤：现代战争 4》设计了一款名为 Dreadnought 的 V12 战斗 SUV，融合超跑基因与军事装备。",
+    "summary_long": "阿斯顿·马丁与 Infinity Ward、动视合作，为即将推出的游戏《使命召唤：现代战争 4》打造了一款名为 Dreadnought 的虚拟战斗 SUV。该车搭载 V12 发动机、全轮驱动，拥有超跑级性能、先进装甲和自适应战斗系统，外观采用碳纤维车身、大尺寸格栅、四出排气和鸭尾扰流板，设计灵感源自 Valiant 和 Victor 等车型。Dreadnought 仅存在于游戏 DMZ 模式中，不会量产或投入实战。",
+    "highlights_zh": [
+      "V12 动力与全轮驱动",
+      "超跑性能与军用装甲",
+      "碳纤维车身与鸭尾扰流板",
+      "仅存在于游戏 DMZ 模式"
+    ],
+    "entities": [
+      "阿斯顿·马丁 | Aston Martin",
+      "Dreadnought",
+      "《使命召唤：现代战争 4》 | Call of Duty: Modern Warfare 4",
+      "Infinity Ward",
+      "动视"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6NlEM/s1/aston-martin-dreadnought-call-of-duty.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:37.957Z"
+  },
+  "https://www.motor1.com/news/801898/nissan-elgrand-minivan-debut-japan/": {
+    "title_zh": "日产发布豪华新 MPV Elgrand，仅限日本市场",
+    "summary_short": "日产在日本推出第四代 Elgrand 豪华 MPV，搭载 e-Power 混动系统，配备零重力座椅、22 扬声器 Bose 音响等高端配置。",
+    "summary_long": "日产在日本市场推出了第四代 Elgrand 豪华 MPV，取代了老款四缸和 V6 发动机，采用 e-Power 混动系统，由 1.5 升三缸涡轮增压发动机为电机供电，并通过 e-4ORCE 四驱系统驱动所有车轮。顶配车型提供第二排零重力船长座椅、前排乘客脚凳、双 14.3 英寸屏幕、64 色氛围灯、22 扬声器 Bose 音响（含头枕扬声器）、Kumiko 木纹饰板、自动驾驶辅助及后排娱乐屏等奢华配置，甚至可选紫色内饰。该车目前仅在日本销售，未来是否进入美国市场尚不确定。",
+    "highlights_zh": [
+      "第四代 Elgrand 仅在日本上市",
+      "搭载 e-Power 混动与 e-4ORCE 四驱",
+      "顶配提供零重力座椅与 22 扬声器 Bose 音响",
+      "可选紫色内饰与 Kumiko 木纹饰板"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Elgrand",
+      "e-Power",
+      "e-4ORCE",
+      "Bose"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3lzN/s1/nissan-elgrand-japan.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:38.256Z"
+  },
+  "https://www.thedrive.com/news/aston-martin-basically-made-a-halo-warthog-for-call-of-duty": {
+    "title_zh": "阿斯顿·马丁为《使命召唤》打造概念军用 SUV",
+    "summary_short": "阿斯顿·马丁为《使命召唤》设计了一款名为 Dreadnought 的军用 SUV 概念车，融合超级跑车性能与装甲技术。",
+    "summary_long": "阿斯顿·马丁为热门游戏《使命召唤》打造了一款名为 Dreadnought 的幻想概念军用 SUV。该车结合了超级跑车级别的性能、先进装甲技术和自适应战场情报系统，外观酷似《光环》中的疣猪号战车。内饰采用人字形碳纤维和牛津皮革，尽显奢华。实车模型已在纽约 Fanatics Fest 展出。",
+    "highlights_zh": [
+      "为《使命召唤》设计的军用 SUV 概念车",
+      "融合 V12 动力与装甲技术",
+      "外观类似《光环》疣猪号",
+      "实车模型在纽约展出"
+    ],
+    "entities": [
+      "阿斯顿·马丁 | Aston Martin",
+      "Dreadnought",
+      "《使命召唤》 | Call of Duty",
+      "《光环》 | Halo",
+      "V12"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/In-Game_AstonMartin_Dreadnought_01.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/AstonMartin_Dreadnought_03.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/AstonMartin_Dreadnought_05.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:41.840Z"
+  },
+  "https://www.motor1.com/news/801904/shelby-f-150-vs-ram/": {
+    "title_zh": "Shelby F-150 Super Snake 毒液喷向 Ram Rumble Bee",
+    "summary_short": "Shelby 升级 F-150 Super Snake，马力达 810 匹，超越 Ram Rumble Bee 的 777 匹，但价格更高。",
+    "summary_long": "Ram 近期推出三款 V8 动力 Rumble Bee 皮卡，其中旗舰 SRT 车型拥有 777 马力。为应对竞争，Shelby American 对福特 F-150 Super Snake 进行升级，使其动力提升至 810 马力。该车基于 F-150 Lariat SuperCrew 4x4 打造，搭载福特 5.0 升 Coyote V8 发动机并加装 Stage 2 机械增压器，配合高流量空滤、性能进气、碳纤维进气管、铝制热交换器和 Borla 排气，输出从 400 马力翻倍至 800 马力以上。底盘方面配备 KING 可调避震、Baer 打孔划线刹车盘、Shelby 专属可调降低悬挂、后性能牵引杆和米其林 Pilot Sport 轮胎。外观采用双进气口引擎盖、涂装格栅、车身套件、赛车条纹、车身同色后斗盖和 22 英寸轮毂，并提供 10 种颜色可选。",
+    "highlights_zh": [
+      "马力从 775 提升至 810 匹",
+      "搭载 5.0 升 Coyote V8 机械增压发动机",
+      "配备 KING 可调避震和 Baer 刹车",
+      "提供 10 种外观颜色"
+    ],
+    "entities": [
+      "Shelby American",
+      "Ford F-150 Super Snake",
+      "Ram Rumble Bee",
+      "Coyote V8",
+      "Borla"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzQbe/s1/shelby-american-ford-f-150-super-snake.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:43.795Z"
+  },
+  "https://www.thedrive.com/news/hear-fords-coyote-v8-hypercar-fire-up-for-the-first-time": {
+    "title_zh": "福特 Coyote V8 混动超跑首次点火",
+    "summary_short": "福特为 2027 年 WEC Hypercar 组别打造 5.4 升自然吸气 Coyote V8 混动赛车，首次点火成功。",
+    "summary_long": "福特在 2027 年世界耐力锦标赛中，将采用一台 5.4 升自然吸气 Coyote V8 发动机，搭配标准化混动系统，参加顶级 Hypercar 组别。该发动机由福特在密歇根州总部自主研发，并已首次成功点火。项目负责人表示，这是关键验证步骤，证明动力总成与底盘团队的整合工作取得成果。",
+    "highlights_zh": [
+      "5.4 升自然吸气 Coyote V8 发动机",
+      "搭配标准化混动系统",
+      "首次点火成功",
+      "福特自主研发"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Coyote V8",
+      "WEC",
+      "Hypercar",
+      "Oreca"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Ford-Racing-WEC-Hero-1.jpg",
+      "https://i.ytimg.com/vi/BBXJblwj4ow/hqdefault.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Fire-up-1.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:45.363Z"
+  },
+  "https://www.thedrive.com/news/this-class-action-lawsuit-may-decide-if-an-automaker-owes-you-a-tariff-refund": {
+    "title_zh": "集体诉讼或决定车企是否应退还关税给消费者",
+    "summary_short": "福特车主起诉要求分享关税退款，最高法院裁定关税违宪后，消费者能否获得补偿？",
+    "summary_long": "美国最高法院裁定依据 IEEPA 征收的关税违宪后，福特等车企预计获得政府退款，但消费者因购车时已承担额外关税成本，要求分享退款。圣地亚哥福特车主 Jason Bullock 提起集体诉讼，认为车企不应独享退款，消费者应获得部分补偿。",
+    "highlights_zh": [
+      "最高法院裁定关税违宪",
+      "福特预计获 13 亿美元退款",
+      "车主起诉要求分享退款",
+      "消费者承担了部分关税成本"
+    ],
+    "entities": [
+      "福特",
+      "Mach-E",
+      "最高法院",
+      "关税",
+      "集体诉讼"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/mach-e-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Ford-Racing-WEC-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T03:35:47.270Z"
   }
 }

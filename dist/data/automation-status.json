@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-16T15:14:57.691Z",
+    "generated_at": "2026-07-17T03:34:21.164Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 366,
-    "deepseek_untranslated_before_run": 34,
-    "newly_fetched_articles": 34,
-    "newly_fetched_untranslated": 34,
+    "deepseek_translated_before_run": 365,
+    "deepseek_untranslated_before_run": 35,
+    "newly_fetched_articles": 35,
+    "newly_fetched_untranslated": 35,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 34,
+    "translation_queue_count": 35,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.16",
-        "title": "Hyundai's Spiciest EV Just Got A Massive Price Cut",
-        "url": "https://www.motor1.com/news/801895/2026-hyundai-ioniq-5-n-price-details/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.16",
-        "title": "New Jensen Interceptor Found a Shortcut to Production: It’s Track-Only, for Now",
-        "url": "https://www.thedrive.com/news/new-jensen-interceptor-found-a-shortcut-to-production-its-track-only-for-now"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.16",
-        "title": "Americans Can't Have These Affordable Chinese EVs. But They're Coming To Canada",
-        "url": "https://insideevs.com/news/801796/dongfeng-canada-china-nammi-box/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.16",
-        "title": "Bill Ford Says Carmakers Need to Tackle China Head On, Even if They’d Rather Not",
-        "url": "https://www.thedrive.com/news/bill-ford-says-carmakers-need-to-tackle-china-head-on-even-if-theyd-rather-not"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.16",
-        "title": "Infiniti Is Delaying Its 600-Horsepower Escalade-V Rival",
-        "url": "https://www.motor1.com/news/801746/infiniti-escalade-v-rival-delayed/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.16",
-        "title": "VR Is Helping Driving Schools Train Better Instructors: TDS",
-        "url": "https://www.thedrive.com/news/vr-is-helping-driving-schools-train-better-instructors-tds"
+        "source": "Best Car Web",
+        "time": "2026.7.17",
+        "title": "「グリーン」VS「ブルー」!! 大型トラックの燃料に最適な水素はどっちだ？",
+        "url": "https://bestcarweb.jp/fullload/1578103"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "【日産 キックス 新型試乗】外も中も手抜かりは一切なし！ 乗れば驚く走りの進化に「日産、変わったなあ」",
-        "url": "https://response.jp/article/2026/07/16/414141.html"
+        "time": "2026.7.17",
+        "title": "「やっちゃえ」改め「らしく走れ」の日産、新型『エルグランド』の先行受注6000台超［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/07/17/414148.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "BYD AUTO 彦根、8月1日オープン…近畿地方初のサテライト型店舗",
-        "url": "https://response.jp/article/2026/07/16/414138.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.16",
-        "title": "Driver Pulls Over After Seeing Money On The Side Of The Road. Then They Get A Stern Warning: ‘I Wouldn’t Pick It Up’",
-        "url": "https://www.motor1.com/news/801795/fentanyl-laced-dollar-bill/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "V8継続、2027年デビューか!? スーパーSUV、BMW『X5M』予想デザイン公開！",
-        "url": "https://response.jp/article/2026/07/16/414134.html"
+        "time": "2026.7.17",
+        "title": "「らしく走れ、日産。」新しいブランドメッセージを発表",
+        "url": "https://response.jp/article/2026/07/17/414153.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.16",
-        "title": "ZR-Vのクロスツーリングは買いか!? アウトドア顔になった特別仕様車の実力!!",
-        "url": "https://bestcarweb.jp/feature/column/1572521"
+        "time": "2026.7.17",
+        "title": "「日差しが眩しくて信号を見落としそう…」夏のヒヤリハットをなくす SWANS「ドライビングサングラス」が手放せない理由",
+        "url": "https://bestcarweb.jp/news/car-accessory/1580771"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.17",
+        "title": "『キックス』新型は「日産の成長の第一歩」…今週のビジネス記事ランキング",
+        "url": "https://response.jp/article/2026/07/17/414149.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.16",
-        "title": "エブリイの収納力爆上がり!! 専用ダッシュボードトレイがチョー便利!!",
-        "url": "https://bestcarweb.jp/news/1576064"
+        "time": "2026.7.17",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第811回",
+        "url": "https://bestcarweb.jp/feature/column/1562984"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.16",
-        "title": "クラウンスポーツはクラウンファミリーの本命か？ クロスオーバー、セダン、エステートと比べてわかる魅力",
-        "url": "https://bestcarweb.jp/feature/column/1530981"
+        "time": "2026.7.17",
+        "title": "LEDに負けじと頑張ってますよ! 2026年上半期に見かけたアナログ方向幕付きの路線バス",
+        "url": "https://bestcarweb.jp/busmagazine/1570477"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.17",
+        "title": "NSXでデイキャンプ!? ホンダアクセスが提案する車中泊＆アウトドア活用術",
+        "url": "https://response.jp/article/2026/07/17/414161.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.17",
+        "title": "アステモと東北大、劣化PBTの強度回復技術を開発…自動車部品の水平リサイクル実現へ",
+        "url": "https://response.jp/article/2026/07/17/414158.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.16",
-        "title": "コンパクトカーでのキャンプにもバッチリ!! 積載と寝心地を両立した軽量コットがスゴイ!!",
-        "url": "https://bestcarweb.jp/news/1576077"
+        "time": "2026.7.17",
+        "title": "クラウンスポーツと150万円の差、、、ハリアーはまだまだ狙い目すぎる",
+        "url": "https://bestcarweb.jp/feature/column/1539456"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "シェフラー、GM「サプライヤー・オブ・ザ・イヤー」を6度目の受賞…バルブトレイン技術などに評価",
-        "url": "https://response.jp/article/2026/07/16/414122.html"
+        "time": "2026.7.17",
+        "title": "コンビニでテスラ試乗会、セブン‐イレブンが姫路で初開催…7月21・22・24日",
+        "url": "https://response.jp/article/2026/07/17/414145.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "ジョイフル本田、宇都宮店にソーラーカーポート設置…ホームセンター業界最大級の発電容量1126.4kW",
-        "url": "https://response.jp/article/2026/07/16/414131.html"
+        "time": "2026.7.17",
+        "title": "スバルの新型電動SUV『アンチャーテッド』、FIM世界スーパーバイク選手権のセーフティカーに…英国で初走行を披露",
+        "url": "https://response.jp/article/2026/07/17/414159.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.17",
+        "title": "バカ売れしてるけど!! シエンタ最大の弱点は3列目シートだった！ 改善してほしいポイントとは",
+        "url": "https://bestcarweb.jp/feature/column/1562354"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "ジョルダン「乗換案内」アプリ、近江バス・湖国バス夏休み1DAYパスをモバイルチケット販売…7月18日から利用可能",
-        "url": "https://response.jp/article/2026/07/16/414127.html"
+        "time": "2026.7.17",
+        "title": "パパイヤ発酵食品「FPP」、バスドライバーの8割で視野改善の効果…名古屋大学との共同研究が米学術誌に掲載",
+        "url": "https://response.jp/article/2026/07/17/414156.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "スズキ『ジムニー』シリーズ用「バンプアジャストドラッグロッドエンドPRO」発売、ハイリフト専用設計で強度アップ",
-        "url": "https://response.jp/article/2026/07/16/414142.html"
+        "time": "2026.7.17",
+        "title": "フィアットの超小型EV『トポリーノ』が米国上陸、最高速30km/hの低速電動車として販売…約230万円",
+        "url": "https://response.jp/article/2026/07/17/414155.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "トヨタテクニカルディベロップメント、JAPAN AIの人事・採用支援AI導入…年間800件の書類選考工数を大幅削減",
-        "url": "https://response.jp/article/2026/07/16/414140.html"
+        "time": "2026.7.17",
+        "title": "ホンダ、米オハイオのトランスミッション工場が30周年…2モーターハイブリッドシステム向けなど生産",
+        "url": "https://response.jp/article/2026/07/17/414162.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.16",
-        "title": "トヨタ株価が3日続伸…米半導体大手とフィジカルAIで提携",
-        "url": "https://response.jp/article/2026/07/16/414130.html"
+        "time": "2026.7.17",
+        "title": "ホンダ『ステップワゴン』『WR-V』『フリード』をレトロ＆ワイルドに変身、ダムドが新カスタムパーツ4点を発売",
+        "url": "https://response.jp/article/2026/07/17/414157.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.17",
+        "title": "ヤリスクロスの新色アーバンロックは買いか？ 2026年改良で変わった見た目のツボ",
+        "url": "https://bestcarweb.jp/feature/column/1552588"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.17",
+        "title": "やるとヘタリます！ クルマの寿命を3倍縮める「やっちゃいけない」5つのこと",
+        "url": "https://bestcarweb.jp/feature/column/1578800"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.17",
+        "title": "ランドクルーザーFJは「買う」だけじゃない…KINTOで始めるランクルライフ、“お試し”できるキャンペーンもPR",
+        "url": "https://response.jp/article/2026/07/17/414163.html"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 34,
-    "queued_articles": 34,
-    "processed": 34,
-    "started_at": "2026-07-16T15:14:58.033Z",
-    "finished_at": "2026-07-16T15:16:08.525Z",
+    "scoped_articles": 35,
+    "queued_articles": 35,
+    "processed": 35,
+    "started_at": "2026-07-17T03:34:21.559Z",
+    "finished_at": "2026-07-17T03:35:47.296Z",
     "success": true,
     "error": ""
   }
