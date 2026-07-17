@@ -79602,5 +79602,762 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-17T03:35:47.270Z"
+  },
+  "https://www.motor1.com/news/802015/honda-prologue-dead/": {
+    "title_zh": "本田停产最后一款电动车 Prologue",
+    "summary_short": "本田宣布停产 Prologue 电动 SUV，美国市场暂无纯电车型，重心转回混动。",
+    "summary_long": "本田确认将停产 Prologue 电动 SUV，这是其在美国市场最后一款纯电车型。随着 Prologue 的退出，本田在美国的电动化进程遭遇重大挫折，此前同平台的讴歌 ZDX 已于 2025 年停产，多款电动概念车也被取消。本田表示，过去 18 个月消费者对电动车的需求显著变化，公司未来将聚焦混动和高效燃油发动机。",
+    "highlights_zh": [
+      "本田 Prologue 电动 SUV 确认停产",
+      "美国市场暂无纯电车型",
+      "多款电动概念车被取消",
+      "重心转向混动和燃油发动机"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Prologue",
+      "讴歌",
+      "ZDX",
+      "混动"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxQ6g0/s1/honda-prologue.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:30.046Z"
+  },
+  "https://www.thedrive.com/news/carmakers-dont-think-they-should-have-to-fix-blindingly-bright-headlights": {
+    "title_zh": "车企认为不必修复过亮前大灯：特斯拉与通用试图规避召回",
+    "summary_short": "特斯拉与通用汽车以“对安全无影响”为由，试图规避因前大灯过亮而引发的召回，但 NHTSA 驳回了特斯拉的请愿。",
+    "summary_long": "过去四年中，通用汽车和特斯拉先后试图以“对安全无实质性影响”为由，规避因前大灯亮度超标而引发的召回。2024 年春季，特斯拉通知 NHTSA，约 19900 辆 Model 3 和 Model Y 的前大灯亮度在极端情况下超出法定最大值近一倍，但随后提交请愿，认为该缺陷“对安全无影响”。经过两年审查，NHTSA 驳回了特斯拉的请求，指出其研究存在缺陷，且公众评论显示用户确实受到眩光困扰。",
+    "highlights_zh": [
+      "特斯拉前大灯亮度超标近一倍",
+      "车企以“对安全无影响”为由规避召回",
+      "NHTSA 驳回特斯拉请愿",
+      "公众评论显示用户受眩光困扰"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "通用汽车",
+      "NHTSA",
+      "Model 3",
+      "Model Y"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-1229236401.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/gmc_terrain_denali_814.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:30.069Z"
+  },
+  "https://www.thedrive.com/news/ford-ceo-jim-farley-says-u-s-plants-are-catching-up-to-china-and-mexico-tds": {
+    "title_zh": "福特 CEO：美国工厂正追赶中国和墨西哥",
+    "summary_short": "福特 CEO 称中国和墨西哥工厂流程最合规，美国工厂追赶速度最快。",
+    "summary_long": "福特 CEO Jim Farley 在采访中谈及公司如何提升初始质量，并指出不同国家制造文化的差异。他表示，中国和墨西哥工厂在流程合规方面最为一致，而美国工厂的追赶速度最快。此外，Rivian R2 迎来了首次软件更新，新增了 Launch Mode、Pet Comfort 和 Gear Guard 等功能。",
+    "highlights_zh": [
+      "中国和墨西哥工厂流程最合规",
+      "美国工厂追赶速度最快",
+      "Rivian R2 首次软件更新"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Rivian R2",
+      "中国",
+      "墨西哥",
+      "美国"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/cqdam.web_.2400.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Ford-Racing-WEC-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:32.929Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-lexus-nx-hybrid-review": {
+    "title_zh": "2026 款雷克萨斯 NX 混动版快速评测：我终于理解为什么人们买它",
+    "summary_short": "雷克萨斯 NX 混动版虽不追求驾驶激情，但凭借可靠性和效率成为畅销车型，评测揭示其魅力所在。",
+    "summary_long": "作为紧凑型跨界车市场的常青树，雷克萨斯 NX 凭借可靠性和燃油效率赢得消费者青睐。2026 款 NX 350h F Sport 虽不提供激动人心的驾驶体验，但其独特的设计、舒适的座椅以及混合动力系统的平顺表现，让评测者理解了为何去年超过 7.6 万人选择购买。尽管 F Sport 版本的运动化外观和内饰略显夸张，但整体上它是一款诚实可靠的跨界车。",
+    "highlights_zh": [
+      "雷克萨斯 NX 是品牌最畅销车型之一",
+      "2026 款 NX 350h F Sport 提供独…",
+      "可靠性和效率是核心卖点",
+      "去年销量超过 7.6 万辆"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "NX",
+      "NX 350h F Sport",
+      "紧凑型跨界车",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0152-e1780513086552.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0156.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0171.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:34.842Z"
+  },
+  "https://www.motor1.com/features/800899/who-designed-bmw-headquarters/": {
+    "title_zh": "宝马总部大楼为何设计成那样？",
+    "summary_short": "探秘慕尼黑宝马总部“四缸大厦”的设计历史与灵感来源，揭示其与品牌工程基因的关联。",
+    "summary_long": "宝马总部大厦（昵称“四缸大厦”）自 1973 年起矗立于慕尼黑，是德国最具辨识度的企业建筑之一。其独特的圆柱造型并非随意为之，而是根植于宝马的工程身份。文章深入探讨了这座建筑的设计背景，包括 1972 年慕尼黑奥运会期间城市现代化改造的契机，以及建筑师如何将宝马的发动机技术理念融入建筑形态。",
+    "highlights_zh": [
+      "宝马总部昵称“四缸大厦”",
+      "1973 年启用",
+      "设计灵感源于宝马工程基因",
+      "与 1972 年慕尼黑奥运会相关"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "慕尼黑",
+      "四缸大厦",
+      "宝马集团 | BMW Group",
+      "Motor101"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbgW41/s1/bmw-tower-headquarters.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:36.814Z"
+  },
+  "https://bestcarweb.jp/feature/column/1553924": {
+    "title_zh": "汽车界缩写谜题：AR",
+    "summary_short": "AR（增强现实）在汽车中用于 HUD 和导航，梅赛德斯-奔驰 E 级率先搭载 AR 导航。",
+    "summary_long": "AR（Augmented Reality，增强现实）是一种通过设备在现实世界上叠加信息的技术。在汽车领域，AR 主要用于抬头显示和导航系统。2020 年发布的梅赛德斯-奔驰 E 级（后期型）是日本首款搭载 AR 导航的车型，通过前置摄像头影像叠加导航箭头，提供创新体验。",
+    "highlights_zh": [
+      "AR 意为增强现实",
+      "用于 HUD 和导航",
+      "奔驰 E 级首搭 AR 导航"
+    ],
+    "entities": [
+      "AR",
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "E 级",
+      "增强现实"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18160856/02.png?v=1781766537",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18160856/02-600x400.png?v=1781766537",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11123153/00_kinmirai_15sec_head-600x400.jpg?v=1783740715"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:38.193Z"
+  },
+  "https://response.jp/article/2026/07/17/414185.html": {
+    "title_zh": "日产聆风 B5 试驾：小电池版值得买吗？",
+    "summary_short": "日产聆风 B5 搭载 55kWh 电池，续航 469km，价格更亲民，日常使用足够，但缺少 ProPilot 2.0。",
+    "summary_long": "日产聆风 B5 搭载 55kWh 电池，相比 B7 的 78kWh 容量更小，但 WLTC 续航仍有 469km，满足日常使用。价格方面，B5 X 仅 473.88 万日元，比 B7 G 便宜近 170 万日元。虽然缺少 ProPilot 2.0，但标配 ProPilot 自适应巡航，性价比突出。",
+    "highlights_zh": [
+      "B5 电池 55kWh",
+      "B5 X 起价 473.88 万日元",
+      "标配 ProPilot",
+      "日常使用足够"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "聆风",
+      "B5",
+      "B7",
+      "ProPilot"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228354.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228353.jpg",
+      "https://response.jp/imgs/fill2/2228353.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:41.252Z"
+  },
+  "https://response.jp/article/2026/07/17/414187.html": {
+    "title_zh": "比亚迪东京杉并店 7 月 31 日开业",
+    "summary_short": "比亚迪在东京杉并区开设新店，位于井之头通沿线，提供销售与试驾服务。",
+    "summary_long": "比亚迪日本子公司 BYD Auto Japan 的正规经销商明治摩达斯将于 7 月 31 日在东京杉并区开设新店「BYD AUTO 东京杉并」。该店位于井之头通沿线，距首都高速永福出入口约 10 分钟车程，距京王井之头线滨田山站步行约 6 分钟，交通便利。店内以白色为基调，配备经过 BYD Academy 培训的专业销售与服务人员。此外，计划于 10 月在高井户东开设维修工厂，完善售后服务体系。",
+    "highlights_zh": [
+      "7 月 31 日开业",
+      "位于井之头通沿线",
+      "配备专业销售与服务人员",
+      "10 月将开设维修工厂"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "BYD Auto Japan",
+      "明治摩达斯",
+      "东京杉并"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228484.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228484.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:41.917Z"
+  },
+  "https://response.jp/article/2026/07/17/414182.html": {
+    "title_zh": "比亚迪正式加入日本巴士协会，推动电动巴士普及",
+    "summary_short": "比亚迪成为日本巴士协会赞助会员，已交付超 500 辆电动巴士，助力日本公交电动化。",
+    "summary_long": "比亚迪宣布正式加入公益社团法人日本巴士协会，成为赞助会员。自 2015 年首次导入日本市场以来，比亚迪已向全国公交运营商和地方政府交付超过 500 辆电动巴士。目前在日本提供三款车型：小型电动巴士 J6、中型电动巴士 J7 和大型电动巴士 K8，均符合路线巴士标准。此举旨在进一步推动电动巴士在日本的普及。",
+    "highlights_zh": [
+      "正式加入日本巴士协会",
+      "累计交付超 500 辆电动巴士",
+      "提供 J6、J7、K8 三款车型"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "日本巴士协会",
+      "J6",
+      "J7",
+      "K8"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228415.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228415.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:44.773Z"
+  },
+  "https://response.jp/article/2026/07/17/414172.html": {
+    "title_zh": "第 16 届 EST 脱碳交通大奖开始征集，将颁发国土交通大臣奖等",
+    "summary_short": "第 16 届 EST 脱碳交通大奖开始征集，旨在表彰交通领域脱碳举措，将颁发国土交通大臣奖等。",
+    "summary_long": "EST 普及推进委员会宣布启动第 16 届 EST 脱碳交通大奖的申请受理。该奖项由国土交通省、警察厅、环境省、日本汽车工业协会、日本巴士协会、日本民营铁路协会及全国包车出租车联合会共同支持。在日本提出 2050 年碳中和目标的背景下，交通领域的脱碳行动愈发重要。该奖项由 2009 年设立的 EST 交通环境大奖发展而来，本次更名为 EST 脱碳交通大奖。",
+    "highlights_zh": [
+      "第 16 届 EST 脱碳交通大奖开始征集",
+      "由国土交通省等机构后援",
+      "旨在促进交通领域脱碳",
+      "由 EST 交通环境大奖更名而来"
+    ],
+    "entities": [
+      "EST 脱碳交通大奖",
+      "国土交通省",
+      "环境省",
+      "日本汽车工业协会"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228343.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228343.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:45.316Z"
+  },
+  "https://response.jp/article/2026/07/17/414181.html": {
+    "title_zh": "电动三轮车 VIVEL 累计销量突破 500 台，月均销售速度提升 3.4 倍",
+    "summary_short": "日本电动三轮车 VIVEL 累计销量突破 500 台，月均销售速度提升至 40 台，是此前的 3.4 倍。",
+    "summary_long": "日本神奈川县伊势原市的 Bubble 公司宣布，其电动三轮车 VIVEL 系列累计销量于 2026 年 7 月突破 500 台。该系列自 2024 年 1 月上市以来，在儿童接送、购物、雨天出行及旅游商务等场景需求持续增长。2026 年 2 月突破 300 台后，仅 5 个月便新增 200 台，月均销量达 40 台，较此前月均 11.5 台增长约 3.4 倍。VIVEL 三轮车持普通驾照即可驾驶，无需车检和车库证明，家用插座即可充电，便利性推动了普及。",
+    "highlights_zh": [
+      "累计销量突破 500 台",
+      "月均销量达 40 台",
+      "普通驾照可驾驶",
+      "家用插座充电"
+    ],
+    "entities": [
+      "VIVEL",
+      "Bubble",
+      "电动三轮车",
+      "日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228413.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228413.jpg",
+      "https://response.jp/imgs/fill2/2228410.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:48.861Z"
+  },
+  "https://bestcarweb.jp/feature/column/1578518": {
+    "title_zh": "FR 基础电子控制 4WD：铃木 Every 的越野性能为何远超 FF 轻车",
+    "summary_short": "铃木 Every CVT 车型采用 FR 基础电子控制 4WD，提供 2WD、4WD AUTO 和 4WD LOCK 模式，越野性能远超普通 FF 轻车。",
+    "summary_long": "多数轻型车采用前轮驱动（FF）为基础的简易 4WD 系统，仅在打滑后传递动力，应对雪地或泥泞路况时存在延迟和牵引力不足。铃木 Every CVT 车型则搭载基于后轮驱动（FR）的电子控制 4WD，通过分时系统提供 2WD、4WD AUTO 和 4WD LOCK 三种模式。4WD AUTO 可根据路况优化前后扭矩分配，4WD LOCK 则近乎直连前后轴，在深雪或脱困时提供强劲牵引力，性能远超 FF 基础的简易 4WD。",
+    "highlights_zh": [
+      "FR 基础电子控制 4WD",
+      "三种模式：2WD/4WD AUTO/4WD LOCK",
+      "4WD LOCK 近乎直连",
+      "越野性能远超 FF 轻车"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "エブリイ",
+      "电子控制 4WD",
+      "后轮驱动 | FR",
+      "前轮驱动 | FF"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14154950/ae46b1f460ee46f789c27b264a6cb421-11.jpg?v=1784011791",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14154950/ae46b1f460ee46f789c27b264a6cb421-11-600x401.jpg?v=1784011791",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11123153/00_kinmirai_15sec_head-600x400.jpg?v=1783740715"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:50.363Z"
+  },
+  "https://response.jp/article/2026/07/17/414171.html": {
+    "title_zh": "MINI Cooper Oxford Edition：庆祝生产 25 周年，全身 Union Jack 设计",
+    "summary_short": "MINI 推出 Oxford Edition 特别版，庆祝生产 25 周年，车身融入 Union Jack 图案，提供 3 种车身颜色。",
+    "summary_long": "为纪念 MINI 生产 25 周年，BMW 集团在欧洲推出 MINI Cooper Oxford Edition 特别版。该车基于最新 MINI Cooper（3 门版），设计上融入英国根源，白色对比车顶配有 Union Jack 图案，旗帜的红白条纹沿车身延伸，增强外观统一感。提供 Chili Red、Indigo Sunset Blue、Blazing Blue 三种车身颜色，并采用白色后视镜盖作为对过往 MINI 的致敬。车轮为 18 英寸 Slide Spoke 双色轮毂，轮毂盖和阀帽带有专属标识。",
+    "highlights_zh": [
+      "纪念 MINI 生产 25 周年",
+      "白色车顶配 Union Jack 图案",
+      "提供 3 种车身颜色",
+      "18 英寸双色轮毂"
+    ],
+    "entities": [
+      "MINI",
+      "MINI Cooper",
+      "Oxford Edition",
+      "BMW 集团 | BMW Group"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228318.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228318.jpg",
+      "https://response.jp/imgs/fill2/2228323.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:52.536Z"
+  },
+  "https://response.jp/article/2026/07/17/414184.html": {
+    "title_zh": "Nature Architects 入选东京 SusHi Tech Global 第 4 期，助力车企新品开发",
+    "summary_short": "Nature Architects 入选东京 SusHi Tech Global 第 4 期，将利用超材料和折纸工程学技术，为汽车制造商提供新产品开发支持。",
+    "summary_long": "Nature Architects 宣布入选东京都推进的初创企业支援项目“SusHi Tech Global”第 4 期。该项目旨在扶持国内外有增长潜力的初创企业，推动东京创新与全球化。该公司运用超材料和折纸工程学知识，提供独特的“Generative Engineering”产品开发解决方案，助力汽车制造商的新产品开发。",
+    "highlights_zh": [
+      "入选东京 SusHi Tech Global 第 4…",
+      "运用超材料与折纸工程学技术",
+      "提供 Generative Engineering…",
+      "助力汽车制造商新产品开发"
+    ],
+    "entities": [
+      "Nature Architects",
+      "SusHi Tech Global",
+      "Generative Engineering",
+      "东京都",
+      "汽车制造商"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228473.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228473.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:53.388Z"
+  },
+  "https://response.jp/article/2026/07/17/414167.html": {
+    "title_zh": "大众 Tiguan 20 周年纪念版“EDITION 20”欧洲发布",
+    "summary_short": "大众推出 Tiguan 20 周年纪念版，配备专属 R-Line 外观、新色 Maple Red 及丰富配置，全球累计销量超 900 万辆。",
+    "summary_long": "大众汽车在欧洲发布了 Tiguan 的 20 周年纪念版“EDITION 20”。该车基于“Life”配置等级，融合 R-Line 外观元素与纪念版专属细节，提供全新金属漆色“Maple Red”。主要专属装备包括高光黑色车窗饰条、门镜盖、深色隐私玻璃、B 柱激光饰条（带 EDITION 20 标识）、车门投影灯以及 19 英寸 Coventry 铝合金轮毂（可选 20 英寸）。自 2007 年上市以来，Tiguan 截至 2026 年 5 月底全球累计销量超过 900 万辆，自 2017 年起成为大众集团最畅销车型。",
+    "highlights_zh": [
+      "基于 Life 等级",
+      "专属金属漆色 Maple Red",
+      "全球累计销量超 900 万辆",
+      "2017 年起成大众集团最畅销车型"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "Tiguan",
+      "EDITION 20",
+      "R-Line",
+      "Maple Red"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228284.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228284.jpg",
+      "https://response.jp/imgs/fill2/2228286.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:57.091Z"
+  },
+  "https://www.motor1.com/news/801658/woman-cataclean-oreilly/": {
+    "title_zh": "女子用 Cataclean 清除发动机故障灯",
+    "summary_short": "加州女子用 O'Reilly 购买的 Cataclean 清除发动机故障灯，花费约 27 美元，但仅为临时措施。",
+    "summary_long": "一位加州女子的汽车发动机故障灯亮起，她未立即前往修理厂，而是从 O'Reilly Auto Parts 购买了 Cataclean 产品尝试自行解决。该产品声称能清除与催化转化器相关的排放故障码（P0420），帮助通过尾气检测。她表示这是临时方案，后续仍需专业检修，但当前仅需通过年检获取车辆标签。",
+    "highlights_zh": [
+      "发动机故障灯亮起",
+      "使用 Cataclean 作为临时解决方案",
+      "花费约 27 美元",
+      "仍需专业检修"
+    ],
+    "entities": [
+      "Cataclean",
+      "O'Reilly Auto Parts",
+      "发动机故障灯",
+      "催化转化器",
+      "尾气检测"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7ylW/s1/woman-s-check-engine-light-comes-on.-then-she-uses-cataclean-from-o-reilly.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:54:57.399Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572530": {
+    "title_zh": "ZR-V 对比 CX-5：双电机混动与轻混的抉择",
+    "summary_short": "本田 ZR-V 与马自达 CX-5 对比：双电机混动 vs 轻混，城市灵活性与传统实用性的较量。",
+    "summary_long": "本田 ZR-V 在 2026 年改款后成为 e:HEV 专属车型，搭载 2.0L 阿特金森循环发动机与双电机，综合输出 184ps，WLTC 油耗 22.1km/L，车身紧凑适合城市使用。马自达 CX-5 则采用 2.5L 汽油发动机配轻混系统，输出 178ps，更注重传统驾驶感受与空间实用性。两者定位差异明显，ZR-V 强调电动化平顺与效率，CX-5 保留燃油车特性。",
+    "highlights_zh": [
+      "ZR-V 2026 年改款后仅提供 e:HEV 混动",
+      "CX-5 搭载 2.5L 轻混",
+      "ZR-V 车身更小",
+      "CX-5 空间更大"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "马自达 | Mazda",
+      "ZR-V",
+      "CX-5",
+      "e:HEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13171535/0218efccfa565d4d2ee80984bd2a639e-2.jpg?v=1783930536",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13171535/0218efccfa565d4d2ee80984bd2a639e-2-600x400.jpg?v=1783930536",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11123153/00_kinmirai_15sec_head-600x400.jpg?v=1783740715"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:01.375Z"
+  },
+  "https://response.jp/article/2026/07/17/414193.html": {
+    "title_zh": "Alpine 为丰田 Land Cruiser FJ 推出专用数字后视镜安装套件",
+    "summary_short": "Alpine 将于 8 月下旬发售丰田 Land Cruiser FJ 专用数字后视镜安装套件，集成行车记录仪，售价 4180 日元。",
+    "summary_long": "Alpine Marketing 将于 8 月下旬发售丰田 Land Cruiser FJ（2026 年 5 月后车型）专用数字后视镜安装套件「KTX-M01-FJ-J240」，集成行车记录仪功能。该套件为原厂后视镜替换式设计，不破坏车内风格，提供清晰的后方影像显示及前后双摄像头高清录制。由于 12 英寸数字后视镜会与遮阳板干涉，推荐使用 10 英寸型号。套件包含专用安装臂、后摄像头安装模板及配件，并支持启动时显示 Land Cruiser FJ 前脸的开机画面（可从 Alpine 官网下载）。",
+    "highlights_zh": [
+      "专用数字后视镜安装套件 8 月下旬发售",
+      "集成前后双摄像头行车记录仪",
+      "推荐使用 10 英寸型号避免遮阳板干涉",
+      "支持专属开机画面显示"
+    ],
+    "entities": [
+      "アルパイン",
+      "丰田 | Toyota",
+      "ランドクルーザー FJ",
+      "数字后视镜",
+      "行车记录仪"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228158.png",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228158.png",
+      "https://response.jp/imgs/fill2/2228157.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:01.456Z"
+  },
+  "https://response.jp/article/2026/07/17/414188.html": {
+    "title_zh": "特斯拉超级充电站日本达 150 处，全国共 744 个充电桩",
+    "summary_short": "特斯拉在日本第 150 个超级充电站开业，全国充电桩总数达 744 个，覆盖高速、城市及便利店。",
+    "summary_long": "特斯拉日本超级充电网络迎来里程碑，第 150 个充电站在神奈川县川崎市的 7-Eleven 便利店开业，全国充电桩总数达到 744 个。该站点支持最大 250kW 输出功率，约 15 分钟可补充最多 275 公里续航。特斯拉强调充电便利性，在高速公路、城市、旅游景点及便利店布局，并提供与车载导航无缝联动的充电体验，包括实时查看空闲状态和自动计费。",
+    "highlights_zh": [
+      "日本第 150 个超级充电站开业",
+      "全国充电桩总数达 744 个",
+      "支持 250kW 快充",
+      "覆盖高速、城市及便利店"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "超级充电站",
+      "7-Eleven",
+      "川崎市"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228470.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228470.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:05.191Z"
+  },
+  "https://bestcarweb.jp/feature/column/1582195": {
+    "title_zh": "同为本田紧凑型 SUV，Vezel 销量竟是 WR-V 的 5 倍！两车差异何在？",
+    "summary_short": "本田 Vezel 与 WR-V 同为紧凑型 SUV，但 Vezel 月均销量是 WR-V 的 5 倍。两车在动力、驱动形式和定位上差异显著。",
+    "summary_long": "本田旗下两款紧凑型 SUV——Vezel 与 WR-V，尽管车身尺寸和平台基本相同，但市场表现悬殊：Vezel 月均注册量达 6189 台，而 WR-V 仅 1172 台，前者销量是后者的 5 倍。差异源于产品定位：Vezel 主打高级感，提供 e:HEV 混动及 2WD/4WD 选择；WR-V 则采用纯燃油发动机，仅限 2WD，设计更简约粗犷。WR-V 虽销量不及，但凭借低价和实用性，仍有其目标用户群。",
+    "highlights_zh": [
+      "Vezel 月销 6189 台",
+      "Vezel 主打混动与四驱",
+      "两车尺寸相近",
+      "WR-V 以低价和实用性吸引特定用户"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ヴェゼル",
+      "WR-V",
+      "紧凑型 SUV",
+      "e:HEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17105427/MG_2457_2.jpg?v=1784253269",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17105427/MG_2457_2-600x400.jpg?v=1784253269",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11123153/00_kinmirai_15sec_head-600x400.jpg?v=1783740715"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:05.948Z"
+  },
+  "https://bestcarweb.jp/feature/column/1533765": {
+    "title_zh": "丰田 Roomy 与大发 Thor：兄弟车型如何选？",
+    "summary_short": "丰田 Roomy 与大发 Thor 本质相同，差异主要在设计和经销商，建议按喜好选择。",
+    "summary_long": "丰田 Roomy 与大发 Thor 是兄弟车型，尺寸、价格、配置几乎一致。标准版长 3700mm，宽 1670mm，高 1735mm；价格从 174 万日元起。两者均配备双侧滑门、电动驻车等实用功能。核心差异在于外观设计和销售渠道，选择哪款更多取决于个人审美和对经销商的偏好。",
+    "highlights_zh": [
+      "Roomy 与 Thor 是兄弟车型",
+      "尺寸、价格、配置几乎一致",
+      "差异主要在设计和经销商",
+      "建议按个人喜好选择"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "大发 | Daihatsu",
+      "Roomy",
+      "Thor",
+      "紧凑型高顶旅行车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09152716/20200928-AU0I42591-2.jpg?v=1780986438",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09152716/20200928-AU0I42591-2-600x400.jpg?v=1780986438",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11123153/00_kinmirai_15sec_head-600x400.jpg?v=1783740715"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:09.412Z"
+  },
+  "https://bestcarweb.jp/newcar/1578049": {
+    "title_zh": "全新日产 Kicks 试驾：与上一代截然不同的高级感",
+    "summary_short": "全新日产 Kicks 试驾体验，e-POWER 与 e-4ORCE 带来上质行驶表现，尺寸增大但操控依然灵活。",
+    "summary_long": "全新日产 Kicks 已进行公开道路试驾，搭载第三代 e-POWER 与 e-4ORCE 系统，行驶质感显著提升。试驾车型为 X+ e-4ORCE（约 390 万日元），内饰现代时尚，配置丰富。起步瞬间即可感受到与上一代截然不同的车格差异，车身宽度增加 40mm，最小转弯半径增至 5.3m，但实际操控并未感到不便。加速平顺、静谧性出色，整体表现超越同级对手。",
+    "highlights_zh": [
+      "第三代 e-POWER 与 e-4ORCE 带来上质…",
+      "车身宽度增加 40mm",
+      "最小转弯半径 5.3m",
+      "内饰现代时尚"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "キックス",
+      "e-POWER",
+      "e-4ORCE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13112517/A35_2436_1.jpg?v=1783909518",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13112517/A35_2436_1-600x400.jpg?v=1783909518",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17151132/s-taft_260715005-600x446.jpg?v=1784268694"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:09.687Z"
+  },
+  "https://bestcarweb.jp/news/1576067": {
+    "title_zh": "本田 Super Cub 黑色钥匙链限量复刻",
+    "summary_short": "本田 Super Cub 3D 金属钥匙链推出黑色限定版，1000 个带编号，高级黑镀铬工艺。",
+    "summary_long": "本田官方授权的 Super Cub 3D 金属钥匙链推出黑色限定版，限量 1000 个并带有序列号。该产品基于此前售罄的银色版，采用黑色镀铬工艺，立体还原车身形体，并配有“Super Cub”刻字铭牌和 Honda Wing 标志挂饰，背面刻有“Live to Ride”字样。由 CAMSHOP.JP 品牌运营方株式会社 FACE 发售。",
+    "highlights_zh": [
+      "限量 1000 个",
+      "黑色镀铬工艺",
+      "立体还原 Super Cub 车身",
+      "Honda 官方授权商品"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Super Cub",
+      "CAMSHOP.JP",
+      "株式会社 FACE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10174742/2d5e709967683624744730e27943cd85.jpg?v=1783673264",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10174742/2d5e709967683624744730e27943cd85-600x600.jpg?v=1783673264",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10175227/f7834857c0a6ace8011b4a711ac8c914-600x600.jpg?v=1783673548"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:13.362Z"
+  },
+  "https://insideevs.com/news/801989/mg-semi-solid-state-phev/": {
+    "title_zh": "MG 将在下一代插电混动车型中采用半固态电池",
+    "summary_short": "MG 计划在下一代插电混动车型中采用半固态电池技术，并推出高效新发动机，提升性能与平顺性。",
+    "summary_long": "上汽旗下 MG 在欧洲市场表现强劲，2026 年上半年销量达 19 万辆，同比增长超 20%。MG 确认将在三款全新插电混动 SUV 中引入其名为 SolidCore 的半固态电池技术，覆盖 B、C、D 级细分市场，但未公布具体车型及上市时间。同时，MG 将推出 Plug-in Hybrid+系统，配备 1.1 升和 1.5 升涡轮增压发动机，热效率分别超过 42%和 43%。该系统在低速时更像纯电动车，亏电时仍保持高效，并避免部分插混车型在同时驱动和充电时出现的性能与平顺性下降问题。此外，系统采用新型功率分流混动变速箱，可根据车速和负载连续调节发动机与电机输出，并配备发电机断开机构，在纯电行驶时完全隔离发电机以减少损耗。",
+    "highlights_zh": [
+      "MG 将推出三款搭载半固态电池的插电混动 SUV",
+      "新发动机热效率超 42%和 43%",
+      "低速行驶更接近纯电动车",
+      "新型变速箱可完全隔离发电机"
+    ],
+    "entities": [
+      "MG",
+      "SolidCore",
+      "Plug-in Hybrid+",
+      "半固态电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/RqklWP/s1/mg-plug-in-hybrid.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:14.409Z"
+  },
+  "https://www.motor1.com/news/801903/track-only-jensen-interceptor-gtx/": {
+    "title_zh": "Jensen 复活跑车仅限赛道",
+    "summary_short": "Jensen 以赛道版 Interceptor GTX 回归，铝制底盘与机械增压 V8 引擎，为未来公路车型预热。",
+    "summary_long": "Jensen 国际汽车公司宣布复活经典车型 Interceptor，首款新车为赛道专用超跑 Interceptor GTX。该车采用铝制底盘和车身以减轻重量，搭载机械增压 V8 发动机，强调模拟驾驶体验，可能配备手动变速箱。通过推出赛道版，Jensen 可规避公路法规，让客户驾驶原型车参与开发，为后续公路车型积累反馈。",
+    "highlights_zh": [
+      "赛道专用超跑 Interceptor GTX",
+      "铝制底盘与车身轻量化",
+      "机械增压 V8 发动机",
+      "模拟驾驶体验"
+    ],
+    "entities": [
+      "Jensen",
+      "Interceptor GTX",
+      "Interceptor"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Qe77yY/s1/jensen-interceptor-gtx-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:17.226Z"
+  },
+  "https://www.motor1.com/news/801659/walmart-oil-filters/": {
+    "title_zh": "沃尔玛出售的 Fram 和 Purolator 机油滤清器被发现含有碎屑，疑似曾被使用",
+    "summary_short": "密歇根州一名机械师在沃尔玛发现 Fram 和 Purolator 机油滤清器含有碎屑，疑似曾被安装过，提醒消费者购买前检查。",
+    "summary_long": "密歇根州一名机械师在沃尔玛汽车用品区检查 Fram 和 Purolator 机油滤清器时，发现滤清器密封垫圈上有明显碎屑，空气滤清器也显得很脏，疑似曾被安装在其他车辆上。她建议消费者在购买前务必打开包装检查滤清器状态，尤其是橡胶密封垫圈，以确保没有损坏或污染。",
+    "highlights_zh": [
+      "机械师在沃尔玛发现机油滤清器有碎屑",
+      "空气滤清器看起来脏污",
+      "建议购买前检查密封垫圈",
+      "消费者应警惕退货重新上架的商品"
+    ],
+    "entities": [
+      "Fram",
+      "Purolator",
+      "沃尔玛 | Walmart",
+      "机油滤清器"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kbgx4l/s1/woman-opens-fram-purgatory-oil-filters-.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:18.028Z"
+  },
+  "https://www.motor1.com/news/801974/new-bmw-m3-gas-engine-spy-video/": {
+    "title_zh": "下一代宝马 M3 搭载直列六缸发动机，谍照曝光",
+    "summary_short": "宝马正在测试下一代 M3，搭载全新直列六缸发动机，预计 2028 年发布，将采用轻混系统。",
+    "summary_long": "尽管当前一代 M3 预计销售至 2027 年中，宝马已开始研发其继任车型，预计 2028 年亮相。新车将搭载全新直列六缸发动机，而非 V6，并可能引入轻混系统以应对排放法规。谍照显示原型车在纽博格林测试，宽体轮拱表明其为纯正 M3，而非 M Performance 版本。",
+    "highlights_zh": [
+      "下一代 M3 预计 2028 年发布",
+      "搭载全新直列六缸发动机",
+      "可能采用轻混系统",
+      "谍照显示宽体轮拱"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M3",
+      "直列六缸发动机",
+      "轻混系统",
+      "纽博格林"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Mkgl1w/s1/2028-bmw-m3-g84-camouflaged-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:21.007Z"
+  },
+  "https://insideevs.com/news/801983/gm-energy-weave-grid-ev-managed-charging/": {
+    "title_zh": "通用汽车通过智能家庭充电降低电动车车主电费",
+    "summary_short": "通用汽车能源与 WeaveGrid 合作，推出智能充电和 V2H 计划，帮助车主降低电费并稳定电网。",
+    "summary_long": "通用汽车能源与电网软件提供商 WeaveGrid 合作，为符合条件的通用电动车车主提供智能充电管理计划，通过自动在电价低时充电来降低电费。未来，配备 V2H 系统的车主还可参与电网服务，利用车辆电池储能，获得激励。",
+    "highlights_zh": [
+      "智能充电自动选择低价时段充电",
+      "V2H 系统可在停电时供电",
+      "参与电网服务可获得激励",
+      "合作方为 WeaveGrid"
+    ],
+    "entities": [
+      "通用汽车",
+      "WeaveGrid",
+      "雪佛兰",
+      "GMC",
+      "凯迪拉克"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BlKK/s1/general-motors-vehicle-to-home-v2h.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:21.822Z"
+  },
+  "https://www.motor1.com/news/801962/volvo-most-ambitious-product-plan/": {
+    "title_zh": "沃尔沃启动史上最雄心勃勃的产品计划",
+    "summary_short": "沃尔沃计划推出史上最大产品攻势，两款新车将于初秋亮相，目标成为领先高端电动车品牌。",
+    "summary_long": "沃尔沃 2026 年上半年零售销量下降 8%至 32.48 万辆，但公司预计下半年销量将显著增长。EX60 已开始交付，旗舰 EX90 订单创历史新高。初秋将发布两款电气化新车，预计为插电混动车型而非纯电动。此外，沃尔沃正在欧洲开发全新纯电轿车和旅行车，最早 2028 年进入美国市场。",
+    "highlights_zh": [
+      "上半年销量下降 8%",
+      "EX60 开始交付",
+      "初秋将发布两款电气化新车",
+      "纯电轿车和旅行车最早 2028 年入美"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "EX60",
+      "EX90",
+      "S90",
+      "S60"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwqWX/s1/volvo-xc60-update.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:24.041Z"
+  },
+  "https://insideevs.com/news/801973/range-rover-sport-ev-specs-battery-range/": {
+    "title_zh": "路虎揽胜运动版纯电车型即将登场",
+    "summary_short": "路虎揽胜运动版纯电车型将于今年晚些时候推出，续航约 330 英里，对标 Lucid Gravity。",
+    "summary_long": "路虎揽胜运动版纯电车型将于今年晚些时候推出，基于 800 伏架构，搭载 118.5 千瓦时电池，EPA 续航约 330 英里。外观与燃油版几乎一致，仅封闭式格栅和缺失的排气管可区分。该车将直接对标 Lucid Gravity，后者续航达 450 英里，但路虎认为其品牌和性能足以吸引高端买家。",
+    "highlights_zh": [
+      "基于 800 伏架构",
+      "118.5 千瓦时电池",
+      "EPA 续航 330 英里",
+      "对标 Lucid Gravity"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "揽胜运动版 | Range Rover Sport",
+      "Lucid Gravity",
+      "EPA 续航"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8lEl/s1/range-rover-sport-electric-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:25.088Z"
+  },
+  "https://insideevs.com/news/801961/geely-thunder-ev-drive-efficiency/": {
+    "title_zh": "吉利发布“雷霆”电驱系统：体积更小、效率更高",
+    "summary_short": "吉利推出“雷霆”智能电驱系统，集成 12 项硬件功能，效率达 93.8%，体积减小可释放后备箱空间。",
+    "summary_long": "吉利发布全新“雷霆”智能电驱系统，通过高度集成 12 项硬件功能于单一壳体，减少了 180 多个零部件，实现 93.8%的行业领先效率。该电机功率密度达 11.8 千瓦/千克，高度仅 325 毫米，可释放约 28 升后备箱空间。系统还集成 AI 驱动的软件功能，兼顾性能与紧凑设计。",
+    "highlights_zh": [
+      "效率达 93.8%",
+      "集成 12 项功能",
+      "功率密度 11.8 kW/kg",
+      "镁合金壳体"
+    ],
+    "entities": [
+      "吉利",
+      "雷霆",
+      "电驱系统",
+      "功率密度",
+      "镁合金"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A3lLv/s1/geely-thunder-electric-drive-system.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:27.761Z"
+  },
+  "https://www.motor1.com/news/801950/last-bugatti-w16-hypercar-built/": {
+    "title_zh": "布加迪发布最后一款 W16 超跑，V16 时代即将开启",
+    "summary_short": "布加迪推出最后一款搭载 W16 引擎的 Mistral 敞篷超跑，标志着 21 年传奇动力的终结。",
+    "summary_long": "布加迪发布了第 99 台也是最后一台 Mistral 敞篷超跑，名为“The Last of Its Kind”，搭载四涡轮增压 8.0 升 W16 发动机，该发动机自 2005 年 Veyron 开始生产，历经 21 年。这台车是 W16 引擎在量产车上的绝唱，之后布加迪将转向 V16 动力。最后一台 Mistral 采用双色珍珠与闪光漆面，内饰定制有 Magnolia 和 Grey Carbon Matt 装饰，以及 Ettore Bugatti 签名。每台 Mistral 在交付前都经过 400 公里测试，并曾在 2024 年 11 月以敞篷车身份创下速度纪录。",
+    "highlights_zh": [
+      "最后一台 W16 引擎量产车",
+      "名为“The Last of Its Kind”",
+      "双色珍珠与闪光漆面",
+      "每台车经 400 公里测试"
+    ],
+    "entities": [
+      "布加迪 | Bugatti",
+      "Mistral",
+      "W16",
+      "Veyron",
+      "Bolide"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJ1J0/s1/bugatti-w16-mistral-the-last-of-its-kind-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-17T14:55:29.330Z"
   }
 }
