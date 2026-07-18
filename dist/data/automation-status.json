@@ -1,145 +1,115 @@
 {
   "workflow": {
-    "generated_at": "2026-07-18T03:28:31.347Z",
+    "generated_at": "2026-07-18T14:32:17.051Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 374,
-    "deepseek_untranslated_before_run": 26,
-    "newly_fetched_articles": 26,
-    "newly_fetched_untranslated": 26,
+    "deepseek_translated_before_run": 385,
+    "deepseek_untranslated_before_run": 15,
+    "newly_fetched_articles": 15,
+    "newly_fetched_untranslated": 15,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 26,
+    "translation_queue_count": 15,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "「CUSTOMがイケメンすぎる！」ホンダ『N-BOX』マイチェンに、SNSでは「グッと良くなった」の声も",
-        "url": "https://response.jp/article/2026/07/18/414197.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "「存在感バツグン」「ワクワクしてる」ついに発売した日産『エルグランド』新型にSNSでは歓迎の声",
-        "url": "https://response.jp/article/2026/07/18/414201.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "【バス運転士不足問題】運転士のストレスのひとつは違法駐停車？ バス停に正着できないんだもん！",
-        "url": "https://bestcarweb.jp/busmagazine/1561376"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "【フェラーリ 849テスタロッサ スパイダー 新型試乗】クーペ比600万円高は“誤差”、久しぶりにスタイリングを語りたくなるフェラーリだ",
-        "url": "https://response.jp/article/2026/07/18/414198.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第812回",
-        "url": "https://bestcarweb.jp/feature/column/1562986"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "66万円で買えるロイヤルエンフィールド、『ハンター350』に大胆カラー2色が登場",
-        "url": "https://response.jp/article/2026/07/18/414199.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "9割以上の人が「次回も来場したい」と回答！ ジャパントラックショー2026のアンケート調査結果から【前編】",
-        "url": "https://bestcarweb.jp/fullload/1581353"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "スマホがあれば十分？ セレナの後席用モニターは家族で楽しめるコミュニケーションツールだ！",
-        "url": "https://bestcarweb.jp/feature/column/1564712"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "トヨタ『セリカ』復活へ、「現代版GT-FOUR」なるか？…土曜ニュースランキング",
-        "url": "https://response.jp/article/2026/07/18/414200.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "ならでは、の強み…ローソンが車中泊「コンビニRVパーク」の展開を拡大",
-        "url": "https://response.jp/article/2026/07/17/414177.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "フルバケシートに収まるのはなんとスマホ!! 人気のBRIDEシート型スマホスタンドに限定カラー登場！",
-        "url": "https://bestcarweb.jp/news/1576070"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "ボッシュ寄居工場、動画マニュアル導入で技能継承を革新…カミナシ教育を活用",
-        "url": "https://response.jp/article/2026/07/17/414179.html"
-      },
-      {
         "source": "Motor1",
         "time": "2026.7.18",
-        "title": "Man Turns On Full Self-Driving In His Tesla. Then He Pulls A Ferris Bueller To Fool It: 'So Here's The Secret...'",
-        "url": "https://www.motor1.com/news/801657/driver-tricks-tesla-fsd/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.17",
-        "title": "Toyota Is Paying EV Drivers $3,000 To Switch To A bZ",
-        "url": "https://insideevs.com/news/802060/toyota-bz-3000-conquest-cash/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.17",
-        "title": "Woman Gets Into Car Accident. Then She Loses Money By Filing The Wrong Type Of Claim: 'Most People Have Never Heard Of This'",
-        "url": "https://www.motor1.com/news/801929/car-accident-diminished-value-claim/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.17",
-        "title": "California's EV Rebate Won't Apply To All Cars. These 13 Automakers Qualify",
-        "url": "https://insideevs.com/news/802050/california-ev-tax-credit-brands/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.17",
-        "title": "Did You Know China Makes A Beetle Clone? And It Just Got Better",
-        "url": "https://www.motor1.com/news/802054/china-beetle-knockoff-update-2026/"
+        "title": "Hyundai Driver Uses Auto Hold At Red Light. Then She Gets Accused Of Rear-Ending A Honda: 'Stop Using Auto Hold'",
+        "url": "https://www.motor1.com/news/802036/hyundai-auto-hold-accident/"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.17",
-        "title": "What’s the Point of Concept Cars Anymore? We Asked the People Who Design Them",
-        "url": "https://www.thedrive.com/news/whats-the-point-of-concept-cars-anymore-we-asked-the-people-who-design-them"
+        "time": "2026.7.18",
+        "title": "Old-School Tennessee Mechanic Celebrates 95th Birthday Working at the Shop",
+        "url": "https://www.thedrive.com/news/old-school-tennessee-mechanic-celebrates-95th-birthday-working-at-the-shop"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.18",
+        "title": "This Suzuki’s Engine Blew Up. The Owner Converted It Into An EV In Just Five Days",
+        "url": "https://insideevs.com/news/801873/suzuki-suv-ev-conversion-fast-cheap/"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.17",
-        "title": "Ford's 57th Recall Of The Year Hits 288,000 Explorers Over Loose Roof Rails",
-        "url": "https://www.motor1.com/news/802042/ford-explorer-roof-rail-cover-recall/"
+        "time": "2026.7.18",
+        "title": "The Audi Q7 Gets A Price Hike, While The SQ7 Nears $100,000",
+        "url": "https://www.motor1.com/news/802062/2027-audi-q7-price-sq7/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "『ハイエース』200系専用インテリアパネルキット、3シリーズを発売 3Dスキャン設計で高フィット感",
+        "url": "https://response.jp/article/2026/07/18/414202.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "GRヤリス前期仕様にエイドロエアロ登場！ リアルカーボンの機能美に注目!!",
+        "url": "https://bestcarweb.jp/news/1576071"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.17",
-        "title": "Listen To Ford's New Race Car Fire Up For The First Time",
-        "url": "https://www.motor1.com/news/802033/ford-hypercar-starts-v8-engine/"
+        "time": "2026.7.18",
+        "title": "Man Leaves Pump Unattended At Royal Farms. Then He Catches Another Man Doing Something Shocking: ‘This Is So Bold’",
+        "url": "https://www.motor1.com/news/801914/royal-farms-gas-thief/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.18",
+        "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+        "url": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "アウディのスーパーSUV『RS Q5』は630馬力級PHEVに!? ワイドボディの開発車両をスクープ",
+        "url": "https://response.jp/article/2026/07/18/414207.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "オミクロン・オーディオのハイエンドスピーカー4製品、イース・コーポレーションが7月より取扱い開始",
+        "url": "https://response.jp/article/2026/07/18/414205.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "カワサキプラザ宮崎、リニューアルオープン…光の枠で演出した「ケージ」展示も",
+        "url": "https://response.jp/article/2026/07/18/414204.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "トヨタが生んだ”美しすぎるクーペ”とは?? 想像以上に走りも本格的！ セリカの陰に隠れた「カレン」の魅力",
+        "url": "https://bestcarweb.jp/feature/column/1557660"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "レーサーへの新たな登竜門!? トヨタがグランツーリスモ7で新たな人材発掘へ！",
+        "url": "https://bestcarweb.jp/feature/column/1577180"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.18",
+        "title": "Man Makes Offer On His Dream Car. Then He Tries To Pay With His American Express: 'Not A Credit Card'",
+        "url": "https://www.motor1.com/news/802032/american-express-charge-card-chevrolet-corvette/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.18",
+        "title": "Woman Goes To AutoZone For A New Battery. They Said It'd Be $95. The Cheapest One Is $289. Then She Pulls An Uno Reverse",
+        "url": "https://www.motor1.com/news/802030/autozone-worker-battery-advice/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 26,
-    "queued_articles": 26,
-    "processed": 26,
-    "started_at": "2026-07-18T03:28:31.668Z",
-    "finished_at": "2026-07-18T03:29:21.239Z",
+    "scoped_articles": 15,
+    "queued_articles": 15,
+    "processed": 15,
+    "started_at": "2026-07-18T14:32:17.402Z",
+    "finished_at": "2026-07-18T14:32:52.809Z",
     "success": true,
     "error": ""
   }
