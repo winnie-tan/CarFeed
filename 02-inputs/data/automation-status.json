@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-17T14:54:25.492Z",
+    "generated_at": "2026-07-18T03:28:31.347Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
+    "deepseek_translated_before_run": 374,
+    "deepseek_untranslated_before_run": 26,
+    "newly_fetched_articles": 26,
+    "newly_fetched_untranslated": 26,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 26,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "「CUSTOMがイケメンすぎる！」ホンダ『N-BOX』マイチェンに、SNSでは「グッと良くなった」の声も",
+        "url": "https://response.jp/article/2026/07/18/414197.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "「存在感バツグン」「ワクワクしてる」ついに発売した日産『エルグランド』新型にSNSでは歓迎の声",
+        "url": "https://response.jp/article/2026/07/18/414201.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "【バス運転士不足問題】運転士のストレスのひとつは違法駐停車？ バス停に正着できないんだもん！",
+        "url": "https://bestcarweb.jp/busmagazine/1561376"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "【フェラーリ 849テスタロッサ スパイダー 新型試乗】クーペ比600万円高は“誤差”、久しぶりにスタイリングを語りたくなるフェラーリだ",
+        "url": "https://response.jp/article/2026/07/18/414198.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第812回",
+        "url": "https://bestcarweb.jp/feature/column/1562986"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "66万円で買えるロイヤルエンフィールド、『ハンター350』に大胆カラー2色が登場",
+        "url": "https://response.jp/article/2026/07/18/414199.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "9割以上の人が「次回も来場したい」と回答！ ジャパントラックショー2026のアンケート調査結果から【前編】",
+        "url": "https://bestcarweb.jp/fullload/1581353"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "スマホがあれば十分？ セレナの後席用モニターは家族で楽しめるコミュニケーションツールだ！",
+        "url": "https://bestcarweb.jp/feature/column/1564712"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "トヨタ『セリカ』復活へ、「現代版GT-FOUR」なるか？…土曜ニュースランキング",
+        "url": "https://response.jp/article/2026/07/18/414200.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "ならでは、の強み…ローソンが車中泊「コンビニRVパーク」の展開を拡大",
+        "url": "https://response.jp/article/2026/07/17/414177.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.18",
+        "title": "フルバケシートに収まるのはなんとスマホ!! 人気のBRIDEシート型スマホスタンドに限定カラー登場！",
+        "url": "https://bestcarweb.jp/news/1576070"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.18",
+        "title": "ボッシュ寄居工場、動画マニュアル導入で技能継承を革新…カミナシ教育を活用",
+        "url": "https://response.jp/article/2026/07/17/414179.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.18",
+        "title": "Man Turns On Full Self-Driving In His Tesla. Then He Pulls A Ferris Bueller To Fool It: 'So Here's The Secret...'",
+        "url": "https://www.motor1.com/news/801657/driver-tricks-tesla-fsd/"
+      },
+      {
+        "source": "InsideEVs",
         "time": "2026.7.17",
-        "title": "Carmakers Don’t Think They Should Have to Fix Blindingly Bright Headlights",
-        "url": "https://www.thedrive.com/news/carmakers-dont-think-they-should-have-to-fix-blindingly-bright-headlights"
+        "title": "Toyota Is Paying EV Drivers $3,000 To Switch To A bZ",
+        "url": "https://insideevs.com/news/802060/toyota-bz-3000-conquest-cash/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.17",
-        "title": "Honda Pulls The Plug On Its Last EV",
-        "url": "https://www.motor1.com/news/802015/honda-prologue-dead/"
+        "title": "Woman Gets Into Car Accident. Then She Loses Money By Filing The Wrong Type Of Claim: 'Most People Have Never Heard Of This'",
+        "url": "https://www.motor1.com/news/801929/car-accident-diminished-value-claim/"
       },
       {
-        "source": "The Drive",
+        "source": "InsideEVs",
         "time": "2026.7.17",
-        "title": "2026 Lexus NX Hybrid Quick Review: I Finally Get Why People Buy These",
-        "url": "https://www.thedrive.com/car-reviews/2026-lexus-nx-hybrid-review"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.17",
-        "title": "Ford CEO Jim Farley Says U.S. Plants Are Catching Up to China and Mexico: TDS",
-        "url": "https://www.thedrive.com/news/ford-ceo-jim-farley-says-u-s-plants-are-catching-up-to-china-and-mexico-tds"
+        "title": "California's EV Rebate Won't Apply To All Cars. These 13 Automakers Qualify",
+        "url": "https://insideevs.com/news/802050/california-ev-tax-credit-brands/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.17",
-        "title": "Why Does BMW's Headquarters Look Like That?",
-        "url": "https://www.motor1.com/features/800899/who-designed-bmw-headquarters/"
+        "title": "Did You Know China Makes A Beetle Clone? And It Just Got Better",
+        "url": "https://www.motor1.com/news/802054/china-beetle-knockoff-update-2026/"
       },
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.7.17",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「AR」",
-        "url": "https://bestcarweb.jp/feature/column/1553924"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "【日産 リーフ 新型試乗】控えめバッテリーの「B5」はアリかナシか？ 装備グレードの違いを検証した",
-        "url": "https://response.jp/article/2026/07/17/414185.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "BYD AUTO 東京杉並、7月31日オープン…井の頭通り沿いに",
-        "url": "https://response.jp/article/2026/07/17/414187.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "BYD、「日本バス協会」に賛助会員として正式加盟…EVバス普及へ",
-        "url": "https://response.jp/article/2026/07/17/414182.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "EST脱炭素交通大賞、第16回の応募受付を開始…国土交通大臣賞・環境大臣賞などを授与へ",
-        "url": "https://response.jp/article/2026/07/17/414172.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "EVトゥクトゥク「VIVEL」、電動トライクの累計販売500台突破…月平均販売ペースが3.4倍に急加速",
-        "url": "https://response.jp/article/2026/07/17/414181.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.17",
-        "title": "FRベースの本格派メカ！ エブリイの電子制御4WDがFFベースの軽と別モノの悪路走破性を持つワケ",
-        "url": "https://bestcarweb.jp/feature/column/1578518"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "MINIクーパーに「Oxford Edition」、全身に「ユニオンジャック」…生産開始25周年を祝う",
-        "url": "https://response.jp/article/2026/07/17/414171.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "Nature Architects、SusHi Tech Global第4弾に採択…自動車メーカーの新製品開発を支援",
-        "url": "https://response.jp/article/2026/07/17/414184.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "VW『ティグアン』、20周年記念「EDITION 20」欧州発表…新色と専用装備",
-        "url": "https://response.jp/article/2026/07/17/414167.html"
+        "title": "What’s the Point of Concept Cars Anymore? We Asked the People Who Design Them",
+        "url": "https://www.thedrive.com/news/whats-the-point-of-concept-cars-anymore-we-asked-the-people-who-design-them"
       },
       {
         "source": "Motor1",
         "time": "2026.7.17",
-        "title": "Woman’s Check Engine Light Comes On. Then She Uses Cataclean From O’Reilly: ‘I Think It Cost Me $27’",
-        "url": "https://www.motor1.com/news/801658/woman-cataclean-oreilly/"
+        "title": "Ford's 57th Recall Of The Year Hits 288,000 Explorers Over Loose Roof Rails",
+        "url": "https://www.motor1.com/news/802042/ford-explorer-roof-rail-cover-recall/"
       },
       {
-        "source": "Best Car Web",
+        "source": "Motor1",
         "time": "2026.7.17",
-        "title": "ZR-V対CX-5!! 上質SUVを選ぶなら2モーターハイブリッドかマイルドハイブリッドか？",
-        "url": "https://bestcarweb.jp/feature/column/1572530"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "アルパイン、トヨタ『ランドクルーザー FJ』専用デジタルミラー取付けキットを8月下旬発売",
-        "url": "https://response.jp/article/2026/07/17/414193.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.17",
-        "title": "テスラ急速充電「スーパーチャージャー」、国内150箇所目がオープン…全国744基に",
-        "url": "https://response.jp/article/2026/07/17/414188.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.17",
-        "title": "なんとヴェゼルはWR-Vの5倍売れてる!! 同じホンダのコンパクトSUVなのに2台はどこが違うのか？",
-        "url": "https://bestcarweb.jp/feature/column/1582195"
+        "title": "Listen To Ford's New Race Car Fire Up For The First Time",
+        "url": "https://www.motor1.com/news/802033/ford-hypercar-starts-v8-engine/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29589890993",
-    "sha": "2b448ef4d41ccd0df366b957769e13fd3f4e4045",
-    "completed_at": "2026-07-17T14:55:29.619Z",
+    "run_id": "29628866683",
+    "sha": "9d7119c988140fa7079e2f2ddeb45d27254666f4",
+    "completed_at": "2026-07-18T03:29:21.525Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-07-17T14:54:25.812Z",
-    "finished_at": "2026-07-17T14:55:29.352Z",
+    "scoped_articles": 26,
+    "queued_articles": 26,
+    "processed": 26,
+    "started_at": "2026-07-18T03:28:31.668Z",
+    "finished_at": "2026-07-18T03:29:21.239Z",
     "success": true,
     "error": ""
   }
