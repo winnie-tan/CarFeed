@@ -81669,5 +81669,440 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-19T03:51:27.596Z"
+  },
+  "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev/": {
+    "title_zh": "宾利电动车将用管弦乐队模拟 V8 声浪",
+    "summary_short": "宾利为电动 SUV Torcal 打造“动态交响乐”，用管弦乐队模拟 V8 发动机的节奏与音色，以赋予电动车情感魅力。",
+    "summary_long": "宾利为解决电动车缺乏性格的问题，为即将推出的电动 SUV Torcal 开发了一套名为“Bentley Dynamic Symphony”的动力系统声效。团队录制并分析了一台 V8 发动机的声音，发现节奏而非纯机械音调是其情感吸引力的核心。因此，宾利聘请了一支完整的管弦乐队，使用真实乐器（尤其是鼓）来复制 V8 的节奏和音调，而非简单的电子模拟声。",
+    "highlights_zh": [
+      "宾利用管弦乐队模拟 V8 声浪",
+      "节奏是发动机声音的情感核心",
+      "真实乐器演奏而非电子合成",
+      "电动 SUV Torcal 将搭载此系统"
+    ],
+    "entities": [
+      "宾利 | Bentley",
+      "Torcal",
+      "Bentayga",
+      "V8 发动机",
+      "电动 SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkM0Mm/s1/bentley-ev-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:35:48.892Z"
+  },
+  "https://www.thedrive.com/news/please-enjoy-this-japanese-racing-shop-building-an-engine": {
+    "title_zh": "日本赛车改装厂 OS Giken 发动机组装全过程",
+    "summary_short": "OS Giken 发布一小时发动机组装视频，展示 L 系列直六引擎配 TC24-B1Z 缸头的精密手工装配过程。",
+    "summary_long": "日本改装厂 OS Giken 发布了一小时长的发动机组装视频，详细展示了其 S30 Z 项目车的 L 系列直六发动机装配过程。该发动机搭载了 OS Giken 的 TC24-B1Z 缸头，这是 1970 年代创始人设计的 TC24-B1 缸头的现代复刻版，仅生产了 9 个原版，2017 年以 B1Z 形式回归并采用现代制造技术升级。视频中，技师手工清洗原始 L 系列缸体并填入全新零件，体现了 OS Giken 小规模手工装配的特色。",
+    "highlights_zh": [
+      "OS Giken 发布一小时发动机组装视频",
+      "搭载 TC24-B1Z 缸头的 L 系列直六引擎",
+      "手工清洗原始缸体并装配新零件",
+      "小规模手工装配展现传统工艺"
+    ],
+    "entities": [
+      "OS Giken",
+      "TC24-B1Z",
+      "L-Series",
+      "S30 Z"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-11.24.47-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-11.17.47-AM.jpeg?strip=all",
+      "https://i.ytimg.com/vi/2Ex5iJ-Id98/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:35:49.033Z"
+  },
+  "https://www.motor1.com/news/802089/plate-frame-violation-ticket/": {
+    "title_zh": "女司机因经销商安装的牌照框被罚",
+    "summary_short": "一名女司机因牌照框遮挡被警察开罚单，但该牌照框是经销商安装的，她并不知情。",
+    "summary_long": "一名女司机在带三个孩子离开儿科诊所后，被警察拦下。尽管她严格遵守交通规则，警察仍以牌照框遮挡车牌为由开具罚单。她表示牌照框是经销商安装的，自己并未故意违规。该视频在社交媒体上引发热议。",
+    "highlights_zh": [
+      "警察以牌照框遮挡车牌为由开罚单",
+      "女司机称牌照框是经销商安装的",
+      "她严格遵守交通规则仍被拦下",
+      "视频引发网友热议"
+    ],
+    "entities": [
+      "Motor1"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40Y1mZ/s1/woman-gets-pulled-over-by-cop.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:35:52.774Z"
+  },
+  "https://response.jp/article/2026/07/19/414221.html": {
+    "title_zh": "马自达首款 SUV“Tribune”在 CX 系列前夜登场",
+    "summary_short": "回顾马自达首款 SUV Tribunte，2000 年推出，与福特 Escape 共同开发，采用高刚性车身和多种动力。",
+    "summary_long": "2000 年 11 月，马自达推出了其首款 SUV——Tribunte，早于后来的 CX 系列。该车与福特共同开发，福特版为 Escape。Tribunte 采用名为“MAGMA”的承载式高刚性安全车身，前悬架为麦弗逊式，后悬架为多连杆式。动力方面提供 3.0 升 V6（203 马力）和 2.0 升直列四缸（129 马力）两款发动机，四驱系统配备电磁锁止式旋转叶片耦合器，2.0 升车型还有前驱版本。",
+    "highlights_zh": [
+      "马自达首款 SUV",
+      "与福特 Escape 共同开发",
+      "搭载 3.0L V6 或 2.0L 四缸发动机",
+      "采用 MAGMA 高刚性车身"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Tribunte",
+      "福特",
+      "Escape"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228616.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228616.jpg",
+      "https://response.jp/imgs/fill2/2228617.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:35:54.352Z"
+  },
+  "https://response.jp/article/2026/07/19/414218.html": {
+    "title_zh": "铃木 Crossbee 新款试驾：独特世界观与驾驶感令人想起昔日雪铁龙",
+    "summary_short": "铃木 Crossbee 新款换装 1.2L 自然吸气+CVT，动力下降但驾驶感独特，令人联想到经典雪铁龙。",
+    "summary_long": "铃木 Crossbee 自 2017 年底上市已近 10 年，2025 年后动力系统从 1.0L 三缸涡轮增压+6AT 改为 1.2L 自然吸气三缸+CVT，最大功率从 99ps 降至 80ps，最大扭矩从 150Nm 降至 108Nm，但电机扭矩从 50Nm 增至 60Nm。虽然账面性能下降，但独特的驾驶感受和设计风格依然鲜明，甚至让人想起昔日的雪铁龙车型。",
+    "highlights_zh": [
+      "动力从 1.0T+6AT 改为 1.2L 自吸+CV…",
+      "最大功率降至 80ps",
+      "电机扭矩增至 60Nm",
+      "驾驶感独特"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "クロスビー",
+      "雪铁龙",
+      "ハスラー"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228707.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228707.jpg",
+      "https://response.jp/imgs/fill2/2226848.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:35:56.959Z"
+  },
+  "https://response.jp/article/2026/07/19/414223.html": {
+    "title_zh": "标致 308 新款试驾：C 级掀背车竟如此高级",
+    "summary_short": "标致 308 GT Hybrid 中期改款，1.2 升三缸轻混系统带来静谧高级的驾驶体验，悬挂依然轻盈柔韧。",
+    "summary_long": "标致 308 GT Hybrid 经过中期改款，内外设计焕然一新。搭载 Stellantis 的 1.2 升直列三缸轻混系统，电机驱动起步时发动机不介入，静谧平顺，质感媲美高级车。悬挂调校延续“猫足”风格，轻盈柔韧，驾驶乐趣十足。",
+    "highlights_zh": [
+      "轻混系统电机起步",
+      "悬挂轻盈柔韧",
+      "内外设计升级"
+    ],
+    "entities": [
+      "标致",
+      "308",
+      "GT Hybrid",
+      "轻混系统",
+      "C 级掀背车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228374.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228373.jpg",
+      "https://response.jp/imgs/fill2/2228373.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:35:58.505Z"
+  },
+  "https://bestcarweb.jp/feature/column/1577395": {
+    "title_zh": "100 台限定却遭 44 倍申请！大发 Mira e:S DSR 初号机开始交付",
+    "summary_short": "大发 Mira e:S DSR 初号机开始交付，100 台限定竟收到约 44 倍申请，反响远超预期。",
+    "summary_long": "大发 Mira e:S tuned by D-SPORT Racing（5 速 MT 涡轮版）初号车于 4 月 23 日在大发工业池田工厂举行出荷仪式。这款限量 100 台的车型在 3 月 19 日至 4 月 6 日的申请期内，竟收到约 44 倍的申请量，令相关人士也大为惊讶。仪式上，大发副社长桑田正规、SPK 社长冲恭一郎等出席，庆祝首台车的交付。该车是 SPK 乃至大发首次尝试的基于赛车标准的制造，经过白车身重新组装并安装专用部件，成为一台普通渠道无法获得的特别车型。",
+    "highlights_zh": [
+      "100 台限定",
+      "初号车出荷仪式在大发池田工厂举行",
+      "基于赛车标准制造",
+      "有望推出第二、第三弹车型"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Mira e:S | ミライース",
+      "D-SPORT Racing",
+      "SPK"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11140120/00_mira_e-s_D-sport_racing_head.jpg?v=1783746081",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/11140120/00_mira_e-s_D-sport_racing_head-600x400.jpg?v=1783746081",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10152629/00_news-show_honda_head-600x400.jpg?v=1783664790"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:02.050Z"
+  },
+  "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/": {
+    "title_zh": "法拉利将拍卖首款电动跑车 Luce 首台量产版",
+    "summary_short": "法拉利将在蒙特雷汽车周拍卖首款电动跑车 Luce 的首台量产版，采用 Tailor Made 定制，收益捐慈善。",
+    "summary_long": "法拉利首款电动跑车 Luce 的首台量产版（底盘编号 0）将于 8 月蒙特雷汽车周拍卖。该车通过法拉利 Tailor Made 定制项目打造，主题为“光”，采用特殊珍珠白半光漆面，搭配专属轮毂、定制刹车卡钳及光学白背景徽标，内饰使用勒芒金属皮革和 Grigio Corvara 装饰。拍卖收益将用于慈善。",
+    "highlights_zh": [
+      "首台量产版 Luce 底盘编号 0 将拍卖",
+      "Tailor Made 定制主题为“光”",
+      "采用特殊珍珠白半光漆面",
+      "拍卖收益用于慈善"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "蒙特雷汽车周",
+      "Tailor Made"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlEyo/s1/ferrari-luce-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:02.717Z"
+  },
+  "https://response.jp/article/2026/07/19/414220.html": {
+    "title_zh": "HUMMER 品牌电动助力折叠自行车发布，采用霸气胖胎",
+    "summary_short": "HUMMER 推出电动助力折叠自行车 E-FAT206，采用 20×3.0 英寸胖胎，售价 11.88 万日元。",
+    "summary_long": "日本ジック公司将于 8 月下旬发售 HUMMER 品牌 20 英寸电动助力折叠自行车“HUMMER E-FAT206”，售价 11.88 万日元。该车最大特点是采用 20×3.0 英寸胖胎，提供稳定行驶和霸气外观。车架采用皱纹涂装，凸显粗犷质感且耐刮擦。助力模式分弱、标准、强三档，弱模式下续航约 42 公里。标配前后碟刹、全挡泥板和 LED 头灯，变速器为 SHIMANO Tourney 6 速。",
+    "highlights_zh": [
+      "20×3.0 英寸胖胎",
+      "车架皱纹涂装",
+      "三档助力",
+      "前后碟刹、LED 头灯、6 速变速"
+    ],
+    "entities": [
+      "HUMMER",
+      "E-FAT206",
+      "SHIMANO Tourney"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228524.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228524.jpg",
+      "https://response.jp/imgs/fill2/2228525.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:06.433Z"
+  },
+  "https://response.jp/article/2026/07/19/414219.html": {
+    "title_zh": "KTM 390 DUKE 2026 年款发布，搭载自研 WP 刹车和 5 英寸 TFT 屏",
+    "summary_short": "KTM 390 DUKE 2026 年款发布，搭载自研 WP 刹车系统、5 英寸 TFT 仪表，售价 82.9 万日元。",
+    "summary_long": "KTM 日本宣布 2026 年款 390 DUKE 于 7 月上市，售价 82.9 万日元（含税），提供黑、蓝两色。新车最大亮点是采用自研 WP 刹车系统，前轮配备 320mm 碟盘与四活塞径向卡钳，后轮为 240mm 碟盘与单活塞卡钳。车架为钢管编织主车架与铝压铸副车架组合，优化转向偏移提升操控。悬挂为 43mm WP APEX 倒叉（可调回弹/压缩）与分体活塞后减震。发动机为 398.7cc 单缸水冷 DOHC，最大功率 33kW（45PS）/8500rpm，峰值扭矩 39Nm/7000rpm，匹配 6 速变速箱。",
+    "highlights_zh": [
+      "自研 WP 刹车系统",
+      "5 英寸 TFT 仪表",
+      "售价 82.9 万日元",
+      "398.7cc 单缸 45 马力"
+    ],
+    "entities": [
+      "KTM",
+      "390 DUKE",
+      "WP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228681.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228681.jpg",
+      "https://response.jp/imgs/fill2/2228669.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:08.236Z"
+  },
+  "https://www.motor1.com/news/802088/tow-neighbor-in-reserved-parking-spot/": {
+    "title_zh": "女子邻居屡占预留车位，忍无可忍叫来拖车",
+    "summary_short": "长岛一女子因邻居屡次占用其预留车位，在多次警告无效后，最终叫来拖车将邻居车辆拖走。",
+    "summary_long": "一名长岛女子因邻居屡次占用其公寓楼内的预留车位，在五次警告无效后，最终决定叫来拖车。她在 TikTok 上发布了与邻居争执的视频，以及后续拖车过程，引发广泛关注。视频显示，她直接告知邻居拖车即将到来，要求其不要再停车在此。",
+    "highlights_zh": [
+      "邻居五次占用预留车位",
+      "女子警告无效后叫来拖车",
+      "TikTok 视频观看超 600 万次",
+      "邻居最终被拖车"
+    ],
+    "entities": [
+      "长岛",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzW1nz/s1/woman-s-neighbor-keeps-parking-in-her-reserved-spot.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:11.180Z"
+  },
+  "https://response.jp/article/2026/07/19/414222.html": {
+    "title_zh": "铃木隼 1/12 积木模型开售",
+    "summary_short": "CAMSHOP.JP 推出铃木隼 1/12 积木模型，299 块零件还原经典造型，售价 2640 日元。",
+    "summary_long": "CAMSHOP.JP 推出铃木官方授权的 1/12 比例积木模型“CaDA SUZUKI Hayabusa C62051W”，以 299 块零件精准还原铃木隼的流线型整流罩、强劲车身、大型排气管、轮毂和悬挂等细节，红色车身及侧面的“隼”字标识也得到再现。成品尺寸约 17.9×5.3×11.2 厘米，附带展示支架，适合桌面或收藏柜陈列。",
+    "highlights_zh": [
+      "1/12 比例积木模型",
+      "299 块零件",
+      "铃木官方授权",
+      "售价 2640 日元"
+    ],
+    "entities": [
+      "CAMSHOP.JP",
+      "铃木 | Suzuki",
+      "隼",
+      "CaDA"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228692.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228692.jpg",
+      "https://response.jp/imgs/fill2/2228693.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:12.692Z"
+  },
+  "https://response.jp/article/2026/07/19/414224.html": {
+    "title_zh": "推荐给“仪表台上”一族的磁吸式无线充电手机支架",
+    "summary_short": "推荐两款最新磁吸式无线充电手机支架，专为仪表台安装设计，兼具紧凑、稳固与安全特性。",
+    "summary_long": "本期精选两款最新磁吸式无线充电手机支架，均适合安装在仪表台上方。EXEA 的“磁吸无线充电支架（EC-259）”采用金属臂，刚性强、抗振动，支持 360 度旋转，软质底座可贴合曲面仪表台。SEIWA 的“MagHold 手机充电支架 Qi2/DB 贴附（D669）”同样采用软质底座和可动锌合金臂，具备异物/过热检测功能，并通过 Qi2 认证，支持最大 15W 充电。",
+    "highlights_zh": [
+      "EXEA 磁吸无线充电支架（EC-259）约 306…",
+      "SEIWA MagHold 充电支架（D669）约…",
+      "金属臂设计",
+      "SEIWA 款具备异物/过热检测"
+    ],
+    "entities": [
+      "EXEA",
+      "SEIWA",
+      "磁吸无线充电支架",
+      "Qi2"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228404.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228404.jpg",
+      "https://response.jp/imgs/fill2/2228406.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:16.158Z"
+  },
+  "https://bestcarweb.jp/feature/column/1557959": {
+    "title_zh": "FJ 酷路泽：V6 4.0L 配对开门，硬派越野为何令人着迷",
+    "summary_short": "丰田 FJ 酷路泽凭借复古造型、V6 4.0L 发动机和对开门设计，成为硬派越野经典，至今仍受追捧。",
+    "summary_long": "丰田 FJ 酷路泽于 2010 年至 2018 年销售，是一款硬派越野四驱车。它采用圆形头灯、垂直风挡和三雨刮的复古外观，搭载 V6 4.0L 汽油发动机、分时四驱系统、倍适登减震器和后差速锁，兼顾颜值与越野实力。尽管已停产，但其独特的设计和强悍性能仍让车迷念念不忘。",
+    "highlights_zh": [
+      "复古造型：圆灯、垂直风挡、三雨刮",
+      "V6 4.0L 发动机配分时四驱",
+      "对开门设计",
+      "倍适登减震+后差速锁"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "FJ 酷路泽",
+      "陆地巡洋舰",
+      "分时四驱",
+      "对开门"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23145325/wallpapers_toyota_fj-cruiser_2010_1.jpg?v=1782194006",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23145325/wallpapers_toyota_fj-cruiser_2010_1-600x450.jpg?v=1782194006",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10152629/00_news-show_honda_head-600x400.jpg?v=1783664790"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:17.732Z"
+  },
+  "https://bestcarweb.jp/newcar/1584064": {
+    "title_zh": "全新 Elgrand 改装版登场：AUTECH、VIP、Step Type 价格与配置一览",
+    "summary_short": "日产发布全新 Elgrand 四款改装版，包括 AUTECH、VIP 等，价格从 824 万至 870 万日元。",
+    "summary_long": "2026 年 7 月 16 日，日产发布时隔约 16 年全面换代的 Elgrand，同日日产运动与定制部门（NMC）推出四款定制车型：AUTECH、AUTECH LINE、VIP 和 Step Type。AUTECH 定位旗舰，以“海”为设计主题，售价 824.78 万日元；VIP 为顶级车型，售价 869.88 万日元，直接对标丰田 Alphard Executive Lounge。Step Type 注重上下车便利性。所有车型通过日产经销商销售，AUTECH 于 8 月上旬发售，其余三款与基础车同步于 7 月 16 日发售。",
+    "highlights_zh": [
+      "日产发布全新 Elgrand 四款改装版",
+      "AUTECH 旗舰版售价 824.78 万日元",
+      "VIP 版售价 869.88 万日元",
+      "Step Type 提升上下车便利性"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "エルグランド",
+      "AUTECH",
+      "VIP",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/19224019/C13I1479.jpg?v=1784468421",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/19224019/C13I1479-600x379.jpg?v=1784468421",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16102216/PXL_20260716_010433385-600x452.jpg?v=1784164937"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:21.082Z"
+  },
+  "https://bestcarweb.jp/fullload/1581425": {
+    "title_zh": "日本卡车展 2026 观众调查结果（后篇）：令人印象深刻的展品",
+    "summary_short": "日本卡车展 2026 调查显示，八成以上观众满意，卡车制造商展区最受欢迎，各品牌展出最新车型与技术。",
+    "summary_long": "今年 5 月举办的日本卡车展 2026（Japan Truck Show 2026）对行业振兴起到了重要作用。根据展会实施报告中的观众问卷调查结果，超过 80%的观众对展会表示满意。观众满意的主要原因包括：能近距离观察实车、获取卡车专属信息、了解最新趋势、看到完整产业链展示、感受到行业团结氛围等。在感兴趣的展区类别中，卡车制造商以 78%的比例高居榜首，其次是车身改装/救援车（52.7%）、零部件/用品（50.4%）等。各品牌展出的亮点包括：五十铃的 Giga、Elf、Elf Mio 及 EV 和自动驾驶技术；UD Trucks 的 Quon、自动连接、车轮脱落预警装置；沃尔沃的 FH、电子后视镜；日野的 Profia、FCV、氢燃料、ZEV；三菱扶桑的 Super Great、Canter、6R30、eCanter；以及多家公司的定制车、冷藏车、轮胎、洗车机等。",
+    "highlights_zh": [
+      "八成以上观众对展会满意",
+      "卡车制造商展区最受欢迎（78%）",
+      "五十铃、UD、沃尔沃等展出最新车型与技术",
+      "EV、氢燃料、自动驾驶等成焦点"
+    ],
+    "entities": [
+      "日本卡车展 2026 | Japan Truck Show 2026",
+      "五十铃",
+      "UD Trucks",
+      "沃尔沃",
+      "日野"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/16141554/AR5I5953_RT-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/16105930/0B5A4320-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/13115720/00-25DT247_023.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:23.533Z"
+  },
+  "https://bestcarweb.jp/feature/column/1576576": {
+    "title_zh": "本田加拿大 EV 工厂建设无限期冻结",
+    "summary_short": "本田因 EV 需求下滑及关税影响，冻结加拿大 EV 与电池工厂建设，并出现上市 70 年来首次亏损。",
+    "summary_long": "本田宣布无限期冻结加拿大安大略省的 EV 与电池工厂建设计划。该项目原投资 150 亿加元，计划 2028 年投产，但因特朗普关税政策及 EV 需求下降，已多次延期。本田 2026 财年净亏损 4239 亿日元，为上市 70 年来首次亏损。公司正缩减 EV 业务，转向混合动力车。",
+    "highlights_zh": [
+      "加拿大 EV 工厂建设无限期冻结",
+      "上市 70 年来首次亏损",
+      "EV 需求下滑与关税政策双重打击",
+      "战略重心转向混合动力车"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "0 系列 | 0 Series",
+      "加拿大",
+      "混合动力车",
+      "关税"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10152629/00_news-show_honda_head.jpg?v=1783664790",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/10152629/00_news-show_honda_head-600x400.jpg?v=1783664790",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23145325/wallpapers_toyota_fj-cruiser_2010_1-600x450.jpg?v=1782194006"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:24.875Z"
+  },
+  "https://www.motor1.com/news/802035/mercedes-g-wagon-2000-dollar-key-fob/": {
+    "title_zh": "女子丢失奔驰 G Wagon 钥匙，更换费用高达 2000 美元",
+    "summary_short": "一位奔驰 G Wagon 车主因丢失钥匙需支付 2000 美元更换费，后悔购买该车，提醒他人注意高昂维护成本。",
+    "summary_long": "一位奔驰 G Wagon 车主在社交媒体上分享了自己的经历：她丢失了车钥匙，不得不将车拖到奔驰经销商处，被告知更换钥匙需花费超过 2000 美元。她表示买车时只得到一把钥匙，而高昂的维护成本让她后悔购买这辆车，并建议其他人慎重考虑。",
+    "highlights_zh": [
+      "丢失钥匙后更换费用超 2000 美元",
+      "买车时仅配一把钥匙",
+      "车主后悔购买 G Wagon",
+      "提醒他人注意高昂维护成本"
+    ],
+    "entities": [
+      "Mercedes-Benz G Wagon"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/RqkB9g/s1/woman-loses-key-fob-to-15-000-mercedes-g-wagon.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:27.270Z"
+  },
+  "https://www.motor1.com/news/802059/uber-share-driver-personal-question/": {
+    "title_zh": "女子乘坐 Uber 拼车，司机竟问出尴尬问题",
+    "summary_short": "一名女子乘坐 Uber 拼车，司机却问她比普通车便宜多少，让她感到被“审问”。",
+    "summary_long": "一名女子在乘坐 UberX Share（拼车服务）时，司机突然问她比普通车便宜多少钱。她表示自己已经常被朋友嘲笑，没想到连司机也要“审问”她。最终她透露拼车比普通车便宜 8 美元，原价 19 美元，拼车只需 11 美元。",
+    "highlights_zh": [
+      "司机问乘客拼车便宜多少钱",
+      "乘客称被朋友和司机双重“审判”",
+      "拼车比普通车便宜 8 美元"
+    ],
+    "entities": [
+      "Uber"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3QNZx/s1/woman-takes-uber-share.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-19T14:36:28.167Z"
   }
 }

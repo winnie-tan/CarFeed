@@ -1,121 +1,139 @@
 {
   "workflow": {
-    "generated_at": "2026-07-19T03:50:50.111Z",
+    "generated_at": "2026-07-19T14:35:44.066Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 384,
-    "deepseek_untranslated_before_run": 16,
-    "newly_fetched_articles": 16,
-    "newly_fetched_untranslated": 16,
+    "deepseek_translated_before_run": 381,
+    "deepseek_untranslated_before_run": 19,
+    "newly_fetched_articles": 19,
+    "newly_fetched_untranslated": 19,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 16,
+    "translation_queue_count": 19,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "InsideEVs",
         "time": "2026.7.19",
-        "title": "「リアデザインがすっきり」トヨタ『クラウン・クロスオーバー』改良新型のデザインにSNSも注目！",
-        "url": "https://response.jp/article/2026/07/19/414212.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "『ジムニー』のレトロカスタム、アルパインスタイル『ベアス』シリーズに「丸型2灯」モデル登場",
-        "url": "https://response.jp/article/2026/07/19/414214.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "【QJモーター SRK400R 試乗】ホンダ＆カワサキにガチンコ勝負！「中国製ヨンヒャク4気筒」はホンモノか？…青木タカオ",
-        "url": "https://response.jp/article/2026/07/19/414215.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第813回",
-        "url": "https://bestcarweb.jp/feature/column/1562988"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "えぇぇ、JR東日本が自動運転バス!? 気仙沼線BRTで「レベル4」の無人化試験がついに開始！",
-        "url": "https://bestcarweb.jp/feature/column/1576912"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "こんなクラウンエステート欲しい!! トヨタ車たちが一気に進化！ モデリスタ最新エアロの実力とは",
-        "url": "https://bestcarweb.jp/feature/column/1559743"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "シエンタの低床フロアは本当に便利？ 子どもと高齢の親にやさしい乗降性を再評価",
-        "url": "https://bestcarweb.jp/feature/column/1559521"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "たかが配線、されど配線？「スピーカーケーブル」で音が変わる［カー用音響機材・チョイスの極意…パーツ＆部材編］",
-        "url": "https://response.jp/article/2026/07/19/414209.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "ついに iPhoneも値上げ、Pro Maxは最安21万円超・廉価版17eも10万円台に",
-        "url": "https://response.jp/article/2026/07/19/414216.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "Man Is On The Brink Of Buying A Toyota. Then Something On The CARFAX Report Catches His Eye: ‘Seems To Be Happening More And More’",
-        "url": "https://www.motor1.com/news/802048/rebuilt-title-repossession-former-rental/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "Man Goes To The Car Wash. Then He Notices The Little-Known Way It Destroys His Car: ‘Here’s What They Don’t Tell You’",
-        "url": "https://www.motor1.com/news/801958/car-wash-damage/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.18",
-        "title": "Woman Buys Car From Carvana. Then The Trunk Won’t Open. It’s Costs $4,500",
-        "url": "https://www.motor1.com/news/802045/carvana-return-policy/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.18",
-        "title": "Mechanic Shows The Quickest Way To Check To See If Your A/C Is About To Go Out. It’s Easier Than You Think",
-        "url": "https://www.motor1.com/news/802037/diagnose-car-air-conditioning/"
+        "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
+        "url": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev/"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.18",
-        "title": "Locals Keep Driving on This Buckled Bridge Because It’s Quicker Than the Detour",
-        "url": "https://www.thedrive.com/news/locals-keep-driving-on-this-buckled-bridge-because-its-quicker-than-the-detour"
+        "time": "2026.7.19",
+        "title": "Please Enjoy This Japanese Racing Shop Building an Engine",
+        "url": "https://www.thedrive.com/news/please-enjoy-this-japanese-racing-shop-building-an-engine"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.18",
-        "title": "Why NASCAR Is Only Running 465 HP at Its Next Daytona Race",
-        "url": "https://www.thedrive.com/news/why-nascar-is-only-running-465-hp-at-its-next-daytona-race"
+        "source": "Motor1",
+        "time": "2026.7.19",
+        "title": "Woman Gets Pulled Over By Cop—He Tickets Her For Something She Didn't Do: 'The Dealership Literally Puts Those On'",
+        "url": "https://www.motor1.com/news/802089/plate-frame-violation-ticket/"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.18",
-        "title": "Modern Bugatti Built Its Reputation on the W16. Now, It’s Going Away",
-        "url": "https://www.thedrive.com/news/bugatti-built-its-modern-reputation-on-the-w16-now-its-going-away"
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "「CXシリーズ」前夜に登場した、マツダ初のSUV『トリビュート』【懐かしのカーカタログ】",
+        "url": "https://response.jp/article/2026/07/19/414221.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "【スズキ クロスビー 新型試乗】独特な世界観と走りは、往年のシトロエンを思い起こさせる…中村孝仁",
+        "url": "https://response.jp/article/2026/07/19/414218.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "【プジョー 308 新型試乗】Cセグハッチなのに、こんなに高級になって大丈夫なの？",
+        "url": "https://response.jp/article/2026/07/19/414223.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "100台限定でまさかの倍率44倍!? 激戦を極めた「ミライースDSR初号機」がついに出荷開始！",
+        "url": "https://bestcarweb.jp/feature/column/1577395"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.19",
+        "title": "Ferrari Is Auctioning Off The First Example Of its First Electric Car. How Much Do You Think It'll Fetch?",
+        "url": "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "HUMMERブランドの電動アシスト折りたたみ自転車が発売、迫力のFATタイヤ採用",
+        "url": "https://response.jp/article/2026/07/19/414220.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "KTM『390 DUKE』2026年モデル発売、自社開発WPブレーキと5インチTFT搭載 価格は82万9000円",
+        "url": "https://response.jp/article/2026/07/19/414219.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.19",
+        "title": "Woman’s Neighbor Keeps Parking In Her Reserved Spot. Finally She Decides She’s Had Enough: 'She Called Your Bluff!'",
+        "url": "https://www.motor1.com/news/802088/tow-neighbor-in-reserved-parking-spot/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "スズキファン注目！『ハヤブサ』を1/12ブロックキットで精巧に再現、価格は2640円",
+        "url": "https://response.jp/article/2026/07/19/414222.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "スマホは“ダッシュの上”派にお薦めの、最新マグネット式＆無線充電型スマホホルダー［特選カーアクセサリー名鑑］",
+        "url": "https://response.jp/article/2026/07/19/414224.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "家族に反対されても欲しい!? V6 4Lに観音開きドア採用の本格クロカンが熱すぎ！ FJクルーザーが愛された理由",
+        "url": "https://bestcarweb.jp/feature/column/1557959"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "新型エルグランドに早くもカスタム仕様登場!! ガチでカッコいい!! AUTECH・VIP・ステップタイプの価格と装備を総まとめ",
+        "url": "https://bestcarweb.jp/newcar/1584064"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "来場者がショーで印象に残った展示は!? ジャパントラックショー2026のアンケート調査結果から【後編】",
+        "url": "https://bestcarweb.jp/fullload/1581425"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "盤石に見えた北米戦略もEV事業縮小でカナダの専用工場が凍結……どうなるホンダ!?",
+        "url": "https://bestcarweb.jp/feature/column/1576576"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.19",
+        "title": "Woman Loses Key Fob To $15,000 Mercedes G Wagon. Then She Finds Out The Replacement Cost: ‘I Wish Somebody Would’ve Warned Me’",
+        "url": "https://www.motor1.com/news/802035/mercedes-g-wagon-2000-dollar-key-fob/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.19",
+        "title": "Woman Takes Uber Share. Then The Driver Asks Her An Extremely Personal Question: 'I Didn't Think I Was Gonna Be Interrogated'",
+        "url": "https://www.motor1.com/news/802059/uber-share-driver-personal-question/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 16,
-    "queued_articles": 16,
-    "processed": 16,
-    "started_at": "2026-07-19T03:50:50.483Z",
-    "finished_at": "2026-07-19T03:51:27.616Z",
+    "scoped_articles": 19,
+    "queued_articles": 19,
+    "processed": 19,
+    "started_at": "2026-07-19T14:35:44.411Z",
+    "finished_at": "2026-07-19T14:36:28.186Z",
     "success": true,
     "error": ""
   }
