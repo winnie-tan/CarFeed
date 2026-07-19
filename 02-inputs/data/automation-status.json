@@ -1,110 +1,116 @@
 {
   "workflow": {
-    "generated_at": "2026-07-18T14:32:17.051Z",
+    "generated_at": "2026-07-19T03:50:50.111Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 385,
-    "deepseek_untranslated_before_run": 15,
-    "newly_fetched_articles": 15,
-    "newly_fetched_untranslated": 15,
+    "deepseek_translated_before_run": 384,
+    "deepseek_untranslated_before_run": 16,
+    "newly_fetched_articles": 16,
+    "newly_fetched_untranslated": 16,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 15,
+    "translation_queue_count": 16,
     "translation_queue_preview": [
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "「リアデザインがすっきり」トヨタ『クラウン・クロスオーバー』改良新型のデザインにSNSも注目！",
+        "url": "https://response.jp/article/2026/07/19/414212.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "『ジムニー』のレトロカスタム、アルパインスタイル『ベアス』シリーズに「丸型2灯」モデル登場",
+        "url": "https://response.jp/article/2026/07/19/414214.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "【QJモーター SRK400R 試乗】ホンダ＆カワサキにガチンコ勝負！「中国製ヨンヒャク4気筒」はホンモノか？…青木タカオ",
+        "url": "https://response.jp/article/2026/07/19/414215.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第813回",
+        "url": "https://bestcarweb.jp/feature/column/1562988"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "えぇぇ、JR東日本が自動運転バス!? 気仙沼線BRTで「レベル4」の無人化試験がついに開始！",
+        "url": "https://bestcarweb.jp/feature/column/1576912"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "こんなクラウンエステート欲しい!! トヨタ車たちが一気に進化！ モデリスタ最新エアロの実力とは",
+        "url": "https://bestcarweb.jp/feature/column/1559743"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.19",
+        "title": "シエンタの低床フロアは本当に便利？ 子どもと高齢の親にやさしい乗降性を再評価",
+        "url": "https://bestcarweb.jp/feature/column/1559521"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "たかが配線、されど配線？「スピーカーケーブル」で音が変わる［カー用音響機材・チョイスの極意…パーツ＆部材編］",
+        "url": "https://response.jp/article/2026/07/19/414209.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.19",
+        "title": "ついに iPhoneも値上げ、Pro Maxは最安21万円超・廉価版17eも10万円台に",
+        "url": "https://response.jp/article/2026/07/19/414216.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.19",
+        "title": "Man Is On The Brink Of Buying A Toyota. Then Something On The CARFAX Report Catches His Eye: ‘Seems To Be Happening More And More’",
+        "url": "https://www.motor1.com/news/802048/rebuilt-title-repossession-former-rental/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.19",
+        "title": "Man Goes To The Car Wash. Then He Notices The Little-Known Way It Destroys His Car: ‘Here’s What They Don’t Tell You’",
+        "url": "https://www.motor1.com/news/801958/car-wash-damage/"
+      },
       {
         "source": "Motor1",
         "time": "2026.7.18",
-        "title": "Hyundai Driver Uses Auto Hold At Red Light. Then She Gets Accused Of Rear-Ending A Honda: 'Stop Using Auto Hold'",
-        "url": "https://www.motor1.com/news/802036/hyundai-auto-hold-accident/"
+        "title": "Woman Buys Car From Carvana. Then The Trunk Won’t Open. It’s Costs $4,500",
+        "url": "https://www.motor1.com/news/802045/carvana-return-policy/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.18",
+        "title": "Mechanic Shows The Quickest Way To Check To See If Your A/C Is About To Go Out. It’s Easier Than You Think",
+        "url": "https://www.motor1.com/news/802037/diagnose-car-air-conditioning/"
       },
       {
         "source": "The Drive",
         "time": "2026.7.18",
-        "title": "Old-School Tennessee Mechanic Celebrates 95th Birthday Working at the Shop",
-        "url": "https://www.thedrive.com/news/old-school-tennessee-mechanic-celebrates-95th-birthday-working-at-the-shop"
+        "title": "Locals Keep Driving on This Buckled Bridge Because It’s Quicker Than the Detour",
+        "url": "https://www.thedrive.com/news/locals-keep-driving-on-this-buckled-bridge-because-its-quicker-than-the-detour"
       },
       {
-        "source": "InsideEVs",
+        "source": "The Drive",
         "time": "2026.7.18",
-        "title": "This Suzuki’s Engine Blew Up. The Owner Converted It Into An EV In Just Five Days",
-        "url": "https://insideevs.com/news/801873/suzuki-suv-ev-conversion-fast-cheap/"
+        "title": "Why NASCAR Is Only Running 465 HP at Its Next Daytona Race",
+        "url": "https://www.thedrive.com/news/why-nascar-is-only-running-465-hp-at-its-next-daytona-race"
       },
       {
-        "source": "Motor1",
+        "source": "The Drive",
         "time": "2026.7.18",
-        "title": "The Audi Q7 Gets A Price Hike, While The SQ7 Nears $100,000",
-        "url": "https://www.motor1.com/news/802062/2027-audi-q7-price-sq7/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "『ハイエース』200系専用インテリアパネルキット、3シリーズを発売 3Dスキャン設計で高フィット感",
-        "url": "https://response.jp/article/2026/07/18/414202.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "GRヤリス前期仕様にエイドロエアロ登場！ リアルカーボンの機能美に注目!!",
-        "url": "https://bestcarweb.jp/news/1576071"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.18",
-        "title": "Man Leaves Pump Unattended At Royal Farms. Then He Catches Another Man Doing Something Shocking: ‘This Is So Bold’",
-        "url": "https://www.motor1.com/news/801914/royal-farms-gas-thief/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.18",
-        "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
-        "url": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "アウディのスーパーSUV『RS Q5』は630馬力級PHEVに!? ワイドボディの開発車両をスクープ",
-        "url": "https://response.jp/article/2026/07/18/414207.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "オミクロン・オーディオのハイエンドスピーカー4製品、イース・コーポレーションが7月より取扱い開始",
-        "url": "https://response.jp/article/2026/07/18/414205.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.18",
-        "title": "カワサキプラザ宮崎、リニューアルオープン…光の枠で演出した「ケージ」展示も",
-        "url": "https://response.jp/article/2026/07/18/414204.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "トヨタが生んだ”美しすぎるクーペ”とは?? 想像以上に走りも本格的！ セリカの陰に隠れた「カレン」の魅力",
-        "url": "https://bestcarweb.jp/feature/column/1557660"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.18",
-        "title": "レーサーへの新たな登竜門!? トヨタがグランツーリスモ7で新たな人材発掘へ！",
-        "url": "https://bestcarweb.jp/feature/column/1577180"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.18",
-        "title": "Man Makes Offer On His Dream Car. Then He Tries To Pay With His American Express: 'Not A Credit Card'",
-        "url": "https://www.motor1.com/news/802032/american-express-charge-card-chevrolet-corvette/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.18",
-        "title": "Woman Goes To AutoZone For A New Battery. They Said It'd Be $95. The Cheapest One Is $289. Then She Pulls An Uno Reverse",
-        "url": "https://www.motor1.com/news/802030/autozone-worker-battery-advice/"
+        "title": "Modern Bugatti Built Its Reputation on the W16. Now, It’s Going Away",
+        "url": "https://www.thedrive.com/news/bugatti-built-its-modern-reputation-on-the-w16-now-its-going-away"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29648210731",
-    "sha": "e5c639d69fdcc1769353f100c4294d9e35bb7637",
-    "completed_at": "2026-07-18T14:32:53.100Z",
+    "run_id": "29672376564",
+    "sha": "e1c74c305a2a2b2519fd30ac8d32d6bb0bbd5125",
+    "completed_at": "2026-07-19T03:51:27.911Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -115,11 +121,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 15,
-    "queued_articles": 15,
-    "processed": 15,
-    "started_at": "2026-07-18T14:32:17.402Z",
-    "finished_at": "2026-07-18T14:32:52.809Z",
+    "scoped_articles": 16,
+    "queued_articles": 16,
+    "processed": 16,
+    "started_at": "2026-07-19T03:50:50.483Z",
+    "finished_at": "2026-07-19T03:51:27.616Z",
     "success": true,
     "error": ""
   }
