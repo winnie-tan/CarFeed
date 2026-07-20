@@ -82478,5 +82478,507 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-20T04:02:22.269Z"
+  },
+  "https://www.thedrive.com/news/list-your-car-on-ebay-motors-for-free-until-the-end-of-july": {
+    "title_zh": "eBay Motors 7 月底前免费刊登汽车",
+    "summary_short": "eBay Motors 推出限时免费刊登汽车活动，7 月底前可免去 34 至 79 美元刊登费。",
+    "summary_long": "eBay Motors 目前推出限时促销活动，截至 7 月底，用户可免费刊登汽车，免去通常 34 至 79 美元的刊登费。该平台提供买家和卖家保护，比 Facebook Marketplace 更安全可靠，且不收取最终价值费。",
+    "highlights_zh": [
+      "7 月底前免费刊登汽车",
+      "免去 34 至 79 美元刊登费",
+      "提供买卖双方保护",
+      "不收取最终价值费"
+    ],
+    "entities": [
+      "eBay Motors"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/ebay-no-car-listing-fees.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-12.26.21-PM.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:20.597Z"
+  },
+  "https://www.thedrive.com/news/f1-is-selling-its-richest-fans-a-fancy-dinner-on-a-flat-bed-as-it-drives-around-a-track": {
+    "title_zh": "F1 推出移动豪华餐厅体验",
+    "summary_short": "F1 与 LVMH 合作推出“The Outlap”，在平板卡车上打造移动豪华餐厅，仅限 12 位客人，由前冠军车手讲述赛道故事。",
+    "summary_long": "F1 与奢侈品巨头 LVMH 合作推出全新高端体验“The Outlap”，将集装箱改造成豪华餐厅，放置在平板卡车上，在赛道行驶过程中为客人提供精致餐饮。每次体验仅限 12 位客人，菜单由知名厨师设计，搭配 LVMH 旗下酒水，并有前 F1 冠军车手（如米卡·哈基宁、雅克·维伦纽夫）随行讲述赛道历史。该体验旨在为富裕车迷提供独一无二的沉浸式旅程。",
+    "highlights_zh": [
+      "仅限 12 位客人的移动豪华餐厅",
+      "由前 F1 冠军车手讲述赛道故事",
+      "知名厨师定制菜单与 LVMH 酒水搭配",
+      "平板卡车在赛道行驶中提供餐饮"
+    ],
+    "entities": [
+      "F1",
+      "LVMH",
+      "米卡·哈基宁",
+      "雅克·维伦纽夫",
+      "The Outlap"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-10.34.03-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-12.26.21-PM.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:22.152Z"
+  },
+  "https://www.motor1.com/news/802188/hondata-honda-acura-engine-tuner-private-equity/": {
+    "title_zh": "本田御用改装品牌 Hondata 被私募收购",
+    "summary_short": "本田与讴歌发动机调校品牌 Hondata 被私募 EPT 集团收购，后者旗下已有 Cobb Tuning 和 AutoMeter。",
+    "summary_long": "知名本田与讴歌发动机调校品牌 Hondata 已被私募股权公司 Engineered Performance Technologies（EPT）集团收购。EPT 旗下已拥有 Cobb Tuning 和 AutoMeter 等改装品牌。Hondata 于 1999 年在新西兰创立，2000 年代初进入美国，总部位于加州托伦斯。EPT 表示将助力 Hondata 加速技术领先、扩大客户支持并带来更多创新。",
+    "highlights_zh": [
+      "Hondata 被 EPT 集团收购",
+      "EPT 旗下已有 Cobb Tuning 和 Aut…",
+      "Hondata 成立于 1999 年新西兰",
+      "收购后将加速技术创新"
+    ],
+    "entities": [
+      "Hondata",
+      "本田 | Honda",
+      "讴歌",
+      "Cobb Tuning",
+      "AutoMeter"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8WOb/s1/hondata-private-equity.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:23.974Z"
+  },
+  "https://www.motor1.com/news/802187/jeep-ram-new-ceos/": {
+    "title_zh": "Jeep 与 Ram 迎来新 CEO",
+    "summary_short": "Stellantis 任命 Matt VanDyke 为 Ram CEO，Branden Coté为 Jeep CEO，继续管理层重组。",
+    "summary_long": "Stellantis 持续进行管理层重组，宣布任命两位资深汽车高管分别领导 Ram 和 Jeep 品牌。Matt VanDyke 即日起担任 Ram CEO，接替此前身兼多职的 Tim Kuniskis，后者仍保留北美领导职务。Branden Coté将于 8 月 3 日接任 Jeep CEO，前任 Bob Broderdorf 因医疗休假，之后将返回公司担任其他领导职位。两位新 CEO 均向 Kuniskis 汇报。此次任命是 CEO Antonio Filosa 自 2025 年接替 Carlos Tavares 后，重建高管团队的最新举措。",
+    "highlights_zh": [
+      "Matt VanDyke 即日起任 Ram CEO",
+      "Branden Coté将于 8 月 3 日任 Je…",
+      "前任 Bob Broderdorf 因医疗休假离职",
+      "两人均向 Tim Kuniskis 汇报"
+    ],
+    "entities": [
+      "Stellantis",
+      "Jeep",
+      "Ram",
+      "Antonio Filosa",
+      "Tim Kuniskis"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7LWA/s1/jeep-ram-new-bosses.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:26.530Z"
+  },
+  "https://insideevs.com/news/802185/2027-bmw-i5-range-increase/": {
+    "title_zh": "2027 款宝马 i5 续航提升，特斯拉 Model S 渐行渐远",
+    "summary_short": "2027 款宝马 i5 续航增至 328 英里，全系标配 NACS 充电口，在 Model S 停产后更具竞争力。",
+    "summary_long": "2027 款宝马 i5 在美国推出两款动力版本，基础版 eDrive40 续航提升至 328 英里（19 英寸轮毂），较老款增加 18 英里，效率提升至 116 MPGe。全系标配特斯拉式 NACS 充电口。在特斯拉 Model S 停产的背景下，i5 作为行政电动轿车更具吸引力。",
+    "highlights_zh": [
+      "续航增至 328 英里",
+      "全系标配 NACS 充电口",
+      "eDrive40 零百加速 5.4 秒",
+      "特斯拉 Model S 已停产"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "i5",
+      "特斯拉 | Tesla",
+      "Model S",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYYvz/s1/2026-bmw-i5-xdrive-40-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:27.321Z"
+  },
+  "https://www.thedrive.com/news/honda-wants-to-capitalize-on-north-american-demand-with-another-factory-tds": {
+    "title_zh": "本田计划在北美增设第八座工厂以应对需求",
+    "summary_short": "本田 CEO 表示有意在北美增设第八座工厂，该地区占其全球销量 40%，是利润最高的市场。",
+    "summary_long": "本田 CEO 三部敏宏表示，公司有意在北美增设第八座工厂，以提升在该地区的产量。北美是本田最盈利的市场，去年占其全球销量的 40%。三部敏宏称希望大幅增加北美销量，基本思路是在有需求的地方生产。",
+    "highlights_zh": [
+      "北美占本田全球销量 40%",
+      "本田考虑在北美建第八座工厂",
+      "CEO 称希望大幅增加北美销量"
+    ],
+    "entities": [
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Accord_1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-12.26.21-PM.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:29.121Z"
+  },
+  "https://www.motor1.com/features/801786/anti-lock-brakes-explained/": {
+    "title_zh": "防抱死制动系统（ABS）工作原理",
+    "summary_short": "ABS 通过传感器和计算机防止车轮抱死，是继安全带后最重要的安全发明。",
+    "summary_long": "防抱死制动系统（ABS）通过传感器和计算机控制，在紧急制动时自动脉冲刹车，防止车轮抱死，使驾驶员在湿滑等条件下仍能保持转向控制。ABS 已成为美国所有新车的标配，被认为是自三点式安全带以来最重要的安全技术。",
+    "highlights_zh": [
+      "ABS 防止车轮抱死",
+      "通过传感器和计算机自动脉冲刹车",
+      "美国所有新车强制标配",
+      "自安全带后最重要的安全发明"
+    ],
+    "entities": [
+      "防抱死制动系统",
+      "安全带"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egBVV/s1/how-does-abs-work.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:30.354Z"
+  },
+  "https://insideevs.com/news/802174/pilot-flying-j-ev-chargers-expansion-2026/": {
+    "title_zh": "Pilot 充电网络突破 300 站点，扩张未减速",
+    "summary_short": "北美最大旅行中心运营商 Pilot 的 EV 充电站已达 301 个，覆盖全美，半年新增 50 个站点。",
+    "summary_long": "Pilot 作为北美最大的旅行中心网络，其电动汽车充电站数量已突破 300 个，从东海岸延伸至西海岸，较去年 9 月的 200 多个增长超 50%。今年上半年，Pilot 在 25 个州新增 50 个站点，总站点数达 301 个，充电桩数量接近 1300 个。这些站点位于主要州际公路沿线，配备 350 千瓦 EVgo 充电桩、免费 Wi-Fi、餐厅和便利店，支持即插即充功能。",
+    "highlights_zh": [
+      "充电站总数达 301 个",
+      "覆盖全美 25 个州",
+      "配备 350 千瓦快充",
+      "位于州际公路"
+    ],
+    "entities": [
+      "Pilot",
+      "EVgo",
+      "Flying J",
+      "充电网络",
+      "350 千瓦快充"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXyx1j/s1/gm-energy-pilot-and-evgo-dc-fast-charging-station.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:32.964Z"
+  },
+  "https://response.jp/article/2026/07/20/414235.html": {
+    "title_zh": "防止“维修难民”：丰田移动零部件岐阜支社联手区域零部件商支援维修企业",
+    "summary_short": "丰田移动零部件岐阜支社联合区域零部件商，通过技术支持和经营支援，帮助维修企业应对挑战，防止“维修难民”问题。",
+    "summary_long": "随着中东局势不稳定导致成本上升，汽车维修企业面临经营压力，甚至退出市场，导致车主无法找到维修场所，形成“维修难民”问题。丰田移动零部件岐阜支社于 2022 年 2 月发起“丰田移动零部件岐阜合作伙伴俱乐部”，联合区域零部件商，为维修企业提供技术信息、设备投资支持等，帮助其提升服务质量，确保地区汽车售后服务持续稳定。该模式已运行三年，成为全国罕见的区域合作典范，为维修企业带来实际利益。",
+    "highlights_zh": [
+      "维修企业因成本高企和人才短缺面临退出",
+      "丰田移动零部件岐阜支社联合区域零部件商成立合作伙伴俱…",
+      "通过技术支持和经营支援",
+      "该模式已运行三年"
+    ],
+    "entities": [
+      "丰田移动零部件 | Toyota Mobility Parts",
+      "岐阜支社",
+      "区域零部件商",
+      "维修企业",
+      "合作伙伴俱乐部"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228755.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228745.jpg",
+      "https://response.jp/imgs/zoom1/2228756.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:36.170Z"
+  },
+  "https://response.jp/article/2026/07/20/414237.html": {
+    "title_zh": "HiAce 和 Jimny 也能加装全频扬声器！专家传授入门级音质提升方案",
+    "summary_short": "专家传授入门级汽车音响升级方案，推荐加装带功放的 DSP，可改善声场定位，提升音质。",
+    "summary_long": "对于希望提升车内音质的音乐爱好者，若不知如何着手，可参考专业音响店的建议。大阪高石市的知名店铺 East 的藤原先生表示，针对入门用户，常推荐加装带功放的 DSP（数字信号处理器）。其优势有三：首先可优化声学条件，解决车内左右聆听位置偏移导致的立体声效果不佳问题，通过 DSP 模拟出所有扬声器等距的听音环境，营造逼真的声场。",
+    "highlights_zh": [
+      "加装带功放的 DSP 是入门首选",
+      "DSP 可修正车内偏位听音问题",
+      "模拟等距听音环境提升声场真实感"
+    ],
+    "entities": [
+      "ハイエース",
+      "ジムニー",
+      "イースト",
+      "DSP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228839.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228839.jpg",
+      "https://response.jp/imgs/fill2/2228840.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:37.293Z"
+  },
+  "https://response.jp/article/2026/07/20/414236.html": {
+    "title_zh": "比亚迪海狮 06 AWD 试驾：宽敞、快速、便宜，这款全能 PHEV 有弱点吗？",
+    "summary_short": "比亚迪海狮 06 AWD 版试驾：不仅增加后电机，发动机和加速性能也大幅提升，300 公里实测表现全能。",
+    "summary_long": "比亚迪海狮 06 AWD 版在 FF 版基础上增加后电机，但发动机和加速性能均有显著提升，堪称另一款车。试驾 300 余公里，验证其宽敞、快速、便宜的特点。比亚迪凭借 PHEV 在中国市场迅速崛起，得益于中央技术发展指引和庞大内需市场。海狮 06 的静态质感远超同价位车型，内饰做工精良，成本控制令人费解。",
+    "highlights_zh": [
+      "AWD 版加速性能远超 FF 版",
+      "300 公里实测验证全能表现",
+      "内饰质感超越同价位车型",
+      "成本控制令对手费解"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "海狮 06 | Sealion 6",
+      "PHEV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228381.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228380.jpg",
+      "https://response.jp/imgs/fill2/2228380.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:41.342Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559912": {
+    "title_zh": "难读地名测验：稻生",
+    "summary_short": "介绍日本难读地名“稻生”，结合铃鹿市观光与赛车文化，激发自驾游兴趣。",
+    "summary_long": "日本各地存在许多容易读错的地名，本文以“稻生”为例，介绍其正确读音及相关旅游信息。铃鹿市位于三重县，以汽车制造业闻名，拥有本田铃鹿制作所和铃鹿赛道。铃鹿赛道建于 1962 年，全长 5807 米，呈 8 字形立体交叉结构，举办 F1 日本大奖赛等国际赛事。",
+    "highlights_zh": [
+      "难读地名“稻生”的正确读音",
+      "铃鹿市是本田汽车制造重镇",
+      "铃鹿赛道为 8 字形立体交叉结构",
+      "赛道举办 F1 等国际赛事"
+    ],
+    "entities": [
+      "铃鹿市",
+      "本田 | Honda",
+      "铃鹿赛道"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25134246/c84768a466b2a435fd56d018dce99094.jpg?v=1782362567",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25134246/c84768a466b2a435fd56d018dce99094-600x400.jpg?v=1782362567",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/19160138/samune-1.jpg?v=1784444498"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:41.523Z"
+  },
+  "https://www.motor1.com/news/802118/mercedes-dealership-ignores-man-carvana/": {
+    "title_zh": "男子持支票和现金购车遭冷遇，疑因种族歧视",
+    "summary_short": "一名黑人男子持预批准支票和 1 万美元现金去梅赛德斯-奔驰经销商购车，却遭冷遇，疑似种族歧视。",
+    "summary_long": "一名黑人男子 Ken 带着海军联邦信贷联盟的预批准支票和 1 万美元现金，前往达拉斯地区的梅赛德斯-奔驰经销商，准备购买一辆 E 级 AMG。但他声称因种族原因受到员工冷遇，几乎无人理睬。Ken 随后将经历发布到网上，视频获得超过 13 万次观看，并转向 Carvana 购车。该事件引发对汽车销售中种族偏见的讨论。",
+    "highlights_zh": [
+      "男子持预批准支票和 1 万美元现金购车",
+      "在梅赛德斯-奔驰经销商遭冷遇",
+      "怀疑因种族歧视被区别对待",
+      "转向 Carvana 并发布视频曝光"
+    ],
+    "entities": [
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "Carvana",
+      "E 级 AMG",
+      "海军联邦信贷联盟 | Navy Federal"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPyBw/s1/man-goes-to-mercedes-dealership.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:45.781Z"
+  },
+  "https://bestcarweb.jp/feature/column/1579232": {
+    "title_zh": "日产新款 Kicks 最廉价版：不到 300 万日元，但配置真的够用吗？",
+    "summary_short": "日产新款 Kicks 最廉价版 X Simple Package 售价 299.97 万日元，虽为入门款但标配 17 英寸轮毂、LED 大灯、e-POWER 及安全系统，性价比突出。",
+    "summary_long": "日产于 2026 年 6 月 18 日在日本推出新款 Kicks，提供 X Simple Package、X、X+、G 四个等级，其中 X Simple Package 以 299.97 万日元（含税）的售价成为最廉价版本。该车虽为入门款，却标配 17 英寸铝合金轮毂、LED 大灯、电子驻车制动（带自动驻车）、电控换挡，动力系统与高配同为第三代 e-POWER，并标配 ProPILOT 和智能紧急制动等先进安全装备。日产旨在通过这一高性价比版本吸引年轻消费者，而非简单的“价格诱饵”。",
+    "highlights_zh": [
+      "售价 299.97 万日元",
+      "标配 17 英寸轮毂、LED 大灯、电子驻车",
+      "搭载第三代 e-POWER 及 ProPILOT 安…",
+      "旨在吸引年轻用户"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "キックス",
+      "e-POWER",
+      "ProPILOT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14094212/9e27d8926c12e413cf49b755ba0c3e3f-3.jpg?v=1783989733",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14094212/9e27d8926c12e413cf49b755ba0c3e3f-3-600x338.jpg?v=1783989733",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25134246/c84768a466b2a435fd56d018dce99094-600x400.jpg?v=1782362567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:46.962Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559554": {
+    "title_zh": "丰田 Sienta 混动版为何省油？WLTC 28.4km/L 实力再检",
+    "summary_short": "丰田 Sienta 混动版 WLTC 油耗达 28.4km/L，5 座与 7 座版均表现出色，比燃油版省油约 10km/L。",
+    "summary_long": "丰田 Sienta 混动版在 WLTC 模式下，5 座 2WD 车型油耗为 28.4km/L，7 座 2WD 车型为 28.2km/L，甚至入门版 X 可达 28.8km/L。相比燃油版（约 18.4km/L），混动版油耗优势显著，约高出 10km/L。Sienta 车身尺寸为 4260×1695×1695mm，7 座版室内长 2545mm，兼顾实用性与低油耗。其混动系统由 1.5L M15A-FXE 发动机（91ps）和电动机（80ps）组成，利用电机起步和低速行驶，并通过再生制动回收能量，从而实现高效燃油经济性。",
+    "highlights_zh": [
+      "WLTC 油耗 28.4km/L",
+      "7 座版油耗仅 28.2km/L",
+      "比燃油版省油约 10km/L",
+      "1.5L 混动系统+电机高效协作"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "シエンタ",
+      "WLTC",
+      "混动系统"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02110413/R5_5804-1.jpg?v=1782957854",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02110413/R5_5804-1-600x400.jpg?v=1782957854",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25134246/c84768a466b2a435fd56d018dce99094-600x400.jpg?v=1782362567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:50.331Z"
+  },
+  "https://bestcarweb.jp/newcar/1578576": {
+    "title_zh": "购买日产 Kicks 前需知的 3 个注意事项",
+    "summary_short": "日产 Kicks 虽具吸引力，但购车前需确认装备、行李厢及导航等细节，避免后悔。",
+    "summary_long": "日产 Kicks 是一款极具魅力的紧凑型 SUV，但在冲动购买前，需仔细检查其规格和使用方式。不同等级和驱动方式存在差异，例如顶级 G 级未配备座椅通风功能，而竞品丰田 Corolla Cross 已搭载。此外，导航系统使用方式可能出人意料，行李厢空间也需确认。提前了解这些细节，可避免购车后才发现问题。",
+    "highlights_zh": [
+      "购车前需确认装备细节",
+      "顶级 G 级无座椅通风",
+      "导航使用方式需留意",
+      "行李厢空间需确认"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Kicks",
+      "丰田 | Toyota",
+      "Corolla Cross",
+      "紧凑型 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13152147/A35_2277_1.jpg?v=1783923708",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13152147/A35_2277_1-600x400.jpg?v=1783923708",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/19224019/C13I1479-600x379.jpg?v=1784468421"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:50.826Z"
+  },
+  "https://www.motor1.com/news/802163/mclaren-p50-manual-gearbox-rumor/": {
+    "title_zh": "迈凯伦真的要带回手动变速箱吗？",
+    "summary_short": "传闻迈凯伦将在蒙特雷汽车周发布 P50 超跑，配备手动变速箱，限量不到 100 台。",
+    "summary_long": "据 TheSupercarBlog 报道，迈凯伦内部项目“P50”将是一款配备手动变速箱的全新超跑，这将是该品牌近 30 年来首款手动挡车型。迈凯伦上一次生产手动变速箱汽车还是 1992 至 1998 年的 F1。P50 预计在蒙特雷汽车周亮相，产量不到 100 台，售价超过 210 万美元。",
+    "highlights_zh": [
+      "迈凯伦 P50 将配备手动变速箱",
+      "限量不到 100 台",
+      "近 30 年来首款手动挡迈凯伦",
+      "预计 8 月蒙特雷汽车周首发"
+    ],
+    "entities": [
+      "迈凯伦 | McLaren",
+      "P50",
+      "手动变速箱",
+      "蒙特雷汽车周",
+      "限量"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pb9m00/s1/la-mclaren-f1-del-1994-all-ata.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:54.586Z"
+  },
+  "https://bestcarweb.jp/feature/column/1539498": {
+    "title_zh": "Harrier 哪款配置最划算？G、Z 皮革套件、Nightshade 价格差对比",
+    "summary_short": "丰田 Harrier 各配置价格差与装备对比，推荐 Z 版性价比最高。",
+    "summary_long": "丰田 Harrier 虽处车型末期，仍是都市 SUV 热门选择。入门 G 版汽油 2WD 售价 371.03 万日元，性价比突出；Z 版汽油 2WD 售价 418 万日元，多出 19 英寸轮毂、JBL 音响等，体验升级明显。Z 皮革套件增加真皮座椅等，售价 450.01 万日元。长期使用推荐 Z 版，装备满足度更高。",
+    "highlights_zh": [
+      "G 版入门价 371 万日元",
+      "Z 版比 G 版贵 47 万日元",
+      "Z 皮革套件增真皮座椅",
+      "长期使用推荐 Z 版"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Harrier",
+      "G",
+      "Z",
+      "Z 皮革套件"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161849/AD4I0049-1.jpg?v=1781075930",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161849/AD4I0049-1-600x400.jpg?v=1781075930",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25134246/c84768a466b2a435fd56d018dce99094-600x400.jpg?v=1782362567"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:54.624Z"
+  },
+  "https://www.motor1.com/news/802120/diesel-volkswagen-beetle-men-reaction/": {
+    "title_zh": "大众女车主加柴油引围观：男性总想阻止她",
+    "summary_short": "洛杉矶女车主为柴油版大众甲壳虫加油时，男性路人总误以为她加错油而上前阻止，视频引发热议。",
+    "summary_long": "洛杉矶一名 20 岁女性创作者 Olivia 发布视频，展示她为柴油版大众甲壳虫加油时，总有男性路人跑来阻止，以为她加错了油。视频获得 110 万次观看。她强调加油口盖上有“仅限柴油”标签，但男性仍不放心。大众甲壳虫确实有柴油版（1.9 TDI），高速公路油耗可达 50 英里/加仑以上。",
+    "highlights_zh": [
+      "女车主加柴油时男性常跑来阻止",
+      "加油口盖有“仅限柴油”标签",
+      "大众甲壳虫确有柴油版",
+      "柴油版高速油耗超 50 mpg"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "甲壳虫",
+      "柴油版"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJv3g/s1/volkswagen-beetle-driver-says-she-always-puts-diesel.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:58.378Z"
+  },
+  "https://insideevs.com/news/802162/evs-outsold-gas-hybrid-diesel-germany/": {
+    "title_zh": "电动汽车首次超越燃油车，成为德国最畅销动力类型",
+    "summary_short": "6 月德国电动车注册量达 84,057 辆，市占率 28.4%，首次超越燃油车和混动车，成为最畅销动力类型。",
+    "summary_long": "根据德国联邦机动车运输管理局（KBA）数据，6 月德国电动车注册量达 84,057 辆，同比增长 78.2%，市占率 28.4%，首次超越燃油车和混动车，成为最畅销动力类型。传统混动车注册 83,315 辆，市占率 28.1%；汽油车 60,796 辆，市占率 20.5%；柴油车 33,862 辆，市占率 11.4%；插电混动 32,212 辆，市占率 10.9%。当月总注册量 296,378 辆，同比增长 15.7%。特斯拉 Model Y 以 6,023 辆成为最畅销电动车，大众 ID.3 和斯柯达 Enyaq 紧随其后。",
+    "highlights_zh": [
+      "6 月德国电动车注册 84",
+      "电动车市占率 28.4%",
+      "特斯拉 Model Y 以 6",
+      "大众 ID.3 和斯柯达 Enyaq 分列二三位"
+    ],
+    "entities": [
+      "德国",
+      "特斯拉 Model Y | Tesla Model Y",
+      "大众 ID.3 | Volkswagen ID.3",
+      "斯柯达 Enyaq",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/QebNkZ/s1/tesla-model-y-performance-2025-im-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:22:59.194Z"
+  },
+  "https://www.motor1.com/news/802149/lamborghini-revuelto-sv-loose-license-plate/": {
+    "title_zh": "兰博基尼 Revuelto SV 谍照：车牌摇摇欲坠",
+    "summary_short": "兰博基尼 Revuelto SV 原型车几乎无伪装路试，大尾翼清晰可见，预计下月圆石滩首发。",
+    "summary_long": "兰博基尼 Revuelto SV 原型车在圣亚加塔·博洛尼亚被拍到，伪装极薄，几乎露出真容。最大的变化是安装了大尺寸后扰流板，集成第三刹车灯。临时车牌仅用黄色带子固定，显得随意。前脸预计有更激进的进气口，车身可见红色装饰条。新车有望下月在圆石滩车展首发。",
+    "highlights_zh": [
+      "几乎无伪装的 Revuelto SV 原型车",
+      "大尺寸后扰流板清晰可见",
+      "临时车牌用带子悬挂",
+      "预计下月圆石滩首发"
+    ],
+    "entities": [
+      "兰博基尼 | Lamborghini",
+      "Revuelto SV",
+      "圆石滩车展"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8Ael/s1/lamborghini-revuelto-sv-screenshot-from-spy-video.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:23:02.500Z"
+  },
+  "https://www.motor1.com/news/802139/2027-audi-a2-spy-video/": {
+    "title_zh": "重生奥迪 A2 无伪谍照曝光，造型复古奇特",
+    "summary_short": "奥迪 A2 E-Tron 原型车卸下伪装，展示复古奇特造型，将于今年晚些时候正式发布。",
+    "summary_long": "奥迪 A2 E-Tron 原型车已卸下伪装，露出其复古奇特的外观。这款入门级电动掀背车与大众 ID.3 Neo 共享平台，采用分体式大灯、翼式门把手和分割后窗的扰流板，设计灵感源自上世纪 90 年代末的第一代 A2。新车将于今年晚些时候正式亮相。",
+    "highlights_zh": [
+      "卸下伪装",
+      "分体式大灯与翼式门把手",
+      "后扰流板分割车窗",
+      "基于大众 ID.3 Neo 平台打造"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A2 E-Tron",
+      "大众 ID.3 Neo | Volkswagen ID.3 Neo",
+      "电动掀背车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BPAy/s1/2027-audi-a2-e-tron-spy-photo.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-20T15:23:03.670Z"
   }
 }

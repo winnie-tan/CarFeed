@@ -1,116 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-20T04:01:47.539Z",
+    "generated_at": "2026-07-20T15:22:17.016Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 384,
-    "deepseek_untranslated_before_run": 16,
-    "newly_fetched_articles": 16,
-    "newly_fetched_untranslated": 16,
+    "deepseek_translated_before_run": 378,
+    "deepseek_untranslated_before_run": 22,
+    "newly_fetched_articles": 22,
+    "newly_fetched_untranslated": 22,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 16,
+    "translation_queue_count": 22,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.20",
-        "title": "「オレンジ可愛い」「まじで欲しい」ダイハツ『タフト』新色「スパークオレンジ」がSNSで話題に",
-        "url": "https://response.jp/article/2026/07/20/414232.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.20",
-        "title": "「めちゃくちゃ快適！」冷房機能付きゴルフカート『クーラーカート』全国主要9コースに導入！「コンディション維持に最高」の声も",
-        "url": "https://response.jp/article/2026/07/20/414228.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第814回",
-        "url": "https://bestcarweb.jp/feature/column/1562990"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "MANの大型トラックに「トラッカーズ・エディション」！ 特別仕様車で物流を支えるドライバーに感謝を表す",
-        "url": "https://bestcarweb.jp/fullload/1580493"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.20",
-        "title": "VWの新コンパクトEV『ID.ポロ』、航続最大334kmで約465万円から…欧州で先行予約開始",
-        "url": "https://response.jp/article/2026/07/20/414231.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "コメ粒大で抜群の充実度だと!? 小笠原で楽しめる“撮りバス”超スポット!!",
-        "url": "https://bestcarweb.jp/busmagazine/1573158"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "ソリオのスリムサーキュレーターは効くのか？ 後席の快適性で見るファミリーカー度",
-        "url": "https://bestcarweb.jp/feature/column/1559268"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.20",
-        "title": "トライアンフ、ファンミーティングを9月26日に長野・富士見高原で開催へ…事前申込受付スタート",
-        "url": "https://response.jp/article/2026/07/20/414230.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "最新装備が裏目に!? ステアリングスイッチが気になる！ レクサス NXの実力を本音で評価",
-        "url": "https://bestcarweb.jp/feature/column/1562331"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "完成度が高すぎる!? 新型RAV4からレクサスESまで大胆イメチェン！ モデリスタ最新エアロパーツの実力",
-        "url": "https://bestcarweb.jp/feature/column/1559624"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.20",
-        "title": "Woman Flirts With Man At A Family Dollar. Then She Makes A Comment About His Toyota: ‘Don’t Ignore That Red Flag’",
-        "url": "https://www.motor1.com/news/802107/toyota-camry-girl-car/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "2 Men Try To Buy The Same GMC Truck On The Same Tuesday. Then The Salesman Steps In—And Makes A Controversial Decision",
-        "url": "https://www.motor1.com/news/802108/2-men-same-2015-gmc-sierra/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "Man's Ford Screen Asks To Update—It Includes Video Streaming Karaoke. There’s Just One Problem: 'Don't Update'",
-        "url": "https://www.motor1.com/news/801804/ford-karaoke-party-update/"
+        "title": "F1 Is Selling Its Richest Fans a Fancy Dinner on a Flat Bed as It Drives Around a Track",
+        "url": "https://www.thedrive.com/news/f1-is-selling-its-richest-fans-a-fancy-dinner-on-a-flat-bed-as-it-drives-around-a-track"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.19",
-        "title": "Oil Viscosity Keeps Your Engine Alive. A Scientist Just Found Its ‘Absolute Cosmic Limit’",
-        "url": "https://www.thedrive.com/news/oil-viscosity-keeps-your-engine-alive-a-scientist-just-found-its-absolute-cosmic-limit"
+        "time": "2026.7.20",
+        "title": "List Your Car on eBay Motors for Free Until the End of July",
+        "url": "https://www.thedrive.com/news/list-your-car-on-ebay-motors-for-free-until-the-end-of-july"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "This Tiny Hatchback Is The Best-Selling Car In China. But How?",
-        "url": "https://www.motor1.com/news/802061/best-selling-car-china/"
+        "time": "2026.7.20",
+        "title": "It's Official: A Legendary Honda Tuner Was Bought By Private Equity",
+        "url": "https://www.motor1.com/news/802188/hondata-honda-acura-engine-tuner-private-equity/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.20",
+        "title": "Jeep And Ram Have New Bosses",
+        "url": "https://www.motor1.com/news/802187/jeep-ram-new-ceos/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.20",
+        "title": "The 2027 BMW i5 Gets More Range Just As The Tesla Model S Fades Away",
+        "url": "https://insideevs.com/news/802185/2027-bmw-i5-range-increase/"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.19",
-        "title": "Bentley Thinks Drums Are the Most Natural Replacement for V8 Sounds in EVs",
-        "url": "https://www.thedrive.com/news/bentley-thinks-drums-are-the-most-natural-replacement-for-v8-sounds-in-evs"
+        "time": "2026.7.20",
+        "title": "Honda Wants to Capitalize on North American Demand With Another Factory: TDS",
+        "url": "https://www.thedrive.com/news/honda-wants-to-capitalize-on-north-american-demand-with-another-factory-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.20",
+        "title": "How A Tiny Computer Keeps Your Tires From Locking Up: Motor101",
+        "url": "https://www.motor1.com/features/801786/anti-lock-brakes-explained/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.20",
+        "title": "Pilot's EV Charging Network Isn't Slowing Down. It Just Hit 300 Locations",
+        "url": "https://insideevs.com/news/802174/pilot-flying-j-ev-chargers-expansion-2026/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.20",
+        "title": "“整備難民”を防ぐ…トヨタモビリティパーツ岐阜支社が地域部品商とも手を組み、整備事業者をバックアップ",
+        "url": "https://response.jp/article/2026/07/20/414235.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.20",
+        "title": "『ハイエース』や『ジムニー』にはフルレンジスピーカーの追加も効く！［音を良くする“初級鉄板プラン”をプロが伝授］",
+        "url": "https://response.jp/article/2026/07/20/414237.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.20",
+        "title": "【BYD シーライオン6 AWD 新型試乗】「広い・速い・安い」この万能PHEVに弱点はないのか？ 300kmを走り検証した",
+        "url": "https://response.jp/article/2026/07/20/414236.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「稲生」",
+        "url": "https://bestcarweb.jp/feature/column/1559912"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "300万円切りは魅力だけど割りきりスゴすぎ!! 新型キックスの最廉価グレードは「買い」か？",
+        "url": "https://bestcarweb.jp/feature/column/1579232"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.20",
+        "title": "Man Goes To Mercedes Dealership With Navy Federal Check And $10,000. Then He Goes To Carvana: ‘They Wanted A Copy Of My Degree’",
+        "url": "https://www.motor1.com/news/802118/mercedes-dealership-ignores-man-carvana/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "シエンタのハイブリッドはなぜ燃費がいい？ WLTC 28.4km/Lの実力を再チェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1559554"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "ナビを使うのにまさかの……!? 新型キックスを買う前に知るべき3つの注意点",
+        "url": "https://bestcarweb.jp/newcar/1578576"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "ハリアーの買い得グレードはどれだ？ G、Zレザーパッケージ、ナイトシェードの価格差をチェック",
+        "url": "https://bestcarweb.jp/feature/column/1539498"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.20",
+        "title": "Is McLaren Really Bringing Back The Manual Gearbox?",
+        "url": "https://www.motor1.com/news/802163/mclaren-p50-manual-gearbox-rumor/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.20",
+        "title": "EVs Just Beat Gas And Diesel In Europe’s Biggest Car Market For The First Time",
+        "url": "https://insideevs.com/news/802162/evs-outsold-gas-hybrid-diesel-germany/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.20",
+        "title": "Volkswagen Driver Says She Puts Diesel In At The Pump—And The Men Around Her Always Say The Same Thing: ‘Men Come Running'",
+        "url": "https://www.motor1.com/news/802120/diesel-volkswagen-beetle-men-reaction/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29715910385",
-    "sha": "09c19226c321a827ed67502a299ef9a895e381b1",
-    "completed_at": "2026-07-20T04:02:22.562Z",
+    "run_id": "29754832858",
+    "sha": "636818bb621e55b0f516e2ead70f0844b2e37c23",
+    "completed_at": "2026-07-20T15:23:04.012Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -121,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 16,
-    "queued_articles": 16,
-    "processed": 16,
-    "started_at": "2026-07-20T04:01:47.851Z",
-    "finished_at": "2026-07-20T04:02:22.290Z",
+    "scoped_articles": 22,
+    "queued_articles": 22,
+    "processed": 22,
+    "started_at": "2026-07-20T15:22:17.366Z",
+    "finished_at": "2026-07-20T15:23:03.694Z",
     "success": true,
     "error": ""
   }
