@@ -1,139 +1,121 @@
 {
   "workflow": {
-    "generated_at": "2026-07-19T14:35:44.066Z",
+    "generated_at": "2026-07-20T04:01:47.539Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 381,
-    "deepseek_untranslated_before_run": 19,
-    "newly_fetched_articles": 19,
-    "newly_fetched_untranslated": 19,
+    "deepseek_translated_before_run": 384,
+    "deepseek_untranslated_before_run": 16,
+    "newly_fetched_articles": 16,
+    "newly_fetched_untranslated": 16,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 19,
+    "translation_queue_count": 16,
     "translation_queue_preview": [
       {
-        "source": "InsideEVs",
+        "source": "Response.jp",
+        "time": "2026.7.20",
+        "title": "「オレンジ可愛い」「まじで欲しい」ダイハツ『タフト』新色「スパークオレンジ」がSNSで話題に",
+        "url": "https://response.jp/article/2026/07/20/414232.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.20",
+        "title": "「めちゃくちゃ快適！」冷房機能付きゴルフカート『クーラーカート』全国主要9コースに導入！「コンディション維持に最高」の声も",
+        "url": "https://response.jp/article/2026/07/20/414228.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第814回",
+        "url": "https://bestcarweb.jp/feature/column/1562990"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "MANの大型トラックに「トラッカーズ・エディション」！ 特別仕様車で物流を支えるドライバーに感謝を表す",
+        "url": "https://bestcarweb.jp/fullload/1580493"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.20",
+        "title": "VWの新コンパクトEV『ID.ポロ』、航続最大334kmで約465万円から…欧州で先行予約開始",
+        "url": "https://response.jp/article/2026/07/20/414231.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "コメ粒大で抜群の充実度だと!? 小笠原で楽しめる“撮りバス”超スポット!!",
+        "url": "https://bestcarweb.jp/busmagazine/1573158"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "ソリオのスリムサーキュレーターは効くのか？ 後席の快適性で見るファミリーカー度",
+        "url": "https://bestcarweb.jp/feature/column/1559268"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.20",
+        "title": "トライアンフ、ファンミーティングを9月26日に長野・富士見高原で開催へ…事前申込受付スタート",
+        "url": "https://response.jp/article/2026/07/20/414230.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "最新装備が裏目に!? ステアリングスイッチが気になる！ レクサス NXの実力を本音で評価",
+        "url": "https://bestcarweb.jp/feature/column/1562331"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.20",
+        "title": "完成度が高すぎる!? 新型RAV4からレクサスESまで大胆イメチェン！ モデリスタ最新エアロパーツの実力",
+        "url": "https://bestcarweb.jp/feature/column/1559624"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.20",
+        "title": "Woman Flirts With Man At A Family Dollar. Then She Makes A Comment About His Toyota: ‘Don’t Ignore That Red Flag’",
+        "url": "https://www.motor1.com/news/802107/toyota-camry-girl-car/"
+      },
+      {
+        "source": "Motor1",
         "time": "2026.7.19",
-        "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
-        "url": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev/"
+        "title": "2 Men Try To Buy The Same GMC Truck On The Same Tuesday. Then The Salesman Steps In—And Makes A Controversial Decision",
+        "url": "https://www.motor1.com/news/802108/2-men-same-2015-gmc-sierra/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.19",
+        "title": "Man's Ford Screen Asks To Update—It Includes Video Streaming Karaoke. There’s Just One Problem: 'Don't Update'",
+        "url": "https://www.motor1.com/news/801804/ford-karaoke-party-update/"
       },
       {
         "source": "The Drive",
         "time": "2026.7.19",
-        "title": "Please Enjoy This Japanese Racing Shop Building an Engine",
-        "url": "https://www.thedrive.com/news/please-enjoy-this-japanese-racing-shop-building-an-engine"
+        "title": "Oil Viscosity Keeps Your Engine Alive. A Scientist Just Found Its ‘Absolute Cosmic Limit’",
+        "url": "https://www.thedrive.com/news/oil-viscosity-keeps-your-engine-alive-a-scientist-just-found-its-absolute-cosmic-limit"
       },
       {
         "source": "Motor1",
         "time": "2026.7.19",
-        "title": "Woman Gets Pulled Over By Cop—He Tickets Her For Something She Didn't Do: 'The Dealership Literally Puts Those On'",
-        "url": "https://www.motor1.com/news/802089/plate-frame-violation-ticket/"
+        "title": "This Tiny Hatchback Is The Best-Selling Car In China. But How?",
+        "url": "https://www.motor1.com/news/802061/best-selling-car-china/"
       },
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.19",
-        "title": "「CXシリーズ」前夜に登場した、マツダ初のSUV『トリビュート』【懐かしのカーカタログ】",
-        "url": "https://response.jp/article/2026/07/19/414221.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "【スズキ クロスビー 新型試乗】独特な世界観と走りは、往年のシトロエンを思い起こさせる…中村孝仁",
-        "url": "https://response.jp/article/2026/07/19/414218.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "【プジョー 308 新型試乗】Cセグハッチなのに、こんなに高級になって大丈夫なの？",
-        "url": "https://response.jp/article/2026/07/19/414223.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "100台限定でまさかの倍率44倍!? 激戦を極めた「ミライースDSR初号機」がついに出荷開始！",
-        "url": "https://bestcarweb.jp/feature/column/1577395"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.19",
-        "title": "Ferrari Is Auctioning Off The First Example Of its First Electric Car. How Much Do You Think It'll Fetch?",
-        "url": "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "HUMMERブランドの電動アシスト折りたたみ自転車が発売、迫力のFATタイヤ採用",
-        "url": "https://response.jp/article/2026/07/19/414220.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "KTM『390 DUKE』2026年モデル発売、自社開発WPブレーキと5インチTFT搭載 価格は82万9000円",
-        "url": "https://response.jp/article/2026/07/19/414219.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "Woman’s Neighbor Keeps Parking In Her Reserved Spot. Finally She Decides She’s Had Enough: 'She Called Your Bluff!'",
-        "url": "https://www.motor1.com/news/802088/tow-neighbor-in-reserved-parking-spot/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "スズキファン注目！『ハヤブサ』を1/12ブロックキットで精巧に再現、価格は2640円",
-        "url": "https://response.jp/article/2026/07/19/414222.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.19",
-        "title": "スマホは“ダッシュの上”派にお薦めの、最新マグネット式＆無線充電型スマホホルダー［特選カーアクセサリー名鑑］",
-        "url": "https://response.jp/article/2026/07/19/414224.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "家族に反対されても欲しい!? V6 4Lに観音開きドア採用の本格クロカンが熱すぎ！ FJクルーザーが愛された理由",
-        "url": "https://bestcarweb.jp/feature/column/1557959"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "新型エルグランドに早くもカスタム仕様登場!! ガチでカッコいい!! AUTECH・VIP・ステップタイプの価格と装備を総まとめ",
-        "url": "https://bestcarweb.jp/newcar/1584064"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "来場者がショーで印象に残った展示は!? ジャパントラックショー2026のアンケート調査結果から【後編】",
-        "url": "https://bestcarweb.jp/fullload/1581425"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.19",
-        "title": "盤石に見えた北米戦略もEV事業縮小でカナダの専用工場が凍結……どうなるホンダ!?",
-        "url": "https://bestcarweb.jp/feature/column/1576576"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "Woman Loses Key Fob To $15,000 Mercedes G Wagon. Then She Finds Out The Replacement Cost: ‘I Wish Somebody Would’ve Warned Me’",
-        "url": "https://www.motor1.com/news/802035/mercedes-g-wagon-2000-dollar-key-fob/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.19",
-        "title": "Woman Takes Uber Share. Then The Driver Asks Her An Extremely Personal Question: 'I Didn't Think I Was Gonna Be Interrogated'",
-        "url": "https://www.motor1.com/news/802059/uber-share-driver-personal-question/"
+        "title": "Bentley Thinks Drums Are the Most Natural Replacement for V8 Sounds in EVs",
+        "url": "https://www.thedrive.com/news/bentley-thinks-drums-are-the-most-natural-replacement-for-v8-sounds-in-evs"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 19,
-    "queued_articles": 19,
-    "processed": 19,
-    "started_at": "2026-07-19T14:35:44.411Z",
-    "finished_at": "2026-07-19T14:36:28.186Z",
+    "scoped_articles": 16,
+    "queued_articles": 16,
+    "processed": 16,
+    "started_at": "2026-07-20T04:01:47.851Z",
+    "finished_at": "2026-07-20T04:02:22.290Z",
     "success": true,
     "error": ""
   }
