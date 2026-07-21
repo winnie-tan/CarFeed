@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-20T15:22:17.016Z",
+    "generated_at": "2026-07-21T03:42:00.669Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 378,
-    "deepseek_untranslated_before_run": 22,
-    "newly_fetched_articles": 22,
-    "newly_fetched_untranslated": 22,
+    "deepseek_translated_before_run": 372,
+    "deepseek_untranslated_before_run": 28,
+    "newly_fetched_articles": 28,
+    "newly_fetched_untranslated": 28,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 22,
+    "translation_queue_count": 28,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.20",
-        "title": "F1 Is Selling Its Richest Fans a Fancy Dinner on a Flat Bed as It Drives Around a Track",
-        "url": "https://www.thedrive.com/news/f1-is-selling-its-richest-fans-a-fancy-dinner-on-a-flat-bed-as-it-drives-around-a-track"
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "「欲しいのに買えない！」はなぜ起きる!? 人気トヨタ車が受注停止だらけの理由とは!!",
+        "url": "https://bestcarweb.jp/feature/column/1557713"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.20",
-        "title": "List Your Car on eBay Motors for Free Until the End of July",
-        "url": "https://www.thedrive.com/news/list-your-car-on-ebay-motors-for-free-until-the-end-of-july"
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "【ポルシェ カイエン 新型試乗】驚異の1156馬力！ BEVになった「カイエンターボ」にポルシェの本気を見た",
+        "url": "https://response.jp/article/2026/07/21/414243.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "【今すぐ確認が吉】まさかのスマホで車が全焼？ プロが断言「クルマに放置したらダメなもの」とは",
+        "url": "https://bestcarweb.jp/feature/column/1584706"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "CATL、VWグループ賞を受賞…中国本土企業で唯一の選出",
+        "url": "https://response.jp/article/2026/07/21/414248.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "eMotion Fleet、キューヘンと連携、九州で法人向けEV充電ソリューション拡販",
+        "url": "https://response.jp/article/2026/07/21/414252.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "ITS Connect推進協議会、キッズエンジニア2026に出展…VR体験で未来の交通安全技術を紹介",
+        "url": "https://response.jp/article/2026/07/21/414261.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "NGKと京都フュージョニアリング、核融合向けFLiBe技術を共同開発へ…戦略的覚書を締結",
+        "url": "https://response.jp/article/2026/07/21/414250.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "V2H補助金を自動反映、「かんたん自動見積」開始…最短5分で実質負担額の目安",
+        "url": "https://response.jp/article/2026/07/21/414245.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "アイスクリーム輸送でCO2を6割削減、東京九州フェリーのモーダルシフトが「日本物流大賞」環境負荷低減賞を受賞",
+        "url": "https://response.jp/article/2026/07/21/414254.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "アウディ『A6』新型、安全性で最高評価「TOP SAFETY PICK+」獲得…米IIHS",
+        "url": "https://response.jp/article/2026/07/21/414238.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "カローラ ツーリングアクティブスポーツの専用サスは効く？ 60周年記念車の走りを考える",
+        "url": "https://bestcarweb.jp/feature/column/1548441"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "コンパクトSUVなのに小回りが苦手!? 最小回転半径はまさかの5.5m！ ヴェゼルの意外な弱点とは",
+        "url": "https://bestcarweb.jp/feature/column/1562290"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "スズキ『アルトワークス』復活なるか!? 軽スポーツ復権への期待",
+        "url": "https://response.jp/article/2026/07/21/414259.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "ソリオ選びの決め手は電動パーキングブレーキ？ 街乗りコンパクトの快適装備を再評価!!",
+        "url": "https://bestcarweb.jp/feature/column/1558940"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "ハイデッカーなコミバスが高速道路を走るだと？ 日本一お金持ちの村(?)に行ってきた!!",
+        "url": "https://bestcarweb.jp/busmagazine/1562804"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "ハリアーを買うならガソリン、ハイブリッド、PHEVどれが正解？ 価格と満足度で考える",
+        "url": "https://bestcarweb.jp/feature/column/1539488"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "ヤリスクロス中古は今が狙い目？ 2026年改良後の新車と中古で迷う人の選び方",
+        "url": "https://bestcarweb.jp/feature/column/1552598"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.20",
-        "title": "It's Official: A Legendary Honda Tuner Was Bought By Private Equity",
-        "url": "https://www.motor1.com/news/802188/hondata-honda-acura-engine-tuner-private-equity/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.20",
-        "title": "Jeep And Ram Have New Bosses",
-        "url": "https://www.motor1.com/news/802187/jeep-ram-new-ceos/"
+        "time": "2026.7.21",
+        "title": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style",
+        "url": "https://www.motor1.com/news/802238/2027-mercedes-maybach-gls-680-engine-specs-details/"
       },
       {
         "source": "InsideEVs",
         "time": "2026.7.20",
-        "title": "The 2027 BMW i5 Gets More Range Just As The Tesla Model S Fades Away",
-        "url": "https://insideevs.com/news/802185/2027-bmw-i5-range-increase/"
+        "title": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt",
+        "url": "https://insideevs.com/news/802239/rivian-r2-melted-charging-adapter/"
       },
       {
         "source": "The Drive",
         "time": "2026.7.20",
-        "title": "Honda Wants to Capitalize on North American Demand With Another Factory: TDS",
-        "url": "https://www.thedrive.com/news/honda-wants-to-capitalize-on-north-american-demand-with-another-factory-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.20",
-        "title": "How A Tiny Computer Keeps Your Tires From Locking Up: Motor101",
-        "url": "https://www.motor1.com/features/801786/anti-lock-brakes-explained/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.20",
-        "title": "Pilot's EV Charging Network Isn't Slowing Down. It Just Hit 300 Locations",
-        "url": "https://insideevs.com/news/802174/pilot-flying-j-ev-chargers-expansion-2026/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.20",
-        "title": "“整備難民”を防ぐ…トヨタモビリティパーツ岐阜支社が地域部品商とも手を組み、整備事業者をバックアップ",
-        "url": "https://response.jp/article/2026/07/20/414235.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.20",
-        "title": "『ハイエース』や『ジムニー』にはフルレンジスピーカーの追加も効く！［音を良くする“初級鉄板プラン”をプロが伝授］",
-        "url": "https://response.jp/article/2026/07/20/414237.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.20",
-        "title": "【BYD シーライオン6 AWD 新型試乗】「広い・速い・安い」この万能PHEVに弱点はないのか？ 300kmを走り検証した",
-        "url": "https://response.jp/article/2026/07/20/414236.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「稲生」",
-        "url": "https://bestcarweb.jp/feature/column/1559912"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "300万円切りは魅力だけど割りきりスゴすぎ!! 新型キックスの最廉価グレードは「買い」か？",
-        "url": "https://bestcarweb.jp/feature/column/1579232"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.20",
-        "title": "Man Goes To Mercedes Dealership With Navy Federal Check And $10,000. Then He Goes To Carvana: ‘They Wanted A Copy Of My Degree’",
-        "url": "https://www.motor1.com/news/802118/mercedes-dealership-ignores-man-carvana/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "シエンタのハイブリッドはなぜ燃費がいい？ WLTC 28.4km/Lの実力を再チェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1559554"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "ナビを使うのにまさかの……!? 新型キックスを買う前に知るべき3つの注意点",
-        "url": "https://bestcarweb.jp/newcar/1578576"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.20",
-        "title": "ハリアーの買い得グレードはどれだ？ G、Zレザーパッケージ、ナイトシェードの価格差をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1539498"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.20",
-        "title": "Is McLaren Really Bringing Back The Manual Gearbox?",
-        "url": "https://www.motor1.com/news/802163/mclaren-p50-manual-gearbox-rumor/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.20",
-        "title": "EVs Just Beat Gas And Diesel In Europe’s Biggest Car Market For The First Time",
-        "url": "https://insideevs.com/news/802162/evs-outsold-gas-hybrid-diesel-germany/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.20",
-        "title": "Volkswagen Driver Says She Puts Diesel In At The Pump—And The Men Around Her Always Say The Same Thing: ‘Men Come Running'",
-        "url": "https://www.motor1.com/news/802120/diesel-volkswagen-beetle-men-reaction/"
+        "title": "Short-Sighted Profiteering Is Killing Enthusiast Cars—And Future Enthusiasts",
+        "url": "https://www.thedrive.com/news/short-sighted-profiteering-is-killing-enthusiast-cars-and-future-enthusiasts"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 22,
-    "queued_articles": 22,
-    "processed": 22,
-    "started_at": "2026-07-20T15:22:17.366Z",
-    "finished_at": "2026-07-20T15:23:03.694Z",
+    "scoped_articles": 28,
+    "queued_articles": 28,
+    "processed": 28,
+    "started_at": "2026-07-21T03:42:00.977Z",
+    "finished_at": "2026-07-21T03:42:55.070Z",
     "success": true,
     "error": ""
   }

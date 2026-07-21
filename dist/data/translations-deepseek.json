@@ -82980,5 +82980,650 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-20T15:23:03.670Z"
+  },
+  "https://bestcarweb.jp/feature/column/1557713": {
+    "title_zh": "想买却买不到！丰田热门车型为何频频停止接单？",
+    "summary_short": "丰田多款热门车型因订单远超产能而停止接单，背后是供需失衡与精益生产模式的矛盾。",
+    "summary_long": "丰田多款热门车型如兰德酷路泽、Harrier、埃尔法等因订单量远超工厂产能而持续停止接单。尽管近期有所缓解，但供需失衡依然严重。根本原因在于丰田的“Just in Time”生产方式追求零库存，缺乏缓冲产能，一旦需求激增便无法快速调整。",
+    "highlights_zh": [
+      "订单远超产能",
+      "SUV 与 MPV 需求集中",
+      "Just in Time 生产缺乏缓冲",
+      "兰德酷路泽、Harrier、埃尔法受影响"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽",
+      "Harrier",
+      "埃尔法",
+      "Just in Time 生产"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1.jpeg?v=1782185813",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1-600x400.jpeg?v=1782185813",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09102940/s-8FA982C3-882F-4107-A9FC-472E4B746480-600x450.jpg?v=1783560581"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:04.668Z"
+  },
+  "https://response.jp/article/2026/07/21/414243.html": {
+    "title_zh": "保时捷卡宴电动版试驾：1156 马力，保时捷的认真",
+    "summary_short": "保时捷卡宴电动版顶配车型卡宴 Turbo Electric 拥有 1156 马力，展现了保时捷在电动 SUV 领域的实力。",
+    "summary_long": "保时捷最新电动高性能 SUV 卡宴 Electric 系列中，顶配车型卡宴 Turbo Electric 拥有 1156 马力和 1500 牛·米扭矩，性能惊人。卡宴已发展至第四代，先期推出燃油和插混车型，基于 MLB Evo 平台，可视为第三代的大改款。7 月在日本上市的纯电版卡宴是首款基于纯电平台的卡宴，继 Taycan 和 Macan Electric 之后，使卡宴系列拥有燃油、插混和纯电三种动力选择。",
+    "highlights_zh": [
+      "1156 马力",
+      "首款基于纯电平台的卡宴",
+      "卡宴系列提供三种动力选择",
+      "7 月日本上市"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "卡宴",
+      "卡宴 Turbo Electric",
+      "Taycan",
+      "Macan Electric"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228368.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228367.jpg",
+      "https://response.jp/imgs/fill2/2228367.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:05.305Z"
+  },
+  "https://response.jp/article/2026/07/21/414248.html": {
+    "title_zh": "CATL 获大众集团奖，成唯一入选中国本土企业",
+    "summary_short": "CATL 获 2026 年大众集团奖，是唯一获奖的车载电池制造商及中国本土企业。",
+    "summary_long": "全球最大车载电池制造商 CATL（宁德时代新能源科技）荣获 2026 年大众集团奖，表彰其在电池技术研发、供应链稳定性及全球执行效率方面的卓越表现。CATL 是唯一获奖的车载电池制造商，也是唯一入选的中国本土企业。自 2018 年起，CATL 已为大众 MEB 平台供应 NCM 电池。",
+    "highlights_zh": [
+      "CATL 获 2026 年大众集团奖",
+      "唯一获奖的车载电池制造商",
+      "唯一入选的中国本土企业",
+      "自 2018 年起为大众 MEB 平台供电池"
+    ],
+    "entities": [
+      "CATL",
+      "大众集团 | Volkswagen Group",
+      "MEB 平台"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228931.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228931.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:08.134Z"
+  },
+  "https://bestcarweb.jp/feature/column/1584706": {
+    "title_zh": "夏季车内高温危险品：手机等锂电池设备可能引发火灾",
+    "summary_short": "夏季车内温度可达 70 度，手机等锂电池设备易因高温引发火灾，专家列出车内禁放物品清单。",
+    "summary_long": "2026 年夏季高温，车内温度在 4 小时后可达 50 度以上，黑色车身甚至更高。JAF 测试显示，仪表盘附近最高温度超过 70 度。锂电池设备在高温下绝缘体可能破损，导致冒烟或起火。专家警告，手机、充电宝等含锂电池物品不应留在车内。",
+    "highlights_zh": [
+      "车内温度 4 小时超 50 度",
+      "锂电池高温下易破损引发火灾",
+      "黑色车身比白色温度高 5 度",
+      "手机、充电宝等不应留在车内"
+    ],
+    "entities": [
+      "JAF"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/21111013/AdobeStock_825418016-600x375-1.jpeg?v=1784599814",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1-600x400.jpeg?v=1782185813",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09102940/s-8FA982C3-882F-4107-A9FC-472E4B746480-600x450.jpg?v=1783560581"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:08.316Z"
+  },
+  "https://response.jp/article/2026/07/21/414252.html": {
+    "title_zh": "eMotion Fleet 与九电合作，在九州扩大法人 EV 充电解决方案销售",
+    "summary_short": "eMotion Fleet 与九州电力集团旗下キューヘン合作，在九州地区扩大法人 EV 充电解决方案销售，推动商用 EV 普及和脱碳。",
+    "summary_long": "eMotion Fleet 与九州电力集团旗下从事电力设备制造销售的キューヘン达成合作，旨在九州地区扩大面向法人的电动汽车充电解决方案销售。双方将通过合作推动九州地区商用电动车队的普及，助力区域社会脱碳。随着碳中和目标推进，九州地区中小企业及地方政府对高实用性 EV 充电解决方案的需求迅速增长。",
+    "highlights_zh": [
+      "eMotion Fleet 与キューヘン合作",
+      "面向九州法人扩大 EV 充电方案销售",
+      "推动商用 EV 车队普及与脱碳",
+      "中小企业及地方政府需求增长"
+    ],
+    "entities": [
+      "eMotion Fleet",
+      "キューヘン",
+      "九州电力集团",
+      "电动汽车 | EV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228935.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228935.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:11.537Z"
+  },
+  "https://response.jp/article/2026/07/21/414261.html": {
+    "title_zh": "ITS Connect 推进协议会将参展 Kids Engineer 2026，通过 VR 体验介绍未来交通安全技术",
+    "summary_short": "ITS Connect 推进协议会将在 Kids Engineer 2026 上设置 VR 体验区，让儿童感受车车间通信带来的安全技术。",
+    "summary_long": "ITS Connect 推进协议会将于 7 月 24 日至 25 日在横滨太平洋会展中心参加 Kids Engineer 2026，面向小学生及家长免费开放。展位无需预约，提供 VR 体验，让参与者感受车辆间通信如何预警看不见的危险，旨在普及交通安全理念，助力实现零交通伤亡目标。",
+    "highlights_zh": [
+      "VR 体验车车间通信预警",
+      "面向小学生及家长免费开放",
+      "无需预约",
+      "助力零交通伤亡社会目标"
+    ],
+    "entities": [
+      "ITS Connect 推进协议会",
+      "Kids Engineer 2026",
+      "太平洋横滨会展中心"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228964.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228964.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:11.759Z"
+  },
+  "https://response.jp/article/2026/07/21/414250.html": {
+    "title_zh": "NGK 与京都聚变工程合作开发核聚变用 FLiBe 技术",
+    "summary_short": "NGK 与京都聚变工程签署备忘录，共同开发核聚变装置用 FLiBe 熔盐及循环系统，推动聚变能源实用化。",
+    "summary_long": "NGK 与京都聚变工程宣布签署战略备忘录，将共同开发用于聚变示范装置的 FLiBe（氟化锂与氟化铍熔盐）及其循环系统，并推动商业化。双方通过合作加速核聚变能源的实用化进程。核聚变作为下一代清洁能源，有助于实现碳中和与能源安全，全球研发正不断加速。",
+    "highlights_zh": [
+      "NGK 与京都聚变工程签署战略备忘录",
+      "共同开发核聚变用 FLiBe 熔盐及循环系统",
+      "旨在推动聚变能源实用化与商业化",
+      "核聚变助力碳中和与能源安全"
+    ],
+    "entities": [
+      "NGK",
+      "京都聚变工程",
+      "FLiBe",
+      "核聚变"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228933.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228933.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:14.368Z"
+  },
+  "https://response.jp/article/2026/07/21/414245.html": {
+    "title_zh": "V2H 补助金自动反映，“简单自动估价”启动…最快 5 分钟算出实际负担额",
+    "summary_short": "IA Energy 推出 V2H 补助金自动反映功能，最快 5 分钟算出扣除补助后的实际负担额，2026 年度国家补助最高可达 75 万日元。",
+    "summary_long": "IA Energy 宣布，在其 EV 生态住宅的“V2H·蓄电池简单自动估价”服务中新增国家 V2H 补助金自动反映功能。用户只需填写必要信息，系统即可在最短 5 分钟内计算出扣除补助后的实际负担额。2026 年度国家 V2H 补助金为设备本体费用 1/2（上限 75 万日元）、安装工程费 1/1（上限 55 万日元），满足条件并全额领取时，可覆盖总费用的约 63%。该功能仅反映国家补助，都道府县及市町村的补助将另行根据自治体信息提供。此外，公司还公开了 V2H 特设页面，汇总了停电对策、电费节约、补助金活用要点、施工案例及常见问题，并集成了估价入口。",
+    "highlights_zh": [
+      "V2H 补助金自动反映",
+      "2026 年度国家补助：设备 1/2（上限 75 万…",
+      "安装工事费全额补助（上限 55 万日元）",
+      "满足条件可覆盖总费用约 63%"
+    ],
+    "entities": [
+      "IA Energy",
+      "V2H"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228835.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228835.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:16.257Z"
+  },
+  "https://response.jp/article/2026/07/21/414254.html": {
+    "title_zh": "冰淇淋运输 CO2 削减 6 成，东京九州轮渡获日本物流大奖环境负荷降低奖",
+    "summary_short": "东京九州轮渡等四家公司通过轮渡运输冰淇淋，实现 CO2 排放削减 60%，获日本物流大奖环境负荷降低奖。",
+    "summary_long": "东京九州轮渡与 Marinex、赤城乳业、泰星四家公司联合申请的冰淇淋轮渡运输项目，在日本物流团体联合会主办的“第一届日本物流大奖”中荣获环境负荷降低奖。冰淇淋运输需要-20℃以下的严格温度管理，此前被认为难以转为海上运输，但该项目成功实现了 CO2 排放量削减 60%。",
+    "highlights_zh": [
+      "CO2 排放削减 60%",
+      "冰淇淋轮渡运输获环境负荷降低奖",
+      "四家公司联合申请",
+      "克服-20℃冷链运输难题"
+    ],
+    "entities": [
+      "东京九州轮渡",
+      "Marinex",
+      "赤城乳业",
+      "泰星",
+      "日本物流大奖"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228951.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228951.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:17.590Z"
+  },
+  "https://response.jp/article/2026/07/21/414238.html": {
+    "title_zh": "奥迪 A6 获 IIHS 最高安全评级 TOP SAFETY PICK+",
+    "summary_short": "奥迪新款 A6 获 IIHS 最高安全评级 TOP SAFETY PICK+，2026 年标准更严，奥迪共有 7 款车型获奖。",
+    "summary_long": "奥迪宣布新款 A6 获得美国 IIHS 最高安全评级 TOP SAFETY PICK+。IIHS 综合评估碰撞安全、行人保护和前方碰撞预防系统，2026 年标准进一步严格，对乘员保护和碰撞规避性能要求更高。奥迪目前共有 7 款车型获此评级，在豪华品牌中数量最多。",
+    "highlights_zh": [
+      "奥迪 A6 获 IIHS 最高安全评级",
+      "2026 年 IIHS 标准更严格",
+      "奥迪共 7 款车型获奖",
+      "评估涵盖碰撞、行人及防撞系统"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A6",
+      "IIHS",
+      "TOP SAFETY PICK+"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228820.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228820.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:19.535Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548441": {
+    "title_zh": "卡罗拉旅行版 Active Sports：专属悬架有效吗？60 周年纪念车的驾控体验",
+    "summary_short": "卡罗拉旅行版 60 周年纪念车 Active Sports 配备专属调校悬架，2WD 车型操控更灵动，价格约 328 万日元起。",
+    "summary_long": "为纪念卡罗拉诞生 60 周年，丰田推出卡罗拉旅行版特别规格车 Active Sports。该车不仅拥有黑色专属外观，2WD 车型还配备了专属调校的悬架系统。价格方面，2WD 车型为 328 万 2400 日元，E-Four 四驱版为 349 万 6900 日元，相比基础车型 Double Bibi 均高出 10 万 3400 日元。差价带来的配置包括 60 周年纪念标识、黑色前保险杠和侧裙、黑色 17 英寸铝合金轮毂以及黑色×深灰色运动座椅。专属悬架仅限 2WD 车型，旨在提升日常驾驶中的操控响应，使车辆在转弯和变道时更加顺畅。E-Four 车型虽同样拥有外观和内饰升级，但缺乏悬架调校，因此追求驾驶乐趣的用户应选择 2WD 版本。",
+    "highlights_zh": [
+      "2WD 车型配备专属调校悬架",
+      "价格比基础版高约 10 万日元",
+      "黑色外观与运动座椅提升质感",
+      "E-Four 四驱版无专属悬架"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉旅行版",
+      "Active Sports",
+      "E-Four"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19165224/COROLLA_SDN_01.jpg?v=1781855545",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19165224/COROLLA_SDN_01-600x395.jpg?v=1781855545",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1-600x400.jpeg?v=1782185813"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:22.902Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562290": {
+    "title_zh": "本田 Vezel 的意外弱点：最小转弯半径达 5.5 米",
+    "summary_short": "本田 Vezel 虽为紧凑型 SUV，但最小转弯半径达 5.5 米，与丰田 Noah/Voxy 相同，逊于竞品。",
+    "summary_long": "2021 年推出的本田 Vezel 凭借时尚紧凑的设计大受欢迎，甚至一度需等待一年才能提车。然而，这款看似完美的车型却有一个出人意料的弱点：最小转弯半径达到 5.5 米，与丰田 Noah/Voxy 相同，而竞品丰田 Corolla Cross 为 5.2 米，马自达 CX-30 为 5.3 米。这意味着在停车或掉头时，Vezel 的灵活性不如对手。",
+    "highlights_zh": [
+      "最小转弯半径 5.5 米",
+      "与丰田 Noah/Voxy 相同",
+      "竞品 Corolla Cross 为 5.2 米",
+      "CX-30 为 5.3 米"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Vezel",
+      "丰田 | Toyota",
+      "Noah",
+      "Voxy"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27191657/00_ketten_vezel_09_head.jpg?v=1782555418",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27191657/00_ketten_vezel_09_head-600x400.jpg?v=1782555418",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1-600x400.jpeg?v=1782185813"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:24.144Z"
+  },
+  "https://response.jp/article/2026/07/21/414259.html": {
+    "title_zh": "铃木 Alto Works 或将复活？轻自动车运动版期待升温",
+    "summary_short": "铃木正在开发新一代 Alto，高性能版 Alto Works 有望复活，轻量化与运动设计备受期待。",
+    "summary_long": "铃木正在开发新一代轻自动车 Alto，其高性能版本 Alto Works 的复活呼声高涨。Alto Works 自 1979 年诞生以来，凭借涡轮增压发动机和运动化底盘成为经典，2021 年停产后仍受追捧。新一代 Alto 延续轻量化理念，若推出 Works 版本，将凭借轻盈车身和专属运动套件（如空力套件、运动轮毂）强化性能形象。",
+    "highlights_zh": [
+      "铃木开发新一代 Alto",
+      "Alto Works 以涡轮增压和运动化底盘著称",
+      "轻量化是新一代 Alto 的核心开发理念",
+      "运动版预计配备专属空力套件与轮毂"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "アルト",
+      "アルトワークス"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228923.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228923.jpg",
+      "https://response.jp/imgs/fill2/2228924.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:27.403Z"
+  },
+  "https://bestcarweb.jp/feature/column/1558940": {
+    "title_zh": "铃木 Solio 选车关键：电动驻车制动器？重新评价城市紧凑型车的舒适配置",
+    "summary_short": "铃木 Solio 高配车型配备电动驻车制动与制动保持功能，提升城市驾驶便利性，但非全系标配。",
+    "summary_long": "在城市驾驶为主的紧凑型车中，电动驻车制动和制动保持功能一旦使用便难以割舍。2025 年 1 月经过部分规格变更的铃木 Solio 在高级别车型上采用了这些舒适配置。电动驻车制动通过开关操作实现驻车制动，配合制动保持功能可在信号灯等待时无需持续踩刹车，减轻右脚疲劳，提升拥堵路况下的驾驶体验。此外，电动驻车制动还便于与自适应巡航控制的停止保持功能结合，进一步提升便利性。但需注意，该配置并非全系标配，仅搭载于 Solio HYBRID MZ 和 Solio Bandit HYBRID MV 车型。",
+    "highlights_zh": [
+      "电动驻车制动与制动保持功能提升城市驾驶舒适性",
+      "仅高配车型 Solio HYBRID MZ 和 Ba…",
+      "与自适应巡航控制停止保持功能协同工作",
+      "非全系标配"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Solio",
+      "Solio Bandit",
+      "电动驻车制动",
+      "制动保持"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25101103/20250404-1R9A7828.jpg?v=1782349864",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25101103/20250404-1R9A7828-600x400.jpg?v=1782349864",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1-600x400.jpeg?v=1782185813"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:28.705Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1562804": {
+    "title_zh": "高顶社区巴士跑高速？探访日本最富村庄",
+    "summary_short": "体验日本最富裕村庄飞岛村的社区巴士，高顶设计竟能上高速，连接名古屋近郊与工业区。",
+    "summary_long": "日本飞岛村运营的社区巴士“飞岛巴士”采用高顶设计，可行驶于高速公路，连接近铁蟹江站、村内及名古屋港站。该村是日本最富裕的村庄之一，巴士由三重交通承运，设有蟹江线和名港线两条路线，部分班次经工业区，票价因路线而异。",
+    "highlights_zh": [
+      "高顶社区巴士可上高速",
+      "连接近铁蟹江站与名古屋港",
+      "由三重交通承运",
+      "飞岛村为日本最富裕村庄之一"
+    ],
+    "entities": [
+      "飞岛村",
+      "飞岛巴士",
+      "三重交通",
+      "近铁蟹江站",
+      "名古屋港"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/29101550/DSC04657-1024x684.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/08115408/ogs_bsstgspt_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/08113150/bstp_spsmbl2607_catch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:30.944Z"
+  },
+  "https://bestcarweb.jp/feature/column/1539488": {
+    "title_zh": "买 Harrier 选汽油、混动还是插混？价格与满意度权衡",
+    "summary_short": "丰田 Harrier 提供汽油、混动和插混三种动力，价格与满意度各有侧重，最佳选择取决于使用场景。",
+    "summary_long": "丰田 Harrier 提供汽油、混动和 PHEV 三种动力选择。汽油版入门价约 371 万日元，性价比高，适合城市通勤；混动版价格高出约 59 万日元，但燃油经济性更好（WLTC 21.7-22.7km/L），且行驶平顺静谧，与 Harrier 的舒适定位更契合；PHEV 版价格最高（547 万日元起），仅提供 E-Four 四驱，适合追求极致电动体验的用户。综合来看，混动版在价格与满意度之间取得最佳平衡。",
+    "highlights_zh": [
+      "汽油版入门价 371 万日元",
+      "混动版油耗 21.7-22.7km/L",
+      "PHEV 版 547 万日元起",
+      "混动版是价格与满意度的最佳平衡"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Harrier",
+      "汽油",
+      "混动",
+      "PHEV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161902/AD4I0699.jpg?v=1781075943",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/10161902/AD4I0699-600x400.jpg?v=1781075943",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1-600x400.jpeg?v=1782185813"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:33.008Z"
+  },
+  "https://bestcarweb.jp/feature/column/1552598": {
+    "title_zh": "丰田 Yaris Cross 中古车现在值得入手吗？2026 年改款后新车与二手如何选择",
+    "summary_short": "丰田 Yaris Cross 2026 年改款后新车配置升级，中古车市场车源丰富，价格约 245 万日元，适合追求性价比或急需用车的消费者。",
+    "summary_long": "丰田 Yaris Cross 在 2026 年 3 月进行了部分改良，新车升级了 10.5 英寸显示屏等配置，提升了商品力。新车价格从 212 万日元起，而中古车市场车源充足，平均价格约 245 万日元，从早期款到高年式车型均有选择。对于不急于提车且追求最新配置的用户，改款新车值得等待；而需要快速用车或预算有限的用户，中古车是更实惠的选择。",
+    "highlights_zh": [
+      "2026 年改款新增 10.5 英寸显示屏",
+      "新车起价 212 万日元",
+      "中古车选择丰富",
+      "长使用周期建议选改款新车"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ヤリスクロス"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24144748/20250227_01_18.jpg?v=1782280069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24144748/20250227_01_18-600x400.jpg?v=1782280069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/23123652/AdobeStock_383480113_Editorial_Use_Only-1-600x400.jpeg?v=1782185813"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:34.854Z"
+  },
+  "https://www.motor1.com/news/802238/2027-mercedes-maybach-gls-680-engine-specs-details/": {
+    "title_zh": "2027 款梅赛德斯-迈巴赫 GLS 680 发布：动力更强，设计焕新",
+    "summary_short": "梅赛德斯-迈巴赫 GLS 680 更新动力与设计，V8 引擎提升至 603 马力，外观内饰全面升级。",
+    "summary_long": "梅赛德斯-奔驰在更新 GLS SUV 后，推出了 2027 款迈巴赫 GLS 680。新车搭载最新 4.0 升双涡轮增压 V8 发动机（M177 Evo），最大功率 603 马力，峰值扭矩 627 磅-英尺，较老款分别提升 53 马力和 89 磅-英尺，并配备第二代启动发电机。底盘标配 Airmatic 空气悬架，可选 E-Active 车身控制系统。外观采用全新前脸设计，配备发光格栅环绕、发光迈巴赫徽标及立标，均为品牌首次。标配 22 英寸轮毂，可选 23 英寸锻造轮毂，其精密滚珠轴承机构可使轮毂星标保持垂直。",
+    "highlights_zh": [
+      "V8 动力提升至 603 马力",
+      "全新发光前脸设计",
+      "标配空气悬架",
+      "23 英寸锻造轮毂带垂直星标"
+    ],
+    "entities": [
+      "梅赛德斯-迈巴赫 | Mercedes-Maybach",
+      "GLS 680",
+      "V8 发动机",
+      "Airmatic 空气悬架",
+      "E-Active 车身控制"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7L1N/s1/mercedes-maybach-gls.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:37.589Z"
+  },
+  "https://insideevs.com/news/802239/rivian-r2-melted-charging-adapter/": {
+    "title_zh": "警告：别用旧充电适配器给 Rivian R2 充电，可能会熔化",
+    "summary_short": "Rivian R2 因采用 400V 架构导致充电电流过高，使用旧款 NACS-CCS 适配器可能熔化插针。",
+    "summary_long": "Rivian R2 为控制成本沿用 400V 电池架构，但为维持充电速度不得不提高电流。记者 Tom Moloughney 测试时使用旧款特斯拉适配器，结果插针熔化。问题并非车辆故障，而是旧适配器无法承受 R2 的高电流。现代适配器通常能处理更高电流，因此不会熔化。R2 配备原生 NACS 接口，在 CCS 充电站需使用适配器，车主应选用支持高电流的新款产品。",
+    "highlights_zh": [
+      "Rivian R2 采用 400V 架构",
+      "旧款 NACS-CCS 适配器无法承受高电流",
+      "现代适配器可安全用于 R2",
+      "R2 车主在 CCS 充电站需使用适配器"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "NACS",
+      "CCS",
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Rqke0w/s1/rivian-r2-charging.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:39.168Z"
+  },
+  "https://www.thedrive.com/news/short-sighted-profiteering-is-killing-enthusiast-cars-and-future-enthusiasts": {
+    "title_zh": "短视逐利正在扼杀驾驶者之车与未来车迷",
+    "summary_short": "从一家苗圃的独特销售策略，反思汽车行业短视逐利如何扼杀驾驶者之车与未来车迷。",
+    "summary_long": "作者通过自家房屋修缮经历，联想到一家家族苗圃的销售策略：苗圃以低价出售小树苗，但若顾客想购买已生长多年的成品树，则需支付高昂溢价。这种模式让作者反思汽车行业现状：车企和经销商通过抬高价格、减少平价性能车供给来追求短期利润，导致年轻一代难以负担驾驶者之车，进而扼杀了未来车迷群体的培养。文章认为，这种短视行为正在摧毁汽车文化的根基。",
+    "highlights_zh": [
+      "苗圃低价卖树苗、高价卖成树的策略",
+      "车企抬高性能车价格",
+      "年轻一代难以负担驾驶者之车",
+      "短视逐利正在扼杀未来车迷"
+    ],
+    "entities": [
+      "The Drive"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/livy-caddy.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/20220419_1735171.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/20220521_182917.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:41.148Z"
+  },
+  "https://www.motor1.com/news/802235/polestar-wont-fight-us-ban/": {
+    "title_zh": "极星放弃挑战美国禁令，在美前景终结",
+    "summary_short": "极星宣布不挑战美国联邦销售禁令，将重心转向欧洲，意味着其在美国市场的前景终结。",
+    "summary_long": "极星正式放弃美国市场。据《华尔街日报》报道，这家中国背景的汽车制造商不会挑战美国政府禁止其未来车辆销售的决定。该决定实际上终结了这家瑞典电动车制造商在全球最大汽车市场之一的业务。极星表示，将把投资转向品牌地位强劲且能实现盈利增长的市场，重点放在欧洲。极星发言人迈克尔·奥菲亚拉称，公司已与美国官员进行“重要对话”，并认为上诉不太可能成功。美国商务部基于新的网联汽车安全规则禁止极星在美销售，该规则自 2027 车型年起禁止中国软件用于互联网连接车辆。",
+    "highlights_zh": [
+      "极星放弃挑战美国禁令",
+      "将重心转向欧洲市场",
+      "美国商务部禁止中国软件",
+      "极星在美销售前景终结"
+    ],
+    "entities": [
+      "极星 | Polestar",
+      "美国商务部",
+      "欧洲",
+      "网联汽车安全规则"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9jGX/s1/polestar-not-appealing-us-ban.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:43.789Z"
+  },
+  "https://www.motor1.com/news/802226/mercedes-maybach-gls-front-fascia-teaser/": {
+    "title_zh": "新款迈巴赫 GLS 首次展示前脸",
+    "summary_short": "梅赛德斯-奔驰预告新款迈巴赫 GLS，采用独特前脸和发光格栅，预计年内亮相。",
+    "summary_long": "梅赛德斯-奔驰在 3 月发布新款 GLS 后，即将推出其迈巴赫版本。官方在 Instagram 上发布预告视频，展示了迈巴赫 GLS 标志性的前脸照明设计，包括发光格栅边框、集成星徽图案的头灯以及细长 LED 日行灯。此外，还提供发光迈巴赫徽标和迎宾灯。新车将继承普通 GLS 的升级，如 MBUX Superscreen 三屏系统。预计今年夏季末正式亮相。",
+    "highlights_zh": [
+      "发光格栅与星徽头灯",
+      "发光迈巴赫徽标",
+      "配备 MBUX Superscreen",
+      "预计夏季末发布"
+    ],
+    "entities": [
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "迈巴赫 GLS | Maybach GLS",
+      "GLS",
+      "MBUX Superscreen"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/RqkBQr/s1/mercedes-maybach-gls-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:44.804Z"
+  },
+  "https://www.thedrive.com/news/hot-rod-designer-chip-foose-made-this-john-deere-tractor-look-like-an-old-race-car": {
+    "title_zh": "Hot Rod 设计师 Chip Foose 将 John Deere 拖拉机改装成复古赛车",
+    "summary_short": "Chip Foose 将 1970 年 John Deere 4020 拖拉机改装成复古赛车风格，灵感来自经典赛道赛车，但引发 John Deere 粉丝争议。",
+    "summary_long": "Hot Rod 设计师 Chip Foose 在 2010 年左右将一台 1970 年 John Deere 4020 拖拉机重新设计，使其外观更像复古的短程赛车而非农用机械。Foose 加长了引擎盖、增加了侧排气管，并在尾部采用船尾造型，手写“4020”标识。该拖拉机曾巡回展出，现藏于 John Deere 档案馆。然而，这一改装在 John Deere 铁杆粉丝中引发巨大争议，许多人反对 Foose 对经典车型的改动。",
+    "highlights_zh": [
+      "Foose 将 John Deere 4020 改装…",
+      "灵感来自经典短程赛车",
+      "改装引发 John Deere 粉丝强烈争议",
+      "拖拉机现藏于 John Deere 档案馆"
+    ],
+    "entities": [
+      "Chip Foose",
+      "约翰迪尔",
+      "John Deere 4020"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/John-Deere-Foose-Tractor-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-1.15.45-PM.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-1.15.55-PM.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:47.734Z"
+  },
+  "https://www.motor1.com/news/802212/nissan-brake-caliper-color-meaning/": {
+    "title_zh": "日产刹车卡钳颜色含义解析",
+    "summary_short": "日产通过不同颜色的刹车卡钳区分车型性能等级，从银色日常版到黄色碳陶瓷赛道版。",
+    "summary_long": "日产利用刹车卡钳颜色作为性能等级标识，银色代表日常通勤车型，如 Altima、Kicks、Rogue；更高性能的车型如 2027 款 Nissan Z Performance 则配备黑色 Akebono 卡钳；而黄色卡钳则用于最极端的赛道车型，搭配碳陶瓷刹车系统。",
+    "highlights_zh": [
+      "银色卡钳：日常通勤车型标配",
+      "黑色卡钳：性能升级",
+      "黄色卡钳：赛道级碳陶瓷刹车"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Altima",
+      "Kicks",
+      "Rogue",
+      "Nissan Z"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3MBv/s1/nissan-gt-r-nismo-brakes.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:47.897Z"
+  },
+  "https://www.thedrive.com/news/rtr-shows-us-how-the-pros-dial-in-a-mustang-for-formula-drift": {
+    "title_zh": "RTR 揭秘：如何将福特 Mustang 调校成 Formula Drift 战车",
+    "summary_short": "RTR 团队展示了专业漂移赛车的调校秘诀，远不止负外倾角和液压手刹那么简单。",
+    "summary_long": "RTR（Ready To Rock）团队在 Formula Drift 赛事中展示了如何将福特 Mustang 打造成顶级漂移赛车。团队负责人 Josh Stroud 指出，这类赛车最大的挑战在于低速操控。专业漂移赛车的调校涉及多个关键领域，远非普通赛车可比。",
+    "highlights_zh": [
+      "低速操控是最大挑战",
+      "调校远不止负外倾角和液压手刹",
+      "RTR 团队推动美国漂移运动发展",
+      "专业漂移赛车与普通赛车有三大区别"
+    ],
+    "entities": [
+      "RTR",
+      "福特",
+      "Mustang",
+      "Formula Drift"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/RTR-Mustang-Hero-2.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/JCA00268.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/JCA00270.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:51.028Z"
+  },
+  "https://insideevs.com/news/802219/volkswagen-ebike-smart-helmet/": {
+    "title_zh": "大众电动自行车：后视摄像头与智能头盔保障安全",
+    "summary_short": "大众新款电动自行车配备后视摄像头和智能头盔，主打安全而非速度，旨在提升骑行安全性。",
+    "summary_long": "大众汽车推出新款电动自行车，由 n+制造，与梅赛德斯-AMG F1 等品牌自行车同厂。该车以安全为核心，配备后视摄像头（显示在车把屏幕上）和雷达盲区预警，让骑行者无需转头即可了解后方交通状况。此外，智能头盔提供实时安全警报，车身 LED 灯带和刹车灯增强双向可见性。",
+    "highlights_zh": [
+      "后视摄像头显示在车把屏幕",
+      "雷达盲区预警",
+      "智能头盔实时安全警报",
+      "LED 灯带和刹车灯增强可见性"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "n+",
+      "电动自行车 | e-bike",
+      "智能头盔",
+      "后视摄像头"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egBPn/s1/volkswagen-ebike-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:51.368Z"
+  },
+  "https://www.motor1.com/news/802200/genesis-compact-premium-ev-considered-possible/": {
+    "title_zh": "捷尼赛思考虑推出紧凑型电动 SUV",
+    "summary_short": "捷尼赛思正评估基于现代 Ioniq 3 的紧凑型豪华电动车，但尚未确认。",
+    "summary_long": "捷尼赛思欧洲董事总经理 Peter Kronschnabl 透露，品牌正在评估推出紧凑型豪华电动 SUV 的可能性，该车可能基于现代 Ioniq 3 平台。他强调品牌不会追求短期机会，而是谨慎审视市场空白。目前尚无确认信息，且该车型可能不会进入美国市场。",
+    "highlights_zh": [
+      "基于现代 Ioniq 3 平台",
+      "评估紧凑型豪华电动 SUV",
+      "不追求短期市场机会",
+      "可能不进入美国市场"
+    ],
+    "entities": [
+      "捷尼赛思 | Genesis",
+      "现代 | Hyundai",
+      "Ioniq 3",
+      "紧凑型电动 SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMz61R/s1/genesis-mint-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:54.566Z"
+  },
+  "https://www.motor1.com/news/802215/toyota-4runner-remote-start-key-fob-trick/": {
+    "title_zh": "丰田 4Runner 车主发现钥匙远程启动技巧，无需支付订阅费",
+    "summary_short": "丰田 4Runner 车主发现无需支付 20 美元订阅费，通过钥匙组合操作即可远程启动车辆。",
+    "summary_long": "一位丰田 4Runner 车主发现，无需支付每月 15-25 美元的订阅费，通过钥匙上的特定按键组合即可远程启动车辆。该技巧在社交媒体上获得超过 150 万次观看，揭示了汽车制造商将远程启动等功能置于付费墙后的应对方法。",
+    "highlights_zh": [
+      "无需订阅费",
+      "视频超 150 万次观看",
+      "经销商推销 App 订阅"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "4Runner"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BPkL/s1/toyota-4runner-driver-doesn-t-want-to-pay-20-subscription.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T03:42:55.051Z"
   }
 }
