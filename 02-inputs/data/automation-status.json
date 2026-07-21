@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-21T03:42:00.669Z",
+    "generated_at": "2026-07-21T15:18:46.374Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 372,
-    "deepseek_untranslated_before_run": 28,
-    "newly_fetched_articles": 28,
-    "newly_fetched_untranslated": 28,
+    "deepseek_translated_before_run": 368,
+    "deepseek_untranslated_before_run": 32,
+    "newly_fetched_articles": 32,
+    "newly_fetched_untranslated": 32,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 28,
+    "translation_queue_count": 32,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.7.21",
-        "title": "「欲しいのに買えない！」はなぜ起きる!? 人気トヨタ車が受注停止だらけの理由とは!!",
-        "url": "https://bestcarweb.jp/feature/column/1557713"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "【ポルシェ カイエン 新型試乗】驚異の1156馬力！ BEVになった「カイエンターボ」にポルシェの本気を見た",
-        "url": "https://response.jp/article/2026/07/21/414243.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.21",
-        "title": "【今すぐ確認が吉】まさかのスマホで車が全焼？ プロが断言「クルマに放置したらダメなもの」とは",
-        "url": "https://bestcarweb.jp/feature/column/1584706"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "CATL、VWグループ賞を受賞…中国本土企業で唯一の選出",
-        "url": "https://response.jp/article/2026/07/21/414248.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "eMotion Fleet、キューヘンと連携、九州で法人向けEV充電ソリューション拡販",
-        "url": "https://response.jp/article/2026/07/21/414252.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "ITS Connect推進協議会、キッズエンジニア2026に出展…VR体験で未来の交通安全技術を紹介",
-        "url": "https://response.jp/article/2026/07/21/414261.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "NGKと京都フュージョニアリング、核融合向けFLiBe技術を共同開発へ…戦略的覚書を締結",
-        "url": "https://response.jp/article/2026/07/21/414250.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "V2H補助金を自動反映、「かんたん自動見積」開始…最短5分で実質負担額の目安",
-        "url": "https://response.jp/article/2026/07/21/414245.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "アイスクリーム輸送でCO2を6割削減、東京九州フェリーのモーダルシフトが「日本物流大賞」環境負荷低減賞を受賞",
-        "url": "https://response.jp/article/2026/07/21/414254.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "アウディ『A6』新型、安全性で最高評価「TOP SAFETY PICK+」獲得…米IIHS",
-        "url": "https://response.jp/article/2026/07/21/414238.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.21",
-        "title": "カローラ ツーリングアクティブスポーツの専用サスは効く？ 60周年記念車の走りを考える",
-        "url": "https://bestcarweb.jp/feature/column/1548441"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.21",
-        "title": "コンパクトSUVなのに小回りが苦手!? 最小回転半径はまさかの5.5m！ ヴェゼルの意外な弱点とは",
-        "url": "https://bestcarweb.jp/feature/column/1562290"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.21",
-        "title": "スズキ『アルトワークス』復活なるか!? 軽スポーツ復権への期待",
-        "url": "https://response.jp/article/2026/07/21/414259.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.21",
-        "title": "ソリオ選びの決め手は電動パーキングブレーキ？ 街乗りコンパクトの快適装備を再評価!!",
-        "url": "https://bestcarweb.jp/feature/column/1558940"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.21",
-        "title": "ハイデッカーなコミバスが高速道路を走るだと？ 日本一お金持ちの村(?)に行ってきた!!",
-        "url": "https://bestcarweb.jp/busmagazine/1562804"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.21",
-        "title": "ハリアーを買うならガソリン、ハイブリッド、PHEVどれが正解？ 価格と満足度で考える",
-        "url": "https://bestcarweb.jp/feature/column/1539488"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.21",
-        "title": "ヤリスクロス中古は今が狙い目？ 2026年改良後の新車と中古で迷う人の選び方",
-        "url": "https://bestcarweb.jp/feature/column/1552598"
+        "title": "2027 Toyota Tundra Gets the Trailhunter Treatment, But Skips the ‘Snorkel’",
+        "url": "https://www.thedrive.com/news/2027-toyota-tundra-gets-the-trailhunter-treatment-but-skips-the-snorkel"
       },
       {
         "source": "Motor1",
         "time": "2026.7.21",
-        "title": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style",
-        "url": "https://www.motor1.com/news/802238/2027-mercedes-maybach-gls-680-engine-specs-details/"
+        "title": "Is This The New Dodge Charger SRT?",
+        "url": "https://www.motor1.com/news/802322/dodge-charger-srt-spy-video/"
       },
       {
         "source": "InsideEVs",
-        "time": "2026.7.20",
-        "title": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt",
-        "url": "https://insideevs.com/news/802239/rivian-r2-melted-charging-adapter/"
+        "time": "2026.7.21",
+        "title": "Used EV Values Are Actually Rising. Why That's Good And Bad News.",
+        "url": "https://insideevs.com/news/802240/used-ev-depreciation-reversing-gas-prices/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.21",
+        "title": "Your Gas Station Has Three Fuel Grades. So Why Does It Only Have Two Fuel Lines?",
+        "url": "https://www.motor1.com/news/802319/gas-stations-3-types-2-pipes/"
       },
       {
         "source": "The Drive",
-        "time": "2026.7.20",
-        "title": "Short-Sighted Profiteering Is Killing Enthusiast Cars—And Future Enthusiasts",
-        "url": "https://www.thedrive.com/news/short-sighted-profiteering-is-killing-enthusiast-cars-and-future-enthusiasts"
+        "time": "2026.7.21",
+        "title": "Sports Cars and Snap-On: Casino Magnate’s Estate Auction Is an Automotive Jackpot",
+        "url": "https://www.thedrive.com/news/sports-cars-and-snap-on-casino-magnates-estate-auction-is-an-automotive-jackpot"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.21",
+        "title": "2026 Nissan Armada Pro-4X Review: Closest Thing to a Real Land Cruiser You’ll Get in America",
+        "url": "https://www.thedrive.com/car-reviews/2026-nissan-armada-pro-4x-review"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.21",
+        "title": "2027 Toyota Tundra Gets An Overlanding Trim Straight From The Factory",
+        "url": "https://www.motor1.com/news/802309/2027-toyota-tundra-trailhunter/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.21",
+        "title": "Polestar Won’t Appeal US Ban and Dealers Aren’t Happy About That: TDS",
+        "url": "https://www.thedrive.com/news/polestar-wont-appeal-us-ban-and-dealers-arent-happy-about-that-tds"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.21",
+        "title": "Wreckreation 2 Wants to Recapture the Magic of Burnout Once and for All",
+        "url": "https://www.thedrive.com/news/wreckreation-2-wants-to-recapture-the-magic-of-burnout-once-and-for-all"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "「うっかり違反」への対策はこれで万全!? 新型取締機に対応したセルスターの最新レーダーが新発売！",
+        "url": "https://bestcarweb.jp/news/car-accessory/1583094"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "9万3500円差ならアリ!? タントカスタムRSは街乗りでもターボが正解か",
+        "url": "https://bestcarweb.jp/feature/column/1564747"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "Kia PBV 東名横浜、7月25日グランドオープン…『PV5』の試乗も順次開始",
+        "url": "https://response.jp/article/2026/07/21/414262.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.21",
+        "title": "Man Spots Tesla Cybertruck Towing A Boat. Then He Looks Closer And Sees Who's Really Doing The Heavy Lifting",
+        "url": "https://www.motor1.com/news/802223/tesla-cybertruck-boat-tow/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "SBI損保、自動車保険マイページ拡充…事故対応のコミュニケーションを一元化",
+        "url": "https://response.jp/article/2026/07/21/414273.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "WR-Vを買うならX、Z、Z＋どれが正解？ 価格差と装備で選ぶベストグレード",
+        "url": "https://bestcarweb.jp/feature/column/1545340"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "ZR-Vはヴェゼルより高いけど満足度も高い？ ホンダSUV兄弟の価格と実力差",
+        "url": "https://bestcarweb.jp/feature/column/1572616"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "アストンマーティン、軍用SUV『Dreadnought』発表…「攻撃的な全輪駆動」を表現",
+        "url": "https://response.jp/article/2026/07/21/414267.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "カーボンボンネットでクルマはどう変わる？ 軽量化だけではないメリットと落とし穴～カスタムHOW TO～",
+        "url": "https://response.jp/article/2026/07/21/414283.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.21",
+        "title": "シエンタはガソリンで十分？ ハイブリッドとの価格差と燃費差を徹底比較",
+        "url": "https://bestcarweb.jp/feature/column/1559513"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.21",
+        "title": "テスラ、対話型AIアシスタント「Grok」をOTA配信開始…普通の言葉での会話を理解し応答",
+        "url": "https://response.jp/article/2026/07/21/414263.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29799195084",
-    "sha": "499a518b9015a57cfe74a02bee68c4485386ecc5",
-    "completed_at": "2026-07-21T03:42:55.308Z",
+    "run_id": "29843336084",
+    "sha": "8d4e4ca73f971917b7b3f013b3cfd59a8120cdbb",
+    "completed_at": "2026-07-21T15:19:51.492Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 28,
-    "queued_articles": 28,
-    "processed": 28,
-    "started_at": "2026-07-21T03:42:00.977Z",
-    "finished_at": "2026-07-21T03:42:55.070Z",
+    "scoped_articles": 32,
+    "queued_articles": 32,
+    "processed": 32,
+    "started_at": "2026-07-21T15:18:46.666Z",
+    "finished_at": "2026-07-21T15:19:51.223Z",
     "success": true,
     "error": ""
   }

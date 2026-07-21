@@ -83625,5 +83625,757 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-21T03:42:55.051Z"
+  },
+  "https://www.motor1.com/news/802322/dodge-charger-srt-spy-video/": {
+    "title_zh": "全新道奇 Charger SRT？",
+    "summary_short": "社交媒体视频疑似曝光两款未发布的道奇 Charger 新车型，其中一款贴有“Powered By SRT”标识。",
+    "summary_long": "一段在 Instagram 上流传的视频显示了两款尚未发布的道奇 Charger 变体。第一款接近量产原型，拥有重新设计的前脸、更具攻击性的姿态以及更大的轮毂和轮胎。第二款更接近概念车或预生产车型，格栅开口更小，采用独特涂装，前挡风玻璃上贴有“Powered By SRT”贴纸。视频仅展示了车辆前部，细节有限，但引发了外界对高性能 Charger SRT 即将推出的猜测。",
+    "highlights_zh": [
+      "视频显示两款未发布的 Charger 变体",
+      "一款贴有“Powered By SRT”贴纸",
+      "前脸重新设计",
+      "高性能版本或即将推出"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "Charger",
+      "SRT"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K0Wj/s1/dodge-charger-srt-prototype-spied.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:18:50.527Z"
+  },
+  "https://www.thedrive.com/news/2027-toyota-tundra-gets-the-trailhunter-treatment-but-skips-the-snorkel": {
+    "title_zh": "2027 款丰田坦途推出 Trailhunter 套件，但取消高位进气口",
+    "summary_short": "丰田为 2027 款坦途 SR5 推出 Trailhunter 套件，提供越野升级但取消标志性高位进气口，定价更亲民。",
+    "summary_long": "丰田为 2027 款坦途 SR5 车型推出 Trailhunter 套件，而非独立的高配越野版本。该套件包含 Old Man Emu 悬挂、拖车钩、底盘护板和 31.6 英寸轮胎，并保留蠕行控制、多地形选择和电子后差速锁等越野技术。与 Tacoma 和 4Runner 的 Trailhunter 版本不同，坦途的套件取消了高位进气口，但价格更低，适合预算有限的越野爱好者。",
+    "highlights_zh": [
+      "Trailhunter 作为坦途 SR5 的选装套件…",
+      "配备 Old Man Emu 悬挂和 31.6 英寸…",
+      "保留蠕行控制、多地形选择和电子后差速锁",
+      "取消高位进气口"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "坦途 | Tundra",
+      "Trailhunter",
+      "SR5"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Tundra-Trailhunter-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2027_Toyota_Tundra_Trailhunter_-3_8c59d2.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2027_Toyota_Tundra_Trailhunter_-16.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:18:51.361Z"
+  },
+  "https://insideevs.com/news/802240/used-ev-depreciation-reversing-gas-prices/": {
+    "title_zh": "二手电动车价格回升：好消息与坏消息",
+    "summary_short": "二手电动车价格意外上涨，雪佛兰 Bolt 和特斯拉 Model 3 等车型更贵，对车主是利好，但对潜在买家不利。",
+    "summary_long": "通常汽车会贬值，电动车尤甚，但近期二手电动车价格却逆势上涨。Recurrent 报告显示，自 1 月以来二手电动车价格上涨 5.1%，其中 2 万美元以下车型涨幅达 9.4%。雪佛兰 Bolt EV 平均价格从年初的 17,718 美元升至 21,204 美元，涨幅近 20%。这对现有车主是好消息，但对考虑购买二手电动车的消费者则意味着更高的成本。",
+    "highlights_zh": [
+      "二手电动车价格自 1 月上涨 5.1%",
+      "2 万美元以下车型涨幅达 9.4%",
+      "2023 款雪佛兰 Bolt EV 价格飙升近 20…",
+      "对车主利好"
+    ],
+    "entities": [
+      "雪佛兰",
+      "特斯拉 | Tesla",
+      "Model 3",
+      "Bolt EV",
+      "Recurrent"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojjYQ0/s1/2022-chevrolet-bolt-euv-exterior.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:18:54.104Z"
+  },
+  "https://www.motor1.com/news/802319/gas-stations-3-types-2-pipes/": {
+    "title_zh": "加油站有三种燃油标号，为何只有两条油管？",
+    "summary_short": "美国加油站虽提供三种标号汽油，但地下通常只储存普通和优质两种，中间标号由两者混合而成。",
+    "summary_long": "在美国加油站，常见 87、89 和 91/93 三种标号汽油，但大多数加油站地下只储存普通和优质两种汽油。中间标号（89）并非独立储存，而是在用户选择时由普通和优质汽油按比例混合而成。这种设计节省了储罐空间和成本，且已存在多年，但多数驾驶员并不知情。",
+    "highlights_zh": [
+      "加油站通常只储存两种汽油",
+      "中间标号由普通和优质混合而成",
+      "混合过程在加油时即时完成",
+      "多数驾驶员对此毫不知情"
+    ],
+    "entities": [
+      "BP",
+      "Shell",
+      "加油站",
+      "辛烷值",
+      "混合"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWQr6/s1/gas-pump-different-grades.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:18:55.096Z"
+  },
+  "https://www.thedrive.com/news/sports-cars-and-snap-on-casino-magnates-estate-auction-is-an-automotive-jackpot": {
+    "title_zh": "赌场大亨遗产拍卖：跑车与 Snap-On 工具齐飞",
+    "summary_short": "赌场大亨 John Harrah 的遗产拍卖涵盖保时捷、吉普、大量 Snap-On 工具及车间设备，堪称汽车爱好者的宝藏。",
+    "summary_long": "赌场大亨 John Harrah 的遗产拍卖即将举行，拍品涵盖保时捷跑车、重型皮卡、改装车以及大量 Snap-On 工具和车间设备。虽然数量不及博物馆级拍卖，但品类丰富，从儿童版保时捷 356 玩具车到完整的 CNC 机床一应俱全。亮点包括一辆致敬 E46 CSL 的宝马 E46 Coupe，以及足以支撑小型汽车维修业务的举升机、轮胎拆装机、工具柜等。",
+    "highlights_zh": [
+      "赌场大亨 John Harrah 遗产拍卖",
+      "保时捷、吉普等跑车与皮卡",
+      "大量 Snap-On 工具及车间设备",
+      "含儿童版保时捷 356 玩具车"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "吉普 | Jeep",
+      "宝马 | BMW",
+      "Snap-On",
+      "E46 CSL"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/stremmel-lede.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/eyJidWNrZXQiOiJid3BhcGVyY2xpcC1wcm9kdWN0aW9uIiwia2V5IjoiaXRlbV9pbWFnZXMvYXNzZXRzL2NvbXBhbnlfOTQzLzE1OC8wNjYvODE3L29yaWdpbmFsL1JhY2tNdWx0aXBhcnQyMDI2MDcxNS00ODU5Mjgtd2tyc2N6LmpwZyIsInYiOjE3ODQxNDU4NTgs.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/eyJidWNrZXQiOiJid3BhcGVyY2xpcC1wcm9kdWN0aW9uIiwia2V5IjoiaXRlbV9pbWFnZXMvYXNzZXRzL2NvbXBhbnlfOTQzLzE1OC8zMDQvNTYyL29yaWdpbmFsL1JhY2tNdWx0aXBhcnQyMDI2MDcxNy00MDI5MTQtZWY5dTl3LmpwZyIsInYiOjE3ODQzMjE5NjAs.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:18:57.396Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-nissan-armada-pro-4x-review": {
+    "title_zh": "2026 款日产 Armada Pro-4X 评测：美国最接近真正陆巡的车型",
+    "summary_short": "日产 Armada Pro-4X 以非承载车身、双涡轮 V6 和越野套件，填补了丰田未将真正陆巡引入美国的空白。",
+    "summary_long": "2026 款日产 Armada Pro-4X 是一款全尺寸三排非承载 SUV，搭载双涡轮增压 V6 发动机和越野套件，提供了大部分所需的越野能力。评测认为，日产在丰田失手的地方取得了成功，对越野爱好者而言是绝佳选择，但家庭用户可能更适合其他车型。",
+    "highlights_zh": [
+      "填补丰田陆巡空缺",
+      "非承载车身+双涡轮 V6",
+      "越野能力出色",
+      "家庭用户需谨慎"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Armada Pro-4X",
+      "丰田 | Toyota",
+      "Land Cruiser"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/ARMADA-HERO.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0016.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/untitled-0031.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:18:58.044Z"
+  },
+  "https://www.thedrive.com/news/polestar-wont-appeal-us-ban-and-dealers-arent-happy-about-that-tds": {
+    "title_zh": "极星放弃上诉美国禁令，经销商不满",
+    "summary_short": "极星因中国背景被禁售，放弃上诉；经销商投入资源后深感失望。",
+    "summary_long": "极星决定不对美国商务部因其与中国关联而实施的销售禁令提出上诉，认为上诉成功可能性不大。这一决定令其在美国的 32 家经销商感到沮丧，他们已投入大量时间和资源建设设施。与此同时，梅赛德斯-奔驰正试图软化一项针对中资持股超 15%车企的禁令，因其自身持股比例接近 20%。",
+    "highlights_zh": [
+      "极星放弃上诉美国禁令",
+      "经销商投入资源后深感失望",
+      "梅赛德斯-奔驰试图软化中资持股禁令"
+    ],
+    "entities": [
+      "极星 | Polestar",
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "美国商务部",
+      "中国",
+      "禁令"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/1744292248-polestar-3-assembled-in-the-usa-outside_desktop.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/John-Deere-Foose-Tractor-Hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:01.206Z"
+  },
+  "https://www.motor1.com/news/802309/2027-toyota-tundra-trailhunter/": {
+    "title_zh": "2027 款丰田坦途 Trailhunter：原厂越野旅居版",
+    "summary_short": "丰田为 2027 款坦途推出 Trailhunter 原厂越野旅居版，配备升高悬挂、越野轮胎和专属外观，定位介于 SR5 与 TRD Pro 之间。",
+    "summary_long": "丰田为 2027 款坦途推出 Trailhunter 原厂越野旅居版，这是继 Tacoma 和 4Runner 之后，Trailhunter 系列首次登陆全尺寸皮卡。该版本基于 SR5 打造，配备 Old Man Emu 升高悬挂、18 英寸青铜轮毂、米其林 LTX Trail 轮胎、钢制前拖钩、底盘护板、后差速锁及多地形选择系统，专为长途穿越而非高速沙漠竞速设计。动力预计沿用 SR5 的 3.4 升双涡轮增压 V6 发动机，最大功率 389 马力，峰值扭矩 479 磅-英尺。",
+    "highlights_zh": [
+      "原厂越野旅居版",
+      "基于 SR5",
+      "专属外观与内饰标识",
+      "预计搭载 3.4T V6 发动机"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "坦途 | Tundra",
+      "Trailhunter",
+      "TRD Pro"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZwr4/s1/2027-toyota-tundra-trailhunter.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:02.178Z"
+  },
+  "https://www.thedrive.com/news/wreckreation-2-wants-to-recapture-the-magic-of-burnout-once-and-for-all": {
+    "title_zh": "Wreckreation 2 欲重燃《火爆狂飙》魔力",
+    "summary_short": "新作《Wreckreation 2》由前 Criterion 成员打造，专注街机赛车核心乐趣，力求再现《火爆狂飙》的爽快感。",
+    "summary_long": "《Wreckreation 2》由英国工作室 When Tides Turn 开发，负责人 Fiona Sperry 曾参与所有《火爆狂飙》作品及《极品飞车：热力追踪》重启版。前作《Wreckreation》因侧重用户生成内容而忽视基础体验，反响平平。续作将回归街机赛车本质，强调物理碰撞、赛道设计与即时破坏感，旨在重现《火爆狂飙》系列的黄金时代魅力。",
+    "highlights_zh": [
+      "由前 Criterion 成员 Fiona Sper…",
+      "专注物理碰撞、赛道设计与破坏感",
+      "前作因偏重 UGC 而口碑一般",
+      "续作旨在重燃《火爆狂飙》魔力"
+    ],
+    "entities": [
+      "Wreckreation 2",
+      "When Tides Turn",
+      "Fiona Sperry",
+      "火爆狂飙 | Burnout",
+      "极品飞车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/W2_3.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/W2_12.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/W2_10.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:05.178Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1583094": {
+    "title_zh": "应对新型测速雷达，Cellstar 发布 AR-126A 安全雷达",
+    "summary_short": "Cellstar 推出 AR-126A 安全雷达，可捕捉最新警用测速仪 JMA-600 信号，并具备误报过滤功能。",
+    "summary_long": "Cellstar 发布了新型安全雷达 AR-126A，能够捕捉最新警用测速设备 JMA-600（NTG-962）的雷达波。该产品通过改进内部天线，实现对日本国内所有雷达式测速设备的全覆盖。此外，AR-126A 搭载了最新误报过滤技术，可自动识别并忽略自动售货机或特定车型发出的干扰电波。对于首次经过的地点，雷达会在接收信号后自动记录峰值位置（半径 100 米），并在第三天起自动取消警告，从而仅提醒真正需要关注的测速信号。",
+    "highlights_zh": [
+      "支持最新警用测速仪 JMA-600",
+      "覆盖国内所有雷达式测速设备",
+      "智能过滤误报",
+      "自动记录测速点"
+    ],
+    "entities": [
+      "セルスター",
+      "AR-126A",
+      "JMA-600",
+      "安全雷达"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17174524/big_n120260717yzf8lj132255766235-1.jpg?v=1784277925",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17174524/big_n120260717yzf8lj132255766235-1-600x400.jpg?v=1784277925",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18163347/64aa04008718803a5f5ed6f11c3716f2-600x338.jpg?v=1784360028"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:05.993Z"
+  },
+  "https://response.jp/article/2026/07/21/414262.html": {
+    "title_zh": "起亚 PBV 东名横滨店 7 月 25 日开业，PV5 试驾同步启动",
+    "summary_short": "起亚 PBV 东名横滨店 7 月 25 日开业，展示 PV5 电动厢式车，提供试驾及购车服务。",
+    "summary_long": "Toy Factory 宣布，起亚电动厢式车系列 PBV 的正规经销店“Kia PBV 东名横滨”将于 7 月 25 日开业。店内展示 PV5 车型，顾客可体验实际尺寸、货厢空间及上下车便利性，并咨询日常及商务用途的定制方案。开业当天举办纪念活动，到场者可获限定礼品，同时接受线上预约。试驾服务将陆续在神奈川县相模原市的“EURO-TOY 相模原”展开。售后方面，全国约 50 个网点提供保养与支持，东名横滨店由邻近的 EURO-TOY 相模原负责维修。",
+    "highlights_zh": [
+      "7 月 25 日开业",
+      "展示 PV5 实车",
+      "提供试驾服务",
+      "全国 50 网点售后支持"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PBV",
+      "PV5",
+      "东名横滨",
+      "EURO-TOY 相模原"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228969.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228969.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:10.463Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564747": {
+    "title_zh": "9 万 3500 日元差价值得吗？大发 Tanto Custom RS 城市通勤选涡轮更明智",
+    "summary_short": "大发 Tanto Custom RS 与 X 仅差 9.35 万日元，涡轮版扭矩更大、驾驶更从容，城市通勤也值得选。",
+    "summary_long": "大发 Tanto Custom 是轻自动车超高位旅行车的热门选择，其中 Custom X（自然吸气）与 Custom RS（涡轮增压）的差价仅 9 万 3500 日元。虽然 NA 版油耗略优（21.9 vs 21.2 km/L），且转弯半径更小（4.4m vs 4.7m），但 RS 的涡轮发动机提供 64PS/100N·m，相比 X 的 52PS/60N·m，在起步、坡道和高速并线时动力储备更足。考虑到日常载人载物需求，多花不到 10 万日元换取驾驶余裕是合理投资。",
+    "highlights_zh": [
+      "差价仅 9.35 万日元",
+      "RS 扭矩 100N·m",
+      "城市通勤涡轮更从容",
+      "X 转弯半径 4.4m"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Tanto Custom RS",
+      "Tanto Custom X",
+      "轻自动车",
+      "涡轮增压"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08144410/3cb9b6d2865897b3cb40ac374fb412f1.jpg?v=1783489451",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08144410/3cb9b6d2865897b3cb40ac374fb412f1-600x430.jpg?v=1783489451",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16110619/MG_2457_1-600x400.jpg?v=1784167580"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:10.616Z"
+  },
+  "https://www.motor1.com/news/802223/tesla-cybertruck-boat-tow/": {
+    "title_zh": "特斯拉 Cybertruck 拖船上坡？其实是福特 F-150 在拖它",
+    "summary_short": "视频显示特斯拉 Cybertruck 拖船上坡，但镜头拉远后真相大白：真正出力的是前方一辆福特 F-150。",
+    "summary_long": "一段社交媒体视频显示，特斯拉 Cybertruck 拖着一艘不锈钢船上坡，看似成功完成卡车任务。然而镜头切换后，观众发现 Cybertruck 的轮胎在碎石上打滑，前方一根白绳暴露了真相：一辆福特 F-150 正在前面拖拽 Cybertruck 和船。视频以 Cybertruck 在 F-150 帮助下顺利上坡结束。",
+    "highlights_zh": [
+      "Cybertruck 拖船上坡视频走红",
+      "镜头切换后显示轮胎打滑",
+      "前方白绳暴露福特 F-150 在拖拽",
+      "Cybertruck 在 F-150 帮助下完成上坡"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Cybertruck",
+      "福特",
+      "F-150"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONYbJ/s1/man-spots-cybertruck-towing-a-boat.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:14.544Z"
+  },
+  "https://response.jp/article/2026/07/21/414273.html": {
+    "title_zh": "SBI 损保扩充车险个人主页，统一事故应对沟通",
+    "summary_short": "SBI 损保升级车险个人主页，新增事故沟通、保费试算及视频说明功能，提升客户体验。",
+    "summary_long": "SBI 损害保险对其汽车保险个人主页功能进行扩充，新增事故应对沟通、保费试算结果查看等功能。客户可通过主页了解事故处理流程、保险金支付步骤，并通过视频了解使用保险的利弊。2026 年 1 月已优化界面设计，提高操作性和可视性；4 月新增使用与不使用保险的未来保费对比功能。SBI 损保表示将继续根据客户反馈改进服务，减轻事故应对中的不安。",
+    "highlights_zh": [
+      "新增事故应对沟通功能",
+      "视频说明保险使用利弊",
+      "可比较使用/不使用保险的未来保费",
+      "界面优化提升操作性和可视性"
+    ],
+    "entities": [
+      "SBI 损保",
+      "汽车保险 | 自動車保険",
+      "个人主页 | マイページ",
+      "事故应对",
+      "保费试算"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229004.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229004.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:14.773Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545340": {
+    "title_zh": "WR-V 买 X、Z 还是 Z+？价格差与配置决定最佳版本",
+    "summary_short": "本田 WR-V 三款配置价格差达 40 万日元，X 版性价比高但外观朴素，Z 版质感升级更推荐。",
+    "summary_long": "本田 WR-V 作为入门 SUV，起售价 214.94 万日元，提供 X、Z、Z+三个版本。全系标配 1.5L 汽油发动机、CVT 变速箱、Honda SENSING 安全系统及 LED 大灯，但 X 版采用 16 英寸钢轮毂，外观质感较弱。Z 版比 X 贵 24.86 万日元，升级 17 英寸铝合金轮毂和内外饰细节，日常使用和转售价值更高。Z+版增加高级配置但性价比一般。综合考虑，Z 版是平衡价格与满意度的最佳选择。",
+    "highlights_zh": [
+      "全系标配 Honda SENSING 和 LED 大…",
+      "X 版价格最低但外观朴素",
+      "Z 版质感提升",
+      "Z+版配置过剩"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "WR-V",
+      "X",
+      "Z",
+      "Z+"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19145440/DSC0256.jpg?v=1781848481",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19145440/DSC0256-600x401.jpg?v=1781848481",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16110619/MG_2457_1-600x400.jpg?v=1784167580"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:19.459Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572616": {
+    "title_zh": "ZR-V 比缤智贵但满意度更高？本田 SUV 兄弟价格与实力差异",
+    "summary_short": "本田 ZR-V 与缤智价格差超 70 万日元，但尺寸、动力和质感更胜一筹，是否物有所值？",
+    "summary_long": "本田旗下两款 SUV——缤智（Vezel）与 ZR-V，虽同为 SUV 但定位不同。缤智紧凑灵活，价格亲民，e:HEV X FF 约 300 万日元；ZR-V 则更大更豪华，e:HEV X FF 约 371 万日元，差价达 70 万日元以上。ZR-V 在尺寸（长宽高均更大）、动力（2.0L 混动 vs 1.5L 混动）和高速稳定性上优势明显，但油耗较高（22 km/L vs 26 km/L）。选择取决于预算与使用场景：城市通勤选缤智，长途或追求质感选 ZR-V。",
+    "highlights_zh": [
+      "缤智 e:HEV X FF 约 300 万日元",
+      "ZR-V 尺寸更大",
+      "ZR-V 搭载 2.0L 混动",
+      "缤智油耗 26km/L"
+    ],
+    "entities": [
+      "缤智",
+      "ZR-V",
+      "e:HEV",
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16110619/MG_2457_1.jpg?v=1784167580",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16110619/MG_2457_1-600x400.jpg?v=1784167580",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15150855/8089e50294910c6cb163e5cb54ad137b-8-600x400.jpg?v=1784095736"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:19.624Z"
+  },
+  "https://response.jp/article/2026/07/21/414267.html": {
+    "title_zh": "阿斯顿·马丁发布军用 SUV Dreadnought，专为《使命召唤》打造",
+    "summary_short": "阿斯顿·马丁与动视合作，为《使命召唤：现代战争 4》推出数字限定军用 SUV Dreadnought，融合豪华与战术元素。",
+    "summary_long": "阿斯顿·马丁与游戏开发商 Infinity Ward 及发行商 Activision 合作，为《使命召唤：现代战争 4》设计了一款数字限定军用 SUV Dreadnought。该车融合了阿斯顿·马丁的高性能豪华基因与《使命召唤》的虚拟世界观，旨在提升沉浸式体验。Dreadnought 被描绘为一款战术四轮驱动 SUV，具备装甲外观、大型燃料箱等“攻击性全轮驱动”特征，并采用碳纤维人字形纹理、牛津棕皮革仪表盘和金属金色换挡杆等细节。名称“Dreadnought”意为“无所畏惧”，同时致敬 20 世纪初英国皇家海军无畏号战列舰。游戏内，该车可在 DMZ 和《使命召唤：战区》模式开始时部署至关键地点。",
+    "highlights_zh": [
+      "阿斯顿·马丁为《使命召唤》推出数字限定军用 SUV",
+      "融合豪华品牌 DNA 与游戏虚拟世界观",
+      "具备装甲外观、大型燃料箱等战术特征",
+      "游戏内可在 DMZ 和战区模式部署至关键地点"
+    ],
+    "entities": [
+      "阿斯顿·马丁",
+      "Dreadnought",
+      "《使命召唤：现代战争 4》 | Call of Duty: Modern Warfare 4",
+      "Infinity Ward",
+      "Activision"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228983.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228983.jpg",
+      "https://response.jp/imgs/fill2/2228984.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:24.177Z"
+  },
+  "https://response.jp/article/2026/07/21/414283.html": {
+    "title_zh": "碳纤维引擎盖如何改变汽车？不止轻量化的优点与陷阱",
+    "summary_short": "碳纤维引擎盖可减重、改善散热，但需注意雨水、耐久性和车检问题。",
+    "summary_long": "碳纤维或 FRP 制引擎盖，尤其是带散热孔的款式，有助于发动机舱散热和整车轻量化，但并非装上就能降温。散热孔需安装在负压区才能有效排出热空气，位置不当反而会导入热风。此外，雨水侵入、耐久性下降以及车检合规性也是改装前必须考虑的问题。",
+    "highlights_zh": [
+      "碳纤维引擎盖可大幅减重",
+      "散热孔需装在负压区才有效",
+      "需注意雨水侵入和耐久性",
+      "改装可能影响车检通过"
+    ],
+    "entities": [
+      "碳纤维",
+      "FRP",
+      "引擎盖",
+      "散热孔"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228921.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228921.jpg",
+      "https://response.jp/imgs/p/2lMgPWAa6QGqet-mNL0FG4RP30HRQkNERUZH/1862484.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:24.199Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559513": {
+    "title_zh": "丰田 Sienta：汽油版够用吗？与混动版的价格和油耗全面对比",
+    "summary_short": "丰田 Sienta 汽油版与混动版价差约 35 万日元，油耗差约 10km/L，年行驶里程少则汽油版更划算。",
+    "summary_long": "丰田 Sienta 的汽油版与混动版价差约 35 万日元，混动版油耗优势明显（WLTC 约 28km/L vs 18km/L），但汽油版动力更强（120ps vs 91ps），且购车成本低。若年行驶里程少、以城市通勤为主，汽油版性价比更高。",
+    "highlights_zh": [
+      "汽油版与混动版价差约 35 万日元",
+      "混动版油耗约 28km/L",
+      "汽油版发动机 120ps",
+      "年行驶少则汽油版更划算"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "シエンタ",
+      "汽油版",
+      "混动版",
+      "油耗"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02110346/1D_0826-1.jpg?v=1782957827",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02110346/1D_0826-1-600x400.jpg?v=1782957827",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16110619/MG_2457_1-600x400.jpg?v=1784167580"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:28.263Z"
+  },
+  "https://response.jp/article/2026/07/21/414263.html": {
+    "title_zh": "特斯拉开始 OTA 推送对话式 AI 助手“Grok”，理解自然语言并应答",
+    "summary_short": "特斯拉日本宣布通过 OTA 为车辆推送对话式 AI 助手 Grok，支持自然语言对话、知识问答、提醒及条件推荐等功能。",
+    "summary_long": "特斯拉日本于 7 月 21 日宣布，开始向对应车辆通过 OTA（无线软件更新）推送对话式 AI 助手“Grok”。用户无需前往服务中心或更换零件，在家停车时即可像更新手机应用一样为车辆添加新功能。传统车载语音操作主要依赖固定指令，而 Grok 能理解自然语言并进行对话。例如，当孩子因堵车感到无聊时，可要求 Grok 讲述趣闻或故事；到达超市前可设置牛奶提醒；甚至能根据“肚子饿、10 分钟内可达、有停车场且适合带孩子”等模糊条件推荐餐厅并设置导航。特斯拉表示，Grok 将改变车载体验，从操作导航和音响转变为拥有一个坐在副驾的能干助手，且已售车辆可通过网络后续获得此功能。",
+    "highlights_zh": [
+      "OTA 推送",
+      "理解自然语言对话",
+      "支持提醒、推荐等场景",
+      "改变车载交互体验"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Grok",
+      "OTA",
+      "对话式 AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228972.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228972.jpg",
+      "https://response.jp/imgs/fill2/2228974.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:28.755Z"
+  },
+  "https://response.jp/article/2026/07/21/414275.html": {
+    "title_zh": "丰田与宝马联合博世、雷普索尔在西班牙开展 100%可再生汽油 Nexa 95 实证测试",
+    "summary_short": "丰田、宝马、博世与雷普索尔在西班牙启动 6 个月实证，用 100%可再生汽油 Nexa 95 驱动现有车型，验证其可行性。",
+    "summary_long": "宝马集团、丰田汽车欧洲、博世与雷普索尔联合宣布，将于 2026 年 7 月在西班牙启动为期 6 个月的实证测试。测试将投入约 20 辆丰田和宝马现有车型，使用雷普索尔生产的 100%可再生汽油 Nexa 95，并借助博世的数字燃料追踪技术记录加油数据。该实证旨在验证可再生汽油在真实条件下的可用性、数字追踪与认证技术的成熟度，以及为仅使用合格燃料的车辆（VEEF）提供运营参考。",
+    "highlights_zh": [
+      "丰田、宝马、博世、雷普索尔联合实证",
+      "20 辆现有车型使用 100%可再生汽油 Nexa…",
+      "博世数字燃料追踪技术记录数据",
+      "验证可再生汽油市场可用性与认证技术"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "宝马 | BMW",
+      "博世",
+      "雷普索尔",
+      "Nexa 95"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229040.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229040.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:32.130Z"
+  },
+  "https://response.jp/article/2026/07/21/414274.html": {
+    "title_zh": "先锋将吸收合并东北先锋，10 月整合加速 CarUX 战略",
+    "summary_short": "先锋宣布吸收合并子公司东北先锋，整合后加速 CarUX 智能座舱战略，提升运营效率。",
+    "summary_long": "先锋（Pioneer）宣布与全资子公司东北先锋（Tohoku Pioneer）签订吸收合并协议，后者负责音响业务。合并生效日为 2026 年 10 月 1 日，先锋为存续公司，东北先锋解散。所有业务、合同由先锋继承。此举背景是先锋于 2025 年 12 月 1 日加入 CarUX Holding Limited，后者是智能座舱解决方案 Tier 1 供应商，隶属台湾群创光电（Innolux Corporation）。整合旨在加速 CarUX 战略，提升协同效应。",
+    "highlights_zh": [
+      "先锋吸收合并东北先锋",
+      "2026 年 10 月 1 日生效",
+      "加速 CarUX 智能座舱战略",
+      "先锋已加入 CarUX 集团"
+    ],
+    "entities": [
+      "先锋",
+      "东北先锋",
+      "CarUX Holding Limited",
+      "群创光电",
+      "智能座舱"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229033.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229033.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:32.153Z"
+  },
+  "https://response.jp/article/2026/07/21/414284.html": {
+    "title_zh": "本田股价小幅反弹，与中国大型企业合资合同延长 10 年",
+    "summary_short": "本田股价小幅反弹，因与中国大型企业的合资合同延长 10 年，市场反应积极。",
+    "summary_long": "本田股价在 21 日出现小幅反弹，此前公司宣布与中国大型企业的合资合同期限延长 10 年。这一消息提振了投资者信心，尽管整体市场受美股下跌和地缘政治紧张影响，但本田股价仍逆势上涨。",
+    "highlights_zh": [
+      "本田股价小幅反弹",
+      "合资合同延长 10 年",
+      "市场反应积极"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "中国大型企业"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229103.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229103.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:35.260Z"
+  },
+  "https://response.jp/article/2026/07/21/414255.html": {
+    "title_zh": "菲亚特 Topolino 运动特别版欧洲发布",
+    "summary_short": "菲亚特推出 Topolino 运动特别版，灵感源自 1958 年传奇车型 Nuova 500 Sport，提供四种配色与条纹组合。",
+    "summary_long": "菲亚特在欧洲发布了超小型电动车 Topolino 的“运动特别版”。该特别版从 1958 年传奇车型 Nuova 500 Sport 汲取灵感，以现代设计语言诠释大胆与运动精神，面向年轻一代。新车提供四种新颜色与三种条纹组合，搭配黑色大灯框、哑光黑轮毂、运动标识和黑色后视镜盖，突出运动与现代感。",
+    "highlights_zh": [
+      "灵感源自 1958 年 Nuova 500 Spor…",
+      "提供 4 种新颜色与 3 种条纹组合",
+      "黑色大灯框、哑光黑轮毂等运动细节",
+      "面向年轻一代的现代设计"
+    ],
+    "entities": [
+      "菲亚特",
+      "Topolino",
+      "Nuova 500 Sport",
+      "运动特别版"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228956.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228956.jpg",
+      "https://response.jp/imgs/fill2/2228957.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:35.456Z"
+  },
+  "https://bestcarweb.jp/newcar/1579681": {
+    "title_zh": "比亚迪海狸即将上市：续航 320km，标配双侧电滑门",
+    "summary_short": "比亚迪海狸（RACCO）7 月 28 日日本上市，续航 320km，标配双侧电滑门，冲击轻 EV 市场。",
+    "summary_long": "比亚迪海洋系列新车型海狸（RACCO）将于 7 月 28 日在日本上市，定位轻 EV 市场。该车续航里程达 320km，远超日产樱花和三菱 eK Cross EV 的 180km，并全系标配双侧电动滑门。海狸采用比亚迪磷酸铁锂（LFP）电池，安全性高、寿命长，有望成为日本轻 EV 市场的颠覆者。",
+    "highlights_zh": [
+      "续航 320km",
+      "全系标配双侧电滑门",
+      "采用磷酸铁锂电池",
+      "7 月 28 日日本上市"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "海狸",
+      "日产樱花 | Nissan Sakura",
+      "三菱 eK Cross EV | Mitsubishi eK Cross EV",
+      "磷酸铁锂电池"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14132814/75c140d3601436d9bf49d9f8aa3af58a-1.jpg?v=1784003295",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14132814/75c140d3601436d9bf49d9f8aa3af58a-1-600x450.jpg?v=1784003295",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/13152147/A35_2277_1-600x400.jpg?v=1783923708"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:39.334Z"
+  },
+  "https://bestcarweb.jp/feature/column/1579285": {
+    "title_zh": "夏季 BEV 续航真的会减少吗？空调导致电耗恶化与快充变慢的原因",
+    "summary_short": "夏季 BEV 因空调使用导致电耗增加，且高温下快充速度变慢，了解其原理有助于合理使用。",
+    "summary_long": "2026 年日本多款国产 BEV 上市，但夏季使用存在续航缩短和快充变慢的问题。空调消耗大量电能，高温使电池活性下降、充电功率受限，导致“电池热衰减”。本文解析了空调对电耗的影响以及快充变慢的机制。",
+    "highlights_zh": [
+      "夏季空调使 BEV 电耗显著增加",
+      "高温导致电池快充速度下降",
+      "电池热衰减是续航缩短主因",
+      "合理规划充电可缓解夏季焦虑"
+    ],
+    "entities": [
+      "BEV",
+      "空调",
+      "续航",
+      "快充",
+      "电池热衰减"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14103426/d74f3f6fb8c8acf3af5fbc2eb454245d.jpeg?v=1783992867",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14103426/d74f3f6fb8c8acf3af5fbc2eb454245d-600x400.jpeg?v=1783992867",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16110619/MG_2457_1-600x400.jpg?v=1784167580"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:39.603Z"
+  },
+  "https://www.motor1.com/news/802220/safelite-windshield-wipers/": {
+    "title_zh": "女子在 Safelite 更换挡风玻璃后雨刮器失灵",
+    "summary_short": "女子在 Safelite 更换挡风玻璃后雨刮器出现故障，一个月前已联系客服但未解决。",
+    "summary_long": "一名女子在 Safelite 更换挡风玻璃后，发现雨刮器无法正常工作，雨刮臂卡在奇怪的角度。她一个月前已通过邮件联系客服，但问题仍未解决。其他用户也报告了类似投诉。",
+    "highlights_zh": [
+      "雨刮器更换后无法正常工作",
+      "雨刮臂卡在倾斜角度",
+      "一个月前已联系客服未解决",
+      "其他用户也有类似投诉"
+    ],
+    "entities": [
+      "Safelite"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K0AN/s1/woman-gets-safelite-to-repair-windshield.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:42.900Z"
+  },
+  "https://www.motor1.com/news/802227/why-does-red-bull-hypercar-have-v10-interview-exclusive/": {
+    "title_zh": "专访：为什么红牛首款超跑必须搭载 V10 引擎",
+    "summary_short": "红牛 RB17 超跑搭载 Cosworth 定制 V10 引擎，转速达 15000 转，功率 1200 马力，无任何法规限制。",
+    "summary_long": "红牛 RB17 超跑由红牛先进技术公司打造，不受道路法规约束，工程团队得以自由设计。Cosworth 为其定制了 4.5 升自然吸气 V10 发动机，转速高达 15000 转/分，输出 1200 马力和 811 磅-英尺扭矩。Cosworth 总经理 Bruce Wood 表示，这是完全从零开始的设计，没有任何技术或排放法规限制，但这也让决策过程异常困难。",
+    "highlights_zh": [
+      "红牛 RB17 搭载 Cosworth 定制 V10…",
+      "4.5 升自然吸气",
+      "输出 1200 马力",
+      "无任何法规限制"
+    ],
+    "entities": [
+      "红牛 | Red Bull",
+      "RB17",
+      "Cosworth",
+      "V10 引擎",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0egjWp/s1/red-bull-rb17-prototype-blue.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:43.593Z"
+  },
+  "https://www.motor1.com/news/802267/vw-considered-range-extending-id-buzz/": {
+    "title_zh": "大众曾考虑为 ID. Buzz 增程",
+    "summary_short": "大众商用车负责人透露，曾考虑为 ID. Buzz 电动 MPV 增加汽油增程器，但因平台限制放弃。",
+    "summary_long": "大众商用车负责人 Stefan Mecha 透露，公司曾考虑为 ID. Buzz 电动 MPV 增加汽油发动机作为增程器，以缓解续航焦虑。但 MEB 平台专为纯电设计，短前悬无法容纳内燃机，最终因空间限制放弃。ID. Buzz 2025 年全球销量 6.07 万辆，但美国市场仅售 6140 辆，导致 2026 年款取消，2027 年款将回归。",
+    "highlights_zh": [
+      "曾考虑汽油增程方案",
+      "MEB 平台无空间容纳发动机",
+      "美国市场销量不佳",
+      "2026 年款取消"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID. Buzz",
+      "MEB 平台",
+      "增程式电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbYmBb/s1/2025-volkswagen-id.buzz-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:46.367Z"
+  },
+  "https://insideevs.com/news/802268/polestar-us-ban-no-appeal-dealers/": {
+    "title_zh": "极星放弃上诉美国禁令，经销商面临困境",
+    "summary_short": "极星决定不挑战美国禁令，将退出美国市场，经销商面临库存清空后的困境。",
+    "summary_long": "极星宣布不会对美国政府的销售禁令提出上诉，这意味着该品牌将退出美国市场。禁令针对 2027 年及以后车型，极星将继续销售现有库存，但库存清空后将停止在美运营。极星表示已与美国当局进行“重要对话”，认为上诉无望，因此将重心转向其他市场。此举使美国经销商面临库存清空后的业务中断问题。",
+    "highlights_zh": [
+      "极星放弃上诉美国禁令",
+      "2027 年及以后车型被禁售",
+      "继续销售现有库存后退出",
+      "经销商面临业务中断"
+    ],
+    "entities": [
+      "极星",
+      "吉利",
+      "沃尔沃",
+      "美国市场",
+      "销售禁令"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZE2QA/s1/polestar-3-u.s.-production.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:47.442Z"
+  },
+  "https://www.motor1.com/news/802252/vw-secretly-built-truck-based-suv/": {
+    "title_zh": "大众曾秘密打造基于 Amarok 的 SUV，未来或再尝试",
+    "summary_short": "大众商用车负责人透露，曾基于初代 Amarok 开发七座非承载式 SUV，但因市场担忧未量产。第三代 Amarok 预计 2030 年推出，可能衍生 SUV 版本。",
+    "summary_long": "大众商用车负责人 Stefan Mecha 透露，公司曾秘密基于初代 Amarok 皮卡开发一款七座非承载式 SUV（内部称为“Amarok wagon”），但因高层担心销量不足而未能量产。尽管澳大利亚市场前景看好，但单一市场不足以支撑项目规模化。不过，大众内部从未放弃这一想法，第三代 Amarok（约 2030 年推出）可能再次考虑衍生 SUV 车型。",
+    "highlights_zh": [
+      "大众曾秘密开发 Amarok SUV 版",
+      "因销量担忧未能量产",
+      "第三代 Amarok 或衍生 SUV"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "Amarok",
+      "福特",
+      "非承载式 SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGYxN/s1/vw-amarok-double-cab.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:50.171Z"
+  },
+  "https://insideevs.com/news/802258/plug-in-balcony-solar-microinverter-ul-certified/": {
+    "title_zh": "美国首款 UL 认证插接式阳台太阳能微型逆变器问世",
+    "summary_short": "Hoymiles HiFlow Pro 成为美国首款通过 UL 3700 安全标准的插接式阳台太阳能微型逆变器，可直接插入 120 伏插座。",
+    "summary_long": "Hoymiles HiFlow Pro 是美国首款获得 UL 3700 认证的插接式太阳能微型逆变器，适用于阳台太阳能板。它可直接插入 120 伏家用插座，将太阳能转化为电能，减少电网使用并降低电费。该设备内置安全机制，在电网断电时自动切断电源以保护线路工人，并在断开连接后 1 秒内将输出电压降至 34V 以下。其外壳达到 NEMA Type 6 和 IP67 防护等级，可在-40°F 至 149°F 环境下户外安装。单个逆变器额定功率 360 瓦，动态效率 95.5%，静态效率 99.8%。",
+    "highlights_zh": [
+      "首款 UL 3700 认证插接式微型逆变器",
+      "直接插入 120 伏插座",
+      "断电后 1 秒内电压降至 34V 以下",
+      "IP67 防护"
+    ],
+    "entities": [
+      "Hoymiles HiFlow Pro",
+      "UL 3700",
+      "阳台太阳能板",
+      "微型逆变器"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEK8J/s1/hoymiles-hiflow-pro-solar-microinverter.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-21T15:19:51.204Z"
   }
 }
