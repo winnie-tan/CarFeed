@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-22T03:43:10.611Z",
+    "generated_at": "2026-07-22T15:18:11.397Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 370,
-    "deepseek_untranslated_before_run": 30,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 30,
+    "deepseek_translated_before_run": 369,
+    "deepseek_untranslated_before_run": 31,
+    "newly_fetched_articles": 35,
+    "newly_fetched_untranslated": 31,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 30,
+    "translation_queue_count": 31,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.7.22",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第815回",
-        "url": "https://bestcarweb.jp/feature/column/1562992"
+        "title": "Those Huge Truck Stop Signs Have A Lift Inside—And This Poor Guy Got Stuck In One",
+        "url": "https://www.thedrive.com/news/those-huge-truck-stop-signs-have-a-lift-inside-and-this-poor-guy-got-stuck-in-one"
       },
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.22",
-        "title": "ENEOSとドイツGEF1、合成燃料の日本初輸入に向け戦略的協業を開始",
-        "url": "https://response.jp/article/2026/07/22/414294.html"
+        "title": "Range Rover is Making a Car",
+        "url": "https://www.thedrive.com/news/range-rover-is-making-a-car"
       },
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.7.22",
-        "title": "EVとハイブリッドの両方を用意したレクサスの安心感がスゴい！ 新型ESの全貌から見えてくるセダン復権の可能性！",
-        "url": "https://bestcarweb.jp/feature/column/1582709"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "アウディの新型EVセダン『A6 eトロン』、安全性で最高評価の5つ星…米NHTSA",
-        "url": "https://response.jp/article/2026/07/22/414287.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "アルカンターラ、BMWの新型電動SUV『iX5』などに採用されて展示…グッドウッド 2026",
-        "url": "https://response.jp/article/2026/07/22/414293.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "ウーバー、Delivery Heroに買収提案…世界99市場にフードデリバリー事業拡大へ",
-        "url": "https://response.jp/article/2026/07/22/414304.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "ウェットブラスト装置のマコー、「こどもシゴト博2026 in 長岡」に出展…7月26日開催",
-        "url": "https://response.jp/article/2026/07/22/414306.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "シエンタは5人乗りこそ本命か？ 3列目なしで荷室が広い“道具系ミニバン”の実力",
-        "url": "https://bestcarweb.jp/feature/column/1559274"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "ジョイフル観光、京都営業所を開設…インバウンド需要に対応し関西エリアのバス手配を強化",
-        "url": "https://response.jp/article/2026/07/22/414298.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "デンカ、特殊ゴム「デンカER」事業から撤退へ…EV化で需要拡大見込めず",
-        "url": "https://response.jp/article/2026/07/22/414302.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "デンソーやアステモなど7社と戦略的顧客契約、自動車向けメモリ供給で…米マイクロン",
-        "url": "https://response.jp/article/2026/07/22/414295.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "トヨタ『ランドクルーザー60』、角目の「ボディタイプ2」追加…京商「KC10」1/10電動クローラーに",
-        "url": "https://response.jp/article/2026/07/22/414305.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "トヨタ自動車の近健太社長ってどんな人？ 経理出身でお金に明るいがクルマも大好き！ 86でサイドターンをきめるべく目下特訓中!?",
-        "url": "https://bestcarweb.jp/feature/column/1584627"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "ベクター・ジャパン、自動車テスト手法の講演などを予定…EdgeTech+ West 2026",
-        "url": "https://response.jp/article/2026/07/22/414299.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "上品顔ならこれが正解!? フリード エアースペリオールスタイルは買いか？",
-        "url": "https://bestcarweb.jp/feature/column/1568534"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "商用車感は完全消滅!? 最新改良でデジタルメーターと黒内装を手に入れたエブリイがカッコよすぎる件",
-        "url": "https://bestcarweb.jp/feature/column/1576783"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.21",
-        "title": "I Sat In The New Electric Range Rover GT. It Skips A Big Thing I Hate In Luxury EVs",
-        "url": "https://insideevs.com/news/802286/range-rover-gt-electric-ev-interior/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.21",
-        "title": "BYD Wants To Take the World's Fastest Car Record... From Itself",
-        "url": "https://insideevs.com/news/802361/byd-wants-break-speed-record/"
+        "title": "The Ancient Dodge Durango Just Had Its Best First-Half Sales in 20 Years: TDS",
+        "url": "https://www.thedrive.com/news/the-ancient-dodge-durango-just-had-its-best-first-half-sales-in-20-years-tds"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.21",
-        "title": "This New Italian Supercar Turns A Porsche 911 Into An 800-HP Custom Machine",
-        "url": "https://www.motor1.com/news/802360/italian-supercar/"
+        "time": "2026.7.22",
+        "title": "Rezvani's New Off-Road Supercar Makes The Huracan Sterrato Look Tame",
+        "url": "https://www.motor1.com/news/802280/2028-rezvani-dune-specs-details-photos/"
       },
       {
-        "source": "InsideEVs",
-        "time": "2026.7.21",
-        "title": "EVs Just Hit 25% Market Share In Europe",
-        "url": "https://insideevs.com/news/802351/europe-ev-sales-half-year/"
+        "source": "Motor1",
+        "time": "2026.7.22",
+        "title": "The Nation's Largest Tire Retailer Just Got Bigger: Mavis Tire Buys Pep Boys",
+        "url": "https://www.motor1.com/news/802429/mavis-tire-buys-pep-boys/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.22",
+        "title": "Acura's Biggest SUV Yet Could Be On The Way: Report",
+        "url": "https://www.motor1.com/news/802355/acura-three-row-flagship-hybrid-suv-rumor/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "「LAND CRUISER OFFICIAL ITEMS」、新作を7月24日発売…『ランドクルーザーFJ』Tシャツも",
+        "url": "https://response.jp/article/2026/07/22/414317.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "「クロスオーバー機能」の力を借りてスピーカーを鳴らし切る！［イン・カー・リスニング学…チューニング編］",
+        "url": "https://response.jp/article/2026/07/22/414333.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "『アスラーダG.S.X RS SIREN』、プレミアムバンダイで予約開始…アニメ『新世紀GPXサイバーフォーミュラ』放映35周年記念",
+        "url": "https://response.jp/article/2026/07/22/414322.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "【スズキ エブリイワゴン 新型試乗】変わったのは“顔”のみにあらず！「新しいエブリイはワゴン一択！」と申し上げたい",
+        "url": "https://response.jp/article/2026/07/22/414336.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "1153馬力超え「モンスターEV」をスクープ！ メルセデスAMG『GT4ドアクーペ』にさらなる高性能仕様か",
+        "url": "https://response.jp/article/2026/07/22/414329.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "BMWの新点火技術「Mイグナイト」、今夏から全てのM直列6気筒エンジンに搭載",
+        "url": "https://response.jp/article/2026/07/22/414313.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.22",
+        "title": "BYDシーライオン7が販売2000台!! 20台だけの記念限定車が登場!!",
+        "url": "https://bestcarweb.jp/news/1582668"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.22",
+        "title": "RV全盛期になぜクーペが頂点に!? 三菱FTOがデビュー直後にCOTYを獲った納得の理由",
+        "url": "https://bestcarweb.jp/feature/column/1579404"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "SHOEIのピュアスポーツフルフェイス『Z-9』に新グラフィック「バーンサイド」が登場",
+        "url": "https://response.jp/article/2026/07/22/414334.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.22",
+        "title": "Woman Leaves 1-Star Review For Nissan Dealership. Then The General Manager Fights Back",
+        "url": "https://www.motor1.com/news/802364/nissan-dealership-attacks-small-business/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.22",
+        "title": "アウトドア派はヴェゼルHuNTパッケージを選べ！ 撥水シートとルーフレールがもたらす抜群の使い勝手をガチ評価",
+        "url": "https://bestcarweb.jp/feature/column/1573893"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.22",
+        "title": "イーソルテクノロジーフォーラム 2026、AIディファインドビークルの本質と、それを支えるSDXプラットフォームの未来",
+        "url": "https://response.jp/article/2026/07/22/414325.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.22",
+        "title": "カローラ ツーリング60周年記念車は買いか？ アクティブスポーツの特別感と価格をチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1548170"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.22",
+        "title": "シエンタは“子育て卒業後”にもアリ？ 夫婦2人＋荷物で使う5人乗りミニバン",
+        "url": "https://bestcarweb.jp/feature/column/1559561"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29889145921",
-    "sha": "aac774220df1133507980a54e16e5a26bcf25208",
-    "completed_at": "2026-07-22T03:44:08.259Z",
+    "run_id": "29932679809",
+    "sha": "1d45bcf73856fef0f1159e81d66e586e7a0b0d98",
+    "completed_at": "2026-07-22T15:19:18.546Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 30,
-    "queued_articles": 30,
-    "processed": 30,
-    "started_at": "2026-07-22T03:43:10.953Z",
-    "finished_at": "2026-07-22T03:44:07.975Z",
+    "scoped_articles": 31,
+    "queued_articles": 31,
+    "processed": 31,
+    "started_at": "2026-07-22T15:18:11.742Z",
+    "finished_at": "2026-07-22T15:19:18.240Z",
     "success": true,
     "error": ""
   }

@@ -85080,5 +85080,737 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-22T03:44:07.950Z"
+  },
+  "https://www.thedrive.com/news/those-huge-truck-stop-signs-have-a-lift-inside-and-this-poor-guy-got-stuck-in-one": {
+    "title_zh": "卡车休息站巨型招牌内藏升降机，一维修工被困近 6 小时",
+    "summary_short": "卡车休息站巨型招牌内部设有升降机，一名维修工因故障被困 130 英尺高处近 6 小时，最终获救。",
+    "summary_long": "伊利诺伊州威尔明顿市一处 Petro 购物中心招牌高达 130 英尺，内部设有升降机供维修使用。一名维修工周二上午 11:30 使用升降机到达顶部后，发现无法下降，随即求救。当地消防部门因云梯仅 100 英尺长，无法直接救援，直到下午 4 时才将其救出。工人未受伤，情绪稳定，甚至向新闻直升机竖大拇指。",
+    "highlights_zh": [
+      "招牌高 130 英尺",
+      "维修工被困近 6 小时",
+      "消防云梯仅 100 英尺",
+      "工人获救时状态良好"
+    ],
+    "entities": [
+      "Petro",
+      "Wilmington",
+      "Interstate 55"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/gas-sign-dude.jpg",
+      "https://i.ytimg.com/vi/OyQ_8RIph5M/hqdefault.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:15.279Z"
+  },
+  "https://www.thedrive.com/news/range-rover-is-making-a-car": {
+    "title_zh": "路虎揽胜 GT：最像轿车的揽胜",
+    "summary_short": "路虎推出全新揽胜 GT，一款电动大型 GT 轿跑，号称最像轿车的揽胜，兼具长途舒适与全地形能力。",
+    "summary_long": "路虎发布了全新揽胜 GT，这是一款基于 EMA 电动平台打造的纯电大型 GT 轿跑，将在英国哈利伍德工厂生产。该车被官方称为“有史以来最像轿车的揽胜”，强调长途行驶的精致感与全地形能力，同时保留揽胜家族的设计语言。揽胜 GT 将提供电动、燃油和混动多种动力选择，旨在重新定义 GT 细分市场。",
+    "highlights_zh": [
+      "首款电动揽胜",
+      "官方称其为最像轿车的揽胜",
+      "兼具长途舒适与全地形能力",
+      "提供电动、燃油、混动多种动力"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "揽胜 GT | Range Rover GT",
+      "揽胜 Velar",
+      "EMA 平台",
+      "电动 GT"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Range-Rover-GT-in-motion-hero1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Range-Rover-GT-EXT-RR_GT_FRONT-PROFILE.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Range-Rover-GT-EXT-RR_GT_REAR_EXTERIOR.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:16.133Z"
+  },
+  "https://www.thedrive.com/news/the-ancient-dodge-durango-just-had-its-best-first-half-sales-in-20-years-tds": {
+    "title_zh": "老当益壮：道奇 Durango 上半年销量创 20 年新高",
+    "summary_short": "第三代道奇 Durango 虽已 15 岁，但凭借低价和 V8 动力，上半年销量达 38,575 辆，创 20 年来最佳。",
+    "summary_long": "第三代道奇 Durango 已上市 15 年，但 Stellantis 通过聚焦低价和 V8 发动机的策略，使其焕发新生。2026 年上半年，该车型销量达 38,575 辆，创下自 2006 年以来最佳上半年销售纪录。这一成绩表明，在电动化浪潮中，传统大排量 SUV 仍有市场需求。",
+    "highlights_zh": [
+      "第三代道奇 Durango 已 15 岁",
+      "上半年销量 38",
+      "创 20 年来最佳上半年成绩",
+      "低价+V8 策略提振销售"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "Durango",
+      "Stellantis",
+      "V8 发动机"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DG027_003DU-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/06/GettyImages-2275209306-copy.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:18.586Z"
+  },
+  "https://www.motor1.com/news/802280/2028-rezvani-dune-specs-details-photos/": {
+    "title_zh": "Rezvani Dune：比 Huracan Sterrato 更狂野的越野超跑",
+    "summary_short": "Rezvani 基于兰博基尼 Huracan 打造越野超跑 Dune，碳纤维宽体、4.5 英寸悬架升高、31 英寸轮胎，机械增压 V10 输出 800 马力。",
+    "summary_long": "Rezvani Motors 将兰博基尼 Huracan 彻底改造为名为 Dune 的越野超跑，其夸张程度远超 Huracan Sterrato 和保时捷 911 Dakar。全碳纤维宽体车身、4.5 英寸悬架升高、31 英寸全地形轮胎，配合 VF Engineering 机械增压 V10 发动机，输出 800 马力。Dune 不仅外观狂野，性能也极为强悍，堪称终极全地形超跑。",
+    "highlights_zh": [
+      "全碳纤维宽体车身",
+      "悬架升高 4.5 英寸",
+      "31 英寸全地形轮胎",
+      "机械增压 V10"
+    ],
+    "entities": [
+      "Rezvani",
+      "兰博基尼 Huracan",
+      "Huracan Sterrato",
+      "VF Engineering"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2lbnk/s1/rezvani-dune.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:20.143Z"
+  },
+  "https://www.motor1.com/news/802429/mavis-tire-buys-pep-boys/": {
+    "title_zh": "美国最大轮胎零售商 Mavis Tire 收购 Pep Boys",
+    "summary_short": "Mavis Tire 以 7 亿美元收购 Pep Boys，新增近 800 家门店，巩固北美最大轮胎零售商地位。",
+    "summary_long": "美国最大轮胎零售商 Mavis Tire 宣布以约 7 亿美元现金从 Icahn Automotive Group 收购 Pep Boys。此次收购将为 Mavis 新增近 800 家服务门店，覆盖美国及波多黎各。结合旗下已有品牌如 Midas、NTB、Tire Kingdom 等，Mavis 进一步巩固其作为北美最大汽车服务及轮胎零售商之一的地位。该交易还旨在加强 Mavis 在美国西部的影响力，Pep Boys 在该地区拥有长期稳固的市场基础。",
+    "highlights_zh": [
+      "Mavis Tire 以 7 亿美元收购 Pep B…",
+      "新增近 800 家服务门店",
+      "巩固北美最大轮胎零售商地位",
+      "加强美国西部市场布局"
+    ],
+    "entities": [
+      "Mavis Tire",
+      "Pep Boys",
+      "Icahn Automotive Group",
+      "Midas",
+      "NTB"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMz6n4/s1/mavis-buys-pep-boys.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:22.000Z"
+  },
+  "https://www.motor1.com/news/802355/acura-three-row-flagship-hybrid-suv-rumor/": {
+    "title_zh": "讴歌最大 SUV 或将到来：旗舰三排座混动车型",
+    "summary_short": "讴歌计划推出全新三排座旗舰 SUV，定位高于 MDX，搭载本田新混动系统，预计 2029 年投产。",
+    "summary_long": "据 Automotive News 报道，讴歌正在开发一款全新三排座旗舰 SUV，定位高于现款 MDX，内部代号或为“Acura XL”。该车将搭载本田新开发的 V6 混动系统，而非纯电动，强调强劲性能与高牵引能力。新车将在阿拉巴马州林肯工厂生产，年产能约 4 万辆，竞争对手包括雷克萨斯 TX 等豪华家庭 SUV。尽管讴歌近期停产了 RDX 和 TLX 等车型，但 2026 上半年销量仍同比增长 1.9%。",
+    "highlights_zh": [
+      "全新三排座旗舰 SUV",
+      "搭载本田新 V6 混动系统",
+      "2029 年 9 月投产",
+      "对标雷克萨斯 TX 等豪华 SUV"
+    ],
+    "entities": [
+      "讴歌 | Acura",
+      "MDX",
+      "雷克萨斯 | Lexus",
+      "TX"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zw7VM/s1/acura-precision-ev-concept.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:23.800Z"
+  },
+  "https://response.jp/article/2026/07/22/414317.html": {
+    "title_zh": "LAND CRUISER 官方周边新品 7 月 24 日发售，含 FJ T 恤",
+    "summary_short": "丰田旗下品牌推出 LAND CRUISER 官方周边新品，包括 FJ T 恤等 8 款，7 月 24 日起发售。",
+    "summary_long": "丰田·科尼克·普罗将于 7 月 24 日发售“LAND CRUISER OFFICIAL ITEMS”系列 8 款新品，包括以兰德酷路泽 FJ 为设计主题的 T 恤、电动个人移动工具“LAND HOPPER”主题的腰包和棒球帽等，主打夏秋户外出行场景。作为兰德酷路泽 75 周年项目的一部分，部分限定商品将在丰田经销店、活动及快闪店销售。快闪店将在横滨高岛屋（7 月 15 日-26 日）和冈山高岛屋（7 月 31 日-8 月 9 日）举办。",
+    "highlights_zh": [
+      "8 款新品 7 月 24 日起发售",
+      "含兰德酷路泽 FJ T 恤等",
+      "75 周年限定项目同步展开",
+      "横滨、冈山高岛屋设快闪店"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽 | Land Cruiser",
+      "兰德酷路泽 FJ",
+      "LAND HOPPER"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229232.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229232.jpg",
+      "https://response.jp/imgs/fill2/2229236.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:26.531Z"
+  },
+  "https://response.jp/article/2026/07/22/414333.html": {
+    "title_zh": "借助分频功能让扬声器尽情发挥！车内聆听学·调音篇",
+    "summary_short": "本文讲解汽车音响调音中 DSP 的分频功能，如何为多路扬声器分配频段以优化车内音质。",
+    "summary_long": "本连载全方位讲解车内享受好声音的技巧与理论，当前为调音篇。车内存在多种声学不利因素，调音的优劣决定音质好坏。调音的核心设备是 DSP（数字信号处理器），虽然主机常内置简易 DSP，但发烧友多采用外置高性能 DSP 以实现精细调音。本文聚焦分频功能，该功能用于为多路扬声器分配播放频段。",
+    "highlights_zh": [
+      "DSP 是调音核心设备",
+      "外置 DSP 性能更高",
+      "分频功能分配扬声器频段",
+      "车内声学不利因素需调音应对"
+    ],
+    "entities": [
+      "DSP",
+      "分频功能",
+      "扬声器",
+      "调音",
+      "车内聆听"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228937.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228937.jpg",
+      "https://response.jp/imgs/fill2/2228938.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:27.341Z"
+  },
+  "https://response.jp/article/2026/07/22/414322.html": {
+    "title_zh": "《新世纪 GPX》35 周年纪念：阿斯拉达 G.S.X RS SIREN 开启预约",
+    "summary_short": "为纪念《新世纪 GPX》动画 35 周年，Premium Bandai 推出阿斯拉达 G.S.X RS SIREN 模型，售价 55550 日元，2027 年 2 月发货。",
+    "summary_long": "为纪念《新世纪 GPX》动画播出 35 周年，Premium Bandai 开启“Variable Action Hi-SPEC UNITED 新世纪 GPX 阿斯拉达 G.S.X RS SIREN”预约。该模型由 MegaHouse 出品，售价 55550 日元（含税），全长约 255mm，为彩色完成品，支持完全变形和 LED 发光，预计 2027 年 2 月配送。商品名由动画总导演福田己津央命名，配色灵感来自阿斯拉达 G.S.X 首次试跑场景，采用哑光色，精密造型还原实车质感。",
+    "highlights_zh": [
+      "Premium Bandai 开启 35 周年纪念模…",
+      "售价 55550 日元",
+      "全长 255mm",
+      "总导演福田己津央亲自命名"
+    ],
+    "entities": [
+      "Premium Bandai",
+      "阿斯拉达 G.S.X RS SIREN | Asurada G.S.X RS SIREN",
+      "新世纪 GPX",
+      "MegaHouse",
+      "福田己津央"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229256.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229256.jpg",
+      "https://response.jp/imgs/fill2/2229257.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:30.774Z"
+  },
+  "https://response.jp/article/2026/07/22/414336.html": {
+    "title_zh": "铃木 Every Wagon 新款试驾：改变的不只是前脸",
+    "summary_short": "铃木 Every Wagon 新款不仅前脸焕新，内饰与安全配置大幅升级，ADAS 系统更新为 DSBS II，标配自适应巡航等。",
+    "summary_long": "铃木 Every Wagon 于 2026 年 5 月进行改良，最大变化是搭载最新双传感器制动支持 II（DSBS II），包含毫米波雷达，实现自行车检测等功能。内饰设计刷新，自适应巡航控制等装备成为标配。前脸增加黑色网状格栅以隐藏雷达，保险杠设计同步更新。此次升级使铃木国内自产车全部完成 DSBS II 搭载。",
+    "highlights_zh": [
+      "前脸新增毫米波雷达",
+      "ADAS 升级为 DSBS II",
+      "内饰设计全面刷新",
+      "自适应巡航控制成为标配"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "铃木 Every Wagon",
+      "DSBS II",
+      "自适应巡航控制"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228347.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228346.jpg",
+      "https://response.jp/imgs/fill2/2228346.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:31.122Z"
+  },
+  "https://response.jp/article/2026/07/22/414329.html": {
+    "title_zh": "梅赛德斯-AMG GT4 四门轿跑 EV 高性能版曝光，超 1153 马力",
+    "summary_short": "梅赛德斯-AMG GT4 四门轿跑 EV 高性能版原型车曝光，搭载 AMG.EA 平台，最大功率超 1153 马力，配备激进空气动力学套件。",
+    "summary_long": "梅赛德斯-AMG 正在开发 GT4 四门轿跑 EV 的高性能版本，最新原型车已开始路试。该车基于 GT63 打造，但配备了更大的前分流器、发动机盖出风口、大型固定尾翼和高位扰流板，空气动力学设计更为激进。新车采用 AMG 专属的 AMG.EA 电动平台，搭载 106kWh 电池组和英国 Yasa 制造的轴向磁通电机，相比传统径向电机具有更高功率、效率和轻量化优势。目前已知 GT55 为三电机，最大功率 805 马力，峰值扭矩 1798 牛·米，0-96km/h 加速约 2.7 秒；GT63 则达到 1153 马力、1998 牛·米，0-96km/h 加速约 2.3 秒。此次曝光的高性能版预计将超越 GT63 的性能水平。",
+    "highlights_zh": [
+      "原型车配备大型尾翼和激进空力套件",
+      "采用 AMG.EA 平台和 Yasa 轴向磁通电机",
+      "GT63 已有 1153 马力"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "GT4 四门轿跑 | GT4 4-Door Coupe",
+      "AMG.EA",
+      "Yasa"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228815.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228815.jpg",
+      "https://response.jp/imgs/fill2/2228793.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:35.588Z"
+  },
+  "https://response.jp/article/2026/07/22/414313.html": {
+    "title_zh": "宝马新点火技术“M Ignite”今夏起搭载于所有 M 直列六缸发动机",
+    "summary_short": "宝马今夏起为所有 M 系列直列六缸发动机搭载专利副燃烧室点火系统“M Ignite”，源自赛车技术，可大幅降低高负荷油耗并满足欧 7 排放标准。",
+    "summary_long": "宝马宣布，从 2026 年夏季开始，将逐步为所有 M 系列直列六缸发动机搭载新开发的“BMW M Ignite”点火系统。该系统是宝马获得专利的副燃烧室点火技术，源自赛车运动，能够显著降低高负荷工况下的燃油消耗，同时有助于满足严苛的欧 7 排放法规。M3 和 M4 全系车型将于 7 月率先搭载，M2 则从 8 月起跟进，发动机排量和最大功率保持不变。",
+    "highlights_zh": [
+      "宝马 M 系列直列六缸发动机将搭载新点火系统“M I…",
+      "副燃烧室点火技术源自赛车",
+      "有助于满足欧 7 排放标准",
+      "M3/M4 7 月、M2 8 月起搭载"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "BMW M3",
+      "BMW M4",
+      "BMW M2",
+      "M Ignite"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229214.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229214.jpg",
+      "https://response.jp/imgs/fill2/2229215.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:36.142Z"
+  },
+  "https://bestcarweb.jp/news/1582668": {
+    "title_zh": "比亚迪海狮 07 累计销售 2000 台，推出 20 台纪念限定版",
+    "summary_short": "比亚迪海狮 07 更新规格并调价，为纪念累计销售 2000 台推出 20 台限定版。",
+    "summary_long": "比亚迪日本公司于 2026 年 7 月 14 日宣布，电动 SUV“BYD SEALION 7”系列进行部分规格升级并调整售价。同时，为纪念该车型在日本市场累计注册量突破 2000 台，推出仅 20 台的特别限定版“BYD SEALION 7 Limited”。SEALION 7 于 2025 年 4 月上市，是比亚迪乘用车的旗舰 BEV，提供后驱和四驱两种版本，凭借高性能电动系统、先进安全配置和时尚设计赢得市场。此次升级主要提升日常使用便利性。",
+    "highlights_zh": [
+      "比亚迪海狮 07 累计销售 2000 台",
+      "推出 20 台纪念限定版",
+      "规格升级并调整售价",
+      "成为比亚迪在日本最畅销车型"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "海狮 07 | SEALION 7",
+      "日本市场",
+      "电动 SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17165824/03fb91f4d2e9572948edbb14364c1ff1.jpg?v=1784275106",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17165824/03fb91f4d2e9572948edbb14364c1ff1-600x327.jpg?v=1784275106",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17172050/1e019ea6c310d655991feef6b223c194-600x338.jpg?v=1784276452"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:40.151Z"
+  },
+  "https://bestcarweb.jp/feature/column/1579404": {
+    "title_zh": "三菱 FTO：RV 全盛期为何能凭轿跑夺得日本年度车？",
+    "summary_short": "1994 年三菱 FTO 在 RV 热潮中逆势夺得日本年度车大奖，凭借独特设计、强劲 MIVEC 发动机和出色操控赢得认可。",
+    "summary_long": "1994 年推出的三菱 FTO 在 SUV 和 MPV 主导的 RV 全盛时期，凭借 2 门轿跑造型和出色性能，上市仅 2 个月便夺得 1994-1995 日本年度车大奖。其设计灵感源自“Fresh Touring Origination”，基于 Mirage/Lancer 平台打造，拥有宽短比例和动感线条。动力提供 1.8L 直四、2.0L V6 及带 MIVEC 技术的 2.0L V6（200 马力），后者升功率达 100 马力，高转特性令人印象深刻。FTO 的成功证明了即使在实用车型主导的市场，纯粹驾驶乐趣仍能打动人心。",
+    "highlights_zh": [
+      "RV 全盛期唯一夺得日本年度车的轿跑",
+      "上市仅 2 个月即获 COTY 大奖",
+      "MIVEC 发动机升功率达 100 马力",
+      "宽短车身与动感设计吸引眼球"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "FTO",
+      "日本年度车 | COTY",
+      "MIVEC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14113709/c6e19b14ed4e185cc728e379f5aa6c03.jpg?v=1783996630",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14113709/c6e19b14ed4e185cc728e379f5aa6c03-600x359.jpg?v=1783996630",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16115645/DSC2700-600x400.jpg?v=1784170607"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:41.556Z"
+  },
+  "https://www.motor1.com/news/802364/nissan-dealership-attacks-small-business/": {
+    "title_zh": "女子给日产经销商打一星差评，总经理反击",
+    "summary_short": "佛罗里达女子因不满购车体验给日产经销商一星差评，随后遭总经理线上报复，对其小企业刷负面评价。",
+    "summary_long": "佛罗里达州迈尔斯堡的室内装潢商 Tiffany Maillet 指控 Cape Coral 日产经销商总经理欺凌她。Maillet 和丈夫购买日产货车后发现车辆需要多项维修，包括更换变速箱。她给经销商留下了一星差评，随后总经理在 Google 上对她的企业 RT Upholstery 发布负面评价。Maillet 在 TikTok 上发布视频讲述经历，获得超过 120 万次观看。",
+    "highlights_zh": [
+      "女子购车后发现问题",
+      "经销商总经理报复",
+      "TikTok 视频获 120 万次观看"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Cape Coral",
+      "RT Upholstery",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Mkgz4X/s1/man-leaves-1-star-review-for-nissan-dealership.-then-the-general-manager-fights-back.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/screenshot-2026-07-21-171334.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:45.477Z"
+  },
+  "https://response.jp/article/2026/07/22/414334.html": {
+    "title_zh": "SHOEI Z-9 纯运动全盔新花色“BURNSIDE”登场",
+    "summary_short": "SHOEI Z-9 纯运动全盔新增“BURNSIDE”花色，融合未来与复古感，10 月发售，售价 85800 日元。",
+    "summary_long": "SHOEI 为旗下纯运动全盔 Z-9 推出全新花色“BURNSIDE”，设计上以左侧偏移的粗线条和环绕品牌标志的细线构成，融合未来感与复古风格。提供红/白、黄/黑、黑/白、白/红四种配色。Z-9 继承 Z 系列轻量紧凑特点，优化空气动力学，升力降低约 13%，阻力降低约 3%，通风性能提升，上部进气量增至 1.9 倍，下部增至 1.4 倍。配备 CWR-F2 镜片、加大镜片锁按钮及紧急快速释放系统。含税价 85800 日元，10 月上市。",
+    "highlights_zh": [
+      "新花色“BURNSIDE”融合未来与复古感",
+      "四种配色可选：红/白、黄/黑、黑/白、白/红",
+      "空气动力学优化：升力-13%",
+      "通风性能大幅提升"
+    ],
+    "entities": [
+      "SHOEI",
+      "Z-9",
+      "BURNSIDE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229249.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229249.jpg",
+      "https://response.jp/imgs/fill2/2229247.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:45.960Z"
+  },
+  "https://bestcarweb.jp/feature/column/1573893": {
+    "title_zh": "户外派选 VEZEL HuNT 套件！防水座椅与车顶导轨的实用性评测",
+    "summary_short": "本田 VEZEL HuNT 套件专为户外设计，标配防水座椅和车顶导轨，兼顾紧凑尺寸与越野实用性。",
+    "summary_long": "本田 VEZEL 的 e:HEV X HuNT 套件专为户外场景打造，外观采用铜色金属漆装饰，标配车顶导轨，方便安装行李架。车辆尺寸紧凑（长 4340mm、宽 1790mm、高 1580mm），离地间隙 185mm，搭配 16 英寸轮毂和高扁平比轮胎，兼顾城市灵活性与轻度越野能力。防水座椅和实用配置使其成为户外爱好者的理想选择。",
+    "highlights_zh": [
+      "标配车顶导轨",
+      "防水座椅应对户外潮湿环境",
+      "185mm 离地间隙",
+      "紧凑尺寸兼顾城市与户外使用"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Vezel",
+      "HuNT 套件",
+      "防水座椅",
+      "车顶导轨"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15160430/MG_2523_1.jpg?v=1784099071",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15160430/MG_2523_1-600x400.jpg?v=1784099071",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16115645/DSC2700-600x400.jpg?v=1784170607"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:49.141Z"
+  },
+  "https://response.jp/article/2026/07/22/414325.html": {
+    "title_zh": "eSOL 技术论坛 2026：AI 定义汽车的本质与 SDX 平台的未来",
+    "summary_short": "eSOL 技术论坛探讨从 SDV 到 AIDV 的转变，提出 SDX 平台三大要素及 AI 移动出行沙盒实践。",
+    "summary_long": "eSOL 于 7 月 17 日举办“eSOL 技术论坛 2026”，聚焦汽车行业从软件定义汽车（SDV）向 AI 定义汽车（AIDV）的范式转变。论坛回顾各场演讲，剖析 AIDV 本质，并介绍 eSOL 提出的 SDX 平台三大要素及其具体实现“AI 移动出行沙盒”的实践方法。行业专家从多角度展望移动出行未来。",
+    "highlights_zh": [
+      "从 SDV 到 AIDV 的范式转变",
+      "SDX 平台三大要素",
+      "AI 移动出行沙盒实践",
+      "行业专家多角度展望"
+    ],
+    "entities": [
+      "eSOL",
+      "Software-Defined Vehicle",
+      "AI-Defined Vehicle",
+      "SDX 平台",
+      "AI 移动出行沙盒"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229110.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229110.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:49.715Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548170": {
+    "title_zh": "卡罗拉旅行版 60 周年纪念车是否值得买？检查 Active Sport 特别感与价格",
+    "summary_short": "卡罗拉旅行版 60 周年纪念车 Active Sport 升级，专属外观与悬挂，售价约 328 万日元起。",
+    "summary_long": "为纪念卡罗拉诞生 60 周年，卡罗拉旅行版特别仕样车 Active Sport 迎来升级。该车配备专属外观套件、60 周年纪念徽标及专属调校悬挂，售价从 328 万 2400 日元起。相比基础车型 W×B，价格差约 10 万日元，但增加了前翼子板 60 周年贴纸、激光雕刻纪念 logo 仪表板、黑色前保险杠与侧裙、17 英寸黑色轮毂以及双色车身选项。内饰采用黑色与深灰色运动座椅，整体氛围更显运动。对于追求限量感和独特性的消费者，这款纪念车具有较高吸引力。",
+    "highlights_zh": [
+      "售价 328 万 2400 日元起",
+      "专属外观套件与 60 周年纪念徽标",
+      "配备专属调校悬挂与运动座椅",
+      "提供双色车身选项"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉旅行版",
+      "Active Sport",
+      "W×B"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19163415/009_COROLLA_SDN_WGN_60th_202605.jpg?v=1781854457",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19163415/009_COROLLA_SDN_WGN_60th_202605-600x395.jpg?v=1781854457",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16115645/DSC2700-600x400.jpg?v=1784170607"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:54.097Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559561": {
+    "title_zh": "丰田 Sienta 5 座版：孩子长大后，夫妻二人用的迷你厢型车",
+    "summary_short": "丰田 Sienta 5 座版专为子女已独立的夫妻设计，宽敞行李空间与紧凑车身兼顾日常便利。",
+    "summary_long": "丰田 Sienta 通常以 7 座迷你厢型车形象出现，但 5 座版更适合子女已独立的夫妻二人生活。它取消第三排座椅，使行李厢更宽敞实用，可轻松容纳高尔夫球袋、露营装备或园艺用品。车身尺寸紧凑（长 4260mm、宽 1695mm、高 1695mm），5.0 米最小转弯半径便于在超市停车场和住宅区穿梭，双侧滑门则方便购物或狭窄空间上下车。5 座版提供汽油和混合动力选项，汽油版起价约 207.8 万日元，WLTC 油耗 18.4km/L，兼顾经济性与实用性。",
+    "highlights_zh": [
+      "5 座版取消第三排",
+      "紧凑车身+双侧滑门",
+      "汽油版起价 207.8 万日元",
+      "适合夫妻二人购物、旅行、接送"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "シエンタ",
+      "迷你厢型车",
+      "5 座版"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02144601/1D_0861-1.jpg?v=1782971162",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02144601/1D_0861-1-600x400.jpg?v=1782971162",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16115645/DSC2700-600x400.jpg?v=1784170607"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:54.474Z"
+  },
+  "https://bestcarweb.jp/feature/column/1578780": {
+    "title_zh": "大发 Atray vs 铃木 Every：最新进化对决",
+    "summary_short": "大发 Atray 与铃木 Every 最新款对决：Atray 升级液晶仪表与安全配置，Every 以高性价比 CVT 迎战。",
+    "summary_long": "大发 Atray 在 2026 年 6 月改款中新增液晶仪表，提升科技感与安全性，RS 版售价 185.9 万日元。铃木 Every 则以 166.54 万日元的低价提供 CVT 车型，性价比突出。两者在轻自动车面包车市场展开激烈竞争。",
+    "highlights_zh": [
+      "Atray 新增液晶仪表",
+      "Every CVT 性价比高",
+      "Atray RS 售价 185.9 万日元",
+      "Every 2WD CVT 仅 166.54 万日元"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "アトレー",
+      "铃木 | Suzuki",
+      "エブリイ",
+      "轻自动车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122903/552eb4aed1593e952e7a12c7b8a0e9e1-7.jpg?v=1784172544",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122903/552eb4aed1593e952e7a12c7b8a0e9e1-7-600x400.jpg?v=1784172544",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16115645/DSC2700-600x400.jpg?v=1784170607"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:57.869Z"
+  },
+  "https://bestcarweb.jp/feature/column/1576548": {
+    "title_zh": "预算 300 万日元，买新车还是二手 Step Wagon？",
+    "summary_short": "本田 Step Wagon 上市 4 年，预算 300 万日元可选中古车，新车需 400 万以上，中古车性价比高。",
+    "summary_long": "2022 年上市的本田 Step Wagon 已满 4 年，新车价格持续上涨，入门汽油版也要 334 万日元起，混动版更达 393 万日元以上，加上税费和选装件，新车预算需超 400 万日元。而中古车市场中，2022-2023 年款的汽油版 Step Wagon 总价可控制在 200 多万日元，混动版（e:HEV）行驶 3 万公里左右的车型也仅需 300 万日元左右。混动版搭载 2L 发动机与电机，最大功率 184ps，扭矩 315Nm，WLTC 油耗 19.6km/L，性能出色。选择中古车可节省约 100 万日元，这笔钱可用于加装本田纯正配件，打造个性化座驾。",
+    "highlights_zh": [
+      "新车最低 334 万日元起",
+      "中古车 200 万日元起可买汽油版",
+      "混动版油耗 19.6km/L",
+      "节省预算可加装纯正配件"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ステップワゴン",
+      "e:HEV",
+      "中古车",
+      "预算"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16115645/DSC2700.jpg?v=1784170607",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16115645/DSC2700-600x400.jpg?v=1784170607",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17144103/W220_1-600x400.jpg?v=1784266864"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:18:59.390Z"
+  },
+  "https://response.jp/article/2026/07/22/414309.html": {
+    "title_zh": "FE 东京站将举办沉浸式粉丝节“FAN VILLAGE”，以“祭”为主题",
+    "summary_short": "2026 年 7 月 25-26 日，FE 东京站将在东京 Big Sight 举办沉浸式粉丝节，融合电动赛车与日本夏祭文化，免费入场。",
+    "summary_long": "配合 2026 年 FE 东京站（TDK Tokyo E-Prix），沉浸式粉丝节“FORMULA E×TOKYO GX ACTION FAN VILLAGE”将于 7 月 25-26 日在东京 Big Sight 东展厅 1-3 号馆举行。该活动与东京都 GX 推进项目合作，首次联动夜间比赛，以“祭”为主题，融合 FE 电动赛车世界与日本夏祭，打造全新娱乐体验。活动时间为 14:00-22:00，无票观众也可免费入场。现场设有游戏区，提供基于实际赛道的赛车模拟器，以及升级版 EV 卡丁车。此外，两日还将举办赛道步行活动，让参与者亲临有明街道赛道。",
+    "highlights_zh": [
+      "7 月 25-26 日东京 Big Sight 举办",
+      "免费入场",
+      "提供赛道模拟器和 EV 卡丁车",
+      "可步行体验实际赛道"
+    ],
+    "entities": [
+      "フォーミュラE",
+      "东京",
+      "FAN VILLAGE",
+      "TDK Tokyo E-Prix"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229179.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229179.jpg",
+      "https://response.jp/imgs/fill2/2229183.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:03.053Z"
+  },
+  "https://response.jp/article/2026/07/22/414318.html": {
+    "title_zh": "普利司通 FINESSA 轮胎获日刊自动车新闻用品大奖 2026 轮胎部门奖",
+    "summary_short": "普利司通 FINESSA 轮胎凭借湿地性能、静音舒适及环保设计，荣获日刊自动车新闻用品大奖 2026 轮胎部门奖。",
+    "summary_long": "普利司通旗下轮胎品牌 FINESSA 荣获第 39 届日刊自动车新闻用品大奖 2026 轮胎部门奖。该品牌于 2026 年 2 月推出，旨在为多样化汽车生活提供安心、安全与舒适。获奖理由包括高湿地抓地力、磨损后仍保持优异排水性的安全性，以及出色的静音性和乘坐舒适性。此外，其高性价比和从产品设计到材料选择中对环境负荷的降低也获得认可。该奖项针对 2025 年 4 月至 2026 年 6 月期间在售后市场备受关注的汽车用品，综合评估创新性、市场性和话题性。",
+    "highlights_zh": [
+      "湿地性能与磨损后排水性获好评",
+      "静音舒适与安全兼顾",
+      "高性价比及环保设计受认可"
+    ],
+    "entities": [
+      "普利司通",
+      "FINESSA",
+      "日刊自动车新闻用品大奖 2026"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229069.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229069.jpg",
+      "https://response.jp/imgs/fill2/2229072.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:03.570Z"
+  },
+  "https://bestcarweb.jp/news/1582672": {
+    "title_zh": "雷诺 Kangoo 推出时尚限定色“蓝色德拉杰”",
+    "summary_short": "雷诺 Kangoo 与 Grand Kangoo 推出限定车“Couleur”，采用源自法国传统糖果德拉杰的淡蓝色，限量 150 台。",
+    "summary_long": "雷诺日本于 2026 年 7 月 16 日发布人气 MPV“雷诺 Kangoo”和“雷诺 Grand Kangoo”的限定车“Couleur”。该车采用源自法国传统糖果“德拉杰”的淡蓝色，象征幸福祝愿，同时提升实用性与安全配置。限量 150 台，7 月 16 日至 26 日接受抽签申请。Kangoo Couleur 提供 1.3L 汽油涡轮（7 速 AT）和 1.5L 柴油涡轮（6 速 MT）两种动力，各 80 台；Grand Kangoo Couleur 仅提供 1.3L 汽油涡轮，70 台。",
+    "highlights_zh": [
+      "限定色“蓝色德拉杰”源自法国糖果",
+      "Kangoo 与 Grand Kangoo 共限量…",
+      "提供汽油与柴油两种动力选项",
+      "7 月 16 日起抽签销售"
+    ],
+    "entities": [
+      "雷诺",
+      "Kangoo",
+      "Grand Kangoo",
+      "Couleur",
+      "德拉杰"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17172050/1e019ea6c310d655991feef6b223c194.jpg?v=1784276452",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17172050/1e019ea6c310d655991feef6b223c194-600x338.jpg?v=1784276452",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17165824/03fb91f4d2e9572948edbb14364c1ff1-600x327.jpg?v=1784275106"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:07.317Z"
+  },
+  "https://response.jp/article/2026/07/22/414303.html": {
+    "title_zh": "仅换轮毂就能让 BMW 性能大变？原厂与 RAYS 锻造 G025 对比试驾",
+    "summary_short": "Osaka BMW 与 RAYS 合作举办对比试驾，体验原厂与锻造轮毂 G025 的差异，仅换轮毂即可显著提升操控。",
+    "summary_long": "Osaka BMW 门真服务中心与 RAYS 合作，举办了原厂轮毂与 RAYS 锻造轮毂 G025 的对比试驾会。试驾使用两台相同规格的 BMW 320d M Sport，分别安装原厂 18 英寸轮毂和 RAYS G025 19 英寸锻造轮毂。通过同一路线换乘驾驶，参与者能直观感受锻造轮毂带来的轻量化和高刚性对操控性能的提升。",
+    "highlights_zh": [
+      "RAYS 锻造轮毂 G025 对比原厂 18 英寸轮…",
+      "同款 BMW 320d M Sport 换乘试驾",
+      "轻量化与高刚性显著提升操控",
+      "经销商突破常规举办改装件体验"
+    ],
+    "entities": [
+      "BMW",
+      "RAYS",
+      "G025",
+      "320d M Sport",
+      "锻造轮毂"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2228941.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2228941.jpg",
+      "https://response.jp/imgs/fill2/2228943.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:07.784Z"
+  },
+  "https://response.jp/article/2026/07/22/414301.html": {
+    "title_zh": "雷诺梅甘娜 EV 改款：续航 500km，快充 24 分钟，前脸焕新",
+    "summary_short": "雷诺梅甘娜 E-Tech 电动版改款，续航达 500km，快充 24 分钟，前脸设计全面更新。",
+    "summary_long": "雷诺在欧洲发布了梅甘娜 E-Tech 电动版的改款车型，主要升级包括设计、电动性能、车载技术和简化车型系列。新车搭载 67kWh LFP 电池，WLTP 续航约 500km，DC 快充功率提升至 165kW，15%-80%充电仅需 24 分钟。车机引入谷歌 Gemini，支持自然语音控制和超过 100 个应用。前脸除大灯外全部重新设计，采用新发光标识。",
+    "highlights_zh": [
+      "续航提升至 500km",
+      "快充 24 分钟（15%-80%）",
+      "前脸全面重新设计",
+      "搭载谷歌 Gemini 语音助手"
+    ],
+    "entities": [
+      "雷诺",
+      "梅甘娜",
+      "E-Tech Electric",
+      "LFP 电池",
+      "谷歌 Gemini"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229143.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229143.jpg",
+      "https://response.jp/imgs/fill2/2229144.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:10.968Z"
+  },
+  "https://www.motor1.com/news/802406/nissan-leaf-nismo-revealed/": {
+    "title_zh": "日产 Leaf Nismo：外观激进但动力未提升",
+    "summary_short": "日产第三代 Leaf 推出 Nismo 版本，外观更激进并配备硬件升级，但动力未提升。",
+    "summary_long": "日产为第三代 Leaf 推出 Nismo 版本，采用更具攻击性的外观套件和硬件升级，但未提升动力输出。Leaf Nismo 并非首次出现，早在 2018 年日产就曾为上一代 Leaf 推出运动版。如今，日产计划将 Nismo 车型阵容翻倍至 10 款，并将年销量从 10 万辆提升至 15 万辆。新 Leaf Nismo 配备更夸张的车身套件、专属 19 英寸 Enkei 轮毂，以及可选 Recaro 座椅，但动力系统与普通版相同。",
+    "highlights_zh": [
+      "外观更激进",
+      "配备专属 19 英寸 Enkei 轮毂",
+      "可选 Recaro 运动座椅",
+      "日产计划将 Nismo 车型增至 10 款"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Leaf",
+      "Nismo",
+      "Ariya"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K0wr/s1/2027-nissan-leaf-nismo-japan.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:11.645Z"
+  },
+  "https://www.motor1.com/news/802366/take-5-oil-filter-gone/": {
+    "title_zh": "女子在 Take 5 排队一小时，被告知没有机油滤芯，还被要求自己去买",
+    "summary_short": "女子在 Take 5 排队一小时后被告知没有她的机油滤芯，店员竟让她自己去买再回来排队，引发热议。",
+    "summary_long": "一位名叫 Ashton 的女子前往 Take 5 进行机油更换，排队一小时后被告知店内没有她的机油滤芯。店员让她自己去隔壁买一个再回来排队，这让她非常愤怒。许多网友评论称她的低机油水平表明她平时保养不善。",
+    "highlights_zh": [
+      "排队一小时被告知无滤芯",
+      "店员让她自己去买再回来排队",
+      "网友批评其保养习惯差"
+    ],
+    "entities": [
+      "Take 5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPy4r/s1/woman-waits-in-line-for-an-hour-at-take-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:14.104Z"
+  },
+  "https://insideevs.com/news/802397/sila-silicon-anode-lithium-ion/": {
+    "title_zh": "电池初创公司获 3 亿美元融资，承诺提升 20%续航",
+    "summary_short": "美国电池材料初创公司 Sila 获 3 亿美元融资，其硅碳负极材料可提升电池能量密度 20%-40%，使电动车续航增加 20%。",
+    "summary_long": "美国电池材料初创公司 Sila 表示，其研发的 Titan Silicon 硅碳负极材料可在不增大电池包的情况下，使电动车续航提升 20%。该材料经过 15 年开发，相较于传统石墨负极，能量密度可提高 20%至 40%，并支持更快充电。Sila 已获得 3 亿美元私人融资，用于扩大华盛顿州摩西湖工厂的产能，该工厂于 2025 年秋季投产，初始产能 2 GWh，计划五年内达到 250 GWh，成为全球最大负极生产设施。Sila 已与梅赛德斯-奔驰和松下能源等公司签订供货合同，其中梅赛德斯计划在未来的电动 G 级车上使用该材料，松下则将其用于下一代电池。",
+    "highlights_zh": [
+      "续航提升 20%",
+      "硅碳负极能量密度提高 20%-40%",
+      "获 3 亿美元融资",
+      "已与梅赛德斯-奔驰和松下签约"
+    ],
+    "entities": [
+      "Sila",
+      "Titan Silicon",
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "松下能源",
+      "电动 G 级"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zw7l9/s1/sila-factory.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:15.524Z"
+  },
+  "https://www.motor1.com/news/802375/2027-range-rover-gt-preview/": {
+    "title_zh": "路虎揽胜 GT：最像轿车的揽胜",
+    "summary_short": "路虎推出全新揽胜 GT，定位豪华旅行车，采用更低矮的旅行车姿态，先推纯电版，后续有混动版。",
+    "summary_long": "路虎为揽胜家族新增第五位成员——揽胜 GT。该车并非替代揽胜星脉，而是一款全新豪华旅行车，采用更低矮、近乎旅行车的姿态，尺寸介于星脉和揽胜运动版之间。基于 EMA 平台打造，先期推出纯电版本，后续将提供混动版。内饰极简，减少物理按键，但未采用全屏幕设计，提供 2+2 或五座布局。",
+    "highlights_zh": [
+      "全新车型",
+      "低矮旅行车姿态",
+      "基于 EMA 平台",
+      "内饰极简"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "揽胜 GT | Range Rover GT",
+      "揽胜星脉",
+      "揽胜运动版 | Range Rover Sport",
+      "EMA 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGYrO/s1/range-rover-gt-le-prime-foto-ufficiali.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-22T15:19:18.218Z"
   }
 }
