@@ -85812,5 +85812,784 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-22T15:19:18.218Z"
+  },
+  "https://response.jp/article/2026/07/23/414345.html": {
+    "title_zh": "比亚迪在日本开设网络商店，可通过 APP 购买车载数据通信和导航服务",
+    "summary_short": "比亚迪在日本开设网络商店，用户可通过 BYD APP 购买车载数据通信和导航服务，支持 1 年或 2 年套餐。",
+    "summary_long": "比亚迪日本公司于 7 月 22 日在官方 APP 内开设“BYD 网络商店”，提供车载数据通信和导航服务的购买选项。此前，比亚迪为日本新车用户提供 3 年免费数据通信和导航服务，免费期结束后可通过网络商店续费。初期提供 2GB 数据通信、导航及安心包三种套餐，而 OTA 更新和 APP 远程控制功能仍免费。支付采用 NTT 数据解决方案，个人信息存储于日本国内服务器。",
+    "highlights_zh": [
+      "BYD APP 内开设网络商店",
+      "可购买数据通信和导航套餐",
+      "免费期后仍可 OTA 更新和 APP 控制",
+      "个人信息存储于日本国内服务器"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "BYD APP",
+      "NTT 数据",
+      "车载数据通信",
+      "导航服务"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229418.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229418.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:32.530Z"
+  },
+  "https://response.jp/article/2026/07/23/414342.html": {
+    "title_zh": "日元汇率跌至 163，市场预测或达 170",
+    "summary_short": "日元兑美元跌至 163，创 39 年新低，市场预测可能进一步贬值至 170，引发政府干预担忧。",
+    "summary_long": "纽约外汇市场日元兑美元一度跌至 163，为 1986 年 12 月以来约 39 年 7 个月的最低水平。东京市场也维持在 163 前半。报道指出，中东局势恶化引发“避险美元买盘”，同时日本政府新方针中删除“财政健全化”表述，被解读为对央行加息路线的牵制，导致国债收益率急升和日元贬值。财务大臣表示必要时将采取果断措施，市场认为政府防线在 165，但部分分析师认为 170 也是现实场景。",
+    "highlights_zh": [
+      "日元兑美元跌至 163",
+      "中东局势恶化推动美元买盘",
+      "政府删除财政健全化表述",
+      "市场预测日元可能进一步贬值至 170"
+    ],
+    "entities": [
+      "日元",
+      "美元",
+      "日本政府",
+      "日本央行",
+      "中东局势"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229482.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229482.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:33.103Z"
+  },
+  "https://bestcarweb.jp/fullload/1585808": {
+    "title_zh": "“谁都能开的卡车”GVW 上限或升至 4.25 吨？EU 驾照制度迎来改革",
+    "summary_short": "欧盟拟将普通驾照允许驾驶的卡车 GVW 上限从 3.5 吨提升至 4.25 吨，日本可能跟进。",
+    "summary_long": "欧盟委员会于 2025 年 11 月 25 日宣布对驾照制度进行改革，旨在实现 2050 年交通事故零死亡目标。新规包括引入数字驾照、对新司机实行试用期、加强跨境处罚互认等。其中，普通驾照（B 类）允许驾驶的车辆总重（GVW）上限可能从 3.5 吨提高至 4.25 吨，这将使更多轻型卡车（如五十铃 Elf Mio）纳入普通驾照范围。日本常参考欧盟驾照制度，未来可能效仿。",
+    "highlights_zh": [
+      "欧盟拟将普通驾照卡车 GVW 上限升至 4.25 吨",
+      "五十铃 Elf Mio 等轻型卡车或受益",
+      "新规包括数字驾照和试用期制度",
+      "日本可能参考欧盟调整驾照分类"
+    ],
+    "entities": [
+      "欧盟 | EU",
+      "五十铃",
+      "Elf Mio",
+      "GVW",
+      "驾照制度"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/22111642/00-IMG_2768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/17155004/WEB_MY26-Profia_Eyecatch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/17163203/0B5A4730-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:36.874Z"
+  },
+  "https://response.jp/article/2026/07/23/414353.html": {
+    "title_zh": "Smart #2 全球测试进行中，2026 巴黎车展首发",
+    "summary_short": "Smart #2 电动双座城市车全球测试中，2026 年巴黎车展首发，延续四轮四角设计，专注操控与 NVH 优化。",
+    "summary_long": "Smart 全新电动双座城市车 #2 正在全球测试中，计划于 2026 年 10 月巴黎车展首发。测试车由梅赛德斯-奔驰全球设计团队打造，采用黑白迷彩伪装，在公共道路和专用测试场验证机动性、NVH 和耐久性。车辆延续“四轮四角”设计，在狭窄城市中具备高灵活性。工程师持续优化底盘硬点、转向比、齿条行程和悬架控制，确保日常驾驶的稳定与响应。NVH 测试涵盖风洞、声学实验室、四柱台架及多种路面，重点优化风噪、路噪、动力总成 NVH 及异响。轮胎方面，在不同路面测试多种配方，平衡低滚阻与静音性能。",
+    "highlights_zh": [
+      "2026 年 10 月巴黎车展全球首发",
+      "四轮四角设计",
+      "奔驰设计团队打造黑白迷彩伪装",
+      "全面 NVH 优化"
+    ],
+    "entities": [
+      "Smart",
+      "Smart #2",
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "巴黎车展",
+      "NVH"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229519.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229519.jpg",
+      "https://response.jp/imgs/fill2/2229520.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:38.428Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562994": {
+    "title_zh": "车名猜谜：第 816 回——三菱 Eclipse 三代目敞篷版",
+    "summary_short": "三菱 Eclipse 三代目敞篷版 Spider，搭载 3L V6 发动机，左舵美规设计，2004 年日本限量引入。",
+    "summary_long": "本期车名猜谜聚焦三菱 Eclipse 第三代车型。该车于 2004 年以敞篷版 Spider 形式在日本销售，搭载 3.0L V6 SOHC 发动机，最大功率 196 马力。内饰采用左舵布局，配备美国品牌音响，保留了大量美规特征。Eclipse 初代于 1989 年作为北美专属车型推出，1990 年返销日本，由三菱与克莱斯勒合资公司生产。第三代车型车身和发动机尺寸增大，定位更偏豪华舒适。",
+    "highlights_zh": [
+      "三菱 Eclipse 三代目敞篷版 Spider",
+      "3.0L V6 发动机",
+      "左舵美规内饰",
+      "2004 年日本限量引入"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Eclipse",
+      "Spider",
+      "克莱斯勒"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30111518/main_P18_ecl.jpg?v=1782785736",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30111518/main_P18_ecl-600x400.jpg?v=1782785736",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29200347/main_SP00300235-600x400.jpg?v=1782731029"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:41.276Z"
+  },
+  "https://bestcarweb.jp/feature/column/1585536": {
+    "title_zh": "日产全新 Elgrand 车主提车报告：870 万日元也值！",
+    "summary_short": "日产 16 年后换代 Elgrand 提车，车主选 G e-4ORCE 版，总价 870 万日元，实车外观惊艳。",
+    "summary_long": "日产全新 Elgrand 在时隔 16 年后迎来换代，一位车主在预售首日下单，提车后分享感受。他选择了 G e-4ORCE 四驱版，车价 757.9 万日元，落地约 870 万日元。为获得座椅通风和 ProPILOT 2.0 等功能，他认为价格合理。车身选午夜黑，内饰为 G 版专属银雪色。车主此前未看实车，初见时被其优雅而硬朗的外观震撼，格栅设计也不显突兀。",
+    "highlights_zh": [
+      "16 年换代 Elgrand 提车",
+      "G e-4ORCE 版落地 870 万日元",
+      "午夜黑外观惊艳",
+      "座椅通风和 ProPILOT 2.0 是选车关键"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Elgrand",
+      "G e-4ORCE",
+      "ProPILOT 2.0",
+      "午夜黑"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22105142/C13I1119-1.jpg?v=1784685104",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22105142/C13I1119-1-600x400.jpg?v=1784685104",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17221627/00_step1_05_head-600x400.jpg?v=1784294188"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:42.689Z"
+  },
+  "https://response.jp/article/2026/07/23/414341.html": {
+    "title_zh": "宝马新世代 EV“Neue Klasse”首款车型全新 iX3 日本上市：续航 906km，起售价 982 万日元",
+    "summary_short": "宝马新世代 EV“Neue Klasse”首款车型全新 iX3 在日本上市，续航 906km，起售价 982 万日元。",
+    "summary_long": "宝马新世代 EV“Neue Klasse”的首款车型——全新 BMW iX3 已在日本上市，起售价为 982 万日元。该车为电动四驱 SAV，WLTC 续航达 906km。搭载第六代 BMW eDrive，采用 800V 架构，支持 320kW 快充，15 分钟可补充约 395km 续航。首次配备 43.3 英寸 BMW Panoramic Vision 和 17.9 英寸中控屏组成的 Panoramic iDrive 系统。",
+    "highlights_zh": [
+      "WLTC 续航 906km",
+      "800V 架构",
+      "15 分钟充电补充 395km 续航",
+      "首次搭载 Panoramic iDrive"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3",
+      "Neue Klasse",
+      "BMW eDrive",
+      "Panoramic iDrive"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229396.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229396.jpg",
+      "https://response.jp/imgs/fill2/2229390.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:45.108Z"
+  },
+  "https://response.jp/article/2026/07/23/414359.html": {
+    "title_zh": "LimX Dynamics TRON 2 实现自主移动与末端配送",
+    "summary_short": "LimX Dynamics 发布 TRON 2 机器人自主移动操作套件，可完成浇水、配送等任务。",
+    "summary_long": "LimX Dynamics 于 2026 年 7 月 20 日发布了其人形机器人 TRON 2 的“自主移动操作套件”演示视频。该套件整合了全身运动控制与 3D 感知，专为移动操作优化，能适应多种环境。视频显示，TRON 2 可在密集花盆间拾取水壶精准浇水，并利用 RTK 和 48 通道 LiDAR 实现可靠定位与导航。其轮式腿部可平滑通过户外台阶，在公园步道上自主行驶，避开树木和行人。",
+    "highlights_zh": [
+      "TRON 2 配备自主移动操作套件",
+      "可完成浇水、配送等末端任务",
+      "轮式腿部适应户外复杂地形",
+      "RTK 与 LiDAR 实现精准导航"
+    ],
+    "entities": [
+      "LimX Dynamics",
+      "TRON 2",
+      "自主移动操作套件",
+      "RTK",
+      "LiDAR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229463.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229447.jpg",
+      "https://response.jp/imgs/zoom1/2229464.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:46.101Z"
+  },
+  "https://response.jp/article/2026/07/23/414358.html": {
+    "title_zh": "MINI 赛车展示、儿童机械师体验…ORJ RACING 将参展弥富市夏祭 2026",
+    "summary_short": "ORJ RACING 将在弥富市夏祭 2026 上展示 MINI 赛车，并举办儿童机械师体验、车手对话会等活动。",
+    "summary_long": "ORJ RACING 宣布将参加 7 月 26 日举行的弥富市夏祭 2026，作为“YATOMI 20th DREAM GARAGE”企划的一部分。活动内容包括 MINI 赛车展示、车手小野耀平和岩田尚士指导的儿童机械师体验、车手对话会、赛车座舱体验及纪念摄影会。ORJ RACING 旨在通过将赛道经验回馈社区，让当地儿童感受汽车乐趣、制造工作的重要性以及追逐梦想的勇气。",
+    "highlights_zh": [
+      "MINI 赛车现场展示",
+      "儿童机械师体验活动",
+      "车手对话会与座舱体验",
+      "弥富市政 20 周年纪念企划"
+    ],
+    "entities": [
+      "MINI",
+      "ORJ RACING",
+      "小野耀平",
+      "岩田尚士",
+      "弥富市"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229525.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229525.jpg",
+      "https://response.jp/imgs/fill2/2229527.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:48.441Z"
+  },
+  "https://response.jp/article/2026/07/23/414343.html": {
+    "title_zh": "SkyDrive 与 Airtificial 签约，采购飞行汽车轻量化 CFRP 部件",
+    "summary_short": "SkyDrive 在范堡罗航展宣布与 Airtificial 签约，为其量产飞行汽车采购轻量化 CFRP 结构部件。",
+    "summary_long": "SkyDrive 在 2026 年范堡罗国际航空展上宣布，与 Airtificial Aerospace & Defense 签署合同，由后者为其量产机型“SKYDRIVE（SD-05 型）”制造并供应主要及次要结构用复合材料部件。这些部件采用轻量碳纤维增强塑料（CFRP），涵盖机身框架、外装等关键结构件及组合件，旨在实现机体轻量化。",
+    "highlights_zh": [
+      "SkyDrive 与 Airtificial 签约",
+      "采购 CFRP 制主要及二次结构部件",
+      "用于量产机型 SKYDRIVE（SD-05 型）",
+      "实现机体轻量化"
+    ],
+    "entities": [
+      "SkyDrive",
+      "Airtificial Aerospace & Defense",
+      "SKYDRIVE",
+      "碳纤维增强塑料 | CFRP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229417.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229417.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:49.437Z"
+  },
+  "https://response.jp/article/2026/07/23/414352.html": {
+    "title_zh": "Waymo 推出邀请制高级会员服务“Waymo Premier”",
+    "summary_short": "Waymo 推出月费 29.99 美元的邀请制高级会员服务，为高频用户提供专属福利。",
+    "summary_long": "Waymo 宣布推出邀请制高级会员计划“Waymo Premier”，专为最常使用其自动驾驶打车服务的用户设计。该会员月费 29.99 美元，提供多项专属福利。",
+    "highlights_zh": [
+      "邀请制高级会员服务",
+      "月费 29.99 美元",
+      "面向高频用户",
+      "多项专属福利"
+    ],
+    "entities": [
+      "Waymo"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229496.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229496.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:51.507Z"
+  },
+  "https://response.jp/article/2026/07/23/414354.html": {
+    "title_zh": "伊久与汽车考虑对商用 EV 公司 Folofly 进行第三方配股增资",
+    "summary_short": "伊久与汽车宣布收到商用 EV 公司 Folofly 总额 5 亿日元的股票认购凭证，将评估协同效应后决定是否接受增资。",
+    "summary_long": "伊久与汽车（Ikuyo Automotive）宣布，已从商用电动汽车制造商 Folofly 收到总额 5 亿日元的股票认购凭证，正考虑实施第三方配股增资。Folofly 表达了认购意向，但伊久与汽车尚未最终确定配股。伊久集团将评估 Folofly 的企业属性、业务内容，以及与自身汽车零部件业务强化、EV 及自动驾驶业务推进、新业务拓展、美国上市准备等方面的协同效应，审慎决定是否正式批准并接受增资。",
+    "highlights_zh": [
+      "伊久与汽车收到 Folofly 5 亿日元股票认购凭…",
+      "Folofly 有意认购",
+      "将评估协同效应后决定是否接受增资",
+      "涉及 EV、自动驾驶及美国上市等战略"
+    ],
+    "entities": [
+      "伊久与汽车",
+      "Folofly",
+      "商用 EV",
+      "第三方配股增资",
+      "协同效应"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229522.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229522.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:52.188Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548431": {
+    "title_zh": "卡罗拉旅行版 60 周年纪念车：黑色保险杠能否打动你？",
+    "summary_short": "丰田卡罗拉旅行版推出 60 周年纪念特别版 Active Sport，黑色保险杠与专属配置带来独特风格，售价约 328 万日元起。",
+    "summary_long": "丰田为卡罗拉旅行版推出 60 周年纪念特别仕样车 Active Sport，最大亮点是采用 Neutral Black 专属前保险杠和侧裙，搭配黑色 17 英寸轮毂，营造出略带户外感的硬朗风格。相比基础版 W×B，价格高出约 10 万日元，但增加了 60 周年标识、合成皮革仪表板等纪念元素。2WD 车型还配备了专属调校的悬架系统，旨在兼顾操控乐趣与舒适性。这款车不仅外观独特，还具备实用价值，适合追求个性与纪念意义的消费者。",
+    "highlights_zh": [
+      "专属黑色保险杠与侧裙",
+      "60 周年纪念标识与合成皮革仪表板",
+      "2WD 车型配备专属调校悬架",
+      "售价 328 万日元起"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉旅行版",
+      "Active Sport",
+      "60 周年纪念"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19163415/009_COROLLA_SDN_WGN_60th_202605.jpg?v=1781854457",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19163415/009_COROLLA_SDN_WGN_60th_202605-600x395.jpg?v=1781854457",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17221627/00_step1_05_head-600x400.jpg?v=1784294188"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:55.547Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559564": {
+    "title_zh": "丰田 Sienta 7 座版：小车身能否承载三代同堂？",
+    "summary_short": "丰田 Sienta 7 座版以紧凑车身提供 3 排座椅，兼顾日常便利与偶尔满载需求，是家庭实用之选。",
+    "summary_long": "丰田 Sienta 7 座版凭借 4260mm 的紧凑车身和 3 排座椅布局，为需要偶尔搭载祖父母或孩子朋友的家庭提供了灵活解决方案。其 5.0m 转弯半径和 5ナンバー尺寸让日常驾驶轻松，而第三排座椅虽更适合短途或儿童，但足以应对三代同堂的临时出行。价格从 211 万日元起，相比大型 MPV 更具性价比。",
+    "highlights_zh": [
+      "全長 4260mm",
+      "第三排座椅适合短途或儿童",
+      "7 座版起价 211 万日元",
+      "最小转弯半径 5.0m"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "シエンタ",
+      "MPV",
+      "7 座"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02110403/R5_5785-1.jpg?v=1782957844",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02110403/R5_5785-1-600x400.jpg?v=1782957844",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17221627/00_step1_05_head-600x400.jpg?v=1784294188"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:56.085Z"
+  },
+  "https://response.jp/article/2026/07/23/414344.html": {
+    "title_zh": "大年材料与 Talga Group 签署负极材料采购意向书",
+    "summary_short": "日本大年材料与瑞典 Talga Group 签署非约束性意向书，计划采购其 Talnode-C 负极活性材料，用于电池生产。",
+    "summary_long": "日本大年材料（ダイネンマテリアル）宣布与瑞典 Talga Group 签署非约束性意向书（LOI），旨在就 Talnode-C 负极活性材料的长期采购达成最终协议。Talnode-C 将产自瑞典北部的 Vittangi 负极项目。大年材料自 2017 年成立以来，已发展为日本领先的负极材料供应商，业务涵盖负极材料制造、黑粉交易及电池回收。",
+    "highlights_zh": [
+      "与 Talga Group 签署负极材料采购意向书",
+      "目标产品为 Talnode-C 负极活性材料",
+      "材料产自瑞典 Vittangi 负极项目",
+      "大年材料是日本主要负极材料供应商"
+    ],
+    "entities": [
+      "大年材料",
+      "Talga Group",
+      "Talnode-C",
+      "Vittangi 负极项目"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229480.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229480.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:41:59.754Z"
+  },
+  "https://bestcarweb.jp/feature/column/1568546": {
+    "title_zh": "本田 Freed Crosstar 推出 Active-Tough Style 原厂改装套件",
+    "summary_short": "本田 Freed Crosstar 原厂推出 Active-Tough Style 套件，通过黑色格栅、轮毂等细节强化户外风格。",
+    "summary_long": "本田 Freed Crosstar 本身已具备户外感，但原厂配件推出的 Active-Tough Style 套件进一步强化了其硬朗形象。套件包括黑色镀铬前格栅、前保险杠饰件、15 英寸黑色铝合金轮毂、黑色轮毂盖和螺母、车身侧裙以及黑色车标等。其中前格栅与头灯相连的黑色线条使前脸更显凌厉，前保险杠组合饰件增强了户外装备般的质感。轮毂采用全涂装亮黑色，搭配黑色 H 标志中心盖和黑色螺母，视觉效果精悍。车身侧裙加宽，提升了侧面视觉的粗犷感。Freed Crosstar 汽油版前驱 5 座售价约 316 万日元，混动版约 332 万日元，Active-Tough Style 为经销商选装件，总价因项目和工时而异。",
+    "highlights_zh": [
+      "Active-Tough Style 为原厂配件方案",
+      "黑色镀铬前格栅强化犀利感",
+      "15 英寸黑色轮毂配黑标中心盖",
+      "车身侧裙加宽提升粗犷气质"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Freed Crosstar",
+      "Active-Tough Style"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15165921/f25ff8eb07e91e5af8aad35a823eacee.jpeg?v=1784102362",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15165921/f25ff8eb07e91e5af8aad35a823eacee-600x375.jpeg?v=1784102362",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17221627/00_step1_05_head-600x400.jpg?v=1784294188"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:05.164Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562596": {
+    "title_zh": "19 年车龄的得利卡 D:5 创下销量新高",
+    "summary_short": "三菱得利卡 D:5 在上市 19 年后，2025 年度销量创历史新高，达 26379 辆，超越首发年。",
+    "summary_long": "三菱得利卡 D:5 是一款兼具 MPV 舒适性与 SUV 越野能力的跨界车型，自 2007 年上市以来持续热销。2025 年度，该车在日本国内销量达到 26379 辆，刷新了 2007 年创下的历史纪录。这一成就得益于 2025 年秋季的改款，新车换装新外观并搭载三菱 S-AWC 四驱系统，提升了越野与操控性能。",
+    "highlights_zh": [
+      "19 年车龄车型销量创新高",
+      "2025 年度售出 26379 辆",
+      "改款后搭载 S-AWC 四驱系统",
+      "超越首发年 2007 年纪录"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "得利卡 D:5 | Delica D:5",
+      "S-AWC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28174908/00_delicaD5_P72_A_head.jpg?v=1782636549",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28174908/00_delicaD5_P72_A_head-600x400.jpg?v=1782636549",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17221627/00_step1_05_head-600x400.jpg?v=1784294188"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:09.234Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1570249": {
+    "title_zh": "Hato Bus 推出第 4 弹可持续旅游：守护海洋的湘南·江之岛海岸之旅",
+    "summary_short": "Hato Bus 与 NPO 合作推出海洋保护主题可持续旅游，使用稀有混合动力巴士，8 月 7 日和 18 日运行。",
+    "summary_long": "Hato Bus 与 NPO 法人湘南 Vision 研究所合作，推出第 4 弹可持续旅游“守护海洋！湘南·江之岛海岸可持续旅游”，将于 2026 年 8 月 7 日和 18 日运行。该旅游以海洋环境问题为主题，包括在江之岛西浦海岸进行海滩清洁和微塑料回收活动，旨在提高公众对海洋污染的认识。旅游指定使用数量渐少的 Selega 混合动力巴士，为乘客提供环保出行体验。",
+    "highlights_zh": [
+      "Hato Bus 推出第 4 弹可持续旅游",
+      "主题为海洋环境保护",
+      "包含海滩清洁和微塑料回收",
+      "使用稀有 Selega 混合动力巴士"
+    ],
+    "entities": [
+      "はとバス",
+      "セレガ",
+      "湘南·江之岛",
+      "微塑料",
+      "可持续旅游"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/10111554/cffb9c5467f612b7802cc9012cfe53bc-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/17214934/00_bm-web_05_IMGP2442a_head.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/06/29101550/DSC04657-1024x684.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:11.131Z"
+  },
+  "https://bestcarweb.jp/feature/column/1583485": {
+    "title_zh": "爱车焕新术：轻松处理车灯黄变与车身划痕",
+    "summary_short": "车灯黄变、车身小划痕？利用假日轻松处理，爱车焕然一新。",
+    "summary_long": "爱车经年累月出现车灯黄变、车身划痕等老化迹象，其实通过简单护理即可改善。对于浅划痕，可使用补漆笔填充或研磨剂打磨；车灯黄变也可通过专用方法去除。本文介绍了几种简便易行的 DIY 保养技巧，让爱车恢复光彩。",
+    "highlights_zh": [
+      "补漆笔可填充划痕",
+      "研磨剂适合浅划痕",
+      "车灯黄变可去除",
+      "注意边缘涂装勿过度研磨"
+    ],
+    "entities": [
+      "补漆笔",
+      "研磨剂",
+      "车灯黄变",
+      "DIY 保养"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17221627/00_step1_05_head.jpg?v=1784294188",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17221627/00_step1_05_head-600x400.jpg?v=1784294188",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15165921/f25ff8eb07e91e5af8aad35a823eacee-600x375.jpeg?v=1784102362"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:12.977Z"
+  },
+  "https://www.motor1.com/news/802337/nissan-auto-text-response/": {
+    "title_zh": "女子收到分手短信，日产汽车自动回复引热议",
+    "summary_short": "女子在 CarPlay 收到分手短信，其日产汽车自动回复“我在开车”，引发她起诉日产的呼声。",
+    "summary_long": "一名女子在驾驶时通过 CarPlay 收到分手短信，她的日产汽车自动回复了“我在开车”的消息，导致对方收到奇怪回复。该女子在社交媒体上分享截图，并呼吁起诉日产。事件引发对汽车自动回复功能设置的讨论。",
+    "highlights_zh": [
+      "日产汽车自动回复“我在开车”",
+      "女子收到分手短信时汽车插话",
+      "女子呼吁起诉日产",
+      "引发对自动回复功能设置的讨论"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "CarPlay",
+      "自动回复",
+      "起诉"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgzE6/s1/woman-gets-breakup-text.-then-her-nissan-texts-back-something-unhinged.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:14.620Z"
+  },
+  "https://insideevs.com/news/802486/ford-truck-backup-power/": {
+    "title_zh": "福特让 F-150 混动和 Lightning 为家庭供电更简单",
+    "summary_short": "福特与 Global Power Products 合作，推出官方版 GenerLink 转换开关，让 F-150 混动和 Lightning 通过 240V 插座直接为家庭供电，无需杂乱延长线。",
+    "summary_long": "福特宣布与 Global Power Products 合作，使其 GenerLink 转换开关适配 F-150 Lightning 纯电皮卡和 F-150 PowerBoost 混动皮卡。这两款车均配备 Pro Power Onboard 功能，可通过货箱 240V 插座输出电力。新系统通过一根 12 英寸的福特车辆连接器，将车辆电源直接接入家庭主配电板，类似传统发电机。该方案适用于 9.6kW 的 Lightning 和 7.2kW 的混动车型，硬件售价 1100 美元，安装费另计。此前车主已自行改装类似系统，但这是福特官方认可版本，并经过严格测试。",
+    "highlights_zh": [
+      "福特推出官方版 GenerLink 转换开关",
+      "F-150 Lightning 和混动版可直接为家庭…",
+      "240V 插座连接家庭配电板",
+      "硬件售价 1100 美元"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "F-150 Lightning",
+      "F-150 PowerBoost Hybrid",
+      "Pro Power Onboard",
+      "GenerLink"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8AMg/s1/ford-pro-power-backup.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/-.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/ford-generlink-setup.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:17.144Z"
+  },
+  "https://insideevs.com/news/802480/tesla-recalls-15-canadian-models/": {
+    "title_zh": "特斯拉因“过于加拿大”召回 15 辆车",
+    "summary_short": "特斯拉因误售 15 辆加拿大规格 Model 3/Y，不符合美国安全标准，将回购车辆。",
+    "summary_long": "特斯拉召回 15 辆 Model 3 和 Model Y，原因是这些车原本是为加拿大市场生产的，不符合美国联邦机动车安全标准（FMVSS）。加拿大与美国的法规存在差异，例如加拿大不要求膝部气囊，且保险杠碰撞测试标准不同。特斯拉将回购这些车辆，并允许车主重新订购符合美国标准的车型。",
+    "highlights_zh": [
+      "仅 15 辆 Model 3/Y 被召回",
+      "因加拿大规格不符美国安全标准",
+      "差异包括膝部气囊和保险杠测试",
+      "特斯拉将回购车辆至 9 月 5 日"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3",
+      "Model Y",
+      "加拿大",
+      "美国联邦机动车安全标准"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/QebNkZ/s1/tesla-model-y-performance-2025-im-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:17.482Z"
+  },
+  "https://www.motor1.com/news/802421/toyota-oil/": {
+    "title_zh": "机械师称丰田推荐机油过稀，改用更厚配方",
+    "summary_short": "休斯顿机械师认为丰田推荐的 0W-20 机油过稀，改用 5W-30，但批评者警告此举可能影响保修。",
+    "summary_long": "休斯顿机械师 Jimmy Avila 在 TikTok 视频中表示，丰田 Tundra 皮卡推荐的 0W-20 机油过稀，无法提供足够保护，因此他改用更厚的 5W-30 机油。视频引发争议，观众质疑他比丰田工程师更懂，并警告使用非推荐机油可能导致保修失效。",
+    "highlights_zh": [
+      "机械师改用 5W-30 替代 0W-20",
+      "称 0W-20“像水一样”",
+      "批评者警告保修可能失效",
+      "视频观看超 2 万次"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Tundra",
+      "Mobil 1",
+      "0W-20",
+      "5W-30"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8All/s1/mechanic-says-your-toyota-may-be-getting-the-wrong-oil..jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:20.273Z"
+  },
+  "https://www.thedrive.com/news/theres-an-entire-performance-car-hierarchy-coded-behind-brake-caliper-colors": {
+    "title_zh": "刹车卡钳颜色暗藏性能车等级体系",
+    "summary_short": "汽车制造商通过刹车卡钳颜色区分性能等级，如日产银色代表普通、红色代表运动、金色代表 Brembo、黄色代表碳陶瓷刹车。",
+    "summary_long": "汽车制造商正通过刹车卡钳颜色来区分不同性能等级，让车迷能快速识别车型。以日产为例，普通车型（如 Rogue、Sentra）使用银色卡钳；Z Performance 套件升级为红色 Akebono 四活塞卡钳；Z Nismo 则采用亮红色 Akebono 卡钳并配备两片式铁铝刹车盘；搭载 Brembo 刹车的车型（如 R34 GT-R、R35）使用金色卡钳；而最极端的碳陶瓷刹车车型则使用黄色卡钳。这种颜色编码体系让性能差异一目了然。",
+    "highlights_zh": [
+      "刹车卡钳颜色成为性能等级标识",
+      "日产银色卡钳代表普通车型",
+      "红色卡钳对应运动套件",
+      "金色卡钳代表 Brembo 刹车"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Nissan Z",
+      "Nissan GT-R",
+      "Brembo",
+      "Akebono"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Brake-Caliper-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/embed1.webp?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/embed2.webp?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:20.896Z"
+  },
+  "https://www.motor1.com/news/802471/toyota-celica-sports-car-caught-testing-fuji/": {
+    "title_zh": "丰田中置引擎跑车疑似在富士赛道被拍到测试视频",
+    "summary_short": "一段新视频显示，丰田疑似正在测试一款中置引擎、四轮驱动的全新跑车，可能复活 Celica 或 MR2 之名。",
+    "summary_long": "一段在 X 平台发布的视频显示，丰田一款神秘原型车在富士赛道进行测试。该车为双门轿跑，拥有细长头灯、大型引擎盖通风口和丰田家族式尾灯，排气声浪清晰，换挡模式暗示可能配备手动变速箱。相比此前在拉力赛段测试的原型车，此车更接近量产状态。传闻称该车将搭载丰田全新 2.0 升涡轮增压四缸发动机，并采用四轮驱动，可能以 GR 品牌或 Gazoo Racing 独立性能品牌身份推出，有望复活 Celica 或 MR2 车系。",
+    "highlights_zh": [
+      "疑似丰田中置引擎跑车在富士赛道测试",
+      "双门轿跑造型",
+      "可能搭载 2.0T 四缸发动机和四驱系统",
+      "或复活 Celica 或 MR2 车系"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Celica",
+      "MR2",
+      "Gazoo Racing"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYZog/s1/new-toyota-celica-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:24.350Z"
+  },
+  "https://www.motor1.com/news/802460/mercedes-amg-v8-e63-wagon/": {
+    "title_zh": "梅赛德斯-AMG 将回归 V8 动力，C63 和 E63 有望复活",
+    "summary_short": "梅赛德斯-AMG 正测试新型平面曲轴 V8 发动机，未来将用于 C63 和 E63 车型，逐步回归 V8 动力。",
+    "summary_long": "梅赛德斯-AMG 正在测试新型平面曲轴 V8 发动机，该发动机已率先搭载于新款 S580 轿车，输出 530 马力和 553 磅-英尺扭矩。AMG 工程师密切关注其表现，确保可靠性后才会用于 C63 和 E63 等性能车型。AMG 董事会成员透露，V8 发动机的回归将分阶段进行，首先确保发动机成熟，再根据市场需求逐步推广。此前，四缸 C63 市场反响不佳，而现款 E53 AMG 表现平平，因此 V8 动力的回归备受期待。",
+    "highlights_zh": [
+      "新型平面曲轴 V8 发动机已用于 S580",
+      "AMG 工程师正密切测试发动机可靠性",
+      "C63 和 E63 有望回归 V8 动力",
+      "四缸 C63 市场表现不佳"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "Mercedes-AMG C63",
+      "Mercedes-AMG E63",
+      "Mercedes-Benz S580",
+      "V8 发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWQvl/s1/mercedes-benz-c63-amg-black-series.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:24.665Z"
+  },
+  "https://insideevs.com/news/802464/tesla-diner-most-used-supercharger/": {
+    "title_zh": "特斯拉餐厅超充站首年全球使用率最高",
+    "summary_short": "特斯拉洛杉矶餐厅超充站开业首年日均充电 1600 次，总供电 21.2 GWh，成为全球使用率最高的超充站。",
+    "summary_long": "特斯拉在洛杉矶开设的餐厅与超级充电站组合，开业首年成为全球使用率最高的超充站，日均充电 1600 次，总供电 21.2 GWh，相当于 1964 个美国家庭全年用电量。该站配备 80 个充电桩，提供经典美式餐饮、咖啡及特斯拉主题零食，用户可通过车内屏幕点餐并送至车旁。埃隆·马斯克表示将建设更多类似站点。",
+    "highlights_zh": [
+      "日均充电 1600 次",
+      "总供电 21.2 GWh",
+      "80 个充电桩",
+      "车内屏幕点餐送餐"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "超级充电站 | Supercharger",
+      "特斯拉餐厅 | Tesla Diner",
+      "洛杉矶",
+      "埃隆·马斯克"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bglXXk/s1/tesla-diner.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:27.982Z"
+  },
+  "https://www.thedrive.com/news/i-reported-on-flocks-cameras-now-im-one-of-the-systems-mistakes": {
+    "title_zh": "我报道过 Flock 摄像头，如今却成了系统误报的受害者",
+    "summary_short": "记者因车牌识别系统误报被警察包围，事件引发对 AI 监控隐私争议的广泛讨论。",
+    "summary_long": "一名汽车记者因 Flock Safety 的车牌识别系统误报，被四名警察包围，原因是一个远在 2000 英里外的输入错误。该事件视频在网络上疯传，引发了关于 AI 监控摄像头网络如何追踪公民生活的激烈辩论。记者此前曾制作节目讨论车牌摄像头无证追踪问题，如今亲身经历验证了专家的警告。",
+    "highlights_zh": [
+      "因系统误报",
+      "错误源于 2000 英里外的一个输入错误",
+      "事件视频在网络疯传",
+      "记者此前曾报道过车牌摄像头隐私问题"
+    ],
+    "entities": [
+      "Flock Safety",
+      "车牌识别系统",
+      "AI 监控",
+      "隐私"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECASTEP25HERO2.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/Joel-Feder-headshot.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/1649282704177-mercedesdealershipgetty.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:28.120Z"
+  },
+  "https://www.motor1.com/features/802450/why-modern-car-keys-cost-so-much/": {
+    "title_zh": "为什么现代汽车钥匙更换费用如此高昂",
+    "summary_short": "现代汽车钥匙实为微型电脑，内置无线通信与防盗技术，更换成本可达数百甚至上千美元。",
+    "summary_long": "现代汽车钥匙不再是简单的金属片，而是集成了无线通信、防盗芯片等技术的微型电脑。丢失后，更换过程涉及编程、匹配等复杂工序，费用从数百美元到上千美元不等。这源于其高集成度与安全设计，旨在提升便利性和防盗性能，但也带来了高昂的更换成本。",
+    "highlights_zh": [
+      "现代钥匙是微型电脑",
+      "更换费用可达上千美元",
+      "内置无线通信与防盗技术",
+      "丢失后需专业编程匹配"
+    ],
+    "entities": [
+      "Motor1"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWQJe/s1/replacing-key-fob.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:31.292Z"
+  },
+  "https://www.motor1.com/features/802455/next-cadillac-ct5v-blackwing-horsepower-price-details/": {
+    "title_zh": "凯迪拉克下一代 Blackwing 将保留 V8 引擎",
+    "summary_short": "凯迪拉克确认开发下一代 CT5 轿车，并将推出更强大的 Blackwing 性能版，搭载新一代 V8 发动机。",
+    "summary_long": "凯迪拉克确认正在开发下一代 CT5 豪华轿车，并预计将推出 Blackwing 性能版本。通用汽车已投入巨资研发新一代 V8 发动机，高性能版本有望搭载。尽管轿车市场萎缩，但凯迪拉克并未放弃该细分市场。",
+    "highlights_zh": [
+      "下一代 CT5 轿车确认开发",
+      "Blackwing 性能版将搭载 V8",
+      "通用汽车投入巨资研发新 V8",
+      "轿车市场萎缩但凯迪拉克不放弃"
+    ],
+    "entities": [
+      "凯迪拉克 | Cadillac",
+      "CT5-V Blackwing",
+      "V8 发动机 | V8 engine",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zw78K/s1/new-cadillac-ct5-v-blackwing-rendering-by-motor1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:31.627Z"
+  },
+  "https://www.thedrive.com/news/2027-nissan-z-just-got-more-expensive-but-look-at-it": {
+    "title_zh": "2027 款日产 Z 涨价 1510 美元，但新增配色和细节升级",
+    "summary_short": "2027 款日产 Z 涨价 1510 美元，但新增 Shinkai Green Pearl Metallic 配色及细节升级，Nismo 版可选 6 速手动。",
+    "summary_long": "2027 款日产 Z 起售价上涨 1510 美元，但带来了多项改进，包括全新的 Shinkai Green Pearl Metallic 配色、格栅同色装饰、Z 徽标取代日产标志、19 英寸黑色辐条轮毂等。Nismo 版本现在可免费选配 6 速手动变速箱。新车提供 Z Sport、Z Performance、Z Nismo AT 和 Z Nismo Manual 四种配置，起售价分别为 45725 美元和 68505 美元（含运费）。",
+    "highlights_zh": [
+      "起售价上涨 1510 美元",
+      "新增 Shinkai Green Pearl Met…",
+      "格栅同色装饰及 Z 徽标",
+      "Nismo 版可选 6 速手动"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "日产 Z | Nissan Z",
+      "Nismo"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/27OMP_Zb026_13MAR26.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/27OMP_Zb011_13MAR26.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2027-Nissan-Z-Performance-12.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:34.435Z"
+  },
+  "https://www.motor1.com/features/802441/ferrari-luce-behind-the-scenes-leclerc-hamilton/": {
+    "title_zh": "抢先目睹法拉利 Luce：电动跃马首秀幕后揭秘",
+    "summary_short": "法拉利首款纯电车型 Luce 拥有 1050 马力，百公里加速 2.5 秒，续航 329 英里，本文带你直击 Balocco 赛道首秀幕后。",
+    "summary_long": "法拉利首款纯电动车型 Luce 在 Balocco 赛道提前亮相，距官方发布仅 30 天。该车拥有 1050 马力，0-62 英里/小时加速 2.5 秒，续航 329 英里。文章描述了作者在赛道旁目睹勒克莱尔和汉密尔顿驾驶原型车拍摄宣传视频的场景，以及首席测试车手德西蒙尼对电动法拉利的看法。",
+    "highlights_zh": [
+      "法拉利首款纯电车型 Luce",
+      "1050 马力",
+      "勒克莱尔与汉密尔顿试驾原型车",
+      "官方发布定于 2026 年 5 月 25 日"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "夏尔·勒克莱尔",
+      "刘易斯·汉密尔顿",
+      "Balocco 赛道"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8WqN/s1/ferrari-luce-il-behind-the-scene-con-leclerc-e-hamilton.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:35.159Z"
+  },
+  "https://www.thedrive.com/news/toyotas-secret-mid-engine-sports-car-with-yaris-lights-is-buzzing-around-fuji": {
+    "title_zh": "丰田秘密中置引擎跑车搭载雅力士车灯，在富士赛道疾驰",
+    "summary_short": "丰田 MR2 复活在即，最新测试车搭载 2.0 升四缸 400 马力引擎，中置布局，外观酷似 GR Yaris。",
+    "summary_long": "丰田正在测试一款中置引擎跑车，疑似新一代 MR2 的原型。该车基于 GR Yaris 改造，将发动机移至驾驶座后方，类似雷诺 Clio V6。最新谍照显示，测试车在富士赛道疾驰，配备大型侧进气口和宽体轮拱，头尾灯沿用 GR Yaris 部件。动力方面，搭载全新 2.0 升四缸发动机，预计输出约 400 马力，而非 GR Yaris 的三缸机。这款车与丰田此前公布的“Concept M”中置引擎开发车密切相关。",
+    "highlights_zh": [
+      "中置引擎布局",
+      "搭载 2.0 升四缸发动机",
+      "头尾灯沿用 GR Yaris 部件",
+      "与 Concept M 开发车密切相关"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "MR2",
+      "GR Yaris",
+      "Concept M",
+      "富士赛道"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-103957.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-103957-1.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T03:42:38.158Z"
   }
 }

@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-22T15:18:11.397Z",
+    "generated_at": "2026-07-23T03:41:27.454Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 369,
-    "deepseek_untranslated_before_run": 31,
-    "newly_fetched_articles": 35,
-    "newly_fetched_untranslated": 31,
+    "deepseek_translated_before_run": 367,
+    "deepseek_untranslated_before_run": 33,
+    "newly_fetched_articles": 34,
+    "newly_fetched_untranslated": 33,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 31,
+    "translation_queue_count": 33,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.22",
-        "title": "Those Huge Truck Stop Signs Have A Lift Inside—And This Poor Guy Got Stuck In One",
-        "url": "https://www.thedrive.com/news/those-huge-truck-stop-signs-have-a-lift-inside-and-this-poor-guy-got-stuck-in-one"
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "「1ドル＝170円」市場予測も、歴史的な円安進行 39年ぶり163円台［新聞ウォッチ］",
+        "url": "https://response.jp/article/2026/07/23/414342.html"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.22",
-        "title": "Range Rover is Making a Car",
-        "url": "https://www.thedrive.com/news/range-rover-is-making-a-car"
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "「BYDネットストア」開設、BYDアプリで車載データ通信・ナビゲーションサービス購入可能に",
+        "url": "https://response.jp/article/2026/07/23/414345.html"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.22",
-        "title": "The Ancient Dodge Durango Just Had Its Best First-Half Sales in 20 Years: TDS",
-        "url": "https://www.thedrive.com/news/the-ancient-dodge-durango-just-had-its-best-first-half-sales-in-20-years-tds"
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "「だれでもトラック」がGVW4.25トン未満に!? 日本がお手本とするEUの免許制度が改正へ！",
+        "url": "https://bestcarweb.jp/fullload/1585808"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "「四隅にホイール」デザイン健在、『スマート #2』のグローバルテスト進行中…デビューはパリモーターショー2026",
+        "url": "https://response.jp/article/2026/07/23/414353.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第816回",
+        "url": "https://bestcarweb.jp/feature/column/1562994"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "870万円でも納得!! 実車を見た瞬間「カッケェ……!!」新型エルグランド納車速報！ オーナーが選んだ仕様と第一印象は？",
+        "url": "https://bestcarweb.jp/feature/column/1585536"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "BMWの新世代EV「ノイエ・クラッセ」第一弾、新型『iX3』日本発売…航続906kmで982万円から",
+        "url": "https://response.jp/article/2026/07/23/414341.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "LimX Dynamics『TRON 2』が自律移動、ラストワンマイル配送や植木の水やりなど",
+        "url": "https://response.jp/article/2026/07/23/414359.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "MINIのレーシングカー展示、キッズメカニック体験も…ORJ RACINGが弥富市夏祭り2026に出展",
+        "url": "https://response.jp/article/2026/07/23/414358.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "SkyDrive、空飛ぶクルマの軽量CFRP製部品を調達へ…Airtificial社と契約",
+        "url": "https://response.jp/article/2026/07/23/414343.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "イクヨオートモーティブ、商用EVフォロフライに第三者割当増資検討…株式引受証を受領",
+        "url": "https://response.jp/article/2026/07/23/414354.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "ウェイモ、自動運転ライドシェアの招待制プレミアム会員サービス「ウェイモ プレミア」発表",
+        "url": "https://response.jp/article/2026/07/23/414352.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "カローラ ツーリング60周年記念車の黒バンパーはアリ？ 見た目買いできる特別仕様車をチェック!!",
+        "url": "https://bestcarweb.jp/feature/column/1548431"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "シエンタは親子3世代で使えるか？ 小さなボディに7人乗りを詰め込む価値",
+        "url": "https://bestcarweb.jp/feature/column/1559564"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "ダイネンマテリアル、Talga Groupからバッテリー向け負極材調達へ…オフテイク契約に向けLOI締結",
+        "url": "https://response.jp/article/2026/07/23/414344.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "はとバスのサステナブルツアー第4弾は「海の豊かさを守ろう！湘南・江の島海岸サステナブルツアー」",
+        "url": "https://bestcarweb.jp/busmagazine/1570249"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "フリードが一気にアウトドア顔!! クロスター アクティブタフスタイルは純正アクセの正解か",
+        "url": "https://bestcarweb.jp/feature/column/1568546"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "まだまだ売れ続けるのか!! 19年前の「デリカD:5」が過去最高販売を記録したワケ！",
+        "url": "https://bestcarweb.jp/feature/column/1562596"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "ライトの黄ばみやボディの小キズに悩む人必見！ 休日の一コマで意外とお手軽に処理できる愛車のリフレッシュ術！",
+        "url": "https://bestcarweb.jp/feature/column/1583485"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.22",
-        "title": "Rezvani's New Off-Road Supercar Makes The Huracan Sterrato Look Tame",
-        "url": "https://www.motor1.com/news/802280/2028-rezvani-dune-specs-details-photos/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.22",
-        "title": "The Nation's Largest Tire Retailer Just Got Bigger: Mavis Tire Buys Pep Boys",
-        "url": "https://www.motor1.com/news/802429/mavis-tire-buys-pep-boys/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.22",
-        "title": "Acura's Biggest SUV Yet Could Be On The Way: Report",
-        "url": "https://www.motor1.com/news/802355/acura-three-row-flagship-hybrid-suv-rumor/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "「LAND CRUISER OFFICIAL ITEMS」、新作を7月24日発売…『ランドクルーザーFJ』Tシャツも",
-        "url": "https://response.jp/article/2026/07/22/414317.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "「クロスオーバー機能」の力を借りてスピーカーを鳴らし切る！［イン・カー・リスニング学…チューニング編］",
-        "url": "https://response.jp/article/2026/07/22/414333.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "『アスラーダG.S.X RS SIREN』、プレミアムバンダイで予約開始…アニメ『新世紀GPXサイバーフォーミュラ』放映35周年記念",
-        "url": "https://response.jp/article/2026/07/22/414322.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "【スズキ エブリイワゴン 新型試乗】変わったのは“顔”のみにあらず！「新しいエブリイはワゴン一択！」と申し上げたい",
-        "url": "https://response.jp/article/2026/07/22/414336.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "1153馬力超え「モンスターEV」をスクープ！ メルセデスAMG『GT4ドアクーペ』にさらなる高性能仕様か",
-        "url": "https://response.jp/article/2026/07/22/414329.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "BMWの新点火技術「Mイグナイト」、今夏から全てのM直列6気筒エンジンに搭載",
-        "url": "https://response.jp/article/2026/07/22/414313.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "BYDシーライオン7が販売2000台!! 20台だけの記念限定車が登場!!",
-        "url": "https://bestcarweb.jp/news/1582668"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "RV全盛期になぜクーペが頂点に!? 三菱FTOがデビュー直後にCOTYを獲った納得の理由",
-        "url": "https://bestcarweb.jp/feature/column/1579404"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "SHOEIのピュアスポーツフルフェイス『Z-9』に新グラフィック「バーンサイド」が登場",
-        "url": "https://response.jp/article/2026/07/22/414334.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.22",
-        "title": "Woman Leaves 1-Star Review For Nissan Dealership. Then The General Manager Fights Back",
-        "url": "https://www.motor1.com/news/802364/nissan-dealership-attacks-small-business/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "アウトドア派はヴェゼルHuNTパッケージを選べ！ 撥水シートとルーフレールがもたらす抜群の使い勝手をガチ評価",
-        "url": "https://bestcarweb.jp/feature/column/1573893"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.22",
-        "title": "イーソルテクノロジーフォーラム 2026、AIディファインドビークルの本質と、それを支えるSDXプラットフォームの未来",
-        "url": "https://response.jp/article/2026/07/22/414325.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "カローラ ツーリング60周年記念車は買いか？ アクティブスポーツの特別感と価格をチェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1548170"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.22",
-        "title": "シエンタは“子育て卒業後”にもアリ？ 夫婦2人＋荷物で使う5人乗りミニバン",
-        "url": "https://bestcarweb.jp/feature/column/1559561"
+        "time": "2026.7.23",
+        "title": "Woman Gets Breakup Text On Her CarPlay. Then Her Nissan Texts Back Something Unhinged: ‘Can Someone Help Me Sue Nissan?’",
+        "url": "https://www.motor1.com/news/802337/nissan-auto-text-response/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 31,
-    "queued_articles": 31,
-    "processed": 31,
-    "started_at": "2026-07-22T15:18:11.742Z",
-    "finished_at": "2026-07-22T15:19:18.240Z",
+    "scoped_articles": 33,
+    "queued_articles": 33,
+    "processed": 33,
+    "started_at": "2026-07-23T03:41:27.791Z",
+    "finished_at": "2026-07-23T03:42:38.178Z",
     "success": true,
     "error": ""
   }
