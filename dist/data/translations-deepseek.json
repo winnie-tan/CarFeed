@@ -86591,5 +86591,784 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-23T03:42:38.158Z"
+  },
+  "https://www.motor1.com/news/802553/americans-off-roading-survey/": {
+    "title_zh": "调查：美国人对越野的兴趣空前高涨",
+    "summary_short": "调查显示，超过 64%的美国人对越野感兴趣，较去年大幅增长，年轻群体引领趋势。",
+    "summary_long": "韩泰轮胎最新 Gauge Index 调查显示，近三分之二的美国司机对越野旅行感兴趣，比例较去年显著上升。该调查随机抽取了 1000 名 18 岁以上美国司机。年轻群体是主要推动力，但 X 世代和婴儿潮一代也不甘落后。多数受访者首选 SUV，其次是皮卡，少数人选择轿车。由于电动越野车选择有限，燃油车仍占主导。",
+    "highlights_zh": [
+      "64%受访者有兴趣越野",
+      "年轻群体引领增长",
+      "SUV 为首选车型",
+      "燃油车仍占主导"
+    ],
+    "entities": [
+      "韩泰轮胎",
+      "SUV",
+      "皮卡",
+      "越野 | Off-roading"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/g4O308/s1/tacoma-off-road.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:18.447Z"
+  },
+  "https://www.thedrive.com/news/the-six-companies-that-quietly-own-almost-every-auto-service-chain-in-america-explained": {
+    "title_zh": "六大公司悄然掌控美国几乎所有汽车服务连锁店",
+    "summary_short": "私募股权推动下，六大巨头通过收购整合，悄然控制美国绝大多数汽车服务连锁店，影响消费者选择。",
+    "summary_long": "Mavis Tire 以 7 亿美元从 Carl Icahn 手中收购 Pep Boys，进一步扩大其轮胎零售版图。这一交易揭示了美国汽车后市场服务连锁店的高度集中化：实际上，仅六家大型控股公司掌控着全国几乎所有的连锁维修店。私募股权驱动的整合浪潮持续多年，消费者在不知不觉中面临更少的选择。",
+    "highlights_zh": [
+      "Mavis Tire 收购 Pep Boys",
+      "六大公司控制美国几乎所有汽车服务连锁店",
+      "私募股权推动行业持续整合",
+      "消费者选择空间日益缩小"
+    ],
+    "entities": [
+      "Mavis Tire",
+      "Pep Boys",
+      "O'Reilly Auto Parts",
+      "NAPA",
+      "私募股权"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/auto-repair-puppet-masters.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECASTEP25HERO2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:18.902Z"
+  },
+  "https://insideevs.com/news/802557/2027-volvo-ex60-epa-range-higher/": {
+    "title_zh": "沃尔沃 EX60 续航再提升，EPA 评级达 330 英里",
+    "summary_short": "沃尔沃 EX60 P10 AWD 版 EPA 续航达 330 英里，超预期 2.4%，成为品牌在美最长续航电动车。",
+    "summary_long": "沃尔沃 EX60 P10 AWD 版经 EPA 认证，续航里程达 330 英里，高于此前预估的 322 英里。该车基于 800 伏架构，支持最高 370 千瓦快充，10 分钟可补充 165 英里续航。若选装 22 英寸轮毂，续航降至 312 英里。未来还将推出续航约 400 英里的 P12 AWD 版本。",
+    "highlights_zh": [
+      "EPA 续航 330 英里",
+      "800 伏架构",
+      "22 英寸轮毂续航降至 312 英里",
+      "未来将推 P12 版"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "EX60",
+      "EPA",
+      "800 伏架构"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kbgwk1/s1/a-volvo-ex60-at-a-tesla-supercharger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:22.084Z"
+  },
+  "https://www.motor1.com/news/802554/2027-toyota-crown-sepcs-powertrains-price/": {
+    "title_zh": "丰田升级最独特车型：2027 款皇冠换装第五代混动系统",
+    "summary_short": "丰田 2027 款皇冠换装第五代混动系统，综合油耗约 40 英里/加仑，外观细节微调，新增黑色车漆。",
+    "summary_long": "丰田为 2027 款皇冠更新了第五代混合动力系统，该系统由 2.5 升自然吸气四缸发动机和两台电机组成，EPA 综合油耗约 40 英里/加仑（约 5.9 升/百公里），较 2026 款略降 1 英里/加仑。该混动系统应用于 XLE、Limited 和 Nightshade 版本，而顶配 Platinum 继续搭载 Hybrid Max 动力总成（2.4 升涡轮增压四缸+双电机，综合功率 340 马力，扭矩 400 磅-英尺，配 6 速自动变速箱）。外观方面，新车标配 19 英寸轮毂（可选 21 英寸），新增“Inked”黑色车漆，混动与四驱徽章采用缎面处理，Platinum 版标配红色刹车卡钳和黑色车窗饰条，Nightshade 版换装黑色徽章。",
+    "highlights_zh": [
+      "第五代混动系统",
+      "Platinum 版保留 Hybrid Max 动力",
+      "新增 Inked 黑色车漆及缎面徽章",
+      "Nightshade 版采用黑色徽章"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "皇冠",
+      "第五代混动系统",
+      "Hybrid Max",
+      "Nightshade"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJz6p/s1/2027-toyota-crown.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:23.046Z"
+  },
+  "https://www.thedrive.com/car-reviews/driving-an-aston-martin-brings-out-the-best-in-those-around-you": {
+    "title_zh": "驾驶阿斯顿·马丁，遇见最美好的人",
+    "summary_short": "驾驶阿斯顿·马丁 Vantage S 在底特律郊区，作者感受到周围人的善意与好奇，一次加油站邂逅尤为难忘。",
+    "summary_long": "驾驶价值 25 万美元的阿斯顿·马丁 Vantage S 在底特律周边巡游，作者发现这款英国跑车总能引发路人的积极反应。在密歇根州马科姆县的一个加油站，一位当地居民主动攀谈，分享对汽车的热爱，展现了陌生人之间的温暖互动。文章通过这次经历，探讨了豪华汽车如何成为人际连接的桥梁。",
+    "highlights_zh": [
+      "阿斯顿·马丁 Vantage S 售价约 25 万美…",
+      "在底特律郊区驾驶引发路人好奇与善意",
+      "加油站邂逅成为难忘的社交时刻",
+      "豪华车成为人际连接的催化剂"
+    ],
+    "entities": [
+      "阿斯顿·马丁 | Aston Martin",
+      "Vantage S",
+      "底特律",
+      "马科姆县"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/20260625_160729-e1784752703297.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/20260625_160249.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/20260625_160501.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:26.013Z"
+  },
+  "https://www.thedrive.com/news/all-eyes-turn-to-mercedes-as-senate-panel-advances-chinese-car-ban-tds": {
+    "title_zh": "美国参议院推进中国汽车禁令，梅赛德斯成焦点",
+    "summary_short": "美国参议院委员会通过法案，禁止中国持股超 15%的车企在美销售，梅赛德斯因 20%中国投资面临挑战，需在 2030 年前合规或申请豁免。",
+    "summary_long": "美国参议院商务委员会于周三通过一项法案，禁止由中国实体持股超过 15%的汽车制造商在美国销售汽车。该法案将梅赛德斯-奔驰置于聚光灯下，因其 20%的投资来自中国。法案起草人之一、参议员伯尼·莫雷诺表示，梅赛德斯可在 2030 年前合规或申请豁免。参议员特德·克鲁兹称，通用汽车支持该提案，以便凯迪拉克在梅赛德斯退出时抢占其市场份额，但通用否认针对特定车企。",
+    "highlights_zh": [
+      "法案禁止中国持股超 15%的车企在美销售",
+      "梅赛德斯 20%投资来自中国",
+      "梅赛德斯需在 2030 年前减少中国持股或申请豁免",
+      "通用汽车被指支持法案以助凯迪拉克抢占市场"
+    ],
+    "entities": [
+      "梅赛德斯-奔驰 | Mercedes-Benz",
+      "凯迪拉克",
+      "通用汽车",
+      "美国参议院",
+      "中国汽车禁令"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-1238555878.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECASTEP25HERO2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:26.909Z"
+  },
+  "https://insideevs.com/news/802543/next-gen-chevy-equinox-ev/": {
+    "title_zh": "下一代雪佛兰 Equinox EV 将于 2028 年推出",
+    "summary_short": "雪佛兰 Equinox EV 将于 2028 年换代，采用通用汽车全新 BEV-N 平台，但具体改进细节尚未公布。",
+    "summary_long": "据 GM Authority 报道，雪佛兰 Equinox EV 将在 2028 年底至 2029 年初推出第二代车型，从当前的 BEV3 平台切换至通用汽车全新的 BEV-N 平台。该车型上市两年多来已在美国销售超过 10 万辆，成为通用最关键的电动车型之一。目前 BEV-N 平台的技术细节尚未公开，但通用确认正在同步开发全新的车辆电子、软件和计算硬件架构。",
+    "highlights_zh": [
+      "第二代 Equinox EV 预计 2028 年底投…",
+      "将采用通用全新 BEV-N 平台",
+      "现款车型已累计销售超 10 万辆",
+      "通用同步开发新电子与软件架构"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Equinox EV",
+      "通用汽车",
+      "BEV3",
+      "BEV-N"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/kol1zx/s1/2024-chevy-equinox-ev-rs-awd.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:30.901Z"
+  },
+  "https://www.motor1.com/news/802473/300000-mile-c6-callaway-corvette/": {
+    "title_zh": "机械增压科尔维特原厂发动机行驶 30 万英里",
+    "summary_short": "一辆 2010 款 Callaway SC606 Corvette Grand Sport 在保留原装发动机和曲轴箱的情况下，行驶里程突破 30 万英里。",
+    "summary_long": "一辆 2010 款 Callaway SC606 Corvette Grand Sport 最近行驶里程突破 30 万英里，且仍使用原装发动机和曲轴箱。该车是 Callaway 基于 C6 Corvette Grand Sport 开发的改装版本，搭载 Eaton 机械增压器，将 LS3 V8 发动机功率从 430 马力提升至 606 马力。这辆原型车最初用于 Callaway 的研发和营销，后由一名产品经理的朋友代为保管并日常驾驶，最终在 2020 年由保管人正式购得。",
+    "highlights_zh": [
+      "原装发动机行驶 30 万英里",
+      "Callaway SC606 基于 C6 Grand…",
+      "机械增压 LS3 V8 输出 606 马力",
+      "从研发原型车转为私人所有"
+    ],
+    "entities": [
+      "Callaway",
+      "Corvette Grand Sport",
+      "LS3",
+      "机械增压"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/RqkBW9/s1/2010-callaway-sc606-chevrolet-corvette-grand-sport.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:31.566Z"
+  },
+  "https://response.jp/article/2026/07/23/414377.html": {
+    "title_zh": "再现《EVA》赛车支援车，Tomica《EVA RT2 号机 丰田 HIACE》开启预订",
+    "summary_short": "Tomica 推出《EVA RT2 号机 丰田 HIACE》迷你车，再现《EVA》赛车支援车，售价 1500 日元，2026 年 10 月发售。",
+    "summary_long": "拉纳娱乐宣布，以《EVA》赛车支援车为原型的 Tomica《EVA RT2 号机 丰田 HIACE》于 7 月 23 日 17 时在应援型电商平台“Support”开启预订。该车以 2025 赛季实际使用的支援车为模型，采用《EVA》2 号机标志性的红色涂装，并精细还原赛车团队特有的图形。Tomica 系列自 1970 年推出以来，累计销量已超 10 亿台。商品售价 1500 日元，预计 2026 年 10 月发售，将在赛车赛事会场、EVA 官方商店等渠道销售。",
+    "highlights_zh": [
+      "Tomica 推出《EVA RT2 号机 丰田 HI…",
+      "以 2025 赛季实际支援车为原型",
+      "红色涂装还原《EVA》2 号机形象",
+      "售价 1500 日元"
+    ],
+    "entities": [
+      "トミカ",
+      "丰田 HIACE | Toyota Hiace",
+      "エヴァンゲリオン",
+      "EVA 赛车 | エヴァンゲリオンレーシング"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229610.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229610.jpg",
+      "https://response.jp/imgs/fill2/2229612.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:36.506Z"
+  },
+  "https://response.jp/article/2026/07/23/414376.html": {
+    "title_zh": "丰田会长观看“儿子”搞笑演出",
+    "summary_short": "丰田章男会长观看搞笑组合三四郎的演出，自称“父亲”并赠送花篮，引发热议。",
+    "summary_long": "丰田汽车会长丰田章男在 Instagram 上分享了自己观看搞笑组合三四郎演出的经历，并称成员小宫浩信为“儿子”。两人因小宫在广播节目中自称“丰田章男的儿子”而结缘，丰田会长曾惊喜电话连线。此次演出中，丰田会长以“父亲”名义赠送花篮，并在演出后悄悄离开，未与本人会面。",
+    "highlights_zh": [
+      "丰田章男自称“父亲”观看演出",
+      "小宫浩信在广播中自称“儿子”",
+      "丰田会长赠送花篮并悄悄离场",
+      "网友称赞“帅气的父亲”"
+    ],
+    "entities": [
+      "丰田章男",
+      "三四郎",
+      "小宫浩信",
+      "丰田汽车 | Toyota Motor"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229615.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229615.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:36.684Z"
+  },
+  "https://response.jp/article/2026/07/23/414388.html": {
+    "title_zh": "宾利 Bentayga Speed 新款试驾：极致时刻如浪潮般涌来",
+    "summary_short": "宾利 Bentayga Speed 换装 V8 引擎，顶级性能与豪华体验再升级，极致驾乘感受如浪潮般涌来。",
+    "summary_long": "宾利 Bentayga 推出顶级性能版 Speed，搭载 V8 发动机取代以往的 W12。尽管排量减小，但动力与豪华感不减，驾驶体验如“极致时刻”般连绵不绝。新车在保持品牌精髓的同时，通过 V8 引擎实现更紧凑的布局和更敏捷的响应，带来全新的顶级 SUV 驾乘感受。",
+    "highlights_zh": [
+      "顶级性能版 Speed 搭载 V8 引擎",
+      "取代 W12",
+      "极致驾驶体验如浪潮般涌来"
+    ],
+    "entities": [
+      "宾利",
+      "Bentayga Speed",
+      "V8 引擎",
+      "W12 引擎"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229659.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229658.jpg",
+      "https://response.jp/imgs/fill2/2229658.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:41.538Z"
+  },
+  "https://bestcarweb.jp/news/1578797": {
+    "title_zh": "4 人座轻卡唯一之选！大发 Atrai Deck Van 户外魅力解析",
+    "summary_short": "大发 Atrai Deck Van 兼具 4 人座舱与开放式货台，是户外爱好者的理想伙伴。",
+    "summary_long": "大发 Atrai Deck Van 凭借 4 人座舱与开放式货台的独特组合，成为户外爱好者的热门选择。2026 年 6 月改款后，新车在保持原有实用性的基础上，进一步提升了配置。其开放式货台可轻松装载泥泞山地车、湿潜水服或露营木柴，无需担心弄脏车厢。车身尺寸充分利用轻自动车标准，搭载 658cc 涡轮增压发动机，最大功率 64 马力，扭矩 91 牛·米，配合 CVT 变速箱，满载户外装备时仍能提供强劲加速。WLTC 油耗 14.7km/L，兼顾长途经济性。",
+    "highlights_zh": [
+      "4 人座舱+开放式货台",
+      "可装载泥泞装备",
+      "658cc 涡轮增压发动机",
+      "WLTC 油耗 14.7km/L"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "Atrai Deck Van",
+      "轻自动车",
+      "CVT 变速箱",
+      "WLTC 油耗"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16144121/atrai_211220010_1.jpg?v=1784180483",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16144121/atrai_211220010_1-600x403.jpg?v=1784180483",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17172236/6d09d968b89047905d8ba8c505d33e8a-600x315.jpg?v=1784276558"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:41.752Z"
+  },
+  "https://response.jp/article/2026/07/23/414384.html": {
+    "title_zh": "BUBU MITSUOKA 茨城筑波展厅 8 月底关闭",
+    "summary_short": "BUBU MITSUOKA 宣布 8 月底关闭茨城县筑波展厅，售后业务将转移至柏和宇都宫展厅。",
+    "summary_long": "BUBU MITSUOKA 宣布将于 8 月底关闭位于茨城县的筑波展厅。公司对购车及服务中的客户可能因此产生的不便表示理解。8 月 31 日前，筑波展厅仍受理咨询，包括售后服务的入库、业务转移、贷款合同及所有权解除等。9 月起，相关业务将转移至千叶县的柏展厅和栃木县的宇都宫展厅。",
+    "highlights_zh": [
+      "筑波展厅 8 月底关闭",
+      "售后业务转移至柏和宇都宫",
+      "8 月 31 日前仍可咨询"
+    ],
+    "entities": [
+      "BUBU MITSUOKA",
+      "筑波",
+      "柏",
+      "宇都宫"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229632.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229632.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:45.814Z"
+  },
+  "https://response.jp/article/2026/07/23/414382.html": {
+    "title_zh": "Terra Charge 在冲绳 CAVE OKINAWA 安装 6kW 普通充电器",
+    "summary_short": "Terra Charge 在冲绳 CAVE OKINAWA 安装 2 台 6kW 普通充电器，支持观光设施 EV 充电。",
+    "summary_long": "Terra Charge 通过其充电服务“Terra Charge”，在冲绳县宇流麻市的观光设施 CAVE OKINAWA 安装了 2 台 6kW 普通充电器（单口型）。CAVE OKINAWA 计划于 2026 年 9 月重新开放，提供全长约 250 米的洞穴探险体验，年游客量达 15 万人。此外，Terra Charge 还更新了其 EV 充电应用，提升了易用性。公司计划继续在旅游、商业和酒店等场所扩展充电基础设施。",
+    "highlights_zh": [
+      "在 CAVE OKINAWA 安装 2 台 6kW…",
+      "支持年 15 万游客的观光设施",
+      "充电应用已更新",
+      "继续扩展旅游及商业设施充电网络"
+    ],
+    "entities": [
+      "Terra Charge",
+      "CAVE OKINAWA",
+      "冲绳"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229628.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229628.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:45.963Z"
+  },
+  "https://response.jp/article/2026/07/23/414378.html": {
+    "title_zh": "NGK 连续两年获 CDP 供应商参与领导者评级",
+    "summary_short": "NGK 因气候应对措施获 CDP 最高评级，连续两年被选为供应商参与领导者。",
+    "summary_long": "日本特殊陶业（NGK）因在气候应对方面的积极举措，连续第二年获得 CDP（碳信息披露项目）的“供应商参与领导者”最高评级。CDP 是一家国际非营利组织，运营环境信息披露系统，评估企业在气候变化、水安全和森林方面的行动。2025 年度约有 22100 家组织通过 CDP 披露环境信息。",
+    "highlights_zh": [
+      "NGK 连续两年获 CDP 最高评级",
+      "CDP 评估气候变化、水安全、森林",
+      "2025 年度约 2.21 万家企业披露信息"
+    ],
+    "entities": [
+      "NGK",
+      "CDP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229618.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229618.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:49.741Z"
+  },
+  "https://response.jp/article/2026/07/23/414368.html": {
+    "title_zh": "NOK 旗下 Mekttec 开发厚度不足 0.1mm 柔性电磁波吸收体，5G 毫米波噪声吸收率超 99%",
+    "summary_short": "NOK 旗下 Mekttec 开发出厚度不足 0.1mm 的柔性电磁波吸收体，采用超材料技术，对 5G 毫米波噪声吸收率超 99%。",
+    "summary_long": "NOK 集团旗下公司 Mekttec 宣布，针对下一代高速通信设备及人形机器人等领域的高频噪声问题，新开发出厚度不足 0.1mm 的“柔性电磁波吸收体”。该产品应用柔性印刷电路板（FPC）制造技术，实现了薄型、轻量、高柔韧性和弯曲性，可配置于有限空间或复杂曲面，支持电子设备进一步小型化轻量化。此外，采用在表面精密排列微细图案的独特超材料技术，能够吸收 5G 通信和人形机器人等使用的毫米波频段（波长 1-10mm，频率 30-300GHz）电磁波，实现 99%以上的噪声吸收。",
+    "highlights_zh": [
+      "厚度不足 0.1mm 的柔性电磁波吸收体",
+      "采用超材料技术",
+      "可配置于复杂曲面",
+      "面向 5G 通信及人形机器人等高频噪声场景"
+    ],
+    "entities": [
+      "NOK",
+      "メクテック"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229576.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229576.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:50.875Z"
+  },
+  "https://www.motor1.com/news/802251/buick-enclave-timing-chain-rattle/": {
+    "title_zh": "别克昂科雷启动异响引发维修警告",
+    "summary_short": "一辆别克昂科雷启动时发出剧烈金属敲击声，网友诊断为正时链条问题，维修费高达 2000-4000 美元。",
+    "summary_long": "一段 TikTok 视频显示，一辆别克昂科雷启动时发出剧烈金属敲击声，引发广泛关注。在线汽车专家迅速诊断为正时链条张紧器泄油导致链条和凸轮相位器异响，维修费用预计 2000 至 4000 美元。车主面临是否值得维修的抉择，不少网友建议尽快转手。",
+    "highlights_zh": [
+      "启动时金属敲击声持续数秒",
+      "诊断为正时链条张紧器泄油",
+      "维修费高达 2000 至 4000 美元",
+      "网友建议尽快转手"
+    ],
+    "entities": [
+      "别克 | Buick",
+      "昂科雷",
+      "正时链条",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPy7k/s1/woman-starts-her-buick.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:53.363Z"
+  },
+  "https://response.jp/article/2026/07/23/414373.html": {
+    "title_zh": "Archion 股价回落，卖出发行价 260 日元引发供需恶化担忧",
+    "summary_short": "Archion 股价回落，卖出发行价 260 日元引发供需恶化担忧，日经指数反弹但涨幅收窄。",
+    "summary_long": "7 月 23 日，日经平均股指反弹，较前日上涨 307.00 日元，收于 66,422.60 日元。受美国市场影响，半导体相关股买盘先行，但高位抛压沉重，尾盘涨幅收窄。22 日纽约道指小幅下跌 6 美元至 52,218 美元，伊朗局势不确定性和通胀担忧压制市场，但美国主要企业盈利预期良好支撑投资者情绪。纳斯达克指数回落，特斯拉下跌 1.30%。外汇市场日元兑美元在 163 日元前半段波动。汽车股涨跌互现。Archion 股价回落，因卖出发行价定为 260 日元，市场担忧供需恶化。",
+    "highlights_zh": [
+      "日经指数反弹但涨幅收窄",
+      "纽约道指小幅下跌",
+      "特斯拉下跌 1.30%",
+      "Archion 股价回落"
+    ],
+    "entities": [
+      "Archion",
+      "日经平均股指",
+      "纽约道指",
+      "特斯拉 | Tesla",
+      "日元"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229609.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229609.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:55.584Z"
+  },
+  "https://response.jp/article/2026/07/23/414369.html": {
+    "title_zh": "阿斯顿·马丁 Vanquish 25 周年纪念版发布",
+    "summary_short": "阿斯顿·马丁为纪念初代 Vanquish 诞生 25 周年，推出全球限量 50 台的 Vanquish 25，搭载 835 马力 V12 双涡轮增压引擎。",
+    "summary_long": "阿斯顿·马丁于 7 月 22 日在英国盖登发布了 Vanquish 25，这是为纪念初代 Vanquish 诞生 25 周年而打造的限量版车型。该车由阿斯顿·马丁定制部门 Q by Aston Martin 操刀，全球限量 50 台，其中 Coupe 和 Volante 各 25 台。外观采用专属 Q Sky Silver 车漆，并加入金属箔细节、不锈钢侧翼等独特装饰。动力方面，搭载 5.2 升 V12 双涡轮增压发动机，最大功率 835 马力，峰值扭矩 1000 牛·米，0-100km/h 加速仅 3.3 秒，极速 345km/h。",
+    "highlights_zh": [
+      "全球限量 50 台",
+      "搭载 835 马力 5.2 升 V12 双涡轮增压引…",
+      "0-100km/h 加速 3.3 秒",
+      "由 Q by Aston Martin 定制部门打造"
+    ],
+    "entities": [
+      "阿斯顿·马丁",
+      "Vanquish 25",
+      "V12 双涡轮增压",
+      "Q by Aston Martin"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229578.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229578.jpg",
+      "https://response.jp/imgs/fill2/2229577.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:27:58.530Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551679": {
+    "title_zh": "日产奇骏 7 座版实用吗？放弃 MPV 选 SUV 的现实考量",
+    "summary_short": "日产奇骏 7 座版第三排适合儿童短途，兼顾 SUV 风格与偶尔多人出行需求。",
+    "summary_long": "日产奇骏作为中型 SUV 提供 7 座 3 排座椅选项，2025 年 8 月改款后产品力提升。第三排更适合儿童或小个子短途乘坐，或偶尔搭载祖父母、朋友。车身尺寸 4690×1840×1720mm，保持 SUV 姿态而非 MPV 高车顶设计。日常 5 人、必要时 7 人的灵活空间，让不想放弃 SUV 外观和驾驶感的人有了折中选择。但满载 7 人加行李时，MPV 如 Serena 或 Alphard 更实用。",
+    "highlights_zh": [
+      "第三排适合儿童或短途",
+      "保持 SUV 外观与驾驶感",
+      "日常 5 人、必要时 7 人",
+      "满载行李时 MPV 更优"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "奇骏",
+      "e-4ORCE",
+      "Serena",
+      "Alphard"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24121013/NISSAN-X-TRAIL_057-1.jpg?v=1782270614",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24121013/NISSAN-X-TRAIL_057-1-600x400.jpg?v=1782270614",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16142608/HONDA-FREED_041_1-600x400.jpg?v=1784179569"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:00.245Z"
+  },
+  "https://bestcarweb.jp/news/business/1582170": {
+    "title_zh": "内燃机不是“过时技术”！早稻田教授揭示发动机的希望与可能性",
+    "summary_short": "早稻田大学教授草鹿仁指出，内燃机并非过时，欧洲已转向发动机、混动和碳中和燃料，日本需重建发动机研发。",
+    "summary_long": "早稻田大学理工学术院教授草鹿仁在接受《Best Car》采访时，驳斥了“发动机是过时技术”的观点。他指出，欧洲已重新转向发动机、混合动力和碳中和燃料，甚至出现了热效率达 48%的发动机。草鹿教授强调，日本急需重建发动机研发体系，以应对脱碳化趋势。本次访谈为系列第一篇，探讨了内燃机研究的前沿领域。",
+    "highlights_zh": [
+      "欧洲已转向发动机、混动和碳中和燃料",
+      "热效率 48%的发动机已问世",
+      "日本需紧急重建发动机研发",
+      "内燃机研究并非过时"
+    ],
+    "entities": [
+      "早稻田大学",
+      "草鹿仁",
+      "内燃机",
+      "碳中和燃料",
+      "Best Car"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17143239/0M0A3171.jpg?v=1784266360",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17143239/0M0A3171-600x400.jpg?v=1784266360",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/27182712/40462c7789f05af8f23f353a250c8be6-600x395.jpg?v=1782552434"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:02.690Z"
+  },
+  "https://bestcarweb.jp/news/1582669": {
+    "title_zh": "起亚电动 MPV PV5 专用床套件登场，EV 车中泊舒适进化",
+    "summary_short": "Toy Factory 为起亚 PV5 Passenger 推出专用床套件，实现双人床与储物空间兼顾，拓展 EV 车中泊与户外用途。",
+    "summary_long": "Toy Factory 为起亚次世代电动 MPV PV5 Passenger 推出专用床套件。该套件充分利用 EV 停车时空调可用的特性，提升车中泊舒适度。床尺寸为 1850mm×1400mm，可容纳两名成人，下方保留大型行李空间，兼顾日常与旅行需求。",
+    "highlights_zh": [
+      "Toy Factory 推出起亚 PV5 专用床套件",
+      "双人床尺寸 1850×1400mm",
+      "床下保留大型储物空间",
+      "利用 EV 电池实现停车空调"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5",
+      "Toy Factory",
+      "电动 MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17170120/72591fc2432787419035fec2e2f20942.jpg?v=1784275281",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17170120/72591fc2432787419035fec2e2f20942-600x361.jpg?v=1784275281",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17172236/6d09d968b89047905d8ba8c505d33e8a-600x315.jpg?v=1784276558"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:03.711Z"
+  },
+  "https://bestcarweb.jp/feature/column/1579627": {
+    "title_zh": "夏天车内高温危险：千万别放手机、喷雾罐和充电宝",
+    "summary_short": "夏季车内温度可达 50°C 以上，手机、喷雾罐、充电宝等物品在高温下极易引发火灾或爆炸。",
+    "summary_long": "夏季高温下，车辆在烈日下停放 20 分钟车内温度即可超过 40°C，1 小时后可达 50°C 以上。JAF 测试显示，4 小时暴晒后车内最高温度达 57°C，仪表盘甚至可达 79°C。在这种环境下，手机、喷雾罐、移动电源等日常物品可能因高温而损坏、泄漏甚至爆炸，造成严重安全隐患。使用遮阳挡可将仪表盘温度降至 52°C，但仍需避免放置危险物品。",
+    "highlights_zh": [
+      "车内 20 分钟可达 40°C",
+      "仪表盘温度最高达 79°C",
+      "手机、喷雾罐、充电宝高温下易爆炸",
+      "遮阳挡可降温但仍有风险"
+    ],
+    "entities": [
+      "JAF"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14130341/7985510e42c4f78dbb0255eb8a10678f.jpeg?v=1784001822",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/14130341/7985510e42c4f78dbb0255eb8a10678f-600x400.jpeg?v=1784001822",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16142608/HONDA-FREED_041_1-600x400.jpg?v=1784179569"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:06.882Z"
+  },
+  "https://bestcarweb.jp/feature/tieup/1567739": {
+    "title_zh": "日产奇骏换上 SUV 专用轮胎，驾驶感惊艳",
+    "summary_short": "日产奇骏换上横滨 Advan V61 SUV 专用轮胎后，抓地力与直进性大幅提升，驾驶质感令人惊喜。",
+    "summary_long": "横滨轮胎旗下运动品牌 Advan 推出专为 SUV 设计的 V61 轮胎，测试于日产奇骏 Rock Creek 版（235/55R19）。换上后，车辆表现出惊人的路面吸附感，如同跑车般紧贴地面，转向响应精准。在约 100 公里的测试中，直进性尤为突出，原本已不错的奇骏在 V61 加持下直线行驶更加稳定，整体驾驶质感提升明显。",
+    "highlights_zh": [
+      "路面吸附感强",
+      "转向精准",
+      "直进性大幅提升",
+      "SUV 专用胎带来惊喜"
+    ],
+    "entities": [
+      "横滨轮胎",
+      "Advan V61",
+      "日产 | Nissan",
+      "奇骏"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09175352/s-ADVAN-v61-E_019_1.jpg?v=1783587234",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09175352/s-ADVAN-v61-E_019_1-600x400.jpg?v=1783587234",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22174737/4478a17662765e8f9bd28306504611a9-600x377.jpg?v=1784710059"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:08.122Z"
+  },
+  "https://response.jp/article/2026/07/23/414381.html": {
+    "title_zh": "遮阳挡能让车内温度降多少？盛夏效果与高效降温方法",
+    "summary_short": "测试显示，未采取任何措施的黑色车辆车内最高温度达 57 度，白色车辆也达 52 度。使用遮阳挡可有效降低车内温度，配合正确使用空调能更快降温。",
+    "summary_long": "夏季停车后车内温度急剧上升，直射阳光通过玻璃加热仪表盘和座椅，使车内温度远高于外界。JAF 在 2012 年 8 月外温 35 度的晴天测试显示，未采取任何措施的黑色车辆车内最高温度达 57 度，白色车辆也达 52 度。使用前挡风玻璃遮阳挡是简单有效的措施，可大幅减少阳光直射，降低车内温度。此外，上车后应先开窗通风再开空调，并设置内循环模式，以更快降低车内温度。",
+    "highlights_zh": [
+      "未遮阳黑色车车内最高 57 度",
+      "白色车车内最高 52 度",
+      "遮阳挡有效降低车内温度",
+      "先开窗通风再开空调更高效"
+    ],
+    "entities": [
+      "JAF"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229427.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229427.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:11.179Z"
+  },
+  "https://response.jp/article/2026/07/23/414374.html": {
+    "title_zh": "ジオテクノロジーズ获えるぼし3 星认证：女性录用率 43%、育儿假复职率 100%",
+    "summary_short": "数字地图服务公司ジオテクノロジーズ获女性活跃推进认证最高等级 3 星，女性录用率 43%、育儿假复职率 100%。",
+    "summary_long": "数字地图服务公司ジオテクノロジーズ宣布，在基于女性活跃推进法的认定制度“えるぼし认定”中，获得最高评价的 3 星认证。该认证由厚生劳动省颁发，根据企业在女性活跃推进方面的举措进行 3 级评估。该公司在“录用”“持续就业”“劳动时间等工作方式”“管理职比率”“多样化职业路径”全部 5 个项目中满足标准，从而获得此次认定。",
+    "highlights_zh": [
+      "女性录用率 43%",
+      "育儿假复职率 100%",
+      "全 5 项目达标获最高等级"
+    ],
+    "entities": [
+      "ジオテクノロジーズ",
+      "えるぼし认定",
+      "女性活跃推进法",
+      "厚生劳动省"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229616.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229616.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:12.128Z"
+  },
+  "https://bestcarweb.jp/feature/column/1568485": {
+    "title_zh": "果然还是适合日本道路！本田 Freed 的 5 号牌尺寸是正义吗",
+    "summary_short": "本田 Freed 坚持 5 号牌尺寸（宽 1695mm），在狭窄街道和停车场中更易驾驶，兼顾 3 排座椅与滑动门实用性。",
+    "summary_long": "本田 Freed 的车宽 1695mm，属于日本 5 号牌标准，在如今许多紧凑型 SUV 车宽已达 1800mm 的时代，这一尺寸在狭窄住宅街、老旧停车场、立体停车场等日常场景中优势明显。100mm 的宽度差异就能显著改变会车、停车时的紧张感，尤其适合家庭中不同驾驶水平的成员。最小转弯半径 5.2m，车长 4310mm，在购物、医院、车站等场所也易于操控。Freed 的价值在于将 3 排座椅和滑动门整合在 5 号牌尺寸内，日常紧凑实用，需要时能容纳更多乘客，灵活性突出。",
+    "highlights_zh": [
+      "车宽 1695mm",
+      "狭窄道路和停车场更易驾驶",
+      "3 排座椅+滑动门",
+      "转弯半径 5.2m"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Freed",
+      "5 号牌尺寸",
+      "紧凑型 SUV",
+      "滑动门"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16142608/HONDA-FREED_041_1.jpg?v=1784179569",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16142608/HONDA-FREED_041_1-600x400.jpg?v=1784179569",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19120110/A35_3141-600x400.jpg?v=1781838072"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:16.664Z"
+  },
+  "https://bestcarweb.jp/feature/column/1552569": {
+    "title_zh": "丰田 Yaris Cross 选哪个配置？X、G、Z、Z Adventure 价格与装备对比",
+    "summary_short": "丰田 Yaris Cross 四款配置对比：X 最便宜，G 性价比高，Z 更豪华，Z Adventure 偏运动。",
+    "summary_long": "2026 年 3 月改款的丰田 Yaris Cross 提供 X、G、Z、Z Adventure 四种配置。X 为入门版，汽油两驱约 212 万日元，混动约 251 万日元，油耗表现优秀，适合预算有限的用户。G 版比 X 贵约 21-20 万日元，但增加了 16 英寸铝合金轮毂、高级织物内饰和 10.5 英寸中控屏，日常使用体验更好，是性价比之选。Z 版在 G 基础上再贵约 28 万日元，配备投影式 LED 大灯、真皮方向盘、电动座椅、座椅加热等豪华配置，适合追求品质的用户。Z Adventure 则更偏向户外风格。",
+    "highlights_zh": [
+      "X 版最便宜",
+      "G 版性价比最高",
+      "Z 版豪华配置丰富",
+      "Z Adventure 偏向户外风格"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Yaris Cross",
+      "X",
+      "G",
+      "Z"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24144751/20250227_01_19.jpg?v=1782280072",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24144751/20250227_01_19-600x400.jpg?v=1782280072",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16142608/HONDA-FREED_041_1-600x400.jpg?v=1784179569"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:17.447Z"
+  },
+  "https://www.motor1.com/features/802484/costco-car-buying-program-deals/": {
+    "title_zh": "Costco 购车计划：会员可省数千美元",
+    "summary_short": "Costco 的汽车购买计划通过预先定价，为会员节省数百至数千美元，但专家建议货比三家。",
+    "summary_long": "Costco 不仅以廉价热狗和大量卫生纸闻名，还通过其汽车购买计划帮助会员购车。该计划已运行数十年，连接会员与参与经销商，提供预先商定的价格，简化了购车谈判过程。根据所购车型，会员可节省数百至数千美元。但专家提醒，获得报价后仍应继续比价，以确保最佳交易。",
+    "highlights_zh": [
+      "Costco 汽车计划已运行数十年",
+      "会员可享受预先定价",
+      "节省金额从几百到几千美元不等",
+      "获得报价后仍需货比三家"
+    ],
+    "entities": [
+      "Costco"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGYZl/s1/costco-car-sales.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:20.505Z"
+  },
+  "https://insideevs.com/news/802523/tesla-q2-2026-earnings-report/": {
+    "title_zh": "特斯拉 Q2 交付量增 25%，运营利润却暴跌 57%",
+    "summary_short": "特斯拉 Q2 交付量创新高，营收增长 26%，但运营利润暴跌 57%，受汽车利润率下滑和 AI、机器人等巨额投入拖累。",
+    "summary_long": "特斯拉 2026 年第二季度交付 48 万辆汽车，同比增长 25%，创历史新高，营收达 282.4 亿美元。然而，运营利润暴跌 57%至约 4 亿美元，远低于分析师预期。汽车毛利率降至 16.3%，单车均价从 45345 美元降至 42730 美元。同时，研发费用飙升 49%至 23.7 亿美元，主要用于 AI、Robotaxi 和 Optimus 机器人项目。监管积分收入大幅下滑，从去年同期的 4.39 亿美元降至 1.46 亿美元。",
+    "highlights_zh": [
+      "Q2 交付 48 万辆",
+      "运营利润跌 57%",
+      "汽车毛利率降至 16.3%",
+      "研发费用飙升至 23.7 亿美元"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3",
+      "Model Y",
+      "Cybertruck",
+      "Optimus"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/8A32wM/s1/tesla-q2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:21.202Z"
+  },
+  "https://www.motor1.com/news/802437/auto-zone-prices/": {
+    "title_zh": "女子发现 AutoZone 价格翻倍，呼吁避开实体店",
+    "summary_short": "女子发现 AutoZone 等实体店零件价格翻倍，建议网购替代，但需注意等待时间。",
+    "summary_long": "一位名为 Alaysia Ortega 的消费者在视频中控诉 AutoZone 等实体汽车配件店价格虚高，称其售价是合理价格的两倍。她建议消费者转向网购平台购买零件，以节省开支。然而，网购可能面临等待时间较长的问题。该视频引发广泛关注，提醒消费者在购买汽车配件时货比三家。",
+    "highlights_zh": [
+      "AutoZone 价格翻倍",
+      "建议网购替代",
+      "需等待时间",
+      "视频超 150 万观看"
+    ],
+    "entities": [
+      "AutoZone",
+      "汽车配件",
+      "网购"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEKK7/s1/woman-goes-to-autozone.-then-she-realizes-she-s-being-charged-double.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:24.363Z"
+  },
+  "https://www.motor1.com/news/802508/porsche-5000-layoffs-report/": {
+    "title_zh": "保时捷再裁 5000 人：成本削减计划扩大",
+    "summary_short": "保时捷在已宣布裁员 3900 人基础上，再裁 5000 人，应对销量下滑与产品空窗期。",
+    "summary_long": "保时捷面临严峻挑战，2025 年销量从 2023 年 32 万辆峰值降至 27.9 万辆，2026 年上半年再跌 15%。燃油版 Macan 本月停产，电动继任车型最早 2028 年上市；718 系列去年 10 月停产，Boxster 和 Cayman 最快 2027 年回归。为改善财务状况，保时捷在已宣布 3900 人裁员基础上，CEO Michael Leiters 向监事会提议再裁约 5000 人，总裁员规模或达 9000 人。此外，可能实施降薪措施以换取剩余员工保障。",
+    "highlights_zh": [
+      "保时捷计划再裁 5000 人",
+      "2025 年销量 27.9 万辆",
+      "燃油 Macan 本月停产",
+      "718 系列停产"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Macan",
+      "718",
+      "Boxster",
+      "Cayman"
+    ],
+    "gallery_images": [],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:25.296Z"
+  },
+  "https://www.motor1.com/news/802498/2027-hyundai-tucson-spy-video/": {
+    "title_zh": "新一代现代途胜谍照：更大车身与巨幅屏幕",
+    "summary_short": "新一代现代途胜内饰曝光，配备巨大屏幕，车身尺寸明显增大，预计 2026 年底在韩国首发。",
+    "summary_long": "新一代现代途胜在韩国被拍到谍照，车身外部仍有伪装，但内饰完全暴露。新车尺寸明显增大，与旁边的旧款索兰托相比，长度可能接近 4.8 米。内饰最引人注目的是巨大的 Pleos 信息娱乐屏幕，彻底改变了中控台布局。现代汽车在 2026 年第二季度财报电话会议上确认，新款途胜将于今年第四季度在韩国上市。",
+    "highlights_zh": [
+      "车身尺寸明显增大",
+      "内饰配备巨大 Pleos 屏幕",
+      "2026 年第四季度韩国首发"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "途胜 | Tucson",
+      "索兰托",
+      "Pleos"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zw7MW/s1/hyundai-tucson-interior-screenshot-from-spy-video.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:28.102Z"
+  },
+  "https://insideevs.com/news/802258/plug-in-balcony-solar-microinverter-ul/": {
+    "title_zh": "美国首款 UL 合规插电式阳台太阳能微型逆变器问世",
+    "summary_short": "Hoymiles HiFlow Pro 成为美国首款符合 UL 3700 标准的插电式阳台太阳能微型逆变器，可直接插入 120 伏插座，提升公寓太阳能使用安全性。",
+    "summary_long": "Hoymiles HiFlow Pro 是美国首款符合 UL 3700 安全标准的插电式阳台太阳能微型逆变器。它可直接插入 120 伏家用插座，将移动太阳能板产生的电能输送至家庭电网，降低电费。该设备内置多重安全保护：电网断电时自动切断电源以保护线路工人，断开后 1 秒内输出电压降至 34V 以下，并具备 NEMA Type 6 和 IP67 防护等级，可在-40°C 至 65°C 环境下室外安装。单个逆变器额定功率 360 瓦，动态效率 95.5%，静态效率 99.8%。",
+    "highlights_zh": [
+      "首款符合 UL 3700 标准的插电式微型逆变器",
+      "直接插入 120 伏插座",
+      "断电后 1 秒内电压降至 34V 以下",
+      "IP67 防护"
+    ],
+    "entities": [
+      "Hoymiles HiFlow Pro",
+      "UL 3700",
+      "阳台太阳能",
+      "微型逆变器",
+      "NEMA Type 6"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEK8J/s1/hoymiles-hiflow-pro-solar-microinverter.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-23T15:28:29.634Z"
   }
 }

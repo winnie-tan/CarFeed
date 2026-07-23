@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-23T03:41:27.454Z",
+    "generated_at": "2026-07-23T15:27:14.407Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 367,
-    "deepseek_untranslated_before_run": 33,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
     "newly_fetched_articles": 34,
-    "newly_fetched_untranslated": 33,
+    "newly_fetched_untranslated": 34,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 33,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.23",
-        "title": "「1ドル＝170円」市場予測も、歴史的な円安進行 39年ぶり163円台［新聞ウォッチ］",
-        "url": "https://response.jp/article/2026/07/23/414342.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "「BYDネットストア」開設、BYDアプリで車載データ通信・ナビゲーションサービス購入可能に",
-        "url": "https://response.jp/article/2026/07/23/414345.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "「だれでもトラック」がGVW4.25トン未満に!? 日本がお手本とするEUの免許制度が改正へ！",
-        "url": "https://bestcarweb.jp/fullload/1585808"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "「四隅にホイール」デザイン健在、『スマート #2』のグローバルテスト進行中…デビューはパリモーターショー2026",
-        "url": "https://response.jp/article/2026/07/23/414353.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第816回",
-        "url": "https://bestcarweb.jp/feature/column/1562994"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "870万円でも納得!! 実車を見た瞬間「カッケェ……!!」新型エルグランド納車速報！ オーナーが選んだ仕様と第一印象は？",
-        "url": "https://bestcarweb.jp/feature/column/1585536"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "BMWの新世代EV「ノイエ・クラッセ」第一弾、新型『iX3』日本発売…航続906kmで982万円から",
-        "url": "https://response.jp/article/2026/07/23/414341.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "LimX Dynamics『TRON 2』が自律移動、ラストワンマイル配送や植木の水やりなど",
-        "url": "https://response.jp/article/2026/07/23/414359.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "MINIのレーシングカー展示、キッズメカニック体験も…ORJ RACINGが弥富市夏祭り2026に出展",
-        "url": "https://response.jp/article/2026/07/23/414358.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "SkyDrive、空飛ぶクルマの軽量CFRP製部品を調達へ…Airtificial社と契約",
-        "url": "https://response.jp/article/2026/07/23/414343.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "イクヨオートモーティブ、商用EVフォロフライに第三者割当増資検討…株式引受証を受領",
-        "url": "https://response.jp/article/2026/07/23/414354.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "ウェイモ、自動運転ライドシェアの招待制プレミアム会員サービス「ウェイモ プレミア」発表",
-        "url": "https://response.jp/article/2026/07/23/414352.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "カローラ ツーリング60周年記念車の黒バンパーはアリ？ 見た目買いできる特別仕様車をチェック!!",
-        "url": "https://bestcarweb.jp/feature/column/1548431"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "シエンタは親子3世代で使えるか？ 小さなボディに7人乗りを詰め込む価値",
-        "url": "https://bestcarweb.jp/feature/column/1559564"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.23",
-        "title": "ダイネンマテリアル、Talga Groupからバッテリー向け負極材調達へ…オフテイク契約に向けLOI締結",
-        "url": "https://response.jp/article/2026/07/23/414344.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "はとバスのサステナブルツアー第4弾は「海の豊かさを守ろう！湘南・江の島海岸サステナブルツアー」",
-        "url": "https://bestcarweb.jp/busmagazine/1570249"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "フリードが一気にアウトドア顔!! クロスター アクティブタフスタイルは純正アクセの正解か",
-        "url": "https://bestcarweb.jp/feature/column/1568546"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "まだまだ売れ続けるのか!! 19年前の「デリカD:5」が過去最高販売を記録したワケ！",
-        "url": "https://bestcarweb.jp/feature/column/1562596"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.23",
-        "title": "ライトの黄ばみやボディの小キズに悩む人必見！ 休日の一コマで意外とお手軽に処理できる愛車のリフレッシュ術！",
-        "url": "https://bestcarweb.jp/feature/column/1583485"
+        "title": "The Six Companies That Quietly Own Almost Every Auto Service Chain in America, Explained",
+        "url": "https://www.thedrive.com/news/the-six-companies-that-quietly-own-almost-every-auto-service-chain-in-america-explained"
       },
       {
         "source": "Motor1",
         "time": "2026.7.23",
-        "title": "Woman Gets Breakup Text On Her CarPlay. Then Her Nissan Texts Back Something Unhinged: ‘Can Someone Help Me Sue Nissan?’",
-        "url": "https://www.motor1.com/news/802337/nissan-auto-text-response/"
+        "title": "Americans Are More Interested In Off-Roading Than Ever, Survey Finds",
+        "url": "https://www.motor1.com/news/802553/americans-off-roading-survey/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.23",
+        "title": "The Volvo EX60's Excellent Range Somehow Got Even Better",
+        "url": "https://insideevs.com/news/802557/2027-volvo-ex60-epa-range-higher/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.23",
+        "title": "Toyota Upgrades Its Funkiest Model With A New Hybrid System",
+        "url": "https://www.motor1.com/news/802554/2027-toyota-crown-sepcs-powertrains-price/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.23",
+        "title": "Driving an Aston Martin Brings Out the Best in Those Around You",
+        "url": "https://www.thedrive.com/car-reviews/driving-an-aston-martin-brings-out-the-best-in-those-around-you"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.23",
+        "title": "All Eyes Turn to Mercedes as Senate Panel Advances Chinese Car Ban: TDS",
+        "url": "https://www.thedrive.com/news/all-eyes-turn-to-mercedes-as-senate-panel-advances-chinese-car-ban-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.23",
+        "title": "This Supercharged Corvette Hit 300,000 Miles On Its Original Engine",
+        "url": "https://www.motor1.com/news/802473/300000-mile-c6-callaway-corvette/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.23",
+        "title": "The Next-Gen Chevy Equinox EV Is Coming In 2028: Report",
+        "url": "https://insideevs.com/news/802543/next-gen-chevy-equinox-ev/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "「エヴァンゲリオンレーシング」のサポートカーを再現、トミカ『エヴァRT2号機 トヨタ ハイエース』予約開始",
+        "url": "https://response.jp/article/2026/07/23/414377.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "「とんでもない親父いて草」トヨタ自動車の豊田会長が“息子”のお笑いライブ観覧",
+        "url": "https://response.jp/article/2026/07/23/414376.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "【ベントレー ベンテイガ スピード 新型試乗】「至極の時」が波のように次から次へと押し寄せてくる",
+        "url": "https://response.jp/article/2026/07/23/414388.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "4人乗り軽トラという唯一無二の選択肢！ アトレーデッキバンがアウトドア派に刺さりまくる理由",
+        "url": "https://bestcarweb.jp/news/1578797"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "BUBU MITSUOKA、茨城県のつくばショールームを8月末で閉店へ",
+        "url": "https://response.jp/article/2026/07/23/414384.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "EV充電器「テラチャージ」、沖縄のCAVE OKINAWAに設置…6kW普通充電器2基",
+        "url": "https://response.jp/article/2026/07/23/414382.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "NGK、CDPサプライヤーエンゲージメント・リーダーに2年連続選定…気候変動対策を評価",
+        "url": "https://response.jp/article/2026/07/23/414378.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "NOK傘下メクテック、厚さ0.1mm未満のフレキシブル電波吸収体開発…5Gミリ波で99%以上のノイズ吸収実現",
+        "url": "https://response.jp/article/2026/07/23/414368.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.23",
+        "title": "Woman Starts Her Buick. Then It Makes A Noise Unlike Any She's Ever Heard: ‘Does Anybody Know What’s Going On?’",
+        "url": "https://www.motor1.com/news/802251/buick-enclave-timing-chain-rattle/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "アーチオンの株価が反落…売出価格260円決定で需給悪化懸念も",
+        "url": "https://response.jp/article/2026/07/23/414373.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.23",
+        "title": "アストンマーティン『ヴァンキッシュ』25周年、世界50台限定「ヴァンキッシュ25」発表…835馬力V12ツインターボ搭載",
+        "url": "https://response.jp/article/2026/07/23/414369.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.23",
+        "title": "エクストレイルの3列シートは使える？ ミニバンではなくSUVで7人乗りを選ぶ現実味",
+        "url": "https://bestcarweb.jp/feature/column/1551679"
       }
     ],
     "event_name": "schedule",
-    "run_id": "29977623185",
-    "sha": "233b3aedecf333c7907143853f576e092f455f95",
-    "completed_at": "2026-07-23T03:42:38.461Z",
+    "run_id": "30020570592",
+    "sha": "515ee18f2c3f8f12bff4ead0daca2f6ffd020b4e",
+    "completed_at": "2026-07-23T15:28:29.860Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 33,
-    "queued_articles": 33,
-    "processed": 33,
-    "started_at": "2026-07-23T03:41:27.791Z",
-    "finished_at": "2026-07-23T03:42:38.178Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-07-23T15:27:14.767Z",
+    "finished_at": "2026-07-23T15:28:29.652Z",
     "success": true,
     "error": ""
   }
