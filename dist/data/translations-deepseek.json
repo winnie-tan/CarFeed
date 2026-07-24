@@ -88200,5 +88200,579 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-24T03:41:43.502Z"
+  },
+  "https://www.thedrive.com/news/leo-leclerc-caught-peeing-on-red-bulls-garage-is-peak-f1-shenanigans": {
+    "title_zh": "勒克莱尔的狗在红牛车库前小便，F1 趣事",
+    "summary_short": "法拉利车手勒克莱尔的宠物狗在红牛车库前小便，勒克莱尔笑着拍照，引发 F1 圈热议。",
+    "summary_long": "法拉利 F1 车手勒克莱尔的宠物狗 Leo 在红牛车队车库前小便，被 F1 摄影师克莱夫·梅森抓拍。勒克莱尔看到后大笑并掏出手机拍照，而他的女友则尴尬不已。这一幕成为围场内的趣谈，网友猜测照片可能已传到维斯塔潘手中。",
+    "highlights_zh": [
+      "勒克莱尔的狗在红牛车库前小便",
+      "勒克莱尔大笑并拍照",
+      "女友尴尬捂嘴",
+      "照片可能已传给维斯塔潘"
+    ],
+    "entities": [
+      "夏尔·勒克莱尔",
+      "马克斯·维斯塔潘",
+      "F1",
+      "红牛车队"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2287438779.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2287438302.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:23.759Z"
+  },
+  "https://insideevs.com/news/802602/rivian-r2-battery-suspension/": {
+    "title_zh": "Rivian 如何让 R2 的悬架比 R1 更便宜更轻但同样出色",
+    "summary_short": "Rivian 重新设计 R2 的电池和悬架，使其在降低成本的同时保持与 R1 相当的越野性能和驾驶质感。",
+    "summary_long": "Rivian R2 是近年来最重要的电动 SUV 之一，它将 R1 的电池、动力总成、越野能力和驾驶动态浓缩到更小更实惠的车型中。通过将电池包集成到底盘结构、采用倒置浴盆式设计以及重新设计悬架，R2 在保持出色性能的同时显著降低了重量和成本。Munro Live 视频中，Rivian 高管详细解释了这些工程创新。",
+    "highlights_zh": [
+      "电池包集成到底盘",
+      "倒置浴盆式设计增强侧面碰撞保护",
+      "悬架重新设计",
+      "座椅直接固定在电池包上"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "Rivian R1",
+      "电池包",
+      "悬架"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKZnRx/s1/rivian-r2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:24.226Z"
+  },
+  "https://www.motor1.com/news/802380/new-kia-models-2026/": {
+    "title_zh": "起亚 2026 年将推出 8 款新车",
+    "summary_short": "起亚 2026 年计划推出 8 款新车，涵盖 SUV、轿车和旅行车，目标销量 335 万辆。",
+    "summary_long": "起亚在 2025 年创下 313.5 万辆的销量纪录后，为 2026 年设定了 335 万辆的更高目标。为实现这一增长，公司将推出多款新产品，其中 SUV 和跨界车占主导，但传统轿车和旅行车仍受重视。起亚计划提供多样化的动力总成选择，而非仅押注电动化。已知车型包括入门级电动车 EV2，该车基于专用平台，造型方正硬朗，内饰配备双屏和物理按键。",
+    "highlights_zh": [
+      "2026 年推出 8 款新车",
+      "SUV 为主",
+      "目标销量 335 万辆",
+      "EV2 为入门电动车"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "EV2"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8BzZ/s1/kia-new-models-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:27.707Z"
+  },
+  "https://www.motor1.com/news/802665/2027-nissan-z-price/": {
+    "title_zh": "2027 款日产 Z 价格上涨，但获得一项智能升级",
+    "summary_short": "2027 款日产 Z 起价 45735 美元，上涨 1510 美元，但获得防燃油饥饿油箱等升级。",
+    "summary_long": "2027 款日产 Z 起售价为 45735 美元（含目的地费），比去年上涨 1510 美元。中配 Z Performance 起价 55725 美元，顶配 Z Nismo 起价 68505 美元。新车前脸设计更简洁激进，用复古 Z 徽标取代日产车标，新增深海绿珍珠漆色。关键升级在于重新设计的油箱，可在高 G 弯道中防止燃油饥饿，提升赛道表现。性能版还配备更大减震器、19 英寸锻造轮毂、Qi2 无线充电和可选棕内饰。",
+    "highlights_zh": [
+      "起价 45735 美元",
+      "前脸更激进",
+      "新油箱防止赛道燃油饥饿",
+      "性能版增配大减震器、锻造轮毂"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "日产 Z | Nissan Z",
+      "Z Nismo"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3xqO/s1/2027-nissan-z.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:28.368Z"
+  },
+  "https://www.thedrive.com/news/ford-recalls-over-half-a-million-broncos-for-engine-fire-risk-tds": {
+    "title_zh": "福特因发动机起火风险召回超 50 万辆 Bronco",
+    "summary_short": "福特因发动机线束短路起火风险召回超 56 万辆 Bronco，本田暂停手动挡思域 Si 和讴歌 Integra 生产。",
+    "summary_long": "福特宣布召回 565,691 辆 2021-2026 款 Bronco SUV（含 Raptor），原因是发动机舱线束中暴露的电路可能短路、产生火花，在特定条件下引发火灾。福特已知 15 起相关情况，将免费为所有车辆加装额外护套。此外，本田因 EPA 认证问题，将在 2026 款后暂停 Civic Si 和 Acura Integra A-Spec 的生产，这两款车均配备六速手动变速箱。本田表示问题解决后有望恢复生产。",
+    "highlights_zh": [
+      "福特召回超 56 万辆 Bronco",
+      "线束短路可能引发火灾",
+      "本田暂停手动挡运动轿车生产",
+      "EPA 认证问题导致停产"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Bronco",
+      "本田 | Honda",
+      "Civic Si",
+      "讴歌"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-1233462832.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/auto-repair-puppet-masters.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:31.826Z"
+  },
+  "https://response.jp/article/2026/07/24/414437.html": {
+    "title_zh": "让低音从前方传来：车载低音炮调试关键技术公开",
+    "summary_short": "车载低音炮调试关键：通过分频、衰减率与相位调整，让低音与前置扬声器融合，实现前方听感。",
+    "summary_long": "由于车门扬声器口径有限，难以完美再现低频，因此需要专用低音炮。要让低音自然融入，需通过分频设定、衰减率调整和相位正反切换，使低音与前置扬声器声音一体化，从前方传来。若相位切换无效，需进一步修正。",
+    "highlights_zh": [
+      "低音炮需与前置扬声器融合",
+      "分频设定与衰减率调整是基础",
+      "相位正反切换可优化声音一体化",
+      "相位切换无效时需特殊修正"
+    ],
+    "entities": [
+      "低音炮",
+      "前置扬声器",
+      "分频",
+      "相位",
+      "衰减率"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229542.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229542.jpg",
+      "https://response.jp/imgs/fill2/2229541.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:33.731Z"
+  },
+  "https://bestcarweb.jp/feature/column/1553957": {
+    "title_zh": "汽车术语问答：NA 是什么意思？",
+    "summary_short": "NA 是 Natural Aspiration 的缩写，指自然吸气发动机，与涡轮增压发动机相对。",
+    "summary_long": "NA 是“Natural Aspiration”的缩写，意为自然吸气发动机，即非涡轮增压发动机。在涡轮增压普及前，NA 发动机是汽油车的主流。如今，小排量涡轮增压因环保优势逐渐取代 NA，成为趋势。",
+    "highlights_zh": [
+      "NA 代表自然吸气",
+      "NA 即非涡轮增压发动机",
+      "涡轮增压正逐渐取代 NA"
+    ],
+    "entities": [
+      "自然吸气"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18160849/00.png?v=1781766530",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18160849/00-600x400.png?v=1781766530",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15191611/alphard_image1-600x400.jpg?v=1784110573"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:35.161Z"
+  },
+  "https://response.jp/article/2026/07/24/414432.html": {
+    "title_zh": "eMotion Fleet 与三井化学马来西亚子公司签约，推动车辆车队管理 DX 化与 CO2 可视化",
+    "summary_short": "eMotion Fleet 与三井化学马来西亚子公司签约，推动车辆车队管理数字化与 CO2 排放可视化。",
+    "summary_long": "eMotion Fleet 与三井化学马来西亚子公司 Mitsui Chemicals Polyurethanes Malaysia 签署合同，旨在推动车辆车队管理的数字化转型和绿色经营。通过构建实时数据管理体系，实现燃料成本削减、安全强化和 CO2 排放可视化，以应对供应链碳排放披露要求。",
+    "highlights_zh": [
+      "eMotion Fleet 与三井化学马来西亚子公司…",
+      "推动车辆车队管理 DX 化与 CO2 可视化",
+      "构建实时数据管理体系",
+      "应对供应链碳排放披露要求"
+    ],
+    "entities": [
+      "eMotion Fleet",
+      "三井化学",
+      "Mitsui Chemicals Polyurethanes Malaysia",
+      "CO2 可视化",
+      "车队管理"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229854.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229854.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:38.381Z"
+  },
+  "https://response.jp/article/2026/07/24/414424.html": {
+    "title_zh": "比亚迪旗下高端品牌“腾势”发布电动超跑 Z：三电机超 2000 马力，0-100km/h 加速 1.7 秒内",
+    "summary_short": "比亚迪旗下高端品牌腾势发布电动超跑 Z，三电机超 2000 马力，0-100km/h 加速最快 1.96 秒，支持 1500kW 闪充。",
+    "summary_long": "比亚迪集团旗下高端电动品牌腾势（Denza）发布了其首款电动超级跑车“腾势 Z”。该车基于专属开发的 e3 运动平台，采用前 1 后 2 的三电机布局，系统最大功率 1604 马力，峰值扭矩 1240 牛·米。Coupe 版 0-100km/h 加速 2.25 秒，极速 300km/h；选装半热熔轮胎的赛车版加速仅 1.96 秒，极速 350km/h。车辆搭载第二代刀片电池，容量 76kWh，续航约 380-409 公里。支持最大 1500kW 闪充技术，电量从 10%充至 70%仅需 5 分钟，从 10%到 97%只需 9 分钟，即使在-30℃极寒环境下，从 20%充至 97%也仅需 12 分钟。",
+    "highlights_zh": [
+      "三电机系统",
+      "0-100km/h 加速最快 1.96 秒",
+      "支持 1500kW 闪充",
+      "第二代刀片电池"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "腾势",
+      "腾势 Z",
+      "刀片电池",
+      "闪充"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229795.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229795.jpg",
+      "https://response.jp/imgs/fill2/2229796.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:38.999Z"
+  },
+  "https://response.jp/article/2026/07/24/414436.html": {
+    "title_zh": "日本 NACS 快充桩达 1002 台，特斯拉超充占七成以上",
+    "summary_short": "日本 NACS 快充桩累计 1002 台、345 处，其中特斯拉超充占 752 台，第三方品牌 FLASH 占 250 台。",
+    "summary_long": "据 TenFields Factory 统计，截至 2026 年 7 月，日本国内 NACS 标准快充桩累计达 1002 台、345 处。其中特斯拉超级充电站贡献 752 台、152 处，占比超七成；该公司旗下 NACS 快充桩“FLASH”为 250 台、193 处。特斯拉长期建设的超充网络与第三方运营商的 NACS 充电设施共同推动日本 NACS 快充桩突破千台大关。",
+    "highlights_zh": [
+      "NACS 快充桩累计 1002 台、345 处",
+      "特斯拉超充占 752 台、152 处",
+      "FLASH 品牌快充桩 250 台、193 处",
+      "特斯拉超充网络是主要推动力"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "FLASH",
+      "NACS",
+      "超级充电站",
+      "TenFields Factory"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229931.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229931.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:42.260Z"
+  },
+  "https://response.jp/article/2026/07/24/414430.html": {
+    "title_zh": "SG 控股引入 booost Sustainability，统一管理超 1000 个网点的非财务信息以应对 SSBJ 标准",
+    "summary_short": "SG 控股为应对 SSBJ 标准，引入 booost Sustainability 系统，统一管理超 1000 个网点的非财务信息，推进可持续发展经营。",
+    "summary_long": "SG 控股集团与 Booost 及 ABeam Consulting 合作，引入可持续发展 ERP 系统“booost Sustainability”，以应对 SSBJ 标准并完善可持续发展经营基础。该系统将统一管理国内超 1000 个网点的非财务信息，包括温室气体排放数据，确保符合 SSBJ 标准的信息披露要求。此举旨在应对日本 2027 年起强制要求上市公司披露可持续发展信息的新规，并满足第三方保证的准确性要求。",
+    "highlights_zh": [
+      "引入 booost Sustainability 应…",
+      "统一管理超 1000 个网点的非财务信息",
+      "为 2028 年可持续发展信息披露做准备",
+      "推进脱碳与第三方保证合规"
+    ],
+    "entities": [
+      "SG 控股",
+      "佐川急便",
+      "booost Sustainability",
+      "SSBJ 标准",
+      "可持续发展"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229843.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229843.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:43.456Z"
+  },
+  "https://response.jp/article/2026/07/24/414438.html": {
+    "title_zh": "WECARS 推出“手机 WE 估价”服务，无需到店即可发送图像",
+    "summary_short": "WECARS 推出“手机 WE 估价”服务，用户无需到店，通过手机拍照上传即可完成车辆估价申请。",
+    "summary_long": "WECARS 于 7 月 24 日正式推出“手机 WE 估价”新服务，用户只需用智能手机拍摄爱车照片并发送，即可申请估价，无需到店或提前预约。该服务针对用户“没时间去门店”“预约麻烦”等痛点，通过屏幕引导输入车辆信息并上传图像即可完成申请，无需安装专用 App。WECARS 将根据提交的信息和图像确认车辆状况并给出收购价格，估价后还可进行出售咨询。需注意，估价基于申报信息与图像，若实际车况与申报不符或存在图像无法确认的损伤，价格可能调整。",
+    "highlights_zh": [
+      "无需到店或预约",
+      "无需安装专用 App",
+      "根据图像和车辆信息给出收购价格",
+      "实际车况与申报不符时价格可能调整"
+    ],
+    "entities": [
+      "WECARS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229934.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229934.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:46.700Z"
+  },
+  "https://www.motor1.com/news/802487/lease-vs-buy-tesla-model-3/": {
+    "title_zh": "女子选购特斯拉，发现租赁比购买更明智",
+    "summary_short": "金融博主分析 2026 年租赁特斯拉 Model 3 比贷款购买更划算，强调低月付与灵活性优势。",
+    "summary_long": "在线金融博主 The Accounting Professor 通过视频分析，认为 2026 年租赁特斯拉 Model 3 比贷款购买更明智。她指出，即使贷款利率低至 0.99%，租赁仍能提供更低的月付和更少的长期风险。视频中展示了特斯拉官网的租赁选项，基础后驱版月付仅 299 美元（需首付），并进一步计算了零首付情况下的实际月成本。",
+    "highlights_zh": [
+      "租赁月付低至 299 美元",
+      "即使 0.99%利率仍推荐租赁",
+      "避免电池贬值与技术过时风险"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BP1X/s1/woman-says-she-wouldn-t-buy-a-tesla.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:47.771Z"
+  },
+  "https://bestcarweb.jp/feature/column/1551581": {
+    "title_zh": "日产奇骏选哪个配置？S、X、G、Rock Creek 版对比",
+    "summary_short": "日产奇骏改款后推出 S、X、G、Rock Creek 四款配置，从价格和装备分析哪款最值得买。",
+    "summary_long": "日产奇骏在 2025 年 8 月大幅改款，内外焕新并搭载 Google 导航和 3D 全景影像。入门 S 版价格最低，但配置较基础；X 版增加 ProPilot 和 12.3 英寸仪表，性价比高；G 版配备 HUD、无线充电等豪华装备；Rock Creek 版主打越野风格。日常代步选 S，家庭主力车推荐 X，追求豪华选 G。",
+    "highlights_zh": [
+      "S 版入门价约 384 万日元",
+      "X 版增配 ProPilot 和 12.3 英寸屏",
+      "G 版配备 HUD、无线充电等豪华装备",
+      "Rock Creek 版主打越野风格"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "奇骏",
+      "e-POWER",
+      "ProPilot"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24114756/NISSAN-X-TRAIL_014.jpg?v=1782269277",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24114756/NISSAN-X-TRAIL_014-600x400.jpg?v=1782269277",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15191611/alphard_image1-600x400.jpg?v=1784110573"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:51.891Z"
+  },
+  "https://bestcarweb.jp/feature/column/1548464": {
+    "title_zh": "卡罗拉 Touring：旅行车最后的良心？",
+    "summary_short": "卡罗拉 Touring 以 244.75 万日元起售，兼具实用性与低油耗，是 SUV 时代难得的旅行车佳作。",
+    "summary_long": "在 SUV 盛行的当下，卡罗拉 Touring 凭借 244.75 万日元起的亲民价格和 28.8km/L 的出色油耗，展现了旅行车的独特魅力。其车身尺寸适中（长 4495mm、宽 1745mm、高 1460mm），既便于停车又拥有宽敞的载物空间，低地板设计让装卸行李更加轻松。2026 年 5 月改款后，入门版 X 也标配了智能进入和导航预备包，进一步提升了日常实用性。",
+    "highlights_zh": [
+      "起售价 244.75 万日元",
+      "油耗 28.8km/L（G 2WD）",
+      "车身尺寸适中",
+      "低地板设计"
+    ],
+    "entities": [
+      "卡罗拉 Touring",
+      "丰田 | Toyota",
+      "旅行车",
+      "SUV",
+      "油耗"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29120537/004_COROLLA_SDN_WGN_60th_202605_1.jpg?v=1782702338",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29120537/004_COROLLA_SDN_WGN_60th_202605_1-600x400.jpg?v=1782702338",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15191611/alphard_image1-600x400.jpg?v=1784110573"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:52.385Z"
+  },
+  "https://response.jp/article/2026/07/24/414419.html": {
+    "title_zh": "铃木将参展 GOOUT CAMP 猪苗代，展示吉姆尼诺马德等车型",
+    "summary_short": "铃木将参展 GOOUT CAMP 猪苗代，展示吉姆尼诺马德、哈斯勒、Every Wagon 等车型及官方周边。",
+    "summary_long": "铃木宣布将参加 2026 年 7 月 31 日至 8 月 2 日在福岛县猪苗代町天神浜汽车露营地举办的“GOOUT CAMP 猪苗代 vol.12”。展台将展示 7 月 1 日改款的吉姆尼诺马德、5 月 27 日改款的哈斯勒、5 月 8 日改款的 Every Wagon，以及超级卡里特别仕样车 X Limited（配备 HARD CARGO）和新型 Crossbee。此外，还将介绍铃木官方 EC 网站 S-MALL 在售的周边商品。入场需购票，小学生以下免费。",
+    "highlights_zh": [
+      "铃木参展 GOOUT CAMP 猪苗代",
+      "展示吉姆尼诺马德、哈斯勒等车型",
+      "超级卡里特别仕样车 X Limited 亮相",
+      "官方周边商品同步介绍"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼诺马德",
+      "哈斯勒",
+      "エブリイワゴン",
+      "クロスビー"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229770.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229770.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:57.027Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564028": {
+    "title_zh": "日产 Serena XV 套件是否划算？2025 年 12 月改款后的配置与价格解析",
+    "summary_short": "日产 Serena XV 套件以 25 万日元差价提供双侧电动滑门等实用配置，性价比突出。",
+    "summary_long": "日产 Serena 在 2025 年 12 月进行小改款，除了外观变化的 Highway Star V 和 Luxion 外，标准版 X 的 XV 套件也值得关注。汽油 2WD 车型中，X 售价 278.52 万日元，XV 套件版 304.37 万日元，差价 25.85 万日元。相比直接选择 Highway Star V（322.85 万日元），XV 套件便宜 18.48 万日元，定位巧妙。XV 套件增加了双侧免提电动滑门、个人桌板、USB 电源插座、镀铬内门把手等提升日常便利性的配置，对于家庭用户而言，这些配置能有效减少日常使用中的小麻烦，使得差价物有所值。",
+    "highlights_zh": [
+      "XV 套件比 X 贵 25.85 万日元",
+      "配备双侧免提电动滑门",
+      "增加个人桌板和 USB 电源",
+      "相比 Highway Star V 便宜 18.48…"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "セレナ",
+      "Highway Star V",
+      "XV 套件"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17114620/251218-01-j_Serena-MC_07_1-1.jpg?v=1784256382",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17114620/251218-01-j_Serena-MC_07_1-1-600x400.jpg?v=1784256382",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15191611/alphard_image1-600x400.jpg?v=1784110573"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:10:57.258Z"
+  },
+  "https://response.jp/article/2026/07/24/414429.html": {
+    "title_zh": "特斯拉股价暴跌，市场担忧过度投资",
+    "summary_short": "特斯拉股价暴跌 14.52%，因季度财报显示利润下滑、自由现金流为负，市场担忧其过度投资 AI 和机器人。",
+    "summary_long": "受中东局势紧张及美股下跌影响，特斯拉股价暴跌 14.52%。其最新季度财报显示，营收毛利同比恶化，自由现金流出现赤字。公司计划增加 AI 和机器人领域的资本支出，引发市场对过度投资的警惕。",
+    "highlights_zh": [
+      "特斯拉股价暴跌 14.52%",
+      "季度财报利润下滑、自由现金流为负",
+      "计划增加 AI 和机器人投资引发担忧"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "日经平均股价",
+      "纽约道琼斯指数",
+      "纳斯达克"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229862.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229862.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:00.730Z"
+  },
+  "https://response.jp/article/2026/07/24/414435.html": {
+    "title_zh": "Tein 发布日产 Roox 适用 Flex Z 绞牙避震",
+    "summary_short": "Tein 为日产 Roox 推出 Flex Z 绞牙避震，兼顾操控与舒适，售价 15.18 万日元。",
+    "summary_long": "日本悬挂专业厂商 Tein 为其在售的全规格绞牙避震“Flex Z”新增了日产 Roox（B44A，2020 年 3 月-2025 年 8 月）的适用车型。Flex Z 采用 16 段同时调节伸/缩阻尼力、复筒式全长可调车高机构，具备高性价比。针对 Roox，前后均使用原厂塔顶，不支持 EDFC 系列，优化弹簧刚度和阻尼力，在保持原厂轻快感的同时减少车身侧倾、提升弯道操控性，并兼顾低速行驶舒适性。售价含税 15.18 万日元。",
+    "highlights_zh": [
+      "日产 Roox 适用 Flex Z 绞牙避震发布",
+      "16 段阻尼可调",
+      "优化操控与舒适性"
+    ],
+    "entities": [
+      "テイン",
+      "日产 | Nissan",
+      "ルークス",
+      "フレックスZ",
+      "绞牙避震"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229839.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229839.jpg",
+      "https://response.jp/imgs/fill2/2229428.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:02.598Z"
+  },
+  "https://bestcarweb.jp/feature/column/1581146": {
+    "title_zh": "丰田太强了！席卷市场的 4 款“无敌”车型",
+    "summary_short": "丰田凭借阿尔法、威尔法等车型在多个细分市场占据绝对优势，本文盘点 4 款销量碾压对手的车型。",
+    "summary_long": "丰田在日本国内市场拥有最大份额，多款车型在各自细分领域销量遥遥领先。其中，L 级 MPV 市场曾有多款车型竞争，但如今阿尔法/威尔法几乎独占鳌头，2026 年上半年阿尔法销量 43819 台，威尔法 15922 台。2023 年改款的阿尔法追求“舒适移动的幸福”，采用新平台提升振动、噪音和油耗表现，并强化了与威尔法的差异化，后者更偏向驾驶者，搭载 2.4 升涡轮增压发动机。",
+    "highlights_zh": [
+      "丰田多款车型在各自细分市场销量碾压对手",
+      "阿尔法/威尔法在 L 级 MPV 市场几乎独占鳌头",
+      "2023 年改款阿尔法采用新平台",
+      "威尔法强化驾驶属性"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "阿尔法",
+      "威尔法",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15191611/alphard_image1.jpg?v=1784110573",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15191611/alphard_image1-600x400.jpg?v=1784110573",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/24114756/NISSAN-X-TRAIL_014-600x400.jpg?v=1782269277"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:06.213Z"
+  },
+  "https://insideevs.com/news/802649/aurora-driver-2-autonomous-truck/": {
+    "title_zh": "Aurora 第二代自动驾驶卡车硬件：目标行驶百万英里",
+    "summary_short": "Aurora 发布第二代自动驾驶卡车硬件 Aurora Driver 2，成本减半，传感器更耐用，目标行驶百万英里。",
+    "summary_long": "匹兹堡自动驾驶卡车初创公司 Aurora 推出第二代硬件套件 Aurora Driver 2，通过更坚固的传感器和更紧密的集成，可实现百万英里无人驾驶货运。与前代相比，硬件成本降低一半，前向激光雷达探测距离提升至半英里，并能在强光或夜间工作。套件经过加固，可适应振动、沙尘、雨雪和极端温度，内置清洁系统保持传感器清晰。搭载英伟达芯片的新计算机体积缩小 40%，具备完全冗余，可快速处理数据。",
+    "highlights_zh": [
+      "硬件成本降低一半",
+      "激光雷达探测距离达半英里",
+      "适应恶劣天气与极端温度",
+      "搭载英伟达芯片"
+    ],
+    "entities": [
+      "Aurora",
+      "Aurora Driver 2",
+      "Nvidia"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Znz71o/s1/aurora-driver-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:06.928Z"
+  },
+  "https://www.motor1.com/news/802571/bought-camry-elsewhere-called-first-salesman/": {
+    "title_zh": "丰田销售员帮女子看凯美瑞，她却在别处买车后回头求助",
+    "summary_short": "女子占用丰田销售员时间看凯美瑞，却去别处购买，事后又打电话求助，销售员直言“不尊重”。",
+    "summary_long": "一位丰田销售员帮助一名女子看凯美瑞，花费了大量时间。然而，该女子最终在别处购买了车辆，随后又打电话向销售员求助。销售员在 TikTok 上分享了这段经历，表示虽然愿意为购车客户提供帮助，但无法容忍这种不尊重行为。",
+    "highlights_zh": [
+      "女子看车后去别处购买",
+      "回头又打电话求助",
+      "销售员称“不尊重”",
+      "视频观看超 230 万次"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "凯美瑞 | Camry",
+      "销售员",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3yqYG/s1/toyota-salesman-helps-woman-who-comes-in-looking-for-camry..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:10.208Z"
+  },
+  "https://insideevs.com/news/802637/vw-id-polo-id-cross-skoda-epiq-cupra-raval-sales/": {
+    "title_zh": "大众最便宜电动车已获 7 万订单",
+    "summary_short": "大众集团电动城市车家族订单超 7 万，远超预期，ID. Polo、斯柯达 Epiq 和 Cupra Raval 受欢迎。",
+    "summary_long": "大众集团的小型平价电动车系列“电动城市车家族”表现远超预期，已收到超过 7 万份订单，包括大众 ID. Polo、斯柯达 Epiq 和 Cupra Raval。这些车型约三个月前发布，ID. Polo hatchback 获得约 2.5 万订单，其余由 Epiq 和 Raval 分摊。所有车型配备实体按键、双屏和 V2L 功能。随着第四款车型大众 ID. Cross 在欧洲上市，订单量有望进一步增长。入门版搭载 32 kWh LFP 电池，续航约 180 英里（WLTP），可选 52 kWh NMC 电池，续航约 280 英里。全系前驱，功率 114-222 马力。",
+    "highlights_zh": [
+      "订单超 7 万",
+      "ID. Polo 获约 2.5 万订单",
+      "全系配备实体按键和 V2L",
+      "入门续航 180 英里"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "Volkswagen ID. Polo",
+      "斯柯达 Epiq",
+      "Cupra Raval",
+      "Volkswagen ID. Cross"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzNoA/s1/2026-volkswagen-id.-polo-gti.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:11.399Z"
+  },
+  "https://www.motor1.com/news/802630/amg-v8-coupe-spy-video/": {
+    "title_zh": "奔驰包场纽博格林测试 AMG V8 双门轿跑",
+    "summary_short": "奔驰包场纽博格林赛道，测试 AMG CLE Mythos V8 双门轿跑，预计搭载 646 马力平面曲轴 V8 发动机。",
+    "summary_long": "奔驰近日包场纽博格林北环赛道，进行 AMG CLE Mythos V8 双门轿跑的专属测试。这款车是继 PureSpeed 之后 Mythos 系列的第二款车型，基于 CLE 打造，但升级幅度远超普通版本。测试车配备堆叠式排气尾管、大型后扰流板和发动机盖进气口，预计搭载全新平面曲轴 V8 发动机，最大功率约 646 马力。包场测试通常出现在开发后期，暗示新车即将发布。",
+    "highlights_zh": [
+      "奔驰包场纽博格林测试 AMG CLE Mythos",
+      "搭载全新平面曲轴 V8",
+      "Mythos 系列第二款车型"
+    ],
+    "entities": [
+      "奔驰 | Mercedes",
+      "AMG CLE Mythos",
+      "纽博格林",
+      "AMG One"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8bRQ/s1/mercedes-amg-cle-based-mythos-model-teasers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:14.504Z"
+  },
+  "https://www.motor1.com/news/802626/2027-mercedes-gla-debut-date/": {
+    "title_zh": "全新奔驰 GLA 将于下周首发",
+    "summary_short": "奔驰第三代 GLA 将于 7 月 29 日亮相，同时推出燃油和纯电版本，取代 EQA。",
+    "summary_long": "奔驰将于 7 月 29 日发布第三代 GLA，这是该车系 13 年来的第三次换代。新车将同时提供燃油和纯电动力，纯电版将取代 EQA，标志着奔驰终于将燃油与电动车型设计统一。伪装原型车显示，新车尺寸略有增大，采用星形头尾灯、贯穿式灯带和隐藏式门把手，以优化空气动力学。竞争对手包括宝马 X1 和奥迪 Q3。",
+    "highlights_zh": [
+      "7 月 29 日全球首发",
+      "同时提供燃油和纯电版",
+      "纯电版将取代 EQA",
+      "尺寸增大"
+    ],
+    "entities": [
+      "奔驰 | Mercedes",
+      "GLA",
+      "EQA",
+      "宝马 X1 | BMW X1",
+      "奥迪 Q3 | Audi Q3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZE7v6/s1/2027-mercedes-gla-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-24T15:11:15.103Z"
   }
 }
