@@ -1,146 +1,25 @@
 {
   "workflow": {
-    "generated_at": "2026-07-24T15:10:19.561Z",
+    "generated_at": "2026-07-25T03:34:22.735Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 375,
-    "deepseek_untranslated_before_run": 25,
-    "newly_fetched_articles": 26,
-    "newly_fetched_untranslated": 25,
+    "deepseek_translated_before_run": 400,
+    "deepseek_untranslated_before_run": 0,
+    "newly_fetched_articles": 400,
+    "newly_fetched_untranslated": 0,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 25,
-    "translation_queue_preview": [
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.24",
-        "title": "How Rivian Made The R2's Suspension Cheaper And Lighter Than The R1's But Just As Good",
-        "url": "https://insideevs.com/news/802602/rivian-r2-battery-suspension/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.24",
-        "title": "Leo Leclerc Caught Peeing on Red Bull’s Garage Is Peak F1 Shenanigans",
-        "url": "https://www.thedrive.com/news/leo-leclerc-caught-peeing-on-red-bulls-garage-is-peak-f1-shenanigans"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.24",
-        "title": "The 2027 Nissan Z Is More Expensive, But It Gets One Smart Upgrade",
-        "url": "https://www.motor1.com/news/802665/2027-nissan-z-price/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.24",
-        "title": "Kia Has 8 Models Coming In 2026. Here's All Of Them",
-        "url": "https://www.motor1.com/news/802380/new-kia-models-2026/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.24",
-        "title": "Ford Recalls Over Half a Million Broncos for Engine Fire Risk: TDS",
-        "url": "https://www.thedrive.com/news/ford-recalls-over-half-a-million-broncos-for-engine-fire-risk-tds"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "「サブウーファー」の音も前から聴こえる“重要テク”を公開！［低音を制する者はカーオーディオを制す］",
-        "url": "https://response.jp/article/2026/07/24/414437.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「NA」",
-        "url": "https://bestcarweb.jp/feature/column/1553957"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "BYD「デンツァ」、電動スーパーカー『Z』発表…2000馬力超のトリプルモーター搭載で0-100km/h加速1.7秒以下",
-        "url": "https://response.jp/article/2026/07/24/414424.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "eMotion Fleet、三井化学のマレーシア子会社と契約…車両フリート管理のDX化とCO2可視化を推進",
-        "url": "https://response.jp/article/2026/07/24/414432.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "NACS対応急速充電器、国内1002台・345箇所に到達…テスラ「スーパーチャージャー」が7割以上",
-        "url": "https://response.jp/article/2026/07/24/414436.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "SGホールディングス、SSBJ基準対応へ「booost Sustainability」導入…1000拠点超の非財務情報を一元管理",
-        "url": "https://response.jp/article/2026/07/24/414430.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "WECARS、「スマホでWE査定」開始…来店不要で画像送信",
-        "url": "https://response.jp/article/2026/07/24/414438.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.24",
-        "title": "Woman Shops For Tesla. Then She Learns The Real Reason It's Better To Lease—Not Buy",
-        "url": "https://www.motor1.com/news/802487/lease-vs-buy-tesla-model-3/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "エクストレイルを買うならS、X、G、ロッククリークどれが正解？ 価格差と装備で選ぶベストグレード",
-        "url": "https://bestcarweb.jp/feature/column/1551581"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "カローラ ツーリングはステーションワゴン最後の良心か？ 244万7500円からの実用性",
-        "url": "https://bestcarweb.jp/feature/column/1548464"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "スズキ、「GOOUT CAMP 猪苗代 vol.12」出展へ…ジムニー ノマドやクロスビーなど展示",
-        "url": "https://response.jp/article/2026/07/24/414419.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "セレナのXVパッケージは買い得か？ 2025年12月改良で変わった装備と価格をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1564028"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "テイン、日産『ルークス』適合のフルスペック車高調「フレックスZ」を発売",
-        "url": "https://response.jp/article/2026/07/24/414435.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "テスラの株価が急落…過剰投資に対する警戒感も浮上",
-        "url": "https://response.jp/article/2026/07/24/414429.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "トヨタ強すぎ!! 市場を席巻する「無双モデル」4選",
-        "url": "https://bestcarweb.jp/feature/column/1581146"
-      }
-    ],
+    "translation_queue_count": 0,
+    "translation_queue_preview": [],
     "event_name": "schedule",
-    "run_id": "30104108168",
-    "sha": "8e2284eaad1f36544dc416e619a3ef4c6fcf7e23",
-    "completed_at": "2026-07-24T15:11:15.402Z",
-    "fetch_outcome": "success",
-    "translate_outcome": "success",
-    "build_outcome": "success",
+    "run_id": "30142486846",
+    "sha": "98a96f8efdf07fd185b145e750b422b19a66f6d9",
+    "completed_at": "2026-07-25T03:34:22.822Z",
+    "fetch_outcome": "skipped",
+    "translate_outcome": "skipped",
+    "build_outcome": "skipped",
     "deepseek_translated_after_run": 400,
     "deepseek_untranslated_after_run": 0,
-    "result": "success"
+    "result": "failed"
   },
   "translation": {
     "model": "deepseek-chat",
