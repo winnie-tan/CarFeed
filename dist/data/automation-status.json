@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-24T15:10:19.561Z",
+    "generated_at": "2026-07-26T14:45:16.105Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 375,
-    "deepseek_untranslated_before_run": 25,
-    "newly_fetched_articles": 26,
-    "newly_fetched_untranslated": 25,
+    "deepseek_translated_before_run": 349,
+    "deepseek_untranslated_before_run": 51,
+    "newly_fetched_articles": 51,
+    "newly_fetched_untranslated": 51,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 25,
+    "translation_queue_count": 51,
     "translation_queue_preview": [
       {
-        "source": "InsideEVs",
-        "time": "2026.7.24",
-        "title": "How Rivian Made The R2's Suspension Cheaper And Lighter Than The R1's But Just As Good",
-        "url": "https://insideevs.com/news/802602/rivian-r2-battery-suspension/"
-      },
-      {
         "source": "The Drive",
-        "time": "2026.7.24",
-        "title": "Leo Leclerc Caught Peeing on Red Bull’s Garage Is Peak F1 Shenanigans",
-        "url": "https://www.thedrive.com/news/leo-leclerc-caught-peeing-on-red-bulls-garage-is-peak-f1-shenanigans"
+        "time": "2026.7.26",
+        "title": "Waymo’s Self-Driving Cars Crash Less Often Than Human Drivers: Study",
+        "url": "https://www.thedrive.com/news/waymos-self-driving-cars-crash-less-often-than-human-drivers-study"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.24",
-        "title": "The 2027 Nissan Z Is More Expensive, But It Gets One Smart Upgrade",
-        "url": "https://www.motor1.com/news/802665/2027-nissan-z-price/"
+        "time": "2026.7.26",
+        "title": "Woman Quoted $7,500 For Land Rover Part. Then She Has Her Dad Call The Dealership And Ask For A Price Check",
+        "url": "https://www.motor1.com/news/802738/land-rover-part-price/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "「EVなのにパドルシフト！」「200馬力超えはすごい」日産 リーフ NISMO 新型がSNSで話題に",
+        "url": "https://response.jp/article/2026/07/26/414462.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "「一代で終わったのが勿体ない」ホンダの最高級ミニバン『エリシオン』復活なるか？ スクープ情報に期待の声続々",
+        "url": "https://response.jp/article/2026/07/25/414456.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "「早く新型が出ますように」スズキ『アルトワークス』復活なるか…SNSで期待の声高まる",
+        "url": "https://response.jp/article/2026/07/26/414470.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "『カローラクロス』用、テインの純正互換ショックアブソーバー「エンデュラ・プロ」発売",
+        "url": "https://response.jp/article/2026/07/26/414476.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "『ランクル250』を40mmリフトアップ、テインから4WD用「4x4ダンパースポーツ」発売",
+        "url": "https://response.jp/article/2026/07/26/414479.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【スズキ アルトラパン LC 新型試乗】軽自動車はハイトワゴンだけじゃない…中村孝仁",
+        "url": "https://response.jp/article/2026/07/25/414459.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【ホンダ CB750ホーネット 試乗】ナナハン入門車にうってつけ！ 2気筒ストリートファイター×「Eクラッチ」の底力",
+        "url": "https://response.jp/article/2026/07/26/414473.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【ホンダ インサイト 新型試乗】中国製BEVになったインサイトは、「白物家電」のように使える実用車だった",
+        "url": "https://response.jp/article/2026/07/26/414469.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【夏休み】アクティオが小学生向け「建機ドクター」オンライン授業",
+        "url": "https://response.jp/article/2026/07/26/414475.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第818回",
+        "url": "https://bestcarweb.jp/feature/column/1562998"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第819回",
+        "url": "https://bestcarweb.jp/feature/column/1563000"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "EVに逆風!? 日本のEVバスメーカー民事再生やVWがEV生産終了！ 自動車業界の最新トピック3選",
+        "url": "https://bestcarweb.jp/feature/column/1563801"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "NEOPASA静岡に「赤富士シャア」登場！ 静岡限定デザインのTシャツ、アクリルキーホルダーが発売",
+        "url": "https://response.jp/article/2026/07/26/414466.html"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.24",
-        "title": "Kia Has 8 Models Coming In 2026. Here's All Of Them",
-        "url": "https://www.motor1.com/news/802380/new-kia-models-2026/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.24",
-        "title": "Ford Recalls Over Half a Million Broncos for Engine Fire Risk: TDS",
-        "url": "https://www.thedrive.com/news/ford-recalls-over-half-a-million-broncos-for-engine-fire-risk-tds"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "「サブウーファー」の音も前から聴こえる“重要テク”を公開！［低音を制する者はカーオーディオを制す］",
-        "url": "https://response.jp/article/2026/07/24/414437.html"
+        "time": "2026.7.26",
+        "title": "Woman Drives New Chevrolet Trailblazer. Then Her iPhone Updates. Then Apple CarPlay Stops Working",
+        "url": "https://www.motor1.com/news/802737/chevrolet-trailblazer-carplay/"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「NA」",
-        "url": "https://bestcarweb.jp/feature/column/1553957"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "BYD「デンツァ」、電動スーパーカー『Z』発表…2000馬力超のトリプルモーター搭載で0-100km/h加速1.7秒以下",
-        "url": "https://response.jp/article/2026/07/24/414424.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "eMotion Fleet、三井化学のマレーシア子会社と契約…車両フリート管理のDX化とCO2可視化を推進",
-        "url": "https://response.jp/article/2026/07/24/414432.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "NACS対応急速充電器、国内1002台・345箇所に到達…テスラ「スーパーチャージャー」が7割以上",
-        "url": "https://response.jp/article/2026/07/24/414436.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "SGホールディングス、SSBJ基準対応へ「booost Sustainability」導入…1000拠点超の非財務情報を一元管理",
-        "url": "https://response.jp/article/2026/07/24/414430.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "WECARS、「スマホでWE査定」開始…来店不要で画像送信",
-        "url": "https://response.jp/article/2026/07/24/414438.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.24",
-        "title": "Woman Shops For Tesla. Then She Learns The Real Reason It's Better To Lease—Not Buy",
-        "url": "https://www.motor1.com/news/802487/lease-vs-buy-tesla-model-3/"
+        "time": "2026.7.26",
+        "title": "アシモ復活!? ホンダがヒト型ロボット市場へ再参入！",
+        "url": "https://bestcarweb.jp/feature/column/1563578"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "エクストレイルを買うならS、X、G、ロッククリークどれが正解？ 価格差と装備で選ぶベストグレード",
-        "url": "https://bestcarweb.jp/feature/column/1551581"
+        "time": "2026.7.26",
+        "title": "トラック運送業界に初めての「最低運賃」!? 適正原価制度の導入に向けて初会合",
+        "url": "https://bestcarweb.jp/fullload/1588200"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "カローラ ツーリングはステーションワゴン最後の良心か？ 244万7500円からの実用性",
-        "url": "https://bestcarweb.jp/feature/column/1548464"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "スズキ、「GOOUT CAMP 猪苗代 vol.12」出展へ…ジムニー ノマドやクロスビーなど展示",
-        "url": "https://response.jp/article/2026/07/24/414419.html"
+        "time": "2026.7.26",
+        "title": "ハイエースが高級車みたいに変わる!? スマホ操作で乗り心地を自在に変更！ 新型アクトライドの実力は？",
+        "url": "https://bestcarweb.jp/feature/column/1563852"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "セレナのXVパッケージは買い得か？ 2025年12月改良で変わった装備と価格をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1564028"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "テイン、日産『ルークス』適合のフルスペック車高調「フレックスZ」を発売",
-        "url": "https://response.jp/article/2026/07/24/414435.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.24",
-        "title": "テスラの株価が急落…過剰投資に対する警戒感も浮上",
-        "url": "https://response.jp/article/2026/07/24/414429.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.24",
-        "title": "トヨタ強すぎ!! 市場を席巻する「無双モデル」4選",
-        "url": "https://bestcarweb.jp/feature/column/1581146"
+        "time": "2026.7.26",
+        "title": "やっぱハンマーヘッド顔カッコイイ!! 人気のトヨタ アクアはなにが魅力なのか？",
+        "url": "https://bestcarweb.jp/feature/column/1570503"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 25,
-    "queued_articles": 25,
-    "processed": 25,
-    "started_at": "2026-07-24T15:10:19.862Z",
-    "finished_at": "2026-07-24T15:11:15.124Z",
+    "scoped_articles": 51,
+    "queued_articles": 51,
+    "processed": 51,
+    "started_at": "2026-07-26T14:45:16.434Z",
+    "finished_at": "2026-07-26T14:47:00.247Z",
     "success": true,
     "error": ""
   }

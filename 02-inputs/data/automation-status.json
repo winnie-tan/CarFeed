@@ -1,34 +1,155 @@
 {
   "workflow": {
-    "generated_at": "2026-07-26T03:52:33.844Z",
+    "generated_at": "2026-07-26T14:45:16.105Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 400,
-    "deepseek_untranslated_before_run": 0,
-    "newly_fetched_articles": 400,
-    "newly_fetched_untranslated": 0,
+    "deepseek_translated_before_run": 349,
+    "deepseek_untranslated_before_run": 51,
+    "newly_fetched_articles": 51,
+    "newly_fetched_untranslated": 51,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 0,
-    "translation_queue_preview": [],
+    "translation_queue_count": 51,
+    "translation_queue_preview": [
+      {
+        "source": "The Drive",
+        "time": "2026.7.26",
+        "title": "Waymo’s Self-Driving Cars Crash Less Often Than Human Drivers: Study",
+        "url": "https://www.thedrive.com/news/waymos-self-driving-cars-crash-less-often-than-human-drivers-study"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.26",
+        "title": "Woman Quoted $7,500 For Land Rover Part. Then She Has Her Dad Call The Dealership And Ask For A Price Check",
+        "url": "https://www.motor1.com/news/802738/land-rover-part-price/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "「EVなのにパドルシフト！」「200馬力超えはすごい」日産 リーフ NISMO 新型がSNSで話題に",
+        "url": "https://response.jp/article/2026/07/26/414462.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "「一代で終わったのが勿体ない」ホンダの最高級ミニバン『エリシオン』復活なるか？ スクープ情報に期待の声続々",
+        "url": "https://response.jp/article/2026/07/25/414456.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "「早く新型が出ますように」スズキ『アルトワークス』復活なるか…SNSで期待の声高まる",
+        "url": "https://response.jp/article/2026/07/26/414470.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "『カローラクロス』用、テインの純正互換ショックアブソーバー「エンデュラ・プロ」発売",
+        "url": "https://response.jp/article/2026/07/26/414476.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "『ランクル250』を40mmリフトアップ、テインから4WD用「4x4ダンパースポーツ」発売",
+        "url": "https://response.jp/article/2026/07/26/414479.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【スズキ アルトラパン LC 新型試乗】軽自動車はハイトワゴンだけじゃない…中村孝仁",
+        "url": "https://response.jp/article/2026/07/25/414459.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【ホンダ CB750ホーネット 試乗】ナナハン入門車にうってつけ！ 2気筒ストリートファイター×「Eクラッチ」の底力",
+        "url": "https://response.jp/article/2026/07/26/414473.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【ホンダ インサイト 新型試乗】中国製BEVになったインサイトは、「白物家電」のように使える実用車だった",
+        "url": "https://response.jp/article/2026/07/26/414469.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "【夏休み】アクティオが小学生向け「建機ドクター」オンライン授業",
+        "url": "https://response.jp/article/2026/07/26/414475.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第818回",
+        "url": "https://bestcarweb.jp/feature/column/1562998"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第819回",
+        "url": "https://bestcarweb.jp/feature/column/1563000"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "EVに逆風!? 日本のEVバスメーカー民事再生やVWがEV生産終了！ 自動車業界の最新トピック3選",
+        "url": "https://bestcarweb.jp/feature/column/1563801"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.26",
+        "title": "NEOPASA静岡に「赤富士シャア」登場！ 静岡限定デザインのTシャツ、アクリルキーホルダーが発売",
+        "url": "https://response.jp/article/2026/07/26/414466.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.26",
+        "title": "Woman Drives New Chevrolet Trailblazer. Then Her iPhone Updates. Then Apple CarPlay Stops Working",
+        "url": "https://www.motor1.com/news/802737/chevrolet-trailblazer-carplay/"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "アシモ復活!? ホンダがヒト型ロボット市場へ再参入！",
+        "url": "https://bestcarweb.jp/feature/column/1563578"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "トラック運送業界に初めての「最低運賃」!? 適正原価制度の導入に向けて初会合",
+        "url": "https://bestcarweb.jp/fullload/1588200"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "ハイエースが高級車みたいに変わる!? スマホ操作で乗り心地を自在に変更！ 新型アクトライドの実力は？",
+        "url": "https://bestcarweb.jp/feature/column/1563852"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.26",
+        "title": "やっぱハンマーヘッド顔カッコイイ!! 人気のトヨタ アクアはなにが魅力なのか？",
+        "url": "https://bestcarweb.jp/feature/column/1570503"
+      }
+    ],
     "event_name": "schedule",
-    "run_id": "30186852677",
-    "sha": "8a34a68473ac446fb52c057f337e397ce401809d",
-    "completed_at": "2026-07-26T03:52:34.094Z",
-    "fetch_outcome": "skipped",
-    "translate_outcome": "skipped",
-    "build_outcome": "skipped",
+    "run_id": "30206726626",
+    "sha": "2d889661e61b21cd1666642cb3656487bf42d2e5",
+    "completed_at": "2026-07-26T14:47:00.526Z",
+    "fetch_outcome": "success",
+    "translate_outcome": "success",
+    "build_outcome": "success",
     "deepseek_translated_after_run": 400,
     "deepseek_untranslated_after_run": 0,
-    "result": "failed"
+    "result": "success"
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 25,
-    "queued_articles": 25,
-    "processed": 25,
-    "started_at": "2026-07-24T15:10:19.862Z",
-    "finished_at": "2026-07-24T15:11:15.124Z",
+    "scoped_articles": 51,
+    "queued_articles": 51,
+    "processed": 51,
+    "started_at": "2026-07-26T14:45:16.434Z",
+    "finished_at": "2026-07-26T14:47:00.247Z",
     "success": true,
     "error": ""
   }

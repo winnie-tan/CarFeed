@@ -88774,5 +88774,1170 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-24T15:11:15.103Z"
+  },
+  "https://www.thedrive.com/news/waymos-self-driving-cars-crash-less-often-than-human-drivers-study": {
+    "title_zh": "研究：Waymo 自动驾驶汽车事故率低于人类驾驶员",
+    "summary_short": "IIHS 研究显示，Waymo 自动驾驶汽车每英里事故率比人类驾驶员低 68%，但数据有限需更多验证。",
+    "summary_long": "美国公路安全保险协会（IIHS）发布研究称，Waymo 自动驾驶汽车在旧金山、凤凰城、洛杉矶和奥斯汀运营期间，每英里事故率比人类驾驶员低 68%。其中凤凰城低 76%，旧金山低 35%，洛杉矶低 71%。但研究数据有限，Waymo 行驶里程约 5000 万英里，而人类驾驶员达 2220 亿英里，结论仍需更多数据支持。",
+    "highlights_zh": [
+      "Waymo 事故率比人类低 68%",
+      "凤凰城事故率降幅最大达 76%",
+      "研究数据有限"
+    ],
+    "entities": [
+      "Waymo",
+      "美国公路安全保险协会",
+      "自动驾驶",
+      "事故率"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2285146103.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/06/IPACE_3.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2024/08/waymo-2.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:19.781Z"
+  },
+  "https://www.motor1.com/news/802738/land-rover-part-price/": {
+    "title_zh": "女子被要价 7500 美元修路虎，父亲询价仅 2500 美元",
+    "summary_short": "德克萨斯州一名女子因路虎维修被报价 7500 美元，而父亲询价仅 2500 美元，引发性别定价争议。",
+    "summary_long": "德克萨斯州女子 Ashlee 在 TikTok 上揭露，她的 2013 款路虎揽胜因机油滴漏被经销商报价 7500 美元更换零件，而她父亲致电同一经销商询价同一部件时仅获报价 2500 美元。Ashlee 称自己从小在汽车经销店长大，12 岁便重建了发动机，并非不懂行。她指责经销商存在性别定价行为，最终经销商以 2500 美元价格完成了维修。",
+    "highlights_zh": [
+      "女子被报价 7500 美元维修路虎",
+      "父亲致电询价仅 2500 美元",
+      "女子指责经销商性别定价",
+      "最终以 2500 美元成交"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "路虎揽胜",
+      "性别定价",
+      "经销商"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkYQvz/s1/woman-gets-quoted-7500-for-a-part-on-her-land-rover.-then-she-has-her-dad-call-the-dealership-and-ask-for-a-price-check-on-the-same-part.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:20.356Z"
+  },
+  "https://response.jp/article/2026/07/26/414462.html": {
+    "title_zh": "日产 Leaf NISMO 新型上市，200 马力+拨片换挡引热议",
+    "summary_short": "日产发布第三代 Leaf NISMO，基于新平台打造，功率超 200 马力，配备拨片换挡，操控升级。",
+    "summary_long": "日产汽车于 7 月 22 日推出全新 Leaf NISMO，起售价 660 万 1100 日元。该车基于第三代 Leaf 打造，融合 NISMO 赛车技术，定位为“骏足智能运动跨界车”。通过专属悬架调校、强化衬套及摆动阀减震器，实现轻快精准的操控。动力超过 200 马力，并配备电动车中罕见的拨片换挡，引发社交媒体热议。",
+    "highlights_zh": [
+      "功率超 200 马力",
+      "配备拨片换挡",
+      "专属悬架调校",
+      "第三代 Leaf 平台"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Leaf NISMO",
+      "X-Trail NISMO"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230188.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230188.jpg",
+      "https://response.jp/imgs/fill2/2229811.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:24.261Z"
+  },
+  "https://response.jp/article/2026/07/25/414456.html": {
+    "title_zh": "本田旗舰 MPV Elysion 或将复活？粉丝热议",
+    "summary_short": "本田考虑推出全新旗舰 MPV，或为 Elysion 后继车型，对标丰田埃尔法等高端市场。",
+    "summary_long": "本田正考虑推出一款全新旗舰 MPV，定位高于奥德赛，可能成为已停产的 Elysion 的实质后继车型。该消息在社交媒体上引发粉丝热议，许多人期待 Elysion 复活。当前日本高端 MPV 市场由丰田埃尔法/威尔法主导，日产新款 Elgrand 也将加入竞争。本田奥德赛因低车身设计在乘坐舒适性和礼宾用途上不及对手，销量低迷，甚至面临停产。新车型预计车长约 5 米，采用单厢造型、分体式大灯等设计，动力将搭载最新 e:HEV 混动系统，并可能推出 PHEV 版本，同时配备 Honda SENSING 360+驾驶辅助系统。由于 Elysion 名称仍在中国使用，日本版可能采用新名称。",
+    "highlights_zh": [
+      "本田考虑推出全新旗舰 MPV",
+      "或为 Elysion 后继车型",
+      "对标丰田埃尔法/威尔法",
+      "搭载 e:HEV 混动及 Honda SENSING…"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Elysion",
+      "奥德赛",
+      "丰田 | Toyota",
+      "埃尔法"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229926.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229926.jpg",
+      "https://response.jp/imgs/fill2/2230007.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:25.961Z"
+  },
+  "https://response.jp/article/2026/07/26/414470.html": {
+    "title_zh": "铃木 Alto Works 或将复活，SNS 期待高涨",
+    "summary_short": "铃木新一代 Alto 开发中，高性能版 Alto Works 复活呼声高涨，SNS 上期待声不断。",
+    "summary_long": "铃木正在开发新一代轻自动车 Alto，同时高性能版 Alto Works 的复活备受期待。Alto Works 自 1979 年诞生以来，凭借涡轮增压发动机和运动化底盘成为经典轻跑，2021 年停产后仍在中古市场保持高人气。新一代 Alto 将延续铃木轻量化理念，若推出 Works 版本，有望以轻快操控和运动设计吸引消费者。动力方面，预计沿用 660cc 三缸涡轮增压发动机，并可能提供手动变速箱。",
+    "highlights_zh": [
+      "新一代 Alto 开发中",
+      "Alto Works 曾为经典轻跑",
+      "轻量化车身+涡轮动力",
+      "手动变速箱或回归"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "阿尔托",
+      "阿尔托·沃克斯",
+      "轻自动车",
+      "涡轮增压"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229911.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229911.jpg",
+      "https://response.jp/imgs/fill2/2229913.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:28.750Z"
+  },
+  "https://response.jp/article/2026/07/26/414476.html": {
+    "title_zh": "TEIN 为丰田卡罗拉 Cross 推出原厂替换型减震器 Endura Pro",
+    "summary_short": "TEIN 为丰田卡罗拉 Cross 及混动版推出 Endura Pro Plus 和 Endura Pro 减震器，提升舒适性与耐久性。",
+    "summary_long": "日本悬挂专业厂商 TEIN 为丰田卡罗拉 Cross（MXGA10）及卡罗拉 Cross 混动版（ZVG13/ZVG16）新增了 Endura Pro Plus 和 Endura Pro 两款原厂替换型减震器。Endura Pro Plus 具备 16 段伸缩同时阻尼力调节机构，并搭载源自拉力赛经验的液压缓冲限位器（H.B.S.），在满载或载货时提升舒适性与耐久性。采用新“屏蔽结构”实现高品质与成本降低，阻尼可调范围从舒适到运动。Endura Pro 则采用固定阻尼设定，专注于日常城市驾驶的舒适性提升，同样配备 H.B.S.和屏蔽结构。Endura Pro Plus 含税售价 82,500 日元。",
+    "highlights_zh": [
+      "TEIN 为卡罗拉 Cross 及混动版推出原厂替换…",
+      "Endura Pro Plus 具备 16 段阻尼可…",
+      "采用屏蔽结构兼顾品质与成本",
+      "Endura Pro 固定阻尼"
+    ],
+    "entities": [
+      "TEIN",
+      "丰田 | Toyota",
+      "卡罗拉 Cross",
+      "Endura Pro Plus",
+      "Endura Pro"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229441.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229441.jpg",
+      "https://response.jp/imgs/fill2/2229444.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:30.431Z"
+  },
+  "https://response.jp/article/2026/07/25/414459.html": {
+    "title_zh": "铃木 Alto Lapin LC 新款试驾：轻自动车不止高顶旅行车",
+    "summary_short": "试驾铃木 Alto Lapin LC，发现它在城市灵活，高速一般，但弯道表现意外出色。",
+    "summary_long": "作者首次驾驶轻自动车进行约 300 公里的长途试驾，体验了铃木 Alto Lapin LC。该车是 2022 年推出的 Lapin 衍生车型，灵感来自铃木 Fronte LC10，但中期改款后格栅变化，已无 Fronte 痕迹。城市驾驶轻快灵活，高速表现一般，但弯道性能令人惊喜。",
+    "highlights_zh": [
+      "城市驾驶灵活轻快",
+      "高速表现一般",
+      "弯道性能出乎意料",
+      "改款后外观变化大"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Alto Lapin LC",
+      "Fronte LC10",
+      "轻自动车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2227680.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2227680.jpg",
+      "https://response.jp/imgs/fill2/2230012.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:33.999Z"
+  },
+  "https://response.jp/article/2026/07/26/414479.html": {
+    "title_zh": "TEIN 为丰田兰德酷路泽 250 推出 4x4 阻尼运动版，升高 40mm",
+    "summary_short": "TEIN 发布兰德酷路泽 250 专用 4x4 阻尼运动版，升高 40mm，兼顾公路与越野性能。",
+    "summary_long": "悬挂专业厂商 TEIN 推出适用于丰田兰德酷路泽 250（TRJ250W，2024 年 4 月后）的越野/四驱升高重型阻尼器“4x4 阻尼运动版”，含税价 15.51 万日元。该阻尼器针对城市与越野场景设计，具备高耐久性和通过性，采用螺纹式车高调节和 16 段伸缩同时阻尼力调节机构，并根据车型优化行程与定位值。配备液压缓冲限位器（H.B.S.），可平滑吸收冲击，提升舒适性、耐久性和通过性。新平台“屏蔽结构”兼顾高品质与低成本。针对兰德酷路泽 250 的调校减少了城市路面的颠簸感，并提升升高后高速行驶的稳定性。宽广的阻尼力调节范围适应从城市到高速的多种路况，H.B.S.则增强大落差路段的通过性和满载时后排舒适性，实现平稳驾乘。此外，支持车内遥控阻尼力的 EDFC 系列。提供 3 年或 6 万公里产品及固着保修。",
+    "highlights_zh": [
+      "升高 40mm",
+      "16 段阻尼可调",
+      "配备液压缓冲限位器",
+      "支持 EDFC 车内遥控调节"
+    ],
+    "entities": [
+      "TEIN",
+      "丰田 | Toyota",
+      "兰德酷路泽 250 | Land Cruiser 250",
+      "4x4 阻尼运动版 | 4x4 Damper Sport",
+      "液压缓冲限位器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230200.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230200.jpg",
+      "https://response.jp/imgs/fill2/2230199.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:34.459Z"
+  },
+  "https://response.jp/article/2026/07/26/414473.html": {
+    "title_zh": "本田 CB750 Hornet 试驾：双缸街车×E-Clutch，入门级 750cc 的绝佳选择",
+    "summary_short": "本田 CB750 Hornet 搭载 E-Clutch 自动离合器，双缸街车操控友好，适合入门骑手。",
+    "summary_long": "本田 CB750 Hornet 是一款搭载 E-Clutch 自动离合器系统的双缸街车，定位为 750cc 入门级车型。该车于 2022 年在欧洲首发，2025 年进入日本市场，2026 年 4 月改款后标配 E-Clutch。试驾者身高 170cm，认为骑行姿势舒适，双脚可着地，操控轻松。E-Clutch 系统在起步、换挡和停车时自动控制离合器，减轻操作负担，同时保留手动模式，适合新手和城市通勤。",
+    "highlights_zh": [
+      "E-Clutch 自动离合器",
+      "双缸发动机",
+      "骑行姿势友好",
+      "2026 年改款后标配 E-Clutch"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CB750 Hornet",
+      "E-Clutch",
+      "双缸"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230088.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230087.jpg",
+      "https://response.jp/imgs/fill2/2230087.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:38.334Z"
+  },
+  "https://response.jp/article/2026/07/26/414469.html": {
+    "title_zh": "本田 Insight 新车试驾：中国产 BEV，像白色家电一样实用的家用车",
+    "summary_short": "本田全新 Insight 以中国产 BEV 身份回归，跨界造型、实用空间，3000 台限量发售。",
+    "summary_long": "全新本田 Insight 以 3000 台限量形式发售，基于中国东风本田 e:NS2/广汽本田 e:NP2 打造，是本田在中国 BEV 系列的第二款车型。外观采用跨界风格，设计锐利，但前脸若无 H 标则辨识度不高。车内空间宽敞，得益于 BEV 专用平台，地板较高但驾驶姿势接近传统轿车。车身尺寸比思域大一圈，轴距相同，后排和行李厢空间充裕。整体定位为实用型家用车，如同白色家电般易用。",
+    "highlights_zh": [
+      "中国产 BEV",
+      "跨界造型",
+      "车身比思域大一圈",
+      "实用定位"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Insight",
+      "思域",
+      "东风本田 | Dongfeng Honda",
+      "BEV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230081.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230080.jpg",
+      "https://response.jp/imgs/fill2/2230080.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:39.269Z"
+  },
+  "https://response.jp/article/2026/07/26/414475.html": {
+    "title_zh": "アクティオ为小学生举办“建机医生”在线课堂",
+    "summary_short": "アクティオ在夏季在线自由研究节中为小学生开设免费在线课程，介绍建设机械的维修与点检工作。",
+    "summary_long": "アクティオ与キッズウィークエンド合作，在“夏季在线自由研究节 2026”中举办面向小学生的免费在线课程“建机医生”。课程通过问答和视频，介绍建设机械的维修与点检工作，以及如何解决工地问题、租赁机械的修理机制。内容旨在培养珍惜物品和重视安全的意识，并加深对 SDGs 的理解。课程由数学教师艺人タカタ先生主讲，最后还有“梦想建机”设计环节。",
+    "highlights_zh": [
+      "免费在线课程",
+      "介绍建设机械维修与点检",
+      "包含问答、视频和互动环节",
+      "培养珍惜物品与安全意识"
+    ],
+    "entities": [
+      "アクティオ",
+      "キッズウィークエンド",
+      "建机医生",
+      "SDGs"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2229990.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2229990.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:42.051Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562998": {
+    "title_zh": "【车名猜谜】这些名车、珍车，你知道吗？第 818 回",
+    "summary_short": "本期猜谜聚焦 1983 年第二代大发 Charade，包括世界最小三缸柴油、三缸 1L 涡轮及柴油涡轮车型，以及意大利 De Tomaso 特别版。",
+    "summary_long": "1983 年推出的第二代大发 Charade（夏利）拥有多项世界第一：最小三缸柴油发动机、首款三缸 1L 涡轮增压车型，并设有柴油涡轮版本。文中展示的 1984 年 1L 柴油涡轮车型为特别版。此外，由意大利制造商监修的 De Tomaso Turbo 基于 1L 涡轮车打造，配备专属装备，成为独特车型。De Tomaso 版本于 1987 年一度消失，后在 1993 年第四代 Charade 上复活，搭载 1.6L 发动机。",
+    "highlights_zh": [
+      "第二代大发 Charade 于 1983 年登场",
+      "世界最小三缸柴油及首款三缸 1L 涡轮",
+      "De Tomaso Turbo 为意大利监修特别版",
+      "De Tomaso 版本在第四代 Charade 复…"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "夏利",
+      "De Tomaso"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30121741/main_charade_013.jpg?v=1782789462",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30121741/main_charade_013-600x401.jpg?v=1782789462",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30120025/main_am198909_cvc416_01001H-600x400.jpg?v=1782788426"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:44.108Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563000": {
+    "title_zh": "【猜车名】这些名车、珍车，你知道吗？第 819 回",
+    "summary_short": "本田第四代“Grand Civic”1987-1991 年销售，1989 年首次搭载 VTEC 的 SiR 版本，1.6L 发动机输出 160PS。",
+    "summary_long": "本田第四代“Grand Civic”于 1987 年至 1991 年间销售，同期还推出了 CR-X 和商用版 Civic Pro。1989 年改款时，首次搭载 VTEC 技术的 SiR 版本问世，配备 1.6L 直列四缸 B16A 发动机，最大功率 160PS（升功率 100PS）。1991 年推出的 EG Civic 将功率提升至 170PS。",
+    "highlights_zh": [
+      "第四代 Grand Civic 1987-1991…",
+      "1989 年首次搭载 VTEC 的 SiR 版本",
+      "1.6L B16A 发动机输出 160PS",
+      "1991 年 EG Civic 功率升至 170PS"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Grand Civic",
+      "CR-X",
+      "Civic Pro",
+      "VTEC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30120025/main_am198909_cvc416_01001H.jpg?v=1782788426",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30120025/main_am198909_cvc416_01001H-600x400.jpg?v=1782788426",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/30121741/main_charade_013-600x401.jpg?v=1782789462"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:45.666Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563801": {
+    "title_zh": "EV 逆风？日本电动巴士制造商申请民事再生，大众终止北美 EV 生产",
+    "summary_short": "日本 EV 巴士制造商 EV Motors Japan 申请民事再生，大众终止北美 ID.4 生产，成田机场新 IC 计划等三大汽车行业热点。",
+    "summary_long": "日本电动巴士制造商 EV Motors Japan 因车辆质量问题导致多起事故，已申请民事再生，其问题车辆为委托中国生产的车型。大众汽车宣布 2026 年 4 月终止北美工厂 ID.4 生产，转产燃油 SUV Atlas，主因美国 EV 需求低迷及税收优惠取消。此外，成田机场与圈央道直连的新 IC 计划推进，影响物流基础设施。",
+    "highlights_zh": [
+      "EV Motors Japan 申请民事再生",
+      "大众终止北美 ID.4 生产",
+      "成田机场新 IC 计划推进"
+    ],
+    "entities": [
+      "EV Motors Japan",
+      "大众 | Volkswagen",
+      "ID.4",
+      "Atlas"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29200330/00_VW_ID4_DB2021AU00577_large.jpg?v=1782731011",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29200330/00_VW_ID4_DB2021AU00577_large-600x400.jpg?v=1782731011",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17102542/DSC0382-600x399.jpg?v=1784251544"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:48.135Z"
+  },
+  "https://response.jp/article/2026/07/26/414466.html": {
+    "title_zh": "NEOPASA 静冈推出“赤富士夏亚”限定 T 恤与亚克力钥匙扣",
+    "summary_short": "静冈限定版《机动战士高达》周边：赤富士夏亚 T 恤与扇子型亚克力钥匙扣，7 月 25 日起发售。",
+    "summary_long": "《机动战士高达》系列推出静冈限定设计商品，包括以赤富士为背景、笔触动感的夏亚·阿兹纳布尔 T 恤（黑色，M-XXL，6600 日元）和扇子型亚克力钥匙扣（880 日元）。商品于 2026 年 7 月 25 日起在“STRICT-G NEOPASA 静冈”（下行线）店限定销售。",
+    "highlights_zh": [
+      "静冈限定赤富士夏亚 T 恤",
+      "扇子型亚克力钥匙扣",
+      "T 恤售价 6600 日元",
+      "7 月 25 日起 NEOPASA 静冈店限定发售"
+    ],
+    "entities": [
+      "机动战士高达",
+      "夏亚·阿兹纳布尔",
+      "赤富士",
+      "静冈限定",
+      "STRICT-G"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230031.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230028.jpg",
+      "https://response.jp/imgs/zoom1/2230032.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:50.231Z"
+  },
+  "https://www.motor1.com/news/802737/chevrolet-trailblazer-carplay/": {
+    "title_zh": "雪佛兰 Trailblazer 车主遭遇 iPhone 更新后 CarPlay 失灵",
+    "summary_short": "雪佛兰 Trailblazer 车主反映 iPhone 更新后 Apple CarPlay 无法正常工作，引发关注。",
+    "summary_long": "一位雪佛兰 Trailblazer 车主在 TikTok 上分享，她的 iPhone 更新后 Apple CarPlay 出现间歇性连接问题，即使车辆支持无线连接，CarPlay 也时常无法正常启动。该视频获得超过 4.9 万次观看，引发讨论。",
+    "highlights_zh": [
+      "iPhone 更新导致 CarPlay 故障",
+      "无线连接时好时坏",
+      "视频引发广泛关注"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Trailblazer",
+      "Apple CarPlay",
+      "iPhone"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo78vp/s1/woman-drives-a-new-chevrolet-blazer.-then-her-iphone-updates.-then-her-apple-carplay-stops-working.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:50.879Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563578": {
+    "title_zh": "本田重返人形机器人市场？ASIMO 复活？",
+    "summary_short": "本田贸易与中国 UBTECH 合作，销售人形机器人，但并非 ASIMO 复活，而是面向工业场景。",
+    "summary_long": "本田集团旗下的本田贸易与中国机器人开发巨头 UBTECH 合作，开始销售人形机器人。这并非本田经典机器人 ASIMO 的复活，而是面向工厂和仓库等工业场景，旨在提升生产效率和业务自动化。合作方为 UBTECH 旗下 UQI，将进行实证实验并逐步推广。此举顺应了近期“物理 AI”热潮，类似英伟达推动工业机器人 AI 融合、现代旗下波士顿动力 Atlas 引入美国工厂等趋势。",
+    "highlights_zh": [
+      "本田贸易与 UBTECH 合作销售人形机器人",
+      "并非 ASIMO 复活",
+      "旨在提升工厂和仓库生产效率",
+      "顺应物理 AI 热潮"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ASIMO",
+      "UBTECH",
+      "物理 AI"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29164657/00_ASIMO_3rd_2011_c1111012H.jpg?v=1782719218",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29164657/00_ASIMO_3rd_2011_c1111012H-600x400.jpg?v=1782719218",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17102542/DSC0382-600x399.jpg?v=1784251544"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:54.390Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563852": {
+    "title_zh": "丰田海狮变身豪华车？手机操控主动悬挂 ActRide 实测",
+    "summary_short": "KYB 推出 ActRide 主动式减震器，通过手机 App 可实时调整阻尼，让丰田海狮等车型拥有豪华车般的舒适驾乘体验。",
+    "summary_long": "KYB（Kayaba）为售后市场推出了名为 ActRide 的主动式减震器，它并非简单的可变阻尼产品，而是集成了专用 IMU（惯性测量单元）和 ECU，通过实时采集加速度和角速度数据，精确计算并控制最佳阻尼力。用户可通过蓝牙连接手机专用 App，自由调整悬挂设定，使丰田海狮等车型的乘坐质感向豪华车看齐。",
+    "highlights_zh": [
+      "KYB 推出 ActRide 主动式减震器",
+      "手机 App 蓝牙连接",
+      "集成 IMU+ECU",
+      "丰田海狮等车型可获豪华车般舒适性"
+    ],
+    "entities": [
+      "KYB",
+      "丰田海狮 | Toyota HiAce",
+      "ActRide",
+      "主动式减震器"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29214703/00_KYB_ActRide_0M0A2493_1.jpg?v=1782737224",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29214703/00_KYB_ActRide_0M0A2493_1-600x400.jpg?v=1782737224",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17102542/DSC0382-600x399.jpg?v=1784251544"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:58.910Z"
+  },
+  "https://bestcarweb.jp/fullload/1588200": {
+    "title_zh": "日本卡车运输业将首次引入“最低运费”？适正原价制度设计启动",
+    "summary_short": "日本国土交通省召开首次讨论会，为 2025 年修法引入的卡车运输业“适正原价”制度设计具体方案，该制度具有法律约束力，将设定运费下限。",
+    "summary_long": "日本国土交通省于 2026 年 7 月 17 日召开首次有识者讨论会，着手设计 2025 年修订的《货物汽车运输事业法》中引入的“适正原价”制度。该制度不同于现行的“标准运费”，具有法律约束力，通过计算公式导出原价，作为运费下限。持续低于原价的运营商将面临事业许可更新被拒，从而退出市场。此举旨在纠正多重分包结构、提高司机工资，引发行业关注。",
+    "highlights_zh": [
+      "2025 年修法引入适正原价制度",
+      "运费下限具有法律约束力",
+      "持续低于原价将无法更新许可",
+      "旨在纠正多重分包、提升司机待遇"
+    ],
+    "entities": [
+      "国土交通省",
+      "适正原价制度",
+      "货物汽车运输事业法",
+      "标准运费"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/24134722/00-IMG_9130.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/24105631/DSC02842-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/23154627/00_AR5I6773-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:45:59.745Z"
+  },
+  "https://bestcarweb.jp/feature/column/1570503": {
+    "title_zh": "丰田 Aqua 改款：锤头鲨前脸更帅，GR SPORT 追加",
+    "summary_short": "丰田 Aqua 2025 年改款采用锤头鲨前脸，2026 年追加 GR SPORT，从省油小车进化为精致运动之选。",
+    "summary_long": "丰田 Aqua 作为畅销紧凑型混动车，2025 年 9 月改款后采用锤头鲨前脸设计，外观更锐利，质感提升。2026 年 7 月 6 日再次改良，新增 GR SPORT 版本，售价 323.84 万日元。GR SPORT 配备专属外观套件、17 英寸轮毂、底盘强化及运动化悬架和转向系统，兼顾颜值与操控。车身尺寸保持 4080×1695×1485mm，5 座布局，窄路停车依然便利。",
+    "highlights_zh": [
+      "2025 年改款采用锤头鲨前脸",
+      "2026 年 7 月追加 GR SPORT 版本",
+      "GR SPORT 配备专属外观、底盘及运动调校",
+      "车身尺寸紧凑"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "アクア",
+      "GR SPORT",
+      "锤头鲨前脸",
+      "紧凑型混动车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17092512/0M0A6391.jpg?v=1784247913",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17092512/0M0A6391-600x400.jpg?v=1784247913",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17102542/DSC0382-600x399.jpg?v=1784251544"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:03.615Z"
+  },
+  "https://bestcarweb.jp/feature/column/1533817": {
+    "title_zh": "雷克萨斯 LBX 与 UX 怎么选？最小 SUV 新星与成熟 UX300h 的意外实力",
+    "summary_short": "雷克萨斯 LBX 与 UX300h 对比：价格、尺寸、油耗、配置全面解析，帮你选出最适合的紧凑型 SUV。",
+    "summary_long": "雷克萨斯 LBX 作为品牌最小 SUV，起价 420 万日元，搭载 1.5L 混动系统，油耗低至 28km/L，配置丰富，适合城市通勤。UX300h 虽处产品周期末期，但经过多年改进，行驶质感成熟。两者在尺寸、动力和定位上各有侧重：LBX 更小巧灵活，UX300h 空间稍大。选择取决于用户对空间、预算和驾驶感受的偏好。",
+    "highlights_zh": [
+      "LBX 起价 420 万日元",
+      "LBX 油耗 28km/L",
+      "LBX 配置丰富",
+      "UX300h 空间略大"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LBX",
+      "UX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09155103/A13_7843.jpg?v=1780987864",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09155103/A13_7843-600x400.jpg?v=1780987864",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17102542/DSC0382-600x399.jpg?v=1784251544"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:04.362Z"
+  },
+  "https://bestcarweb.jp/feature/column/1571125": {
+    "title_zh": "本田 WR-V：1.5L 汽油版够用吗？",
+    "summary_short": "本田 WR-V 仅提供 1.5L 汽油动力，无混动选项，但凭借低价和大空间吸引消费者。",
+    "summary_long": "本田 WR-V 是一款紧凑型 SUV，起售价约 214.94 万日元，以宽敞的行李厢和实惠价格吸引买家。其动力系统仅配备 1.5L 汽油发动机和 CVT 变速箱，驱动方式为前驱，没有混合动力选项。在混动车型盛行的当下，WR-V 通过降低购车门槛来竞争，WLTC 油耗为 16.2-16.4 km/L，属于同级汽油 SUV 的正常水平。车辆尺寸为长 4325mm、宽 1790mm、高 1650mm，外观大气且内部空间充裕。",
+    "highlights_zh": [
+      "仅提供 1.5L 汽油动力",
+      "起售价约 214.94 万日元",
+      "WLTC 油耗 16.2-16.4 km/L",
+      "尺寸宽敞"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "WR-V",
+      "丰田 | Toyota",
+      "雅力士 Cross",
+      "缤智"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17102542/DSC0382.jpg?v=1784251544",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17102542/DSC0382-600x399.jpg?v=1784251544",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29214703/00_KYB_ActRide_0M0A2493_1-600x400.jpg?v=1782737224"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:07.588Z"
+  },
+  "https://www.motor1.com/features/802715/why-do-cars-have-so-many-cameras/": {
+    "title_zh": "为什么新车有这么多摄像头",
+    "summary_short": "新车遍布摄像头，它们不仅是倒车辅助，更是现代安全系统和自动驾驶功能的核心。",
+    "summary_long": "如今的新车几乎被摄像头覆盖，从格栅、挡风玻璃到后视镜和车内，数量众多。这些摄像头不仅用于倒车影像，更是现代安全系统、泊车技术和高级驾驶辅助功能的关键组件。自 2018 年美国联邦政府要求新车标配后视技术以来，摄像头数量持续增加，未来还将更多。",
+    "highlights_zh": [
+      "新车摄像头遍布格栅、挡风玻璃、后视镜等位置",
+      "摄像头是安全系统和驾驶辅助功能的核心",
+      "2018 年起后视摄像头成为美国新车标配"
+    ],
+    "entities": [
+      "Motor1",
+      "摄像头",
+      "安全系统",
+      "驾驶辅助"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlekk/s1/why-do-cars-have-so-many-cameras.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:07.931Z"
+  },
+  "https://www.motor1.com/news/802736/lexus-water-door/": {
+    "title_zh": "女子发现雷克萨斯车门内灌满水，原因与解决方法",
+    "summary_short": "女子发现雷克萨斯 RX 350 车门内积水，视频引发关注，解析原因与修复方法。",
+    "summary_long": "一位女子的 2020 款雷克萨斯 RX 350 车门内出现积水，摇晃车门时能清晰听到水声。该现象虽看似奇怪，但实际并不罕见。视频博主 John 记录了这一情况，视频获得超 15.9 万次观看。文章解释了车门进水的可能原因及如何避免进一步问题。",
+    "highlights_zh": [
+      "女子发现雷克萨斯车门内有水声",
+      "摇晃车门可听到明显水声",
+      "视频获超 15.9 万次观看",
+      "解析车门进水原因与修复方法"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "RX 350"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlevR/s1/woman-gets-in-her-lexus.-then-she-realizes-her-door-is-completely-full-of-water.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:10.893Z"
+  },
+  "https://www.motor1.com/news/802608/carmax-ford-escape/": {
+    "title_zh": "男子在 CarMax 看到 2018 款福特 Escape 售价后，意识到该买什么",
+    "summary_short": "一辆 2018 年福特 Escape 里程 10 万英里，CarMax 标价 1.4 万美元，引发对性价比的质疑。",
+    "summary_long": "一位男子在 CarMax 发现一辆 2018 年福特 Escape，里程 10 万英里，售价 1.4 万美元，令他震惊。该车在可靠性指数上仅得 60 分，存在多项召回问题，包括发动机、变速箱、刹车和安全隐患。相比之下，他认为同价位有更可靠的选择。",
+    "highlights_zh": [
+      "2018 款福特 Escape 里程 10 万英里",
+      "可靠性评分仅 60/100",
+      "潜在问题包括发动机冷却液泄漏、刹车软管磨损",
+      "同价位有更可靠的替代车型"
+    ],
+    "entities": [
+      "CarMax",
+      "福特 | Ford",
+      "Ford Escape",
+      "可靠性指数"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3yqjj/s1/man-goes-to-carmax.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:11.398Z"
+  },
+  "https://www.motor1.com/news/802690/ford-explorer-sunroof/": {
+    "title_zh": "福特探险者天窗漏水致霉味，经销商建议：别用天窗",
+    "summary_short": "康涅狄格州一家庭因福特探险者天窗堵塞产生霉味，经销商竟建议停止使用天窗。",
+    "summary_long": "康涅狄格州一位女士在 2024 年租赁了一辆带天窗的福特探险者，但不久后天窗排水管因树下停车堵塞，导致车内积水并产生霉味。尽管经销商曾清理并保证无霉菌，但问题持续，最终经销商建议她彻底停止使用天窗。该女士在 TikTok 上发布视频求助，引发关注。",
+    "highlights_zh": [
+      "天窗排水管因树下停车堵塞",
+      "车内积水产生持久霉味",
+      "经销商建议彻底停用天窗",
+      "车主在 TikTok 上求助"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "探险者 | Explorer",
+      "天窗",
+      "霉味",
+      "经销商"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgXPN/s1/woman-pays-extra-for-sunroof.-then-she-noticed-a-smell.-then-her-dealership-s-solution-is-to-stop-using-it-altogether.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:14.645Z"
+  },
+  "https://www.motor1.com/news/802678/porsche-cayenne-valvoline-oil-change/": {
+    "title_zh": "少女将保时捷卡宴送去 Valvoline 换油后发动机报废",
+    "summary_short": "少女将毕业礼物保时捷卡宴送去 Valvoline 换油，结果发动机报废，维权一年多无果。",
+    "summary_long": "一名刚高中毕业的少女将父母赠送的保时捷卡宴（Porsche Cayenne）送去 Valvoline 快速换油连锁店做常规保养。换油后仪表盘立即显示“机油压力低”警告，店家称不会重置。次日车辆启动困难并发出异响，经检查发动机已损坏。少女与店家交涉一年多未获赔偿，案件即将开庭。",
+    "highlights_zh": [
+      "换油后仪表盘显示机油压力低",
+      "次日发动机异响并报废",
+      "店家称“不是我们的责任”",
+      "维权一年多"
+    ],
+    "entities": [
+      "保时捷卡宴 | Porsche Cayenne",
+      "Valvoline",
+      "发动机",
+      "机油压力低"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KPJN/s1/woman-gets-porsche-cayenne-as-a-high-school-graduation-gift..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:14.807Z"
+  },
+  "https://www.motor1.com/features/802717/why-tire-pressure-light-comes-on-when-cold/": {
+    "title_zh": "为什么天冷时胎压警报灯会亮起",
+    "summary_short": "气温下降会导致胎压降低，触发警报灯，但这通常不代表轮胎漏气。",
+    "summary_long": "气温下降时，轮胎内的空气密度增大，对胎壁的压力减小，导致胎压读数降低。即使轮胎没有漏气，当胎压低于车辆胎压监测系统（TPMS）设定的阈值时，仪表盘上的警报灯就会亮起。通常，气温每下降 10 华氏度，胎压会降低约 1 PSI。",
+    "highlights_zh": [
+      "气温下降导致胎压降低",
+      "通常不代表轮胎漏气",
+      "每降 10°F"
+    ],
+    "entities": [
+      "胎压监测系统",
+      "Motor101"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo78ZP/s1/why-does-my-tire-pressure-get-low-when-it-s-cold.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:17.632Z"
+  },
+  "https://www.thedrive.com/news/new-book-tells-the-story-of-rtr-an-american-drift-team-that-exploded-into-way-more": {
+    "title_zh": "新书讲述美国漂移团队 RTR 的崛起故事",
+    "summary_short": "从草根赛事到与福特深度合作，RTR 的成长史被收录在一本 256 页的书中，由创始人 Vaughn Gittin Jr.联合撰写。",
+    "summary_long": "RTR（Ready to Rock）由 Vaughn Gittin Jr.于 2009 年创立，最初是一支美国漂移车队，后发展为汽车后市场的重要力量。新书《Ready To Rock》记录了其从草根赛事到与福特建立全面合作伙伴关系的历程，包括打造 Ken Block 的“Hoonicorn”Mustang 和七电机 Mustang Mach-E 1400 等知名车型。Gittin Jr.本人是两届 Formula Drift 冠军，也是首位赢得 D1 Grand Prix 的美国人。",
+    "highlights_zh": [
+      "RTR 由 Vaughn Gittin Jr.于 2…",
+      "打造了 Ken Block 的“Hoonicorn”…",
+      "与福特建立全面合作伙伴关系",
+      "Gittin Jr.是两届 Formula Drif…"
+    ],
+    "entities": [
+      "RTR",
+      "福特",
+      "Mustang",
+      "Vaughn Gittin Jr.",
+      "Formula Drift"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/readytorock_vaughngittinjr_canter06_0726.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/readytorock_vaughngittinjr_larrychen103.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/readytorock_vaughngittinjr_larrychen067.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:18.617Z"
+  },
+  "https://www.thedrive.com/news/somebody-should-really-give-ayrton-sennas-nsx-a-good-long-term-home": {
+    "title_zh": "埃尔顿·塞纳的 NSX 应被妥善珍藏",
+    "summary_short": "塞纳的 NSX 被当作投机资产频繁转手，其历史价值被忽视，值得长期珍藏。",
+    "summary_long": "埃尔顿·塞纳的私人本田 NSX 正在被当作投机资产频繁转手，这令人遗憾。这辆红色 NSX 是塞纳在欧洲的座驾，曾于 2024 年以 62.3 万美元挂牌，如今又将拍卖，估价约 66.5 万至 100 万美元。塞纳曾参与 NSX 的研发，使其底盘刚性提升 50%，这辆车承载着 F1 传奇与本田合作的深厚历史，远不止是增值工具。",
+    "highlights_zh": [
+      "塞纳的 NSX 被当作投机资产频繁转手",
+      "2024 年挂牌 62.3 万美元",
+      "塞纳曾参与 NSX 研发",
+      "这辆车承载 F1 传奇与本田合作的历史"
+    ],
+    "entities": [
+      "埃尔顿·塞纳 | Ayrton Senna",
+      "本田 | Honda",
+      "NSX",
+      "F1"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/91P_19191HondaNSX1-1-copy.jpg.webp",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/e74858dd06e127ec75f1e8d0f41a611ea51cb3b7.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/39e69ca5d77048f2aeec93e12144c286.jpg.webp?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:21.623Z"
+  },
+  "https://www.thedrive.com/news/how-this-rocket-scientist-made-nascar-irresistibly-loud-in-the-90s-and-00s": {
+    "title_zh": "火箭科学家如何让 90 年代和 00 年代的 NASCAR 声音震撼人心",
+    "summary_short": "一位火箭科学家转行研发 X-pipe 排气系统，为 NASCAR 赛车带来更响亮高亢的声浪，并提升性能。",
+    "summary_long": "90 年代末至 00 年代初，NASCAR 赛车因 X-pipe 排气系统的普及而发出更响亮、高亢的声浪，这得益于前火箭科学家 Boyd Butler 创立的 Dr. Gas 公司。他开发的 X-pipe 系统不仅提升了排气效率，还为 Morgan-McClure 车队的赛车增加了 4.5 马力，帮助 Sterling Marlin 在 1995 年 Daytona 500 中获胜。",
+    "highlights_zh": [
+      "前火箭科学家 Boyd Butler 转行研发 X-…",
+      "X-pipe 系统使 NASCAR 赛车声浪更响亮高…",
+      "为赛车增加 4.5 马力",
+      "助力 Sterling Marlin 赢得 1995…"
+    ],
+    "entities": [
+      "NASCAR",
+      "X-pipe 排气系统",
+      "Boyd Butler",
+      "Dr. Gas",
+      "Morgan-McClure Motorsports"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-11.42.39-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.13.50-PM.jpeg?strip=all",
+      "https://i.ytimg.com/vi/HL_spMcptqg/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:22.136Z"
+  },
+  "https://www.motor1.com/news/802691/saudi-prince-mercedes-g-class-v8-amg/": {
+    "title_zh": "沙特王子定制奔驰 G 级 AMG V8 以 14.3 万美元成交",
+    "summary_short": "1993 年奔驰 500 GE V8 AMG 仅产 446 台，这台沙特王子定制版以 14.3 万美元拍卖成交。",
+    "summary_long": "1993 年，奔驰与 AMG 合作推出了 G 级 500 GE V8 AMG，这是首款搭载 V8 发动机的 G 级，仅生产 446 台。近日，一台底盘编号 1669、行驶 1.5 万英里、由沙特王子苏尔坦·本·阿卜杜勒阿齐兹·阿勒沙特定制的版本在 RM 苏富比拍卖会上以 14.3 万美元成交。该车采用特殊车漆和工厂定制配置，是 G 级历史上最稀有的版本之一。",
+    "highlights_zh": [
+      "1993 年奔驰与 AMG 合作推出首款 V8 G…",
+      "仅生产 446 台",
+      "沙特王子定制",
+      "行驶 1.5 万英里"
+    ],
+    "entities": [
+      "奔驰 | Mercedes",
+      "G 级 | G-Class",
+      "AMG",
+      "500 GE V8 AMG",
+      "沙特王子"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbglvA/s1/mercedes-ge500-v8-amg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:25.689Z"
+  },
+  "https://www.thedrive.com/news/how-this-guy-scored-the-ultimate-accessory-to-his-datsun-roadster-a-factory-hot-wheels": {
+    "title_zh": "如何让爱车变成风火轮模型：一位 Datsun Roadster 车主的奇妙经历",
+    "summary_short": "Matt Gabe 的 1967.5 Datsun 2000 Roadster 被风火轮制成限量 4000 台的高端模型，源于他在 Mattel 的工作和收藏家大会的邀请。",
+    "summary_long": "Matt Gabe 拥有一辆罕见的 1967.5 Datsun 2000 Roadster，他在 Mattel 工作，这辆车在停车场格外显眼。2024 年，他作为风火轮收藏家大会的荣誉嘉宾，成功说服团队将自己的车作为原型，生产了 4000 台高品质的“收藏家”版本模型，配备橡胶轮胎和全金属底盘车身。",
+    "highlights_zh": [
+      "Matt Gabe 的 Datsun Roadste…",
+      "仅生产 4000 台",
+      "Gabe 在 Mattel 工作",
+      "1967.5 Datsun 2000 Roadste…"
+    ],
+    "entities": [
+      "Datsun",
+      "风火轮 | Hot Wheels",
+      "Mattel",
+      "Datsun 2000 Roadster"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-11.13.06-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-11.14.29-AM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-11.14.39-AM.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:26.876Z"
+  },
+  "https://www.motor1.com/news/802611/gas-overfill-warning/": {
+    "title_zh": "机械师警告：油枪跳枪后别再强行加油，这辆雪佛兰因此进厂维修",
+    "summary_short": "机械师警告，油枪跳枪后强行加油会损坏碳罐，堵塞 EVAP 系统，导致昂贵维修。",
+    "summary_long": "一位休斯顿机械师在 TikTok 上警告，油枪跳枪后继续强行加油看似无害，实则会导致燃油进入碳罐，削弱活性炭并堵塞整个 EVAP 系统。他展示了一辆雪佛兰因车主习惯性加满后额外补油而造成的损坏，初期症状是加油时油枪频繁跳枪，最终需要昂贵维修。",
+    "highlights_zh": [
+      "跳枪后强行加油会损坏碳罐",
+      "堵塞 EVAP 系统导致频繁跳枪",
+      "维修费用高昂"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "EVAP 系统",
+      "碳罐",
+      "机械师"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJbQE/s1/man-pumps-gas.-then-his-mechanic-tells-him-why.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:29.157Z"
+  },
+  "https://insideevs.com/news/802719/ev-buyers-happy-jd-power-survey/": {
+    "title_zh": "研究显示电动车车主满意度高于燃油车车主",
+    "summary_short": "JD Power 2026 年 APEAL 研究显示，电动车车主在几乎所有方面都比燃油车车主更满意，尤其在动力系统方面。",
+    "summary_long": "JD Power 2026 年汽车性能、执行和布局（APEAL）研究显示，电动车车主对车辆的满意度高于燃油车车主。电动车在几乎所有类别中都优于内燃机汽车，尤其在动力系统方面，电动车得分比燃油车高出 109 分（满分 1000 分）。此外，电动车的满意度同比提升 22 分，进步最大。这表明随着电动车技术不断改进（如 NACS 充电、续航升级、热泵等），即使更多普通消费者加入，整体热情依然高涨。",
+    "highlights_zh": [
+      "电动车车主满意度全面领先燃油车",
+      "动力系统满意度差距最大",
+      "电动车满意度同比提升 22 分",
+      "技术改进推动普通消费者热情不减"
+    ],
+    "entities": [
+      "JD Power",
+      "APEAL"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xqPMzk/s1/2026-chevy-blazer-ev-ss.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:30.577Z"
+  },
+  "https://insideevs.com/news/802668/bmw-ix3-road-trip-challenge/": {
+    "title_zh": "宝马 iX3 充电 15 分钟，高速能跑多远？",
+    "summary_short": "宝马 iX3 充电 15 分钟，高速行驶 148 英里，平均能耗 2.56 英里/千瓦时。",
+    "summary_long": "2027 款宝马 iX3 支持 400 kW 快充，EPA 续航超 400 英里。在“10% 挑战”测试中，车辆从 10% 电量开始充电 15 分钟，随后以 74 英里/小时（120 公里/小时）匀速行驶至电量回到 10%，共行驶 148 英里，平均能耗 2.56 英里/千瓦时。若充至 80%，实际续航可达 203 英里，10%-80% 充电仅需 21 分钟。",
+    "highlights_zh": [
+      "充电 15 分钟",
+      "平均能耗 2.56 英里/千瓦时",
+      "10%-80% 充电仅需 21 分钟",
+      "EPA 续航超 400 英里"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3",
+      "Neue Klasse",
+      "EPA 续航"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BYwX/s1/bmw-ix3.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:32.470Z"
+  },
+  "https://www.motor1.com/news/802606/facebook-marketplace-used-car-red-flag/": {
+    "title_zh": "德州女子在 Facebook Marketplace 买二手车，发现多数人忽略的红旗",
+    "summary_short": "TikTok 专家分享在 Facebook Marketplace 购买二手车的警示信号，包括卖家资料、VIN 记录和试驾检查。",
+    "summary_long": "一位来自德克萨斯州的 TikTok 创作者 Jaclyn 分享了一段视频，提醒消费者在 Facebook Marketplace 购买二手车时需警惕多个红旗信号。她指出，如果卖家账号中同时出售多辆车，很可能是不诚实的经销商，而非个人车主。买家应仔细检查卖家资料，寻找长期在线活动和与车辆的真实关联。此外，建议查看详细的车辆描述（包括瑕疵），并坚持获取 VIN 记录和进行试驾。",
+    "highlights_zh": [
+      "警惕卖家同时出售多辆车",
+      "检查卖家账号的在线历史",
+      "要求详细描述和 VIN 记录",
+      "务必进行试驾"
+    ],
+    "entities": [
+      "Facebook Marketplace",
+      "TikTok",
+      "VIN",
+      "二手车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wl8vp4/s1/expert-says-there-s-1-red-flag-to-look.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:34.202Z"
+  },
+  "https://www.motor1.com/features/802710/walmart-oil-change-cost/": {
+    "title_zh": "在沃尔玛换机油：利弊分析",
+    "summary_short": "沃尔玛换机油价格低、方便，但服务质量参差不齐，需根据车型和期望权衡。",
+    "summary_long": "换机油是大多数车主必须面对的常规保养，沃尔玛因其便利性和低价成为许多美国人的选择。然而，是否值得在沃尔玛换机油取决于车辆类型、个人期望和优先考虑的因素。本文分析了沃尔玛换机油的主要优势和缺点，包括价格显著低于经销商和独立维修店，但可能存在服务质量和油品选择方面的不足。",
+    "highlights_zh": [
+      "价格优势明显",
+      "购物保养一站式",
+      "服务质量参差不齐",
+      "适合主流车型"
+    ],
+    "entities": [
+      "沃尔玛 | Walmart"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3j8z/s1/should-you-get-your-oil-changed-at-walmart.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:36.572Z"
+  },
+  "https://www.motor1.com/news/802594/most-haunted-road-america/": {
+    "title_zh": "女子驾车驶入美国“最恐怖公路”，在 11 英里处拍下诡异一幕",
+    "summary_short": "一名女子驾车驶入美国新泽西州克林顿路，这条被称为“最恐怖公路”的路段在 11 英里处发生诡异事件。",
+    "summary_long": "来自佛罗里达州迈阿密的女子 Liz Cooper 驾车驶入新泽西州北部的克林顿路，这条公路被称为美国“最恐怖公路”。她记录下行驶过程，称越深入越诡异，手机无信号，地图无法加载，氛围类似《女巫布莱尔》。",
+    "highlights_zh": [
+      "女子驾车驶入美国“最恐怖公路”",
+      "位于新泽西州北部的克林顿路",
+      "行驶至 11 英里处发生诡异事件",
+      "手机无信号"
+    ],
+    "entities": [
+      "克林顿路",
+      "新泽西州",
+      "Liz Cooper"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZ8A4/s1/woman-drives-on-the-most-haunted-road-in-the-u.s.-then-she-films-what-happens-throughout-the-11-miles-in-new-jersey.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:37.215Z"
+  },
+  "https://www.motor1.com/news/802560/ford-explorer-carfax-odometer-fraud/": {
+    "title_zh": "男子置换福特探险者，经销商调出 Carfax 发现里程表被篡改",
+    "summary_short": "经销商在评估一辆福特探险者置换车时，通过 Carfax 发现里程表被回调，引发对欺诈行为的讨论。",
+    "summary_long": "一位车主用福特探险者进行置换，经销商在评估时调取 Carfax 报告，发现该车的里程表被非法回调。视频博主展示了如何通过检查车身、内饰和车辆历史记录来识别此类欺诈行为。该事件引发了对里程表欺诈是否构成犯罪的讨论。",
+    "highlights_zh": [
+      "经销商评估置换车时发现里程表被回调",
+      "Carfax 报告揭露车辆历史问题",
+      "视频博主展示如何识别里程表欺诈",
+      "引发对欺诈行为法律定性的讨论"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "探险者 | Explorer",
+      "Carfax",
+      "里程表欺诈"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlEJy/s1/man-trades-in-ford-f-150..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:40.269Z"
+  },
+  "https://insideevs.com/news/802695/tesla-door-handles-recall-nhtsa/": {
+    "title_zh": "特斯拉争议门把手或催生新安全法规",
+    "summary_short": "NHTSA 将启动规则制定，要求所有车辆配备可靠明显的内部开门系统，以应对特斯拉电子门把手在事故中可能无法打开的问题。",
+    "summary_long": "特斯拉的隐藏式门把手和电子按钮开门设计一直存在争议。美国国家公路交通安全管理局（NHTSA）在接到多起投诉后，决定不单独调查 Model 3 的门把手缺陷，而是启动更广泛的规则制定程序，要求所有机动车配备“坚固且明显的车门逃生系统”。此前有报道指出，多起事故中乘客因车辆断电无法从特斯拉内部开门，尽管车辆设有机械备用释放装置，但不易发现且对救援人员不友好。新规将确保紧急情况下人员能安全逃生，但规则制定过程通常耗时较长。",
+    "highlights_zh": [
+      "NHTSA 将制定新规",
+      "特斯拉电子门把手在断电时可能无法打开",
+      "车辆虽有机械备用释放装置",
+      "规则制定过程漫长"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Model 3",
+      "NHTSA",
+      "门把手",
+      "安全法规"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JOZx96/s1/tesla-model-s-door-handle.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:41.899Z"
+  },
+  "https://www.motor1.com/features/802604/why-modern-cars-are-expensive-to-repair/": {
+    "title_zh": "现代汽车维修为何如此昂贵",
+    "summary_short": "现代汽车因配备大量摄像头、传感器和计算机，维修成本大幅上升，一次小事故可能花费数千美元。",
+    "summary_long": "购买新车成本不断攀升，但更大的财务冲击往往来自后续维修。现代汽车配备了大量摄像头、传感器、计算机、高级驾驶辅助系统和复杂动力总成，这些技术提升了安全性和效率，但也使维修更加复杂和昂贵。一次小事故或机械故障，过去可能花费不高，如今却可能产生数千美元的账单。通货膨胀是部分原因，但主要因素在于车辆复杂性的显著增加。",
+    "highlights_zh": [
+      "现代汽车维修成本飙升",
+      "摄像头、传感器、计算机增加复杂性",
+      "小事故可能产生数千美元账单",
+      "技术提升安全性但推高维修费用"
+    ],
+    "entities": [
+      "Motor1"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPAZ6/s1/why-modern-cars-are-expensive-to-repair.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:43.260Z"
+  },
+  "https://www.motor1.com/news/802709/genesis-considering-pickup-truck/": {
+    "title_zh": "Genesis 皮卡计划或因现代集团重启",
+    "summary_short": "Genesis 皮卡计划或因现代集团重启，高管称需符合豪华标准而非简单换标。",
+    "summary_long": "Genesis 曾考虑推出皮卡车型并制作了模型，但项目一度被搁置。近日，现代汽车澳大利亚高管 Gavin Donaldson 表示，若未来推出 Genesis 皮卡，必须满足豪华品牌标准，而非简单换标现代车型。现代集团正在推进中型皮卡项目，这为 Genesis 版皮卡提供了平台基础。虽然尚未获批，但可能性已重新浮现。",
+    "highlights_zh": [
+      "Genesis 皮卡计划因现代集团重启",
+      "高管称需符合豪华标准而非换标",
+      "现代中型皮卡项目提供平台基础",
+      "项目尚未获批但可能性已浮现"
+    ],
+    "entities": [
+      "Genesis",
+      "现代 | Hyundai",
+      "皮卡",
+      "豪华品牌"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YPGJ/s1/genesis-truck-rumor.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:45.390Z"
+  },
+  "https://www.motor1.com/news/802575/biggest-bumper-to-bumper-warranty-misconception/": {
+    "title_zh": "雪佛兰车主误解“全车保修”范围，销售员揭秘最大误区",
+    "summary_short": "一位雪佛兰车主试图使用保修时发现“全车保修”并不覆盖外部因素导致的损坏，销售员揭示常见误解。",
+    "summary_long": "一位雪佛兰车主在尝试使用车辆保修时遭遇失败，即使拥有“全车保修”也未能获得保障。雪佛兰销售员 Brooke 指出，最大的误解在于人们认为“全车保修”覆盖所有部件，但实际上它不包含因外部因素（如环境、意外）导致的损坏，也不包含刹车、轮胎等易损件的正常磨损。",
+    "highlights_zh": [
+      "“全车保修”不覆盖外部因素导致的损坏",
+      "易损件如刹车、轮胎不在保修范围内",
+      "车主常误以为保修涵盖所有问题"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPQZb/s1/she-tries-to-use-the-car-warranty.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:46.652Z"
+  },
+  "https://insideevs.com/news/802693/massachusetts-ev-owners-v2g-pilot-program/": {
+    "title_zh": "马萨诸塞州电动车车主可通过出售电池电力赚钱",
+    "summary_short": "马萨诸塞州启动 V2G 试点项目，电动车车主通过向电网出售电池电力获得收入，最高每千瓦 275 美元。",
+    "summary_long": "马萨诸塞州清洁能源中心资助了一项车到电网（V2G）试点项目，将为参与者安装 60 台双向充电系统。电动车车主在电网需要时可将电池中的电力售回电网，夏季每千瓦最高可获 275 美元，另有参与奖励。该项目旨在缓解 AI 数据中心和极端热浪带来的电网压力。合作方包括 Eversource、National Grid、EnergyHub、Sunrun 和 The Mobility House。目前仅支持 Nissan Leaf、Kia EV9、Polestar 3、Volvo EX90 和 Ford F-150 Lightning 等车型。",
+    "highlights_zh": [
+      "车主夏季每千瓦最高赚 275 美元",
+      "安装 60 台双向充电系统",
+      "缓解 AI 数据中心和热浪导致的电网压力",
+      "支持 Leaf、EV9、Polestar 3 等车型"
+    ],
+    "entities": [
+      "马萨诸塞州清洁能源中心",
+      "Nissan Leaf",
+      "Kia EV9",
+      "Polestar 3",
+      "Volvo EX90"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxBvj7/s1/volvo-ex90-charging-from-a-level-2-home-charger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:49.163Z"
+  },
+  "https://www.thedrive.com/news/lost-in-translation-ft-1-designer-explains-why-toyotas-production-supra-didnt-match-the-concept": {
+    "title_zh": "FT-1 设计师解释丰田 Supra 为何与概念车不符",
+    "summary_short": "丰田 FT-1 概念车设计师解释，从概念到量产需平衡设计、法规与成本，导致最终 Supra 与概念车存在差异。",
+    "summary_long": "丰田第五代 Supra 已停产，其概念车 FT-1 由 Calty 设计工作室操刀。首席设计师 Alex Shen 表示，概念车旨在探索边界，而量产车需满足法规、成本及市场需求，因此两者存在差异。Calty 的许多早期设计仅为风格探索，并非最终产品。",
+    "highlights_zh": [
+      "概念车旨在探索边界",
+      "Calty 设计工作室负责丰田前瞻设计",
+      "FT-1 与量产 Supra 存在显著差异"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Supra",
+      "FT-1",
+      "Calty 设计工作室"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-124703.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-124814.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:49.883Z"
+  },
+  "https://www.motor1.com/news/802685/2027-bmw-x5-configurator-mot-expensive/": {
+    "title_zh": "2027 款宝马 X5 选满所有配置，价格超 9.5 万美元",
+    "summary_short": "2027 款宝马 X5 配置器上线，入门价 73,450 美元，选满所有选项后价格超 95,000 美元。",
+    "summary_long": "2027 款宝马 X5 配置器已上线，这款全新设计的 SUV 起售价为 73,450 美元（X5 40 xDrive）。通过选装所有可用选项，包括 M Sport Professional 套件、23 英寸轮毂等，最终价格可达 95,400 美元（含 1,350 美元运费）。动力方面搭载 3.0 升直列六缸涡轮增压发动机，输出 394 马力和 428 磅-英尺扭矩。",
+    "highlights_zh": [
+      "2027 款 X5 起售价 73",
+      "选满配置后价格超 95",
+      "搭载 3.0 升六缸涡轮增压发动机",
+      "可选 M Sport Professional 套件…"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "X5",
+      "M Sport Professional 套件",
+      "3.0 升涡轮增压发动机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAleWk/s1/2027-bmw-x5-40-xdrive-most-expensive.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:52.525Z"
+  },
+  "https://insideevs.com/news/802547/tesla-fsd-subscription-half/": {
+    "title_zh": "特斯拉 FSD 订阅用户接近 150 万",
+    "summary_short": "特斯拉 FSD 订阅用户达 148 万，同比增长 56%，季度新增 20 万，创历史新高。",
+    "summary_long": "特斯拉在最新季度财报中披露，其全自动驾驶（FSD）软件订阅用户已达 148 万，同比增长 56%，季度新增 20 万，创单季最大增幅。目前 FSD 已在 12 个国家推出，并正在寻求更多地区批准。第二季度北美交付车辆中约 55%启用了 FSD 订阅。FSD 月费降至 99 美元，远低于此前最高 1.5 万美元的买断价格。",
+    "highlights_zh": [
+      "FSD 订阅用户达 148 万",
+      "同比增长 56%",
+      "季度新增 20 万创纪录",
+      "北美 55%交付车辆启用 FSD"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Full Self-Driving"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6Yvkv/s1/tesla-model-y-standard-ap-fsd-visualization-hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:52.857Z"
+  },
+  "https://www.thedrive.com/news/bad-door-handles-are-trapping-people-in-cars-the-feds-are-finally-stepping-in": {
+    "title_zh": "糟糕的门把手将人困在车内，联邦政府终于出手",
+    "summary_short": "NHTSA 拒绝调查特斯拉 Model 3 门把手，但承诺制定新规，要求所有车辆配备明显易用的逃生系统。",
+    "summary_long": "美国国家公路交通安全管理局（NHTSA）拒绝了关于调查特斯拉 Model 3 紧急门把手难以定位的请愿，但同时承诺将制定新规，要求所有机动车配备“坚固且明显的车门逃生系统”。近年来，许多乘客因电子门把手故障且无法找到隐藏的机械备用装置而被困在事故或起火车辆中。例如，Rivian R1S 和 R1T 的后排乘客需先拆下塑料盖板才能触及紧急拉绳，而新款 R2 已改进设计。新规可能要到 2030 年才能生效，但已迈出重要一步。",
+    "highlights_zh": [
+      "NHTSA 拒绝调查特斯拉 Model 3 门把手",
+      "承诺制定新规要求明显易用的逃生系统",
+      "Rivian R1 系列后排需拆盖板才能用紧急拉绳",
+      "新规最早 2030 年生效"
+    ],
+    "entities": [
+      "NHTSA",
+      "特斯拉 | Tesla",
+      "Model 3",
+      "Rivian",
+      "R1S"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2189374777.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/auto-repair-puppet-masters.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:56.824Z"
+  },
+  "https://www.thedrive.com/news/aston-martin-f1-rolls-out-significant-16-part-aero-upgrade-for-this-weekends-hungarian-gp": {
+    "title_zh": "阿斯顿马丁 F1 为匈牙利大奖赛推出“重大”16 件空气动力学升级",
+    "summary_short": "阿斯顿马丁 F1 为匈牙利大奖赛推出 16 件空气动力学升级，旨在提升性能并减重，为下半赛季本田引擎到来做准备。",
+    "summary_long": "阿斯顿马丁 F1 车队确认为本周末的匈牙利大奖赛推出 16 件空气动力学升级，首席赛道工程师 Mike Krack 称其为“重大的空气动力学升级和减重”。这标志着挣扎中的车队迎来重要时刻，该“B 版赛车”的表现将影响下半赛季，届时本田引擎将在夏休后的赞德沃特站首次登场。AMR26 的升级已在 FP1 中亮相，包括新底板、扩散器、侧箱进气口、前翼端板、后翼端板、引擎盖、后视镜、刹车导管、前悬挂整流罩、后悬挂整流罩、鼻锥、Halo、尾翼主翼、尾翼襟翼、DRS 作动器和梁翼。不过，兰斯·斯特罗尔的赛车因悬挂故障在 FP1 中退赛。",
+    "highlights_zh": [
+      "16 件空气动力学升级",
+      "被描述为“重大升级和减重”",
+      "为下半赛季本田引擎到来做准备",
+      "斯特罗尔的 AMR26 在 FP1 因悬挂故障退赛"
+    ],
+    "entities": [
+      "阿斯顿马丁 | Aston Martin",
+      "AMR26",
+      "匈牙利大奖赛",
+      "本田 | Honda",
+      "Mike Krack"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2287477178.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-124703.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:46:57.618Z"
+  },
+  "https://www.motor1.com/news/802677/ford-bronco-recall-engine-compartment-fire-risk/": {
+    "title_zh": "福特因发动机舱起火风险召回 56.6 万辆 Bronco",
+    "summary_short": "福特召回近 56.6 万辆 2021-2026 款 Bronco，因线束磨损短路可能引发发动机舱起火。",
+    "summary_long": "福特宣布召回近 56.6 万辆 2021 至 2026 款 Bronco（含 Bronco Raptor），原因是发动机舱线束可能因防护不足和部件间摩擦导致导线裸露，引发短路电弧并点燃附近可燃材料。福特已确认 15 起相关起火事件，其中 10 起涉及法律索赔。经销商将免费为车辆加装波纹管和耐磨胶带以修复问题。",
+    "highlights_zh": [
+      "涉及 2021-2026 款 Bronco 及 Br…",
+      "线束防护不足导致短路起火",
+      "已确认 15 起起火事件",
+      "经销商免费加装波纹管和耐磨胶带"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Bronco",
+      "Bronco Raptor",
+      "发动机舱起火",
+      "召回"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxxl3W/s1/2022-ford-bronco-raptor-exterior-front-quarter-on-sand.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-26T14:47:00.225Z"
   }
 }
