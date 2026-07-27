@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-27T03:59:29.214Z",
+    "generated_at": "2026-07-27T15:55:05.004Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 375,
-    "deepseek_untranslated_before_run": 25,
-    "newly_fetched_articles": 26,
-    "newly_fetched_untranslated": 25,
+    "deepseek_translated_before_run": 370,
+    "deepseek_untranslated_before_run": 30,
+    "newly_fetched_articles": 30,
+    "newly_fetched_untranslated": 30,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 25,
+    "translation_queue_count": 30,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "InsideEVs",
         "time": "2026.7.27",
-        "title": "「あいち・なごや周遊観光パスポート付ドライブプラン」、高速乗り放題と40施設入館がセット…7月29日から利用可能",
-        "url": "https://response.jp/article/2026/07/27/414508.html"
+        "title": "Inside BMW's Plan To Produce The iX5’s Gigantic Battery Pack In The U.S.",
+        "url": "https://insideevs.com/news/802839/bmw-ix5-ev-battery-production-plant-woodruff/"
       },
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.7.27",
-        "title": "「ノアじゃなくてヴォクシー」が欲しい人へ!! 同じ中身でも見た目で選ぶミニバンの最適解",
-        "url": "https://bestcarweb.jp/newcar/1559574"
+        "title": "2026 Honda Jazz e:HEV Review: The Forbidden Fuel-Sipping Daily Warrior",
+        "url": "https://www.thedrive.com/car-reviews/2026-honda-jazz-ehev-review-the-forbidden-fuel-sipping-daily-warrior"
       },
       {
-        "source": "Response.jp",
+        "source": "InsideEVs",
         "time": "2026.7.27",
-        "title": "「めちゃくちゃ可愛い」約230万円、フィアットの超小型EV『トポリーノ』にSNS注目！「日本でも売って」の声も",
-        "url": "https://response.jp/article/2026/07/27/414506.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 【誰も語らない】テスラを買う人、BYDを選ぶ人、ハイブリッドに乗り続ける人～なぜその選択なのか？定量データで読み解く日本のBEVユーザーのリアル～",
-        "url": "https://response.jp/article/2026/07/27/414507.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第820回",
-        "url": "https://bestcarweb.jp/feature/column/1563002"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "BYDも日産も採用へ!? エヌビディアが狙う自動運転時代の主導権！",
-        "url": "https://bestcarweb.jp/feature/column/1563647"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "DAMD『クロスビー ビーモア／リトルD.』は“かわいい”も“ワイルド”も叶える。あなたなら、どっちを選ぶ？PR",
-        "url": "https://response.jp/article/2026/07/27/414505.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "GMとアイオネートが協業、スマート変圧器「HIT」技術をミシガン州工場に米国初導入",
-        "url": "https://response.jp/article/2026/07/27/414498.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "さすがランクル兄弟の長男!! ランドクルーザー300の憧れちゃう全貌とは?!",
-        "url": "https://bestcarweb.jp/feature/column/1586293"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "タイヤは「黒いゴム」じゃない！ ブリヂストンが明かした性能を決める原材料の秘密",
-        "url": "https://response.jp/article/2026/07/27/414503.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "ダッシュの表面＆室内の温度上昇を抑制可能な、頼れる真夏の必需品“サンシェード”の新作［特選カーアクセサリー名鑑］",
-        "url": "https://response.jp/article/2026/07/26/414480.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "バリュートープ「オールタイムレンタカー」、川崎市・武蔵小杉駅エリアに2拠点開設",
-        "url": "https://response.jp/article/2026/07/27/414497.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "フォレスターを買うならターボかストロングハイブリッドか？ 価格と燃費で考える正解",
-        "url": "https://bestcarweb.jp/feature/column/1543651"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "ムーヴ キャンバスはシニアにも優しい？ 乗り降りしやすさと運転のしやすさを再評価!!",
-        "url": "https://bestcarweb.jp/feature/column/1563577"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "モリセル、次世代ハイブリッド向け超高出力電池発表…スーパーキャパシタ並みの応答速度を実現",
-        "url": "https://response.jp/article/2026/07/27/414500.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "ランボルギーニ『ウルス』2146台をリコール カメラ映像が途切れるおそれ",
-        "url": "https://response.jp/article/2026/07/27/414492.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "レクサス『RX』大幅改良へ、新デザイン判明！…フロント刷新＆内装進化",
-        "url": "https://response.jp/article/2026/07/27/414489.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "一歩間違えると愛車に致命的なダメージも!? もはやプロ級のDIYに挑戦する前に知っておきたい難易度の高いメンテナンス",
-        "url": "https://bestcarweb.jp/feature/column/1583711"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "全国で4番目に数が多い県のカバー率やいかに? 新潟県の「道の駅」公共交通アクセスのリアル!!",
-        "url": "https://bestcarweb.jp/busmagazine/1584451"
+        "title": "Waymo's Robotaxis Have A Parking Problem—And It's Costing Thousands",
+        "url": "https://insideevs.com/news/802842/waymo-robotaxi-austin-parking-tickets/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.27",
-        "title": "Toyota Trunk Won’t Open. Then The Driver Finds A Trick No One Knew Existed: ‘Oh The Valet Button’",
-        "url": "https://www.motor1.com/news/802758/toyota-avalon-valet-trunk-button/"
+        "title": "Genesis Could Build Something Even Hotter Than Magma",
+        "url": "https://www.motor1.com/news/802834/genesis-hotter-performance-magma-models/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.27",
+        "title": "The Honda Accord Crosstour May Live Again: TDS",
+        "url": "https://www.thedrive.com/news/the-honda-accord-crosstour-may-live-again-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.27",
+        "title": "Automakers Need To Slow Down Before Reliability Gets Even Worse",
+        "url": "https://www.motor1.com/features/802711/automakers-need-to-slow-down-improve-reliability-opinion/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.27",
+        "title": "Mercedes-AMG A45 S Final Edition Says Auf Wiedersehen To The Hot Hatch",
+        "url": "https://www.motor1.com/news/802815/mercedes-amg-a45-s-final-edition/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "“武士の甲冑”がモチーフ！ 日本限定ランボルギーニにSNS注目！「限定カラーすごい」「実車を一度見てみたい」の声も",
+        "url": "https://response.jp/article/2026/07/27/414535.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "「007」「サーキットの狼」「西部警察」などの名車を再現、東京・丸の内で大型ショーケース公開…AUTOart",
+        "url": "https://response.jp/article/2026/07/27/414526.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "「アンプDSP」を追加すれば、「ステレオ再生環境」の基本が整う！［音を良くする“初級鉄板プラン”をプロが伝授］",
+        "url": "https://response.jp/article/2026/07/27/414530.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "「頭文字D」AE86漫画風キーチェーン!! 大好評につきAmazonで予約開始!!",
+        "url": "https://bestcarweb.jp/news/1582676"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "【アストンマーティン ヴァンテージS 新型試乗】「真のファイター」は優しさをも兼ね備えているということか…",
+        "url": "https://response.jp/article/2026/07/27/414536.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "【フォーミュラE東京】ヤマハ・日産は母国レース表彰台届かず、「クプラ・キロ」「マヒンドラ」が勝利",
+        "url": "https://response.jp/article/2026/07/27/414528.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「軍畑」",
+        "url": "https://bestcarweb.jp/feature/column/1559914"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "50代から価値が爆上がり!! オジサン向けクルマ神装備6選",
+        "url": "https://bestcarweb.jp/feature/column/1581388"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "アウトランダーPHEV ブラックエディションは高いのか？ 補助金84万円込みで見る黒い最上級仕様",
+        "url": "https://bestcarweb.jp/feature/column/1545937"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "アストンマーティン『DB5』トリビュート腕時計、ブライトリングとのコラボで3種の限定モデル発売",
+        "url": "https://response.jp/article/2026/07/27/414517.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "オートバックスセブン、被災地支援で軽自動車8台を日本カーシェアリング協会に寄贈",
+        "url": "https://response.jp/article/2026/07/27/414531.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "クラシックカーフェスティバル in 桐生、参加車両募集を8月1日開始…国内外の名車を約200台展示へ",
+        "url": "https://response.jp/article/2026/07/27/414533.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "これでお子様も乗り物好きに!? 足けりもペダル漕ぎもできるケッターサイクルIIIに人気色復刻！",
+        "url": "https://bestcarweb.jp/news/1582678"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 25,
-    "queued_articles": 25,
-    "processed": 25,
-    "started_at": "2026-07-27T03:59:29.551Z",
-    "finished_at": "2026-07-27T04:00:27.881Z",
+    "scoped_articles": 30,
+    "queued_articles": 30,
+    "processed": 30,
+    "started_at": "2026-07-27T15:55:05.345Z",
+    "finished_at": "2026-07-27T15:56:07.826Z",
     "success": true,
     "error": ""
   }

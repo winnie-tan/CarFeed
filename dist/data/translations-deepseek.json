@@ -90528,5 +90528,692 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-27T04:00:27.858Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-honda-jazz-ehev-review-the-forbidden-fuel-sipping-daily-warrior": {
+    "title_zh": "2026 款本田 Jazz e:HEV 评测：被遗忘的省油日常战车",
+    "summary_short": "本田 Jazz e:HEV 在欧洲市场延续经典，以高效混动和实用空间成为省油利器，但无缘美国。",
+    "summary_long": "本田 Jazz（即美版 Fit）在欧洲市场依然活跃，2026 款 e:HEV 混动版凭借 1.5 升四缸发动机与双电机系统，实现了出色的燃油经济性。车身尺寸较老款有所增加，但保留了标志性的后排魔术座椅，兼顾实用性与灵活性。评测者作为 2007 款 Fit 车主，在体验后认为新车延续了全能精神，是理想的日常代步工具。",
+    "highlights_zh": [
+      "1.5 升混动系统兼顾动力与油耗",
+      "后排魔术座椅保留",
+      "欧洲专属",
+      "设计更宽大"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Jazz",
+      "Fit",
+      "混动系统",
+      "魔术座椅"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-22.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-20.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-19.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:09.338Z"
+  },
+  "https://insideevs.com/news/802839/bmw-ix5-ev-battery-production-plant-woodruff/": {
+    "title_zh": "宝马计划在美国生产 iX5 巨型电池组",
+    "summary_short": "宝马将在美国南卡罗来纳州的新工厂生产 iX5 的高压电池组，实现电池与整车本地化生产。",
+    "summary_long": "尽管美国电动车市场波动，宝马仍坚持推进电动化战略，将在南卡罗来纳州新开的伍德拉夫工厂于 12 月开始量产 iX5 的高压电池组。该工厂与生产 iX5 的斯帕坦堡工厂相邻，可降低物流成本。宝马将雇佣约 300 名工人和 250 台机器人，利用 VR 和 AI 技术进行组装，电池电芯由日本 AESC（远景集团控股）供应。此举是宝马建立本地供应链、规避地缘政治风险并降低成本的长期战略。",
+    "highlights_zh": [
+      "宝马将在美国南卡州量产 iX5 电池组",
+      "电池工厂与整车工厂相邻",
+      "300 名工人与 250 台机器人协同组装",
+      "电芯由日本 AESC 供应"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX5",
+      "伍德拉夫工厂",
+      "斯帕坦堡工厂",
+      "AESC"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWZmL/s1/bmw-plant-woodruff-battery-production.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:09.665Z"
+  },
+  "https://www.motor1.com/news/802834/genesis-hotter-performance-magma-models/": {
+    "title_zh": "捷尼赛思可能推出比 Magma 更极致的性能车型",
+    "summary_short": "捷尼赛思高层暗示可能推出比 Magma 更极致的性能版，对标 AMG Black Series 和宝马 M Competition。",
+    "summary_long": "捷尼赛思在推出 Magma 性能子品牌两年后，正考虑进一步拓展高性能产品线。澳大利亚分公司负责人 Justin Douglass 表示品牌“不断进化，可能性无限”，产品开发经理 Tim Rodgers 更直言“为什么不呢”。目前 Magma 仅有一款 GV60 Magma 在美国上市，但品牌计划到 2030 年推出 22 款新车，包括去年 11 月发布的 Magma GT Concept 中置引擎旗舰跑车。",
+    "highlights_zh": [
+      "捷尼赛思考虑推出比 Magma 更极致的性能版",
+      "对标 AMG Black Series 和宝马 M…",
+      "目前仅 GV60 Magma 在美国上市",
+      "计划 2030 年前推出 22 款新车"
+    ],
+    "entities": [
+      "捷尼赛思 | Genesis",
+      "Magma",
+      "GV60 Magma",
+      "Magma GT Concept",
+      "AMG Black Series"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Mkgyq6/s1/genesis-magma-gt-concept-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:13.415Z"
+  },
+  "https://insideevs.com/news/802842/waymo-robotaxi-austin-parking-tickets/": {
+    "title_zh": "Waymo 无人驾驶出租车在奥斯汀面临停车罚款问题",
+    "summary_short": "Waymo 在奥斯汀的 200 辆自动驾驶出租车因违规停车累计被罚超 9000 美元，其中最大一笔因占用残疾人车位。",
+    "summary_long": "Waymo 在得克萨斯州奥斯汀运营约 200 辆自动驾驶出租车，自 2024 年服务启动以来，已累计收到 9325 美元的停车罚单。其中，已支付 7433 美元，涉及 83 张罚单，仍有 1892 美元未缴。最大一笔罚款 519 美元因车辆停在残疾人专用车位。此外，还有 63 张罚单因停在拖车区、13 张未支付计时停车费、9 张双排停车。尽管金额对 Waymo 不算巨大，但表明自动驾驶汽车仍会犯人类常见的错误。",
+    "highlights_zh": [
+      "Waymo 在奥斯汀已收到 9325 美元停车罚单",
+      "最大罚单 519 美元因占用残疾人车位",
+      "83 张罚单中已支付 7433 美元",
+      "违规类型包括拖车区、未付费和双排停车"
+    ],
+    "entities": [
+      "Waymo",
+      "奥斯汀",
+      "捷豹 I-Pace",
+      "自动驾驶出租车 | Robotaxi"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ko6plY/s1/waymo-jaguar-i-pace.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:13.582Z"
+  },
+  "https://www.motor1.com/features/802711/automakers-need-to-slow-down-improve-reliability-opinion/": {
+    "title_zh": "汽车制造商需放慢脚步，否则可靠性将进一步恶化",
+    "summary_short": "汽车制造商竞相推出新车，但可靠性问题日益严重，延长车型生命周期或可缓解。",
+    "summary_long": "汽车制造商为抢占市场，不断加速推出更大、更快、更炫的车型，但随之而来的是可靠性问题恶化，尤其是软件相关召回激增。工程师在越来越短的时间内解决复杂问题，导致质量下滑。延长车型生命周期，给予更多时间完善，是简单有效的解决方案。",
+    "highlights_zh": [
+      "汽车制造商竞相推新",
+      "软件相关召回激增",
+      "工程师开发周期过短",
+      "延长车型生命周期可改善质量"
+    ],
+    "entities": [
+      "Motor1"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJvpJ/s1/car-life-cycles-should-be-longer.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:16.682Z"
+  },
+  "https://www.thedrive.com/news/the-honda-accord-crosstour-may-live-again-tds": {
+    "title_zh": "本田雅阁 Crosstour 或将复活",
+    "summary_short": "本田正考虑基于雅阁平台推出“Accord SUV”，类似过去的 Crosstour，目标对标斯巴鲁傲虎。",
+    "summary_long": "据《汽车新闻》报道，本田正考虑在本年代末前推出一款基于雅阁轿车平台的升高长车顶车型，暂定名为“Accord SUV”。该车将采用混合动力系统，旨在吸引斯巴鲁傲虎的潜在买家。此举让人联想到过去的本田雅阁 Crosstour，但希望新车型设计更美观。",
+    "highlights_zh": [
+      "本田考虑推出“Accord SUV”",
+      "基于雅阁平台",
+      "目标对标斯巴鲁傲虎",
+      "或为 Crosstour 的继任者"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "雅阁 | Accord",
+      "Accord SUV",
+      "Crosstour",
+      "斯巴鲁傲虎 | Subaru Outback"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/honda_accord_crosstour_81.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-22.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:16.940Z"
+  },
+  "https://www.motor1.com/news/802815/mercedes-amg-a45-s-final-edition/": {
+    "title_zh": "梅赛德斯-AMG A45 S Final Edition 告别钢炮",
+    "summary_short": "AMG A45 S Final Edition 限量版发布，以哑光灰涂装和 AMG 空力套件告别，内饰延续黄色点缀。",
+    "summary_long": "梅赛德斯-AMG 宣布停产 A45 S 高性能钢炮，在告别之际推出 Final Edition 最终版。该车采用 Manufaktur 哑光灰涂装，搭配黑色门把手、19 英寸哑光轮圈及黑色刹车卡钳，并标配 AMG 空力套件，包括前唇、后扰流板、前翼片和高光黑扩散器。内饰延续限量版设计，黄色缝线点缀，座椅绣有“45 S”标识，中控台带有“45 S Final Edition”铭牌。",
+    "highlights_zh": [
+      "最终版采用哑光灰涂装与黑色外观细节",
+      "标配 AMG 空力套件",
+      "内饰黄色点缀",
+      "中控台专属铭牌标明最终版身份"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "A45 S",
+      "Final Edition"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbgekQ/s1/2027-mercedes-amg-a-45-s-final-edition.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:20.999Z"
+  },
+  "https://response.jp/article/2026/07/27/414535.html": {
+    "title_zh": "日本限定兰博基尼 Impavido：以武士铠甲为灵感",
+    "summary_short": "兰博基尼发布日本限量版 Revuelto Impavido，设计灵感源自武士铠甲与刀剑，SNS 热议。",
+    "summary_long": "兰博基尼基于 Revuelto 推出日本限定版 Impavido，名称源自意大利语“无畏”，呼应武士道精神。车身通过 Ad Personam 定制项目打造，金色点缀模仿铠甲丝线，前脸灵感来自兜前立，线条如刀锋。提供四种车色，包括翡翠绿与刀光灰。",
+    "highlights_zh": [
+      "日本限定",
+      "设计灵感来自武士铠甲",
+      "金色点缀模仿铠甲丝线",
+      "四种专属车色可选"
+    ],
+    "entities": [
+      "兰博基尼",
+      "レヴエルト",
+      "インパヴィド",
+      "Ad Personam",
+      "武士道"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230462.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230462.jpg",
+      "https://response.jp/imgs/fill2/2229846.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:21.386Z"
+  },
+  "https://response.jp/article/2026/07/27/414530.html": {
+    "title_zh": "加装功放 DSP，打造立体声播放环境的基础！",
+    "summary_short": "加装功放 DSP 比更换扬声器更能显著提升车内音质，是入门级音响升级的“铁板计划”。",
+    "summary_long": "对爱车原厂音响音质不满时，可考虑升级设备。本连载向全国知名汽车音响专业店咨询入门级方案。本期采访了石川县金泽市实力店铺“Antiphon”的松居先生。他表示，对于前门已有 2 路或 3 路扬声器的车型，加装功放 DSP 比更换扬声器效果更好。DSP 能优化声学环境，即使使用原厂扬声器，听感也会焕然一新，变化幅度甚至超过更换扬声器。因为车内缺乏享受立体声内容的基本条件，改善这一前提能带来质的飞跃。",
+    "highlights_zh": [
+      "加装功放 DSP 比换扬声器效果更显著",
+      "DSP 优化声学环境",
+      "车内立体声条件不足"
+    ],
+    "entities": [
+      "アンティフォン",
+      "功放 DSP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230255.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230255.jpg",
+      "https://response.jp/imgs/fill2/2230253.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:26.157Z"
+  },
+  "https://response.jp/article/2026/07/27/414526.html": {
+    "title_zh": "AUTOart 在东京丸之内展出 007、赛车狼等名车精密模型",
+    "summary_short": "AUTOart 在东京丸之内展出 007、赛车狼等影视漫画名车精密模型，包括阿斯顿·马丁 DB5、日产 Fairlady 280Z 等。",
+    "summary_long": "AUTOart 在东京丸之内日本生命大厦 B1F 举办精密模型车展，展出宽度达 7 米的大型展柜中陈列了来自电影《007》、漫画《赛车狼》《西部警察》等作品中的经典车辆和摩托车。展品包括《007：金手指》中的阿斯顿·马丁 DB5 邦德车（1/18），其旋转式三重可变车牌、升降防弹后盾、烟雾发射装置等机关得到还原；《赛车狼》中的路特斯欧洲特别版和保时捷 911 Carrera 2.7 RS（均为 1/18）基于实车采访和漫画资料验证制作；《西部警察》中的日产 Fairlady 280Z“超级 Z”（1/18）包含发动机盖、后舱盖、鸥翼门、探照灯和烟雾发射装置等细节。摩托车方面，展出《爆走传说》中的本田 CB750F 和 NSR500（1/12），通过 3D 扫描、摄影和漫画实车信息验证实现高还原度。",
+    "highlights_zh": [
+      "展出 007、赛车狼等影视漫画名车模型",
+      "阿斯顿·马丁 DB5 还原旋转车牌等机关",
+      "日产 Fairlady 280Z 包含鸥翼门和探照灯",
+      "摩托车模型通过 3D 扫描和实车验证"
+    ],
+    "entities": [
+      "AUTOart",
+      "阿斯顿·马丁",
+      "日产 | Nissan",
+      "保时捷 | Porsche",
+      "路特斯"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230398.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230398.jpg",
+      "https://response.jp/imgs/fill2/2230400.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:26.848Z"
+  },
+  "https://bestcarweb.jp/news/1582676": {
+    "title_zh": "《头文字 D》AE86 漫画风钥匙链开启亚马逊预订",
+    "summary_short": "《头文字 D》AE86 漫画风金属钥匙链开启亚马逊预订，轮胎可旋转，兼具迷你车展示功能。",
+    "summary_long": "《头文字 D》主角藤原拓海驾驶的 AE86 被制成漫画风格金属钥匙链，由 CAMSHOP.JP 品牌推出，2026 年 7 月起在亚马逊开启预订。该钥匙链采用特殊涂装还原漫画世界感，轮胎可旋转，尺寸约 5.4 厘米，重 57 克，兼具装饰与迷你车展示功能，受到粉丝和 AE86 爱好者的关注。",
+    "highlights_zh": [
+      "漫画风格 AE86 钥匙链",
+      "轮胎可旋转",
+      "迷你车展示功能",
+      "亚马逊预订中"
+    ],
+    "entities": [
+      "头文字 D",
+      "Toyota Sprinter Trueno AE86",
+      "藤原拓海",
+      "CAMSHOP.JP"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17172942/aa2ac7e6844df18fa2e7d9d5ff23165a.jpg?v=1784276983",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17172942/aa2ac7e6844df18fa2e7d9d5ff23165a-600x600.jpg?v=1784276983",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17173843/493dc69f765256592d82d450b82619c7-600x296.jpg?v=1784277524"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:29.957Z"
+  },
+  "https://response.jp/article/2026/07/27/414536.html": {
+    "title_zh": "阿斯顿·马丁 Vantage S 新款试驾：“真斗士”也兼具温柔",
+    "summary_short": "阿斯顿·马丁 Vantage S 进化登场，更强发动机与卓越操控兼具温柔一面。",
+    "summary_long": "阿斯顿·马丁旗下 FR 跑车 Vantage 推出更高性能版本 Vantage S，搭载更强劲的发动机，并进一步打磨了卓越的弯道性能。同时，新车还增添了“温柔”的特质。负责第四代 Vantage 车辆动力学的马特·贝克尔曾表示“Vantage 是斗士”，而新款 Vantage S 在保持战斗气息的同时，也展现了更易驾驭的一面。",
+    "highlights_zh": [
+      "更强发动机与卓越弯道性能",
+      "兼具“温柔”的驾驶体验",
+      "由前路特斯底盘专家马特·贝克尔打造"
+    ],
+    "entities": [
+      "阿斯顿·马丁",
+      "Vantage S",
+      "马特·贝克尔",
+      "FR 跑车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230464.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230463.jpg",
+      "https://response.jp/imgs/fill2/2230463.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:31.139Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559914": {
+    "title_zh": "难读地名猜谜：军畑",
+    "summary_short": "介绍日本难读地名“军畑”的读法，结合青梅市观光信息，激发自驾游兴趣。",
+    "summary_long": "日本各地存在许多容易读错的地名，例如“军畑”。本文以东京青梅市的“军畑”为例，介绍其正确读法，并附带当地特产品、名胜古迹等观光信息，旨在帮助读者避免在重要场合读错地名的尴尬，同时激发自驾游的兴趣。",
+    "highlights_zh": [
+      "“军畑”是难读地名",
+      "位于东京青梅市",
+      "御岳山是灵山"
+    ],
+    "entities": [
+      "军畑",
+      "青梅市",
+      "御岳山",
+      "武蔵御嶽神社"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25134239/0ece31e4c1bdfe47f74b2dd7b245dbb4.jpg?v=1782362561",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/25134239/0ece31e4c1bdfe47f74b2dd7b245dbb4-600x400.jpg?v=1782362561",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122448/01-3-600x400.jpg?v=1784172289"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:34.613Z"
+  },
+  "https://response.jp/article/2026/07/27/414528.html": {
+    "title_zh": "Formula E 东京站：Cupra Kiwi 与 Mahindra 获胜，雅马哈日产未登台",
+    "summary_short": "Formula E 东京站夜赛，Cupra Kiwi 和 Mahindra 分获两日冠军，雅马哈与日产主场未能登上领奖台。",
+    "summary_long": "7 月 25-26 日，2026 年 Formula E 东京大奖赛在东京 Big Sight 举行，这是该赛事首次在东京进行夜赛。第 14 回合中，Cupra Kiwi 车队的 Dan Ticktum 在最后一圈最后一弯超越 Andretti 的 Jake Dennis 夺冠，第 15 回合则由 Mahindra Racing 的 Nyck de Vries 在雨后策略下获胜。日本厂商雅马哈（Lola Yamaha ABT）和日产（Nissan Formula E Team）主场作战，但均未进入前三。Dennis 凭借本站表现升至车手积分榜首，Porsche 则提前锁定制造商冠军。",
+    "highlights_zh": [
+      "Cupra Kiwi 的 Ticktum 最后一弯绝…",
+      "Mahindra 的 de Vries 凭借雨战策略…",
+      "雅马哈与日产主场未能登台",
+      "Porsche 提前夺得制造商冠军"
+    ],
+    "entities": [
+      "Cupra Kiwi",
+      "Mahindra Racing",
+      "雅马哈 | Yamaha",
+      "日产 | Nissan",
+      "Formula E"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230408.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230408.jpg",
+      "https://response.jp/imgs/fill2/2230434.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:34.687Z"
+  },
+  "https://bestcarweb.jp/feature/column/1581388": {
+    "title_zh": "50 岁后价值飙升！大叔必备 6 大神器装备",
+    "summary_short": "盘点 6 项对中年驾驶者特别实用的汽车装备，如乘降辅助拉手、感应尾门等，提升便利与舒适。",
+    "summary_long": "随着年龄增长，驾驶者会越来越看重一些非行驶相关的便利装备。本文列举了 6 项对 50 岁以上驾驶者特别实用的配置，包括驾驶席乘降辅助拉手（帮助僵硬的身体上下车）、感应式电动尾门（双手拿物时方便开启）、座椅记忆功能、方向盘加热、后排遮阳帘以及大尺寸中央扶手。这些装备虽不直接影响驾驶性能，却能显著提升日常用车的舒适度和便利性。",
+    "highlights_zh": [
+      "乘降辅助拉手缓解上下车困难",
+      "感应尾门解放双手",
+      "座椅记忆免去反复调节",
+      "方向盘加热冬季必备"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru",
+      "丰田 | Toyota"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122448/01-3.jpg?v=1784172289",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122448/01-3-600x400.jpg?v=1784172289",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19162611/2512_BE_H1-1-600x380.jpg?v=1781853972"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:39.035Z"
+  },
+  "https://bestcarweb.jp/feature/column/1545937": {
+    "title_zh": "三菱 欧蓝德 PHEV 黑色版：补贴后实付 589 万日元起",
+    "summary_short": "三菱欧蓝德 PHEV 黑色版售价约 673 万日元起，但扣除 84 万日元补贴后实付约 589 万日元，性价比凸显。",
+    "summary_long": "三菱欧蓝德 PHEV 新增的黑色版基于最高配 P Executive Package 打造，5 座版售价 673.53 万日元，7 座版 682.66 万日元。然而，计入日本 CEV 补贴 84 万日元后，实际价格降至 5 座 589.53 万日元、7 座 598.66 万日元。该车 WLTC 纯电续航 102km，综合油耗 17.2km/L，兼具电动与燃油优势。车身尺寸 4720×1860×1750mm，配备 S-AWC 四驱系统及对外供电功能，是一款集 SUV、电动、四驱、供电和豪华内饰于一体的全能车型。相比基础 P Executive Package，黑色版仅贵 11 万日元，但提供了专属黑色外观与内饰升级。",
+    "highlights_zh": [
+      "黑色版基于 P Executive Package…",
+      "补贴后实付 589 万日元起",
+      "WLTC 纯电续航 102km",
+      "配备 S-AWC 四驱与供电功能"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "欧蓝德 PHEV",
+      "黑色版",
+      "CEV 补贴",
+      "S-AWC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19162611/2512_BE_H1-1.jpg?v=1781853972",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19162611/2512_BE_H1-1-600x380.jpg?v=1781853972",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122448/01-3-600x400.jpg?v=1784172289"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:39.559Z"
+  },
+  "https://response.jp/article/2026/07/27/414531.html": {
+    "title_zh": "奥德巴克斯向日本汽车共享协会捐赠 8 辆轻型车支援灾区",
+    "summary_short": "奥德巴克斯捐赠 8 辆轻型车给日本汽车共享协会，用于灾区无偿租借，并计划持续至 2030 年。",
+    "summary_long": "奥德巴克斯宣布向日本汽车共享协会捐赠 8 辆轻型车，用于向灾区失去车辆的人提供无偿租借。该公司计划将“利用汽车进行灾害支援”作为长期方针，持续至 2030 年度。此外，奥德巴克斯还将在其门店为租借车辆提供免费维修和保养，以维持灾区生命线。",
+    "highlights_zh": [
+      "捐赠 8 辆轻型车用于灾区无偿租借",
+      "计划持续至 2030 年度",
+      "门店提供免费维修保养"
+    ],
+    "entities": [
+      "奥德巴克斯",
+      "日本汽车共享协会",
+      "轻型车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230450.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230450.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:43.364Z"
+  },
+  "https://response.jp/article/2026/07/27/414517.html": {
+    "title_zh": "阿斯顿·马丁 DB5 致敬腕表，与百年灵合作推出三款限量版",
+    "summary_short": "百年灵与阿斯顿·马丁合作推出三款限量版 Top Time 腕表，致敬 DB5 与詹姆斯·邦德的经典组合。",
+    "summary_long": "百年灵与阿斯顿·马丁合作推出“Top Time B01 计时码表 41 致敬阿斯顿·马丁 DB5”腕表，以三款限量版再现 1965 年电影《007：雷霆万钧》中詹姆斯·邦德佩戴百年灵 Top Time 与 DB5 的经典画面。腕表设计融入 DB5 内饰元素，如木纹镶嵌、渐变皮革表带，并采用 1960 年代风格的枕形表壳与蘑菇形按钮。三款版本分别为不锈钢（限量 1022 枚）、不锈钢与铂金（限量 315 枚）和 18K 红金（限量 250 枚）。",
+    "highlights_zh": [
+      "三款限量版致敬 DB5 与詹姆斯·邦德",
+      "设计融入 DB5 内饰木纹与皮革元素",
+      "枕形表壳与蘑菇形按钮复刻 1960 年代风格",
+      "不锈钢、铂金、红金三种材质可选"
+    ],
+    "entities": [
+      "百年灵",
+      "阿斯顿·马丁",
+      "DB5",
+      "Top Time B01 计时码表 41 致敬阿斯顿·马丁 DB5"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230368.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230368.jpg",
+      "https://response.jp/imgs/fill2/2230387.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:43.726Z"
+  },
+  "https://response.jp/article/2026/07/27/414533.html": {
+    "title_zh": "第 19 届桐生经典车节将于 11 月 1 日举行，8 月 1 日起招募参展车辆",
+    "summary_short": "第 19 届桐生经典车节将于 11 月 1 日在群马大学举行，展示约 200 台 1980 年前生产的国内外名车，8 月 1 日起招募参展车辆。",
+    "summary_long": "第 19 届“经典车节 in 桐生”将于 2026 年 11 月 1 日在群马大学理工学部桐生校区举办。活动旨在通过经典车促进地区活力与汽车文化传播，将展示约 200 台 1980 年前生产的国内外名车，并包含拉力赛、餐饮购物摊位、写生大会等。参展车辆招募从 8 月 1 日至 31 日，展示部门限 200 台，费用 6000 日元/台；拉力部门限 60 台，费用 8000 日元/台（含当日限定餐券）。同时招募车库销售摊位，物贩摊位费用 12000 日元/块，餐饮摊位按车辆尺寸收费 20000 或 30000 日元。",
+    "highlights_zh": [
+      "11 月 1 日在群马大学桐生校区举办",
+      "展示约 200 台 1980 年前名车",
+      "8 月 1 日起招募参展车辆",
+      "含拉力赛、写生大会等活动"
+    ],
+    "entities": [
+      "桐生经典车节",
+      "群马大学",
+      "经典车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230452.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230452.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:47.398Z"
+  },
+  "https://bestcarweb.jp/news/1582678": {
+    "title_zh": "凯特自行车 III 复刻人气色，脚踏后装设计让孩子从滑步车自然过渡到自行车",
+    "summary_short": "凯特自行车 III 复刻人气色“蓝宝石蓝”，脚踏后装设计让孩子从滑步车自然过渡到自行车，成长阶段一车搞定。",
+    "summary_long": "日本品牌トップ的幼童自行车“凯特自行车 III”复刻了人气颜色“蓝宝石蓝”，该颜色因兼具沉稳与运动感而备受青睐，在停售后仍有大量用户要求再版。凯特自行车 III 的最大特色是脚踏可后装，孩子先作为滑步车用脚蹬地，长大后加装脚踏即可变为普通自行车，实现无缝过渡，适合 2-5 岁儿童长期使用。",
+    "highlights_zh": [
+      "复刻人气色“蓝宝石蓝”",
+      "脚踏可后装",
+      "从滑步车自然过渡到自行车",
+      "适合 2-5 岁儿童长期使用"
+    ],
+    "entities": [
+      "凯特自行车 III",
+      "蓝宝石蓝",
+      "幼童自行车",
+      "滑步车",
+      "脚踏后装"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17173843/493dc69f765256592d82d450b82619c7.jpg?v=1784277524",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17173843/493dc69f765256592d82d450b82619c7-600x296.jpg?v=1784277524",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17181846/27c9adb25865ec44ca224e4be7e2c56e-600x398.jpg?v=1784279927"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:48.218Z"
+  },
+  "https://response.jp/article/2026/07/27/414525.html": {
+    "title_zh": "JR 东日本物流市川二俣仓库竣工，Turner & Townsend 参与项目管理",
+    "summary_short": "JR 东日本物流完成市川二俣物流仓库建设，Turner & Townsend 提供项目管理支持，应对老化和需求变化。",
+    "summary_long": "JR 东日本物流完成了“JREL 市川二俣物流仓库新建工程”，Turner & Townsend 作为项目管理方参与其中。该公司自 2020 年起，基于与 CBRE 集团合作积累的经验，从概念到实现全程提供支持。项目起因于现有设施老化和新冠疫情导致的需求结构突变，JR 东日本物流启动了对自身物流网络结构性问题的根本性改革，Turner & Townsend 作为合作伙伴参与。",
+    "highlights_zh": [
+      "JR 东日本物流新仓库竣工",
+      "Turner & Townsend 提供项目管理",
+      "应对设施老化和需求变化"
+    ],
+    "entities": [
+      "JR 东日本物流",
+      "Turner & Townsend",
+      "市川二俣物流仓库"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230446.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230446.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:50.700Z"
+  },
+  "https://bestcarweb.jp/feature/column/1584126": {
+    "title_zh": "世界首款量产三缸发动机：初代大发 Charade 的历史功绩",
+    "summary_short": "1977 年诞生的初代大发 Charade 搭载世界首款量产三缸发动机，以紧凑车身实现宽敞空间，开创经济车新纪元。",
+    "summary_long": "1977 年 11 月，大发推出初代 Charade，以“宽敞小巧的经济车”为理念，实现了世界首款量产四冲程直列三缸发动机。该车通过将投影面积控制在约 5 平方米，在紧凑车身内确保 5 人乘坐空间，兼顾舒适与经济性。三缸发动机相比四缸零件更少、更轻小，横置布局进一步释放了车内空间，成为当时省资源与节能时代的典范。",
+    "highlights_zh": [
+      "世界首款量产四冲程三缸发动机",
+      "5 平方米投影面积实现 5 人乘坐",
+      "横置三缸发动机优化空间利用",
+      "省资源与节能时代的标杆车型"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "シャレード",
+      "CB 型发动机",
+      "三缸发动机"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/20093620/079e2b1f542a6449ed4ca76956054f79.jpg?v=1784507782",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/20093620/079e2b1f542a6449ed4ca76956054f79-600x400.jpg?v=1784507782",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122448/01-3-600x400.jpg?v=1784172289"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:52.538Z"
+  },
+  "https://bestcarweb.jp/feature/column/1533825": {
+    "title_zh": "中古雷克萨斯 LBX 值得入手吗？新车与二手行情分析",
+    "summary_short": "雷克萨斯 LBX 中古车源增多，部分价格低于新车，但需注意配置和总价差异。",
+    "summary_long": "雷克萨斯最小 SUV LBX 新车起价 420 万日元，中古车平均约 476 万日元，流通台数超 130 台。部分 300-400 万日元区间的中古车比新车便宜，但需考虑配置、颜色、里程等因素，高配或低里程车仍坚挺。目前中古 LBX 尚未大幅降价，但精选个体已具性价比。",
+    "highlights_zh": [
+      "中古 LBX 平均约 476 万日元",
+      "部分车款低于新车价",
+      "高配/低里程车仍坚挺",
+      "需关注支払总价而非车价"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "LBX",
+      "中古车",
+      "新车价格",
+      "SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09155042/A13_7595.jpg?v=1780987843",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/09155042/A13_7595-600x400.jpg?v=1780987843",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16122448/01-3-600x400.jpg?v=1784172289"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:54.985Z"
+  },
+  "https://www.motor1.com/news/802753/dodge-leaks-soap-after-car-wash/": {
+    "title_zh": "男子洗车后道奇漏肥皂：这不正常",
+    "summary_short": "道奇车主洗车后，排气管持续流出肥皂泡沫，引发关注。",
+    "summary_long": "一名道奇车主在洗车后，车辆底部和排气管持续流出肥皂泡沫，被维修技师拍下视频上传 TikTok，引发超 510 万次观看。技师表示，这可能是洗车时泡沫进入排气系统，但通常无需过度担忧，因为排气中的水蒸气冷凝是正常现象。",
+    "highlights_zh": [
+      "道奇洗车后排气管流出肥皂泡沫",
+      "视频在 TikTok 获超 510 万次观看",
+      "技师解释泡沫可能来自洗车残留",
+      "排气滴水属正常现象"
+    ],
+    "entities": [
+      "道奇 | Dodge"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMznKr/s1/man-takes-dodge-to-the-car-wash.-then-the-muffler-starts-leaking-soap.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:55.862Z"
+  },
+  "https://insideevs.com/news/802809/vw-phev-eu-tariff-demand-sales-drop/": {
+    "title_zh": "大众要求欧盟对中国插电混动车加征更高关税",
+    "summary_short": "大众要求欧盟对中国插电混动车加征更高关税，因其畅销车型被比亚迪等中国品牌超越。",
+    "summary_long": "大众汽车要求欧盟尽快对中国插电混动车加征更高进口关税。此前，大众 Tiguan 插电混动版从欧洲最畅销 PHEV 跌至第四位，被比亚迪 Seal U、比亚迪 Atto 2 和 Jaecoo 7 三款中国车型超越。大众正面临裁员压力，试图通过贸易壁垒遏制中国竞争对手。",
+    "highlights_zh": [
+      "大众要求欧盟对中国 PHEV 加征关税",
+      "比亚迪 Seal U 超越大众 Tiguan 成欧洲…",
+      "欧洲 PHEV 销量前三均为中国品牌",
+      "大众拟裁员 10 万人以应对困境"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "比亚迪 | BYD",
+      "Tiguan",
+      "Seal U",
+      "Jaecoo 7"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8G8w3/s1/vw-tiguan-2024.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:58.764Z"
+  },
+  "https://www.motor1.com/news/802708/ford-bronco-desert-rising-aftermarket-package/": {
+    "title_zh": "福特 Bronco Desert Rising 视觉套件：大量品红色元素",
+    "summary_short": "福特为 Bronco 推出 Desert Rising 视觉套件，加入粉白配色，限量 1000 台，售价 13,695 美元。",
+    "summary_long": "福特为 Bronco 推出全新 Desert Rising 视觉套件，灵感源自犹他沙漠罕见自然现象。该套件包含白色 Method 轮毂、粉色格栅及可选图形，内饰采用品红色 Katzkin 皮革座椅和序列化控制台徽章。基于 Bronco Outer Banks 车型打造，限量 1000 台，提供白、黑、灰、红四种外观颜色，售价 13,695 美元，即日起可订购。",
+    "highlights_zh": [
+      "粉白配色外观套件",
+      "品红色 Katzkin 皮革内饰",
+      "限量 1000 台",
+      "售价 13"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Bronco",
+      "Desert Rising",
+      "Katzkin"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8O7y/s1/ford-bronco-desert-rising.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:55:59.369Z"
+  },
+  "https://www.motor1.com/news/802791/2027-mercedes-amg-g63-cabriolet-preview/": {
+    "title_zh": "梅赛德斯-AMG G63 Cabriolet 伪装谍照：敞篷版几乎一览无余",
+    "summary_short": "梅赛德斯-AMG G63 Cabriolet 伪装谍照曝光，几乎无伪装，展示织物软顶和备胎位置，2027 年回归。",
+    "summary_long": "梅赛德斯-AMG G63 Cabriolet 伪装谍照曝光，几乎无伪装，展示织物软顶和备胎位置，2027 年回归。新车基于 W465 平台，采用电动折叠织物软顶，备胎保留并集成高位刹车灯。标准版 AMG G63 起售价约 20 万美元。",
+    "highlights_zh": [
+      "AMG G63 Cabriolet 伪装几乎无效",
+      "采用电动折叠织物软顶",
+      "备胎保留并集成高位刹车灯",
+      "2027 年回归"
+    ],
+    "entities": [
+      "Mercedes-AMG",
+      "G-Class Cabriolet",
+      "AMG G63",
+      "W465"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3jQP/s1/2027-mercedes-amg-g63-cabriolet-partially-camouflaged-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:56:02.051Z"
+  },
+  "https://insideevs.com/news/802795/rivian-r2-model-y-efficiency/": {
+    "title_zh": "Rivian R2 EPA 效率评级与实际测试不符",
+    "summary_short": "Rivian R2 与特斯拉 Model Y EPA 效率相同，但实际测试中 R2 能耗高出 18%-26%。",
+    "summary_long": "Rivian R2 与特斯拉 Model Y Performance 的 EPA 效率评级均为 105 MPGe，但实际道路测试显示 R2 能耗显著更高。在 50 至 80 英里/小时的速度下，R2 比 Model Y 多消耗 18%至 26%的能量，尤其在高速时差距更大。测试由 Out of Spec Reviews 和 RivianTrackr 进行，两车均保持原厂轮胎气压、双人乘坐及相同空调设置。R2 使用最节能的 Conserve 模式，Model Y 使用 Chill 模式。尽管 R2 可断开前电机实现后驱，但空气动力学和重量劣势仍导致能耗偏高。",
+    "highlights_zh": [
+      "EPA 评级相同",
+      "高速 80 mph 时差距最大达 26.5%",
+      "R2 可断开前电机"
+    ],
+    "entities": [
+      "Rivian R2",
+      "特斯拉 Model Y | Tesla Model Y",
+      "EPA 效率评级",
+      "实际能耗测试"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZE7K1/s1/r2-vs-my.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:56:03.649Z"
+  },
+  "https://insideevs.com/news/802797/bmw-ix5-long-wheelbase-china-tv-features/": {
+    "title_zh": "中国版宝马 iX5 加长轴距，后排配备巨大电视",
+    "summary_short": "宝马为中国市场推出长轴距 iX5，轴距加长 130 毫米，后排配备 31.3 英寸 8K 剧院屏幕，以应对销量下滑。",
+    "summary_long": "宝马为中国市场推出长轴距版 iX5，轴距增加 130 毫米至 3165 毫米，成为宝马轴距最长的量产 SUV。所有加长空间均用于后排，腿部空间极为宽敞，并配备从 7 系借鉴的 31.3 英寸 8K 剧院屏幕。此举旨在应对宝马在华销量下滑，2024 年销量降至 62.6 万辆，2025 年上半年同比再降 24%。",
+    "highlights_zh": [
+      "轴距加长 130 毫米",
+      "后排配备 31.3 英寸 8K 剧院屏幕",
+      "宝马在华销量持续下滑",
+      "专为中国市场打造的长轴距车型"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX5",
+      "中国",
+      "长轴距",
+      "剧院屏幕"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJNo1/s1/2027-bmw-x5-long-wheelbase-china.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:56:05.606Z"
+  },
+  "https://www.motor1.com/news/802784/2027-bmw-x5-ix5-long-wheelbase/": {
+    "title_zh": "中国特供长轴距宝马 X5：后排大屏与专属配置",
+    "summary_short": "宝马为中国市场推出长轴距 X5，轴距加长 130mm，配备 31.3 英寸剧院屏和专属座椅，成为史上最长轴距宝马 SUV。",
+    "summary_long": "宝马在中国市场推出长轴距版 X5，轴距增加 130mm 至 3165mm，超越 X7 成为宝马史上最长轴距 SUV。新车提供燃油版和纯电 iX5，后排配备 31.3 英寸剧院屏、升级座椅及专属设计元素，如霍夫迈斯特拐角处的曲棍球杆装饰。此举旨在应对中国市场销量下滑，此前宝马在华销量从 2021 年峰值 84.79 万辆降至 2024 年 62.6 万辆，2025 上半年再跌 20.4%。",
+    "highlights_zh": [
+      "轴距加长 130mm 至 3165mm",
+      "配备 31.3 英寸后排剧院屏",
+      "专属座椅与霍夫迈斯特拐角装饰",
+      "提供燃油版与纯电 iX5 两种动力"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 X5 | BMW X5",
+      "宝马 iX5 | BMW iX5",
+      "长轴距",
+      "中国特供"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YPoz/s1/2027-bmw-x5-long-wheelbase-china.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-27T15:56:07.802Z"
   }
 }
