@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-26T14:45:16.105Z",
+    "generated_at": "2026-07-27T03:59:29.214Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 349,
-    "deepseek_untranslated_before_run": 51,
-    "newly_fetched_articles": 51,
-    "newly_fetched_untranslated": 51,
+    "deepseek_translated_before_run": 375,
+    "deepseek_untranslated_before_run": 25,
+    "newly_fetched_articles": 26,
+    "newly_fetched_untranslated": 25,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 51,
+    "translation_queue_count": 25,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.26",
-        "title": "Waymo’s Self-Driving Cars Crash Less Often Than Human Drivers: Study",
-        "url": "https://www.thedrive.com/news/waymos-self-driving-cars-crash-less-often-than-human-drivers-study"
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "「あいち・なごや周遊観光パスポート付ドライブプラン」、高速乗り放題と40施設入館がセット…7月29日から利用可能",
+        "url": "https://response.jp/article/2026/07/27/414508.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "「ノアじゃなくてヴォクシー」が欲しい人へ!! 同じ中身でも見た目で選ぶミニバンの最適解",
+        "url": "https://bestcarweb.jp/newcar/1559574"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "「めちゃくちゃ可愛い」約230万円、フィアットの超小型EV『トポリーノ』にSNS注目！「日本でも売って」の声も",
+        "url": "https://response.jp/article/2026/07/27/414506.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 【誰も語らない】テスラを買う人、BYDを選ぶ人、ハイブリッドに乗り続ける人～なぜその選択なのか？定量データで読み解く日本のBEVユーザーのリアル～",
+        "url": "https://response.jp/article/2026/07/27/414507.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第820回",
+        "url": "https://bestcarweb.jp/feature/column/1563002"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "BYDも日産も採用へ!? エヌビディアが狙う自動運転時代の主導権！",
+        "url": "https://bestcarweb.jp/feature/column/1563647"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "DAMD『クロスビー ビーモア／リトルD.』は“かわいい”も“ワイルド”も叶える。あなたなら、どっちを選ぶ？PR",
+        "url": "https://response.jp/article/2026/07/27/414505.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "GMとアイオネートが協業、スマート変圧器「HIT」技術をミシガン州工場に米国初導入",
+        "url": "https://response.jp/article/2026/07/27/414498.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "さすがランクル兄弟の長男!! ランドクルーザー300の憧れちゃう全貌とは?!",
+        "url": "https://bestcarweb.jp/feature/column/1586293"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "タイヤは「黒いゴム」じゃない！ ブリヂストンが明かした性能を決める原材料の秘密",
+        "url": "https://response.jp/article/2026/07/27/414503.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "ダッシュの表面＆室内の温度上昇を抑制可能な、頼れる真夏の必需品“サンシェード”の新作［特選カーアクセサリー名鑑］",
+        "url": "https://response.jp/article/2026/07/26/414480.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "バリュートープ「オールタイムレンタカー」、川崎市・武蔵小杉駅エリアに2拠点開設",
+        "url": "https://response.jp/article/2026/07/27/414497.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "フォレスターを買うならターボかストロングハイブリッドか？ 価格と燃費で考える正解",
+        "url": "https://bestcarweb.jp/feature/column/1543651"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "ムーヴ キャンバスはシニアにも優しい？ 乗り降りしやすさと運転のしやすさを再評価!!",
+        "url": "https://bestcarweb.jp/feature/column/1563577"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "モリセル、次世代ハイブリッド向け超高出力電池発表…スーパーキャパシタ並みの応答速度を実現",
+        "url": "https://response.jp/article/2026/07/27/414500.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "ランボルギーニ『ウルス』2146台をリコール カメラ映像が途切れるおそれ",
+        "url": "https://response.jp/article/2026/07/27/414492.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.27",
+        "title": "レクサス『RX』大幅改良へ、新デザイン判明！…フロント刷新＆内装進化",
+        "url": "https://response.jp/article/2026/07/27/414489.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "一歩間違えると愛車に致命的なダメージも!? もはやプロ級のDIYに挑戦する前に知っておきたい難易度の高いメンテナンス",
+        "url": "https://bestcarweb.jp/feature/column/1583711"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.27",
+        "title": "全国で4番目に数が多い県のカバー率やいかに? 新潟県の「道の駅」公共交通アクセスのリアル!!",
+        "url": "https://bestcarweb.jp/busmagazine/1584451"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.26",
-        "title": "Woman Quoted $7,500 For Land Rover Part. Then She Has Her Dad Call The Dealership And Ask For A Price Check",
-        "url": "https://www.motor1.com/news/802738/land-rover-part-price/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "「EVなのにパドルシフト！」「200馬力超えはすごい」日産 リーフ NISMO 新型がSNSで話題に",
-        "url": "https://response.jp/article/2026/07/26/414462.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "「一代で終わったのが勿体ない」ホンダの最高級ミニバン『エリシオン』復活なるか？ スクープ情報に期待の声続々",
-        "url": "https://response.jp/article/2026/07/25/414456.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "「早く新型が出ますように」スズキ『アルトワークス』復活なるか…SNSで期待の声高まる",
-        "url": "https://response.jp/article/2026/07/26/414470.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "『カローラクロス』用、テインの純正互換ショックアブソーバー「エンデュラ・プロ」発売",
-        "url": "https://response.jp/article/2026/07/26/414476.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "『ランクル250』を40mmリフトアップ、テインから4WD用「4x4ダンパースポーツ」発売",
-        "url": "https://response.jp/article/2026/07/26/414479.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "【スズキ アルトラパン LC 新型試乗】軽自動車はハイトワゴンだけじゃない…中村孝仁",
-        "url": "https://response.jp/article/2026/07/25/414459.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "【ホンダ CB750ホーネット 試乗】ナナハン入門車にうってつけ！ 2気筒ストリートファイター×「Eクラッチ」の底力",
-        "url": "https://response.jp/article/2026/07/26/414473.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "【ホンダ インサイト 新型試乗】中国製BEVになったインサイトは、「白物家電」のように使える実用車だった",
-        "url": "https://response.jp/article/2026/07/26/414469.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "【夏休み】アクティオが小学生向け「建機ドクター」オンライン授業",
-        "url": "https://response.jp/article/2026/07/26/414475.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.26",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第818回",
-        "url": "https://bestcarweb.jp/feature/column/1562998"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.26",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第819回",
-        "url": "https://bestcarweb.jp/feature/column/1563000"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.26",
-        "title": "EVに逆風!? 日本のEVバスメーカー民事再生やVWがEV生産終了！ 自動車業界の最新トピック3選",
-        "url": "https://bestcarweb.jp/feature/column/1563801"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.26",
-        "title": "NEOPASA静岡に「赤富士シャア」登場！ 静岡限定デザインのTシャツ、アクリルキーホルダーが発売",
-        "url": "https://response.jp/article/2026/07/26/414466.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.26",
-        "title": "Woman Drives New Chevrolet Trailblazer. Then Her iPhone Updates. Then Apple CarPlay Stops Working",
-        "url": "https://www.motor1.com/news/802737/chevrolet-trailblazer-carplay/"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.26",
-        "title": "アシモ復活!? ホンダがヒト型ロボット市場へ再参入！",
-        "url": "https://bestcarweb.jp/feature/column/1563578"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.26",
-        "title": "トラック運送業界に初めての「最低運賃」!? 適正原価制度の導入に向けて初会合",
-        "url": "https://bestcarweb.jp/fullload/1588200"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.26",
-        "title": "ハイエースが高級車みたいに変わる!? スマホ操作で乗り心地を自在に変更！ 新型アクトライドの実力は？",
-        "url": "https://bestcarweb.jp/feature/column/1563852"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.26",
-        "title": "やっぱハンマーヘッド顔カッコイイ!! 人気のトヨタ アクアはなにが魅力なのか？",
-        "url": "https://bestcarweb.jp/feature/column/1570503"
+        "time": "2026.7.27",
+        "title": "Toyota Trunk Won’t Open. Then The Driver Finds A Trick No One Knew Existed: ‘Oh The Valet Button’",
+        "url": "https://www.motor1.com/news/802758/toyota-avalon-valet-trunk-button/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 51,
-    "queued_articles": 51,
-    "processed": 51,
-    "started_at": "2026-07-26T14:45:16.434Z",
-    "finished_at": "2026-07-26T14:47:00.247Z",
+    "scoped_articles": 25,
+    "queued_articles": 25,
+    "processed": 25,
+    "started_at": "2026-07-27T03:59:29.551Z",
+    "finished_at": "2026-07-27T04:00:27.881Z",
     "success": true,
     "error": ""
   }
