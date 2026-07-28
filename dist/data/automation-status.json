@@ -1,145 +1,145 @@
 {
   "workflow": {
-    "generated_at": "2026-07-27T15:55:05.004Z",
+    "generated_at": "2026-07-28T03:32:03.067Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 370,
-    "deepseek_untranslated_before_run": 30,
-    "newly_fetched_articles": 30,
-    "newly_fetched_untranslated": 30,
+    "deepseek_translated_before_run": 373,
+    "deepseek_untranslated_before_run": 27,
+    "newly_fetched_articles": 27,
+    "newly_fetched_untranslated": 27,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 30,
+    "translation_queue_count": 27,
     "translation_queue_preview": [
       {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "「良い音」って何だ？ 初心者こそ聴いてほしいプロショップのデモカー［car audio newcomer］by マリノサウンド 後編",
+        "url": "https://response.jp/article/2026/07/28/414559.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.28",
+        "title": "「見逃さない」がここまで進化！ 信号色を強調するSWANSドライビングサングラス",
+        "url": "https://bestcarweb.jp/news/car-accessory/1590360"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.28",
+        "title": "214万5000円スタートマジか。最大320km走行可能!! N-BOXヤバいかも……新型ラッコの完成度が衝撃すぎる",
+        "url": "https://bestcarweb.jp/newcar/1590864"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "EV充電器「テラチャージ」、沖縄・石垣シーサイドホテルに設置",
+        "url": "https://response.jp/article/2026/07/28/414548.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "EV急速充電器に従量制課金導入、高速道路SA/PAで実装開始…ABBとe-Mobility Power",
+        "url": "https://response.jp/article/2026/07/28/414556.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "GM、米国2拠点に投資…ミズーリとテネシーの工場を強化",
+        "url": "https://response.jp/article/2026/07/28/414550.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "いすゞ、路線バス「エルガ」シリーズを改良…安全装備拡充とEV寒冷地対応を強化",
+        "url": "https://response.jp/article/2026/07/28/414545.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "オートリブ、えるぼし認定の最高位を取得…女性活躍推進で厚労大臣認定",
+        "url": "https://response.jp/article/2026/07/28/414554.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "オーハシテクニカ、中国・上海の連結子会社を清算…広州への事業集約が完了",
+        "url": "https://response.jp/article/2026/07/28/414549.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.28",
+        "title": "スズキ、コンパクトSUV『ブレッツァ』新型をインド発表…1.0リットルターボ新搭載",
+        "url": "https://response.jp/article/2026/07/28/414546.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.28",
+        "title": "セレナのマルチボックスは新しい車中泊ミニバンか？ 5人乗り＋大容量収納の使い道",
+        "url": "https://bestcarweb.jp/feature/column/1564197"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.28",
+        "title": "トヨタ「ライズ」に唯一足りない装備とは！ eスマートハイブリッドの惜しいポイントを検証",
+        "url": "https://bestcarweb.jp/feature/column/1562468"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.28",
+        "title": "パッと開いて秒で設置!! 酷暑に傘型サンシェードが便利すぎる件!!",
+        "url": "https://bestcarweb.jp/news/1588920"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.28",
+        "title": "倒産寸前のマツダを救った立役者！ わずか3800mmで大ヒットした「デミオ」の実力とは？",
+        "url": "https://bestcarweb.jp/feature/column/1573791"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.28",
+        "title": "最新改良で液晶メーター採用！ 新型ダイハツ アトレーが軽バンライフの王座を譲らない理由",
+        "url": "https://bestcarweb.jp/feature/column/1578657"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.28",
+        "title": "Advance Auto Parts Opens Next To An AutoZone. Then Something Bizarre Happens In The Parking Lot: ‘Gotta Be Close To 100 Guys’",
+        "url": "https://www.motor1.com/news/802890/autozone-advance-auto-parking-lot-diy-mechanics/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.27",
+        "title": "Man Goes To AutoZone. Then They Refuse To Check Him Out—And Call The Police: ‘O’Reilly’s Would Take Care Of You’",
+        "url": "https://www.motor1.com/news/802888/autozone-calls-police-on-commercial-customer/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.27",
+        "title": "The Land Rover Discovery Sport Is Dead",
+        "url": "https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/"
+      },
+      {
         "source": "InsideEVs",
         "time": "2026.7.27",
-        "title": "Inside BMW's Plan To Produce The iX5’s Gigantic Battery Pack In The U.S.",
-        "url": "https://insideevs.com/news/802839/bmw-ix5-ev-battery-production-plant-woodruff/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.27",
-        "title": "2026 Honda Jazz e:HEV Review: The Forbidden Fuel-Sipping Daily Warrior",
-        "url": "https://www.thedrive.com/car-reviews/2026-honda-jazz-ehev-review-the-forbidden-fuel-sipping-daily-warrior"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.27",
-        "title": "Waymo's Robotaxis Have A Parking Problem—And It's Costing Thousands",
-        "url": "https://insideevs.com/news/802842/waymo-robotaxi-austin-parking-tickets/"
+        "title": "BMW Is Finally Planning An Electric Convertible: Report",
+        "url": "https://insideevs.com/news/802883/electric-bmw-i4-convertible/"
       },
       {
         "source": "Motor1",
         "time": "2026.7.27",
-        "title": "Genesis Could Build Something Even Hotter Than Magma",
-        "url": "https://www.motor1.com/news/802834/genesis-hotter-performance-magma-models/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.27",
-        "title": "The Honda Accord Crosstour May Live Again: TDS",
-        "url": "https://www.thedrive.com/news/the-honda-accord-crosstour-may-live-again-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.27",
-        "title": "Automakers Need To Slow Down Before Reliability Gets Even Worse",
-        "url": "https://www.motor1.com/features/802711/automakers-need-to-slow-down-improve-reliability-opinion/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.27",
-        "title": "Mercedes-AMG A45 S Final Edition Says Auf Wiedersehen To The Hot Hatch",
-        "url": "https://www.motor1.com/news/802815/mercedes-amg-a45-s-final-edition/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "“武士の甲冑”がモチーフ！ 日本限定ランボルギーニにSNS注目！「限定カラーすごい」「実車を一度見てみたい」の声も",
-        "url": "https://response.jp/article/2026/07/27/414535.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "「007」「サーキットの狼」「西部警察」などの名車を再現、東京・丸の内で大型ショーケース公開…AUTOart",
-        "url": "https://response.jp/article/2026/07/27/414526.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "「アンプDSP」を追加すれば、「ステレオ再生環境」の基本が整う！［音を良くする“初級鉄板プラン”をプロが伝授］",
-        "url": "https://response.jp/article/2026/07/27/414530.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "「頭文字D」AE86漫画風キーチェーン!! 大好評につきAmazonで予約開始!!",
-        "url": "https://bestcarweb.jp/news/1582676"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "【アストンマーティン ヴァンテージS 新型試乗】「真のファイター」は優しさをも兼ね備えているということか…",
-        "url": "https://response.jp/article/2026/07/27/414536.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "【フォーミュラE東京】ヤマハ・日産は母国レース表彰台届かず、「クプラ・キロ」「マヒンドラ」が勝利",
-        "url": "https://response.jp/article/2026/07/27/414528.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "【間違えると恥ずかしい!?】これ、読めますか？ 難読地名クイズ「軍畑」",
-        "url": "https://bestcarweb.jp/feature/column/1559914"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "50代から価値が爆上がり!! オジサン向けクルマ神装備6選",
-        "url": "https://bestcarweb.jp/feature/column/1581388"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "アウトランダーPHEV ブラックエディションは高いのか？ 補助金84万円込みで見る黒い最上級仕様",
-        "url": "https://bestcarweb.jp/feature/column/1545937"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "アストンマーティン『DB5』トリビュート腕時計、ブライトリングとのコラボで3種の限定モデル発売",
-        "url": "https://response.jp/article/2026/07/27/414517.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "オートバックスセブン、被災地支援で軽自動車8台を日本カーシェアリング協会に寄贈",
-        "url": "https://response.jp/article/2026/07/27/414531.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.27",
-        "title": "クラシックカーフェスティバル in 桐生、参加車両募集を8月1日開始…国内外の名車を約200台展示へ",
-        "url": "https://response.jp/article/2026/07/27/414533.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.27",
-        "title": "これでお子様も乗り物好きに!? 足けりもペダル漕ぎもできるケッターサイクルIIIに人気色復刻！",
-        "url": "https://bestcarweb.jp/news/1582678"
+        "title": "Hyundai Driver Goes ‘A Couple Hours’ Over 10,000-Mile Oil Change. Then The Mechanic Hears What It Does To Her Engine: ‘Wow’",
+        "url": "https://www.motor1.com/news/802831/hyundai-elantra-missed-oil-change-engine-fail/"
       }
     ]
   },
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 30,
-    "queued_articles": 30,
-    "processed": 30,
-    "started_at": "2026-07-27T15:55:05.345Z",
-    "finished_at": "2026-07-27T15:56:07.826Z",
+    "scoped_articles": 27,
+    "queued_articles": 27,
+    "processed": 27,
+    "started_at": "2026-07-28T03:32:03.410Z",
+    "finished_at": "2026-07-28T03:32:55.432Z",
     "success": true,
     "error": ""
   }

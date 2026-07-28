@@ -91215,5 +91215,626 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-27T15:56:07.802Z"
+  },
+  "https://bestcarweb.jp/news/car-accessory/1590360": {
+    "title_zh": "SWANS 驾驶太阳镜：强化信号色，安全驾驶新体验",
+    "summary_short": "SWANS 驾驶太阳镜专为驾驶设计，增强红黄信号色，提升安全性与舒适性，日本制造。",
+    "summary_long": "SWANS 品牌推出专为驾驶优化的太阳镜，由赛车手山野哲也监制，历经十年研发。镜片能强化信号灯、刹车灯、转向灯及道路标线的颜色，使驾驶员更易察觉关键视觉信息，提升行车安全。同时具备防强光功能，适合夏季驾驶。产品在日本制造，品质可靠。",
+    "highlights_zh": [
+      "强化红黄信号色",
+      "赛车手山野哲也监制",
+      "日本制造",
+      "防强光"
+    ],
+    "entities": [
+      "SWANS",
+      "山野哲也",
+      "驾驶太阳镜"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27154653/a176383c2a827f046de9853727c5c4eb-1.jpg?v=1785134814",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27154653/a176383c2a827f046de9853727c5c4eb-1-600x395.jpg?v=1785134814",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/23165233/75c140d3601436d9bf49d9f8aa3af58a-2-600x400.jpg?v=1784793155"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:06.924Z"
+  },
+  "https://response.jp/article/2026/07/28/414559.html": {
+    "title_zh": "什么是“好声音”？新手必听的改装店示范车",
+    "summary_short": "福井县 Marino Sound 的丰田 Aqua 示范车，为音响新手展示高音质系统的构建与试听体验。",
+    "summary_long": "对于音响新手来说，专业改装店的示范车是系统升级的绝佳参考。本文以福井县 Marino Sound 的丰田 Aqua 为例，介绍高音质化的关键点。该车以紧凑型车为基础，搭载了 Resolute M-DSP、FiiO M27 播放器、ARC Audio 功放、Morel Elate Carbon 三分频等高端器材，旨在让用户亲身体验音质差异。",
+    "highlights_zh": [
+      "DSP 采用 Resolute M-DSP",
+      "播放器为 FiiO M27 DAP",
+      "功放使用 ARC Audio Kappa 4.4 C…",
+      "前声场为 Morel Elate Carbon 三分…"
+    ],
+    "entities": [
+      "Marino Sound",
+      "丰田 | Toyota",
+      "Aqua",
+      "Resolute",
+      "FiiO"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230210.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230210.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:07.295Z"
+  },
+  "https://response.jp/article/2026/07/28/414548.html": {
+    "title_zh": "Terra Charge 在冲绳石垣海滨酒店安装 EV 充电器",
+    "summary_short": "Terra Charge 在冲绳石垣海滨酒店安装 6kW 普通充电器，支持住宿充电需求。",
+    "summary_long": "Terra Charge 于 7 月 27 日宣布，在冲绳县石垣市的石垣海滨酒店安装了两口 6kW 的 EV 普通充电器，以应对住宿设施的充电需求。公司表示，随着日本政府 2030 年 30 万口充电桩目标的推进，将加速在旅游景点和住宿设施扩展充电基础设施，尤其注重与度假酒店合作，满足基础充电和目的地充电需求。同时，EV 充电应用“Terra Charge”已更新，提升了易用性。",
+    "highlights_zh": [
+      "石垣海滨酒店安装 2 口 6kW 充电器",
+      "配合日本政府 2030 年 30 万口目标",
+      "充电应用已更新",
+      "重点布局旅游住宿设施"
+    ],
+    "entities": [
+      "Terra Charge",
+      "石垣海滨酒店",
+      "冲绳",
+      "EV 充电器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230487.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230487.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:10.609Z"
+  },
+  "https://bestcarweb.jp/newcar/1590864": {
+    "title_zh": "BYD 新型拉科（Racco）起售价 214.5 万日元，续航最高 320km，挑战 N-BOX",
+    "summary_short": "BYD 新型拉科起售价 214.5 万日元，续航最高 320km，融合 N-BOX 和 Move Canvas 优点，品质惊人。",
+    "summary_long": "BYD 新型拉科（Racco）的完整面貌已公开，其完成度和价格令人震惊。起售价仅 214.5 万日元，即使补贴较少也极具竞争力。该车融合了 N-BOX 的座椅翻转机构和 Move Canvas 的杯架加热功能，取长补短。续航 210km 的“Racco 200”售价 214.5 万日元，续航 320km 的“Racco 300+”售价 239.8 万日元，“Racco 300 Premium”售价 249.7 万日元。所有车型均享受 15 万日元国家补贴，5 年后残值率高达 50%，并提供 6 年 15 万公里整车质保及 8 年 16 万公里高压部件质保，超越竞争对手。内饰质感尤其出色，后排座椅舒适度令人印象深刻。",
+    "highlights_zh": [
+      "起售价 214.5 万日元",
+      "续航最高 320km",
+      "融合 N-BOX 和 Move Canvas 优点",
+      "质保和残值率超越同级"
+    ],
+    "entities": [
+      "BYD",
+      "拉科",
+      "N-BOX",
+      "ムーヴキャンバス"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28102510/S__123543609_0-1.jpg?v=1785201911",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28102510/S__123543609_0-1-600x456.jpg?v=1785201911",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02152624/20260410_01_19-6-600x428.jpg?v=1782973586"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:11.546Z"
+  },
+  "https://response.jp/article/2026/07/28/414556.html": {
+    "title_zh": "ABB 与 e-Mobility Power 在高速服务区导入 EV 超快充按量计费",
+    "summary_short": "ABB 与 e-Mobility Power 合作，在日本高速服务区导入按 kWh 计费的 150kW 级超快充桩，首批 30 台已部署。",
+    "summary_long": "ABB 宣布，针对 e-Mobility Power 运营的充电网络，已开始部署支持按量计费（kWh）的特例计量器，用于其提供的最大 150kW 级超快充桩。截至 2026 年 6 月，以高速公路服务区/停车区为中心的 30 台充电桩已完成安装。e-Mobility Power 运营的充电网络是日本最大规模的 EV 充电服务之一，覆盖从普通充电到 150kW 快充的广泛功率范围，自 2021 年 4 月从 NCS 继承业务以来，一直以“一张卡全国充电”为理念扩大基础设施。",
+    "highlights_zh": [
+      "ABB 与 e-Mobility Power 合作导…",
+      "首批 30 台 150kW 级超快充桩部署于高速 S…",
+      "支持 kWh 计费的特例计量器已开始实装",
+      "e-Mobility Power 为日本最大级充电网…"
+    ],
+    "entities": [
+      "ABB",
+      "e-Mobility Power",
+      "NCS",
+      "按量计费",
+      "超快充桩"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230527.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230527.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:14.490Z"
+  },
+  "https://response.jp/article/2026/07/28/414550.html": {
+    "title_zh": "通用汽车投资美国两工厂，加强密苏里与田纳西基地",
+    "summary_short": "通用汽车宣布投资超 4.3 亿美元，用于升级密苏里州和田纳西州的两座工厂，强化本土制造与创新。",
+    "summary_long": "通用汽车（GM）宣布对美国密苏里州和田纳西州的两座工厂进行总额超过 4.3 亿美元的投资。其中，密苏里州温茨维尔工厂获得约 1.57 亿美元，田纳西州斯普林希尔制造综合体获得超过 2.75 亿美元。这两项投资均在 1 个月内相继公布，是 GM 强化国内制造基础、推动美国本土创新战略的一部分。",
+    "highlights_zh": [
+      "总投资超 4.3 亿美元",
+      "密苏里工厂获 1.57 亿美元",
+      "田纳西工厂获 2.75 亿美元",
+      "旨在强化本土制造与创新"
+    ],
+    "entities": [
+      "通用汽车 | GM",
+      "密苏里州",
+      "田纳西州",
+      "温茨维尔工厂",
+      "斯普林希尔制造综合体"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230521.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230521.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:14.693Z"
+  },
+  "https://response.jp/article/2026/07/28/414545.html": {
+    "title_zh": "五十铃改进 Elga 系列公交车：扩充安全装备，强化 EV 寒冷地适应性",
+    "summary_short": "五十铃改进 Elga 系列公交车，新增前盲区监测等安全装备，EV 车型新增寒冷地仕样选项，提升便利性。",
+    "summary_long": "五十铃汽车于 7 月 27 日推出改进版大型公交车 Elga、中型公交车 Elga Mio 及纯电动全平地板公交车 Elga EV。Elga 和 Elga Mio 新增前盲区监测、交叉路口警报、电动驻车制动等安全装备，并改进发动机和低滚阻轮胎，满足 2025 年度重型车燃油效率标准。Elga EV 新增寒冷地仕样选项，充电口移至后方，提升寒冷地区使用便利性。",
+    "highlights_zh": [
+      "新增前盲区监测和交叉路口警报",
+      "电动驻车制动与驾驶员异常响应系统联动",
+      "全系满足 2025 年度重型车燃油效率标准",
+      "Elga EV 新增寒冷地仕样选项"
+    ],
+    "entities": [
+      "五十铃",
+      "エルガ",
+      "エルガミオ",
+      "エルガEV",
+      "电动驻车制动"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230486.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230486.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:18.325Z"
+  },
+  "https://response.jp/article/2026/07/28/414554.html": {
+    "title_zh": "奥托立夫获得“えるぼし”认证最高等级",
+    "summary_short": "奥托立夫获日本厚生劳动省“えるぼし”认证最高等级，表彰其女性活跃推进举措。",
+    "summary_long": "汽车安全系统制造商奥托立夫（Autoliv）依据《女性活跃推进法》，获得“えるぼし”认证最高等级（第三级）。该认证由厚生劳动省颁发，针对制定并提交行动计划的企业，在女性录用、持续就业、工作方式、管理职比例及多样化职业路径五项指标上表现优异者授予。",
+    "highlights_zh": [
+      "获“えるぼし”最高等级认证",
+      "厚生劳动大臣认定",
+      "五项指标评估女性活跃度",
+      "奥托立夫推进女性职场发展"
+    ],
+    "entities": [
+      "奥托立夫",
+      "えるぼし认证",
+      "女性活跃推进法",
+      "厚生劳动省"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230525.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230525.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:18.589Z"
+  },
+  "https://response.jp/article/2026/07/28/414549.html": {
+    "title_zh": "大桥技研清算上海子公司，业务整合至广州",
+    "summary_short": "日本汽车零部件商社大桥技研宣布清算上海子公司，将业务集中至广州，以提升经营效率。",
+    "summary_long": "日本汽车零部件商社大桥技研（オーハシテクニカ）宣布，其董事会已决议清算中国上海的全资子公司“大橋精密件（上海）有限公司”。该公司位于上海自贸区，主营汽车零部件采购、销售及进出口业务，成立于 2003 年，注册资本 400 万美元。此前，大桥技研已在广州设立“大橋汽車配件（廣州）有限公司”，旨在通过产销一体化提升效率，并将上海子公司的业务逐步转移至广州。目前所有业务转让已完成，故决定清算上海法人。",
+    "highlights_zh": [
+      "清算上海子公司",
+      "广州公司实现制贩一体",
+      "上海子公司成立于 2003 年",
+      "所有业务转让已完成"
+    ],
+    "entities": [
+      "オーハシテクニカ",
+      "大橋精密件（上海）有限公司",
+      "大橋汽車配件（廣州）有限公司",
+      "上海自贸区",
+      "汽车零部件"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230520.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230520.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:22.086Z"
+  },
+  "https://response.jp/article/2026/07/28/414546.html": {
+    "title_zh": "铃木在印度发布新款紧凑型 SUV Brezza，新增 1.0 升涡轮增压发动机",
+    "summary_short": "铃木在印度推出新款紧凑型 SUV Brezza，新增 1.0 升涡轮增压发动机，CNG 车型支持生物燃气，获 BNCAP 五星安全评级。",
+    "summary_long": "铃木印度子公司玛鲁蒂铃木在印度发布了新款紧凑型 SUV Brezza。该车型自 2016 年上市以来累计销量达 140 万辆，是玛鲁蒂铃木的支柱车型。新款 Brezza 在外观上更新了前格栅和保险杠设计，更显强劲与运动。动力方面，除沿用 1.5 升双喷射发动机外，新增 1.0 升 Boosterjet 涡轮增压发动机，提供更运动的驾驶体验。同时提供 1.5 升双喷射发动机的 CNG 版本，该 CNG 车型兼容生物燃气，并采用底盘下置 CNG 气罐布局以优化装载空间。安全方面，新车在印度新车安全评估计划 BNCAP 中获得最高五星评级。",
+    "highlights_zh": [
+      "新增 1.0 升 Boosterjet 涡轮增压发动…",
+      "CNG 车型兼容生物燃气",
+      "获 BNCAP 五星安全评级",
+      "累计销量超 140 万辆"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Brezza",
+      "玛鲁蒂铃木 | Maruti Suzuki",
+      "Boosterjet",
+      "BNCAP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230485.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230485.jpg",
+      "https://response.jp/imgs/fill2/2230480.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:23.172Z"
+  },
+  "https://bestcarweb.jp/feature/column/1564197": {
+    "title_zh": "Serena MultiBox：5 座+大容量储物，新型车中泊 MPV",
+    "summary_short": "日产 Serena MultiBox 采用 5 座布局，配备大容量储物箱，可变为床、长凳或桌子，专为户外和家庭储物需求设计。",
+    "summary_long": "日产 Serena 的定制车型 MultiBox 不同于传统 7 座 MPV，它采用 5 座布局，后排配备大容量储物箱，可有效利用上下空间，并支持分隔打开以装载长物品。储物箱顶板可变为长凳和桌子（尺寸 485×820mm），适合户外用餐或车内休息。选装床铺版本可提供平坦睡眠空间。价格方面，汽油 2WD Highway Star V 基础版为 375.76 万日元，带床版本为 397.87 万日元。该车专为需要装载露营、钓鱼、儿童运动器材或防灾用品的用户设计，相比后期加装，原厂定制更具安心感。",
+    "highlights_zh": [
+      "5 座布局",
+      "储物箱可变为床、长凳或桌子",
+      "适合户外、运动器材及防灾用品装载",
+      "原厂定制"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Serena",
+      "MultiBox",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08133457/251218-01-j_NMC_12_SERENA.jpg?v=1783485298",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08133457/251218-01-j_NMC_12_SERENA-600x361.jpg?v=1783485298",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28131719/00_raize_20211101_03_03-600x400.jpg?v=1782620241"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:26.986Z"
+  },
+  "https://bestcarweb.jp/feature/column/1562468": {
+    "title_zh": "丰田 RISE 唯一缺失的配置：e 智能混动没有四驱",
+    "summary_short": "丰田 RISE 的 e 智能混动系统表现出色，但缺少四驱选项，成为唯一短板。",
+    "summary_long": "丰田 RISE 自 2019 年推出以来，凭借紧凑的 5 座尺寸和 SUV 造型广受欢迎。2021 年新增的 e 智能混动系统采用发动机仅发电的串联方式，电机驱动响应快、静谧性好，获得高度评价。然而，该混动系统未提供四驱版本，消费者若需四驱只能选择 1.0L 三缸涡轮增压车型。这一缺失被认为是 RISE 混动版的最大遗憾。",
+    "highlights_zh": [
+      "e 智能混动系统仅前驱",
+      "四驱需求只能选 1.0T 三缸涡轮增压",
+      "混动版电机驱动响应快、静谧性好",
+      "若提供四驱混动"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ライズ",
+      "e 智能混动"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28131719/00_raize_20211101_03_03.jpg?v=1782620241",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28131719/00_raize_20211101_03_03-600x400.jpg?v=1782620241",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08133457/251218-01-j_NMC_12_SERENA-600x361.jpg?v=1783485298"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:27.319Z"
+  },
+  "https://bestcarweb.jp/news/1588920": {
+    "title_zh": "伞形遮阳挡秒速安装，酷暑必备",
+    "summary_short": "庆洋工程推出伞形遮阳挡 AN-S182，一秒开合，UV 阻隔率约 99%，解决夏季车内高温烦恼。",
+    "summary_long": "夏季停车后车内高温是许多驾驶者的困扰。庆洋工程于 2026 年 7 月 21 日推出伞形遮阳挡 AN-S182，其最大特点是像折叠伞一样快速开合，实现“秒安装”。相比传统蛇腹式或吸盘式遮阳挡，它更便捷，适合日常购物、通勤、接送等短时停车场景。UV 阻隔率约 99%，有效降低车内温度。",
+    "highlights_zh": [
+      "伞形设计",
+      "UV 阻隔率约 99%",
+      "告别传统遮阳挡的繁琐",
+      "适合短时停车场景"
+    ],
+    "entities": [
+      "庆洋工程",
+      "AN-S182"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25174407/f3a3a8ef2dff2cb703917147b8d0679a.jpg?v=1784969048",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25174407/f3a3a8ef2dff2cb703917147b8d0679a-600x246.jpg?v=1784969048",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/23133845/2e07ff7040a120d296caf54c41aa9676-600x338.jpg?v=1784781526"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:30.478Z"
+  },
+  "https://bestcarweb.jp/feature/column/1573791": {
+    "title_zh": "拯救马自达于破产边缘的功臣！仅 3.8 米车长却大获成功的 Demio 实力解析",
+    "summary_short": "回顾马自达 Demio/Mazda2 三十年历史，初代以紧凑车身和实用空间拯救了濒临破产的马自达，后续车型不断进化，成为品牌复兴的基石。",
+    "summary_long": "马自达在 1990 年代因泡沫经济时期的多渠道销售策略陷入经营危机，1996 年推出的初代 Demio 以仅 3.8 米的车长实现了类似 MPV 的宽敞空间和实用性，凭借出色的功能性大获成功，挽救了濒临破产的马自达。2002 年第二代 Demio 继承了初代优点，采用与福特共同开发的新底盘和先进发动机，大幅提升了行驶性能。Demio 系列历经 30 年发展，为马自达后来的 SKYACTIV 技术和品牌高端化奠定了基础。",
+    "highlights_zh": [
+      "初代 Demio 以 3.8 米车长实现 MPV 级…",
+      "拯救马自达于破产边缘的功臣",
+      "第二代采用福特联合开发的新底盘",
+      "为 SKYACTIV 技术奠定基础"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "Demio",
+      "Mazda2",
+      "SKYACTIV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08160828/00_demio_1st_former_0131s.jpg?v=1783494509",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/08160828/00_demio_1st_former_0131s-600x400.jpg?v=1783494509",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08133457/251218-01-j_NMC_12_SERENA-600x361.jpg?v=1783485298"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:31.879Z"
+  },
+  "https://bestcarweb.jp/feature/column/1578657": {
+    "title_zh": "最新改良搭载液晶仪表！新一代大发 Atray 为何不放弃轻厢式车生活王者地位",
+    "summary_short": "大发 Atray 2026 年 6 月改款，新增液晶仪表与升级智能驾驶辅助，巩固轻厢式车王者地位。",
+    "summary_long": "大发 Atray 凭借媲美乘用车的舒适性和休闲适应性，在轻厢式车市场占据领先地位。2026 年 6 月实施的部分改良中，首次采用名为“主动多功能信息仪表”的液晶仪表，提升信息可视性。同时，预防安全功能 Smart Assist 新增对横穿自行车和交叉路口等对象的检测，安全性能超越乘用车。车身尺寸保持轻自动车规格，内部空间宽敞，内饰和行驶质感延续乘用车水准。",
+    "highlights_zh": [
+      "新增液晶仪表",
+      "Smart Assist 升级",
+      "车身尺寸 3395×1475×1890mm",
+      "内饰与行驶质感媲美轻乘用车"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "アトレー",
+      "Smart Assist",
+      "液晶仪表"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/15162856/8089e50294910c6cb163e5cb54ad137b-9.jpg?v=1784100537",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/08133457/251218-01-j_NMC_12_SERENA-600x361.jpg?v=1783485298",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/28131719/00_raize_20211101_03_03-600x400.jpg?v=1782620241"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:34.631Z"
+  },
+  "https://www.motor1.com/news/802890/autozone-advance-auto-parking-lot-diy-mechanics/": {
+    "title_zh": "AutoZone 与 Advance Auto Parts 相邻开店，停车场惊现百人修车集市",
+    "summary_short": "德州奥斯汀两家汽配店共享停车场，近百名 DIY 技师现场修车，价格低廉但无保障。",
+    "summary_long": "在德州奥斯汀，一家 Advance Auto Parts 新店紧邻 AutoZone 开业，但真正引人注目的是两家店共享停车场中出现的奇特景象：近百名 DIY 机械师在此摆摊修车。TikTok 用户 Deadmanlimited 拍摄的视频显示，这些技师提供从空调压缩机维修到球头更换等各类服务，价格远低于正规修理厂，且所需零件可立即从店内购买。这种“修车集市”模式虽价格诱人，但缺乏专业资质和售后保障，消费者需自行权衡利弊。",
+    "highlights_zh": [
+      "两家汽配店相邻",
+      "近百名 DIY 技师现场报价",
+      "零件即买即用"
+    ],
+    "entities": [
+      "Advance Auto Parts",
+      "AutoZone",
+      "DIY 修车",
+      "停车场集市",
+      "德州奥斯汀"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4j8z/s1/advance-auto-parts-opens-next-to-an-autozone..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:36.516Z"
+  },
+  "https://www.motor1.com/news/802888/autozone-calls-police-on-commercial-customer/": {
+    "title_zh": "男子因商业账户被 AutoZone 拒绝服务并报警",
+    "summary_short": "AutoZone 员工因顾客使用商业账户拒绝服务并报警，引发争议。",
+    "summary_long": "一名男子在 AutoZone 购买零件时，因告知员工自己是商业客户而被拒绝服务，员工甚至报警处理。该男子在 TikTok 上发布视频记录此事，引发广泛讨论。",
+    "highlights_zh": [
+      "男子因商业账户被拒服务",
+      "员工报警处理商业客户",
+      "事件被拍成视频上传 TikTok"
+    ],
+    "entities": [
+      "AutoZone",
+      "O'Reilly",
+      "商业账户",
+      "报警"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8KPBg/s1/man-goes-to-autozone-and-someone-calls-the-cops..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:37.496Z"
+  },
+  "https://www.motor1.com/news/802876/land-rover-discovery-sport-dead-production-ends-2026/": {
+    "title_zh": "路虎发现运动版停产",
+    "summary_short": "路虎确认发现运动版将于 2026 年底停产，成为品牌最便宜车型的接力棒交给揽胜极光。",
+    "summary_long": "路虎宣布发现运动版（Discovery Sport）将在 2026 年 12 月结束生产，该车曾是品牌最畅销车型。美国市场将继续销售直至库存耗尽。停产原因是英国哈利伍德工厂将转型生产下一代车型。此后，揽胜极光（Range Rover Evoque）将成为路虎最便宜的车型，起售价 51275 美元，比发现运动版贵 100 美元。",
+    "highlights_zh": [
+      "2026 年底停产",
+      "曾是路虎最畅销车型",
+      "揽胜极光成为最便宜车型",
+      "英国工厂转型生产下一代车型"
+    ],
+    "entities": [
+      "路虎 | Land Rover",
+      "发现运动版 | Discovery Sport",
+      "揽胜极光",
+      "哈利伍德工厂"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eob3rK/s1/2024-land-rover-discovery-sport-front-3-4.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:39.820Z"
+  },
+  "https://insideevs.com/news/802883/electric-bmw-i4-convertible/": {
+    "title_zh": "宝马计划推出电动敞篷车：i4 敞篷版",
+    "summary_short": "宝马计划推出 i4 敞篷版，采用软顶和 2+2 座椅布局，预计 2028 年上市，成为同级唯一电动敞篷车。",
+    "summary_long": "据宝马博客报道，下一代宝马 i4 将推出软顶敞篷版，内部代号 NA3。该车采用双门四座布局，配备电动折叠软顶，预计 2028 年上市。电动敞篷车目前市场稀缺，宝马此举将使其成为该细分市场的独特存在。软顶设计比硬顶更轻、更优雅，符合高端敞篷车趋势。",
+    "highlights_zh": [
+      "宝马 i4 敞篷版预计 2028 年上市",
+      "采用软顶和 2+2 座椅布局",
+      "同级唯一电动敞篷车",
+      "基于 Neue Klasse 平台打造"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马 i4 | BMW i4",
+      "电动敞篷车",
+      "Neue Klasse"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m8krG/s1/2026-bmw-i3-long-wheelbase-china.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:41.299Z"
+  },
+  "https://www.motor1.com/news/802831/hyundai-elantra-missed-oil-change-engine-fail/": {
+    "title_zh": "现代伊兰特错过机油更换，发动机报废",
+    "summary_short": "一辆 2025 款现代伊兰特仅行驶 2.37 万英里，因错过机油更换导致发动机严重损坏，维修工表示震惊。",
+    "summary_long": "一位机械师为 2025 款现代伊兰特更换了发动机，该车仅行驶 2.37 万英里，但发动机已出现严重敲击声。据称，车主仅超过 1 万英里机油更换周期“几个小时”，但发动机已彻底损坏。视频显示，车辆启动后噪音明显，机械师推测可能是机油保养不当或其他故障导致。该视频已获得超过 96.4 万次观看。",
+    "highlights_zh": [
+      "2025 款现代伊兰特仅 2.37 万英里发动机报废",
+      "车主超过 1 万英里换油周期仅数小时",
+      "发动机出现严重敲击声",
+      "视频观看超 96.4 万次"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "伊兰特",
+      "发动机故障",
+      "机油更换"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BY12/s1/hyundai-driver-goes-a-couple-hours-over-10-000-mile-oil-change.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:43.334Z"
+  },
+  "https://insideevs.com/news/802875/porsche-financial-troubles/": {
+    "title_zh": "保时捷陷入严重困境，对电动车粉丝不是好消息",
+    "summary_short": "保时捷计划到 2035 年裁员 9000 人，占员工总数 21%，部分关键车型可能被砍，对电动车粉丝不利。",
+    "summary_long": "保时捷面临中国市场疲软和电动车转型阵痛，现金流紧张。公司宣布到 2035 年再裁员 5000 人，加上此前宣布的 4000 人，总计裁员 9000 人，占员工总数的 21%。裁员主要通过自然减员、提前退休和自愿买断进行。这对电动车粉丝不是好消息，因为保时捷 Taycan 曾是传统车企中最先进的电动车，而 Macan、Boxster 和 Cayman 的电动版本计划也可能受影响。",
+    "highlights_zh": [
+      "保时捷计划到 2035 年裁员 9000 人",
+      "裁员占员工总数的 21%",
+      "Taycan 曾是传统车企最先进电动车",
+      "Macan、Boxster 电动化计划或受影响"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Taycan",
+      "Macan",
+      "Boxster",
+      "Cayman"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPQ79/s1/porsche-struggling.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:45.047Z"
+  },
+  "https://insideevs.com/news/802873/rivian-r2-charging-test/": {
+    "title_zh": "Rivian R2 充电猛兽，但公路旅行表现“还行”",
+    "summary_short": "Rivian R2 采用 400 伏架构但充电速度惊人，公路旅行测试表现中规中矩。",
+    "summary_long": "Rivian R2 虽然坚持使用 400 伏电池架构以节省成本，但凭借超过 600 安培的电流吸收能力，充电速度依然迅猛。在 Out of Spec Studios 的“10%挑战”测试中，R2 在 15 分钟内从 10%电量充至足够行驶的距离，展现了出色的快充性能。然而，其高速公路续航效率一般，整体公路旅行表现被评价为“还行”。测试车辆配备 21 英寸轮毂和公路轮胎，行驶里程约 1000 英里。",
+    "highlights_zh": [
+      "400 伏架构",
+      "15 分钟快充表现优异",
+      "公路旅行效率一般"
+    ],
+    "entities": [
+      "Rivian",
+      "Rivian R2",
+      "Out of Spec Studios",
+      "Ionna"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWJze/s1/rivian-r2-charging----out-of-spec.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:47.466Z"
+  },
+  "https://www.motor1.com/news/802861/honda-accord-suv-lifted-hybrid-hatchback-2029/": {
+    "title_zh": "本田或复活高底盘 Accord Crosstour",
+    "summary_short": "本田计划 2029 年推出高底盘 Accord 跨界车，搭载新一代混动系统，或为 Crosstour 继任者。",
+    "summary_long": "本田在取消纯电动项目后，将全面转向混动，计划投资近 280 亿美元推出 15 款新混动车型。据知情人士透露，本田将于 2029 年中在俄亥俄州工厂生产一款高底盘掀背版 Accord，可能命名为“Accord SUV”。该车将采用新一代混动系统，与改款 Accord 轿车同步推出。此前本田曾展示一款楔形设计的高底盘原型车，但未命名，预计两年内量产。",
+    "highlights_zh": [
+      "2029 年推出高底盘 Accord 跨界车",
+      "搭载新一代混动系统",
+      "或为 Crosstour 继任者",
+      "与改款 Accord 轿车同步上市"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Accord",
+      "Crosstour",
+      "混动系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJNPl/s1/honda-hybrid-sedan-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:48.916Z"
+  },
+  "https://www.motor1.com/news/802598/car-says-woman-intruder/": {
+    "title_zh": "女子开母亲新车遭系统识别为入侵者",
+    "summary_short": "女子借用母亲新车，因驾驶位记忆设置不同，车辆语音系统识别其为入侵者并发出警报。",
+    "summary_long": "一名女子借用母亲的新车，上车后车辆自动识别为母亲“Phoebe”的驾驶设置，随后因座椅位置差异，系统判定其为入侵者并发出“入侵警报”。该女子在视频中吐槽新车缺乏传统门把手、采用按钮换挡、空调控制深埋菜单等设计问题，引发广泛共鸣。",
+    "highlights_zh": [
+      "车辆语音系统误认驾驶者为入侵者",
+      "新车取消传统门把手",
+      "空调控制需进入三级菜单操作",
+      "视频获超 87 万次观看"
+    ],
+    "entities": [
+      "Phoebe"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8zKK/s1/woman-drives-her-mother-s-new-car.-then-it-starts-panicking.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:51.132Z"
+  },
+  "https://www.thedrive.com/news/20-of-your-uber-fare-actually-goes-to-insurance-alone-study": {
+    "title_zh": "研究：Uber 车费中 20%用于保险",
+    "summary_short": "研究发现，Uber 和 Lyft 车费中约 21%用于保险，西部成本下降但其他地区上升。",
+    "summary_long": "一项来自零工经济分析公司 Gridwise 的研究显示，Uber 和 Lyft 车费中平均 21%用于保险。尽管 2025 年第一季度至 2026 年期间，两家公司的单次行程保险费用在全国范围内下降了超过 5%，但地区差异显著：西部因加州法案成本下降 20.6%，而西南部和东海岸分别上升 15.8%和 7%。",
+    "highlights_zh": [
+      "车费中 21%用于保险",
+      "西部保险成本下降 20.6%",
+      "西南部成本上升 15.8%",
+      "东海岸成本上升 7%"
+    ],
+    "entities": [
+      "Uber",
+      "Lyft",
+      "Gridwise"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-1298831978.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-22.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:51.672Z"
+  },
+  "https://www.motor1.com/news/802857/nhtsa-banning-bad-door-handles/": {
+    "title_zh": "美国政府或禁止不良车门把手",
+    "summary_short": "NHTSA 因电子门把手在事故中导致被困，拟强制要求更安全的机械应急开门方式。",
+    "summary_long": "随着电子门把手在车祸中暴露的安全问题，NHTSA 计划强制要求更直观的机械应急开门系统。虽然已批准相关规则制定请愿，但并非立即实施新标准，而是先收集数据并征求公众意见。当前许多车辆电子门把手虽有机械备份，但位置隐蔽或难以操作，车主甚至不知其存在。",
+    "highlights_zh": [
+      "电子门把手事故中可能失效",
+      "NHTSA 拟强制要求机械应急开门",
+      "现有机械备份位置隐蔽",
+      "规则制定尚在初期阶段"
+    ],
+    "entities": [
+      "NHTSA",
+      "电子门把手",
+      "机械应急开门系统",
+      "车辆安全法"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEqBAM/s1/2026-nissan-leaf-this-is-it.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:54.602Z"
+  },
+  "https://www.thedrive.com/news/tj-maxx-is-selling-these-horrible-chevy-truck-shirts-designed-by-ai": {
+    "title_zh": "AI 分不清单排和双排皮卡？雪佛兰 T 恤设计翻车",
+    "summary_short": "TJ Maxx 售卖的一款雪佛兰皮卡 T 恤因 AI 设计错误，将单排、加长和双排座车型全部画成两门，仅货箱长度不同。",
+    "summary_long": "TJ Maxx 出售的一款“官方授权”雪佛兰皮卡 T 恤因 AI 设计出现严重错误：三辆皮卡分别标注为“regular cab”、“extended cab”和“crew cab”，但所有车型都只有两扇门，唯一区别是货箱长度。该设计被网友发现并分享至 Facebook 群组，引发对 AI 生成内容质量的质疑。",
+    "highlights_zh": [
+      "AI 设计的雪佛兰皮卡 T 恤将三种驾驶室全部画成两…",
+      "仅货箱长度不同",
+      "TJ Maxx 售卖该“官方授权”产品"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Silverado",
+      "TJ Maxx",
+      "AI 设计",
+      "皮卡"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Chevy-AI-Slop-Shirt.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/756341891_10175271107915176_2128225918187356028_n.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2024/07/Screen-Shot-2024-07-08-at-5.25.45-PM.png?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-28T03:32:55.411Z"
   }
 }
