@@ -92527,5 +92527,966 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-28T15:37:54.008Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572897": {
+    "title_zh": "全新丰田赛利卡试驾：400 马力涡轮增压，性能超乎想象",
+    "summary_short": "丰田赛利卡复活在即，基于 GR 雅力士开发，搭载新 2L 涡轮增压发动机，400 马力输出，中置四驱带来别次元操控。",
+    "summary_long": "丰田正在基于 GR 雅力士平台开发新一代赛利卡，测试车搭载 1.6L 和 2L 涡轮增压发动机，其中 2L 版本预计输出 400 马力，配合中置四驱系统，加速和操控性能达到新高度。试驾体验显示，新车在弯道中表现出色，动力响应迅猛，有望成为 GR 品牌的重要支柱。",
+    "highlights_zh": [
+      "基于 GR 雅力士平台开发",
+      "2L 涡轮增压发动机",
+      "中置四驱系统",
+      "GR 品牌复兴关键车型"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "赛利卡",
+      "GR 雅力士",
+      "中置四驱",
+      "涡轮增压"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07210825/00_s_GRcelica_002_head.jpg?v=1783426106",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07210825/00_s_GRcelica_002_head-600x400.jpg?v=1783426106",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3-600x400.jpg?v=1784703297"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:35:51.221Z"
+  },
+  "https://response.jp/article/2026/07/29/414617.html": {
+    "title_zh": "跨界车实用技巧全解析！车内聆听学·调音篇",
+    "summary_short": "详解 DSP 中分频器的使用，如何根据车内声学条件优化多路扬声器的频率分配，实现最佳音效。",
+    "summary_long": "汽车音响与家用音响因车内声学环境不同而存在显著差异。本连载从多角度解析车内聆听学，当前为调音篇。前几回介绍了外置 DSP（数字信号处理器）的重要性，它是进行声音调校的专用单元。虽然主机也内置 DSP，但如今高功能 DSP 主机较少，爱好者多采用外置 DSP。上次起开始讲解 DSP 中的分频器功能，用于分配多路扬声器的播放频段。市售车载扬声器常附带被动分频网络，但如今更多直接使用 DSP 进行分频，因为安装条件不同会导致最佳分频点变化，DSP 可灵活探索最佳设置。",
+    "highlights_zh": [
+      "外置 DSP 是调音核心",
+      "分频器分配多路扬声器频段",
+      "被动分频网络逐渐被 DSP 取代",
+      "DSP 可灵活探索最佳分频点"
+    ],
+    "entities": [
+      "DSP",
+      "分频器",
+      "多路扬声器",
+      "被动分频网络"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230649.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230649.jpg",
+      "https://response.jp/imgs/fill2/2230651.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:35:51.895Z"
+  },
+  "https://response.jp/article/2026/07/29/414619.html": {
+    "title_zh": "铃木在印度发布新款紧凑型 SUV Brezza，日本网友热议期待引入",
+    "summary_short": "铃木在印度发布新款紧凑型 SUV Brezza，设计更运动，新增 1.0T 发动机和 CNG 版，获 BNCAP 五星安全评级。",
+    "summary_long": "铃木印度子公司马鲁蒂铃木发布了新款紧凑型 SUV Brezza。该车自 2016 年推出以来累计销量达 140 万辆，是主力车型。新款采用全新前格栅和保险杠，造型更硬朗运动。动力新增 1.0 升 Boosterjet 发动机，并提供 1.5 升双喷发动机的 CNG 版本，支持生物燃气。CNG 油箱置于车底，保证后备箱空间。安全方面获得印度 BNCAP 五星评级。日本网友在社交媒体上热议，希望该车能引入日本市场。",
+    "highlights_zh": [
+      "新款 Brezza 外观更硬朗运动",
+      "新增 1.0T 发动机和 CNG 版",
+      "获印度 BNCAP 五星安全评级",
+      "日本网友期待引入本土"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Brezza",
+      "马鲁蒂铃木 | Maruti Suzuki",
+      "BNCAP"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230799.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230799.jpg",
+      "https://response.jp/imgs/fill2/2230674.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:35:55.105Z"
+  },
+  "https://response.jp/article/2026/07/29/414606.html": {
+    "title_zh": "【Response Conference 2026】10 年后的自动驾驶社会将如何？官民顶尖人士小组讨论“日本的胜算”",
+    "summary_short": "日本官民顶尖人士在 Response Conference 2026 上讨论自动驾驶未来，提出日本应如何在全球竞争中取胜。",
+    "summary_long": "由 iid 主办的“Response Conference 2026”于 6 月 30 日在东京举行，汇聚了自动驾驶相关企业和汽车制造商的代表。小组讨论由汽车媒体界自动驾驶技术关键人物清水和夫主持，参与者包括产业技术综合研究所的横山利夫、丰田的鲤渕健、五十铃的佐藤浩至、初创公司 newmo 的青柳直树以及 Response 主编三浦和也。讨论聚焦于日本在自动驾驶领域的独特路径，并提及政府计划到 2040 年官民投资约 8.2 万亿日元，标志着自动驾驶从企业挑战升级为国家项目。",
+    "highlights_zh": [
+      "日本官民投资 8.2 万亿日元推进自动驾驶",
+      "丰田、五十铃等企业代表参与讨论",
+      "自动驾驶从企业挑战升级为国家项目",
+      "日本需探索独特路径应对全球竞争"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "五十铃",
+      "newmo",
+      "国土交通省",
+      "产业技术综合研究所"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2226986.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2226986.jpg",
+      "https://response.jp/imgs/fill2/2226983.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:35:56.237Z"
+  },
+  "https://bestcarweb.jp/feature/column/1578801": {
+    "title_zh": "12 万 1000 日元的差价在哪里？全新 Atrai 的“X”与“RS”配置差异实车验证",
+    "summary_short": "大发 Atrai X 与 RS 差价 12.1 万日元，RS 标配 ACC 和 LKC，X 性价比高，两者动力相同。",
+    "summary_long": "大发 Atrai 提供基础版 X 和高级版 RS 两个配置，价格差 12.1 万日元。RS 售价 185.9 万日元，标配全速域 ACC 和 LKC，适合长途驾驶；X 售价 173.8 万日元，动力与 RS 相同，均为 64 马力涡轮增压发动机，WLTC 油耗 14.7km/L。2026 年 6 月改款后，RS 新增液晶仪表。用户可根据使用场景选择：经常跑高速选 RS，日常代步选 X。",
+    "highlights_zh": [
+      "RS 标配全速域 ACC 和 LKC",
+      "X 与 RS 动力相同",
+      "RS 新增液晶仪表",
+      "X 性价比高"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "アトレー",
+      "X",
+      "RS",
+      "ACC"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22115721/atrai_211220044.jpg?v=1784689042",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22115721/atrai_211220044-600x381.jpg?v=1784689042",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3-600x400.jpg?v=1784703297"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:35:59.112Z"
+  },
+  "https://bestcarweb.jp/feature/column/1576556": {
+    "title_zh": "Stepwgn 第三排座椅下沉收纳的破坏力惊人！座椅布局与官方配件打造舒适车中泊",
+    "summary_short": "本田 Stepwgn 七座版凭借第三排座椅下沉收纳，实现超大载物空间与平坦床面，配合座椅滑动功能，轻松打造舒适车中泊体验。",
+    "summary_long": "户外露营热潮下，MPV 车中泊备受关注。本田 Stepwgn 七座版通过第三排座椅下沉收纳，创造出惊人的载物空间和完全平坦的床面。第二排独立座椅可一键左右滑动并拢，消除中间缝隙，形成类似长条座椅的一体感。推荐两种座椅布局：将第二、三排靠背向后放倒，形成约 2 米长的纵向平坦空间，可容纳两名高个子成年人；或将第三排完全收纳至地板下，再放倒第一、二排，获得更宽敞的起居区域。官方配件进一步提升了便利性与舒适性。",
+    "highlights_zh": [
+      "第三排座椅下沉收纳",
+      "第二排座椅可左右滑动并拢",
+      "纵向空间约 2 米",
+      "推荐两种座椅布局"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ステップワゴン",
+      "车中泊",
+      "座椅布局",
+      "官方配件"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16175748/s-032_R1_6954_1.jpg?v=1784192269",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16175748/s-032_R1_6954_1-600x400.jpg?v=1784192269",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3-600x400.jpg?v=1784703297"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:00.505Z"
+  },
+  "https://bestcarweb.jp/feature/column/1585515": {
+    "title_zh": "本田 Freed AIR vs CROSSTAR：5 号牌与跨界风格全面对比",
+    "summary_short": "本田 Freed 提供 AIR 与 CROSSTAR 两种外观，前者保持 5 号牌尺寸，后者更显跨界风格，但驾驶体验差异不大。",
+    "summary_long": "本田 Freed 提供两种外观选择：AIR 保持 5 号牌尺寸（宽 1695mm），设计简洁优雅；CROSSTAR 为 3 号牌（宽 1720mm），配备专属格栅、保险杠等，外观更具跨界感。两者宽度仅差 25mm，最小转弯半径相同（5.2m），驾驶感受差异不大。CROSSTAR 并非真正 SUV，而是保留 Freed 易用性的跨界版本。",
+    "highlights_zh": [
+      "AIR 保持 5 号牌",
+      "CROSSTAR 宽 1720mm",
+      "宽度仅差 25mm",
+      "CROSSTAR 非真 SUV"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Freed",
+      "AIR",
+      "CROSSTAR"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3.jpg?v=1784703297",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3-600x400.jpg?v=1784703297",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22115721/atrai_211220044-600x381.jpg?v=1784689042"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:02.960Z"
+  },
+  "https://response.jp/article/2026/07/29/414615.html": {
+    "title_zh": "日本政府发布 AI 机器人战略，目标 2040 年引入 1000 万台 AI 机器人",
+    "summary_short": "日本政府时隔十年全面修订 AI 机器人战略，目标 2040 年引入 1000 万台 AI 机器人，成为全球第三极。",
+    "summary_long": "德勤于 2026 年 7 月 22 日在东京举办“机器人·物理 AI 战略最前线论坛”，经济产业大臣赤泽亮正、数字大臣松本尚、文部科学副大臣小林茂树等政府要员出席。论坛核心议题是日本政府时隔约十年全面修订的国家战略“AI 机器人战略”。该战略提出到 2040 年国内引入 1000 万台 AI 机器人，并作为继美国、中国之后的“第三极”，占据全球市场 30%以上份额。战略背景是生成式 AI 的快速发展改变了机器人产业的竞争格局。",
+    "highlights_zh": [
+      "日本政府时隔十年全面修订 AI 机器人战略",
+      "目标 2040 年引入 1000 万台 AI 机器人",
+      "力争成为全球第三极",
+      "生成式 AI 发展改变机器人产业竞争格局"
+    ],
+    "entities": [
+      "德勤",
+      "经济产业省",
+      "数字厅",
+      "文部科学省",
+      "AI 机器人"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230760.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230754.jpg",
+      "https://response.jp/imgs/zoom1/2230761.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:04.819Z"
+  },
+  "https://response.jp/article/2026/07/29/414612.html": {
+    "title_zh": "Apple Maps 将集成至福特下一代 EV，2027 年搭载",
+    "summary_short": "Apple Maps 将直接集成至福特下一代 UEV 平台，支持自然语言导航和电动车专属路线规划，2027 年实现车载。",
+    "summary_long": "Apple 与福特宣布，Apple Maps 将直接集成至福特下一代“通用电动汽车（UEV）平台”，利用 Apple 新开发的“MapKit for Automotive SDK”。该集成计划于 2027 年实现，驾驶员可在车辆显示屏上体验 Apple Maps 的导航功能，包括自然语言逐向导航、实时交通与事故信息、直观搜索及优化路线规划。",
+    "highlights_zh": [
+      "Apple Maps 直接集成至福特 UEV 平台",
+      "支持自然语言逐向导航",
+      "实时交通与事故信息显示",
+      "电动车专属路线规划"
+    ],
+    "entities": [
+      "Apple Maps",
+      "福特",
+      "UEV 平台"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230833.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230833.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:05.990Z"
+  },
+  "https://response.jp/article/2026/07/29/414613.html": {
+    "title_zh": "Doup Robotics 自主搬运机器人进军美国，入选 JETRO“GSAP 2026”",
+    "summary_short": "Doup Robotics 的自主搬运机器人入选 JETRO 的 GSAP 2026 项目，将加速进军美国市场。",
+    "summary_long": "日本初创公司 Doup Robotics 开发用于制造和物流行业的自主搬运系统，其 AMR 机器人及易用控制软件因应对全球劳动力短缺而具有优势。公司入选 JETRO 与内阁府推进的 GSAP 2026 项目中的 Manufacturing Tech & Hard Tech 课程，由美国加速器 Centrepolis Accelerator 指导，将开展美国市场客户开发、需求调研、合作与 PoC，并拓展投资网络，加速全球化。",
+    "highlights_zh": [
+      "Doup Robotics 入选 JETRO 的 G…",
+      "自主搬运机器人 AMR 及易用控制软件是核心优势",
+      "将与美国加速器合作开拓市场并开展 PoC",
+      "应对全球劳动力短缺"
+    ],
+    "entities": [
+      "Doup Robotics",
+      "JETRO",
+      "GSAP 2026",
+      "Centrepolis Accelerator",
+      "AMR"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230750.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230749.jpg",
+      "https://response.jp/imgs/zoom1/2230751.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:09.324Z"
+  },
+  "https://response.jp/article/2026/07/29/414608.html": {
+    "title_zh": "NX 中国亮相北京国际供应链博览会，以泛亚战略为核心提供物流解决方案",
+    "summary_short": "NX 中国在北京国际供应链博览会上展示泛亚物流网络，为中资企业提供跨境供应链解决方案。",
+    "summary_long": "NX 国际物流（中国）有限公司参加第四届中国国际供应链促进博览会，重点展示基于“泛亚战略”的物流网络，为加速海外扩张的中资企业提供区域协同物流体系及复杂供应链应对方案。该博览会由中国贸促会主办，吸引 676 家企业及 85 个国家和国际组织参与。",
+    "highlights_zh": [
+      "NX 中国亮相北京国际供应链博览会",
+      "聚焦泛亚战略与物流网络",
+      "为中资企业提供跨境供应链方案",
+      "博览会规模大"
+    ],
+    "entities": [
+      "NX 中国",
+      "NIPPON EXPRESSホールディングス",
+      "中国国际供应链促进博览会",
+      "泛亚战略"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230803.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230803.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:09.391Z"
+  },
+  "https://bestcarweb.jp/news/1588924": {
+    "title_zh": "亚马逊排名第一！3 秒安装的儿童座椅遮热罩保护孩子免受酷暑",
+    "summary_short": "CRAFTWORKS 儿童座椅遮热罩 3 秒安装，获亚马逊排名第一，有效降低座椅温度，保护孩子免受酷暑。",
+    "summary_long": "夏季车内高温是育儿家庭的常见困扰，尤其是暴晒后的儿童座椅表面温度极高。CRAFTWORKS 推出的儿童座椅遮热罩，以 3 秒快速安装和出色遮热性能为卖点，在亚马逊儿童座椅遮阳帘品类中夺得销量第一。该产品由 Fun Standard 公司旗下品牌 CRAFTWORKS 开发，旨在为夏季驾车出行的家庭提供便捷的隔热解决方案，减少孩子上车前的不安。",
+    "highlights_zh": [
+      "3 秒快速安装",
+      "亚马逊同类排名第一",
+      "有效降低座椅表面温度",
+      "专为育儿家庭设计"
+    ],
+    "entities": [
+      "CRAFTWORKS",
+      "儿童座椅遮热罩",
+      "Fun Standard"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25195545/afc48ce4a0160b0a0e4a0194087a0447.jpg?v=1784976946",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25195545/afc48ce4a0160b0a0e4a0194087a0447-600x400.jpg?v=1784976946",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17175121/67f4821feb1765e92e0d8e3dce8d61f4-600x400.jpg?v=1784278282"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:13.440Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572669": {
+    "title_zh": "Skyline 的进化令人惊叹！从舍弃直 6 的第 11 代到 400R，V6 引擎构筑的新时代",
+    "summary_short": "回顾日产 Skyline 从 V35 到 V37 的 V6 时代，舍弃直 6 引擎后如何通过技术创新重塑运动基因。",
+    "summary_long": "日产 Skyline 在 R34 之后告别直 6 引擎，转向 V6 动力。第 11 代 V35 基于全新 FM 平台，采用前中置 V6 布局、多连杆悬架和 Extroid CVT 等创新技术，尽管初期备受质疑，但实际表现令人改观。随后 V36 和 V37 进一步优化设计与操控，巩固了 Skyline 的运动定位。",
+    "highlights_zh": [
+      "R34 后 Skyline 告别直 6",
+      "V35 采用前中置布局与 Extroid CVT",
+      "V36/V37 强化运动设计与操控",
+      "V6 时代重塑 Skyline 运动基因"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "スカイライン",
+      "V35",
+      "V36",
+      "V37"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07180427/00_skyline_V37_220922_2.jpg?v=1783415069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/07180427/00_skyline_V37_220922_2-600x400.jpg?v=1783415069",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3-600x400.jpg?v=1784703297"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:13.807Z"
+  },
+  "https://response.jp/article/2026/07/29/414621.html": {
+    "title_zh": "特斯拉超级充电站因熊本地震在九州地区免费开放",
+    "summary_short": "特斯拉宣布因熊本地震，九州地区的超级充电站从 7 月 29 日至 8 月 4 日免费开放。",
+    "summary_long": "特斯拉宣布，受令和 8 年熊本地震影响，九州地区的特斯拉超级充电站将免费开放。免费时段从 2026 年 7 月 29 日 0:01 至 8 月 4 日 23:59。公司呼吁用户在确保自身安全的前提下使用，并祝愿受灾者早日恢复正常生活。",
+    "highlights_zh": [
+      "九州地区超级充电站免费开放",
+      "免费时段：7 月 29 日至 8 月 4 日",
+      "呼吁用户确保安全后使用"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "超级充电站",
+      "熊本地震",
+      "九州地区"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230846.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230846.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:17.122Z"
+  },
+  "https://bestcarweb.jp/feature/column/1576806": {
+    "title_zh": "涡轮 CVT 轻客巅峰对决：铃木 Every Wagon vs 大发 Atrai，谁更适合打造大人的秘密基地？",
+    "summary_short": "铃木 Every Wagon 与大发 Atrai，两款涡轮 CVT 轻客比拼，谁更适合作为大人的秘密基地？",
+    "summary_long": "铃木 Every Wagon 和大发 Atrai 是日本轻客市场的两大热门车型，均搭载涡轮增压发动机和 CVT 变速箱，兼具商用车的实用性和乘用车的舒适性。Every Wagon 为 5 座乘用车注册，注重舒适性；Atrai 为 4 座商用车注册，强调载物能力和经济性，年税额更低但首次车检为 2 年。对比车型为 Every Wagon PZ Turbo（2WD）和 Atrai RS（2WD），售价分别为 212.3 万日元和 182.6 万日元，后者便宜约 29.7 万日元。动力方面，两者最大功率均为 64ps，Every Wagon 扭矩 95Nm、油耗 15.1km/L，Atrai 扭矩 91Nm、油耗 14.7km/L，Every Wagon 略占优势。",
+    "highlights_zh": [
+      "Every Wagon 为 5 座乘用车",
+      "Atrai 售价低 29.7 万日元",
+      "两者均搭载 64ps 涡轮增压发动机和 CVT",
+      "Every Wagon 扭矩和油耗略优"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "エブリイワゴン",
+      "大发 | Daihatsu",
+      "アトレー",
+      "CVT"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22163124/8cf2ba3e08e3d80fb2e0494c151e35d6.jpg?v=1784705486",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22163124/8cf2ba3e08e3d80fb2e0494c151e35d6-600x400.jpg?v=1784705486",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3-600x400.jpg?v=1784703297"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:17.683Z"
+  },
+  "https://response.jp/article/2026/07/29/414616.html": {
+    "title_zh": "德国电池制造商瓦尔塔申请破产",
+    "summary_short": "德国电池制造商瓦尔塔因主要客户终止交易等原因，向法院申请启动自主管理型破产程序。",
+    "summary_long": "德国电池制造商瓦尔塔（VARTA）宣布向斯图加特地方法院申请启动自主管理型破产程序，旨在确保企业经济未来并维持业务持续运营。法院已任命律师托比亚斯·瓦尔为临时监管人。破产原因包括主要客户终止交易等影响。",
+    "highlights_zh": [
+      "瓦尔塔申请自主管理型破产",
+      "主要客户终止交易是主因",
+      "法院已任命临时监管人",
+      "旨在确保企业经济未来"
+    ],
+    "entities": [
+      "瓦尔塔",
+      "斯图加特地方法院",
+      "破产程序",
+      "自主管理型破产"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230845.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230845.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:19.888Z"
+  },
+  "https://response.jp/article/2026/07/29/414607.html": {
+    "title_zh": "丰田移动出行基金在美、印、意三城选定城市移动出行创新者",
+    "summary_short": "丰田移动出行基金在底特律、瓦拉纳西、威尼斯三城选定创新者，解决城市移动出行挑战，推动清洁物流、人群管理和低碳交通。",
+    "summary_long": "丰田移动出行基金联合 Challenge Works 和世界资源研究所，通过“可持续城市挑战赛”在底特律（美国）、瓦拉纳西（印度）和威尼斯（意大利）最终选定了解决城市移动出行问题的创新者。该挑战赛为期三年，总资助额 900 万美元，吸引了 6 个国家 150 多个城市的 200 多份申请。各城市聚焦不同课题：底特律的“清洁物流”、瓦拉纳西的“人群与拥堵管理”、威尼斯的“通过行为改变实现低碳交通”。入选的创新者包括 Civilized Cycles（超轻电动货运车替代汽油配送车）和 ElectricFish Energy（400kW 电池集成快充器推动物流电动化）。",
+    "highlights_zh": [
+      "底特律、瓦拉纳西、威尼斯三城选定创新者",
+      "挑战赛总资助 900 万美元",
+      "聚焦清洁物流、人群管理、低碳交通",
+      "入选方案包括超轻电动货车和快速充电器"
+    ],
+    "entities": [
+      "丰田移动出行基金 | Toyota Mobility Foundation",
+      "底特律",
+      "瓦拉纳西",
+      "威尼斯",
+      "世界资源研究所"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230728.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230728.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:21.802Z"
+  },
+  "https://bestcarweb.jp/feature/column/1539462": {
+    "title_zh": "丰田 Harrier 二手车现在是入手时机？新车与二手车的选择问题",
+    "summary_short": "丰田 Harrier 现款车型临近换代，新车订单受限，二手车成为值得考虑的选项。",
+    "summary_long": "丰田 Harrier 现款（第四代）于 2020 年推出，虽已进入产品末期，但设计依然时尚。新车价格区间为 371 万至 626 万日元，燃油版油耗 14.8-15.8km/L，混动版 21.7-22.7km/L。2025 年 6 月进行了小改款并新增 Nightshade 特别版。目前新车订单基本暂停，仅偶有释放。因此，二手车成为更现实的选择。",
+    "highlights_zh": [
+      "现款 Harrier 进入产品末期",
+      "新车订单基本暂停",
+      "二手车成为现实选择",
+      "2025 年 6 月有小改款"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Harrier"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22105855/AD4I0145_1.jpg?v=1782093536",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/22105855/AD4I0145_1-600x400.jpg?v=1782093536",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22155455/009b40b8a39cc7a99ec90338576973b3-600x400.jpg?v=1784703297"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:23.618Z"
+  },
+  "https://response.jp/article/2026/07/29/414618.html": {
+    "title_zh": "Blitz 为 Touch-LASER 雷达探测器免费推送 7 月 GPS 数据更新",
+    "summary_short": "Blitz 免费推送 Touch-LASER 系列雷达探测器 7 月 GPS 数据，新增测速点信息，支持无线更新。",
+    "summary_long": "日本改装部件厂商 Blitz 于 7 月 27 日起，开始免费推送 2026 年 7 月最新 GPS 数据，适用于 Touch-LASER 系列全部激光与雷达探测器。本次更新新增了确认的测速警示点及最新信息。数据更新完全免费，无需注册或付费。内置 Wi-Fi 的型号可通过手机热点或无线网络直接在设备上完成更新；2.4 英寸型号需另购 microSD 卡。对于不便自行更新的用户，Blitz 提供有偿服务：含最新 GPS 数据的 SD 卡（限 Blitz 在线商店销售，含税 2200 日元）以及寄送设备代为更新后返还的“GPS 数据代更新服务”（含税 3850 日元），均支持全系机型。",
+    "highlights_zh": [
+      "免费推送 2026 年 7 月 GPS 数据",
+      "新增测速警示点信息",
+      "支持无线网络直接更新",
+      "提供有偿代更新服务"
+    ],
+    "entities": [
+      "BLITZ",
+      "Touch-LASER"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230801.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230801.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:25.430Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1585123": {
+    "title_zh": "探访旧国铁鱼沼线遗迹：巴士之旅寻找铁路痕迹",
+    "summary_short": "新潟县旧国铁鱼沼线已废线 42 年，但部分路段仍保留铁路痕迹，可乘巴士或电车前往探访。",
+    "summary_long": "旧国铁鱼沼线连接新潟县来迎寺站与西小千谷站，全长 12.6 公里，曾于 1911-1944 年和 1954-1984 年间运营。废线 42 年后，2026 年的今天，部分路段仍隐约可见铁路痕迹，适合乘坐公共交通前往观察。推荐从 JR 来迎寺站出发，该站建筑仍为 1979 年所建，2016 年翻新，可乘信越本线或越后交通巴士抵达。",
+    "highlights_zh": [
+      "旧国铁鱼沼线已废线 42 年",
+      "部分路段仍保留铁路痕迹",
+      "推荐从 JR 来迎寺站出发探访",
+      "可乘巴士或电车前往"
+    ],
+    "entities": [
+      "旧国铁鱼沼线",
+      "新潟县",
+      "JR 来迎寺站",
+      "越后交通",
+      "信越本线"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/21152540/jnrunmlne_bstmbt_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/21125304/ex_jnrunmlne_thnbs_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/20151749/michieki_niigata_catch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:27.240Z"
+  },
+  "https://www.thedrive.com/news/the-2027-audi-q9-is-the-largest-model-in-automakers-history-and-its-new-flagship": {
+    "title_zh": "2027 款奥迪 Q9：史上最大车型，全新旗舰 SUV",
+    "summary_short": "奥迪 Q9 成为品牌史上最大 SUV，尺寸超越宝马 X7 和奔驰 GLS，起售价约 8.9 万美元。",
+    "summary_long": "2027 款奥迪 Q9 在纽约首发，是奥迪史上最大量产车型，长 209 英寸，轴距 123.5 英寸，提供三排成人座椅、全景玻璃车顶、涡轮增压发动机和 quattro 四驱系统。作为新旗舰，Q9 取代了已停产的 A8 轿车，起售价 89,095 美元，SQ9 版本 119,395 美元，将于年底抵达美国经销商。",
+    "highlights_zh": [
+      "奥迪史上最大量产车型",
+      "三排成人座椅",
+      "起售价 89",
+      "年底美国上市"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q9",
+      "宝马 | BMW",
+      "X7",
+      "奔驰 | Mercedes-Benz"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/untitled-0223-e1785278159757.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/untitled-0191.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/untitled-0203.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:28.667Z"
+  },
+  "https://www.motor1.com/news/803010/2027-audi-q9-sq9-details-specs-revealed/": {
+    "title_zh": "近距离体验全新奥迪 Q9：一款出色的全尺寸旗舰 SUV",
+    "summary_short": "奥迪首款全尺寸 SUV Q9 正式亮相，提供 Q9 和 SQ9 两种版本，轴距超雪佛兰 Tahoe，可选六座或七座布局。",
+    "summary_long": "奥迪终于推出了首款全尺寸 SUV——2027 款奥迪 Q9，提供标准版 Q9 和运动版 SQ9 两种选择。该车轴距达 123.5 英寸，超过雪佛兰 Tahoe，是奥迪史上最大车型。车内采用三排座椅布局，可选六座或七座，其中六座版的第二排独立座椅极为舒适，第三排也能容纳成年人。外观设计延续了改款 Q7 的风格，但尺寸更大，提供 21 至 23 英寸轮毂选项。",
+    "highlights_zh": [
+      "奥迪首款全尺寸 SUV",
+      "轴距超雪佛兰 Tahoe",
+      "可选六座或七座",
+      "提供 21-23 英寸轮毂"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q9",
+      "SQ9",
+      "雪佛兰 Tahoe"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2l8V7/s1/2027-audi-sq9.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:30.950Z"
+  },
+  "https://www.motor1.com/news/803021/volkswagen-50-day-test-drive/": {
+    "title_zh": "男子试驾大众新车 50 天后归还",
+    "summary_short": "美国马里兰州一名男子试驾大众新车后，因经销商未完成所有权转移，竟驾驶了 50 天之久。",
+    "summary_long": "一名马里兰州男子在购买大众新车时，经销商未准备好所有文件，仅发放临时牌照和登记。他驾驶该车 50 天后，因所有权未转移而将车归还。此事引发对经销商流程的质疑。",
+    "highlights_zh": [
+      "试驾 50 天未过户",
+      "经销商未准备文件",
+      "仅发放临时牌照",
+      "最终归还车辆"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "马里兰州",
+      "经销商",
+      "临时牌照",
+      "所有权转移"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8J1G/s1/man-takes-car-on-test-drive.-then-he-keeps-it-for-50-days.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:31.571Z"
+  },
+  "https://www.motor1.com/news/803006/aev-ford-super-duty-fx37/": {
+    "title_zh": "AEV 推出福特 Super Duty FX370：37 英寸轮胎版更实用",
+    "summary_short": "AEV 为福特 Super Duty 推出 FX370 套件，将轮胎从 40 英寸降至 37 英寸，起售价约 2 万美元，兼顾越野性能与日常实用性。",
+    "summary_long": "美国越野改装商 AEV 为福特 Super Duty 推出 FX370 套件，相比此前搭载 40 英寸轮胎的 FXL 版本，FX370 采用 37 英寸 BFGoodrich KO3 轮胎，更适合日常使用。套件起售价 19,999 美元（不含车辆本身），包含高品质改装部件，满足 95%的越野需求。",
+    "highlights_zh": [
+      "轮胎从 40 英寸降至 37 英寸",
+      "套件起售价约 2 万美元",
+      "兼顾越野与日常实用性",
+      "采用 BFGoodrich KO3 轮胎"
+    ],
+    "entities": [
+      "AEV",
+      "福特 | Ford",
+      "Super Duty",
+      "FX370",
+      "BFGoodrich KO3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Oo9Wbl/s1/aev-ford-super-duty-fx37.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:34.517Z"
+  },
+  "https://www.motor1.com/news/803027/bentley-continental-gtc-crewe-anniversary/": {
+    "title_zh": "宾利推出 Continental GTC 特别版庆祝克鲁工厂 80 周年",
+    "summary_short": "宾利为纪念克鲁工厂造车 80 周年，推出了一款 Supernova Purple Ombre 涂装的 Continental GTC 特别版，并展示了其“梦想工厂”与电动化未来。",
+    "summary_long": "宾利在克鲁工厂举办 80 周年庆典，发布了一款独一无二的 Continental GTC，采用全新 Supernova Purple Ombre 渐变涂装。活动汇聚了 107 辆车主藏品，从首辆交付客户的 EXP3 到 2025 款 Flying Spur Speed，按生产年代排列，展现了品牌历史。宾利借此强调其“梦想工厂”融合传统工艺与数字化生产，为下一代车型及电动化未来铺路。",
+    "highlights_zh": [
+      "宾利发布 Continental GTC 80 周年…",
+      "采用 Supernova Purple Ombre…",
+      "107 辆宾利车按年代排列展示历史",
+      "强调“梦想工厂”与电动化转型"
+    ],
+    "entities": [
+      "宾利 | Bentley",
+      "Continental GTC",
+      "克鲁工厂 | Crewe",
+      "梦想工厂",
+      "Supernova Purple Ombre"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlWGB1/s1/bentley-continental-gtc-80th-anniversary-special.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:34.694Z"
+  },
+  "https://www.motor1.com/news/803024/trump-michigan-auto-comeback-claim/": {
+    "title_zh": "特朗普宣称汽车业复兴，密歇根数据打脸",
+    "summary_short": "特朗普在密歇根宣称汽车业复兴，但数据显示该州过去一年流失约 4000 个汽车零部件岗位，与繁荣叙事相悖。",
+    "summary_long": "特朗普在通用汽车密歇根工厂宣称“美国汽车业回来了”，将关税和施压车企视为工厂复苏的原因。然而，密歇根州最新就业数据显示，截至 2026 年 6 月的一年内，该州汽车零部件制造业岗位减少约 4000 个（降幅 3.5%），制造业整体岗位减少约 7000 个（降幅 1.2%），与特朗普的“繁荣”叙事形成鲜明对比。特朗普还批评前任政府“抛弃”汽车工人，并承诺更多关税和更强硬的贸易执法。",
+    "highlights_zh": [
+      "特朗普宣称汽车业复兴",
+      "密歇根州流失 4000 个零部件岗位",
+      "制造业岗位减少 7000 个",
+      "关税政策与就业数据矛盾"
+    ],
+    "entities": [
+      "特朗普",
+      "通用汽车",
+      "密歇根 | Michigan",
+      "关税",
+      "就业数据"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkBjwJ/s1/trump-at-ford-factory-dearborn.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:37.705Z"
+  },
+  "https://www.motor1.com/news/803017/chevrolet-camaro-anonymous-letter/": {
+    "title_zh": "佛罗里达男子因雪佛兰 Camaro 噪音收到匿名投诉信",
+    "summary_short": "佛罗里达男子 Jay 因雪佛兰 Camaro SS 噪音过大，收到公寓邻居匿名投诉信，称其扰民且无人欣赏。",
+    "summary_long": "佛罗里达男子 Jay（@vvsjay1）在 TikTok 上发布视频，展示其雪佛兰 Camaro SS 挡风玻璃上的一封匿名信。信中指责他故意制造巨大噪音，包括猛轰油门、回火声和反复引擎轰鸣，认为这些行为不仅不令人印象深刻，反而扰乱了公寓社区，影响远程工作者、幼儿家庭、退伍军人及需要休息的居民。该视频已获得超过 510 万次观看。",
+    "highlights_zh": [
+      "Camaro SS 车主收到匿名投诉信",
+      "邻居指责其故意制造噪音扰民",
+      "视频在 TikTok 上获 510 万次观看",
+      "信中称无人欣赏其改装车声浪"
+    ],
+    "entities": [
+      "雪佛兰 Camaro SS",
+      "佛罗里达",
+      "匿名信",
+      "噪音投诉",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kbgkv1/s1/florida-man-owns-a-camaro-ss.-then-one-day-he-notices-an-anonymous-letter-on-his-windshield.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:37.850Z"
+  },
+  "https://www.motor1.com/features/802891/why-brake-rotors-rust-overnight/": {
+    "title_zh": "刹车盘为何一夜生锈",
+    "summary_short": "刹车盘在雨后或洗车后几小时内就可能出现表面锈迹，通常无害，但需注意何时需要检修。",
+    "summary_long": "刹车盘在雨后、湿度高或洗车后，几小时内就可能出现橙色锈迹，这是因为大多数刹车盘由铸铁制成，容易氧化。这种表面锈迹通常无害，会在刹车时被磨掉。但如果锈蚀严重或长期不消除，则可能影响制动性能，需要检查或更换。",
+    "highlights_zh": [
+      "刹车盘几小时内就可能生锈",
+      "表面锈迹通常无害",
+      "锈蚀严重时需检修"
+    ],
+    "entities": [
+      "刹车盘",
+      "铸铁",
+      "锈蚀",
+      "制动性能"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WEX7p/s1/why-do-brake-rotors-rust.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:40.911Z"
+  },
+  "https://www.thedrive.com/news/take-a-look-at-indycars-first-new-racer-in-16-years": {
+    "title_zh": "IndyCar 16 年来首款全新赛车 IR28 发布",
+    "summary_short": "IndyCar 发布全新赛车 IR28，配备新混动系统，2028 赛季首战亮相。",
+    "summary_long": "IndyCar 发布了其 16 年来的首款全新赛车 IR28，该车由 Dallara 制造，将搭载本田和雪佛兰的 2.4 升混动 V6 发动机。新车采用全新的电池混动系统，容量是当前超级电容系统的约 14 倍，重量减轻 20 磅。同时，下一代 Xtrac 变速箱比现款轻 25 磅。IR28 将取代 DW12/IR18 底盘，计划于 2028 赛季首战登场。",
+    "highlights_zh": [
+      "IR28 是 IndyCar 16 年来首款全新赛车",
+      "新混动系统电池容量提升约 14 倍",
+      "混动系统减重 20 磅",
+      "2028 赛季首战亮相"
+    ],
+    "entities": [
+      "IndyCar",
+      "IR28",
+      "Dallara",
+      "本田 | Honda",
+      "雪佛兰"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IR-28-STUDIO-RENDERS-ROAD-COURSE-SHOT-3.png",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IR-28-STUDIO-RENDERS-SPEEDWAY-SHOT-2.png?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IR-28-STUDIO-RENDERS-SPEEDWAY-SHOT-1.png?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:41.077Z"
+  },
+  "https://www.motor1.com/news/802850/mazda-autozone-return/": {
+    "title_zh": "男子将旧马自达滤芯放入新盒，试图向 AutoZone 退款",
+    "summary_short": "一名马自达车主将用过的空调滤芯装回新包装盒，试图向 AutoZone 退款，引发关于退货欺诈的讨论。",
+    "summary_long": "一名马自达车主将用过的空调滤芯塞入新购买的 STP 滤芯包装盒，试图向 AutoZone 退款。该视频在社交媒体上获得超过 11.6 万次观看，揭露了汽车零部件零售中存在的退货欺诈现象。评论指出，部分顾客确实会退回旧零件，导致后续买家可能买到已使用的商品。",
+    "highlights_zh": [
+      "车主将旧滤芯放入新盒退款",
+      "视频揭露退货欺诈现象",
+      "AutoZone 员工称此类事件常见",
+      "涉及 2016 款马自达 CX-5"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "马自达 CX-5 | Mazda CX-5",
+      "AutoZone",
+      "STP",
+      "空调滤芯"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo782A/s1/man-goes-to-autozone-and-they-sell-him-used-part.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:44.257Z"
+  },
+  "https://insideevs.com/news/803019/mitsubishi-eclipse-sportback-battery-specs/": {
+    "title_zh": "三菱 Eclipse EV 更多细节曝光，今秋上市",
+    "summary_short": "三菱公布 2027 款 Eclipse Sportback EV 电池与充电规格，搭载 75kWh 电池，10-80%充电约 35 分钟，基于日产 Leaf 改造。",
+    "summary_long": "三菱公布了 2027 款 Eclipse Sportback EV 的电池与充电规格，该车搭载 75kWh 电池组，10-80%充电时间约 35 分钟，续航可达 303 英里。新车本质上是日产 Leaf 的换标版本，仅在前脸、尾灯等细节有所调整，外观更具攻击性。作为一款廉价电动车型，Eclipse EV 将于今年秋季上市，为市场提供更多经济型电动车选择。",
+    "highlights_zh": [
+      "75kWh 电池",
+      "10-80%充电约 35 分钟",
+      "基于日产 Leaf 换标改造",
+      "今秋上市"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "Eclipse Sportback EV",
+      "日产 | Nissan",
+      "Leaf"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2l877/s1/dsc07733-2.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:44.369Z"
+  },
+  "https://www.motor1.com/news/803012/dodge-teases-new-super-bee-video/": {
+    "title_zh": "道奇预告经典性能车系 Super Bee 回归",
+    "summary_short": "道奇发布预告视频，暗示经典性能车系 Super Bee 将于 8 月 8 日在 Roadkill Nights 活动上回归。",
+    "summary_long": "道奇发布了一段 15 秒的预告视频，暗示经典性能车系 Super Bee 即将回归。视频中一群蜜蜂聚集在直线加速赛灯旁，从黄灯变绿灯，但未展示车辆本身。原版 Super Bee 于 1968 年推出，是基于 Dodge Coronet 的经济型肌肉车，搭载大排量 V8 发动机。现代版 Super Bee 预计将成为当前 Charger 车系的一个选项，可能搭载双涡轮增压六缸发动机，具体形式尚不明确，预计于 2026 年 8 月 8 日在 Roadkill Nights 活动上正式亮相。",
+    "highlights_zh": [
+      "道奇发布预告视频",
+      "原版 Super Bee 于 1968 年推出",
+      "现代版 Super Bee 可能基于 Charger",
+      "预计 2026 年 8 月 8 日在 Roadkil…"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "Super Bee",
+      "Charger",
+      "Roadkill Nights"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zw89p/s1/dodge-super-bee.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:48.042Z"
+  },
+  "https://insideevs.com/news/802993/bmw-ix3-50k-production-milestone/": {
+    "title_zh": "宝马 iX3 已生产 5 万辆，需求近乎翻倍",
+    "summary_short": "宝马 iX3 在投产九个月内产量达 5 万辆，订单接近 10 万，需求强劲推动工厂提前增加班次。",
+    "summary_long": "宝马 iX3 作为首款 Neue Klasse 电动车型，在匈牙利德布勒森新工厂投产仅九个月即达成 5 万辆里程碑，创下宝马新工厂最快爬产纪录。然而产量仅满足约一半需求，订单已接近 10 万辆。宝马已将第二班次提前至 2026 年 2 月以应对超预期需求。iX3 凭借高效、精致且富有驾驶乐趣的表现，成为宝马最完整的电动车，美国起售价 61,500 美元，EPA 续航达 434 英里，支持 400 kW 快充。",
+    "highlights_zh": [
+      "九个月产量达 5 万辆",
+      "订单接近 10 万辆",
+      "第二班次提前至 2026 年 2 月",
+      "美国起售价 61"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3",
+      "Neue Klasse",
+      "德布勒森"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx88XQ/s1/bmw-ix3-xdrive-50.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:48.169Z"
+  },
+  "https://www.motor1.com/news/802974/shell-gas-prices/": {
+    "title_zh": "同一加油站同标号汽油价差 60 美分",
+    "summary_short": "一名宝马车主在壳牌加油站发现同一标号汽油价格相差 60 美分，引发热议。",
+    "summary_long": "近日，一名宝马车主在壳牌加油站发现，同一标号（93 号）汽油在不同加油泵上价格相差 60 美分，分别为每加仑 5.16 美元和 5.76 美元。该车主将视频上传至 TikTok，引发广泛关注。目前尚不清楚是加油站定价错误还是存在其他合理原因。",
+    "highlights_zh": [
+      "同一加油站同标号汽油价差 60 美分",
+      "宝马车主发现并拍摄视频上传 TikTok",
+      "93 号汽油价格分别为 5.16 和 5.76 美元…"
+    ],
+    "entities": [
+      "壳牌 | Shell",
+      "宝马 | BMW",
+      "TikTok",
+      "93 号汽油"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzgbl/s1/man-goes-to-the-shell-gas-station.-then-he-realizes-the-pumps-have-2-different-prices.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:51.449Z"
+  },
+  "https://www.motor1.com/news/803004/bmw-i4-convertible-rumored-2028/": {
+    "title_zh": "宝马或推电动敞篷车 i4 Convertible",
+    "summary_short": "宝马计划基于 Neue Klasse 平台推出 i4 敞篷版，填补电动敞篷车市场空白，预计 2028 年亮相。",
+    "summary_long": "据宝马博客报道，宝马正在开发 i4 Convertible 电动敞篷车，内部代号 NA3，将采用 Neue Klasse 平台、800 伏电气架构和第六代电池。该车保留传统软顶、四座双门设计，与燃油版 4 系敞篷车相似。同时，i4 Coupe（代号 NA2）也在研发中。i4 Convertible 将提供后驱和四驱版本，功率约 300 马力起，有望成为少数在售的电动敞篷车之一。",
+    "highlights_zh": [
+      "基于 Neue Klasse 平台",
+      "传统软顶、四座双门设计",
+      "后驱/四驱可选",
+      "预计 2028 年推出"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "i4 Convertible",
+      "Neue Klasse",
+      "电动敞篷车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPOKX/s1/2027-bmw-i3.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:52.313Z"
+  },
+  "https://www.thedrive.com/news/feds-bulk-order-250-cadillac-escalades-so-the-secret-service-can-ride-in-style": {
+    "title_zh": "美国政府批量订购 250 辆凯迪拉克凯雷德，特勤局出行更拉风",
+    "summary_short": "美国总统特朗普宣布为特勤局订购 250 辆凯迪拉克凯雷德，总价值或超 2250 万美元，部分可能为装甲版。",
+    "summary_long": "美国总统特朗普在通用汽车工厂发表讲话时透露，政府已订购 250 辆凯迪拉克凯雷德用于特勤局。去年 3 月，美国特勤局曾展示一款基于重型底盘打造的凯雷德概念车，同时通用汽车赢得一份价值 1480 万美元的总统专车合同。此次订购的车辆可能包含装甲版本，单价或超 30 万美元，总价值至少 2250 万美元。",
+    "highlights_zh": [
+      "特朗普宣布订购 250 辆凯雷德",
+      "总价值或超 2250 万美元",
+      "部分可能为装甲版",
+      "基于重型卡车底盘打造"
+    ],
+    "entities": [
+      "凯迪拉克 | Cadillac",
+      "凯雷德 | Escalade",
+      "特勤局",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/escalade-hero1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IR-28-STUDIO-RENDERS-ROAD-COURSE-SHOT-3.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:55.757Z"
+  },
+  "https://insideevs.com/news/803000/bya-racco-ev-kei-car-japan/": {
+    "title_zh": "比亚迪首款 Kei Car 进军日本市场",
+    "summary_short": "比亚迪推出 Racco 电动 Kei Car，续航和配置超越日产、本田等对手，挑战日本本土车企主导地位。",
+    "summary_long": "比亚迪在日本市场推出首款 Kei Car——Racco，该车专为日本狭窄街道设计，提供两种 LFP 电池选项，最大续航达 199 英里（WLTP），超越日产 Sakura 等竞品。Racco 支持 100kW 直流快充，配置丰富，旨在打破丰田等传统车企在 Kei Car 领域的垄断。比亚迪去年在日销量仅 3000 余辆，而日本 Kei Car 年销量达 160 万辆，Racco 有望助其提升市场份额。",
+    "highlights_zh": [
+      "比亚迪 Racco 续航 199 英里",
+      "支持 100kW 快充",
+      "专为日本市场设计",
+      "提供两种 LFP 电池选项"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "Racco",
+      "日产 | Nissan",
+      "丰田 | Toyota",
+      "Kei Car"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/QebNvN/s1/byd-racco-kei-car-auf-der-japan-mobility-show-2025.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:56.009Z"
+  },
+  "https://www.thedrive.com/news/riding-with-paganis-test-driver-in-a-utopia-roadster-ruined-me-for-life": {
+    "title_zh": "乘坐帕加尼测试车手的 Utopia Roadster，我被彻底宠坏了",
+    "summary_short": "乘坐帕加尼测试车手驾驶的 Utopia Roadster，体验 V12 超跑的纯粹机械与情感，令人难以忘怀。",
+    "summary_long": "乘坐帕加尼测试车手驾驶的 Utopia Roadster，体验了这款搭载 6.0 升双涡轮增压 V12 发动机、输出 864 马力和 811 磅-英尺扭矩的超级跑车。测试车手 Matteo 拥有十多年经验，他不仅负责开发测试，还参与品牌活动。这次乘坐经历让人深刻感受到帕加尼在工艺、设计和灵魂上的独特之处，性能并非唯一追求，机械的纯粹性和情感传递才是核心。",
+    "highlights_zh": [
+      "帕加尼 Utopia Roadster 搭载 6.0…",
+      "864 马力和 811 磅-英尺扭矩",
+      "测试车手 Matteo 拥有十多年经验",
+      "帕加尼注重机械纯粹性和情感传递"
+    ],
+    "entities": [
+      "帕加尼 | Pagani",
+      "Utopia Roadster",
+      "V12 发动机",
+      "测试车手"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/pagani-jerry-perez-the-drive-2.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/pagani-jerry-perez-the-drive-1.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:59.402Z"
+  },
+  "https://www.motor1.com/news/802997/mercedes-amg-gt-black-series-spied-v8-engine/": {
+    "title_zh": "梅赛德斯-AMG GT Black Series 谍照曝光：大尾翼与 V8 声浪",
+    "summary_short": "梅赛德斯-AMG GT Black Series 原型车在西班牙路试，配备大尾翼和 V8 发动机，将是史上最激进的 Black Series 车型。",
+    "summary_long": "梅赛德斯-AMG GT Black Series 原型车在西班牙公共道路上被拍到测试，视频展示了其夸张的空气动力学套件和 V8 发动机声浪。该车拥有突出的前唇、发动机盖进气口、侧裙大通风口和侧出排气，尾部配备鹅颈式大尾翼和巨大扩散器。梅赛德斯此前已确认该车将是史上最“激进”和“极端”的 Black Series 车型，并作为下一代 GT3 赛车的 homologation 版本。",
+    "highlights_zh": [
+      "原型车配备大尾翼和侧出排气",
+      "V8 发动机声浪被捕捉",
+      "将是史上最激进的 Black Series",
+      "作为下一代 GT3 赛车的 homologation…"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "AMG GT Black Series",
+      "V8 发动机",
+      "GT3 赛车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJOe1/s1/mercedes-amg-gt-black-series.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:36:59.791Z"
+  },
+  "https://www.thedrive.com/news/mercedes-china-ban-threat-ceo-response": {
+    "title_zh": "梅赛德斯 CEO：不打算被赶出美国市场",
+    "summary_short": "梅赛德斯 CEO 表示将保护美国业务，应对因中国投资超 15%可能被禁的风险，并考虑增加美国制造投资。",
+    "summary_long": "梅赛德斯 CEO Ola Källenius 在 Q2 财报电话会议上表示，公司无意退出美国市场，将调整以符合法规，保护美国业务。美国是梅赛德斯当前最强销售区域，Q2 销量增长 10%，而中国销量暴跌 30%。公司正与官员深入沟通，可能增加美国制造投资，包括新建发动机工厂，但取决于 USMCA 谈判结果。",
+    "highlights_zh": [
+      "美国是梅赛德斯最强销售区域",
+      "Q2 美国销量增长 10%",
+      "CEO 称将调整以符合法规",
+      "可能新建发动机工厂"
+    ],
+    "entities": [
+      "梅赛德斯 | Mercedes",
+      "Ola Källenius",
+      "美国",
+      "中国",
+      "USMCA"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-695755168.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/IR-28-STUDIO-RENDERS-ROAD-COURSE-SHOT-3.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:37:02.635Z"
+  },
+  "https://www.motor1.com/features/802989/best-new-cars-2027/": {
+    "title_zh": "2027 年最值得期待的新车",
+    "summary_short": "2027 年将迎来多款重磅新车，包括丰田 Celica/MR2 复活、Genesis Magma GT、宝马 Alpina 轿车及电动 M3 等。",
+    "summary_long": "2027 年汽车制造商将迎来异常忙碌的一年，多款备受期待的车型即将上市。从丰田 Celica/MR2、日产 Skyline 等经典车型的复活，到 Genesis Magma GT 等全新旗舰，以及现代 Tucson、马自达 CX-5 Hybrid 等实用选择，阵容丰富。宝马旗下 Alpina 将推出首款车型，搭载 V8 发动机，功率超 600 马力。下一代宝马 M3 将同时提供燃油和电动版本，电动版性能更强。",
+    "highlights_zh": [
+      "丰田 Celica/MR2 复活",
+      "Genesis Magma GT 旗舰",
+      "宝马 Alpina 首款车型",
+      "电动 M3 性能更强"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Genesis",
+      "宝马 | BMW",
+      "Alpina",
+      "M3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/lEGXn1/s1/best-new-cars-2027.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T03:37:02.948Z"
   }
 }

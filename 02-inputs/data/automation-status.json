@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-28T15:36:55.078Z",
+    "generated_at": "2026-07-29T03:35:47.193Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 371,
-    "deepseek_untranslated_before_run": 29,
-    "newly_fetched_articles": 29,
-    "newly_fetched_untranslated": 29,
+    "deepseek_translated_before_run": 359,
+    "deepseek_untranslated_before_run": 41,
+    "newly_fetched_articles": 41,
+    "newly_fetched_untranslated": 41,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 29,
+    "translation_queue_count": 41,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.28",
-        "title": "It Sure Looks Like the Dodge Charger Super Bee Is Coming Back With a Turbocharged Inline-Six",
-        "url": "https://www.thedrive.com/news/it-sure-looks-like-the-dodge-charger-super-bee-is-coming-back-with-a-turbocharged-inline-six"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.28",
-        "title": "Spied: BMW i4 Convertible Confirms EV Droptops Are Going Mainstream",
-        "url": "https://www.thedrive.com/news/2028-bmw-i4-cabrio-spy-shots"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.28",
-        "title": "Toyota's New TRD Pro Paint Is Sweet As Honey",
-        "url": "https://www.motor1.com/news/802964/toyota-tundra-sequoia-trd-pro-updates/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.28",
-        "title": "Ford Will Battle GM for US Army Truck Contract: TDS",
-        "url": "https://www.thedrive.com/news/ford-will-battle-gm-for-us-army-truck-contract-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.28",
-        "title": "Watch: Mercedes-AMG GT Prototype Catches Fire During Testing",
-        "url": "https://www.motor1.com/news/802864/amg-gt-prototype-catches-fire/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.28",
-        "title": "Toyota Keeps the Bold Colors Coming With New Yellow TRD Pro Paint",
-        "url": "https://www.thedrive.com/news/toyota-keeps-the-bold-colors-coming-with-new-yellow-trd-pro-paint"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "「ナイトレースの雰囲気が最高」フォーミュラE東京大会、初の夜開催にSNSでの反応は",
-        "url": "https://response.jp/article/2026/07/28/414590.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "「渋谷松濤BMW」、7月29日開業へ…東日本唯一のBMW Mモータースポーツ・ディーラー",
-        "url": "https://response.jp/article/2026/07/28/414596.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "【ルノー アルカナ 250km試乗】「伊達グルマ」では終わらない、GT級シャシーに驚いた",
-        "url": "https://response.jp/article/2026/07/28/414593.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "BYDの軽EV『RACCO』、5月30日から全国展示キャラバンへ…発売は今夏",
-        "url": "https://response.jp/article/2026/05/22/411667.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "Catena-X、中国と欧州をつなぐ世界初の越境自動車データ基盤を構築…2027年EUバッテリー規制に対応",
-        "url": "https://response.jp/article/2026/07/28/414577.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "DMPが「東京ロボティクス・イノベーションセンター」開所 フィジカルAI社会実装を加速",
-        "url": "https://response.jp/article/2026/07/28/414579.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "HKSが86.0ピストンリング「TYPE-LF」を更新、FA20・RB26・SR20対応製品に採用",
-        "url": "https://response.jp/article/2026/07/28/414594.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "V2G技術、米マサチューセッツ州で実証実験…5社が共同プロジェクト始動",
-        "url": "https://response.jp/article/2026/07/28/414581.html"
+        "time": "2026.7.29",
+        "title": "「クロスオーバー」の具体的な使いこなし術を徹底解説！「イン・カー・リスニング学…チューニング編］",
+        "url": "https://response.jp/article/2026/07/29/414617.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.28",
-        "title": "アクアは全長4080mmの小さな高級車か？ デザイン刷新で変わった“見え方”を考える",
-        "url": "https://bestcarweb.jp/feature/column/1570988"
+        "time": "2026.7.29",
+        "title": "「新型セリカ」想像以上にヤバかった！ 400馬力ターボで別次元の走り!? 開発車試乗で見えた実力",
+        "url": "https://bestcarweb.jp/feature/column/1572897"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "オリックス自動車など3社、カーシェア実証実験…福井市で8月1日開始",
-        "url": "https://response.jp/article/2026/07/28/414583.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.28",
-        "title": "ガソリンvsハイブリッド！ ステップワゴン1.5Lターボとe:HEVは何キロ走れば元が取れるのか!?",
-        "url": "https://bestcarweb.jp/feature/column/1576564"
+        "time": "2026.7.29",
+        "title": "「日本導入されたら欲しい」インドで発表、スズキのコンパクトSUV『ブレッツァ』がSNSで話題に",
+        "url": "https://response.jp/article/2026/07/29/414619.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.28",
-        "title": "ケンウッド「ミラレコ」新モデル『DRV-X80EM』発売、56fpsリアカメラと2WAY取り付けに対応",
-        "url": "https://response.jp/article/2026/07/28/414592.html"
+        "time": "2026.7.29",
+        "title": "【レスポンスカンファレンス2026】10年後の自動運転社会はどうなる？ 官民トップランナーがパネルディスカッションで語る「日本の勝ち筋」",
+        "url": "https://response.jp/article/2026/07/29/414606.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.28",
-        "title": "センターキャップレス×懐の深さで魅せるシックな美学!! ワーク「マイスターS1」の圧倒的なフレキシブルさ",
-        "url": "https://bestcarweb.jp/news/car-accessory/1586208"
+        "time": "2026.7.29",
+        "title": "12万1000円の価格差はどこにある!? 新型アトレーのグレード「X」と「RS」の装備差をガチ検証",
+        "url": "https://bestcarweb.jp/feature/column/1578801"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.28",
-        "title": "デカいクルマはもうしんどい…今さら!? いや、今こそ「現役5ナンバー車」だ！",
-        "url": "https://bestcarweb.jp/feature/column/1579393"
+        "time": "2026.7.29",
+        "title": "3列目床下収納の破壊力がすごい！ ステップワゴンのシートアレンジと純正アクセサリーで楽しむ快適車中泊！",
+        "url": "https://bestcarweb.jp/feature/column/1576556"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.29",
+        "title": "5ナンバーを守るエアーか迫力のクロスターか!? ホンダ フリードの2つの顔を徹底比較",
+        "url": "https://bestcarweb.jp/feature/column/1585515"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "AIロボット1000万台、政府が描く「AIロボティクス戦略」とは？…デロイト「ロボティクス・フィジカルAI戦略最前線フォーラム」",
+        "url": "https://response.jp/article/2026/07/29/414615.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "Apple Maps、フォードの次世代EVに2027年車載化へ…自然言語によるナビや電動車向けルーティングが可能に",
+        "url": "https://response.jp/article/2026/07/29/414612.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "Doup Roboticsの自律搬送ロボットが米国進出へ…JETRO「GSAP 2026」に採択",
+        "url": "https://response.jp/article/2026/07/29/414613.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "NX中国、北京の国際サプライチェーン博覧会に出展…汎アジア戦略を軸に物流ソリューション提案",
+        "url": "https://response.jp/article/2026/07/29/414608.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.29",
+        "title": "アマゾンランキング1位!! 3秒で付けられるチャイルドシート遮熱カバーで酷暑から子供を守れ!!",
+        "url": "https://bestcarweb.jp/news/1588924"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.29",
+        "title": "スカイラインの進化がスゴい！ 直6を捨てた11代目から400Rまで!! V6搭載で築いた新時代とは",
+        "url": "https://bestcarweb.jp/feature/column/1572669"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.29",
+        "title": "ターボ×CVTの軽バン頂上決戦！ スズキ エブリイワゴン vs ダイハツ アトレー、大人の秘密基地にするならどっち!?",
+        "url": "https://bestcarweb.jp/feature/column/1576806"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "テスラの急速充電「スーパーチャージャー」、熊本地震で九州エリアを無償開放",
+        "url": "https://response.jp/article/2026/07/29/414621.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "ドイツの電池メーカー「ヴァルタ」、破産申請…主要顧客による取引終了などが影響",
+        "url": "https://response.jp/article/2026/07/29/414616.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "トヨタ・モビリティ基金、米国・インド・イタリアで都市モビリティ課題解決のイノベーターを最終選定",
+        "url": "https://response.jp/article/2026/07/29/414607.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.29",
+        "title": "ハリアーの中古車は今が狙い目？ 現行型を新車で買うか中古で買うか問題",
+        "url": "https://bestcarweb.jp/feature/column/1539462"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.29",
+        "title": "ブリッツのレーザー＆レーダー探知機『Touch-LASER』向けGPSデータ、7月分を無料配信開始",
+        "url": "https://response.jp/article/2026/07/29/414618.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.29",
+        "title": "ゆる〜いカーブは元・鉄道線路の証? 新潟県を走った旧国鉄魚沼線の面影をバスで見に行く!!",
+        "url": "https://bestcarweb.jp/busmagazine/1585123"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30374206771",
-    "sha": "345d89e1bd2c4c8e2864ccae6b50b3b0f448c99c",
-    "completed_at": "2026-07-28T15:37:54.306Z",
+    "run_id": "30419978203",
+    "sha": "6272d67dce81859e0c0a5ad6496292095d0fe917",
+    "completed_at": "2026-07-29T03:37:03.205Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 29,
-    "queued_articles": 29,
-    "processed": 29,
-    "started_at": "2026-07-28T15:36:55.413Z",
-    "finished_at": "2026-07-28T15:37:54.028Z",
+    "scoped_articles": 41,
+    "queued_articles": 41,
+    "processed": 41,
+    "started_at": "2026-07-29T03:35:47.454Z",
+    "finished_at": "2026-07-29T03:37:02.966Z",
     "success": true,
     "error": ""
   }
