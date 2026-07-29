@@ -93488,5 +93488,786 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-29T03:37:02.948Z"
+  },
+  "https://www.thedrive.com/news/get-25-off-the-perfect-car-vacuum-for-pet-owners": {
+    "title_zh": "宠物车主必备：Bissell 地毯清洁器 25%折扣",
+    "summary_short": "Bissell Little Green Max Pet SmartMix 地毯清洁器降至 119.99 美元，专为宠物毛发设计，折扣 25%。",
+    "summary_long": "Bissell Little Green Max Pet SmartMix 地毯清洁器从 159.99 美元降至 119.99 美元，折扣 25%。该设备专为去除宠物毛发设计，具有强大的提取能力，能有效清洁汽车地毯和内饰。作者分享了自己宠物狗掉毛的困扰，并推荐此产品作为解决方案。",
+    "highlights_zh": [
+      "折扣 25%",
+      "专为宠物毛发设计",
+      "强大提取能力"
+    ],
+    "entities": [
+      "Bissell"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/carpet-cleaner-hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/bissell.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:24.734Z"
+  },
+  "https://www.motor1.com/news/803110/chevrolet-equinox-ev-second-generation/": {
+    "title_zh": "雪佛兰 Equinox EV 即将换代",
+    "summary_short": "雪佛兰 Equinox EV 上市仅两年就计划换代，2029 年将基于全新 BEV-N 平台推出第二代车型，旨在降低成本并优化布局。",
+    "summary_long": "雪佛兰 Equinox EV 刚刚进入市场，通用汽车已计划推出第二代车型。第二代 Equinox EV 预计在 2028 年底或 2029 年初亮相，作为 2029 年款上市，这意味着第一代车型的生产周期仅约两年。新车将从当前的 BEV3 平台转向全新的 BEV-N 专用电动平台，通用汽车希望通过这一转变重新设计其平价电动车的工程和制造方式，以降低成本并改善空间布局。这一决定正值雪佛兰电动车型销量波动之际，Bolt EV 销量回升，而 Equinox EV 需求在初期快速增长后有所降温。",
+    "highlights_zh": [
+      "第二代 Equinox EV 预计 2029 年上市",
+      "基于全新 BEV-N 平台打造",
+      "第一代车型生产周期仅约两年",
+      "旨在降低成本和优化布局"
+    ],
+    "entities": [
+      "通用汽车",
+      "雪佛兰 | Chevrolet",
+      "Equinox EV",
+      "Bolt EV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkq011/s1/2025-chevrolet-equinox-ev-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:26.157Z"
+  },
+  "https://www.thedrive.com/news/777-hp-ram-rumble-bee-srt-hellcat-street-truck-starts-just-under-100k": {
+    "title_zh": "777 马力 Ram Rumble Bee SRT Hellcat 街头卡车起售价不到 10 万美元",
+    "summary_short": "Ram 推出 Rumble Bee 系列肌肉卡车，入门版 62,790 美元，SRT 版 777 马力售价 97,790 美元。",
+    "summary_long": "Ram 推出 Rumble Bee 系列肌肉卡车，包含三个版本：基础版搭载 5.7 升 Hemi V8 发动机，395 马力，售价 62,790 美元；Rumble Bee 392 搭载 6.4 升 Hemi V8，470 马力，售价 72,790 美元；顶级 SRT 版本搭载机械增压 6.2 升 Hellcat V8，777 马力，售价 97,790 美元。所有车型均采用缩短 13 英寸的独特车架，SRT 版配备 Bilstein Damptronic Sky 半主动减震器。",
+    "highlights_zh": [
+      "基础版 395 马力",
+      "392 版 470 马力",
+      "SRT 版 777 马力",
+      "车架缩短 13 英寸"
+    ],
+    "entities": [
+      "Ram",
+      "Rumble Bee",
+      "SRT",
+      "Hellcat",
+      "Hemi"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Ram-Rumble-Bee-SRT-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/RM027_097FN.jpg?strip=all&amp%3Bw=2048",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/RM027_137FN.jpg?strip=all&amp%3Bw=2048"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:27.998Z"
+  },
+  "https://www.motor1.com/news/803105/bmw-off-road-suv-not-approved-production/": {
+    "title_zh": "宝马越野 SUV 可能不会量产",
+    "summary_short": "宝马尚未批准其奔驰 G 级竞争对手的越野 SUV 量产，该项目可能被取消。",
+    "summary_long": "宝马的奔驰 G 级竞争对手——一款硬派越野 SUV，据称未获得最终量产批准，可能被取消。宝马从未正式确认生产该车型，但曾多次暗示。宝马 M 部门负责人曾表示不反对推出高性能 M 越野 SUV，去年也有报道称宝马在认真考虑开发专用越野车。该车原计划基于升级版 X5 平台，内部代号 G74，被视为 XM 旗舰车型的精神继承者。",
+    "highlights_zh": [
+      "宝马越野 SUV 未获量产批准",
+      "项目可能被取消",
+      "原计划基于 X5 平台",
+      "被视为 XM 精神继承者"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "奔驰 | Mercedes-Benz",
+      "G 级",
+      "X5",
+      "XM"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAqqEl/s1/2025-bmw-x5-with-off-road-package-review---exterior-24.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:29.898Z"
+  },
+  "https://www.thedrive.com/news/theres-a-debate-raging-on-americas-best-driving-roads": {
+    "title_zh": "美国最佳驾驶道路之争：技术 vs 安全",
+    "summary_short": "关于美国最佳驾驶道路的争论：技术高超的驾驶者是否就能掌控一切？幸存者偏差与安全意识的碰撞。",
+    "summary_long": "美国最佳驾驶道路引发激烈争论。一方认为，像安吉利斯克雷斯特、龙尾等道路属于技术高超的驾驶者，他们凭借熟练技巧可以安全高速行驶。另一方则指出，幸存者偏差让这些驾驶者忽视了潜在危险——即使从未出事，也无法保证永远安全。The Drive 主编在视频中回顾了自称峡谷车手的 Evan Sawyer 与职业赛车手 Cort Wagner 之间的冲突，Sawyer 因驾驶者越线而竖中指，Wagner 则持不同观点。这场辩论揭示了驾驶文化中攻击性与安全性的平衡难题。",
+    "highlights_zh": [
+      "美国最佳驾驶道路引发技术 vs 安全之争",
+      "幸存者偏差让驾驶者高估自身能力",
+      "峡谷车手与职业赛车手的理念冲突",
+      "攻击性与安全性的平衡是驾驶文化核心"
+    ],
+    "entities": [
+      "The Drive",
+      "安吉利斯克雷斯特",
+      "龙尾",
+      "Evan Sawyer",
+      "Cort Wagner"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Vfbnagktvm0-HD.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-163524.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-163447.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:32.095Z"
+  },
+  "https://www.motor1.com/news/803020/porsche-963-retro-liveries-road-america/": {
+    "title_zh": "保时捷推出两款复古涂装致敬赛车历史",
+    "summary_short": "保时捷为庆祝赛车运动 75 周年，为 963 原型车推出两款复古涂装，分别致敬 1970 年代的 917/30 和 2000 年代的 RS Spyder。",
+    "summary_long": "保时捷为参加 IMSA WeatherTech 跑车锦标赛的 963 原型赛车推出两款特别复古涂装，以庆祝品牌赛车运动 75 周年。6 号车采用 1970 年代 Sunoco 917/30 的深蓝底色配黄色驾驶舱和轮拱，7 号车则借鉴 2000 年代 RS Spyder 的全黄色配红色点缀。这两款涂装将在本周末的 Road America 赛道亮相，也是 Penske 车队 60 周年纪念的一部分。",
+    "highlights_zh": [
+      "6 号车致敬 1970 年代 917/30",
+      "7 号车灵感来自 2000 年代 RS Spyder",
+      "Penske 车队同时庆祝 60 周年",
+      "两款涂装首次同时出现在 963 赛车上"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Porsche 963",
+      "Porsche 917/30",
+      "Porsche RS Spyder",
+      "Penske"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJk9b/s1/porsche-963-prototype-livery.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:33.522Z"
+  },
+  "https://www.thedrive.com/car-reviews/2026-gmc-sierra-ev-denali-review": {
+    "title_zh": "2026 款 GMC Sierra EV Denali Max Range 评测：目前我最喜欢的电动车",
+    "summary_short": "GMC Sierra EV Denali Max Range 拥有超 400 英里续航和强劲充电速度，是 GM Ultium 平台电动卡车中的最佳选择。",
+    "summary_long": "2026 款 GMC Sierra EV Denali Max Range 是通用汽车 Ultium 平台电动卡车中的佼佼者。这款售价约 10 万美元的豪华电动皮卡拥有超过 400 英里的续航里程和出色的充电速度，在长途旅行中几乎不牺牲便利性。虽然它并非为农业工作设计，但其巨大的货箱、强大的牵引能力和舒适的驾乘体验，使其成为追求舒适巡航并偶尔重载用户的理想选择。空气悬架版本提供了极为舒适的行驶质感，而六位数的价格在高端卡车市场中已不再令人惊讶。",
+    "highlights_zh": [
+      "续航超 400 英里",
+      "货箱巨大",
+      "空气悬架带来极致舒适",
+      "豪华配置"
+    ],
+    "entities": [
+      "GMC",
+      "Sierra EV",
+      "Denali",
+      "Ultium"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GMC-Sierra-EV_ext-IMG_1306.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GMC-Sierra-EV_ext-IMG_1231.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GMC-Sierra-EV_cargo-hauling-IMG_1217.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:36.142Z"
+  },
+  "https://www.motor1.com/news/803077/zeekr-9x-price-info/": {
+    "title_zh": "极氪 9X：中国最新豪华 SUV 挑战德系对手",
+    "summary_short": "极氪 9X 旗舰 SUV 瞄准大型豪华 SUV 市场，采用瑞典设计、超级混动系统与 900 伏架构，主打六座布局与 lounge 式座舱。",
+    "summary_long": "极氪 9X 是极氪品牌的全新旗舰 SUV，由前宾利和奥迪设计总监 Stefan Sielaff 领导的团队在瑞典哥德堡全球设计中心开发，旨在融合中国技术与欧洲审美。车身长度超过 5.24 米，轴距 3.17 米，采用六座布局，内饰强调 lounge 式豪华体验。动力方面搭载极氪超级混动系统与 900 伏电气架构，直接对标西方大型豪华 SUV。定价尚未公布。",
+    "highlights_zh": [
+      "瑞典设计",
+      "车长超 5.24 米",
+      "超级混动+900 伏架构",
+      "直指大型豪华 SUV 市场"
+    ],
+    "entities": [
+      "极氪",
+      "极氪 9X | Zeekr 9X",
+      "Stefan Sielaff",
+      "超级混动系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1Zw8WL/s1/zeekr-9x.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:37.347Z"
+  },
+  "https://www.thedrive.com/news/bmws-g-wagen-fighter-may-not-be-happening-after-all-tds": {
+    "title_zh": "宝马 G 级竞争者可能不会发生",
+    "summary_short": "宝马首款硬派越野 SUV 项目尚未获批，架构从纯电改为插混，若两年内不落地或将悄然消失。",
+    "summary_long": "据新报告援引匿名消息人士，宝马计划已久、对标奔驰 G 级的硬派越野 SUV 项目仍未获得最终批准。该项目在开发过程中曾变更架构，从纯电动转为与新一代 X5 同平台，并增加了插电混动选项。然而，所有这些尚未得到高层首肯，宝马也从未公开承认该车型。如果未来两年内未能落地，该项目很可能悄无声息地流产。",
+    "highlights_zh": [
+      "宝马硬派越野 SUV 项目尚未获批",
+      "架构从纯电改为插混",
+      "宝马从未公开承认该车型",
+      "若两年内不落地或将悄然消失"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "奔驰 | Mercedes-Benz",
+      "G 级 | G-Wagen",
+      "X5"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/P90646994_highRes_the-new-bmw-x5-and-i.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Hagerty-Agreed-Value-Hero.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:39.173Z"
+  },
+  "https://www.motor1.com/news/803016/apollo-hypercar-brand-rebuilding-interview/": {
+    "title_zh": "被遗忘的超跑品牌 Apollo 计划卷土重来",
+    "summary_short": "Apollo 在古德伍德速度节交付首台 Evo 超跑，宣告品牌重生，计划生产 10 台。",
+    "summary_long": "沉寂多年的超跑品牌 Apollo 在 2026 年古德伍德速度节上交付了首台 Apollo Evo，标志着品牌重生。此前，Apollo 曾推出 IE 车型，但随后淡出公众视野，期间经历了所有权变更和战略调整。公司首席产品官 Marko Konta 透露了 Evo 的细节及未来规划。Apollo Evo 限量 10 台，售价数百万美元，性能卓越。",
+    "highlights_zh": [
+      "交付首台 Apollo Evo",
+      "限量 10 台",
+      "品牌经历所有权变更后重生",
+      "计划推出更多车型"
+    ],
+    "entities": [
+      "Apollo",
+      "Apollo Evo",
+      "Gumpert Apollo",
+      "Apollo Intenza Emozione",
+      "古德伍德速度节"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N4oBE/s1/apollo-evo-hypercar-goodwood.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:41.098Z"
+  },
+  "https://insideevs.com/news/803094/hongqi-four-minute-charging-test/": {
+    "title_zh": "中国电动车充电竞赛突破四分钟大关",
+    "summary_short": "红旗与力神电池合作开发的实验性电池在 25°C 下从 10%充至 70%仅需 3 分 41 秒，峰值充电速率达 12C。",
+    "summary_long": "继去年中国首次实现五分钟快充后，一汽集团旗下红旗品牌与力神电池合作开发出充电速率达 12C 的实验性电池，在 25°C 测试条件下从 10%充至 70%仅需 3 分 41 秒，从 10%充至 97%用时 8 分 3 秒。该电池通过新型阳极、电解液和碳涂层工艺降低内阻，并采用液冷系统控制温差。一汽此前曾宣布开发 1000V 架构以实现 5 分钟充至 80%，两项技术可能关联。目前电池容量、峰值功率及量产时间尚未公布。",
+    "highlights_zh": [
+      "10%至 70%充电仅 3 分 41 秒",
+      "峰值充电速率达 12C",
+      "新型阳极与电解液降低内阻",
+      "液冷系统控制温差在 5.4°F 内"
+    ],
+    "entities": [
+      "红旗",
+      "一汽集团",
+      "力神电池",
+      "12C 充电速率",
+      "1000V 架构"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/wlWVqL/s1/faw-hongqi-ehs7.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:43.725Z"
+  },
+  "https://www.motor1.com/news/803062/2027-ram-rumble-bee-pricing/": {
+    "title_zh": "2027 款 Ram Rumble Bee 定价：最便宜与最贵版本差价 3.5 万美元",
+    "summary_short": "Ram 公布 2027 款 Rumble Bee 系列定价，基础版 6.29 万美元，顶配 SRT 达 9.78 万美元，提供三种动力选项。",
+    "summary_long": "Ram 公布了 2027 款 1500 Rumble Bee 系列的全部定价，基础版起价 62,790 美元（含运费），搭载 5.7 升 Hemi V8 发动机，最大功率 395 马力。Rumble Bee 392 售价增加 1 万美元，换装 6.4 升 V8 发动机，功率 470 马力。再加 1 万美元可选装 Track Pack，包含弹射起步和电子差速锁。顶配 Rumble Bee SRT 售价 97,790 美元，搭载 6.2 升机械增压 Hellcat V8 发动机，比 TRX 仅低 5000 美元。",
+    "highlights_zh": [
+      "基础版 62",
+      "提供 5.7L、6.4L V8 及 6.2L 机械增…",
+      "Track Pack 含弹射起步和电子差速锁",
+      "SRT 版比 TRX 便宜 5000 美元"
+    ],
+    "entities": [
+      "Ram",
+      "Rumble Bee",
+      "TRX",
+      "SRT",
+      "Hemi V8"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJgEV/s1/2027-ram-1500-rumble-bee-srt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:45.367Z"
+  },
+  "https://response.jp/article/2026/07/29/414651.html": {
+    "title_zh": "雷克萨斯 RX 大幅改良？谍照引发热议",
+    "summary_short": "雷克萨斯 RX 即将迎来大幅改良，涉及外观和内饰升级，SNS 上关注度高涨。",
+    "summary_long": "雷克萨斯主力 SUV RX 正在开发大幅改良版本，旨在提升商品力并展示下一代 SUV 方向。欧洲谍照显示前脸和内饰将更新，可能采用新设计语言、大型格栅、LED 灯组，以及类似新款 ES 和 NX 的座舱布局。这是 2022 年推出的第五代 RX 首次重大改款。",
+    "highlights_zh": [
+      "雷克萨斯 RX 大幅改良开发中",
+      "前脸和内饰预计全面更新",
+      "采用新设计语言与大型格栅",
+      "座舱或参考新款 ES 和 NX"
+    ],
+    "entities": [
+      "雷克萨斯 | Lexus",
+      "RX",
+      "ES",
+      "NX",
+      "大幅改良"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230849.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230849.jpg",
+      "https://response.jp/imgs/fill2/2230850.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:48.028Z"
+  },
+  "https://response.jp/article/2026/07/29/414644.html": {
+    "title_zh": "CARTUNE 首次举办全车型聚会",
+    "summary_short": "汽车社区 CARTUNE 将于 9 月 13 日在神户三田举办首次全车型聚会，不限车种与改装风格。",
+    "summary_long": "汽车社区 CARTUNE 宣布将于 2026 年 9 月 13 日在神户三田 Premium Outlets 举办首次全车型聚会“CARTUNE ALL USERS MEET”。该活动不限车种与改装风格，旨在为所有 CARTUNE 用户提供交流平台。此前 CARTUNE 曾举办过主题性聚会，此次为首次面向全体用户的全车型活动。",
+    "highlights_zh": [
+      "首次全车型聚会",
+      "9 月 13 日神户三田举办",
+      "不限车种与改装风格",
+      "用户交流与购物美食体验"
+    ],
+    "entities": [
+      "CARTUNE",
+      "神户三田 Premium Outlets"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230926.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230926.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:48.429Z"
+  },
+  "https://response.jp/article/2026/07/29/414649.html": {
+    "title_zh": "JAOS 为铃木吉姆尼诺马德推出后运动扰流板，支持后驻车传感器",
+    "summary_short": "JAOS 为铃木吉姆尼诺马德推出后运动扰流板，支持后驻车传感器，无需改装线路。",
+    "summary_long": "JAOS 为铃木吉姆尼诺马德（JC74 1 型）推出后运动扰流板，基于吉姆尼 Sierra 版本开发，采用动态设计以优化离去角，配备 ECE 认证圆形四灯尾灯。产品预留后驻车传感器安装孔，标配 LED 后雾灯，采用即插即用连接器，无需改动原车线路。未涂装版售价 107,800 日元，哑光黑版 125,400 日元，耐久黑版 143,000 日元。",
+    "highlights_zh": [
+      "基于吉姆尼 Sierra 版开发",
+      "预留后驻车传感器孔位",
+      "即插即用",
+      "三种涂装可选"
+    ],
+    "entities": [
+      "JAOS",
+      "铃木 | Suzuki",
+      "吉姆尼诺马德",
+      "吉姆尼 Sierra"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230951.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230951.jpg",
+      "https://response.jp/imgs/fill2/2231051.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:51.748Z"
+  },
+  "https://response.jp/article/2026/07/29/414648.html": {
+    "title_zh": "铃木吉姆尼诺马德新型试驾：已进化至“2 型”，让人心生向往",
+    "summary_short": "铃木吉姆尼诺马德因订单爆满一度停售，2026 年 7 月终于举办媒体试驾会，新车已进化至 2 型。",
+    "summary_long": "铃木吉姆尼诺马德于 2025 年 1 月发布，原定 4 月开售，但因订单过多于 2 月停止接单，直至 2026 年 1 月才恢复。为应对需求，铃木将月产量从 1200 台提升至约 3300 台。该车基于吉姆尼 Sierra 的机械部件，轴距加长 340mm，车身长度同步增加，主要扩展了行李厢空间。2026 年 7 月，媒体试驾会终于举办，试驾者评价其已进化至“2 型”，是一款让人想拥有的车型。",
+    "highlights_zh": [
+      "订单爆满一度停售",
+      "基于吉姆尼 Sierra",
+      "主要扩展行李厢空间",
+      "2026 年 7 月举办媒体试驾会"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "吉姆尼诺马德",
+      "吉姆尼 Sierra",
+      "试驾",
+      "增产"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231044.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231044.jpg",
+      "https://response.jp/imgs/fill2/2231031.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:52.892Z"
+  },
+  "https://response.jp/article/2026/07/29/414646.html": {
+    "title_zh": "Terra Charge 在熊本地震后免费开放 71 座 EV 充电桩",
+    "summary_short": "Terra Charge 宣布熊本地震灾区支援，免费开放熊本县内 71 座 EV 充电桩，助力灾后恢复与出行。",
+    "summary_long": "Terra Charge 为支援熊本地震灾区，宣布在熊本县内免费开放 71 座 EV 充电桩，用于灾后恢复活动和保障居民出行。免费开放期限为 2026 年 7 月 29 日至 9 月 30 日，用户需下载 Terra Charge App 并输入优惠码“KUMAMOTO”即可免费使用。由于部分地区可能停电或供电恢复中，充电桩使用情况可能变动。",
+    "highlights_zh": [
+      "免费开放 71 座充电桩",
+      "期限至 9 月 30 日",
+      "需 App 输入优惠码 KUMAMOTO"
+    ],
+    "entities": [
+      "Terra Charge",
+      "熊本县",
+      "EV 充电桩"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230996.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230996.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:54.995Z"
+  },
+  "https://response.jp/article/2026/07/29/414642.html": {
+    "title_zh": "EV 急速充电器 FLASH 在熊本地震中免费开放 5 个站点",
+    "summary_short": "熊本地震后，Ten Fields Factory 免费开放熊本县内 5 个 EV 急速充电器 FLASH 站点，支援灾区电力。",
+    "summary_long": "7 月 28 日熊本县发生地震后，Ten Fields Factory 宣布免费开放熊本县内 5 个 EV 急速充电器 FLASH 站点，以支援灾区电力基础设施。充电费用为 0 日元/kWh，优先供受灾者和救援人员使用。公司强调 EV 可作为“移动蓄电池”在停电时提供应急电源，并通过 V2H 向住宅或避难所供电。这些充电器支持 OTA 远程控制，可迅速将费用切换为零。免费站点包括道之驿有明、道之驿牛深海彩馆等，支持 CHAdeMO 和 NACS 标准。",
+    "highlights_zh": [
+      "熊本地震后免费开放 5 个 FLASH 充电站",
+      "充电费用 0 日元/kWh",
+      "EV 可作为应急电源",
+      "充电器支持 OTA 远程调价"
+    ],
+    "entities": [
+      "Ten Fields Factory",
+      "FLASH",
+      "CHAdeMO",
+      "NACS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230992.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230992.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:56.175Z"
+  },
+  "https://response.jp/article/2026/07/29/414641.html": {
+    "title_zh": "KYOJO CUP 舞台：次世代实时影像传输系统实证实验，利用本地 5G 与 Physical AI",
+    "summary_short": "富士通等 7 家公司与三菱电机合作，在 KYOJO CUP 赛事中开展基于本地 5G 和 Physical AI 的实时影像传输实证实验。",
+    "summary_long": "富士通等 7 家公司与三菱电机共同参与 NEDO 主导的项目，在方程式赛车赛事 KYOJO CUP 中启动下一代实时影像传输系统的实证实验。实验利用本地 5G 网络，从车载摄像头和遥测单元实时采集 4K 影像和遥测数据，验证低延迟分布式处理技术的有效性。参与企业包括 Nautilus Technologies、野村综合研究所、IIJ、1FINITY、富士通、Gilia 和 M-TEC。",
+    "highlights_zh": [
+      "富士通等 7 家与三菱电机合作",
+      "在 KYOJO CUP 赛事中实证",
+      "利用本地 5G 实时传输 4K 影像",
+      "验证低延迟分布式处理技术"
+    ],
+    "entities": [
+      "KYOJO CUP",
+      "富士通",
+      "三菱电机 | Mitsubishi Electric",
+      "本地 5G",
+      "Physical AI"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230981.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230981.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:58.320Z"
+  },
+  "https://www.motor1.com/news/802969/mercedes-ev-depreciation/": {
+    "title_zh": "男子选购奔驰电动车，两年贬值惊人",
+    "summary_short": "汽车爱好者指出，二手奔驰、奥迪、保时捷电动车贬值极快，两年内价值缩水超 60%。",
+    "summary_long": "一位汽车爱好者通过视频展示，二手电动车贬值速度惊人。例如，2022 款奥迪 E-Tron GT Premium Plus 行驶 4.3 万英里，售价仅 3.75 万美元，相比原价 10.24 万美元贬值 64%。2024 款奔驰 EQE 350+ RWD 行驶 1.4 万英里，售价 3.65 万美元，而原价约 7.8 万美元，两年内价值大幅下跌。",
+    "highlights_zh": [
+      "2022 款奥迪 E-Tron GT 贬值 64%",
+      "2024 款奔驰 EQE 350+两年跌价超 50%",
+      "二手电动车价格接近新车一半"
+    ],
+    "entities": [
+      "奔驰",
+      "奥迪",
+      "保时捷",
+      "E-Tron GT",
+      "EQE 350+"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPrGn/s1/man-considers-buying-mercedes.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:34:59.950Z"
+  },
+  "https://bestcarweb.jp/newcar/1561014": {
+    "title_zh": "Voxy S-Z 价格高但满意度也高？超越 Noah 的“颜值购买”选择高级 MPV",
+    "summary_short": "Voxy S-Z 售价 412 万日元，虽比兄弟车 Noah 贵 7 万，但凭借独特外观和高级配置，吸引追求颜值的买家。",
+    "summary_long": "Voxy S-Z 作为中级 MPV，售价 412 万 7200 日元，比兄弟车型 Noah S-Z 贵 7 万 400 日元。然而，选择 Voxy 的理由并非单纯的价格对比，而是其独特的外观设计和高级感。2026 年 5 月改款后，Voxy 成为混动专用车型，S-Z 2WD 七座版 WLTC 油耗 23.4km/L，尺寸适中，兼顾存在感与实用性。S-Z 相比 S-G 版本，配备 12.3 英寸 TFT 彩色仪表、合成皮革+织物座椅、加热座椅、后部自动空调等舒适配置，2WD 车型还标配 17 英寸铝合金轮毂，提升视觉和乘坐体验。尽管 Noah 在规格上更显性价比，但 Voxy S-Z 凭借“颜值购买”的吸引力，成为追求个性与高级感用户的自然选择。",
+    "highlights_zh": [
+      "Voxy S-Z 售价 412 万日元",
+      "改款后仅提供混动",
+      "S-Z 配备 12.3 英寸仪表、加热座椅等高级配置",
+      "选择 Voxy 的关键在于外观设计而非性价比"
+    ],
+    "entities": [
+      "ヴォクシー",
+      "ノア",
+      "S-Z",
+      "中级 MPV",
+      "混动"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07175645/20260410_01_29-3.jpg?v=1783414606",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/07175645/20260410_01_29-3-600x338.jpg?v=1783414606",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/29140356/s-2027_Toyota_Crown_HERO_IMAGE-600x400.jpg?v=1785301437"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:03.383Z"
+  },
+  "https://response.jp/article/2026/07/29/414638.html": {
+    "title_zh": "カーネクスト为熊本地震受灾车辆设立免费咨询窗口",
+    "summary_short": "カーネクスト为熊本地震受灾车主提供免费车辆咨询，协助处理拖车、报废及手续代办。",
+    "summary_long": "在线二手车收购服务“カーネクスト”针对 7 月 28 日发生的熊本地震，为受灾车主设立了免费咨询窗口。地震可能导致车辆受损或无法移动，而灾后生活重建优先，车主往往难以及时处理车辆。该窗口提供车辆拖走、报废及必要手续的指导，并在条件允许时代办手续。服务对象为熊本县地震中车辆受损或面临处理困难的车主。",
+    "highlights_zh": [
+      "カーネクスト设立免费咨询窗口",
+      "协助受灾车辆拖走、报废及手续",
+      "优先保障安全及配合当地救援活动"
+    ],
+    "entities": [
+      "カーネクスト"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230949.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230949.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:03.643Z"
+  },
+  "https://response.jp/article/2026/07/29/414647.html": {
+    "title_zh": "JR 巴士关东引入睡眠监测设备 Wellnee Sleep，加强驾驶员健康管理",
+    "summary_short": "JR 巴士关东引入睡眠监测设备 Wellnee Sleep，通过监测驾驶员睡眠状态强化健康管理，提升运输安全。",
+    "summary_long": "JR 巴士关东作为 JR 东日本集团旗下巴士运营商，业务涵盖高速巴士、路线巴士及包车巴士。公司将安全视为经营核心，持续关注驾驶员健康管理与安全教育。为更好掌握驾驶员睡眠状态，公司引入了睡眠监测设备 Wellnee Sleep，以进一步强化健康管理措施。",
+    "highlights_zh": [
+      "JR 巴士关东引入 Wellnee Sleep",
+      "监测驾驶员睡眠状态",
+      "强化健康管理与安全",
+      "JR 东日本集团旗下企业"
+    ],
+    "entities": [
+      "JR 巴士关东",
+      "Wellnee Sleep",
+      "JR 东日本"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230997.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230997.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:06.484Z"
+  },
+  "https://response.jp/article/2026/07/29/414623.html": {
+    "title_zh": "サポカー升级至 2.0，扩大至驾驶员监控等高级安全技术",
+    "summary_short": "日本国土交通省将安全驾驶支持车升级为 2.0 版本，扩大对象装置至驾驶员监控等高级安全技术，并制作新标志促进普及。",
+    "summary_long": "日本国土交通省宣布将安全驾驶支持车（サポカー）升级为 2.0 版本，扩大对象装置至驾驶员监控系统等更高级的先进安全技术，以促进普及。该举措基于 2026 年 6 月交通政策审议会的建议，旨在通过技术进步进一步减少高龄驾驶员事故。新标志将用于普及宣传活动，详情将在国土交通省官网公布。",
+    "highlights_zh": [
+      "サポカー升级至 2.0 版本",
+      "扩大至驾驶员监控等高级技术",
+      "制作新标志促进普及",
+      "旨在减少高龄驾驶员事故"
+    ],
+    "entities": [
+      "国土交通省",
+      "サポカー",
+      "サポカー2.0 | Safety Support Car 2.0",
+      "驾驶员监控系统"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230844.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230844.jpg",
+      "https://response.jp/imgs/fill2/2230843.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:06.637Z"
+  },
+  "https://response.jp/article/2026/07/29/414636.html": {
+    "title_zh": "大发携 K-VISION 等 16 款车型亮相 GIIAS2026",
+    "summary_short": "大发在 GIIAS2026 展出 16 款车型，包括搭载 e-SMART HYBRID 的 K-VISION、Midget X、e-Atrai 及 Rocky 混动等。",
+    "summary_long": "大发工业印尼子公司 Astra Daihatsu Motor 在 GIIAS2026 上展出 16 款车型，主题为“因为你，每天更舒适”。展车包括搭载轻自动车专用 e-SMART HYBRID 的概念车 K-VISION、继承 Midget 精神的 Midget X、2026 年 2 月在日本发售的 e-Atrai、以及印尼在售的 Rocky 混动版。此外还有 K-OPEN Running Proto、符合 LCGC 标准的车型、7 座 MPV Sigra 改款及 Terios 特别版。",
+    "highlights_zh": [
+      "展出 16 款车型",
+      "K-VISION 搭载轻自动车专用 e-SMART…",
+      "Midget X 继承经典三轮车精神",
+      "e-Atrai、Rocky 混动等电动化车型亮相"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "K-VISION",
+      "Midget X",
+      "e-Atrai",
+      "Rocky"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230929.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230929.jpg",
+      "https://response.jp/imgs/fill2/2230927.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:10.125Z"
+  },
+  "https://response.jp/article/2026/07/29/414628.html": {
+    "title_zh": "大发 Move Canvas 与 Move 部分改良，特别版车型同步上市",
+    "summary_short": "大发对 Move Canvas 和 Move 进行部分改良，新增特别版车型，起售价约 136.95 万日元。",
+    "summary_long": "大发工业对轻型乘用车 Move Canvas 和 Move 进行了部分改良，并于 7 月 29 日起在日本全国同步发售。Move Canvas 新增了特别版车型“内饰精选”，将两种内饰风格互换组合，并延伸至外观，形成“都市优雅风格”和“复古流行风格”。此外，Move Canvas 还新增了车身颜色。安全方面，预防安全功能“智能辅助”增加了对横穿自行车的检测、交叉路口右转时对向车道车辆检测等功能，并将对行人的最高速度条件从 60km/h 提升至 80km/h。",
+    "highlights_zh": [
+      "大发 Move Canvas 与 Move 部分改良",
+      "特别版“内饰精选”融合两种内饰风格",
+      "新增“都市优雅”与“复古流行”外观风格",
+      "智能辅助安全功能升级"
+    ],
+    "entities": [
+      "大发 | Daihatsu",
+      "ムーヴ キャンバス",
+      "ムーヴ",
+      "智能辅助"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230869.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230869.jpg",
+      "https://response.jp/imgs/fill2/2230870.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:10.801Z"
+  },
+  "https://response.jp/article/2026/07/29/414640.html": {
+    "title_zh": "丰田与 Uber 在欧洲合作推广混动和电动车",
+    "summary_short": "丰田与 Uber 在欧洲合作，为共享出行司机提供混动和电动车，覆盖 10 国并逐步扩展。",
+    "summary_long": "丰田欧洲公司与 Uber 宣布合作，旨在为欧洲 Uber 司机和车队合作伙伴提供低排放和零排放车辆。合作采用多路径方式，提供混合动力、纯电动及认证二手丰田/雷克萨斯车型，以适应不同地区的运营需求、成本和充电基础设施。项目于 7 月在 10 个欧洲国家启动，随后逐步扩展至全欧洲。丰田旗下四个业务部门将联合提供新车、二手车、融资、租赁和保险等一体化出行服务。",
+    "highlights_zh": [
+      "丰田与 Uber 欧洲合作",
+      "7 月从 10 国启动",
+      "提供新车、二手车、融资、保险一体化服务",
+      "采用多路径方案"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Uber",
+      "雷克萨斯 | Lexus",
+      "混合动力",
+      "纯电动"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230977.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230977.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:14.296Z"
+  },
+  "https://bestcarweb.jp/news/1582685": {
+    "title_zh": "驾驶娱乐新时代：Coco Drive! 让旅途更快乐",
+    "summary_short": "日本推出 iPhone 驾驶娱乐应用 Coco Drive!，通过自动记录路线、走破地图和知识提示，将驾驶本身变为乐趣。",
+    "summary_long": "日本公司 Nexgear 于 2026 年 7 月 10 日在 App Store 发布 iPhone 驾驶娱乐应用“Coco Drive!”，旨在将驾驶本身转变为乐趣，而非仅关注目的地。该应用通过 GPS 自动记录行驶路线、生成走破地图，并提供沿途土地豆知识、爱车日记等功能，帮助用户将每次驾驶转化为美好回忆。应用支持 iOS 18 及以上，基础功能免费，面向驾驶爱好者和周末自驾游用户。",
+    "highlights_zh": [
+      "自动记录行驶路线与走破地图",
+      "提供沿途土地豆知识",
+      "爱车日记功能保存回忆",
+      "基础功能免费"
+    ],
+    "entities": [
+      "Coco Drive!",
+      "Nexgear",
+      "iPhone",
+      "驾驶娱乐",
+      "GPS"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17182104/d61adc149dbf2ee1b546e6a7354b31a7.jpg?v=1784280065",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17182104/d61adc149dbf2ee1b546e6a7354b31a7-600x338.jpg?v=1784280065",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26112017/733796dcf93559371e5fe7d93fcde685-600x600.jpg?v=1785032418"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:14.533Z"
+  },
+  "https://bestcarweb.jp/feature/column/1580785": {
+    "title_zh": "新型 Atray 车中泊必备纯正配件",
+    "summary_short": "新型 Atray 通过纯正配件可瞬间变身移动秘密基地，实现平躺大床与隐私遮光，车中泊体验升级。",
+    "summary_long": "2026 年 6 月改进版 Atray 凭借宽敞车厢和先进液晶仪表备受青睐。利用纯正配件可将其打造成极致移动秘密基地：收纳式甲板套装（20.988 万日元，承重 200kg）提供平坦大床及床下储物空间；窗帘（4.224 万日元）与带纱网的前隐私遮阳板（2.64 万日元）确保夜间隐私与通风防虫。",
+    "highlights_zh": [
+      "收纳式甲板套装承重 200kg",
+      "窗帘+前隐私遮阳板实现完全遮光",
+      "纱网设计通风防虫"
+    ],
+    "entities": [
+      "Atray"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22152832/atrai_211220027_1.jpg?v=1784701713",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22152832/atrai_211220027_1-600x400.jpg?v=1784701713",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17103558/DSC0353-600x399.jpg?v=1784252159"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:17.780Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1586339": {
+    "title_zh": "巴士票价收取方式：先付还是后付？哪种最好？",
+    "summary_short": "探讨巴士票价收取方式的历史与现状，从售票员时代到现代先付/后付模式，分析各种方式的优劣。",
+    "summary_long": "乘坐城市公交时，票价支付方式分为先付和后付两种，但无论哪种，乘客上下车时都必须支付。过去曾有售票员在后门收取票款的“双人车”时代，甚至在平成时代东京都营巴士的部分线路仍保留此模式，如涩谷、目黑营业所。文章回顾了票价收取方式的演变，并比较不同方式的便利性。",
+    "highlights_zh": [
+      "巴士票价支付分先付和后付两种",
+      "过去曾有售票员在后门收票",
+      "平成时代东京都营巴士仍保留售票员模式",
+      "涩谷、目黑营业所曾采用此方式"
+    ],
+    "entities": [
+      "东京都营巴士"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/22152132/hz2607_bssfare_04-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/21152540/jnrunmlne_bstmbt_catch-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/21125304/ex_jnrunmlne_thnbs_catch-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:17.941Z"
+  },
+  "https://www.motor1.com/features/803025/why-is-costco-gas-so-cheap/": {
+    "title_zh": "Costco 汽油为何总是比别家便宜",
+    "summary_short": "Costco 汽油价格低于竞争对手，核心原因并非燃油本身，而是其独特的商业模式——通过会员费盈利，低价汽油吸引顾客续费并增加到店频率。",
+    "summary_long": "Costco 的汽油价格通常低于附近加油站，但这并非因为燃油成本更低，而是源于其独特的商业模式。与传统加油站不同，Costco 的主要收入来源是会员费，而非汽油销售利润。公司通过提供低价汽油，激励会员续费并增加到店消费次数，从而带动整体营收。SEC 文件也指出，Costco 并不追求每加仑汽油的最大利润，而是将其作为提升会员忠诚度的工具。",
+    "highlights_zh": [
+      "低价汽油源于商业模式",
+      "会员费是 Costco 主要收入来源",
+      "低价汽油激励会员续费并增加到店频率",
+      "Costco 不追求每加仑汽油利润最大化"
+    ],
+    "entities": [
+      "Costco"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJokL/s1/why-is-costco-gas-cheaper.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:21.497Z"
+  },
+  "https://www.motor1.com/news/802980/chevy-trailblazer-brake-fluid-fix/": {
+    "title_zh": "雪佛兰车主花 1000 美元诊断无果，最终发现简单问题",
+    "summary_short": "雪佛兰 Trailblazer 车主花费超 1000 美元诊断发动机和点火问题，最终发现是刹车拖滞导致动力损失和抖动。",
+    "summary_long": "一位雪佛兰 Trailblazer 车主因车辆动力损失、转向沉重和抖动，先后前往三家维修店，花费超过 1000 美元进行诊断和维修，包括更换制动卡钳、刹车软管、刹车片、点火线圈等，但问题依旧。最终，宾夕法尼亚州 Bessemer Ave. Automotive Rehab 的技师通过路试发现，车辆热车后制动系统压力无法正常释放，导致刹车拖滞，从而引发一系列症状。",
+    "highlights_zh": [
+      "车主花费超 1000 美元诊断",
+      "三家维修店均未找到根本原因",
+      "最终发现是刹车拖滞问题",
+      "简单问题却导致复杂症状"
+    ],
+    "entities": [
+      "雪佛兰 | Chevrolet",
+      "Trailblazer",
+      "刹车拖滞",
+      "诊断费用"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkY1yq/s1/woman-gets-work-done-at-1-shop.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:21.837Z"
+  },
+  "https://www.motor1.com/news/803053/vw-mega-golf-1000-horsepower/": {
+    "title_zh": "大众打造千匹马力 Mega Golf，首秀即退赛",
+    "summary_short": "大众运动部门联合打造了一款近 1000 马力的 Mega Golf，搭载奥迪五缸引擎，但在首次爬山赛中被迫退赛。",
+    "summary_long": "大众运动部门与 Michael Allers 合作，基于 GTI 打造了一款名为 Mega Golf 的爬山赛车，搭载奥迪 2.5 升五缸涡轮增压发动机，输出约 986 马力，匹配 Sadev 序列式变速箱和四驱系统。该车采用碳纤维宽体车身、巨大尾翼等空气动力学套件，内饰仅保留防滚架。为纪念大众进入南非市场 75 周年而打造，但在 Zwartkops 爬山赛首秀中因故障退赛。",
+    "highlights_zh": [
+      "基于 GTI",
+      "最大功率约 986 马力",
+      "碳纤维宽体车身与巨大尾翼",
+      "首秀因故障退赛"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "高尔夫 | Golf",
+      "奥迪 | Audi",
+      "RS3"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/40YgpZ/s1/2026-volkswagen-mega-golf.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:25.263Z"
+  },
+  "https://www.motor1.com/news/803038/bentley-torcal-ev-interior-curved-screen/": {
+    "title_zh": "宾利首款电动车 Torcal 内饰曝光：弧形屏幕似曾相识",
+    "summary_short": "宾利首款电动车 Torcal 内饰曝光，弧形屏幕与保时捷 Cayenne EV 相似，但保留更多物理按键。",
+    "summary_long": "宾利通过预告视频展示了其首款电动车 Torcal 的内饰，其中一块弧形触摸屏成为焦点。该屏幕设计与保时捷 Cayenne EV 的 Flow Display 类似，但尺寸可能略小。不过，Torcal 在屏幕下方保留了更多物理控制旋钮和开关，与保时捷的极简风格形成对比。此外，宾利延续了自 1920 年代以来的菱形元素，包括浮动菱形格栅和菱形缝线座椅。",
+    "highlights_zh": [
+      "弧形屏幕与保时捷 Cayenne EV 相似",
+      "保留大量物理旋钮和开关",
+      "延续百年菱形设计元素",
+      "全数字仪表盘"
+    ],
+    "entities": [
+      "宾利 | Bentley",
+      "Torcal",
+      "保时捷 | Porsche",
+      "Cayenne EV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K3Qo/s1/bentley-torcal-interior.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-29T15:35:25.295Z"
   }
 }
