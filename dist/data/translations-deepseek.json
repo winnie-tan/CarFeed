@@ -95152,5 +95152,820 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-07-30T03:26:25.248Z"
+  },
+  "https://www.thedrive.com/news/the-ferrari-luce-has-done-its-job": {
+    "title_zh": "法拉利 Luce EV 两个月达成 2026 年销售目标",
+    "summary_short": "法拉利 Luce EV 上市两月即达成 2026 年销售目标，公司上调全年营收预期至 88 亿美元。",
+    "summary_long": "法拉利在周四的财报电话会议上宣布，其首款电动车 Luce 在上市仅两个月内就完成了 2026 年的销售目标，尽管未公布具体订单或销量数字。强劲的中国市场需求是主要推动力。公司因此将 2026 年全年营收预期从 87 亿美元上调至 88 亿美元，并指出核心超跑车型需求稳定以及个性化定制趋势持续增长。尽管 Luce 因设计争议（包括前董事长批评）而备受关注，但 CEO Benedetto Vigna 表示该车已成功完成任务。",
+    "highlights_zh": [
+      "两个月达成 2026 年销售目标",
+      "中国市场需求强劲",
+      "上调全年营收预期至 88 亿美元",
+      "设计争议但销量成功"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "Benedetto Vigna",
+      "电动车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/ferrari-luce-jerry-perez-1.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/ferrari-luce-jerry-perez-2.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:25:52.766Z"
+  },
+  "https://www.motor1.com/news/803233/ford-super-duty-enters-army/": {
+    "title_zh": "福特 Super Duty 有望成为美军下一代战术卡车",
+    "summary_short": "福特 Super Duty 参与美军重型步兵班组车辆竞标，三辆原型车聚焦续航、车载电力与可维修性。",
+    "summary_long": "福特 Super Duty 加入美国陆军 ISV-Heavy 竞标，提供三辆原型车，重点突出续航里程、车载电力输出以及可维修硬件。该车基于 Super Duty 梯形车架和现有动力总成，驾驶室与货厢经过军事化改造，可拖曳拖车并为整个前哨基地供电，满足无人机、传感器、电台等设备需求。福特与 GM Defense、BC Customs 竞争，胜出者有望获得大规模生产合同。",
+    "highlights_zh": [
+      "福特 Super Duty 参与美军 ISV-Hea…",
+      "原型车聚焦续航、车载电力与可维修性",
+      "可拖曳拖车并为前哨基地供电",
+      "与 GM Defense、BC Customs 竞争…"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Super Duty",
+      "美国陆军",
+      "ISV-Heavy",
+      "GM Defense"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6ZezB7/s1/ford-f-350-super-duty.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:25:53.139Z"
+  },
+  "https://www.motor1.com/news/803246/mazda-miata-ev-rumored/": {
+    "title_zh": "马自达 CEO：MX-5 Miata 未来可能电动化",
+    "summary_short": "马自达 CEO 表示 MX-5 Miata 未来可能电动化，但下一代车型仍将保留内燃机，轻量化是核心。",
+    "summary_long": "马自达 CEO Masahiro Moro 在接受德国媒体采访时表示，下一代 MX-5 Miata 必须为无内燃机场景做好准备，暗示未来可能推出电动版本。但他未确认下一代车型将直接电动化，强调轻量化仍是 Miata 的核心，当前电池技术不适合轻量化跑车，因此汽油仍是近期最佳选择。",
+    "highlights_zh": [
+      "CEO 称下一代 Miata 需为无内燃机场景做准备",
+      "未确认下一代直接电动化",
+      "轻量化仍是 Miata 核心设计理念",
+      "当前电池技术不适合轻量化跑车"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "MX-5 Miata",
+      "Masahiro Moro"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzgQ2/s1/mazda-mx-5-miata.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:25:56.071Z"
+  },
+  "https://www.motor1.com/news/803230/richard-hammond-fined-porsche-bentley/": {
+    "title_zh": "《Top Gear》明星理查德·哈蒙德因超速被罚 2300 美元并扣 7 分",
+    "summary_short": "理查德·哈蒙德因在保时捷 Taycan 和宾利 Continental GT 上两次超速，被罚款 2300 美元并扣 7 分。",
+    "summary_long": "《Top Gear》主持人理查德·哈蒙德因去年 12 月在赫里福德郡两次超速被罚款 2300 美元并扣 7 分。第一次是 12 月 2 日，他驾驶保时捷 Taycan Cross Turismo 在限速 50 英里/小时的 A40 公路上以 68 英里/小时行驶；第二次是 12 月 22 日，他驾驶宾利 Continental GT 在限速 70 英里/小时的 A50 公路上以 82 英里/小时行驶。哈蒙德通过律师认罪，法庭仅处理了这两项超速指控。",
+    "highlights_zh": [
+      "罚款 2300 美元并扣 7 分",
+      "两次超速分别发生在 12 月 2 日和 22 日",
+      "涉及保时捷 Taycan 和宾利 Continent…",
+      "哈蒙德通过律师认罪"
+    ],
+    "entities": [
+      "理查德·哈蒙德 | Richard Hammond",
+      "保时捷 Taycan | Porsche Taycan",
+      "宾利 Continental GT | Bentley Continental GT",
+      "超速",
+      "罚款"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1GQRK/s1/richard-hammond-ranger-raptor.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:25:56.862Z"
+  },
+  "https://www.thedrive.com/news/americans-dont-lease-as-much-as-they-used-to-blame-carmakers-tds": {
+    "title_zh": "美国人不再像以前那样租车了：都怪汽车制造商",
+    "summary_short": "疫情后汽车制造商故意限制供应、提高售价，导致租赁交易吸引力下降，美国新车租赁比例从 30%降至 23%。",
+    "summary_long": "据 JD Power 数据，2026 年上半年美国新车租赁仅占 23%，虽高于 2022 年 17%的低点，但远低于疫情前 30%的水平。专家认为，汽车制造商在疫情期间学会了通过限制供应来维持高价，同时高利率也削弱了租赁的吸引力。此外，租赁减少导致返回经销商的二手车数量下降，推高了二手车价格。",
+    "highlights_zh": [
+      "2026 上半年租赁占比 23%",
+      "汽车制造商限制供应以维持高价",
+      "高利率削弱租赁吸引力",
+      "租赁减少推高二手车价格"
+    ],
+    "entities": [
+      "JD Power",
+      "The Drive"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-2261855878.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECASTEP26HERO.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:25:58.965Z"
+  },
+  "https://www.motor1.com/news/803151/ferrari-luce-ev-sold-out-report/": {
+    "title_zh": "法拉利争议电动超跑 Luce 据报已售罄",
+    "summary_short": "法拉利首款电动车 Luce 上市仅两月即达到年度销售目标，中国市场表现强劲。",
+    "summary_long": "据《金融时报》援引知情人士消息，法拉利首款电动车 Luce 在正式亮相仅两个多月后便已达到年度销售目标，目前该车已售罄。尽管 Luce 因颠覆性设计引发争议，但市场反响热烈，尤其在中国需求强劲。法拉利 CEO 贝内代托·维尼亚此前透露已收到定金，全球营销总监表示对争议规模感到惊讶，但乐见消费者对品牌的热情。具体订单数量将在第二季度财报电话会议上公布。",
+    "highlights_zh": [
+      "上市两月即达年度销售目标",
+      "中国市场表现强劲",
+      "CEO 称已收到定金",
+      "设计争议未影响订单"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "Luce",
+      "中国",
+      "电动超跑"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJX70/s1/ferrari-luce-ev.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:00.772Z"
+  },
+  "https://response.jp/article/2026/07/30/414687.html": {
+    "title_zh": "马自达在东京深川开设品牌体验据点，聚焦都市圈“特化型经销商”",
+    "summary_short": "马自达在东京深川开设品牌体验据点，传承赛车文化，提供定制化服务，强化都市圈特化型经销商布局。",
+    "summary_long": "马自达于 7 月 30 日重新开放东京都内的“关东马自达深川店”，并新增品牌体验据点“马自达·传承·空间·深川”，旨在传承马自达的赛车运动文化。作为品牌价值经营改革的一部分，马自达正推进销售网络重组，重点强化都市圈业务。都市圈目前占马自达销量的约 50%，且比例预计继续上升。为此，马自达将增加都市圈特化型新世代店铺，提供独特体验价值，如关西马自达守口店的定制化、东海马自达大慶橋店的敞篷跑车“马自达 MX-5”专营、东海马自达绿店的户外主题等。深川店则以赛车文化为核心，为车迷和赛车爱好者提供赛道驾驶建议、定制改装咨询等服务。",
+    "highlights_zh": [
+      "马自达在东京深川开设品牌传承空间",
+      "聚焦都市圈特化型经销商战略",
+      "提供赛车文化体验与定制改装服务",
+      "都市圈销量占比约 50%且持续上升"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "马自达 MX-5 | Mazda MX-5",
+      "关东马自达深川店",
+      "品牌体验据点",
+      "特化型经销商"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231155.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231155.jpg",
+      "https://response.jp/imgs/fill2/2231165.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:04.277Z"
+  },
+  "https://response.jp/article/2026/07/30/414702.html": {
+    "title_zh": "CRAFTWORKS 推出铃木 Jimny 专用助手席下收纳包",
+    "summary_short": "CRAFTWORKS 推出铃木 Jimny 专用助手席下收纳包，利用闲置空间，售价 3280 日元起。",
+    "summary_long": "CRAFTWORKS 推出铃木 Jimny 系列专用助手席下收纳包，旨在解决车内储物空间不足的问题。该产品由专业技师监修，专车专用设计，尺寸为 35×22×9 厘米，可容纳 A4 文件、纸巾盒或鞋子。包面设有 TPU 透明窗口，无需打开拉链即可查看内容；采用 600D 牛津布，具备防污防尘性能；两侧配有把手，可从座椅前后抽出；还带有 MOLLE 系统，可外挂小包或登山扣。设计不影响座椅滑动，适用于 Jimny（JB64 系）、Jimny Sierra（JB74 系，2018 年 7 月后）和 Jimny Nomad（JC74W 系，2025 年 4 月后），但不适用于 5 型。颜色有黑、灰、橄榄绿三色可选，售价 3280 日元起。",
+    "highlights_zh": [
+      "专为 Jimny 设计",
+      "透明窗口可查看内容",
+      "防污防尘",
+      "售价 3280 日元起"
+    ],
+    "entities": [
+      "CRAFTWORKS",
+      "铃木 | Suzuki",
+      "ジムニー",
+      "ジムニーシエラ",
+      "ジムニーノマド"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230967.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230967.jpg",
+      "https://response.jp/imgs/fill2/2230968.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:05.091Z"
+  },
+  "https://response.jp/article/2026/07/30/414685.html": {
+    "title_zh": "激变中的印度汽车产业：政策转向与 EV 浪潮，日本企业的胜机",
+    "summary_short": "印度汽车市场正经历政策转向与电动化变革，日本企业如何借力本地化与快速商业抓住机遇？",
+    "summary_long": "印度作为全球第三大汽车市场，正经历“印度制造”、电动化及物流革命的三重变革。本研讨会由野村综合研究所专家解读 BS-VI、FAME 等最新政策，分析二轮、三轮车先行电动化的独特现状，以及快速商业改变消费行为的趋势。日本企业需融合技术力与本地化，抑制中国势力崛起，并利用印度作为生产轴心拓展非洲、中东出口市场。",
+    "highlights_zh": [
+      "印度汽车市场全球第三",
+      "二轮、三轮车电动化先行",
+      "日本企业需融合技术力与本地化",
+      "印度成出口枢纽"
+    ],
+    "entities": [
+      "印度",
+      "日本企业",
+      "电动化",
+      "快速商业",
+      "野村综合研究所"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230916.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230916.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:08.192Z"
+  },
+  "https://response.jp/article/2026/07/30/414701.html": {
+    "title_zh": "沃尔沃 EX90 试驾：长途体验揭示全尺寸电动 SUV 的正确打开方式",
+    "summary_short": "沃尔沃 EX90 全尺寸电动 SUV 日本试驾，长途 400 公里体验其空气动力学设计、SPA2 平台及 SDV 技术。",
+    "summary_long": "沃尔沃 EX90 作为品牌旗舰电动 SUV，采用 SPA2 平台和 HuginCore 核心计算系统，实现软件定义车辆。试驾车型为 EX90 Plus Twin Motor Performance，最大功率 680PS，扭矩 870Nm。车身尺寸 5035×1965×1745mm，轴距 2985mm，但短悬设计使其外观紧凑。从东京青山到日光往返约 400 公里的试驾中，EX90 展现了出色的空气动力学性能和电动 SUV 的成熟调校。",
+    "highlights_zh": [
+      "SPA2 平台与 HuginCore 核心计算系统",
+      "680PS/870Nm 双电机性能版",
+      "短悬设计营造紧凑外观",
+      "400 公里长途试驾验证电动 SUV 成熟度"
+    ],
+    "entities": [
+      "沃尔沃",
+      "EX90",
+      "SPA2",
+      "HuginCore",
+      "EX30"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231228.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231227.jpg",
+      "https://response.jp/imgs/fill2/2231227.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:08.887Z"
+  },
+  "https://response.jp/article/2026/07/30/414706.html": {
+    "title_zh": "AI 行车记录仪“DRIVE CHART”面向法人启动租赁服务",
+    "summary_short": "住友三井与 GO Drive 合作，为法人客户提供 AI 行车记录仪 DRIVE CHART 租赁服务，简化手续并降低事故风险。",
+    "summary_long": "住友三井汽车服务（SMAS）与 GO Drive 于 7 月 30 日宣布，面向法人客户启动次世代 AI 行车记录仪服务“DRIVE CHART”的租赁提供。这是首次将 DRIVE CHART 纳入租赁合同的模式。SMAS 统一了车辆租赁与服务的合同窗口，减轻企业导入时的手续和合同管理负担，从而更易开展事故风险降低措施。DRIVE CHART 通过 AI 分析驾驶数据并可视化，结合客户成功团队的持续运营支持，帮助企业减少交通事故。",
+    "highlights_zh": [
+      "首次将 DRIVE CHART 纳入租赁合同",
+      "统一车辆租赁与服务合同窗口",
+      "AI 分析驾驶数据并可视化",
+      "降低事故风险"
+    ],
+    "entities": [
+      "住友三井汽车服务",
+      "GO Drive",
+      "DRIVE CHART"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231353.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231353.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:11.951Z"
+  },
+  "https://response.jp/article/2026/07/30/414699.html": {
+    "title_zh": "Ridgelinez 推出 AI 时代 CX 诊断/设计服务",
+    "summary_short": "Ridgelinez 推出新服务，通过生成 AI 诊断和再设计客户体验，帮助企业适应 AI 时代的信息搜索与决策模式。",
+    "summary_long": "Ridgelinez（Ridgelinez）推出“AI 时代 CX 诊断/设计服务”，旨在通过生成 AI 优化客户体验。随着消费者越来越多地使用生成 AI 进行信息搜索、比较和决策，企业需要从 AIO（AI 优化）和 GEO（生成引擎优化）角度调整策略。许多企业网站仍以人为浏览为主，缺乏适合 AI 解析的 FAQ、结构化数据等。该服务通过诊断 AIO/GEO 现状，重新设计从信息搜索到购买的全流程体验，帮助企业在 AI 时代持续被客户选择。",
+    "highlights_zh": [
+      "新服务诊断并再设计生成 AI 时代的客户体验",
+      "企业需从 SEO 转向 AIO 和 GEO 优化",
+      "多数企业网站缺乏 AI 友好的结构化数据",
+      "服务覆盖从信息搜索到购买决策的全流程"
+    ],
+    "entities": [
+      "Ridgelinez",
+      "生成 AI",
+      "客户体验",
+      "AIO",
+      "GEO"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231209.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231209.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:12.826Z"
+  },
+  "https://bestcarweb.jp/feature/column/1588367": {
+    "title_zh": "MT 车迷的福音！4 款能让你热血沸腾的 AT 车",
+    "summary_short": "手动挡车型日益稀少，但自动挡也能带来驾驶乐趣。本文推荐 4 款 AT 车型，让你享受操控快感。",
+    "summary_long": "手动挡车型的驾驶乐趣无可替代，但在日本，自动挡普及率超过 90%，即便是跑车也以 AT 为主。然而，自动挡同样能提供操控的快感。本文推荐 4 款 AT 车型，包括日产 Z（RZ34），其搭载 3.0 升 V6 双涡轮增压发动机，最大功率 405 马力，外观致敬历代 Z 系列，长鼻短尾的造型极具辨识度。",
+    "highlights_zh": [
+      "日本 AT 普及率超 90%",
+      "日产 Z（RZ34）AT 版本占比约 70%",
+      "3.0L V6 双涡轮增压",
+      "外观融合 S30、Z32 等历代 Z 元素"
+    ],
+    "entities": [
+      "日产 Z | Nissan Z",
+      "RZ34",
+      "VR30DDTT",
+      "405 马力"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24161255/civic_image1.jpg?v=1784877176",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24161255/civic_image1-600x400.jpg?v=1784877176",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28141033/lanp1709_01_s-600x400.jpg?v=1785215434"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:15.823Z"
+  },
+  "https://response.jp/article/2026/07/30/414698.html": {
+    "title_zh": "NOK 支援学生方程式日本大会 2026，无偿提供约 300 件 O 型圈等部件",
+    "summary_short": "NOK 为 2026 年学生方程式日本大会提供约 300 件 O 型圈、油封等部件，支持 7 所大学车队。",
+    "summary_long": "NOK 宣布参与 2026 年学生方程式日本大会，该赛事将于 2026 年 8 月 2 日至 7 日在爱知县国际展示场举行。NOK 将为 7 所参赛大学的车队无偿提供约 300 件产品，包括 O 型圈、油封和防振橡胶等部件，以支持学生工程实践。",
+    "highlights_zh": [
+      "NOK 提供约 300 件部件",
+      "支持 7 所大学车队",
+      "包括 O 型圈、油封等",
+      "赛事于 2026 年 8 月举行"
+    ],
+    "entities": [
+      "NOK",
+      "学生方程式日本大会",
+      "O 型圈",
+      "油封",
+      "防振橡胶"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231207.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231207.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:16.244Z"
+  },
+  "https://response.jp/article/2026/07/30/414681.html": {
+    "title_zh": "webCG 人气连载「汽车设计曼荼罗」首次公开录制活动 8 月 24 日举行",
+    "summary_short": "webCG 将于 8 月 24 日举办「汽车设计曼荼罗」首次公开录制活动，主题为日本汽车设计的不足与课题。",
+    "summary_long": "汽车专业媒体 webCG 将于 8 月 24 日举办人气连载「汽车设计曼荼罗」的首次公开录制活动，主题为“日本汽车设计所欠缺的东西”。活动由前汽车设计师、产品设计师兼汽车设计记者渕野健太郎、汽车记者清水草一和 webCG 编辑堀田刚资三人进行讨论。活动第二部设有答疑和交流会，提供轻食和饮料。对象包括对汽车设计感兴趣的普通参与者、行业人士及学生，名额 40 人，额满即止。",
+    "highlights_zh": [
+      "webCG 首次公开录制「汽车设计曼荼罗」",
+      "主题：日本汽车设计的不足与课题",
+      "三位专家进行无保留讨论",
+      "活动含答疑和交流会"
+    ],
+    "entities": [
+      "webCG",
+      "汽车设计曼荼罗",
+      "渕野健太郎",
+      "清水草一",
+      "堀田刚资"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231150.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231150.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:20.023Z"
+  },
+  "https://bestcarweb.jp/news/1588937": {
+    "title_zh": "兰德酷路泽 75 周年官方新作：T 恤、Polo 衫、帽子等生活方式单品发布",
+    "summary_short": "兰德酷路泽官方推出 75 周年新作，包括以 2026 年 FJ 车型为灵感的 T 恤等 8 款户外与日常单品。",
+    "summary_long": "丰田旗下品牌 Toyota Conic Pro 发布了兰德酷路泽官方生活方式品牌“LAND CRUISER OFFICIAL ITEMS”的新系列，共 8 款单品，主题为“Gear Up & Go Anywhere”。该系列将兰德酷路泽“无论何处都能去并安全返回”的理念融入服饰与配件中，适合户外与日常使用。其中亮点是“LAND CRUISER “FJ” TOUR TEE”，以 2026 年发布的兰德酷路泽 FJ 为设计灵感，采用乐队巡演 T 恤风格，背面印有 FJ 车型插画及“Freedom & Joy”概念，使用 6.6 盎司厚面料和加固领口，售价 6930 日元，有黑灰两色。系列于 2026 年 7 月 24 日起在线上商店和部分丰田经销商发售。",
+    "highlights_zh": [
+      "兰德酷路泽官方推出 75 周年新作系列",
+      "以 2026 年 FJ 车型为灵感的 T 恤是亮点",
+      "共 8 款单品",
+      "主题为“Gear Up & Go Anywhere”"
+    ],
+    "entities": [
+      "兰德酷路泽",
+      "兰德酷路泽 FJ",
+      "丰田 | Toyota",
+      "生活方式品牌"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25171958/3f34d56a72f437c510515715c798e371.jpg?v=1784967599",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25171958/3f34d56a72f437c510515715c798e371-600x314.jpg?v=1784967599",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17191425/0dd9e431e817d74d1c9c569ed989a6cf-600x400.jpg?v=1784283266"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:20.321Z"
+  },
+  "https://www.motor1.com/news/802985/woman-test-drive-autozone-diagnostic/": {
+    "title_zh": "女子试驾途中直奔 AutoZone：我要全面诊断",
+    "summary_short": "一名女子在试驾二手车时，直接开往 AutoZone 进行故障码扫描，以防经销商隐藏问题。",
+    "summary_long": "TikTok 用户 Deidra 分享了她试驾二手车时的独特经历：她拿到钥匙后没有直接上路，而是将车开到 AutoZone 进行故障诊断扫描，以防止经销商清除故障码后问题重现。她在出发前就发现车内座椅和收音机按钮有外观损坏，进一步坚定了她的做法。",
+    "highlights_zh": [
+      "试驾时直接开往 AutoZone",
+      "要求全面诊断以防隐藏故障码",
+      "出发前已发现内饰损坏"
+    ],
+    "entities": [
+      "AutoZone",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/VzWoEG/s1/woman-goes-on-test-drive.-then-she-takes-the-car-straight-to-autozone.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:23.831Z"
+  },
+  "https://bestcarweb.jp/newcar/1561005": {
+    "title_zh": "丰田 Voxy 舒适便利套装值得选吗？双侧滑门与尾部装备的满意度",
+    "summary_short": "丰田 Voxy 的舒适便利套装（14.85 万日元）包含免钥匙双侧电动滑门和电动尾门，日常使用中能显著减少不便，尤其适合有孩家庭。",
+    "summary_long": "丰田 Voxy 的舒适便利套装（14.85 万日元）是一个值得考虑的选项。该套装包含免钥匙双侧电动滑门（通过脚部感应开启）和电动尾门（可在任意位置停止）。对于有小孩或经常搬运物品的家庭，这些功能在日常使用中能大幅减少麻烦，提升便利性。虽然普通电动滑门已足够，但 Voxy 作为日常频繁使用的家用 MPV，便利性的差异会逐渐累积。",
+    "highlights_zh": [
+      "免钥匙双侧电动滑门",
+      "电动尾门可任意位置停止",
+      "14.85 万日元",
+      "日常使用中便利性差异逐渐累积"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "ヴォクシー",
+      "舒适便利套装",
+      "双侧电动滑门",
+      "电动尾门"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02152631/20260410_01_22-3.jpg?v=1782973592",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02152631/20260410_01_22-3-600x337.jpg?v=1782973592",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30124007/20260730_SUBARU-BRZ_01-600x394.jpg?v=1785382809"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:24.487Z"
+  },
+  "https://bestcarweb.jp/feature/column/1576546": {
+    "title_zh": "本田 Stepwgn 顶级版 Premium Line 是否值得多花 25 万日元？",
+    "summary_short": "本田 Stepwgn Spada Premium Line 比标准版贵 25.85 万日元，但增加了自适应远光灯、全景影像、麂皮座椅等配置，性价比如何？",
+    "summary_long": "本田 Stepwgn 的 Spada Premium Line 作为顶级版本，相比标准 Spada 贵出 25.85 万日元。外观上采用铂金镀铬格栅和 17 英寸轮毂，内饰升级为麂皮与 Prime Smooth 组合座椅，并标配第二排座椅加热。安全配置方面，增加了自适应远光灯和多视角摄像头系统。动力系统同为 e:HEV 混动，性能与油耗差异极小。",
+    "highlights_zh": [
+      "价格差 25.85 万日元",
+      "外观升级：铂金镀铬+17 英寸轮毂",
+      "标配自适应远光灯与全景影像",
+      "内饰：麂皮座椅+第二排加热"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "ステップワゴン",
+      "スパーダ",
+      "プレミアムライン"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22160357/s-_DSC2727.jpg?v=1784703838",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/22160357/s-_DSC2727-600x399.jpg?v=1784703838",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28141033/lanp1709_01_s-600x400.jpg?v=1785215434"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:27.577Z"
+  },
+  "https://response.jp/article/2026/07/30/414692.html": {
+    "title_zh": "斯巴鲁 BRZ 改款：MT 车型换挡杆结构升级，EyeSight 新增广角单眼摄像头",
+    "summary_short": "斯巴鲁 BRZ 改款，MT 车型首次搭载广角单眼摄像头强化 EyeSight，换挡杆结构优化，起售价 337.7 万日元。",
+    "summary_long": "斯巴鲁于 7 月 30 日发布 BRZ 改款车型，起售价 337.7 万日元。改款重点在于提升安全性能与驾驶体验：首次为手动挡车型的 EyeSight 系统配备广角单眼摄像头，与立体摄像头协同工作，扩大交叉路口碰撞回避辅助范围；同时，借鉴超级耐久系列赛经验，优化手动挡换挡杆结构，实现更顺畅的换挡操作。",
+    "highlights_zh": [
+      "MT 车型 EyeSight 首次搭载广角单眼摄像头",
+      "交叉路口碰撞回避辅助范围扩大",
+      "换挡杆结构借鉴超级耐久赛经验",
+      "起售价 337.7 万日元"
+    ],
+    "entities": [
+      "斯巴鲁 | SUBARU",
+      "BRZ",
+      "アイサイト",
+      "广角单眼摄像头",
+      "超级耐久系列赛"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231186.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231186.jpg",
+      "https://response.jp/imgs/fill2/2231187.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:28.340Z"
+  },
+  "https://response.jp/article/2026/07/30/414696.html": {
+    "title_zh": "丰田股价 4 天来首次回落，AI 半导体股上涨，获利回吐压力",
+    "summary_short": "丰田股价 4 天来首次下跌，受 AI 和半导体股上涨影响，投资者获利回吐。日经指数反弹，但美股因中东局势下跌。",
+    "summary_long": "30 日日经平均指数反弹，上涨 433.24 点，收于 61867.43 点。尽管开盘下跌，但半导体巨头前日财报推动股价大幅上涨，进而带动人工智能（AI）和半导体相关股买盘。29 日纽约道琼斯指数大幅下跌 1152 点，收于 51594 点，因美伊冲突加剧导致油价上涨，避险抛售占优。以科技股为主的纳斯达克指数连续 6 日下跌，特斯拉下跌 2.97%。丰田股价 4 天来首次回落，受获利回吐压力。",
+    "highlights_zh": [
+      "丰田股价 4 天来首次下跌",
+      "AI 和半导体股上涨带动日经反弹",
+      "美股因中东局势大幅下跌",
+      "特斯拉下跌 2.97%"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "日经平均指数",
+      "人工智能",
+      "半导体",
+      "特斯拉 | Tesla"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231208.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231208.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:31.123Z"
+  },
+  "https://response.jp/article/2026/07/30/414704.html": {
+    "title_zh": "干冰清洗机 Champ Turbo Pro 在日本上市，面向汽车维修制造业",
+    "summary_short": "insieme 在日本推出干冰清洗机旗舰型号 Champ Turbo Pro，面向汽车维修和制造业，清洗能力大幅提升。",
+    "summary_long": "insieme 公司宣布在日本市场推出德国干冰清洗机制造商 Dry Ice Energy 开发的旗舰型号 Champ Turbo Pro。该公司自 2025 年起作为 Dry Ice Energy 的日本总代理，负责国内销售与支持。Champ Turbo Pro 具备远超以往型号的清洗能力，是面向汽车维修和制造业的高端设备。",
+    "highlights_zh": [
+      "insieme 推出干冰清洗机旗舰型号",
+      "Champ Turbo Pro 清洗能力大幅提升",
+      "面向汽车维修和制造业",
+      "德国 Dry Ice Energy 开发"
+    ],
+    "entities": [
+      "insieme",
+      "干冰清洗机",
+      "Champ Turbo Pro",
+      "Dry Ice Energy"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231252.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231252.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:33.965Z"
+  },
+  "https://response.jp/article/2026/07/30/414695.html": {
+    "title_zh": "Hato Bus 60 辆巴士引入车载 Wi-Fi，为乘客和业务建立通信环境",
+    "summary_short": "Hato Bus 60 辆巴士引入车载 Wi-Fi，由 Fibergate 提供，满足乘客娱乐和业务通信需求。",
+    "summary_long": "Fibergate 与 Hato Bus Agency 签约，为 Hato Bus 的 60 辆巴士提供车载 Wi-Fi 服务“Wi-Fi BUS”。近年来，巴士乘客在乘车期间观看视频和浏览网站的需求增加，对高质量稳定 Wi-Fi 环境的需求日益高涨。同时，Hato Bus 使用平板终端获取运行信息，确保稳定可靠的业务通信线路成为课题。Fibergate 提出的“Wi-Fi BUS”能够同时覆盖乘客免费 Wi-Fi 和业务通信线路，提供高质量通信环境。",
+    "highlights_zh": [
+      "60 辆巴士引入车载 Wi-Fi",
+      "满足乘客娱乐和业务通信需求",
+      "Fibergate 提供“Wi-Fi BUS”服务",
+      "解决业务用稳定通信线路课题"
+    ],
+    "entities": [
+      "はとバス",
+      "ファイバーゲート",
+      "Wi-Fi BUS"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231198.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231198.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:36.094Z"
+  },
+  "https://bestcarweb.jp/feature/column/1583725": {
+    "title_zh": "专业维修技师最头疼的车型：从现场心声看“维修性差的车”的特征",
+    "summary_short": "专业维修技师坦言，电脑控制强化、发动机舱狭窄、后装零件干扰等是导致维修困难的主要原因。",
+    "summary_long": "专业汽车维修技师在日常工作中会遇到各种维修困难的车型。电脑控制强化使得后装零件的车辆诊断困难，难以判断故障来源。发动机舱狭窄、螺丝结构不合理等设计问题也增加了维修难度。此外，满载行李和吸烟车也会给维修工作带来不便。",
+    "highlights_zh": [
+      "电脑控制强化导致后装零件车诊断困难",
+      "发动机舱狭窄、螺丝结构不合理增加维修难度",
+      "满载行李和吸烟车给维修带来不便"
+    ],
+    "entities": [
+      "维修性",
+      "电脑控制",
+      "后装零件",
+      "发动机舱",
+      "螺丝结构"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18185247/00_pro-seibi_head.jpg?v=1784368368",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/18185247/00_pro-seibi_head-600x400.jpg?v=1784368368",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28141033/lanp1709_01_s-600x400.jpg?v=1785215434"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:37.894Z"
+  },
+  "https://bestcarweb.jp/news/1582687": {
+    "title_zh": "防止休息时“点头”神器！车用头枕侧垫太方便了",
+    "summary_short": "Hack 公司推出车用头枕侧垫，防止休息时头部晃动，支持 360 度旋转和 12 级角度调节，售价 3980 日元。",
+    "summary_long": "株式会社 Hack 将于 2026 年 8 月发售车用头枕侧垫，旨在解决长途驾驶或车内休息时头部“点头”导致的不适。该产品采用左右支撑结构，可安装在头枕上，支持 360 度旋转和 12 级角度调节，适配前后排及 2 轴头枕，采用 PUL 仿皮材质，参考价 3980 日元（含税）。同期还推出保冷保温杯架、100W 逆变器等车内舒适配件。",
+    "highlights_zh": [
+      "防止休息时头部晃动",
+      "360 度旋转+12 级角度调节",
+      "前后排均可使用",
+      "售价 3980 日元"
+    ],
+    "entities": [
+      "株式会社 Hack",
+      "车用头枕侧垫",
+      "PUL 仿皮",
+      "保冷保温杯架",
+      "100W 逆变器"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17191425/0dd9e431e817d74d1c9c569ed989a6cf.jpg?v=1784283266",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17191425/0dd9e431e817d74d1c9c569ed989a6cf-600x400.jpg?v=1784283266",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25171958/3f34d56a72f437c510515715c798e371-600x314.jpg?v=1784967599"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:39.953Z"
+  },
+  "https://bestcarweb.jp/news/1588921": {
+    "title_zh": "信号等待更轻松！Spacia 专用自动刹车保持套件上市",
+    "summary_short": "CRAFTWORKS 推出 Spacia 专用自动刹车保持套件，自动激活刹车保持和电子驻车，售价 8480 日元。",
+    "summary_long": "CRAFTWORKS 为铃木 Spacia（MK54S/MK94S）推出专用自动刹车保持与自动驻车套件，售价 8480 日元。该套件可自动激活刹车保持功能并管理电子驻车，省去每次启动车辆后手动开启的麻烦，提升日常驾驶便利性。",
+    "highlights_zh": [
+      "自动激活刹车保持功能",
+      "自动管理电子驻车",
+      "售价 8480 日元",
+      "专为现款 Spacia 设计"
+    ],
+    "entities": [
+      "CRAFTWORKS",
+      "スペーシア",
+      "自动刹车保持",
+      "电子驻车",
+      "铃木 | Suzuki"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25174720/b37e891a451a8c909e31c395828917eb.jpg?v=1784969242",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25174720/b37e891a451a8c909e31c395828917eb-600x400.jpg?v=1784969242",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/17191425/0dd9e431e817d74d1c9c569ed989a6cf-600x400.jpg?v=1784283266"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:41.323Z"
+  },
+  "https://insideevs.com/news/803228/chinese-truck-makers-europe-assembly/": {
+    "title_zh": "中国卡车制造商也在欧洲组装电动卡车",
+    "summary_short": "中国卡车制造商 SuperPanther 和中国重汽通过奥地利代工厂组装电动卡车，加速进入欧洲市场。",
+    "summary_long": "中国卡车制造商 SuperPanther 和中国重汽（Sinotruk）正通过奥地利代工制造商 Steyr Automotive 组装电动卡车，以加速进入欧洲市场。SuperPanther 的 eTopas 600 电动卡车已下线，交付给 DHL 等客户；中国重汽则于 3 月启动类似合作。两家公司采用半散件组装（SKD）方式，未来计划增加本地化生产。此举效仿了多家中国车企利用欧洲现有工厂扩张的策略。",
+    "highlights_zh": [
+      "SuperPanther 和中国重汽在奥地利组装电动…",
+      "eTopas 600 搭载 CATL 621kWh…",
+      "采用半散件组装",
+      "效仿中国车企利用欧洲代工厂扩张"
+    ],
+    "entities": [
+      "SuperPanther",
+      "中国重汽",
+      "Steyr Automotive",
+      "eTopas 600",
+      "CATL"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7XVP/s1/superpanther-etopas-600.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:44.081Z"
+  },
+  "https://www.motor1.com/features/803156/why-doesnt-rear-window-roll-down-all-the-way/": {
+    "title_zh": "为什么汽车后窗不能完全降下？",
+    "summary_short": "后窗无法完全降下并非故障，而是受限于后车门内空间不足，轮拱和车门形状限制了玻璃的收纳。",
+    "summary_long": "汽车后窗通常无法像前窗一样完全降入车门，这是因为后车门内部空间有限。前车门形状相对规整，有足够空间容纳整块玻璃；而后车门需避开轮拱，内部形状不规则，导致玻璃无法完全降下。这并非设计缺陷或儿童安全功能，而是物理空间限制的结果。",
+    "highlights_zh": [
+      "后窗无法完全降下是正常现象",
+      "前车门空间充足",
+      "原因在于物理空间不足"
+    ],
+    "entities": [
+      "Motor1"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K32g/s1/why-doesn-t-my-rear-window-roll-down-all-the-way.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:45.090Z"
+  },
+  "https://www.motor1.com/news/803215/audi-neckarsulm-plant-closure-risk/": {
+    "title_zh": "大众考虑关闭奥迪历史悠久的内卡苏尔姆工厂，数千人抗议",
+    "summary_short": "大众考虑关闭奥迪内卡苏尔姆工厂，数千人抗议，该厂生产 A5、A6、A8 和 e-tron GT，就业保护至 2033 年。",
+    "summary_long": "大众汽车在重组过程中考虑关闭奥迪位于德国西南部的内卡苏尔姆工厂，该工厂生产 A5、A6、A8 和 e-tron GT 等车型。7 月 29 日，6000 名工人聚集在工厂门口抗议，要求保留工厂和就业岗位。尽管有就业保护协议至 2033 年底，但大众计划到 2030 年在德国裁减约 5 万个岗位，并可能进一步削减全球 10 万个岗位。内卡苏尔姆工厂是大众评估可能关闭的四家德国工厂之一，生产可能从 2031 年开始逐步减少。",
+    "highlights_zh": [
+      "6000 人抗议大众关闭奥迪内卡苏尔姆工厂",
+      "工厂生产 A5、A6、A8 和 e-tron GT",
+      "就业保护协议至 2033 年底",
+      "大众计划全球裁员 10 万人"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "奥迪 | Audi",
+      "A5",
+      "A6",
+      "A8"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/E6NZme/s1/audi-neckarsulm-plant.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:47.878Z"
+  },
+  "https://www.motor1.com/news/803201/2027-audi-q9-configurator-live/": {
+    "title_zh": "2027 款奥迪 Q9 配置器已上线，我们选满了所有选项",
+    "summary_short": "奥迪 Q9 配置器在美国上线，起价 8.9 万美元，顶配 SQ9 达 11.9 万，满配需 13 万。",
+    "summary_long": "奥迪 2027 款 Q9 及 SQ9 在美国官网配置器上线，起售价 89,095 美元，SQ9 起价 119,395 美元。满配后价格达 130,245 美元。Q9 作为全尺寸 SUV，主要面向北美市场，竞争对手包括宝马 X7 和奔驰 GLS。车身颜色和皮革内饰均为免费选项。",
+    "highlights_zh": [
+      "Q9 起价 89",
+      "满配价格达 130",
+      "车身颜色和皮革内饰免费",
+      "主要面向北美市场"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q9",
+      "SQ9",
+      "宝马 X7 | BMW X7",
+      "奔驰 GLS | Mercedes GLS"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkY1vZ/s1/2027-audi-sq9-configurator.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:48.530Z"
+  },
+  "https://www.motor1.com/news/803191/2027-genesis-gv60-magma-price/": {
+    "title_zh": "2027 款捷尼赛思 GV60 Magma 起售价 71,495 美元，比现代 Ioniq 5 N 贵 9,000 美元",
+    "summary_short": "捷尼赛思 GV60 Magma 作为 Magma 子品牌首款车型，售价 71,495 美元，比现代 Ioniq 5 N 贵 9,000 美元，提供 641 马力。",
+    "summary_long": "捷尼赛思推出全新性能子品牌 Magma，首款车型 GV60 Magma 售价 71,495 美元（含运费），比同平台现代 Ioniq 5 N 贵 8,995 美元。该车搭载双电机四驱，Boost 模式下输出 641 马力和 790 牛·米扭矩，比 Ioniq 5 N 多 20 牛·米。外观可选 Magma Orange 等四种颜色，配备 21 英寸锻造轮毂和大型后扰流板，内饰采用 Obsidian Black 桶椅配橙色缝线。车辆提供模拟换挡和声浪，初期仅在美国加州、纽约和新泽西销售。",
+    "highlights_zh": [
+      "起售价 71",
+      "双电机四驱",
+      "提供四种外观颜色",
+      "模拟换挡与声浪"
+    ],
+    "entities": [
+      "捷尼赛思 | Genesis",
+      "GV60 Magma",
+      "现代 | Hyundai",
+      "Ioniq 5 N",
+      "Magma"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPr4M/s1/2027-genesis-gv60-magma.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:51.830Z"
+  },
+  "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger/": {
+    "title_zh": "东风发布 1.5 兆瓦超快充桩，对标比亚迪",
+    "summary_short": "东风推出自研 1.5 兆瓦超快充桩，峰值功率 1500 千瓦，支持 1000V 电压，效率 96.7%，可适配所有电动车。",
+    "summary_long": "东风汽车发布了首款自研超快充桩，峰值功率达 1500 千瓦，支持 1000V 高压和 150V 低压，效率 96.7%，可适配市面上几乎所有电动车。该充电桩可同时为两辆车充电，但功率会自动分配。东风表示正在开发下一代带储能功能的充电桩，功率范围 720 千瓦至 2.4 兆瓦，兼容乘用车和商用车。",
+    "highlights_zh": [
+      "峰值功率 1500 千瓦",
+      "电压范围 150V-1000V",
+      "效率 96.7%",
+      "可同时充两车"
+    ],
+    "entities": [
+      "东风 | Dongfeng",
+      "比亚迪 | BYD",
+      "超快充桩",
+      "兆瓦级充电"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZzJm/s1/voyah-ev-charging.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/2026073003033437jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:52.677Z"
+  },
+  "https://www.motor1.com/news/803188/2026-toyota-grmn-corolla-price/": {
+    "title_zh": "丰田 GRMN 卡罗拉售价堪比 Supra",
+    "summary_short": "丰田 GRMN 卡罗拉限量 730 台，售价 64360 美元，扭矩提升至 302 磅英尺，配备 Cup 2 轮胎和赛道化调校。",
+    "summary_long": "丰田推出 2026 款 GRMN 卡罗拉，作为最极端的卡罗拉车型，全球限量 730 台，售价 64360 美元。该车基于 GR 卡罗拉打造，1.6 升三缸涡轮增压发动机输出 300 马力，扭矩提升至 302 磅英尺，并配备米其林 Pilot Sport Cup 2 轮胎、赛道化悬架、空气动力学和四驱软件。后座被移除以减轻重量，手工组装于日本元町工厂。其价格与 GR Supra 3.0 或福特 Mustang Dark Horse 相当，预计需求将远超供应。",
+    "highlights_zh": [
+      "全球限量 730 台",
+      "售价 64360 美元",
+      "扭矩提升至 302 磅英尺",
+      "配备 Cup 2 轮胎"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GRMN 卡罗拉",
+      "GR Supra",
+      "福特 Mustang Dark Horse",
+      "米其林 Pilot Sport Cup 2"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/1ZwrPW/s1/2026-toyota-grmn-corolla.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:55.460Z"
+  },
+  "https://www.motor1.com/news/803167/audi-q9-more-engines-europe/": {
+    "title_zh": "奥迪 Q9 在欧洲以柴油动力上市，更多发动机即将推出",
+    "summary_short": "奥迪 Q9 在欧洲仅提供 3.0 升 V6 柴油机，明年将增加汽油 V6 和插电混动版本。",
+    "summary_long": "奥迪 Q9 在欧洲市场仅以 3.0 升 V6 柴油轻混动力起步，但据奥迪发言人透露，明年将增加汽油 V6 和插电混动版本。尽管柴油车在欧洲销量暴跌至 6.5%，奥迪仍坚持推出柴油版 Q9。在美国市场，Q9 提供 V6 和 V8 汽油发动机。高性能 SQ9 是否进入欧洲仍在评估中。",
+    "highlights_zh": [
+      "欧洲首发仅 3.0 升 V6 柴油轻混",
+      "明年新增汽油 V6 和插电混动",
+      "美国市场提供 V6 和 V8 汽油",
+      "高性能 SQ9 正在评估中"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q9",
+      "柴油发动机",
+      "插电混动",
+      "SQ9"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/P3BKX4/s1/2027-audi-q9.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:56.192Z"
+  },
+  "https://insideevs.com/news/803177/2027-genesis-gv60-magma-pricing/": {
+    "title_zh": "Genesis 首款性能车型 GV60 Magma 定价 71,495 美元",
+    "summary_short": "Genesis 首款性能车 GV60 Magma 发布，双电机 641 马力，带虚拟换挡和漂移模式，起价 71,495 美元。",
+    "summary_long": "Genesis 首款性能车型 2027 款 GV60 Magma 正式上市，起售价 71,495 美元（含运费）。该车搭载双电机四驱系统，日常输出 600 马力，开启 Boost 模式后可爆发 641 马力和 583 磅-英尺扭矩。配备虚拟变速箱模拟换挡冲击，以及电子限滑差速器，提升操控性。作为豪华品牌，GV60 Magma 在内饰和经销商体验上优于同平台的现代 Ioniq 5 N，但价格高出约 1 万美元。",
+    "highlights_zh": [
+      "双电机最大 641 马力",
+      "虚拟变速箱模拟换挡",
+      "配备漂移模式",
+      "起售价 71"
+    ],
+    "entities": [
+      "Genesis",
+      "GV60 Magma",
+      "现代 | Hyundai",
+      "Ioniq 5 N",
+      "双电机"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXYnMM/s1/genesis-gv60-magma-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-07-30T15:26:59.466Z"
   }
 }

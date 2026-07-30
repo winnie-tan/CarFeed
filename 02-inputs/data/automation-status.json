@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-30T03:25:16.203Z",
+    "generated_at": "2026-07-30T15:25:48.437Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 362,
-    "deepseek_untranslated_before_run": 38,
-    "newly_fetched_articles": 38,
-    "newly_fetched_untranslated": 38,
+    "deepseek_translated_before_run": 365,
+    "deepseek_untranslated_before_run": 35,
+    "newly_fetched_articles": 35,
+    "newly_fetched_untranslated": 35,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 38,
+    "translation_queue_count": 35,
     "translation_queue_preview": [
       {
+        "source": "Motor1",
+        "time": "2026.7.30",
+        "title": "Ford's Super Duty Could Become The US Army's Next Tactical Truck",
+        "url": "https://www.motor1.com/news/803233/ford-super-duty-enters-army/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.30",
+        "title": "The Ferrari Luce Has Done Its Job",
+        "url": "https://www.thedrive.com/news/the-ferrari-luce-has-done-its-job"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.30",
+        "title": "Mazda CEO Says The Miata Could Go Electric—Eventually",
+        "url": "https://www.motor1.com/news/803246/mazda-miata-ev-rumored/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.30",
+        "title": "Top Gear Star Richard Hammond Hit With $2,300 Speeding Fine And Seven Points",
+        "url": "https://www.motor1.com/news/803230/richard-hammond-fined-porsche-bentley/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.30",
+        "title": "Americans Don’t Lease as Much as They Used To. Blame Carmakers: TDS",
+        "url": "https://www.thedrive.com/news/americans-dont-lease-as-much-as-they-used-to-blame-carmakers-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.30",
+        "title": "Shocking: Ferrari's Controversial EV Is Reportedly Sold Out",
+        "url": "https://www.motor1.com/news/803151/ferrari-luce-ev-sold-out-report/"
+      },
+      {
         "source": "Response.jp",
         "time": "2026.7.30",
-        "title": "「AIだけでは机を1ミリも動かせない」 山際議員が語る日本の勝ち筋…デロイト「ロボティクス・フィジカルAI戦略最前線フォーラム」",
-        "url": "https://response.jp/article/2026/07/30/414673.html"
+        "title": "「マツダスポーツの聖地」東京・深川にブランド拠点オープン、都市圏で“特化型ディーラー”注力へ",
+        "url": "https://response.jp/article/2026/07/30/414687.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "『ジムニー』の助手席下デッドスペースを収納に変える、クラフトワークスが専用バッグ発売",
+        "url": "https://response.jp/article/2026/07/30/414702.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 【激変するインド自動車産業】政策転換とEVシフト、クイックコマースが拓く日本企業の勝機",
+        "url": "https://response.jp/article/2026/07/30/414685.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "【ボルボ EX90 新型試乗】ロングドライブで分かった、フルサイズ電動SUVの“正しい作法”",
+        "url": "https://response.jp/article/2026/07/30/414701.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "AIドラレコ「DRIVE CHART」、法人向けリース開始…住友三井オートサービスとGOドライブが連携",
+        "url": "https://response.jp/article/2026/07/30/414706.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "AI時代のCX診断/設計サービス、生成AIで「選ばれる企業」へ…Ridgelinezが開始",
+        "url": "https://response.jp/article/2026/07/30/414699.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.30",
-        "title": "「パーツが出ない」で話題のホンダがついに動いた!! ホンダヘリテージワークスが平成の傑作「NSX」から開始！",
-        "url": "https://bestcarweb.jp/feature/column/1588887"
+        "title": "MT車ロスに効く特効薬!! 2ペダルでも熱くなれるAT車4選",
+        "url": "https://bestcarweb.jp/feature/column/1588367"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.30",
-        "title": "『ロボスタ』がロボカップの最新動向を解説！ オンラインセミナー開催 8月5日",
-        "url": "https://response.jp/article/2026/07/30/414663.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "【レスポンスカンファレンス2026】日米欧中のトッププレーヤーが集結…自動運転の現在地とクルマの知能化が描く未来",
-        "url": "https://response.jp/article/2026/07/30/414667.html"
+        "title": "NOK、学生フォーミュラ日本大会2026を支援…Oリングなど部品約300点を無償提供",
+        "url": "https://response.jp/article/2026/07/30/414698.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.30",
-        "title": "【眩しさカット＆信号クッキリ】運転が劇的ラクになる SWANS「ドライビングサングラス」が超優秀な件",
-        "url": "https://bestcarweb.jp/news/car-accessory/1592552"
+        "title": "Tシャツからポロ、キャップまで!! 75周年のランドクルーザー公式新作アイテムを身に着けよう!!",
+        "url": "https://bestcarweb.jp/news/1588937"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.30",
-        "title": "【視察ツアー8月9日申込締切】2026世界ロボット大会（WRC）企業視察ツアー、中国最先端の「フィジカルAI」と業務提携を導く3日間",
-        "url": "https://response.jp/article/2026/07/30/414664.html"
+        "title": "webCGの人気連載「カーデザイン曼荼羅」初の公開収録イベント開催 8月24日",
+        "url": "https://response.jp/article/2026/07/30/414681.html"
       },
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.7.30",
-        "title": "＜新連載＞［極上カーオーディオへの誘い］超高級スピーカーを使えば、豊かでリアルな美麗サウンドを満喫できる！",
-        "url": "https://response.jp/article/2026/07/30/414675.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "BMW『iX3』新型、映画『スパイダーマン』最新作と連動…デジタル外装と車内アニメ配信で",
-        "url": "https://response.jp/article/2026/07/30/414665.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "MIDレーシング「R06」に待望の白！FDJ2で選ばれる6本スポークの本気PR",
-        "url": "https://response.jp/article/2026/07/30/414678.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "アーシングチューンには効果があるのか？その理由とは…夏のカスタムまとめ",
-        "url": "https://response.jp/article/2026/07/30/414679.html"
+        "title": "Woman Goes On Test Drive. Then She Takes The Car Straight To AutoZone: ‘I Need A Full Diagnostic’",
+        "url": "https://www.motor1.com/news/802985/woman-test-drive-autozone-diagnostic/"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.30",
-        "title": "あなたのドラレコは大丈夫？ 証拠が消える!? 猛暑でドラレコに起きる3つの異変",
-        "url": "https://bestcarweb.jp/feature/column/1587680"
+        "title": "ヴォクシーの快適利便パッケージは付けるべき？ 両側スライドドアとリアまわり装備の満足度",
+        "url": "https://bestcarweb.jp/newcar/1561005"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.30",
-        "title": "この日だけバスが“電車”やります! 新潟交通の旅くれよん「電鉄探訪」ツアーが魅せた特別な1日!!",
-        "url": "https://bestcarweb.jp/busmagazine/1585489"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.30",
-        "title": "これが「日本で一番売れている大型トラック」の実力だ！ 熟成の進化を遂げたいすゞ新型「ギガ」を試す!!!!【PR】",
-        "url": "https://bestcarweb.jp/fullload/1589951"
+        "title": "ステップワゴンの最上級「プレミアムライン」は本当に必要か!? 標準スパーダとの25万8500円の価格差を考える！",
+        "url": "https://bestcarweb.jp/feature/column/1576546"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.30",
-        "title": "スズキ、自動車設計業務に「SmartDB」導入…ドリーム・アーツのクラウドで開発力強化",
-        "url": "https://response.jp/article/2026/07/30/414672.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "スズキの3列7人乗りSUV『XL7』、改良新型をインドネシアで発売…表情一新",
-        "url": "https://response.jp/article/2026/07/30/414660.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.30",
-        "title": "セレナのグーグル搭載日産コネクトは便利か？ 2025年改良で進化した家族ミニバンの中身",
-        "url": "https://bestcarweb.jp/feature/column/1564268"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "ダイナミックマップ、NVIDIA・MathWorksとフィジカルAI向けデータ生成セミナー開催",
-        "url": "https://response.jp/article/2026/07/30/414674.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.30",
-        "title": "ついに「新型スカイライン」正式予告！ 丸型4灯テールと6速MT復活でファン歓喜!?",
-        "url": "https://bestcarweb.jp/feature/column/1572846"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "トヨタ『ルーミー』フルモデルチェンジは延期!?「大幅改良」の可能性が高まる理由とは",
-        "url": "https://response.jp/article/2026/07/30/414677.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "トヨタファイナンシャルサービス「my route」、「Universal MaaS」と連携…バリアフリー情報配信開始",
-        "url": "https://response.jp/article/2026/07/30/414676.html"
+        "title": "スバル『BRZ』MT車に新シフトレバー構造、「アイサイト」に広角単眼カメラも採用…337万7000円から",
+        "url": "https://response.jp/article/2026/07/30/414692.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30511110255",
-    "sha": "31464f973eec1bf97d4373f1bc9c7dde70411f69",
-    "completed_at": "2026-07-30T03:26:25.517Z",
+    "run_id": "30556591863",
+    "sha": "6f0670846850fafbfc32e083721e3b14618f175e",
+    "completed_at": "2026-07-30T15:26:59.770Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 38,
-    "queued_articles": 38,
-    "processed": 38,
-    "started_at": "2026-07-30T03:25:16.822Z",
-    "finished_at": "2026-07-30T03:26:25.272Z",
+    "scoped_articles": 35,
+    "queued_articles": 35,
+    "processed": 35,
+    "started_at": "2026-07-30T15:25:48.791Z",
+    "finished_at": "2026-07-30T15:26:59.489Z",
     "success": true,
     "error": ""
   }
