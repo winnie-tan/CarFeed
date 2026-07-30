@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-29T15:34:20.885Z",
+    "generated_at": "2026-07-30T03:25:16.203Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 366,
-    "deepseek_untranslated_before_run": 34,
-    "newly_fetched_articles": 34,
-    "newly_fetched_untranslated": 34,
+    "deepseek_translated_before_run": 362,
+    "deepseek_untranslated_before_run": 38,
+    "newly_fetched_articles": 38,
+    "newly_fetched_untranslated": 38,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 34,
+    "translation_queue_count": 38,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.29",
-        "title": "GM Is Already Replacing The New Chevrolet Equinox EV",
-        "url": "https://www.motor1.com/news/803110/chevrolet-equinox-ev-second-generation/"
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "「AIだけでは机を1ミリも動かせない」 山際議員が語る日本の勝ち筋…デロイト「ロボティクス・フィジカルAI戦略最前線フォーラム」",
+        "url": "https://response.jp/article/2026/07/30/414673.html"
       },
       {
-        "source": "The Drive",
-        "time": "2026.7.29",
-        "title": "Get 25% off the Perfect Car Vacuum for Pet Owners",
-        "url": "https://www.thedrive.com/news/get-25-off-the-perfect-car-vacuum-for-pet-owners"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.29",
-        "title": "777-HP Ram Rumble Bee SRT Hellcat Street Truck Starts Just Under $100K",
-        "url": "https://www.thedrive.com/news/777-hp-ram-rumble-bee-srt-hellcat-street-truck-starts-just-under-100k"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.29",
-        "title": "BMW's Off-Road SUV Might Not Happen After All",
-        "url": "https://www.motor1.com/news/803105/bmw-off-road-suv-not-approved-production/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.29",
-        "title": "There’s a Debate Raging on America’s Best Driving Roads",
-        "url": "https://www.thedrive.com/news/theres-a-debate-raging-on-americas-best-driving-roads"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.29",
-        "title": "Porsche Honors Its Racing Heritage With Two Gorgeous Throwback Liveries",
-        "url": "https://www.motor1.com/news/803020/porsche-963-retro-liveries-road-america/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.29",
-        "title": "2026 GMC Sierra EV Denali Max Range Pros and Cons Review: My Favorite Electric Car so Far",
-        "url": "https://www.thedrive.com/car-reviews/2026-gmc-sierra-ev-denali-review"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.29",
-        "title": "China's Newest Luxury SUV Is Built To Beat The Germans",
-        "url": "https://www.motor1.com/news/803077/zeekr-9x-price-info/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.29",
-        "title": "BMW’s G-Wagen Fighter May Not Be Happening After All: TDS",
-        "url": "https://www.thedrive.com/news/bmws-g-wagen-fighter-may-not-be-happening-after-all-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.29",
-        "title": "'We're Here to Deliver:' How A Forgotten Hypercar Company Plans To Make A Big Comeback",
-        "url": "https://www.motor1.com/news/803016/apollo-hypercar-brand-rebuilding-interview/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.29",
-        "title": "China’s EV Charging Race Just Broke The Four-Minute Barrier",
-        "url": "https://insideevs.com/news/803094/hongqi-four-minute-charging-test/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.29",
-        "title": "2027 Ram Rumble Bee Pricing: $35,000 Gap Between Cheapest And Most Expensive",
-        "url": "https://www.motor1.com/news/803062/2027-ram-rumble-bee-pricing/"
+        "source": "Best Car Web",
+        "time": "2026.7.30",
+        "title": "「パーツが出ない」で話題のホンダがついに動いた!! ホンダヘリテージワークスが平成の傑作「NSX」から開始！",
+        "url": "https://bestcarweb.jp/feature/column/1588887"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.29",
-        "title": "「これは売れそう」レクサス『RX』大幅改良か？ スクープ情報にSNSでは「どう変わるのか気になる」の声も",
-        "url": "https://response.jp/article/2026/07/29/414651.html"
+        "time": "2026.7.30",
+        "title": "『ロボスタ』がロボカップの最新動向を解説！ オンラインセミナー開催 8月5日",
+        "url": "https://response.jp/article/2026/07/30/414663.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.29",
-        "title": "『CARTUNE』がオールジャンルミーティングを初開催！ 9月13日に神戸三田で",
-        "url": "https://response.jp/article/2026/07/29/414644.html"
+        "time": "2026.7.30",
+        "title": "【レスポンスカンファレンス2026】日米欧中のトッププレーヤーが集結…自動運転の現在地とクルマの知能化が描く未来",
+        "url": "https://response.jp/article/2026/07/30/414667.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.30",
+        "title": "【眩しさカット＆信号クッキリ】運転が劇的ラクになる SWANS「ドライビングサングラス」が超優秀な件",
+        "url": "https://bestcarweb.jp/news/car-accessory/1592552"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.29",
-        "title": "『ジムニーノマド』（1型）向け「JAOSリヤスポーツカウル」登場、リヤパーキングセンサー付に対応",
-        "url": "https://response.jp/article/2026/07/29/414649.html"
+        "time": "2026.7.30",
+        "title": "【視察ツアー8月9日申込締切】2026世界ロボット大会（WRC）企業視察ツアー、中国最先端の「フィジカルAI」と業務提携を導く3日間",
+        "url": "https://response.jp/article/2026/07/30/414664.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.29",
-        "title": "【スズキ ジムニーノマド 新型試乗】早くも「2型」に進化！ 欲しいという気にさせるクルマだ…中村孝仁",
-        "url": "https://response.jp/article/2026/07/29/414648.html"
+        "time": "2026.7.30",
+        "title": "＜新連載＞［極上カーオーディオへの誘い］超高級スピーカーを使えば、豊かでリアルな美麗サウンドを満喫できる！",
+        "url": "https://response.jp/article/2026/07/30/414675.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.29",
-        "title": "EV充電サービス「テラチャージ」、熊本地震で充電器71基を無償開放",
-        "url": "https://response.jp/article/2026/07/29/414646.html"
+        "time": "2026.7.30",
+        "title": "BMW『iX3』新型、映画『スパイダーマン』最新作と連動…デジタル外装と車内アニメ配信で",
+        "url": "https://response.jp/article/2026/07/30/414665.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.29",
-        "title": "EV急速充電器「FLASH」、熊本地震で5拠点を無料開放",
-        "url": "https://response.jp/article/2026/07/29/414642.html"
+        "time": "2026.7.30",
+        "title": "MIDレーシング「R06」に待望の白！FDJ2で選ばれる6本スポークの本気PR",
+        "url": "https://response.jp/article/2026/07/30/414678.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.29",
-        "title": "KYOJO CUPが舞台、次世代リアルタイム映像配信システムの実証実験へ…ローカル5GとPhysical AIを活用",
-        "url": "https://response.jp/article/2026/07/29/414641.html"
+        "time": "2026.7.30",
+        "title": "アーシングチューンには効果があるのか？その理由とは…夏のカスタムまとめ",
+        "url": "https://response.jp/article/2026/07/30/414679.html"
       },
       {
-        "source": "Motor1",
-        "time": "2026.7.29",
-        "title": "Man Shops Mercedes EV. Then He Sees How Much It Depreciates In Just 2 Years",
-        "url": "https://www.motor1.com/news/802969/mercedes-ev-depreciation/"
+        "source": "Best Car Web",
+        "time": "2026.7.30",
+        "title": "あなたのドラレコは大丈夫？ 証拠が消える!? 猛暑でドラレコに起きる3つの異変",
+        "url": "https://bestcarweb.jp/feature/column/1587680"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.30",
+        "title": "この日だけバスが“電車”やります! 新潟交通の旅くれよん「電鉄探訪」ツアーが魅せた特別な1日!!",
+        "url": "https://bestcarweb.jp/busmagazine/1585489"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.30",
+        "title": "これが「日本で一番売れている大型トラック」の実力だ！ 熟成の進化を遂げたいすゞ新型「ギガ」を試す!!!!【PR】",
+        "url": "https://bestcarweb.jp/fullload/1589951"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "スズキ、自動車設計業務に「SmartDB」導入…ドリーム・アーツのクラウドで開発力強化",
+        "url": "https://response.jp/article/2026/07/30/414672.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "スズキの3列7人乗りSUV『XL7』、改良新型をインドネシアで発売…表情一新",
+        "url": "https://response.jp/article/2026/07/30/414660.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.30",
+        "title": "セレナのグーグル搭載日産コネクトは便利か？ 2025年改良で進化した家族ミニバンの中身",
+        "url": "https://bestcarweb.jp/feature/column/1564268"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "ダイナミックマップ、NVIDIA・MathWorksとフィジカルAI向けデータ生成セミナー開催",
+        "url": "https://response.jp/article/2026/07/30/414674.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.30",
+        "title": "ついに「新型スカイライン」正式予告！ 丸型4灯テールと6速MT復活でファン歓喜!?",
+        "url": "https://bestcarweb.jp/feature/column/1572846"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "トヨタ『ルーミー』フルモデルチェンジは延期!?「大幅改良」の可能性が高まる理由とは",
+        "url": "https://response.jp/article/2026/07/30/414677.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.30",
+        "title": "トヨタファイナンシャルサービス「my route」、「Universal MaaS」と連携…バリアフリー情報配信開始",
+        "url": "https://response.jp/article/2026/07/30/414676.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30465465005",
-    "sha": "e645fc239cc2a85b1293b2f216b51e62bb4b6002",
-    "completed_at": "2026-07-29T15:35:25.617Z",
+    "run_id": "30511110255",
+    "sha": "31464f973eec1bf97d4373f1bc9c7dde70411f69",
+    "completed_at": "2026-07-30T03:26:25.517Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 34,
-    "queued_articles": 34,
-    "processed": 34,
-    "started_at": "2026-07-29T15:34:21.221Z",
-    "finished_at": "2026-07-29T15:35:25.317Z",
+    "scoped_articles": 38,
+    "queued_articles": 38,
+    "processed": 38,
+    "started_at": "2026-07-30T03:25:16.822Z",
+    "finished_at": "2026-07-30T03:26:25.272Z",
     "success": true,
     "error": ""
   }
