@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-30T15:25:48.437Z",
+    "generated_at": "2026-07-31T03:47:37.914Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 365,
-    "deepseek_untranslated_before_run": 35,
-    "newly_fetched_articles": 35,
-    "newly_fetched_untranslated": 35,
+    "deepseek_translated_before_run": 364,
+    "deepseek_untranslated_before_run": 36,
+    "newly_fetched_articles": 36,
+    "newly_fetched_untranslated": 36,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 35,
+    "translation_queue_count": 36,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.7.30",
-        "title": "Ford's Super Duty Could Become The US Army's Next Tactical Truck",
-        "url": "https://www.motor1.com/news/803233/ford-super-duty-enters-army/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.30",
-        "title": "The Ferrari Luce Has Done Its Job",
-        "url": "https://www.thedrive.com/news/the-ferrari-luce-has-done-its-job"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.30",
-        "title": "Mazda CEO Says The Miata Could Go Electric—Eventually",
-        "url": "https://www.motor1.com/news/803246/mazda-miata-ev-rumored/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.30",
-        "title": "Top Gear Star Richard Hammond Hit With $2,300 Speeding Fine And Seven Points",
-        "url": "https://www.motor1.com/news/803230/richard-hammond-fined-porsche-bentley/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.30",
-        "title": "Americans Don’t Lease as Much as They Used To. Blame Carmakers: TDS",
-        "url": "https://www.thedrive.com/news/americans-dont-lease-as-much-as-they-used-to-blame-carmakers-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.30",
-        "title": "Shocking: Ferrari's Controversial EV Is Reportedly Sold Out",
-        "url": "https://www.motor1.com/news/803151/ferrari-luce-ev-sold-out-report/"
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "『ロボスタ』がロボカップの最新動向を解説！ オンラインセミナー開催 8月5日",
+        "url": "https://response.jp/article/2026/07/31/414719.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "「マツダスポーツの聖地」東京・深川にブランド拠点オープン、都市圏で“特化型ディーラー”注力へ",
-        "url": "https://response.jp/article/2026/07/30/414687.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "『ジムニー』の助手席下デッドスペースを収納に変える、クラフトワークスが専用バッグ発売",
-        "url": "https://response.jp/article/2026/07/30/414702.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 【激変するインド自動車産業】政策転換とEVシフト、クイックコマースが拓く日本企業の勝機",
-        "url": "https://response.jp/article/2026/07/30/414685.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "【ボルボ EX90 新型試乗】ロングドライブで分かった、フルサイズ電動SUVの“正しい作法”",
-        "url": "https://response.jp/article/2026/07/30/414701.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "AIドラレコ「DRIVE CHART」、法人向けリース開始…住友三井オートサービスとGOドライブが連携",
-        "url": "https://response.jp/article/2026/07/30/414706.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "AI時代のCX診断/設計サービス、生成AIで「選ばれる企業」へ…Ridgelinezが開始",
-        "url": "https://response.jp/article/2026/07/30/414699.html"
+        "time": "2026.7.31",
+        "title": "【ヤマハ トレーサー9 GT+ Y-AMT 試乗】“全部載せ”で200万円切り！ ヤマハのオタク気質が生んだ、究極の旅バイク…伊丹孝裕",
+        "url": "https://response.jp/article/2026/07/31/414733.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.30",
-        "title": "MT車ロスに効く特効薬!! 2ペダルでも熱くなれるAT車4選",
-        "url": "https://bestcarweb.jp/feature/column/1588367"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "NOK、学生フォーミュラ日本大会2026を支援…Oリングなど部品約300点を無償提供",
-        "url": "https://response.jp/article/2026/07/30/414698.html"
+        "time": "2026.7.31",
+        "title": "1790mm幅ってデカすぎない!? WR-Vは5ナンバー卒業勢でも使いやすいサイズなの!?!?!",
+        "url": "https://bestcarweb.jp/feature/column/1571239"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.30",
-        "title": "Tシャツからポロ、キャップまで!! 75周年のランドクルーザー公式新作アイテムを身に着けよう!!",
-        "url": "https://bestcarweb.jp/news/1588937"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "webCGの人気連載「カーデザイン曼荼羅」初の公開収録イベント開催 8月24日",
-        "url": "https://response.jp/article/2026/07/30/414681.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.30",
-        "title": "Woman Goes On Test Drive. Then She Takes The Car Straight To AutoZone: ‘I Need A Full Diagnostic’",
-        "url": "https://www.motor1.com/news/802985/woman-test-drive-autozone-diagnostic/"
+        "time": "2026.7.31",
+        "title": "30系アルファードの車内がより上質に!! 色替えもできるタッチ式LEDルームランプがスゴイ!!",
+        "url": "https://bestcarweb.jp/news/1588929"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.30",
-        "title": "ヴォクシーの快適利便パッケージは付けるべき？ 両側スライドドアとリアまわり装備の満足度",
-        "url": "https://bestcarweb.jp/newcar/1561005"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.30",
-        "title": "ステップワゴンの最上級「プレミアムライン」は本当に必要か!? 標準スパーダとの25万8500円の価格差を考える！",
-        "url": "https://bestcarweb.jp/feature/column/1576546"
+        "time": "2026.7.31",
+        "title": "5人乗りの気軽さか6人乗りの余裕か!? スズキ ソリオ対ホンダ フリードを徹底比較!!",
+        "url": "https://bestcarweb.jp/feature/column/1583293"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.30",
-        "title": "スバル『BRZ』MT車に新シフトレバー構造、「アイサイト」に広角単眼カメラも採用…337万7000円から",
-        "url": "https://response.jp/article/2026/07/30/414692.html"
+        "time": "2026.7.31",
+        "title": "9/15申込締切【池田直渡の着眼大局セミナー】第10回 スズキ 新興国魂で切り拓く未来 -インドと共に成長する-",
+        "url": "https://response.jp/article/2026/07/31/414732.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "NECのPLMソフト「オブリガート R5」、AIや環境規制対応を強化…「ものづくりマスター」を中核に",
+        "url": "https://response.jp/article/2026/07/31/414728.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.31",
+        "title": "ヴォクシー7人乗りと8人乗りどっちが正解？ キャプテンシートか実用人数かで選ぶ家族ミニバン",
+        "url": "https://bestcarweb.jp/newcar/1561008"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.31",
+        "title": "スポーツカーにバチバチに決まる見た目は継承しつつ何が変わった!? 「極」のスペックアップだと思ったら大間違い!? ワークエモーション「CR至極」を「進化」と呼ぶべき理由！【PR】",
+        "url": "https://bestcarweb.jp/feature/tieup/1590642"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "ゼンリンデータコム、熊本被災地の通行実績情報マップを無料公開…ホンダのカープローブデータ活用",
+        "url": "https://response.jp/article/2026/07/31/414735.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.31",
+        "title": "ソリオより5500円安い!! 比べてわかったルーミーの維持費のお手頃感",
+        "url": "https://bestcarweb.jp/feature/column/1573472"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "ナビタイムジャパン、台湾交通部観光署と協力覚書を締結…『Taiwan Travel by NAVITIME』が公認アプリに",
+        "url": "https://response.jp/article/2026/07/31/414722.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "ヒョンデ『インスター』809台をリコール 最悪の場合は走行できないおそれ",
+        "url": "https://response.jp/article/2026/07/31/414727.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "ホンダ『アコード』を一部改良、ボディ同色パーツで上質に…595万1000円から",
+        "url": "https://response.jp/article/2026/07/30/414709.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "マツダ『CX-5』新型、安全性で最高評価TSP+を獲得…米IIHS",
+        "url": "https://response.jp/article/2026/07/31/414713.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.31",
+        "title": "モーターで動くけどプラモじゃない!! まさかのタミヤがファン付き「空調服」を発売!!",
+        "url": "https://bestcarweb.jp/news/car-accessory/1591303"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "ヤンマーHDと日立建機、コンパクト建機事業で協業検討の基本合意書を締結",
+        "url": "https://response.jp/article/2026/07/31/414724.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "レンジローバーが“大変身”！ 巨大曲面ディススプレイ採用か…改良新型をスクープ",
+        "url": "https://response.jp/article/2026/07/31/414717.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "三井化学、生成AI活用の国際材料開発ネットワーク「AI Materials Foundry」に創設メンバーとして参画",
+        "url": "https://response.jp/article/2026/07/31/414726.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.7.31",
+        "title": "上質な小型車ならどっち!? 日産ノート オーラ対マツダ3を内装と走りで比較",
+        "url": "https://bestcarweb.jp/feature/column/1585061"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30556591863",
-    "sha": "6f0670846850fafbfc32e083721e3b14618f175e",
-    "completed_at": "2026-07-30T15:26:59.770Z",
+    "run_id": "30602448212",
+    "sha": "0f7e9c95bb0889651d4d05b0b311c17c17c10e7e",
+    "completed_at": "2026-07-31T03:48:54.842Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 35,
-    "queued_articles": 35,
-    "processed": 35,
-    "started_at": "2026-07-30T15:25:48.791Z",
-    "finished_at": "2026-07-30T15:26:59.489Z",
+    "scoped_articles": 36,
+    "queued_articles": 36,
+    "processed": 36,
+    "started_at": "2026-07-31T03:47:38.257Z",
+    "finished_at": "2026-07-31T03:48:54.550Z",
     "success": true,
     "error": ""
   }
