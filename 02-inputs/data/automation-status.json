@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-07-31T03:47:37.914Z",
+    "generated_at": "2026-07-31T15:30:52.409Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 364,
-    "deepseek_untranslated_before_run": 36,
-    "newly_fetched_articles": 36,
-    "newly_fetched_untranslated": 36,
+    "deepseek_translated_before_run": 355,
+    "deepseek_untranslated_before_run": 45,
+    "newly_fetched_articles": 45,
+    "newly_fetched_untranslated": 45,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 36,
+    "translation_queue_count": 45,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.7.31",
-        "title": "『ロボスタ』がロボカップの最新動向を解説！ オンラインセミナー開催 8月5日",
-        "url": "https://response.jp/article/2026/07/31/414719.html"
+        "title": "Cadillac Only Made Three CTS-V.R Coupe Race Cars, and This One Is for Sale",
+        "url": "https://www.thedrive.com/news/cadillac-only-made-three-cts-v-r-coupe-race-cars-and-this-one-is-for-sale"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "Mercedes Admits It Went 'Too Far' Removing Buttons. But Screens Aren't Going Anywhere",
+        "url": "https://www.motor1.com/news/803387/mercedes-went-too-far-on-touchscreens/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "New Hyundai Tucson SUV Spied With A Bold Redesign",
+        "url": "https://www.motor1.com/news/803369/hyundai-tucson-spy-shots/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.31",
+        "title": "A Tesla/SpaceX Merger Could Create a Big Mess in China: TDS",
+        "url": "https://www.thedrive.com/news/a-tesla-spacex-merger-could-create-a-big-mess-in-china-tds"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.31",
+        "title": "2026 Mercedes-Maybach SL680 Review: All Chill, No Thrill",
+        "url": "https://www.thedrive.com/news/2026-mercedes-benz-sl680-maybach-review-all-chill-no-thrill"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "The Toyota Tacoma Has 8 Trims. Which One Should You Buy?",
+        "url": "https://www.motor1.com/features/803258/2026-toyota-tacoma-buying-guide/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "These Are The Most Spectacular Car Museums",
+        "url": "https://www.motor1.com/features/803359/car-museums-most-spectacular/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "Ferrari Goes Beyond Electric: New Models And Biofuels Coming",
+        "url": "https://www.motor1.com/news/803353/ferrari-new-models-biofuels/"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.31",
-        "title": "【ヤマハ トレーサー9 GT+ Y-AMT 試乗】“全部載せ”で200万円切り！ ヤマハのオタク気質が生んだ、究極の旅バイク…伊丹孝裕",
-        "url": "https://response.jp/article/2026/07/31/414733.html"
+        "title": "「Audi郡山」、8月1日オープン…福島唯一のアウディ正規販売店",
+        "url": "https://response.jp/article/2026/07/31/414758.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.31",
-        "title": "1790mm幅ってデカすぎない!? WR-Vは5ナンバー卒業勢でも使いやすいサイズなの!?!?!",
-        "url": "https://bestcarweb.jp/feature/column/1571239"
+        "title": "「サングラスは信号が見づらい」は誤解だった！ SWANSが安全運転を支える理由",
+        "url": "https://bestcarweb.jp/news/car-accessory/1593113"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.31",
-        "title": "30系アルファードの車内がより上質に!! 色替えもできるタッチ式LEDルームランプがスゴイ!!",
-        "url": "https://bestcarweb.jp/news/1588929"
+        "title": "「働き方改革」で何が変わったんだ!! ベテランドライバーが語る現場からの証言",
+        "url": "https://bestcarweb.jp/fullload/1592650"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "「小型・薄型パワードサブウーファー」の注目機をチェック！［低音を制する者はカーオーディオを制す］",
+        "url": "https://response.jp/article/2026/07/31/414760.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.7.31",
+        "title": "【ランボルギーニ ウルス SEペルフォルマンテ 新型試乗】聖域で解き放った「ハイパーSUV」の実力",
+        "url": "https://response.jp/article/2026/07/31/414761.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.7.31",
-        "title": "5人乗りの気軽さか6人乗りの余裕か!? スズキ ソリオ対ホンダ フリードを徹底比較!!",
-        "url": "https://bestcarweb.jp/feature/column/1583293"
+        "title": "【激推し水筒プレゼント】え、マジで冷たいじゃん!! 酷暑すぎる車内でもずっとキンキンのままの水筒がヤバい!!",
+        "url": "https://bestcarweb.jp/news/car-accessory/1585914"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.31",
-        "title": "9/15申込締切【池田直渡の着眼大局セミナー】第10回 スズキ 新興国魂で切り拓く未来 -インドと共に成長する-",
-        "url": "https://response.jp/article/2026/07/31/414732.html"
+        "title": "ASA-ML対応車載試験ソリューション、ローデ・シュワルツが「車載Ethernet 2026」に出展",
+        "url": "https://response.jp/article/2026/07/31/414755.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.31",
-        "title": "NECのPLMソフト「オブリガート R5」、AIや環境規制対応を強化…「ものづくりマスター」を中核に",
-        "url": "https://response.jp/article/2026/07/31/414728.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "ヴォクシー7人乗りと8人乗りどっちが正解？ キャプテンシートか実用人数かで選ぶ家族ミニバン",
-        "url": "https://bestcarweb.jp/newcar/1561008"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "スポーツカーにバチバチに決まる見た目は継承しつつ何が変わった!? 「極」のスペックアップだと思ったら大間違い!? ワークエモーション「CR至極」を「進化」と呼ぶべき理由！【PR】",
-        "url": "https://bestcarweb.jp/feature/tieup/1590642"
+        "title": "Carzel 脱出ハンマーと車載ファン、熊本地震の被災者支援で新品無償交換",
+        "url": "https://response.jp/article/2026/07/31/414759.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.31",
-        "title": "ゼンリンデータコム、熊本被災地の通行実績情報マップを無料公開…ホンダのカープローブデータ活用",
-        "url": "https://response.jp/article/2026/07/31/414735.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "ソリオより5500円安い!! 比べてわかったルーミーの維持費のお手頃感",
-        "url": "https://bestcarweb.jp/feature/column/1573472"
+        "title": "eMotion Fleet、次世代テレマティクス活用の実証実験開始…インドネシア大手財閥トリプトラグループと",
+        "url": "https://response.jp/article/2026/07/31/414742.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.31",
-        "title": "ナビタイムジャパン、台湾交通部観光署と協力覚書を締結…『Taiwan Travel by NAVITIME』が公認アプリに",
-        "url": "https://response.jp/article/2026/07/31/414722.html"
+        "title": "LEDカスタムでフロントマスクをオフロード仕様に、エフシーエル「グリルマーカーテープ 4連」発売",
+        "url": "https://response.jp/article/2026/07/31/414762.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "Man Gets His Chevrolet Serviced. Then He Catches A Mechanic Spray-Painting This Part Black",
+        "url": "https://www.motor1.com/news/803261/chevrolet-spray-painted-compressor/"
       },
       {
         "source": "Response.jp",
         "time": "2026.7.31",
-        "title": "ヒョンデ『インスター』809台をリコール 最悪の場合は走行できないおそれ",
-        "url": "https://response.jp/article/2026/07/31/414727.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "ホンダ『アコード』を一部改良、ボディ同色パーツで上質に…595万1000円から",
-        "url": "https://response.jp/article/2026/07/30/414709.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "マツダ『CX-5』新型、安全性で最高評価TSP+を獲得…米IIHS",
-        "url": "https://response.jp/article/2026/07/31/414713.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "モーターで動くけどプラモじゃない!! まさかのタミヤがファン付き「空調服」を発売!!",
-        "url": "https://bestcarweb.jp/news/car-accessory/1591303"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "ヤンマーHDと日立建機、コンパクト建機事業で協業検討の基本合意書を締結",
-        "url": "https://response.jp/article/2026/07/31/414724.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "レンジローバーが“大変身”！ 巨大曲面ディススプレイ採用か…改良新型をスクープ",
-        "url": "https://response.jp/article/2026/07/31/414717.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "三井化学、生成AI活用の国際材料開発ネットワーク「AI Materials Foundry」に創設メンバーとして参画",
-        "url": "https://response.jp/article/2026/07/31/414726.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "上質な小型車ならどっち!? 日産ノート オーラ対マツダ3を内装と走りで比較",
-        "url": "https://bestcarweb.jp/feature/column/1585061"
+        "title": "TikTokショップ専用物流センターを東西に新設、合計35万件出荷体制を構築…株式会社いつも",
+        "url": "https://response.jp/article/2026/07/31/414753.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30602448212",
-    "sha": "0f7e9c95bb0889651d4d05b0b311c17c17c10e7e",
-    "completed_at": "2026-07-31T03:48:54.842Z",
+    "run_id": "30643173468",
+    "sha": "bd1e8dab597573729bc3dd5762787a71cd828f7e",
+    "completed_at": "2026-07-31T15:32:33.117Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 36,
-    "queued_articles": 36,
-    "processed": 36,
-    "started_at": "2026-07-31T03:47:38.257Z",
-    "finished_at": "2026-07-31T03:48:54.550Z",
+    "scoped_articles": 45,
+    "queued_articles": 45,
+    "processed": 45,
+    "started_at": "2026-07-31T15:30:52.677Z",
+    "finished_at": "2026-07-31T15:32:32.853Z",
     "success": true,
     "error": ""
   }
