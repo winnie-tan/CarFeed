@@ -1,134 +1,122 @@
 {
   "workflow": {
-    "generated_at": "2026-08-01T03:47:23.378Z",
+    "generated_at": "2026-08-01T14:41:12.147Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 381,
-    "deepseek_untranslated_before_run": 19,
-    "newly_fetched_articles": 19,
-    "newly_fetched_untranslated": 19,
+    "deepseek_translated_before_run": 383,
+    "deepseek_untranslated_before_run": 17,
+    "newly_fetched_articles": 17,
+    "newly_fetched_untranslated": 17,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 19,
+    "translation_queue_count": 17,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "「シフトレバー変えてるの気になる」スバル『BRZ』の改良にスバリスト興奮！ SNSでは「三眼アイサイト」にも注目",
-        "url": "https://response.jp/article/2026/08/01/414773.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "【ホンダ シビックe：HEV RS 新型試乗】ワンアクションで戦闘態勢！ プレリュードとの約150万円の価格差をどう捉えるか",
-        "url": "https://response.jp/article/2026/08/01/414772.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "【令和8年8月のバス占い付き】嵐も梨もファンはみんな集まるパワスポへ路線バスでGO！",
-        "url": "https://bestcarweb.jp/busmagazine/1571752"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第821回",
-        "url": "https://bestcarweb.jp/feature/column/1592311"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "BMW『3シリーズ』リコール追加 スタータ不具合で火災のおそれ",
-        "url": "https://response.jp/article/2026/08/01/414765.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "HKS、タイ現地法人でサスペンション事業を2026年8月開始 新ブランド「RC Generation」をASEAN市場へ",
-        "url": "https://response.jp/article/2026/08/01/414769.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.1",
-        "title": "RIP: These Cars Won't Make It To 2027",
-        "url": "https://www.motor1.com/features/784428/dead-cars-2027/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "トヨタ『GR GT』と『GR GT3』がグッドウッド2026で欧州デビュー…7月の新型車記事ベスト5",
-        "url": "https://response.jp/article/2026/08/01/414774.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "ぶっちゃけアリ、それともナシ!? ついにヴェールを脱いだフェラーリ初のBEV「ルーチェ」!!",
-        "url": "https://bestcarweb.jp/feature/column/1589114"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "単なるパーツ交換とは訳が違う!? ホンダ渾身のNSXレストアプランの凄みと「他モデルへの波及」への期待！",
-        "url": "https://bestcarweb.jp/feature/column/1588913"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "You Bought The Car. Why Are You Still Paying For Subscriptions?",
-        "url": "https://www.motor1.com/features/803407/why-cars-have-subscription-features/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.31",
-        "title": "Tesla Breaking Off Its China Business? Musk Calls It 'Absurdly Fake News'",
-        "url": "https://insideevs.com/news/803408/musk-china-us-split-fake/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "Car Salesman Says Nissan Rogue Is Identical To This Crossover SUV. The Other One’s Cheaper: 'Stole They Whole Flow'",
-        "url": "https://www.motor1.com/news/803114/2026-nissan-rogue-mitsubishi-outlander-identical/"
-      },
-      {
         "source": "The Drive",
-        "time": "2026.7.31",
-        "title": "Mercedes CEO Admits It ‘Forgot a Little Bit About the Customer’ When It Axed Buttons",
-        "url": "https://www.thedrive.com/news/mercedes-forgot-a-little-bit-about-the-customer-when-it-got-rid-of-buttons-ceo"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.31",
-        "title": "‘Largest Supply Disruption In History’: High Oil Prices Drove Record EV Sales In 50 Countries",
-        "url": "https://insideevs.com/news/803381/ev-sales-records-50-countries-high-gas-prices/"
+        "time": "2026.8.1",
+        "title": "New AEV Kit Has Everything to Turn a Ford Super Duty Into a Super Off-Roader for $20K",
+        "url": "https://www.thedrive.com/news/new-aev-kit-has-everything-to-turn-your-ford-super-duty-into-a-super-off-roader-for-20k"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "JLR's New North American CEO Has A Lot Of Work To Do",
-        "url": "https://www.motor1.com/news/803393/jlr-new-north-american-ceo-appointed/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.31",
-        "title": "Chevy Says ‘Officially Licensed’ AI Slop Shirt at TJ Maxx Is a Fake",
-        "url": "https://www.thedrive.com/news/chevy-says-officially-licensed-ai-slop-shirt-at-tj-maxx-is-a-fake"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.7.31",
-        "title": "Ford CEO Thinks Chinese EVs Could Hit The U.S. Within 5 To 10 Years: Report",
-        "url": "https://insideevs.com/news/803284/ford-china-evs-5-years/"
+        "time": "2026.8.1",
+        "title": "Sam’s Club Tells Man To Leave His Trailer Overnight. Then He Finds Something Shocking",
+        "url": "https://www.motor1.com/news/803100/western-express-stuck-sams-club-parking-lot/"
       },
       {
         "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "This Trailer Drives Itself Into The Campsite",
-        "url": "https://www.motor1.com/news/803378/aboard-t4-caravan-debut/"
+        "time": "2026.8.1",
+        "title": "All 20 BMW Art Cars Are Finally Together In One Place",
+        "url": "https://www.motor1.com/news/803420/bmw-art-cars-welt/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.1",
+        "title": "【マツダスピリットレーシング ロードスター 新型試乗】526万円のロードスターは高いのか？…中村孝仁",
+        "url": "https://response.jp/article/2026/08/01/414781.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.1",
+        "title": "Florida Man Goes To O’Reilly. Then He Spots A Worker Spray-Painting A Part He Shouldn’t Be: 'Adds 25+ Horsepower'",
+        "url": "https://www.motor1.com/news/803386/florida-oreilly-camshaft-spray-paint/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.8.1",
+        "title": "I Experienced The World’s First Electrostatic Speakers In A Production Car. Now I Can't Go Back",
+        "url": "https://insideevs.com/news/803291/range-rover-sv-ultra-electrostatic-speakers-warwick-acoustics/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.1",
+        "title": "MINIクロスオーバーにフロント4ウェイ！モレルで作った“コンペで勝てる音”【Pro Shop インストール・レビュー】by SOUND WAVE 後編",
+        "url": "https://response.jp/article/2026/08/01/414777.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.1",
+        "title": "R32GT-Rをポケットに!! 5000個限定!! 伝説の日本車をキーリングで持ち歩こう!!",
+        "url": "https://bestcarweb.jp/news/1588928"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.1",
+        "title": "ガレージハウスを買うとカワサキ『GPZ900R』が付いてくる!? ナップスが販売、第1弾は横浜上大岡・別所エリア",
+        "url": "https://response.jp/article/2026/08/01/414779.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.1",
+        "title": "ダンロップ、エンデューロ専用タイヤ「ジオマックス EN92」を8月3日発売…SOFTスペック2サイズを新設定",
+        "url": "https://response.jp/article/2026/08/01/414776.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.1",
+        "title": "テスラのヒューマノイド、『Optimus』の量産は始まった？…Gen3開発など最新情報まとめ",
+        "url": "https://response.jp/article/2026/08/01/414782.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.1",
+        "title": "バイクデザインを変えた革命児!! スズキKATANAが1/12ブロック模型で登場だ!!",
+        "url": "https://bestcarweb.jp/news/1588925"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.1",
+        "title": "パジェロのイメージを守りながら内実を大きく刷新！ 現代的なプレミアムSUVへと脱皮した3代目＆4代目の功績を振り返る！",
+        "url": "https://bestcarweb.jp/feature/column/1588794"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.1",
+        "title": "まさか車中泊はできないよね!? 日産 ノートのシートアレンジと荷室をチェック",
+        "url": "https://bestcarweb.jp/feature/column/1585096"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.8.1",
+        "title": "Florida Got $200 Million For EV Chargers. It Wants To Spend It On Air Taxis Instead",
+        "url": "https://insideevs.com/news/803441/florida-nevi-ev-charger-money-evtols-air-taxis/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.1",
+        "title": "Why Your Gas Tank Is On The Left—Or Right",
+        "url": "https://www.motor1.com/features/803431/why-cars-have-gas-tank-left-or-right/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.1",
+        "title": "Woman Gets In Car Accident. Then She Gets Friend Request—And Realizes Who It Is In Disguise: ‘U Never Know Who Watching’",
+        "url": "https://www.motor1.com/news/803365/insurance-investigator-friend-request-after-car-accident/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30682658190",
-    "sha": "45ab5a5c2682b5b38100716534f0e20f79d44270",
-    "completed_at": "2026-08-01T03:48:06.564Z",
+    "run_id": "30704272207",
+    "sha": "8f3fbc0760b6e6dfff2ae976674f2346ed0afb81",
+    "completed_at": "2026-08-01T14:41:50.231Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -139,11 +127,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 19,
-    "queued_articles": 19,
-    "processed": 19,
-    "started_at": "2026-08-01T03:47:23.718Z",
-    "finished_at": "2026-08-01T03:48:06.267Z",
+    "scoped_articles": 17,
+    "queued_articles": 17,
+    "processed": 17,
+    "started_at": "2026-08-01T14:41:12.490Z",
+    "finished_at": "2026-08-01T14:41:49.945Z",
     "success": true,
     "error": ""
   }

@@ -98329,5 +98329,406 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-08-01T03:48:06.243Z"
+  },
+  "https://www.thedrive.com/news/new-aev-kit-has-everything-to-turn-your-ford-super-duty-into-a-super-off-roader-for-20k": {
+    "title_zh": "AEV 推出福特 Super Duty 越野套件，售价 2 万美元",
+    "summary_short": "AEV 推出 FX370 套件，将福特 Super Duty 升级为越野利器，售价 2 万美元，包含 37 英寸轮胎、悬挂和保险杠。",
+    "summary_long": "AEV 为福特 Super Duty 推出 FX370 套件，售价 2 万美元，提供一站式解决方案，将普通皮卡升级为强大的越野车。套件包含 37 英寸 BFGoodrich 全地形轮胎、18 英寸轮毂、四英寸悬挂提升、AEV 调校的 Bilstein 减震器以及钢制前保险杠。所有部件经过精心设计，与车辆原厂组件完美配合，无需额外调整。AEV 强调该套件不仅适合越野爱好者，也适用于商业用户和日常拖拽需求，兼顾公路舒适性和越野性能。",
+    "highlights_zh": [
+      "售价 2 万美元",
+      "37 英寸 BFGoodrich 轮胎",
+      "四英寸悬挂提升",
+      "兼顾日常与越野"
+    ],
+    "entities": [
+      "AEV",
+      "福特 | Ford",
+      "Super Duty",
+      "BFGoodrich",
+      "Bilstein"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/AEV-FX370-Ford-Super-Duty-Exterior-001-Front-Three-Quarters-2048x1024-1.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/AEV-FX370-Ford-Super-Duty-Exterior-002-Wheels-And-Tires.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Untitled_-_July_29_2026_at_08.12.28.png.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:16.413Z"
+  },
+  "https://www.motor1.com/news/803100/western-express-stuck-sams-club-parking-lot/": {
+    "title_zh": "山姆会员店停车场地陷，半挂车支腿陷入沥青",
+    "summary_short": "一辆 Western Express 半挂车在山姆会员店停车场支腿陷入沥青，引发关于操作规范与责任归属的讨论。",
+    "summary_long": "一辆 Western Express 半挂车在山姆会员店停车场过夜时，其支腿陷入沥青地面，导致车辆失衡。事件被拍成视频在 Facebook 上疯传，引发网友热议。视频显示，支腿穿透沥青，数千磅重量压在横梁上，而旁边的 Ryan Logistics 拖车支腿则正常。此事引发了对司机操作、商店管理及公司培训的质疑。",
+    "highlights_zh": [
+      "半挂车支腿陷入沥青",
+      "视频引发超千条评论",
+      "责任归属引发讨论",
+      "司机操作或存疏忽"
+    ],
+    "entities": [
+      "Western Express",
+      "山姆会员店",
+      "Ryan Logistics",
+      "半挂车",
+      "停车场地陷"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z8JrX/s1/sam-s-club-tells-trucker-to-leave-his-trailer.jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:17.297Z"
+  },
+  "https://www.motor1.com/news/803420/bmw-art-cars-welt/": {
+    "title_zh": "宝马艺术车全系 20 辆首次齐聚慕尼黑",
+    "summary_short": "宝马艺术车系列 50 周年，20 辆艺术车首次齐聚慕尼黑宝马世界，免费展览至 8 月 31 日。",
+    "summary_long": "为庆祝艺术车系列诞生 50 周年，宝马世界在慕尼黑举办“宝马艺术车——20 位艺术家，50 年创新”展览，首次将全部 20 辆艺术车汇集一堂。展览自 2026 年 7 月 29 日至 8 月 31 日免费开放。这些艺术车由亚历山大·考尔德、安迪·沃霍尔、杰夫·昆斯等著名艺术家创作，融合了艺术与汽车工程，成为宝马最珍贵的藏品。展览开幕标志着全球巡展的结束，该巡展已访问超过 30 个国家。",
+    "highlights_zh": [
+      "20 辆宝马艺术车首次同台展出",
+      "庆祝艺术车系列 50 周年",
+      "展览免费开放至 8 月 31 日",
+      "考尔德、沃霍尔等大师作品亮相"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "宝马世界 | BMW Welt",
+      "亚历山大·考尔德",
+      "安迪·沃霍尔",
+      "杰夫·昆斯"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/bgPrNw/s1/sonderausstellung-bmw-art-cars---20-artists-50-years-of-innovation.-reunited-at-bmw-welt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:20.874Z"
+  },
+  "https://response.jp/article/2026/08/01/414781.html": {
+    "title_zh": "马自达精神赛车 罗德斯达 新型试驾：526 万日元的价格是否过高？",
+    "summary_short": "马自达精神赛车罗德斯达核心版试驾，2.0 升发动机，限量 200 台，售价 526 万日元，性价比如何？",
+    "summary_long": "马自达精神赛车罗德斯达核心版是限量 200 台的特别版，搭载 2.0 升发动机，输出 184 马力，车重仅 1070 公斤，相比 1.5 升 RS 版功率重量比大幅提升。车辆基于罗德斯达 RF 开发，但发动机和底盘经过赛车技术调校，兼顾街道与赛道驾驶乐趣。售价 526 万日元，包括基础车价和运动套件，相比 RF 版增加约 70 万日元，但性能提升显著，性价比合理。",
+    "highlights_zh": [
+      "2.0 升发动机",
+      "车重仅 1070 公斤",
+      "限量 200 台",
+      "基于 RF 开发"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "马自达精神赛车 | Mazda Spirit Racing",
+      "罗德斯达",
+      "罗德斯达 RF",
+      "试驾"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231880.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231880.jpg",
+      "https://response.jp/imgs/fill2/2231879.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:22.635Z"
+  },
+  "https://www.motor1.com/news/803386/florida-oreilly-camshaft-spray-paint/": {
+    "title_zh": "佛罗里达男子在 O'Reilly 目睹员工喷涂凸轮轴",
+    "summary_short": "佛罗里达男子在 O'Reilly 门店拍到员工喷涂凸轮轴，引发热议。",
+    "summary_long": "一名佛罗里达男子在当地的 O'Reilly 汽车配件店拍摄到一名员工在店外喷涂凸轮轴。视频显示，一名穿绿衣的员工在一块纸板上喷涂银色油漆，而凸轮轴是发动机的关键部件。视频发布后，网友纷纷猜测原因，有人认为是展示品，也有人开玩笑说这能增加马力。",
+    "highlights_zh": [
+      "员工喷涂凸轮轴",
+      "视频引发热议",
+      "网友猜测原因",
+      "或为展示品"
+    ],
+    "entities": [
+      "O'Reilly",
+      "凸轮轴",
+      "佛罗里达"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/NGPXGy/s1/man-goes-to-o-reilly.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:24.162Z"
+  },
+  "https://insideevs.com/news/803291/range-rover-sv-ultra-electrostatic-speakers-warwick-acoustics/": {
+    "title_zh": "体验全球首款量产车静电扬声器：路虎揽胜 SV Ultra",
+    "summary_short": "路虎揽胜 SV Ultra 搭载全球首款量产车静电扬声器，音质如音乐会现场，令人难忘。",
+    "summary_long": "路虎揽胜 SV Ultra 首次在量产车上配备静电扬声器，由英国品牌 Warwick Acoustics 开发。与传统动圈扬声器不同，静电扬声器采用更简洁的设计，通过静电场驱动薄膜发声，带来更纯净、细腻的音质。记者在短暂体验后认为这是迄今最令人印象深刻的汽车音响系统，其效果堪比现场音乐会，甚至让记者表示“再也回不去了”。",
+    "highlights_zh": [
+      "全球首款量产车静电扬声器",
+      "音质如音乐会现场",
+      "设计更简洁",
+      "体验后难以回到传统音响"
+    ],
+    "entities": [
+      "路虎揽胜 SV Ultra",
+      "捷豹路虎",
+      "Warwick Acoustics",
+      "静电扬声器"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9memNv/s1/electrostatic-speakers.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/range-rover-sv-ultra-electroacoustic-speakers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:26.292Z"
+  },
+  "https://response.jp/article/2026/08/01/414777.html": {
+    "title_zh": "MINI 跨界车改装前声场 4 分频，Morel 打造竞赛级音质",
+    "summary_short": "MINI 跨界车改装前声场 4 分频，选用 Morel 单元，打造竞赛级音质。",
+    "summary_long": "车主古渡先生对汽车音响竞赛产生兴趣，将他的 MINI 跨界车交由茨城县 SOUND WAVE 店进行系统升级，目标是打造一套能在竞赛中获胜的高音质系统。改装重点在于前声场 4 分频设计，从单元选择到安装细节都精益求精。 最引人注目的是 A 柱和车门上部集中布置的三种扬声器：高音采用 Morel 38 周年限量版，中高音同样来自该系列，中低音则选用 Morel Hybrid MW4。通过统一使用 Morel 单元，确保了中高频的饱满表现。高音内置于 A 柱，中高音通过定制支架安装在门镜后方，中低音则安装在车门上部的专用底座上。",
+    "highlights_zh": [
+      "前声场 4 分频系统",
+      "Morel 38 周年限量版高音",
+      "中高音定制支架安装",
+      "中低音专用底座"
+    ],
+    "entities": [
+      "MINI 跨界车",
+      "Morel",
+      "SOUND WAVE"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2230821.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2230821.jpg",
+      "https://response.jp/imgs/fill2/2230822.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:29.220Z"
+  },
+  "https://bestcarweb.jp/news/1588928": {
+    "title_zh": "R32 GT-R 钥匙扣：5000 个限定，传奇日本车随身携带",
+    "summary_short": "日产授权，5000 个限定，R32 GT-R 3D 金属钥匙扣上市，重现有型格调。",
+    "summary_long": "日产 Skyline GT-R（BNR32）推出官方授权的 3D 金属钥匙扣，限量 5000 个，每个带有序列号。该钥匙扣由 CAMSHOP.JP 品牌运营方株式会社フェイス制作，采用压铸材质并镀铬，重现了 R32 的独特造型与存在感。产品将于 2026 年 7 月下旬开始销售，是 R32 粉丝不可错过的收藏品。",
+    "highlights_zh": [
+      "日产官方授权",
+      "限量 5000 个带编号",
+      "3D 立体金属质感",
+      "2026 年 7 月下旬发售"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "スカイライン GT-R",
+      "BNR32",
+      "CAMSHOP.JP"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26110936/55a213dc8dc8351a0a13069f11c3aadf.jpg?v=1785031777",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26110936/55a213dc8dc8351a0a13069f11c3aadf-600x600.jpg?v=1785031777",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25200417/16a1d9d23b2646f0514bd8dcdf953094-600x600.jpg?v=1784977459"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:30.066Z"
+  },
+  "https://response.jp/article/2026/08/01/414779.html": {
+    "title_zh": "买车库房送川崎 GPZ900R？NAPS HOME 推出摩托车文化复兴项目",
+    "summary_short": "日本 NAPS HOME 推出购车库房送川崎 GPZ900R 活动，旨在复兴摩托车文化，首期项目位于横滨。",
+    "summary_long": "日本摩托车用品零售商 NAPS 与横滨住宅开发商合作，推出 NAPS HOME 品牌车库房，并启动“日本摩托车文化复兴项目”。该项目旨在通过住宅设计解决摩托车爱好者的停车、家庭理解等痛点，鼓励更多人回归骑行。作为项目首期，购买横滨上大冈·别所地区指定房产的客户，将获赠一辆川崎 GPZ900R，并享受首次保养及活动邀请等权益。",
+    "highlights_zh": [
+      "购车库房赠川崎 GPZ900R",
+      "NAPS HOME 启动摩托车文化复兴项目",
+      "首期项目位于横滨上大冈·别所",
+      "附赠首次保养及活动邀请"
+    ],
+    "entities": [
+      "NAPS HOME",
+      "川崎 | Kawasaki",
+      "GPZ900R",
+      "横滨",
+      "摩托车文化"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231792.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231792.jpg",
+      "https://response.jp/imgs/fill2/2231793.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:33.633Z"
+  },
+  "https://response.jp/article/2026/08/01/414782.html": {
+    "title_zh": "特斯拉人形机器人 Optimus 量产启动？Gen3 开发等最新信息汇总",
+    "summary_short": "特斯拉 Optimus 人形机器人量产在即，Gen3 开发中，计划 2026 年底低量生产，目标售价低于 3 万美元。",
+    "summary_long": "特斯拉的人形机器人 Optimus 自 2021 年发布以来备受关注，目前已在自工厂部署用于数据收集和学习。最新公开型号为 Gen2，但开发已转向 Gen3，尚未正式发布。特斯拉正将加州弗里蒙特工厂的部分 Model S/X 生产线改造为 Optimus 专用产线，计划 2026 年下半年开始低量生产。马斯克表示 Gen3 将在量产临近时公开，并强调 Optimus 将成为特斯拉史上最大商品，与 Robotaxi 并列为核心业务。",
+    "highlights_zh": [
+      "Optimus Gen3 开发中",
+      "弗里蒙特工厂改造产线",
+      "目标售价低于 3 万美元",
+      "马斯克称 Optimus 将成特斯拉史上最大商品"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "Optimus",
+      "Gen3",
+      "弗里蒙特工厂",
+      "人形机器人"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231901.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231898.jpg",
+      "https://response.jp/imgs/zoom1/2231902.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:37.128Z"
+  },
+  "https://response.jp/article/2026/08/01/414776.html": {
+    "title_zh": "邓禄普发布耐力赛专用轮胎 GEOMAX EN92，新增 SOFT 规格",
+    "summary_short": "邓禄普将于 8 月 3 日发售耐力赛专用轮胎 GEOMAX EN92，新增 SOFT 规格两个尺寸，提升湿滑及复杂路况抓地力。",
+    "summary_long": "住友橡胶工业宣布，邓禄普品牌耐力赛专用轮胎 GEOMAX EN92 将于 8 月 3 日起陆续发售，提供前轮 2 个尺寸、后轮 3 个尺寸，价格开放。该轮胎具备出色的抓地力、循迹性和牵引力，在严苛的耐力赛中保持稳定性能。此次新增前轮 90/90-21 和后轮 140/80-18 的 SOFT 规格，适应多种路面条件，在湿滑、树根、岩石等环境下发挥优异抓地力。轮胎采用经过验证的 V-BT 技术，优化角度块状花纹，兼顾牵引力与滑动控制；RST 技术增强泥土中的切入与排出性能，提升牵引力。",
+    "highlights_zh": [
+      "新增 SOFT 规格两个尺寸",
+      "采用 V-BT 技术提升牵引力",
+      "RST 技术增强泥土性能",
+      "8 月 3 日起陆续发售"
+    ],
+    "entities": [
+      "邓禄普",
+      "GEOMAX EN92",
+      "住友橡胶工业",
+      "V-BT 技术",
+      "RST 技术"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231877.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231877.jpg",
+      "https://response.jp/imgs/fill2/2231805.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:37.773Z"
+  },
+  "https://bestcarweb.jp/news/1588925": {
+    "title_zh": "铃木 KATANA 1/12 比例积木模型登场",
+    "summary_short": "铃木 KATANA 推出 1/12 比例积木模型，全 310 件，官方授权，再现经典设计。",
+    "summary_long": "铃木大型摩托车 KATANA 推出 1/12 比例积木模型，全长约 16.1 厘米。该模型由株式会社 FACE 运营的 CAMSHOP.JP 发售，为铃木官方授权产品。KATANA 自 1981 年初代车型以来，以其刀锋般锐利的设计和独特造型深受车迷喜爱。此次积木模型以 310 个零件再现其个性化风格，是摩托车收藏爱好者的注目单品。",
+    "highlights_zh": [
+      "1/12 比例",
+      "310 个零件",
+      "再现 KATANA 经典刀锋设计",
+      "摩托车迷收藏佳品"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "KATANA"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25200417/16a1d9d23b2646f0514bd8dcdf953094.jpg?v=1784977459",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25200417/16a1d9d23b2646f0514bd8dcdf953094-600x600.jpg?v=1784977459",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26110936/55a213dc8dc8351a0a13069f11c3aadf-600x600.jpg?v=1785031777"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:41.476Z"
+  },
+  "https://bestcarweb.jp/feature/column/1588794": {
+    "title_zh": "帕杰罗形象不变内里革新！回顾第三代与第四代向现代豪华 SUV 的蜕变",
+    "summary_short": "三菱帕杰罗 2026 年秋将推新款，本文回顾第三代与第四代车型如何革新底盘与设计，奠定现代豪华 SUV 地位。",
+    "summary_long": "三菱帕杰罗将于 2026 年秋季发布全新车型，自 2019 年停产以来，车迷对其复活的呼声终于得到回应。在期待之余，本文回顾了从第二代到第四代帕杰罗的发展历程。第三代帕杰罗于 1999 年问世，虽然外观延续经典，但底盘从梯形大梁改为内置式框架单体结构，实现了轻量化、低重心和高刚性，显著提升了操控稳定性和乘坐舒适性。第四代车型则进一步强化了豪华与越野性能，为帕杰罗的现代形象奠定了基础。",
+    "highlights_zh": [
+      "2026 年秋全新帕杰罗将发布",
+      "第三代帕杰罗底盘革新",
+      "第四代车型巩固豪华 SUV 定位",
+      "帕杰罗经典形象得以保留"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "第三代帕杰罗",
+      "第四代帕杰罗",
+      "SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24191429/00_pajero_3-4_head.jpg?v=1784888070",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24191429/00_pajero_3-4_head-600x400.jpg?v=1784888070",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24145947/AD4I0139_1-600x400.jpg?v=1784872789"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:42.242Z"
+  },
+  "https://bestcarweb.jp/feature/column/1585096": {
+    "title_zh": "日产 Note 座椅与行李厢实测：能否车中泊？",
+    "summary_short": "日产 Note 虽为紧凑型车，但后排放倒后空间意外宽敞，不过车中泊需注意段差与宽度限制。",
+    "summary_long": "日产 Note 作为一款车长仅 4045mm 的紧凑型车，其后排座椅支持 6:4 分割放倒，放倒后能形成较为宽敞的行李空间，甚至可容纳自行车等大件物品。然而，若想实现车中泊，则需面对一些挑战：放倒后的长度不足以让成年人伸直双腿，宽度也仅适合单人使用。此外，2WD 车型的行李厢地板与放倒后的座椅靠背之间存在明显段差，需借助选装的行李厢下置储物盒（售价 36300 日元）来填平，以获得更平整的睡眠空间。",
+    "highlights_zh": [
+      "6:4 分割放倒",
+      "车中泊长度不足",
+      "2WD 有段差",
+      "日常装载实用性高"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Note",
+      "车中泊",
+      "座椅布局",
+      "行李厢"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24145947/AD4I0139_1.jpg?v=1784872789",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24145947/AD4I0139_1-600x400.jpg?v=1784872789",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24191429/00_pajero_3-4_head-600x400.jpg?v=1784888070"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:45.978Z"
+  },
+  "https://insideevs.com/news/803441/florida-nevi-ev-charger-money-evtols-air-taxis/": {
+    "title_zh": "佛罗里达州欲将 2 亿美元充电桩资金用于空中出租车",
+    "summary_short": "佛罗里达州拟将联邦电动汽车充电资金用于空中出租车基础设施，引发争议。",
+    "summary_long": "佛罗里达州从拜登政府的国家电动汽车基础设施（NEVI）计划中获得 1.98 亿美元，用于建设公共快速充电桩。然而，根据《迈阿密先驱报》的调查，该州计划将这笔资金转而用于电动垂直起降飞行器（eVTOL）的基础设施，即所谓的“空中高速公路网络”。该网络包括在 32 个“垂直起降场”建设充电设施，每个站点耗资约 560 万美元。尽管 eVTOL 尚未获得 FAA 批准，且未在美国任何地方商业运营，佛罗里达州交通部仍认为此举具有创新性，能为居民带来最大利益。批评者认为这是对资金的滥用。",
+    "highlights_zh": [
+      "佛罗里达州拟将 1.98 亿美元充电资金转投空中出租…",
+      "eVTOL 尚未获 FAA 批准",
+      "计划在 32 个垂直起降场建设充电设施",
+      "州交通部称此举为创新战略"
+    ],
+    "entities": [
+      "佛罗里达州 | Florida",
+      "国家电动汽车基础设施计划",
+      "电动垂直起降飞行器",
+      "Joby Aviation",
+      "迈阿密先驱报"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/G3nNvG/s1/florida-nevi-top.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:47.049Z"
+  },
+  "https://www.motor1.com/features/803431/why-cars-have-gas-tank-left-or-right/": {
+    "title_zh": "为什么油箱盖在左边或右边？",
+    "summary_short": "油箱盖位置并非随机，受工程、安全、市场偏好等多因素影响，与发动机位置无关。",
+    "summary_long": "油箱盖位置看似随意，实则由多种因素决定。与方向盘位置遵循地区驾驶规则不同，油箱盖位置没有统一标准。汽车制造商在决定油箱盖位置时，会综合考虑工程限制、市场偏好、制造决策和空间布局等因素。虽然车辆布局可能影响油箱位置，但油箱盖位置通常不由发动机决定。油箱通常安装在后座下方或车辆后部，制造商需考虑悬挂部件、排气走向、碰撞保护和底盘空间等。加油管需要安全高效的路径，若一侧能提供更简洁的路线，工程师就会将加油口设在该侧。",
+    "highlights_zh": [
+      "油箱盖位置无统一标准",
+      "与发动机位置无关",
+      "受工程、安全、市场偏好影响",
+      "加油管路径决定最终位置"
+    ],
+    "entities": [
+      "油箱盖",
+      "燃油加注口",
+      "汽车工程",
+      "安全设计"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAz9Av/s1/why-is-the-gas-tank-on-the-right-or-left.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:49.720Z"
+  },
+  "https://www.motor1.com/news/803365/insurance-investigator-friend-request-after-car-accident/": {
+    "title_zh": "女子车祸后收到保险调查员好友申请，对方伪装身份取证",
+    "summary_short": "女子车祸后收到保险调查员好友申请，对方伪装身份取证，引发隐私担忧。",
+    "summary_long": "一名女子在遭遇车祸后，收到了一位保险调查员的好友申请，对方伪装身份试图获取她未受伤的证据。这一事件引发了关于保险调查手段是否合规的讨论。文章指出，保险理赔过程繁琐，保险公司为确保索赔真实性，可能采取极端措施，包括社交工程手段。该事件在 TikTok 上引发热议，视频观看量超过 7 万次。",
+    "highlights_zh": [
+      "女子车祸后收到保险调查员好友申请",
+      "调查员伪装身份取证",
+      "保险理赔过程繁琐",
+      "事件在 TikTok 引发热议"
+    ],
+    "entities": [
+      "保险调查",
+      "车祸理赔",
+      "隐私",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pbJOVY/s1/woman-gets-in-car-accident.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-01T14:41:49.921Z"
   }
 }
