@@ -1,140 +1,134 @@
 {
   "workflow": {
-    "generated_at": "2026-07-31T15:30:52.409Z",
+    "generated_at": "2026-08-01T03:47:23.378Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 355,
-    "deepseek_untranslated_before_run": 45,
-    "newly_fetched_articles": 45,
-    "newly_fetched_untranslated": 45,
+    "deepseek_translated_before_run": 381,
+    "deepseek_untranslated_before_run": 19,
+    "newly_fetched_articles": 19,
+    "newly_fetched_untranslated": 19,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 45,
+    "translation_queue_count": 19,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.7.31",
-        "title": "Cadillac Only Made Three CTS-V.R Coupe Race Cars, and This One Is for Sale",
-        "url": "https://www.thedrive.com/news/cadillac-only-made-three-cts-v-r-coupe-race-cars-and-this-one-is-for-sale"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "Mercedes Admits It Went 'Too Far' Removing Buttons. But Screens Aren't Going Anywhere",
-        "url": "https://www.motor1.com/news/803387/mercedes-went-too-far-on-touchscreens/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "New Hyundai Tucson SUV Spied With A Bold Redesign",
-        "url": "https://www.motor1.com/news/803369/hyundai-tucson-spy-shots/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.31",
-        "title": "A Tesla/SpaceX Merger Could Create a Big Mess in China: TDS",
-        "url": "https://www.thedrive.com/news/a-tesla-spacex-merger-could-create-a-big-mess-in-china-tds"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.7.31",
-        "title": "2026 Mercedes-Maybach SL680 Review: All Chill, No Thrill",
-        "url": "https://www.thedrive.com/news/2026-mercedes-benz-sl680-maybach-review-all-chill-no-thrill"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "The Toyota Tacoma Has 8 Trims. Which One Should You Buy?",
-        "url": "https://www.motor1.com/features/803258/2026-toyota-tacoma-buying-guide/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "These Are The Most Spectacular Car Museums",
-        "url": "https://www.motor1.com/features/803359/car-museums-most-spectacular/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.7.31",
-        "title": "Ferrari Goes Beyond Electric: New Models And Biofuels Coming",
-        "url": "https://www.motor1.com/news/803353/ferrari-new-models-biofuels/"
+        "source": "Response.jp",
+        "time": "2026.8.1",
+        "title": "「シフトレバー変えてるの気になる」スバル『BRZ』の改良にスバリスト興奮！ SNSでは「三眼アイサイト」にも注目",
+        "url": "https://response.jp/article/2026/08/01/414773.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "「Audi郡山」、8月1日オープン…福島唯一のアウディ正規販売店",
-        "url": "https://response.jp/article/2026/07/31/414758.html"
+        "time": "2026.8.1",
+        "title": "【ホンダ シビックe：HEV RS 新型試乗】ワンアクションで戦闘態勢！ プレリュードとの約150万円の価格差をどう捉えるか",
+        "url": "https://response.jp/article/2026/08/01/414772.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "「サングラスは信号が見づらい」は誤解だった！ SWANSが安全運転を支える理由",
-        "url": "https://bestcarweb.jp/news/car-accessory/1593113"
+        "time": "2026.8.1",
+        "title": "【令和8年8月のバス占い付き】嵐も梨もファンはみんな集まるパワスポへ路線バスでGO！",
+        "url": "https://bestcarweb.jp/busmagazine/1571752"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "「働き方改革」で何が変わったんだ!! ベテランドライバーが語る現場からの証言",
-        "url": "https://bestcarweb.jp/fullload/1592650"
+        "time": "2026.8.1",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第821回",
+        "url": "https://bestcarweb.jp/feature/column/1592311"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "「小型・薄型パワードサブウーファー」の注目機をチェック！［低音を制する者はカーオーディオを制す］",
-        "url": "https://response.jp/article/2026/07/31/414760.html"
+        "time": "2026.8.1",
+        "title": "BMW『3シリーズ』リコール追加 スタータ不具合で火災のおそれ",
+        "url": "https://response.jp/article/2026/08/01/414765.html"
       },
       {
         "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "【ランボルギーニ ウルス SEペルフォルマンテ 新型試乗】聖域で解き放った「ハイパーSUV」の実力",
-        "url": "https://response.jp/article/2026/07/31/414761.html"
+        "time": "2026.8.1",
+        "title": "HKS、タイ現地法人でサスペンション事業を2026年8月開始 新ブランド「RC Generation」をASEAN市場へ",
+        "url": "https://response.jp/article/2026/08/01/414769.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.1",
+        "title": "RIP: These Cars Won't Make It To 2027",
+        "url": "https://www.motor1.com/features/784428/dead-cars-2027/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.1",
+        "title": "トヨタ『GR GT』と『GR GT3』がグッドウッド2026で欧州デビュー…7月の新型車記事ベスト5",
+        "url": "https://response.jp/article/2026/08/01/414774.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.7.31",
-        "title": "【激推し水筒プレゼント】え、マジで冷たいじゃん!! 酷暑すぎる車内でもずっとキンキンのままの水筒がヤバい!!",
-        "url": "https://bestcarweb.jp/news/car-accessory/1585914"
+        "time": "2026.8.1",
+        "title": "ぶっちゃけアリ、それともナシ!? ついにヴェールを脱いだフェラーリ初のBEV「ルーチェ」!!",
+        "url": "https://bestcarweb.jp/feature/column/1589114"
       },
       {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "ASA-ML対応車載試験ソリューション、ローデ・シュワルツが「車載Ethernet 2026」に出展",
-        "url": "https://response.jp/article/2026/07/31/414755.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "Carzel 脱出ハンマーと車載ファン、熊本地震の被災者支援で新品無償交換",
-        "url": "https://response.jp/article/2026/07/31/414759.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "eMotion Fleet、次世代テレマティクス活用の実証実験開始…インドネシア大手財閥トリプトラグループと",
-        "url": "https://response.jp/article/2026/07/31/414742.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.7.31",
-        "title": "LEDカスタムでフロントマスクをオフロード仕様に、エフシーエル「グリルマーカーテープ 4連」発売",
-        "url": "https://response.jp/article/2026/07/31/414762.html"
+        "source": "Best Car Web",
+        "time": "2026.8.1",
+        "title": "単なるパーツ交換とは訳が違う!? ホンダ渾身のNSXレストアプランの凄みと「他モデルへの波及」への期待！",
+        "url": "https://bestcarweb.jp/feature/column/1588913"
       },
       {
         "source": "Motor1",
         "time": "2026.7.31",
-        "title": "Man Gets His Chevrolet Serviced. Then He Catches A Mechanic Spray-Painting This Part Black",
-        "url": "https://www.motor1.com/news/803261/chevrolet-spray-painted-compressor/"
+        "title": "You Bought The Car. Why Are You Still Paying For Subscriptions?",
+        "url": "https://www.motor1.com/features/803407/why-cars-have-subscription-features/"
       },
       {
-        "source": "Response.jp",
+        "source": "InsideEVs",
         "time": "2026.7.31",
-        "title": "TikTokショップ専用物流センターを東西に新設、合計35万件出荷体制を構築…株式会社いつも",
-        "url": "https://response.jp/article/2026/07/31/414753.html"
+        "title": "Tesla Breaking Off Its China Business? Musk Calls It 'Absurdly Fake News'",
+        "url": "https://insideevs.com/news/803408/musk-china-us-split-fake/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "Car Salesman Says Nissan Rogue Is Identical To This Crossover SUV. The Other One’s Cheaper: 'Stole They Whole Flow'",
+        "url": "https://www.motor1.com/news/803114/2026-nissan-rogue-mitsubishi-outlander-identical/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.31",
+        "title": "Mercedes CEO Admits It ‘Forgot a Little Bit About the Customer’ When It Axed Buttons",
+        "url": "https://www.thedrive.com/news/mercedes-forgot-a-little-bit-about-the-customer-when-it-got-rid-of-buttons-ceo"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.31",
+        "title": "‘Largest Supply Disruption In History’: High Oil Prices Drove Record EV Sales In 50 Countries",
+        "url": "https://insideevs.com/news/803381/ev-sales-records-50-countries-high-gas-prices/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "JLR's New North American CEO Has A Lot Of Work To Do",
+        "url": "https://www.motor1.com/news/803393/jlr-new-north-american-ceo-appointed/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.7.31",
+        "title": "Chevy Says ‘Officially Licensed’ AI Slop Shirt at TJ Maxx Is a Fake",
+        "url": "https://www.thedrive.com/news/chevy-says-officially-licensed-ai-slop-shirt-at-tj-maxx-is-a-fake"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.7.31",
+        "title": "Ford CEO Thinks Chinese EVs Could Hit The U.S. Within 5 To 10 Years: Report",
+        "url": "https://insideevs.com/news/803284/ford-china-evs-5-years/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.7.31",
+        "title": "This Trailer Drives Itself Into The Campsite",
+        "url": "https://www.motor1.com/news/803378/aboard-t4-caravan-debut/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30643173468",
-    "sha": "bd1e8dab597573729bc3dd5762787a71cd828f7e",
-    "completed_at": "2026-07-31T15:32:33.117Z",
+    "run_id": "30682658190",
+    "sha": "45ab5a5c2682b5b38100716534f0e20f79d44270",
+    "completed_at": "2026-08-01T03:48:06.564Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +139,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 45,
-    "queued_articles": 45,
-    "processed": 45,
-    "started_at": "2026-07-31T15:30:52.677Z",
-    "finished_at": "2026-07-31T15:32:32.853Z",
+    "scoped_articles": 19,
+    "queued_articles": 19,
+    "processed": 19,
+    "started_at": "2026-08-01T03:47:23.718Z",
+    "finished_at": "2026-08-01T03:48:06.267Z",
     "success": true,
     "error": ""
   }
