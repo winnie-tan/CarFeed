@@ -1,6 +1,6 @@
 {
   "workflow": {
-    "generated_at": "2026-08-01T14:41:12.147Z",
+    "generated_at": "2026-08-02T03:50:02.657Z",
     "articles_in_feed": 400,
     "deepseek_translated_before_run": 383,
     "deepseek_untranslated_before_run": 17,
@@ -11,106 +11,106 @@
     "translation_queue_count": 17,
     "translation_queue_preview": [
       {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "“太ければ正解”ではない？ カーオーディオ用パワーケーブルの正しい選び方［カー用音響機材・チョイスの極意…パーツ＆部材編］",
+        "url": "https://response.jp/article/2026/08/02/414784.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "『セリカ』が復活、トヨタGRに大きな動きが！…7月のスクープ記事ベスト5",
+        "url": "https://response.jp/article/2026/08/02/414791.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "【スズキ ジムニーノマド 新型試乗】「一芸あり」なクルマを乗りこなす楽しみがある",
+        "url": "https://response.jp/article/2026/08/02/414792.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.2",
+        "title": "【バス運転士日誌】7月の営業所見学会は朝から汗だくだ！ 取材をする側からされる側に回るとタジタジっす!?",
+        "url": "https://bestcarweb.jp/busmagazine/1578098"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "【夏休み】HKSの筑波アタックマシン『TRB-03』、NEOPASA駿河湾沼津に登場！",
+        "url": "https://response.jp/article/2026/08/02/414790.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.2",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第822回",
+        "url": "https://bestcarweb.jp/feature/column/1592312"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "30歳希望年収、男性987万・女性853万…28卒旧帝早慶",
+        "url": "https://response.jp/article/2026/08/02/414789.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.2",
+        "title": "NISMOヘリテージにクラシックマツダ！ ホンダだけじゃない国産メーカー各社の「ネオクラ復活」最前線！",
+        "url": "https://bestcarweb.jp/feature/column/1588997"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.2",
+        "title": "オーロラの「無人トラック」が第2世代に!! ドライバー不足の米国で自動運転トラックの需要が急拡大？",
+        "url": "https://bestcarweb.jp/fullload/1590345"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.2",
+        "title": "Man Buys Ford Bronco. Then The Dealership Refuses To Fix Huge Scratch After Saying They'd Take Care Of It: 'CANCEL THAT CONTRACT!'",
+        "url": "https://www.motor1.com/news/803460/ford-bronco-scratch-we-owe/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.2",
+        "title": "‘We Love CarPlay': Man Leaves Woman In His Car. Then She Finds A Diabolical Way To Expose Him",
+        "url": "https://www.motor1.com/news/803455/apple-carplay-expose-boyfriend/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.1",
+        "title": "Woman Goes To Valvoline. Then They Ask Her A Question She Has No Response To: 'I'm Gonna Completely Embarrass Myself'",
+        "url": "https://www.motor1.com/news/803454/honda-civic-oil-type-valvoline/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.1",
+        "title": "Man Buys Used Honda Civic. Then He Learns It’ll Cost $9,000 For It To Pass Inspection: ‘Honda Is 100% Trying To...'",
+        "url": "https://www.motor1.com/news/803453/3k-facebook-honda-civic-9k-repair/"
+      },
+      {
         "source": "The Drive",
         "time": "2026.8.1",
-        "title": "New AEV Kit Has Everything to Turn a Ford Super Duty Into a Super Off-Roader for $20K",
-        "url": "https://www.thedrive.com/news/new-aev-kit-has-everything-to-turn-your-ford-super-duty-into-a-super-off-roader-for-20k"
+        "title": "Cops Imitating Plants Catch 74 Drivers on Their Phones in Six Hours",
+        "url": "https://www.thedrive.com/news/cops-imitating-plants-catch-74-drivers-on-their-phones-in-six-hours"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.8.1",
+        "title": "Someone Turned a BMW M4 Competition xDrive Into a Pickup",
+        "url": "https://www.thedrive.com/news/someone-turned-a-bmw-m4-competition-xdrive-into-a-pickup"
       },
       {
         "source": "Motor1",
         "time": "2026.8.1",
-        "title": "Sam’s Club Tells Man To Leave His Trailer Overnight. Then He Finds Something Shocking",
-        "url": "https://www.motor1.com/news/803100/western-express-stuck-sams-club-parking-lot/"
+        "title": "The Real Reason Carvana Built Giant Car Vending Machines",
+        "url": "https://www.motor1.com/features/803436/why-carvana-has-car-vending-machines/"
       },
       {
-        "source": "Motor1",
+        "source": "The Drive",
         "time": "2026.8.1",
-        "title": "All 20 BMW Art Cars Are Finally Together In One Place",
-        "url": "https://www.motor1.com/news/803420/bmw-art-cars-welt/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "【マツダスピリットレーシング ロードスター 新型試乗】526万円のロードスターは高いのか？…中村孝仁",
-        "url": "https://response.jp/article/2026/08/01/414781.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.1",
-        "title": "Florida Man Goes To O’Reilly. Then He Spots A Worker Spray-Painting A Part He Shouldn’t Be: 'Adds 25+ Horsepower'",
-        "url": "https://www.motor1.com/news/803386/florida-oreilly-camshaft-spray-paint/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.8.1",
-        "title": "I Experienced The World’s First Electrostatic Speakers In A Production Car. Now I Can't Go Back",
-        "url": "https://insideevs.com/news/803291/range-rover-sv-ultra-electrostatic-speakers-warwick-acoustics/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "MINIクロスオーバーにフロント4ウェイ！モレルで作った“コンペで勝てる音”【Pro Shop インストール・レビュー】by SOUND WAVE 後編",
-        "url": "https://response.jp/article/2026/08/01/414777.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "R32GT-Rをポケットに!! 5000個限定!! 伝説の日本車をキーリングで持ち歩こう!!",
-        "url": "https://bestcarweb.jp/news/1588928"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "ガレージハウスを買うとカワサキ『GPZ900R』が付いてくる!? ナップスが販売、第1弾は横浜上大岡・別所エリア",
-        "url": "https://response.jp/article/2026/08/01/414779.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "ダンロップ、エンデューロ専用タイヤ「ジオマックス EN92」を8月3日発売…SOFTスペック2サイズを新設定",
-        "url": "https://response.jp/article/2026/08/01/414776.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.1",
-        "title": "テスラのヒューマノイド、『Optimus』の量産は始まった？…Gen3開発など最新情報まとめ",
-        "url": "https://response.jp/article/2026/08/01/414782.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "バイクデザインを変えた革命児!! スズキKATANAが1/12ブロック模型で登場だ!!",
-        "url": "https://bestcarweb.jp/news/1588925"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "パジェロのイメージを守りながら内実を大きく刷新！ 現代的なプレミアムSUVへと脱皮した3代目＆4代目の功績を振り返る！",
-        "url": "https://bestcarweb.jp/feature/column/1588794"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.1",
-        "title": "まさか車中泊はできないよね!? 日産 ノートのシートアレンジと荷室をチェック",
-        "url": "https://bestcarweb.jp/feature/column/1585096"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.8.1",
-        "title": "Florida Got $200 Million For EV Chargers. It Wants To Spend It On Air Taxis Instead",
-        "url": "https://insideevs.com/news/803441/florida-nevi-ev-charger-money-evtols-air-taxis/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.1",
-        "title": "Why Your Gas Tank Is On The Left—Or Right",
-        "url": "https://www.motor1.com/features/803431/why-cars-have-gas-tank-left-or-right/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.1",
-        "title": "Woman Gets In Car Accident. Then She Gets Friend Request—And Realizes Who It Is In Disguise: ‘U Never Know Who Watching’",
-        "url": "https://www.motor1.com/news/803365/insurance-investigator-friend-request-after-car-accident/"
+        "title": "You Can Buy a ‘New’ 1990 Aston Martin V8 Vantage Zagato",
+        "url": "https://www.thedrive.com/news/you-can-buy-a-new-1990-aston-martin-v8-vantage-zagato"
       }
     ]
   },
@@ -120,8 +120,8 @@
     "scoped_articles": 17,
     "queued_articles": 17,
     "processed": 17,
-    "started_at": "2026-08-01T14:41:12.490Z",
-    "finished_at": "2026-08-01T14:41:49.945Z",
+    "started_at": "2026-08-02T03:50:02.998Z",
+    "finished_at": "2026-08-02T03:51:01.432Z",
     "success": true,
     "error": ""
   }
