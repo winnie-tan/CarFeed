@@ -1,122 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-08-02T03:50:02.657Z",
+    "generated_at": "2026-08-02T14:43:54.365Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 383,
-    "deepseek_untranslated_before_run": 17,
-    "newly_fetched_articles": 17,
-    "newly_fetched_untranslated": 17,
+    "deepseek_translated_before_run": 380,
+    "deepseek_untranslated_before_run": 20,
+    "newly_fetched_articles": 20,
+    "newly_fetched_untranslated": 20,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 17,
+    "translation_queue_count": 20,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.8.2",
-        "title": "“太ければ正解”ではない？ カーオーディオ用パワーケーブルの正しい選び方［カー用音響機材・チョイスの極意…パーツ＆部材編］",
-        "url": "https://response.jp/article/2026/08/02/414784.html"
+        "title": "Man Goes To Carmax, Sees 2022 Toyota 4Runner With 127,000 Miles. Then He Finds Out How Much They Want: ‘Let’s Not Normalize This’",
+        "url": "https://www.motor1.com/news/803466/carmax-127k-mile-toyota-4runner/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.2",
+        "title": "Audi Caught Flogging Its Tiny Electric Hatchback On The Nürburgring",
+        "url": "https://www.motor1.com/news/803422/audi-a2-nurburgring-track-testing-spy-photos/"
       },
       {
         "source": "Response.jp",
         "time": "2026.8.2",
-        "title": "『セリカ』が復活、トヨタGRに大きな動きが！…7月のスクープ記事ベスト5",
-        "url": "https://response.jp/article/2026/08/02/414791.html"
+        "title": "【シトロエン e-C3 新型試乗】シトロエンらしさにあふれた、ノンストレスなBEV…島崎七生人",
+        "url": "https://response.jp/article/2026/08/02/414801.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.8.2",
-        "title": "【スズキ ジムニーノマド 新型試乗】「一芸あり」なクルマを乗りこなす楽しみがある",
-        "url": "https://response.jp/article/2026/08/02/414792.html"
+        "title": "【夏休み】極東開発「ゆめのはたらく自動車」イラスト＆ぬりえ募集",
+        "url": "https://response.jp/article/2026/08/02/414798.html"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.8.2",
+        "title": "EREVs Can Apparently Be Almost As Low-Maintenance As Full EVs",
+        "url": "https://insideevs.com/news/803385/erev-oil-change-china-xiaomi/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "HKS、日産『シルビア』『180SX』SR20DET用「クランク角センサーコンバージョンキット」発売",
+        "url": "https://response.jp/article/2026/08/02/414794.html"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.8.2",
+        "title": "Lucid's New World Record Has Nothing To Do With Charging Speed Or Range",
+        "url": "https://insideevs.com/news/803237/lucid-gravity-world-record-music-djs/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.2",
+        "title": "Man Gets His Toyota Worked On. Then His Mechanic Finds The Car's Secret Screen: 'You May Not Know'",
+        "url": "https://www.motor1.com/news/803463/toyota-radio-secret-screen/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "コンパクトSUVのデザインを変えた異端児、初代日産『ジューク』【懐かしのカーカタログ】",
+        "url": "https://response.jp/article/2026/08/02/414800.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.8.2",
-        "title": "【バス運転士日誌】7月の営業所見学会は朝から汗だくだ！ 取材をする側からされる側に回るとタジタジっす!?",
-        "url": "https://bestcarweb.jp/busmagazine/1578098"
+        "title": "サイズ感・使い勝手・走りの質感を徹底比較！ 選べば間違いなしの人気コンパクトSUV3台！",
+        "url": "https://bestcarweb.jp/feature/column/1588332"
       },
       {
         "source": "Response.jp",
         "time": "2026.8.2",
-        "title": "【夏休み】HKSの筑波アタックマシン『TRB-03』、NEOPASA駿河湾沼津に登場！",
-        "url": "https://response.jp/article/2026/08/02/414790.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.2",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第822回",
-        "url": "https://bestcarweb.jp/feature/column/1592312"
+        "title": "ニュルを走る1周1周が、PROXESを進化させる。24時間レースの先にある、トーヨータイヤの挑戦",
+        "url": "https://response.jp/article/2026/08/01/414783.html"
       },
       {
         "source": "Response.jp",
         "time": "2026.8.2",
-        "title": "30歳希望年収、男性987万・女性853万…28卒旧帝早慶",
-        "url": "https://response.jp/article/2026/08/02/414789.html"
+        "title": "バイク庫「実体験マップ」、β版開始…ライダーの駐輪・道路情報をGoogleマップで共有",
+        "url": "https://response.jp/article/2026/08/02/414795.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.2",
+        "title": "プロト、学生フォーミュラ日本大会2026に出展…スウェッジラインのブレーキホースを展示",
+        "url": "https://response.jp/article/2026/08/01/414778.html"
       },
       {
         "source": "Best Car Web",
         "time": "2026.8.2",
-        "title": "NISMOヘリテージにクラシックマツダ！ ホンダだけじゃない国産メーカー各社の「ネオクラ復活」最前線！",
-        "url": "https://bestcarweb.jp/feature/column/1588997"
+        "title": "ランクル70に完全対応!! リアホイール”ツラウチ”お悩み解決へ 老舗「4×4エンジニアリング」最上級ホイールに「-25」登場",
+        "url": "https://bestcarweb.jp/news/car-accessory/1595840"
       },
       {
         "source": "Best Car Web",
         "time": "2026.8.2",
-        "title": "オーロラの「無人トラック」が第2世代に!! ドライバー不足の米国で自動運転トラックの需要が急拡大？",
-        "url": "https://bestcarweb.jp/fullload/1590345"
+        "title": "両側電動スライドドアは必要か!? スズキ ソリオ ハイブリッドMXとMZの装備差を考える",
+        "url": "https://bestcarweb.jp/feature/column/1582972"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.2",
+        "title": "全国からロードスターオーナーが軽井沢に集結！ 新色の登場と特別仕様車「PS」のサプライズ発表に会場は大盛り上がり！",
+        "url": "https://bestcarweb.jp/feature/column/1589525"
       },
       {
         "source": "Motor1",
         "time": "2026.8.2",
-        "title": "Man Buys Ford Bronco. Then The Dealership Refuses To Fix Huge Scratch After Saying They'd Take Care Of It: 'CANCEL THAT CONTRACT!'",
-        "url": "https://www.motor1.com/news/803460/ford-bronco-scratch-we-owe/"
+        "title": "Is AAA Still Worth It? Why Millions Of Drivers Keep Paying For It",
+        "url": "https://www.motor1.com/features/803434/is-aaa-worth-it/"
       },
       {
         "source": "Motor1",
         "time": "2026.8.2",
-        "title": "‘We Love CarPlay': Man Leaves Woman In His Car. Then She Finds A Diabolical Way To Expose Him",
-        "url": "https://www.motor1.com/news/803455/apple-carplay-expose-boyfriend/"
+        "title": "Texas Woman Says This Is The Best Car She's Ever Had. So Why Is The Dealership Taking It Away From Her?",
+        "url": "https://www.motor1.com/news/803462/dealership-takes-womans-jeep/"
       },
       {
         "source": "Motor1",
-        "time": "2026.8.1",
-        "title": "Woman Goes To Valvoline. Then They Ask Her A Question She Has No Response To: 'I'm Gonna Completely Embarrass Myself'",
-        "url": "https://www.motor1.com/news/803454/honda-civic-oil-type-valvoline/"
+        "time": "2026.8.2",
+        "title": "Warning Pops Up On Woman’s Toyota Camry. Then She Grabs Her 10-Month-Old Baby And Flees Before Disaster Strikes",
+        "url": "https://www.motor1.com/news/803461/toyota-camry-fire/"
       },
       {
-        "source": "Motor1",
-        "time": "2026.8.1",
-        "title": "Man Buys Used Honda Civic. Then He Learns It’ll Cost $9,000 For It To Pass Inspection: ‘Honda Is 100% Trying To...'",
-        "url": "https://www.motor1.com/news/803453/3k-facebook-honda-civic-9k-repair/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.1",
-        "title": "Cops Imitating Plants Catch 74 Drivers on Their Phones in Six Hours",
-        "url": "https://www.thedrive.com/news/cops-imitating-plants-catch-74-drivers-on-their-phones-in-six-hours"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.1",
-        "title": "Someone Turned a BMW M4 Competition xDrive Into a Pickup",
-        "url": "https://www.thedrive.com/news/someone-turned-a-bmw-m4-competition-xdrive-into-a-pickup"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.1",
-        "title": "The Real Reason Carvana Built Giant Car Vending Machines",
-        "url": "https://www.motor1.com/features/803436/why-carvana-has-car-vending-machines/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.1",
-        "title": "You Can Buy a ‘New’ 1990 Aston Martin V8 Vantage Zagato",
-        "url": "https://www.thedrive.com/news/you-can-buy-a-new-1990-aston-martin-v8-vantage-zagato"
+        "source": "InsideEVs",
+        "time": "2026.8.2",
+        "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
+        "url": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30731287404",
-    "sha": "6617243c08c91a8ae066d21eed7f5c509c3d39da",
-    "completed_at": "2026-08-02T03:51:01.716Z",
+    "run_id": "30752735443",
+    "sha": "d99f9c4d065030de934bcb8fb65af298f5cde449",
+    "completed_at": "2026-08-02T14:44:41.126Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -127,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 17,
-    "queued_articles": 17,
-    "processed": 17,
-    "started_at": "2026-08-02T03:50:02.998Z",
-    "finished_at": "2026-08-02T03:51:01.432Z",
+    "scoped_articles": 20,
+    "queued_articles": 20,
+    "processed": 20,
+    "started_at": "2026-08-02T14:43:54.711Z",
+    "finished_at": "2026-08-02T14:44:40.826Z",
     "success": true,
     "error": ""
   }
