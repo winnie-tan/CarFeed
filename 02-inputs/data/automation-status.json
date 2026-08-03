@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-08-02T14:43:54.365Z",
+    "generated_at": "2026-08-03T03:51:55.589Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 380,
-    "deepseek_untranslated_before_run": 20,
-    "newly_fetched_articles": 20,
-    "newly_fetched_untranslated": 20,
+    "deepseek_translated_before_run": 375,
+    "deepseek_untranslated_before_run": 25,
+    "newly_fetched_articles": 25,
+    "newly_fetched_untranslated": 25,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 20,
+    "translation_queue_count": 25,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.8.2",
-        "title": "Man Goes To Carmax, Sees 2022 Toyota 4Runner With 127,000 Miles. Then He Finds Out How Much They Want: ‘Let’s Not Normalize This’",
-        "url": "https://www.motor1.com/news/803466/carmax-127k-mile-toyota-4runner/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.2",
-        "title": "Audi Caught Flogging Its Tiny Electric Hatchback On The Nürburgring",
-        "url": "https://www.motor1.com/news/803422/audi-a2-nurburgring-track-testing-spy-photos/"
-      },
-      {
         "source": "Response.jp",
-        "time": "2026.8.2",
-        "title": "【シトロエン e-C3 新型試乗】シトロエンらしさにあふれた、ノンストレスなBEV…島崎七生人",
-        "url": "https://response.jp/article/2026/08/02/414801.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.2",
-        "title": "【夏休み】極東開発「ゆめのはたらく自動車」イラスト＆ぬりえ募集",
-        "url": "https://response.jp/article/2026/08/02/414798.html"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.8.2",
-        "title": "EREVs Can Apparently Be Almost As Low-Maintenance As Full EVs",
-        "url": "https://insideevs.com/news/803385/erev-oil-change-china-xiaomi/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.2",
-        "title": "HKS、日産『シルビア』『180SX』SR20DET用「クランク角センサーコンバージョンキット」発売",
-        "url": "https://response.jp/article/2026/08/02/414794.html"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.8.2",
-        "title": "Lucid's New World Record Has Nothing To Do With Charging Speed Or Range",
-        "url": "https://insideevs.com/news/803237/lucid-gravity-world-record-music-djs/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.2",
-        "title": "Man Gets His Toyota Worked On. Then His Mechanic Finds The Car's Secret Screen: 'You May Not Know'",
-        "url": "https://www.motor1.com/news/803463/toyota-radio-secret-screen/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.2",
-        "title": "コンパクトSUVのデザインを変えた異端児、初代日産『ジューク』【懐かしのカーカタログ】",
-        "url": "https://response.jp/article/2026/08/02/414800.html"
+        "time": "2026.8.3",
+        "title": "【トヨタ RAV4アドベンチャー 新型試乗】これぞトヨタの大黒柱！ 現行ハイブリッド車でベストと思える洗練度",
+        "url": "https://response.jp/article/2026/08/03/414826.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.8.2",
-        "title": "サイズ感・使い勝手・走りの質感を徹底比較！ 選べば間違いなしの人気コンパクトSUV3台！",
-        "url": "https://bestcarweb.jp/feature/column/1588332"
+        "time": "2026.8.3",
+        "title": "【バス運転士不足問題】今年の夏も水問題？理不尽なクレームと闘う運転士たち！",
+        "url": "https://bestcarweb.jp/busmagazine/1577691"
       },
       {
         "source": "Response.jp",
-        "time": "2026.8.2",
-        "title": "ニュルを走る1周1周が、PROXESを進化させる。24時間レースの先にある、トーヨータイヤの挑戦",
-        "url": "https://response.jp/article/2026/08/01/414783.html"
+        "time": "2026.8.3",
+        "title": "【調査レポート】テスラ・トヨタ・中国系OEMのSDV開発とAI活用～AI-DVをリードする先進企業の最前線～",
+        "url": "https://response.jp/article/2026/08/03/414814.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.3",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第823回",
+        "url": "https://bestcarweb.jp/feature/column/1592313"
       },
       {
         "source": "Response.jp",
-        "time": "2026.8.2",
-        "title": "バイク庫「実体験マップ」、β版開始…ライダーの駐輪・道路情報をGoogleマップで共有",
-        "url": "https://response.jp/article/2026/08/02/414795.html"
+        "time": "2026.8.3",
+        "title": "ASPEN燃料を無償提供、熊本地震の被災地支援…橋本屋",
+        "url": "https://response.jp/article/2026/08/03/414820.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.3",
+        "title": "SUV全盛の今だからこそ際立つセダンならではの美学！ 熟成された静粛性と走りを両立した新型ESの実力を徹底チェック！",
+        "url": "https://bestcarweb.jp/feature/column/1589263"
       },
       {
         "source": "Response.jp",
-        "time": "2026.8.2",
-        "title": "プロト、学生フォーミュラ日本大会2026に出展…スウェッジラインのブレーキホースを展示",
-        "url": "https://response.jp/article/2026/08/01/414778.html"
+        "time": "2026.8.3",
+        "title": "VWジャパン、ドラえもんを起用…電動ミニバン『ID. Buzz』日本導入1周年記念",
+        "url": "https://response.jp/article/2026/08/03/414822.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.8.2",
-        "title": "ランクル70に完全対応!! リアホイール”ツラウチ”お悩み解決へ 老舗「4×4エンジニアリング」最上級ホイールに「-25」登場",
-        "url": "https://bestcarweb.jp/news/car-accessory/1595840"
+        "time": "2026.8.3",
+        "title": "アルファード超えは本当だった!? 新型エルグランドの走りが想像以上！ ライバル比較で分かった実力とは",
+        "url": "https://bestcarweb.jp/feature/column/1569903"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.8.2",
-        "title": "両側電動スライドドアは必要か!? スズキ ソリオ ハイブリッドMXとMZの装備差を考える",
-        "url": "https://bestcarweb.jp/feature/column/1582972"
+        "time": "2026.8.3",
+        "title": "ヴォクシーはパパのわがままを許すミニバンか？ 家族納得と自分満足を両立する選び方",
+        "url": "https://bestcarweb.jp/feature/column/1559577"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "グラマシーニューヨーク、高速道路サービスエリアに全国初出店…東名阪EXPASA御在所（下り）で期間限定販売",
+        "url": "https://response.jp/article/2026/08/03/414829.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "スーパーフォーミュラ第8戦東北大会、5年ぶりに予選Q3復活…8月8‐9日スポーツランドSUGOで開催",
+        "url": "https://response.jp/article/2026/08/03/414828.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "ゼンリンの地図雑貨ブランド「Map Design GALLERY」、四国初上陸…高松オルネに8月5日から期間限定出店",
+        "url": "https://response.jp/article/2026/08/03/414827.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "そのスマホ、良い音を楽しむ権利を棒に振ってる!?［音を良くする“初級鉄板プラン”をプロが伝授］",
+        "url": "https://response.jp/article/2026/08/03/414824.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "トヨタ自動車、熊本地震で給電車派遣や物資提供",
+        "url": "https://response.jp/article/2026/08/03/414815.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.8.2",
-        "title": "全国からロードスターオーナーが軽井沢に集結！ 新色の登場と特別仕様車「PS」のサプライズ発表に会場は大盛り上がり！",
-        "url": "https://bestcarweb.jp/feature/column/1589525"
+        "time": "2026.8.3",
+        "title": "ファンが求めたZ!! Gノーズ風デザイン採用でさらに進化！ 新型フェアレディZマイナーチェンジの全貌",
+        "url": "https://bestcarweb.jp/feature/column/1569944"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "フィアット『トポリーノ』に「Vilebrequin」、地中海沿岸のライフスタイルを表現",
+        "url": "https://response.jp/article/2026/08/03/414818.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "ホンダ・人事情報 2026年6月1日付および2026年6月開催予定の定時株主総会付",
+        "url": "https://response.jp/article/2026/08/03/414810.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.3",
+        "title": "後席スライド240mmの衝撃！ ルーミーの広大なラゲッジに自作棚を組んで最強の「動く秘密基地」を作る!!",
+        "url": "https://bestcarweb.jp/feature/column/1573540"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.3",
+        "title": "Mechanic Works On Honda Civic. Then He Realizes There Are No Parts Available For It: 'Get It Off Of eBay'",
+        "url": "https://www.motor1.com/news/803390/1999-honda-civic-part-unavailable/"
       },
       {
         "source": "Motor1",
         "time": "2026.8.2",
-        "title": "Is AAA Still Worth It? Why Millions Of Drivers Keep Paying For It",
-        "url": "https://www.motor1.com/features/803434/is-aaa-worth-it/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.2",
-        "title": "Texas Woman Says This Is The Best Car She's Ever Had. So Why Is The Dealership Taking It Away From Her?",
-        "url": "https://www.motor1.com/news/803462/dealership-takes-womans-jeep/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.2",
-        "title": "Warning Pops Up On Woman’s Toyota Camry. Then She Grabs Her 10-Month-Old Baby And Flees Before Disaster Strikes",
-        "url": "https://www.motor1.com/news/803461/toyota-camry-fire/"
-      },
-      {
-        "source": "InsideEVs",
-        "time": "2026.8.2",
-        "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
-        "url": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/"
+        "title": "Woman Has Mechanic Install Duralast Part From AutoZone On Her Honda. There’s Just One Problem: 'I Wouldn't Do It'",
+        "url": "https://www.motor1.com/news/803388/honda-autozone-duralast-brake-swap/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30752735443",
-    "sha": "d99f9c4d065030de934bcb8fb65af298f5cde449",
-    "completed_at": "2026-08-02T14:44:41.126Z",
+    "run_id": "30782837228",
+    "sha": "d2467c68408d9e9f1912b6f0b608d90eb57a96f7",
+    "completed_at": "2026-08-03T03:52:48.809Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 20,
-    "queued_articles": 20,
-    "processed": 20,
-    "started_at": "2026-08-02T14:43:54.711Z",
-    "finished_at": "2026-08-02T14:44:40.826Z",
+    "scoped_articles": 25,
+    "queued_articles": 25,
+    "processed": 25,
+    "started_at": "2026-08-03T03:51:55.857Z",
+    "finished_at": "2026-08-03T03:52:48.539Z",
     "success": true,
     "error": ""
   }

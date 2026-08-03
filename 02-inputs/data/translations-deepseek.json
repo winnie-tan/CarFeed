@@ -99591,5 +99591,605 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-08-02T14:44:40.802Z"
+  },
+  "https://bestcarweb.jp/busmagazine/1577691": {
+    "title_zh": "巴士司机短缺问题：今夏再遇“水问题”？与无理投诉抗争的司机们！",
+    "summary_short": "巴士司机短缺因无理投诉加剧，夏季补水竟遭指责。本文探讨司机困境，并推荐全天候冷饮装备。",
+    "summary_long": "巴士司机短缺问题中，无理投诉是重要因素之一。夏季高温下，司机补水本是常识，却有人对此提出异议，这种不合理行为直接增加司机心理压力，甚至可能危及行车安全。驾驶座环境远比外观严酷，虽设有空调，但三面玻璃导致温度远高于客舱，多数公司不限制司机饮水。文中还介绍了适合司机使用的保冷杯等物品，帮助应对酷暑。",
+    "highlights_zh": [
+      "司机补水遭投诉",
+      "驾驶座温度高",
+      "多数公司不限制司机饮水",
+      "推荐保冷杯应对酷暑"
+    ],
+    "entities": [
+      "巴士司机",
+      "夏季补水",
+      "无理投诉",
+      "驾驶环境",
+      "保冷杯"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/19122216/fbd4747681e26854eb79a4f9bfd30494-1024x768.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/19134820/e36be121b5e083ae1fa58d8f727cac90-1024x683.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/3/2026/07/19093954/DSC05193-1024x684.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:00.050Z"
+  },
+  "https://response.jp/article/2026/08/03/414826.html": {
+    "title_zh": "丰田 RAV4 冒险版试驾：现款混动中最精致，堪称丰田中流砥柱",
+    "summary_short": "丰田 RAV4 第六代冒险版试驾，精致度媲美现款混动最佳，全球销量冠军，稳固丰田支柱地位。",
+    "summary_long": "丰田 RAV4 第六代车型上市，作为全球最畅销的单一车型，其市场地位稳固。本次试驾的是国内最便宜的冒险版，旨在检验其基础性能。RAV4 凭借卓越的产品力，在 2024 年以 118 万辆的销量超越特斯拉 Model Y，成为全球销量冠军。丰田拥有兰德酷路泽、海狮等经典车型，但 RAV4 如今已成为品牌的中流砥柱，其可靠性和市场表现令人瞩目。",
+    "highlights_zh": [
+      "第六代 RAV4 上市",
+      "2024 年全球销量 118 万辆",
+      "丰田最量贩车型",
+      "混动系统精致度现款最佳"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "RAV4",
+      "冒险版",
+      "兰德酷路泽",
+      "海狮"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232219.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232218.jpg",
+      "https://response.jp/imgs/fill2/2232218.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:01.061Z"
+  },
+  "https://response.jp/article/2026/08/03/414814.html": {
+    "title_zh": "调查报道：特斯拉、丰田与中国 OEM 的 SDV 开发与 AI 应用——引领 AI-DV 的先进企业最前线",
+    "summary_short": "特斯拉、华为等已迈向 AI 定义车辆，丰田等日系车企面临战略抉择，报告解析 SDV 向 AI-DV 演进趋势。",
+    "summary_long": "日本汽车行业将 SDV（软件定义车辆）视为紧迫目标，但特斯拉已完全自研 SDV 平台，华为等中国科技企业及新兴 OEM 正转向 AI-DV（AI 定义车辆）。报告指出日本技术战略已落后，并比较了特斯拉的数据驱动内制、华为的生态参与及传统机械品质差异化等路径。内容涵盖 SDV 定义、历史演进、技术基础、主要 OEM 战略对比，以及特斯拉 FSD V12-V14、理想 Mind GPT、小鹏 E2E、华为乾崑 ADS 等最新 AI-DV 实践，为决策者提供参考。",
+    "highlights_zh": [
+      "特斯拉 FSD V12-V14 实现端到端 AI 革…",
+      "华为乾崑 ADS 4.0 与 WEWA 架构引领 A…",
+      "丰田采取后发追撃战略",
+      "中国车企融合智能手机文化"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "丰田 | Toyota",
+      "华为",
+      "理想汽车",
+      "小鹏汽车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231576.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231576.jpg",
+      "https://response.jp/imgs/fill2/2231572.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:04.269Z"
+  },
+  "https://bestcarweb.jp/feature/column/1592313": {
+    "title_zh": "猜车名第 823 回：丰田海拉克斯",
+    "summary_short": "本期猜车名聚焦丰田海拉克斯，回顾 1983 年第四代车型，并提及 2026 年最新第九代。",
+    "summary_long": "本期猜车名栏目介绍丰田海拉克斯，该车自 1968 年诞生以来，已在全球 180 多个国家和地区销售。最新第九代车型于 2026 年 5 月 28 日在日本发布，搭载 204 马力的 2.8 升清洁柴油发动机，匹配分时四驱系统。本次聚焦的是 1983 年推出的第四代海拉克斯，提供柴油和汽油发动机，后驱和四驱可选，并有短轴、长轴及全开放式货厢等多种版本。",
+    "highlights_zh": [
+      "海拉克斯诞生于 1968 年",
+      "最新第九代 2026 年 5 月上市",
+      "本期主角为 1983 年第四代",
+      "车身形式多样"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "海拉克斯",
+      "猜车名",
+      "柴油发动机",
+      "四轮驱动"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30093604/main_19831104_01_04.jpg?v=1785371765",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30093604/main_19831104_01_04-600x400.jpg?v=1785371765",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31115121/main_c_levin_002-600x400.jpg?v=1785466283"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:05.118Z"
+  },
+  "https://response.jp/article/2026/08/03/414820.html": {
+    "title_zh": "桥本屋为熊本地震灾区免费提供 ASPEN 燃料",
+    "summary_short": "桥本屋宣布为熊本地震灾区免费提供 ASPEN4 和 ASPEN2 燃料，支持避难所和自治体的救援工作。",
+    "summary_long": "桥本屋宣布，为支援 7 月 28 日熊本县地震受灾地区，将免费提供 4 冲程发动机用燃料 ASPEN4 和 2 冲程发动机用燃料 ASPEN2。在灾害发生时，发电机、链锯等发动机设备对确保电源和恢复工作至关重要，因此桥本屋决定向避难所和自治体等提供无偿援助。需要注意的是，这些燃料不能用于汽车和摩托车等公共道路行驶车辆，使用前需确认各设备的说明书。支援对象仅限于自治体、避难所等团体，不面向个人住宅配送，且配送可能需要时间。希望获得支援的团体可通过桥本屋官网联系。",
+    "highlights_zh": [
+      "免费提供 ASPEN4 和 ASPEN2 燃料",
+      "支援对象为自治体和避难所",
+      "不适用于道路行驶车辆",
+      "需通过官网申请"
+    ],
+    "entities": [
+      "桥本屋",
+      "ASPEN4",
+      "ASPEN2",
+      "熊本地震"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232252.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232252.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:08.291Z"
+  },
+  "https://bestcarweb.jp/feature/column/1589263": {
+    "title_zh": "SUV 全盛时代，轿车美学更显珍贵！全面评测全新雷克萨斯 ES",
+    "summary_short": "全新雷克萨斯 ES 于 2026 年 6 月日本上市，融合静音与操控，展现轿车独特美学。",
+    "summary_long": "在 SUV 盛行的当下，雷克萨斯 ES 坚持轿车路线，于 2025 年上海车展首发，2026 年 6 月登陆日本。新车经过严苛测试，融合挑战性设计与简约美学，内饰如客厅般舒适，配备世界首创的响应式隐藏开关，以及昼夜变化的竹制发光装饰，提供五感享受。此外，还有提升后排舒适性的新版本，确保所有乘客享受高品质移动时光。",
+    "highlights_zh": [
+      "2026 年 6 月日本上市",
+      "世界首创响应式隐藏开关",
+      "竹制发光内饰昼夜变化",
+      "提供后排舒适新版本"
+    ],
+    "entities": [
+      "雷克萨斯 ES | Lexus ES",
+      "上海车展",
+      "轿车",
+      "SUV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25224307/00_lexusES_head-1.jpg?v=1784986988",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/25224307/00_lexusES_head-1-600x400.jpg?v=1784986988",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/03034707/d688445c79ff29159edcd28cb5e2d8ea-600x375.jpg?v=1785696428"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:08.833Z"
+  },
+  "https://response.jp/article/2026/08/03/414822.html": {
+    "title_zh": "大众日本启用哆啦 A 梦庆祝电动 MPV ID. Buzz 上市一周年",
+    "summary_short": "大众日本为庆祝电动 MPV ID. Buzz 上市一周年，与哆啦 A 梦合作推出特别企划，并发布限定版车型。",
+    "summary_long": "大众日本宣布，为庆祝纯电 MPV ID. Buzz 上市一周年，将于 8 月 1 日至 10 月 31 日期间，与国民级动漫角色哆啦 A 梦展开特别合作。此次合作配合今夏推出的限量版车型“1st Anniversary Edition”进行宣传。ID. Buzz 源自 1950 年代的经典车型 Type2（俗称“大众面包车”），以标志性设计和进化 DNA 为卖点。合作期间，电视广告和经销商渠道将呈现 ID. Buzz 与哆啦 A 梦的联动世界。",
+    "highlights_zh": [
+      "大众日本与哆啦 A 梦合作",
+      "庆祝 ID. Buzz 上市一周年",
+      "推出限量版 1st Anniversary Edit…",
+      "电视广告及经销商联动"
+    ],
+    "entities": [
+      "大众日本 | Volkswagen Japan",
+      "ID. Buzz",
+      "Type2",
+      "哆啦 A 梦",
+      "1st Anniversary Edition"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232295.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232295.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:12.066Z"
+  },
+  "https://bestcarweb.jp/feature/column/1569903": {
+    "title_zh": "超越埃尔法？全新日产 Elgrand 试驾体验与对手对比",
+    "summary_short": "全新日产 Elgrand 试驾体验，对比丰田埃尔法和威尔法，展现均衡性能与舒适性，能否夺回豪华 MPV 王座？",
+    "summary_long": "日产 Elgrand 开创了豪华 MPV 细分市场，如今全新一代车型能否挑战丰田埃尔法/威尔法的霸主地位？试驾体验显示，Elgrand 虽未在公共道路行驶，但其动力系统表现出色，2.5L 混动版响应迅速，静谧性佳，而 e-POWER 系统在瞬发力和燃油经济性上更胜一筹。对比之下，威尔法 2.4T 涡轮增压虽加速刺激但略显粗糙，埃尔法则偏重舒适但高速过弯时车身姿态不够稳健。Elgrand 在操控平衡性和乘坐舒适性之间取得了最佳折中，展现出全面实力。",
+    "highlights_zh": [
+      "e-POWER 动力响应优于埃尔法混动",
+      "威尔法 2.4T 加速刺激但略粗糙",
+      "Elgrand 操控与舒适性平衡最佳",
+      "目标直指豪华 MPV 王座"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Elgrand",
+      "丰田 | Toyota",
+      "Alphard",
+      "Vellfire"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/05162023/00_elgrand02_C13I1182.jpg?v=1783236024",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/05162023/00_elgrand02_C13I1182-600x400.jpg?v=1783236024",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/03034707/d688445c79ff29159edcd28cb5e2d8ea-600x375.jpg?v=1785696428"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:13.957Z"
+  },
+  "https://bestcarweb.jp/feature/column/1559577": {
+    "title_zh": "沃克西是允许爸爸任性的一款 MPV 吗？兼顾家庭满意与自我满足的选择方法",
+    "summary_short": "丰田沃克西兼顾家庭实用与驾驶者个性，2026 年改款后仅提供混动，油耗表现出色，是家庭与自我满足的平衡之选。",
+    "summary_long": "丰田沃克西作为一款 3 排座 MPV，在满足家庭需求的同时，也照顾到了驾驶者的个性化追求。车身尺寸适中，内部空间宽敞，适合接送孩子、购物、返乡等多种场景。2026 年 5 月改款后，沃克西仅提供混合动力版本，WLTC 油耗约为 23.5km/L，兼顾了燃油经济性与外观设计。车型提供 S-G 和 S-Z 两种主要配置，S-G 可选 7 座或 8 座，价格相对亲民，而 S-Z 则更注重豪华与科技配置。选择沃克西，既能让家人满意，也能满足爸爸们对时尚外观的向往。",
+    "highlights_zh": [
+      "2026 年改款后仅提供混动",
+      "S-G 可选 7 座或 8 座",
+      "外观设计兼顾家庭与个性",
+      "尺寸适中"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "沃克西",
+      "混合动力",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02152638/20260410_01_26-2.jpg?v=1782973600",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/02152638/20260410_01_26-2-600x338.jpg?v=1782973600",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/03034707/d688445c79ff29159edcd28cb5e2d8ea-600x375.jpg?v=1785696428"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:17.065Z"
+  },
+  "https://response.jp/article/2026/08/03/414829.html": {
+    "title_zh": "格拉梅西纽约首次入驻日本高速公路服务区，在 EXPASA 御在所限定发售",
+    "summary_short": "格拉梅西纽约首次入驻日本高速公路服务区，在 EXPASA 御在所（下）期间限定发售两款人气甜品。",
+    "summary_long": "中日本高速道路旗下的三重支店宣布，自 2026 年 8 月 6 日起，在東名阪自動車道的 EXPASA 御在所（下り）特设销售区，期间限定销售人气甜品品牌“格拉梅西纽约”的商品。这是该品牌首次在日本高速公路服务区销售，也是首次在三重县内销售。 格拉梅西纽约是以纽约格拉梅西地区为概念，由建筑师、设计师和糕点师共同打造的甜品品牌，以时尚精致的甜品著称。此次销售两款商品：品牌代表作“格拉梅西纽约”和“核桃芬奇”，后者是将杏仁、腰果、核桃焦糖化后放在薄脆饼上烤制而成。适合家庭享用或作为礼物和返乡伴手礼。销售地点为 EXPASA 御在所（下）的特设销售区，24 小时营业，全年无休，销售期间为 2026 年 8 月 6 日至 10 月 7 日。",
+    "highlights_zh": [
+      "首次入驻高速公路服务区",
+      "三重县内首次销售",
+      "限定销售两款人气甜品",
+      "24 小时营业"
+    ],
+    "entities": [
+      "格拉梅西纽约",
+      "EXPASA 御在所",
+      "東名阪自動車道",
+      "中日本高速道路"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232367.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232367.webp",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:19.044Z"
+  },
+  "https://response.jp/article/2026/08/03/414828.html": {
+    "title_zh": "超级方程式第 8 战东北大会，5 年来首次复活排位赛 Q3",
+    "summary_short": "超级方程式第 8 战东北大会将于 8 月 8-9 日在 SUGO 举行，5 年来首次复活排位赛 Q3，BOAT RACE 首次冠名赞助。",
+    "summary_long": "日本赛车推广公司（JRP）公布了 8 月 8-9 日在 Sportsland SUGO 举行的“BOAT RACE 2026 年全日本超级方程式锦标赛第 8 战东北大会”的赛事概要和票务信息。本届赛事中，水上摩托赛事“BOAT RACE”首次成为超级方程式的冠名赞助商，将推出限定合作商品、嘉宾到场、合作拍照点等活动。竞技方面最大看点是 5 年来首次恢复的排位赛 Q3，Q1 和 Q2 晋级的前 5 名车手将进行最终对决。门票方面，预售票、停车券、维修区通行券等正在销售，数量有限；中学生以下免费，学生证可享半价。艺人富田铃花将在决赛前演唱国歌，并参加现场活动。",
+    "highlights_zh": [
+      "5 年来首次复活排位赛 Q3",
+      "BOAT RACE 首次冠名赞助",
+      "富田铃花演唱国歌",
+      "学生证入场半价"
+    ],
+    "entities": [
+      "超级方程式",
+      "日本赛车推广公司",
+      "Sportsland SUGO",
+      "BOAT RACE",
+      "富田铃花"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232363.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232363.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:21.452Z"
+  },
+  "https://response.jp/article/2026/08/03/414827.html": {
+    "title_zh": "Zenrin 地图杂货品牌 Map Design GALLERY 首次登陆四国，8 月 5 日起在高松 Orne 限期开店",
+    "summary_short": "Zenrin 旗下地图杂货品牌 Map Design GALLERY 首次登陆四国，8 月 5 日至 9 月 14 日在高松 Orne 开设限期快闪店，推出香川县限定商品。",
+    "summary_long": "Zenrin 旗下以地图为设计元素的杂货品牌 Map Design GALLERY，将于 8 月 5 日至 9 月 14 日在香川县高松市的 TAKAMATSU ORNE 北馆 1 楼开设期间限定快闪店，这是该品牌首次在四国地区亮相。品牌以“从地图开始的连接”为理念，利用日本全国详细地图数据及所藏西洋古地图，开发文具和杂货。此次快闪店将发售以香川县县花、县木橄榄和县民兽鹿为图案的限定商品，以及以濑户内海为配色的都道府县型钥匙扣和香川县职人手作皮革挂件等。此外，2026 年 4 月发售的人气商品“白地图帆布托特包/日本列岛”也将推出新色卡其色。",
+    "highlights_zh": [
+      "首次登陆四国",
+      "8 月 5 日至 9 月 14 日限期",
+      "香川县限定商品",
+      "新色卡其色托特包"
+    ],
+    "entities": [
+      "Zenrin",
+      "Map Design GALLERY",
+      "高松 Orne",
+      "香川县",
+      "白地图帆布托特包"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232345.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232345.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:23.591Z"
+  },
+  "https://response.jp/article/2026/08/03/414824.html": {
+    "title_zh": "你的手机，正在浪费享受好音乐的权利！？专家传授入门级音质提升方案",
+    "summary_short": "专家指出，多数车主用手机连接车载系统听音乐，却未发挥其潜力。介绍入门级音质提升方案，让驾驶时享受更好声音。",
+    "summary_long": "许多车主在驾驶时习惯用手机连接车载主机，通过流媒体应用播放音乐，但往往未能充分利用手机的音质潜力。日本专业音响店 Quantum 的土屋先生指出，这是常见的盲点。他建议，首先检查手机与车载系统的连接方式及音频设置，然后通过调整均衡器、使用高质量音频源或添加外部 DAC 等入门级方案，即可显著提升音质。本文介绍了这些简单有效的初级升级方法，帮助驾驶者轻松享受更佳的音乐体验。",
+    "highlights_zh": [
+      "多数人未发挥手机音质潜力",
+      "检查连接与设置是第一步",
+      "调整均衡器可改善音质",
+      "添加 DAC 提升音质效果"
+    ],
+    "entities": [
+      "Quantum",
+      "音质提升",
+      "车载音响",
+      "智能手机",
+      "流媒体音乐"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232189.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232189.jpg",
+      "https://response.jp/imgs/fill2/2232190.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:26.083Z"
+  },
+  "https://response.jp/article/2026/08/03/414815.html": {
+    "title_zh": "丰田汽车支援熊本地震：派遣供电车并提供物资",
+    "summary_short": "丰田汽车紧急支援熊本地震，派遣供电车、提供物资及车辆，并捐款 3000 万日元。",
+    "summary_long": "丰田汽车宣布对 2026 年熊本地震受灾地区实施紧急支援，包括派遣供电车（如 Moving e）以应对避难所停电，提供车辆租赁和物资援助，并组织灾害志愿者活动。支援行动将与销售店、丰田租赁店及丰田汽车九州等集团企业合作，仔细确认当地实际需求后提供适当援助。此外，丰田向日本红十字会、中央共同募金会及日本平台捐赠总额 3000 万日元作为赈灾资金。",
+    "highlights_zh": [
+      "派遣供电车应对避难所停电",
+      "提供车辆租赁和物资援助",
+      "与集团企业合作实施支援",
+      "捐款 3000 万日元赈灾"
+    ],
+    "entities": [
+      "丰田汽车 | Toyota",
+      "熊本地震",
+      "供电车",
+      "Moving e",
+      "日本红十字会"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232195.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232195.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:26.698Z"
+  },
+  "https://response.jp/article/2026/08/03/414818.html": {
+    "title_zh": "菲亚特 Topolino 推出 Vilebrequin 特别版，演绎地中海生活方式",
+    "summary_short": "菲亚特与 Vilebrequin 合作推出 Topolino 特别版，限量 200 台，采用软顶设计，展现地中海风情。",
+    "summary_long": "菲亚特与高端泳装品牌 Vilebrequin 合作，在欧洲推出 Topolino 的特别版车型。该车首次采用带可开启软顶的封闭式车身，兼顾防护与开放感，提供全新驾驶体验。设计主题为“里维埃拉精神”，融合风格、轻盈与自由，展现地中海沿岸的生活方式。限量生产 200 台，配备专属双色涂装和 Vilebrequin 的乌龟标志，体现航海元素。这款电动微型车展示了风格、创新与可持续性的结合。",
+    "highlights_zh": [
+      "菲亚特与 Vilebrequin 合作推出 Topo…",
+      "限量 200 台",
+      "设计主题为“里维埃拉精神”",
+      "融合航海元素与地中海生活方式"
+    ],
+    "entities": [
+      "菲亚特",
+      "Topolino",
+      "Vilebrequin",
+      "电动微型车",
+      "软顶"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232198.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232198.jpg",
+      "https://response.jp/imgs/fill2/2232201.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:30.679Z"
+  },
+  "https://bestcarweb.jp/feature/column/1569944": {
+    "title_zh": "日产 Z 车迷期待！G 鼻风格设计再进化，全新 Fairlady Z 中期改款全貌",
+    "summary_short": "日产 Fairlady Z 中期改款采用 G 鼻风格前脸，致敬经典 S30，内饰升级，性能提升，2026 年夏上市。",
+    "summary_long": "日产 Fairlady Z 中期改款车型于 2026 年 5 月 5 日在富士赛道举办的 DUNLOP 全 Fairlady Z 聚会中亮相，计划于同年夏季发售。新车并非简单的小改款，而是通过采用致敬历代 Z 的 G 鼻风格前脸、更换 Z 标识、以及启动时仪表盘展示历代 Z 车型的动画等设计，充分迎合了车迷的期待。此外，新车在底盘和空气动力学性能上也进行了优化，不仅外观进化，操控性能也得到提升。前保险杠的设计不仅为了美观，还改善了高速冷却性、减少了前部升力和空气阻力。内饰方面新增了棕褐色选项，并更新了仪表盘启动动画，获得了积极反响。",
+    "highlights_zh": [
+      "G 鼻风格前脸致敬初代 S30",
+      "Z 标识取代日产 LOGO",
+      "仪表盘展示历代 Z 动画",
+      "底盘与空气动力学性能提升"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Fairlady Z",
+      "G 鼻",
+      "S30"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/05180724/00_MC_fairladyZ_IMG_6498_head.jpg?v=1783242445",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/05180724/00_MC_fairladyZ_IMG_6498_head-600x400.jpg?v=1783242445",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/03034707/d688445c79ff29159edcd28cb5e2d8ea-600x375.jpg?v=1785696428"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:30.958Z"
+  },
+  "https://response.jp/article/2026/08/03/414810.html": {
+    "title_zh": "本田发布 2026 年 6 月人事变动及股东总会提案",
+    "summary_short": "本田公布 2026 年 6 月 1 日及股东总会相关人事调整，涉及董事候选人变更及执行役任命。",
+    "summary_long": "本田技研工业株式会社宣布了 2026 年 6 月 1 日生效的人事变动，以及将在 2026 年 6 月定期股东大会上提出的董事候选人变更方案。此次调整还包括执行役的人事任命和董事会体制的变更，旨在优化公司治理结构，为未来发展奠定基础。",
+    "highlights_zh": [
+      "公布 2026 年 6 月人事调整",
+      "董事候选人变更提案",
+      "执行役任命及董事会体制变更"
+    ],
+    "entities": [
+      "本田 | Honda"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/1847470.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/1847470.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:33.332Z"
+  },
+  "https://bestcarweb.jp/feature/column/1573540": {
+    "title_zh": "后座滑动 240mm！丰田 Roomy 打造移动秘密基地",
+    "summary_short": "丰田 Roomy 后座可滑动 240mm，DIY 自制货架打造移动秘密基地，低配版仅 174 万日元。",
+    "summary_long": "丰田 Roomy 虽为紧凑型 MPV，但内部空间灵活多变，尤其是后座可左右独立滑动最大 240mm，为 DIY 改造提供了绝佳基础。将后座滑至最前，行李厢长度可从 500mm 扩展至 740mm，足以容纳自制货架，打造个人专属的移动秘密基地。最入门版本 X（2WD）售价仅 174 万 2400 日元，却标配了高级的座椅调节功能，性价比极高，适合追求个性化与成本效益的车主。",
+    "highlights_zh": [
+      "后座滑动 240mm",
+      "行李厢长度可扩展至 740mm",
+      "入门版仅 174 万日元",
+      "DIY 货架打造移动秘密基地"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Roomy",
+      "DIY",
+      "行李厢"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/22162826/20200928-AU0I46141.jpg?v=1779434907",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/05/22162826/20200928-AU0I46141-600x400.jpg?v=1779434907",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/03034707/d688445c79ff29159edcd28cb5e2d8ea-600x375.jpg?v=1785696428"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:34.720Z"
+  },
+  "https://www.motor1.com/news/803390/1999-honda-civic-part-unavailable/": {
+    "title_zh": "修车师傅修本田思域，发现配件已停产：只能去五金店找替代品",
+    "summary_short": "修车师傅修理 1999 款本田思域，因空调张紧轮垫片停产，只能去五金店寻找替代品。",
+    "summary_long": "一位修车师傅在修理一辆 1999 款本田思域时，遇到配件短缺的难题。该车的空调系统张紧轮垫片已经停产，无法从任何当地供应商处购得。师傅在视频中表示，他打算去 Tractor Supply、家得宝和劳氏等五金店寻找替代品。视频引发网友讨论，有人建议去报废车场拆件、找机械加工定制或使用替代零件。",
+    "highlights_zh": [
+      "1999 款本田思域空调张紧轮垫片停产",
+      "修车师傅计划去五金店寻找替代品",
+      "网友建议报废车场或机械加工定制",
+      "车辆寿命过长导致维修配件难寻"
+    ],
+    "entities": [
+      "本田思域 | Honda Civic",
+      "空调张紧轮",
+      "配件停产",
+      "替代零件"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzBZo/s1/mechanic-works-on-a-honda-civic..jpg.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:37.577Z"
+  },
+  "https://www.motor1.com/news/803388/honda-autozone-duralast-brake-swap/": {
+    "title_zh": "女子让技师安装 AutoZone 的 Duralast 零件，但技师拒绝：'我不会这么做'",
+    "summary_short": "加州女车主要求更换刹车，但技师发现原厂刹车几乎全新，拒绝安装 AutoZone 的 Duralast 零件。",
+    "summary_long": "加州内陆帝国的一名技师 Rick 接到一位本田车主的刹车更换请求。到达现场后，他发现刹车片和刹车盘几乎全新，磨损极小，且为原厂部件。车主却坚持要更换为 AutoZone 的 Duralast 品牌零件。Rick 认为没有必要更换，且 Duralast 质量不如原厂，因此拒绝进行更换，并录制视频解释原因。",
+    "highlights_zh": [
+      "刹车片几乎全新",
+      "技师拒绝更换",
+      "原厂件优于 Duralast",
+      "车主坚持更换"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "AutoZone",
+      "Duralast",
+      "刹车片",
+      "刹车盘"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3EvW/s1/woman-asks-her-mechanic-to-install-duralast.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:38.524Z"
+  },
+  "https://www.motor1.com/news/803482/florida-tow-truck-driver/": {
+    "title_zh": "佛罗里达男子遭遇车祸，警察叫来拖车，但他没意识到拖车司机的别有用心",
+    "summary_short": "佛罗里达律师提醒：事故后警察叫来的拖车可能另有目的，车主有权指定拖车目的地。",
+    "summary_long": "佛罗里达州人身伤害律师托德·迈纳发布视频警告，事故后警察叫来的拖车司机可能意图将车辆拖至其自有停车场，以累积高额停车费。迈纳指出，在大多数州，车主有权指示拖车司机将车辆送往自己选择的地点，如家中、经销商或修理厂。该视频获得超过 5.7 万次观看，但评论区拖车司机表示，建议忽略了现场支付账单的问题。",
+    "highlights_zh": [
+      "拖车司机可能另有目的",
+      "车主有权指定拖车目的地",
+      "视频观看量超 5.7 万",
+      "拖车司机回应：需现场付费"
+    ],
+    "entities": [
+      "佛罗里达",
+      "拖车",
+      "事故",
+      "车主权利",
+      "托德·迈纳"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzLER/s1/man-gets-into-car-accident.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:41.228Z"
+  },
+  "https://www.thedrive.com/news/battery-powered-semi-truck-backpack-converts-diesel-big-rigs-to-hybrids-but-why": {
+    "title_zh": "电池‘背包’将柴油半挂卡车变混动，但为何？",
+    "summary_short": "初创公司 Revoy 推出电池模块，可将柴油半挂卡车临时变为混动，续航 200 英里，获 2700 万美元融资。",
+    "summary_long": "Revoy 公司设计了一种电池模块，可安装在牵引车和挂车之间，将柴油半挂卡车临时转换为混动车辆。该模块包含电池组和电机，可提供 200 英里的电动辅助续航，旨在通过减轻柴油发动机负荷来提高燃油经济性，并配备再生制动系统。Revoy 计划建立换电站网络，方便司机更换电池。公司声称该模块可降低高达 85%的碳排放，并已获得 2700 万美元融资用于开发更便宜的版本。",
+    "highlights_zh": [
+      "Revoy 推出电池模块",
+      "模块提供 200 英里电动辅助续航",
+      "计划建立换电站网络",
+      "获 2700 万美元融资"
+    ],
+    "entities": [
+      "Revoy",
+      "特斯拉 | Tesla",
+      "柴油卡车",
+      "混动",
+      "电池模块"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Revoy-Hero-2.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Revoy-Hero-3.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/759078843_1373805364897431_3494819671090111791_n.jpeg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:41.936Z"
+  },
+  "https://www.motor1.com/news/803425/lotus-electric-suv-not-sold-in-american/": {
+    "title_zh": "路特斯解释为何不将电动 SUV 引入美国",
+    "summary_short": "路特斯因美国对中国产电动车征收高额关税，决定不将 Eletre 电动 SUV 引入美国市场。",
+    "summary_long": "路特斯目前在美国仅销售 Emira 跑车，其电动 SUV Eletre 并未进入美国市场。路特斯美洲区总裁兼 CEO Massimiliano Trantini 透露，公司原本已完成所有准备工作，包括通过认证，但美国对中国产电动车征收的关税从 100%升至 150%，导致商业可行性不复存在。因此，路特斯决定不再提供 2026 款 Eletre，以确保为客户提供合理的性价比。",
+    "highlights_zh": [
+      "路特斯不卖 Eletre 因关税过高",
+      "美国关税升至 150%致商业不可行",
+      "路特斯已完成认证但放弃上市",
+      "2025 款 Eletre Carbon 售价 23…"
+    ],
+    "entities": [
+      "路特斯 | Lotus",
+      "Eletre",
+      "Emira",
+      "关税"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vxKqwq/s1/lotus-eletre-s-kaimu-grey-dynamic.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:44.490Z"
+  },
+  "https://www.thedrive.com/news/these-guys-resurrecting-a-gm-ev1-are-making-serious-progress": {
+    "title_zh": "GM EV1 复活项目取得重大进展",
+    "summary_short": "The Questionable Garage 团队正在修复罕见的 GM EV1，已恢复 12 伏电力系统，向可驾驶目标迈进。",
+    "summary_long": "The Questionable Garage 团队正在修复一辆罕见的通用汽车 EV1（VIN 212），该车于 2025 年底以 10.4 万美元从拍卖会购得。由于 EV1 原本只租赁不销售，且多数被销毁，修复工作极具挑战。在最新视频中，团队已成功让 12 伏电力系统通电，仪表盘、收音机、里程表（显示 28,832 英里）和刹车灯均正常工作，车辆也接受了安全代码，为后续连接高压电池和电机奠定基础。下一步将清理腐蚀和污垢，并重新组装换挡面板。",
+    "highlights_zh": [
+      "12 伏电力系统已恢复",
+      "仪表盘、刹车灯等正常工作",
+      "车辆接受安全代码",
+      "下一步连接高压电池和电机"
+    ],
+    "entities": [
+      "通用汽车 | GM",
+      "EV1",
+      "The Questionable Garage"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-10.57.42-AM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-10.50.02-AM.jpeg?strip=all",
+      "https://i.ytimg.com/vi/noHJaTZ0M7Q/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:45.482Z"
+  },
+  "https://www.thedrive.com/news/ever-wondered-what-a-v11-engine-sounds-like-well-here-you-go": {
+    "title_zh": "V11 发动机的声音是怎样的？这里告诉你",
+    "summary_short": "V11 发动机虽不现实，但通过切断 V12 火花塞可模拟其声浪，听感与 V12 差异不大。",
+    "summary_long": "发动机的排气声浪受气缸数和排列方式影响，V8、V10、V12 等偶数缸发动机的声音备受推崇，而 V6、V4 则相对逊色。V11 发动机因左右气缸数不同而无法实际制造，但可通过在 V12 发动机上停用一个气缸来模拟其声音。Maisteer 频道在改装奔驰 SL 的 6.0 升 V12 上拔掉一个火花塞，模拟了 V11 和 V9 的声浪。结果显示，V11 的声音与正常 V12 差别不大，仅略有节奏不均，频率计显示在 400Hz 和 800Hz 处有变化。尽管 V11 不现实，但模拟声音听起来并不差，类似实验也表明直列 11 缸的声音效果不错。",
+    "highlights_zh": [
+      "V11 发动机无法实际制造",
+      "通过停缸模拟 V11 声浪",
+      "V11 声音与 V12 差异不大",
+      "频率计显示特定频率变化"
+    ],
+    "entities": [
+      "V11 发动机",
+      "V12 发动机",
+      "奔驰 SL | Mercedes-Benz SL",
+      "Maisteer"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-2.16.23-PM.jpeg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-2.20.52-PM.jpeg?strip=all",
+      "https://i.ytimg.com/vi/Ae4DVQOVe9Q/hqdefault.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T03:52:48.502Z"
   }
 }
