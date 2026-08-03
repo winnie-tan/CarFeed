@@ -100191,5 +100191,807 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-08-03T03:52:48.502Z"
+  },
+  "https://insideevs.com/news/803579/telo-tiny-ev-pickup-tow-capacity-update/": {
+    "title_zh": "Telo 称其微型电动皮卡牵引力超基础版福特 F-150",
+    "summary_short": "Telo 微型电动皮卡 MT1 牵引力提升至 8000 磅，超越基础版福特 F-150，小巧车身却拥有强大拖拽能力。",
+    "summary_long": "加州初创公司 Telo 将其微型电动皮卡 MT1 的牵引力从 6600 磅提升至 8000 磅，这一数字超过了基础版福特 F-150。MT1 车身长度仅 152 英寸，与最新款 Mini 双门掀背车相当，却拥有四门、五座和 60 英寸货箱。得益于电动平台的再生制动和 4400 磅的车重，MT1 能够稳定牵引重物，并兼容带有主动再生和电池组的新型拖车，如 Pebble Flow 电动露营车。",
+    "highlights_zh": [
+      "牵引力提升至 8000 磅",
+      "超越基础版 F-150",
+      "车身仅 152 英寸",
+      "可拖拽电动露营车"
+    ],
+    "entities": [
+      "Telo",
+      "MT1",
+      "福特 F-150 | Ford F-150",
+      "Pebble Flow"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7xWN/s1/telo-mt1-towing.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:39.010Z"
+  },
+  "https://insideevs.com/news/803575/volvo-ex50-electric-crossover-spa3-platform-tesla-rival/": {
+    "title_zh": "沃尔沃全新 EX50 将成特斯拉 Model Y 劲敌，售价低于 5 万美元",
+    "summary_short": "沃尔沃计划推出全新电动跨界车 EX50，售价约 4.9 万美元，对标特斯拉 Model Y，预计 2027 年底在美上市。",
+    "summary_long": "沃尔沃正在筹备一款全新电动跨界车 EX50，以取代老化的 EX40，并竞争由特斯拉 Model Y 主导的紧凑型电动 SUV 市场。据 Automotive News 报道，EX50 预计于 2027 年底在美国上市，起售价在 4.9 万美元左右，比即将推出的 EX60 中型跨界车便宜约 1 万美元。同时，EX50 将成为沃尔沃新的入门级电动车，因为 EX30 将在 2026 款后停产。沃尔沃发言人拒绝评论未来产品，但表示电动车是市场增长的方向。沃尔沃面临美国关税政策和中国竞争对手的压力，已调整其全电动化目标，但仍将电动车视为重要产品组合。",
+    "highlights_zh": [
+      "EX50 起售价约 4.9 万美元",
+      "对标特斯拉 Model Y",
+      "取代 EX40 和 EX30",
+      "基于 SPA3 平台"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "EX50",
+      "特斯拉 | Tesla",
+      "Model Y",
+      "SPA3 平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkMQk6/s1/ex60-front.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:39.215Z"
+  },
+  "https://www.thedrive.com/news/a-lowrider-meet-convinced-me-enthusiasts-should-step-out-of-their-comfort-zones": {
+    "title_zh": "低趴车展启示：车迷应跳出舒适圈",
+    "summary_short": "低趴车展让作者领悟，纯展示车也充满魅力，车迷应勇于探索不同风格。",
+    "summary_long": "作者偶然参加了纽约金斯顿的“Envy Frenzy 26”低趴车展，这次经历让他重新审视了纯展示车的价值。尽管他个人偏好实用改装，但车展上那些风格夸张、充满艺术感的低趴车，让他意识到跳出舒适圈、欣赏不同汽车文化的重要性。",
+    "highlights_zh": [
+      "低趴车展带来全新视角",
+      "纯展示车也有独特魅力",
+      "车迷应尝试不同风格",
+      "跳出舒适圈"
+    ],
+    "entities": [
+      "低趴车",
+      "Envy Frenzy 26",
+      "Made 2 Envy Auto Club",
+      "金斯顿",
+      "汽车文化"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/Envy-Frenzy-Hero-Envy-Frenzy-26-from-The-Drive-IMG_5289.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/Envy-Frenzy-26-from-The-Drive-IMG_5267.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/Envy-Frenzy-26-from-The-Drive-IMG_5265.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:42.666Z"
+  },
+  "https://www.thedrive.com/news/indycar-needed-a-new-racer-for-many-reasons-breaking-track-records-is-one-of-them": {
+    "title_zh": "IndyCar 需要新赛车的原因众多，打破赛道纪录便是其一",
+    "summary_short": "IndyCar 发布全新 IR28 赛车，取代服役近 16 年的旧款，旨在提升安全与性能，开启新纪元。",
+    "summary_long": "IndyCar 系列赛正经历全面复兴，从观众增长、新增赛事、新队伍到新的电视合作伙伴，而 IR28 的发布标志着这一复兴的高潮。IR28 是自 2019 年 Roger Penske 接管系列赛和印第安纳波利斯赛车场以来的巅峰之作。这款由 Dallara 打造的新赛车与现款 IR18（DW12 的进化版）截然不同，实车比渲染图更出色，不仅外观更佳，而且更安全、更轻、更先进，并具有更高的可塑性，将引领 IndyCar 进入一个更好的新时代。尽管系列赛在成长，但 IndyCar 仍感觉在追赶 NASCAR 和 F1，IR28 有望改变这一局面。",
+    "highlights_zh": [
+      "IR28 是 IndyCar 复兴的巅峰之作",
+      "新赛车更安全、更轻、更先进",
+      "实车比渲染图更惊艳",
+      "将开启 IndyCar 新时代"
+    ],
+    "entities": [
+      "IndyCar",
+      "IR28",
+      "Dallara",
+      "Roger Penske",
+      "印第安纳波利斯赛车场"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/indycar-ir28-jerry-perez-5.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/indycar-ir28-jerry-perez-7.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/indycar-ir28-jerry-perez-2.jpeg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:43.690Z"
+  },
+  "https://www.motor1.com/news/803585/lamborghini-revuelto-miura-homage-package/": {
+    "title_zh": "兰博基尼推出 Revuelto Miura 60°致敬版",
+    "summary_short": "兰博基尼为纪念 Miura 60 周年，推出 Revuelto 特别版，提供 9 种专属颜色和两种涂装。",
+    "summary_long": "兰博基尼为纪念 Miura 诞生 60 周年，推出 Revuelto Miura 60° Homage 特别版车型。该车基于 Revuelto 打造，由 Ad Personam 个性化部门和 Centro Stile 设计中心合作完成，主要在外观上进行调整，包括专属车漆、涂装和徽章。客户可选 9 种源自 Miura 的经典颜色，如 Rosso Arancio、Arancio、Giallo 等，并搭配两种下部车身涂装，分别搭配不同轮毂和装饰。此外，车身侧裙带有 Miura 60 标识，并配备亮黑后部标识、黑色刹车卡钳和哑光黑排气管。",
+    "highlights_zh": [
+      "为纪念 Miura 60 周年推出特别版",
+      "提供 9 种 Miura 经典配色",
+      "两种专属涂装可选",
+      "配备 Miura 60 标识和黑色细节"
+    ],
+    "entities": [
+      "兰博基尼 | Lamborghini",
+      "Revuelto",
+      "Miura",
+      "Ad Personam",
+      "Centro Stile"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzPb9/s1/lamborghini-revuelto-miura-60deg-homage.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:47.312Z"
+  },
+  "https://www.motor1.com/news/803555/brabus-carbon-catamaran-debut/": {
+    "title_zh": "Brabus 与 Sunreef 合作推出 56 英尺豪华双体帆船 Ultima 55，配备 1450 马力水翼系统",
+    "summary_short": "Brabus 与 Sunreef 合作推出 Ultima 55 豪华双体帆船，搭载 1450 马力水翼系统，碳纤维设计，兼顾舒适与性能。",
+    "summary_long": "Brabus 不再局限于改装高性能奔驰，现与 Sunreef Yachts 合作推出 Ultima 55 豪华双体帆船。该船长 55.8 英尺，采用双体设计并配备先进水翼系统，高速时减少船体与水接触，降低阻力，提升稳定性和舒适性。这是 Brabus CEO Constantin Buschmann 首次涉足多体豪华游艇领域，旨在满足追求长途舒适与性能的船主。",
+    "highlights_zh": [
+      "Brabus 与 Sunreef 合作推出 Ulti…",
+      "搭载 1450 马力水翼系统",
+      "碳纤维设计",
+      "CEO 首次涉足多体豪华游艇领域"
+    ],
+    "entities": [
+      "Brabus",
+      "Sunreef Yachts",
+      "Ultima 55",
+      "水翼系统",
+      "双体帆船"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak3E2x/s1/brabus-ultima-55-luxuskatamaran-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:48.611Z"
+  },
+  "https://www.thedrive.com/news/florida-says-200m-fund-for-ev-chargers-is-waste-to-taxpayers-should-go-to-flying-taxis-instead-tds": {
+    "title_zh": "佛罗里达州称 2 亿美元电动汽车充电基金是浪费，应投入飞行出租车",
+    "summary_short": "佛罗里达州拟将 2 亿美元电动汽车充电资金转投飞行出租车，称充电设施浪费纳税人钱。",
+    "summary_long": "佛罗里达州曾预留近 2 亿美元用于建设电动汽车充电基础设施，该州电动汽车保有量位居全美第二，但充电桩数量仍未达到全国平均水平。然而，佛罗里达州交通部现提议将这笔资金用于建设“空中高速公路网络”，支持电动垂直起降飞行出租车。该部门称，不会将纳税人的钱浪费在普通乘用车上，而应支持新兴交通模式。此举引发争议，因为该州充电设施本就不足。",
+    "highlights_zh": [
+      "2 亿美元充电资金拟转投飞行出租车",
+      "佛州称充电设施浪费纳税人钱",
+      "该州电动车保有量全美第二但充电桩不足",
+      "交通部支持新兴交通模式"
+    ],
+    "entities": [
+      "佛罗里达州 | Florida",
+      "电动汽车 | EV",
+      "充电基础设施",
+      "飞行出租车",
+      "空中高速公路网络"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/GettyImages-2219670033.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECASTEP26HERO.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:51.995Z"
+  },
+  "https://www.motor1.com/news/803536/audi-wagon-lineup-us-today/": {
+    "title_zh": "奥迪不放弃美国旅行车市场",
+    "summary_short": "奥迪计划在美国推出更多旅行车，全新 A6 Allroad 将于 2027 年上市，RS6 Avant 继续作为旗舰。",
+    "summary_long": "尽管美国市场 SUV 盛行，奥迪仍表示将寻找机会引入更多旅行车。目前，RS6 Avant 是唯一在售的旅行车，而 A6 Allroad 和 A4 allroad 已退出美国市场。奥迪确认新一代 A6 Allroad 将于 2027 年在美国上市，搭载 3.0 TFSI 发动机，并具备更宽的姿态和越野特性。",
+    "highlights_zh": [
+      "RS6 Avant 成美国唯一在售旅行车",
+      "A6 Allroad 2027 年重返美国",
+      "A4 allroad 2025 年后退出北美",
+      "奥迪坚持提供旅行车选项"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "RS6 Avant",
+      "A6 Allroad",
+      "A4 allroad",
+      "旅行车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgZzm/s1/audi-a6-allroad-2026.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:52.516Z"
+  },
+  "https://insideevs.com/news/803565/ford-mustang-mach-e-window-trim-recall/": {
+    "title_zh": "福特召回 8.6 万辆 Mustang Mach-E：车窗饰条可能脱落",
+    "summary_short": "福特因车窗饰条可能脱落召回 8.6 万辆 Mustang Mach-E，涉及 2023-2025 款，供应商装配治具导致粘接不良。",
+    "summary_long": "福特汽车宣布召回 86,543 辆 Mustang Mach-E 电动汽车，原因是后侧三角窗的饰条可能脱落，增加行驶中发生事故的风险。此次召回涉及 2023 年 2 月 17 日至 2024 年 10 月 8 日期间生产的 2023 至 2025 款车型。问题源于供应商圣戈班墨西哥工厂新引入的装配治具，该治具缩短了安装时间，导致饰条底漆未能充分固化，粘接强度不足。福特已收到 219 起相关投诉，经销商将免费检查并更换饰条。",
+    "highlights_zh": [
+      "召回 86",
+      "涉及 2023-2025 款车型",
+      "饰条可能脱落",
+      "供应商新治具导致粘接不良"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "Mustang Mach-E",
+      "圣戈班",
+      "美国国家公路交通安全管理局"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXeRzv/s1/2024-ford-mustang-mach-e-rally-first-drive.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:56.214Z"
+  },
+  "https://www.motor1.com/news/803525/hennessey-blackbird-specs-photos-details/": {
+    "title_zh": "Hennessey Blackbird：回归纯粹的超跑体验",
+    "summary_short": "Hennessey 发布全新超跑 Blackbird，搭载 6.2 升自然吸气 V8 发动机，匹配 6 速手动变速箱，车重低于 3000 磅。",
+    "summary_long": "Hennessey 从改装商转型为独立超跑制造商，继 Venom GT 和 F5 之后推出第三款定制车型 Blackbird。该车以 SR-71 侦察机命名，采用复古性能配方，搭载与 Ilmor Engineering 合作开发的 6.2 升自然吸气 V8 发动机，最大功率 800-850 马力，红线转速超过 9000 转，匹配带金属挡把的 6 速手动变速箱，驱动后轮。车身采用全碳纤维单体壳和碳纤维面板，干重低于 3000 磅，比日产 Sentra 更轻，配备 20 英寸专属轮毂和米其林 Pilot Sport Cup 2 R 轮胎。",
+    "highlights_zh": [
+      "6.2 升自然吸气 V8",
+      "6 速手动变速箱",
+      "全碳纤维车身",
+      "与 Ilmor Engineering 合作开发"
+    ],
+    "entities": [
+      "Hennessey",
+      "Blackbird",
+      "Venom GT",
+      "Venom F5",
+      "Ilmor Engineering"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZoZM/s1/hennessey-blackbird.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:56.802Z"
+  },
+  "https://insideevs.com/news/803554/us-army-ugv-erev-plug-in-hybrid/": {
+    "title_zh": "美国陆军新型无人地面车辆：增程式电动车",
+    "summary_short": "美国陆军授予莱茵金属 18 个月合同，开发基于 Harbinger 增程式混动底盘的无人地面车辆，续航超 500 英里。",
+    "summary_long": "美国陆军授予美国莱茵金属公司一份为期 18 个月的合同，用于开发下一代无人地面车辆（UGV）。该车辆将采用加州 Harbinger 公司开发的插电式混合动力系统，实际上是一种增程式电动车，因为其汽油发动机仅用于发电，不直接驱动车轮。Harbinger 的 Praesidia 平台可输出高达 350 千瓦的外部电力，配备高电压电池组和紧凑型汽油发动机，在无充电设施时为电池充电。该底盘提供三种轴距选项，续航里程超过 500 英里，纯电续航约 105 英里。",
+    "highlights_zh": [
+      "美国陆军授予莱茵金属 18 个月合同",
+      "采用 Harbinger 增程式混动底盘",
+      "外部供电可达 350 千瓦",
+      "续航超 500 英里"
+    ],
+    "entities": [
+      "美国陆军 | U.S. Army",
+      "莱茵金属",
+      "Harbinger",
+      "无人地面车辆",
+      "增程式电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzLqB/s1/harbinger-praesidia.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:56:59.778Z"
+  },
+  "https://response.jp/article/2026/08/03/414857.html": {
+    "title_zh": "凯迪拉克 Lyriq 试驾：1100 万日元的超一流舒适（短途除外）",
+    "summary_short": "凯迪拉克首款纯电 Lyriq 试驾，右舵设计，车内静谧性超群，但短途乘坐舒适性一般。",
+    "summary_long": "凯迪拉克首款纯电车型 Lyriq 采用跨界设计，类似丰田皇冠跨界车。试驾中，右舵设定便利，车内极为安静，隔音出色，延续了凯迪拉克对静谧性的追求。但短途行驶时，悬挂偏硬，舒适性不如预期。",
+    "highlights_zh": [
+      "凯迪拉克首款纯电车型",
+      "右舵设计",
+      "车内静谧性超群",
+      "短途舒适性一般"
+    ],
+    "entities": [
+      "凯迪拉克",
+      "Lyriq",
+      "丰田皇冠跨界车 | Toyota Crown Crossover",
+      "纯电"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232547.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232547.jpg",
+      "https://response.jp/imgs/fill2/2232543.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:01.329Z"
+  },
+  "https://bestcarweb.jp/feature/column/1554770": {
+    "title_zh": "汽车术语问答：SRS 到底是什么意思？",
+    "summary_short": "汽车行业缩写众多，SRS 是安全气囊系统的英文缩写，全称 Supplemental Restraint System，即辅助约束系统。",
+    "summary_long": "汽车行业与商业世界一样，充斥着各种英文缩写。本文以问答形式介绍汽车相关的缩写，本期聚焦 SRS。SRS 的全称是 Supplemental Restraint System，即辅助约束系统，也就是我们常说的安全气囊系统。安全气囊在碰撞时充气，减轻乘客冲击，最初仅驾驶席配备，现已普及至副驾驶及侧气帘等。",
+    "highlights_zh": [
+      "SRS 全称是 Supplemental Restr…",
+      "安全气囊是辅助约束系统",
+      "安全气囊从驾驶席扩展到全车",
+      "汽车行业缩写众多"
+    ],
+    "entities": [
+      "SRS",
+      "安全气囊",
+      "辅助约束系统",
+      "汽车安全"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19144145/00c.jpg?v=1781847706",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/19144145/00c-600x400.jpg?v=1781847706",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27133811/001_LandCruiser250-1-600x400.jpg?v=1785127092"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:03.816Z"
+  },
+  "https://www.motor1.com/news/803549/crest-nissan-worker-judges-customer/": {
+    "title_zh": "日产销售员以貌取人，错失大客户",
+    "summary_short": "日产销售员因客户穿着普通，拒绝展示车辆，称其买不起，结果客户有 7000 美元首付。",
+    "summary_long": "一位名叫 Lala 的女士在德克萨斯州弗里斯科的 Crest Nissan 购车时，遭遇销售员以貌取人。销售员以“没时间”为由拒绝展示 Jeep Grand Cherokee，并暗示 Lala 至少需要 1500 美元首付才能购车。然而，Lala 实际准备了 7000 美元首付，最终愤然离开。此事引发对汽车销售行业歧视行为的讨论。",
+    "highlights_zh": [
+      "销售员以貌取人拒绝展示车辆",
+      "客户实际有 7000 美元首付",
+      "事件引发行业歧视讨论"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Jeep Grand Cherokee",
+      "Crest Nissan"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Ak384x/s1/nissan-worker-says-she-doesn-t-have-time.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:04.999Z"
+  },
+  "https://response.jp/article/2026/08/03/414842.html": {
+    "title_zh": "五十铃第一财季营业利润增长 31%至 748 亿日元，日元贬值助力",
+    "summary_short": "五十铃 2026 年 4-6 月营业利润同比增 31%至 748 亿日元，销售额创同期新高，但全球销量下滑 7%。",
+    "summary_long": "五十铃汽车公布 2027 年 3 月期第一财季（2026 年 4-6 月）合并财报，销售额同比增长 7%至 8325 亿日元，创同期历史新高；营业利润同比增长 31%至 748 亿日元，主要得益于日元贬值。税前利润同比增长 27%至 814 亿日元，归母净利润同比增长 23%至 509 亿日元。全球销量同比下降 7%至 13.2 万辆，其中商用车销量下降 11%至 7 万辆，国内下降 9%至 1.8 万辆，海外下降 12%至 5.2 万辆；小型商用车销量微降 1%至 6.2 万辆，泰国市场增长 23%至 1.5 万辆，出口下降 7%至 4.7 万辆。",
+    "highlights_zh": [
+      "营业利润增 31%至 748 亿日元",
+      "销售额创同期新高",
+      "全球销量降 7%至 13.2 万辆",
+      "泰国小型商用车销量增 23%"
+    ],
+    "entities": [
+      "五十铃",
+      "日元贬值",
+      "第一财季财报",
+      "商用车",
+      "小型商用车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232407.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232407.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:08.207Z"
+  },
+  "https://response.jp/article/2026/08/03/414855.html": {
+    "title_zh": "川崎 Ninja 250/400 推出新配色，9 月 5 日发售",
+    "summary_short": "川崎发布 2027 款 Ninja 250/400，新配色，9 月 5 日上市，售价 72.6 万日元起。",
+    "summary_long": "川崎摩托车日本公司宣布，将于 9 月 5 日发售 2027 款轻型运动车型 Ninja 250 和 Ninja 400，采用全新配色与图形。Ninja 250 以锐利造型、轻量高性能为特点，配备辅助滑动离合器、LED 大灯和档位显示，骑行姿势兼顾运动与直立，适合城市通勤和旅行。Ninja 400 搭载 398cc 水冷并列双缸发动机，配轻量编织车架，强调中低速扭矩带来的加速感。此次改款仅更新颜色和图形，Ninja 250 提供珍珠机器人白×金属磁力深灰一种配色，建议零售价 72.6 万日元。",
+    "highlights_zh": [
+      "2027 款 Ninja 250/400 新配色",
+      "9 月 5 日日本发售",
+      "Ninja 250 售价 72.6 万日元",
+      "仅更新颜色与图形"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Ninja 250",
+      "Ninja 400",
+      "轻型运动车型"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232533.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232533.jpg",
+      "https://response.jp/imgs/fill2/2232528.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:09.073Z"
+  },
+  "https://response.jp/article/2026/08/03/414849.html": {
+    "title_zh": "捷太格特在哥伦比亚查获超 10 万件假冒轴承",
+    "summary_short": "捷太格特与哥伦比亚警方及海关合作，查获超 10 万件假冒轴承，将进行销毁处理。",
+    "summary_long": "捷太格特宣布，与其拉美当地法人合作，在哥伦比亚警方和国税海关局的支持下，成功进行了大规模假冒轴承查获行动。此次查获的假冒轴承数量超过 10 万件，为防止这些产品流入市场，将确保完成销毁处理。捷太格特将此次行动视为其在拉美地区打击假冒产品活动的重要成果之一。假冒轴承不仅损害经销商利益和品牌声誉，还可能给用户带来严重安全隐患。捷太格特将此视为企业社会责任，积极采取措施打击假冒产品。",
+    "highlights_zh": [
+      "查获超 10 万件假冒轴承",
+      "与哥伦比亚警方和海关合作",
+      "将进行销毁处理",
+      "强调企业社会责任"
+    ],
+    "entities": [
+      "捷太格特",
+      "哥伦比亚",
+      "轴承",
+      "假冒产品",
+      "拉美"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232477.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232477.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:12.265Z"
+  },
+  "https://response.jp/article/2026/08/03/414856.html": {
+    "title_zh": "卡美特为吉姆尼推出三款外观改装件，打造“横尼”风格",
+    "summary_short": "卡美特为铃木吉姆尼及吉姆尼西耶拉推出三款外观改装件，包括车门把手盖、油箱盖等，支持“横尼”拍摄文化。",
+    "summary_long": "日本汽车用品制造商卡美特宣布，为铃木吉姆尼和吉姆尼西耶拉推出三款专用外观改装件，包括侧门把手盖、油箱盖和后门把手盖。这些产品专为右舵车型设计，采用加大尺寸设计，可覆盖把手周围区域，防止指甲划伤，并增大了请求开关，使开关门更顺畅。其中侧门把手盖采用滑动式设计，无需拆卸即可使用钥匙孔。油箱盖的设计灵感源自燃油罐，与侧门把手盖搭配时上下线条对齐，营造统一侧面视觉效果，迎合了吉姆尼车主中流行的“横尼”文化，即从正侧面拍摄车辆。这些改装件适用于 2018 年 7 月后的吉姆尼（JB64W）和吉姆尼西耶拉（JB74W），后门把手盖还适用于 2025 年 4 月后的吉姆尼诺马德（JC74W），但不适用于 2026 年 6 月后改款的车型。",
+    "highlights_zh": [
+      "三款外观件：侧门把手盖、油箱盖、后门把手盖",
+      "专为右舵吉姆尼/吉姆尼西耶拉设计",
+      "油箱盖设计灵感来自燃油罐",
+      "迎合“横尼”文化"
+    ],
+    "entities": [
+      "卡美特",
+      "铃木 | Suzuki",
+      "吉姆尼",
+      "吉姆尼西耶拉",
+      "吉姆尼诺马德"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232496.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232496.jpg",
+      "https://response.jp/imgs/fill2/2232425.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:14.487Z"
+  },
+  "https://response.jp/article/2026/08/03/414851.html": {
+    "title_zh": "铃木为熊本地震捐赠 1000 万日元，并免费开放快速充电器",
+    "summary_short": "铃木向熊本地震灾区捐赠 1000 万日元，并免费开放快速充电器支持电动车主。",
+    "summary_long": "铃木宣布通过日本红十字会向 2026 年熊本地震受灾地区捐赠 1000 万日元作为赈灾款。同时，铃木的销售子公司铃木自贩熊本在其销售网点铃木竞技场熊本中央和铃木竞技场玉名，为灾区电动车主免费开放快速充电器。",
+    "highlights_zh": [
+      "铃木捐赠 1000 万日元赈灾",
+      "免费开放快速充电器",
+      "支持灾区电动车主",
+      "通过红十字会捐款"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "熊本地震",
+      "日本红十字会",
+      "快速充电器"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232495.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232495.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:15.528Z"
+  },
+  "https://response.jp/article/2026/08/03/414852.html": {
+    "title_zh": "铃木 GSX-S/R Meeting 2026 原创周边提前开售",
+    "summary_short": "铃木宣布 GSX-S/R Meeting 2026 原创周边于 8 月 4 日起提前预售，包括 T 恤、毛巾等，活动 10 月 11 日举行。",
+    "summary_long": "铃木宣布，为迎接 10 月 11 日在铃木滨松工厂举办的粉丝活动“GSX-S/R Meeting 2026”，将于 8 月 4 日至 8 月 19 日提前预售原创周边商品。商品包括原创 T 恤（白/黑，M/L/XL 码）、原创面巾、原创零钱包以及 GSX-R1000R 三色圆珠笔（Jetstream）共四款。这些商品在活动当天也会售卖，但往年开场即排长队，且数量有限，建议提前购买。预售通过铃木官方电商平台 S-MALL 的摩托车用品店进行，预计 9 月下旬起发货。活动当天除周边售卖外，还有历代 GSX-S/R 系列展示、开发者座谈、赠品活动、零件商展销以及工厂生产线参观等丰富内容。",
+    "highlights_zh": [
+      "8 月 4 日起预售原创周边",
+      "含 T 恤、毛巾、零钱包等",
+      "活动 10 月 11 日滨松工厂举行",
+      "数量有限"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "GSX-S/R Meeting 2026",
+      "GSX-R1000R",
+      "S-MALL",
+      "滨松工厂"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232483.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232483.jpg",
+      "https://response.jp/imgs/fill2/2232479.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:19.348Z"
+  },
+  "https://response.jp/article/2026/08/03/414845.html": {
+    "title_zh": "动态地图平台扩大 3D 点云数据覆盖范围至关东、中部、东北 11 都县",
+    "summary_short": "动态地图平台扩大 3D 点云数据覆盖，新增关东、中部、东北 11 都县部分区域，强化一般道覆盖。",
+    "summary_long": "动态地图平台宣布，在其综合 3D 空间平台“3Dmapspocket”中扩大一般道点云数据的提供区域。此次扩充除了使用该公司持有的数据外，还新注册了 NTT ME 获取的三维点云数据。由此，关东、中部、东北地区的 11 个都县的部分区域数据利用范围得到扩大。主要新增区域包括东京都内、神奈川县县央地区、千叶县房总地区、爱知县名古屋市内，以及埼玉县、群马县、栃木县、长野县、新潟县、福岛县、宫城县的部分地区。",
+    "highlights_zh": [
+      "新增 NTT ME 获取的 3D 点云数据",
+      "覆盖 11 都县部分区域",
+      "强化一般道数据覆盖",
+      "平台为 3Dmapspocket"
+    ],
+    "entities": [
+      "动态地图平台",
+      "3Dmapspocket",
+      "NTT ME",
+      "3D 点云数据"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232418.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232418.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:19.666Z"
+  },
+  "https://response.jp/article/2026/08/03/414830.html": {
+    "title_zh": "丰田卡罗拉运动版搭载 2.0 升发动机，2027 款美版发布",
+    "summary_short": "丰田发布 2027 款卡罗拉两厢版，搭载 2.0 升发动机，提供 SE 和 XSE 两种配置，起售价约 2.48 万美元。",
+    "summary_long": "丰田汽车美国部门发布了 2027 款卡罗拉两厢版（日本名：卡罗拉运动版）的详细信息。该车型基于 TNGA-C 平台，在爱知县堤工厂生产，搭载 2.0 升 Dynamic Force 发动机，最大功率 169 马力。外观采用运动化设计，内饰配备数字化仪表盘和多媒体系统。提供 SE 和 XSE 两个配置级别，SE 标配 7 英寸数字仪表盘，XSE 则配备 12.3 英寸数字仪表盘和 10.5 英寸丰田多媒体系统。此外，新增 SE Premium Package，可同时选装 10.5 英寸多媒体系统和 12.3 英寸数字仪表盘。美国市场起售价为 24,780 美元，预计今夏到店。",
+    "highlights_zh": [
+      "2027 款卡罗拉两厢版发布",
+      "搭载 2.0 升发动机",
+      "SE 和 XSE 两种配置",
+      "起售价 24"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "卡罗拉两厢版",
+      "卡罗拉运动版 | Corolla Sport",
+      "2.0 升发动机",
+      "TNGA-C 平台"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232335.png",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232335.png",
+      "https://response.jp/imgs/fill2/2232341.png"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:23.231Z"
+  },
+  "https://response.jp/article/2026/08/03/414854.html": {
+    "title_zh": "丰田 Sienta 部分改良，新增“清透米色”配色，E-Four 标配寒冷地规格",
+    "summary_short": "丰田 Sienta 部分改良，新增清透米色，E-Four 标配寒冷地规格，福祉车和 Juno 同步更新。",
+    "summary_long": "丰田对 Sienta 进行了部分改良，并于 8 月 3 日发售。此次改良为所有等级新增了车身颜色“清透米色金属色”，并对外后视镜进行了黑色装饰处理。此外，E-Four 等级将寒冷地规格作为标准配置，福祉车“Welcab”和定制车“Juno”也进行了相同的改良。",
+    "highlights_zh": [
+      "新增清透米色金属色",
+      "外后视镜黑色装饰",
+      "E-Four 标配寒冷地规格",
+      "福祉车和 Juno 同步改良"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Sienta",
+      "Welcab",
+      "Juno",
+      "E-Four"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232484.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232484.jpg",
+      "https://response.jp/imgs/fill2/2232485.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:23.267Z"
+  },
+  "https://response.jp/article/2026/08/03/414846.html": {
+    "title_zh": "丰田 Harrier 部分改良，全面混动化，特别版新增黑色点缀",
+    "summary_short": "丰田 Harrier 改款，仅提供混动，标配 1500W 插座，特别版增黑色装饰。",
+    "summary_long": "丰田对 Harrier 进行了部分改良，动力系统统一为混合动力（HEV），并全系标配 AC100V・1500W 的 accessory 插座，该插座位于行李厢右侧，附带紧急供电系统和外部供电附件。若选装备胎，则无法安装该插座。特别版车型“Z Leather Package・Night Shade”和“Z Night Shade”也进行了升级，新增多处黑色装饰，包括黑色轮毂螺母、黑色镀铬前保险杠饰条、黑色中网、黑色后保险杠饰条、黑色排气管装饰、黑色尾灯等，进一步提升了运动感和高级感。改款车型已于 8 月 3 日上市。",
+    "highlights_zh": [
+      "动力统一为混动",
+      "标配 1500W 插座",
+      "特别版增黑色装饰",
+      "8 月 3 日上市"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Harrier",
+      "混合动力",
+      "特别仕様车"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232408.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232408.jpg",
+      "https://response.jp/imgs/fill2/2232416.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:27.490Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572122": {
+    "title_zh": "日产 Caravan Myroom：移动的一居室，车中泊新选择",
+    "summary_short": "日产 Caravan Myroom 以“房间随行”为理念，2in1 座椅可变三种模式，2025 年 12 月改良版升级隔热与舒适配置。",
+    "summary_long": "日产 Caravan Myroom 不同于传统露营车，其设计理念是“带着房间出行”。核心亮点是 2in1 座椅，可在行驶时的前向驾驶模式、停车时的对向客厅模式以及连接床铺后的卧室模式间切换。座椅采用双面不同硬度的坐垫，支持 5:5 独立分割，可一边沙发一边床。车内配备滑动桌，适合用餐或办公，可选折叠床或上掀床，营造出“移动一居室”的体验。2025 年 12 月 15 日发售的改良版新增沙米色单色车身，并升级隔热材料与舒适装备，进一步强化了户外居住的舒适性。",
+    "highlights_zh": [
+      "2in1 座椅：驾驶、客厅、卧室三模式切换",
+      "双面坐垫",
+      "滑动桌+折叠床",
+      "2025 年 12 月改良"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Caravan Myroom",
+      "车中泊",
+      "露营车",
+      "2in1 座椅"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/23144313/0M0A2202.jpg?v=1784785394",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/23144313/0M0A2202-600x400.jpg?v=1784785394",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27133811/001_LandCruiser250-1-600x400.jpg?v=1785127092"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:28.510Z"
+  },
+  "https://bestcarweb.jp/feature/column/1595687": {
+    "title_zh": "半价法拉利的真相！告别大车 热门文章 TOP20",
+    "summary_short": "Best Car Web 一周热门文章 TOP20，包括半价法拉利、本田 N-BOX 新车型、适合 50 岁以上的舒适车型等。",
+    "summary_long": "Best Car Web 发布 2026 年 7 月 26 日至 8 月 1 日一周热门文章 TOP20。榜单中，关于“半价法拉利”的报道引发关注，探讨以一半价格获得类似驾驶体验的车型。此外，本田 N-BOX 新车型的完成度受到好评，续航可达 320 公里。其他热门内容还包括适合 50 岁以上驾驶者的舒适车型推荐，以及爱车划痕和车灯泛黄的 DIY 修复技巧。",
+    "highlights_zh": [
+      "半价法拉利引热议",
+      "N-BOX 新车型续航 320 公里",
+      "50 岁以上舒适车型推荐",
+      "爱车修复 DIY 技巧"
+    ],
+    "entities": [
+      "法拉利 | Ferrari",
+      "本田 | Honda",
+      "N-BOX",
+      "Best Car Web"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/02152005/dedeed156441b410910ad5e85177d9ea.jpg?v=1785651606",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/02152005/dedeed156441b410910ad5e85177d9ea-600x407.jpg?v=1785651606",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27133811/001_LandCruiser250-1-600x400.jpg?v=1785127092"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:32.505Z"
+  },
+  "https://bestcarweb.jp/feature/column/1590259": {
+    "title_zh": "兰德酷路泽 250“方灯”与“圆灯”有何不同？细节照片揭示设计决定性差异",
+    "summary_short": "丰田兰德酷路泽 250 的方灯与圆灯版本在设计、装备及内饰质感上存在差异，本文通过细节照片进行对比解析。",
+    "summary_long": "丰田新款兰德酷路泽 250 在购车选择中，许多消费者会纠结于“圆灯”与“方灯”的设计差异。本文通过图片详细解析两者在外观、装备及内饰质感上的区别。方灯版本采用反射式三眼 LED 大灯，配备自动水平调节和 LED 示廓灯，提升被视认性；圆灯版本则采用复古风格设计，令人联想到历代兰德酷路泽，为选装配置。此外，文章还涉及座椅材质、仪表盘、中控台等内饰细节，以及尾灯全 LED 化带来的视觉效果和能耗优势。",
+    "highlights_zh": [
+      "方灯版采用三眼 LED 大灯",
+      "圆灯版为复古设计",
+      "内饰质感差异需看实拍图",
+      "尾灯全 LED"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "兰德酷路泽 250 | Land Cruiser 250",
+      "LED 大灯",
+      "内饰"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27133811/001_LandCruiser250-1.jpg?v=1785127092",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27133811/001_LandCruiser250-1-600x400.jpg?v=1785127092",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30160756/01-5-600x400.jpg?v=1785395278"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:32.550Z"
+  },
+  "https://www.motor1.com/news/803531/kia-ev3-production-649-million/": {
+    "title_zh": "起亚选择墨西哥生产 EV3",
+    "summary_short": "起亚投资 6.49 亿美元在墨西哥生产 EV3，2026 年 8 月投产，面向北美市场。",
+    "summary_long": "起亚与墨西哥官方确认了一项 6.49 亿美元的投资计划，用于升级新莱昂州 Pesquería 工厂，以生产紧凑型电动 SUV EV3。该生产线将于 2026 年 8 月 4 日启动，使 EV3 成为起亚在墨西哥组装的首款纯电动车型。投资将持续至 2028 年，涵盖工厂升级、供应商活动、充电设施、可再生能源和水循环项目。此举旨在提高本地化率，影响北美市场的定价和供应。",
+    "highlights_zh": [
+      "起亚投资 6.49 亿美元在墨西哥生产 EV3",
+      "EV3 将于 2026 年 8 月在墨西哥投产",
+      "这是起亚在墨西哥组装的首款纯电动车",
+      "投资涵盖充电和可再生能源项目"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "EV3",
+      "墨西哥",
+      "纯电动",
+      "投资"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9mplEm/s1/kia-ev3-gt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:36.626Z"
+  },
+  "https://bestcarweb.jp/feature/column/1593273": {
+    "title_zh": "名车后继者难当？未能超越前代的失败车型盘点",
+    "summary_short": "盘点未能超越前代的名车后继车型，如日产初代 Elgrand 开创豪华 MPV，但后续车型未能延续辉煌。",
+    "summary_long": "在汽车界，要超越成功的先代车型并非易事，许多后继车型未能达到前代的高度。本文聚焦于那些未能超越前代的“悲剧”后继车型。以日产初代 Elgrand 为例，它于 1997 年问世，开创了豪华 MPV 的新概念，将高级感带入原本注重实用性的 MPV 市场，大获成功，并促使丰田 Alphard 等竞品出现。然而，后续车型虽沿用 FR 布局和发动机，却未能再现初代的辉煌。",
+    "highlights_zh": [
+      "日产初代 Elgrand 开创豪华 MPV 概念",
+      "初代 Elgrand 大获成功",
+      "后继车型未能超越前代"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Elgrand",
+      "丰田 | Toyota",
+      "Alphard",
+      "MPV"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30160756/01-5.jpg?v=1785395278",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30160756/01-5-600x400.jpg?v=1785395278",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27133811/001_LandCruiser250-1-600x400.jpg?v=1785127092"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:37.391Z"
+  },
+  "https://www.motor1.com/news/803516/alfa-romeo-stelvio-delay-means/": {
+    "title_zh": "下一代阿尔法·罗密欧 Stelvio 推迟至本十年末发布",
+    "summary_short": "阿尔法·罗密欧 Stelvio 换代推迟至 2028 年左右，将基于 STLA Large 平台，提供混动和纯电动力，现款销售至 2027 年。",
+    "summary_long": "阿尔法·罗密欧新一代 Stelvio 的发布时间被推迟至本十年末，预计在 2028 年左右亮相。新车将基于 Stellantis 的 STLA Large 平台打造，不再坚持纯电驱动，而是采用混动和纯电并行的策略，尺寸增大，直接对标宝马 X3 等豪华 SUV。现款 Stelvio 和 Giulia 将继续生产至 2027 年，作为过渡期产品。此次延期是为了更好地整合平台、技术和动力系统，确保新车具备更强的竞争力。",
+    "highlights_zh": [
+      "新一代 Stelvio 推迟至 2028 年左右发布",
+      "基于 STLA Large 平台",
+      "现款 Stelvio 和 Giulia 生产至 20…",
+      "对标宝马 X3 等豪华 SUV"
+    ],
+    "entities": [
+      "阿尔法·罗密欧 | Alfa Romeo",
+      "Stelvio",
+      "STLA Large",
+      "宝马 X3 | BMW X3",
+      "Giulia"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJ8WW/s1/alfa-romeo-suv-compatto-2027-il-render-di-motor1.com.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:40.598Z"
+  },
+  "https://www.motor1.com/news/803511/2027-audi-s6-spied-no-camo/": {
+    "title_zh": "奥迪不再伪装全新 S6，发布在即",
+    "summary_short": "奥迪全新 S6 原型车无伪装现身纽博格林，确认将搭载插电混动系统，成为首款带 S 标识的 PHEV 车型。",
+    "summary_long": "奥迪全新 S6 的发布已近在咫尺，轿车和旅行版原型车已无伪装在纽博格林测试。新车将搭载插电混动系统，成为首款带 S 标识的 PHEV 车型，动力介于 S5 和 RS5 之间。奥迪已承诺放弃假排气设计，新车将采用真实排气布局。",
+    "highlights_zh": [
+      "无伪装原型车现身纽博格林",
+      "确认搭载插电混动系统",
+      "首款带 S 标识的 PHEV 车型",
+      "动力介于 S5 和 RS5 之间"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "S6",
+      "A6 Allroad",
+      "S5",
+      "RS5"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/7ZEkQp/s1/2027-audi-s6-screenshot-from-spy-video.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:41.022Z"
+  },
+  "https://insideevs.com/news/803521/hyundai-kia-july-record-sales/": {
+    "title_zh": "现代与起亚创美国销售纪录，但电动车销量下滑",
+    "summary_short": "现代与起亚 7 月美国销量创纪录，但电动车销量大跌，混动车型成主力。",
+    "summary_long": "现代与起亚 7 月在美国市场创下同期最佳销售纪录，连续第三个月增长，主要得益于混动车型的强劲表现。现代共售出 82,480 辆，同比增长 3%；起亚售出 75,857 辆，同比增长 7%。索纳塔混动、伊兰特混动和途胜均创下 7 月历史新高。然而，电动车销量却大幅下滑，其中现代 Ioniq 6 仅售出 76 辆，同比下跌 82%，主要因现代在美国停产了常规版 Ioniq 6，仅保留限量版 Ioniq 6 N。",
+    "highlights_zh": [
+      "现代 7 月美国销量 82",
+      "起亚 7 月销量 75",
+      "混动车型创纪录",
+      "Ioniq 6 销量暴跌 82%"
+    ],
+    "entities": [
+      "现代 | Hyundai",
+      "起亚 | Kia",
+      "途胜",
+      "伊兰特",
+      "艾尼氪 6 | Ioniq 6"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkB3ZG/s1/2026-insideevs-breakthrough-awards-editor-s-choice-hyundai-ioniq-5.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:44.854Z"
+  },
+  "https://www.motor1.com/news/803510/gm-cadillac-infotainment-updates/": {
+    "title_zh": "凯迪拉克信息娱乐系统大更新即将推送",
+    "summary_short": "凯迪拉克 OTA 更新优化媒体队列、座椅控制、充电界面，提升交互体验。",
+    "summary_long": "通用汽车正在为凯迪拉克的自由形式信息娱乐系统推送新的软件更新，新增功能旨在使界面更易于查看、点击和个性化。这些更改涵盖媒体控制、数字车辆设置、应用程序和主屏幕，并通过 OTA 方式交付给部分 2025 和 2026 款凯迪拉克车型。更新基于客户反馈，使系统更直观、响应更快，包括新的媒体队列、更大的触摸目标、调整后的座椅和充电控制、更清晰的抬头显示图形以及更快的蓝牙配对流程。最显著的变化是媒体侧边队列，可让驾驶员查看即将播放的曲目，并支持下拉式音源选择器，减少切换应用的步骤。座椅控制方面，屏幕上的座椅图形与车门上的物理控制按钮对应，使调节更直观。",
+    "highlights_zh": [
+      "新增媒体队列",
+      "座椅控制图形与物理按钮对应",
+      "充电工具更清晰",
+      "OTA 推送至 2025/2026 款车型"
+    ],
+    "entities": [
+      "凯迪拉克 | Cadillac",
+      "通用汽车",
+      "信息娱乐系统",
+      "OTA 升级"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8Yg3q/s1/2026-cadillac-vistiq.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:45.649Z"
+  },
+  "https://www.motor1.com/news/803496/bmw-m3-touring-g88-us-possible/": {
+    "title_zh": "宝马下一代 M3 旅行版代号 G88，或将登陆美国",
+    "summary_short": "宝马下一代 M3 旅行版内部代号 G88，或于 2028 年推出，并有望首次进入美国市场。",
+    "summary_long": "宝马下一代 M3 旅行版内部代号 G88，预计在 2028 年底或 2029 年初推出，与下一代 M3 轿车（G84）同代。据最新报道，宝马可能已批准该车型进入美国市场，这得益于 M5 旅行版在美国的意外成功。动力方面，新车将采用升级后的 3.0 升直列六缸双涡轮增压发动机，并配备轻混系统，但不会采用复杂的插电混动系统。",
+    "highlights_zh": [
+      "内部代号 G88",
+      "或于 2028 年推出",
+      "有望首次入美",
+      "搭载轻混六缸引擎"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "M3 旅行版 | M3 Touring",
+      "M5 旅行版 | M5 Touring",
+      "G88",
+      "轻混系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/qkqX9v/s1/2025-bmw-m3-touring-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-03T15:57:48.379Z"
   }
 }

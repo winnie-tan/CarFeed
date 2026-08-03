@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-08-03T03:51:55.589Z",
+    "generated_at": "2026-08-03T15:56:34.028Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 375,
-    "deepseek_untranslated_before_run": 25,
-    "newly_fetched_articles": 25,
-    "newly_fetched_untranslated": 25,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
+    "newly_fetched_articles": 34,
+    "newly_fetched_untranslated": 34,
     "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 25,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "InsideEVs",
         "time": "2026.8.3",
-        "title": "【トヨタ RAV4アドベンチャー 新型試乗】これぞトヨタの大黒柱！ 現行ハイブリッド車でベストと思える洗練度",
-        "url": "https://response.jp/article/2026/08/03/414826.html"
+        "title": "Telo Says Its Tiny EV Truck Can Tow More Than A Base Ford F-150",
+        "url": "https://insideevs.com/news/803579/telo-tiny-ev-pickup-tow-capacity-update/"
       },
       {
-        "source": "Best Car Web",
+        "source": "InsideEVs",
         "time": "2026.8.3",
-        "title": "【バス運転士不足問題】今年の夏も水問題？理不尽なクレームと闘う運転士たち！",
-        "url": "https://bestcarweb.jp/busmagazine/1577691"
+        "title": "Volvo's New EX50 Will Be A Sub-$50,000 Tesla Model Y Fighter: Report",
+        "url": "https://insideevs.com/news/803575/volvo-ex50-electric-crossover-spa3-platform-tesla-rival/"
       },
       {
-        "source": "Response.jp",
+        "source": "The Drive",
         "time": "2026.8.3",
-        "title": "【調査レポート】テスラ・トヨタ・中国系OEMのSDV開発とAI活用～AI-DVをリードする先進企業の最前線～",
-        "url": "https://response.jp/article/2026/08/03/414814.html"
+        "title": "IndyCar Needed a New Racer for Many Reasons. Breaking Track Records Is One of Them",
+        "url": "https://www.thedrive.com/news/indycar-needed-a-new-racer-for-many-reasons-breaking-track-records-is-one-of-them"
       },
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.8.3",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第823回",
-        "url": "https://bestcarweb.jp/feature/column/1592313"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "ASPEN燃料を無償提供、熊本地震の被災地支援…橋本屋",
-        "url": "https://response.jp/article/2026/08/03/414820.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.3",
-        "title": "SUV全盛の今だからこそ際立つセダンならではの美学！ 熟成された静粛性と走りを両立した新型ESの実力を徹底チェック！",
-        "url": "https://bestcarweb.jp/feature/column/1589263"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "VWジャパン、ドラえもんを起用…電動ミニバン『ID. Buzz』日本導入1周年記念",
-        "url": "https://response.jp/article/2026/08/03/414822.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.3",
-        "title": "アルファード超えは本当だった!? 新型エルグランドの走りが想像以上！ ライバル比較で分かった実力とは",
-        "url": "https://bestcarweb.jp/feature/column/1569903"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.3",
-        "title": "ヴォクシーはパパのわがままを許すミニバンか？ 家族納得と自分満足を両立する選び方",
-        "url": "https://bestcarweb.jp/feature/column/1559577"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "グラマシーニューヨーク、高速道路サービスエリアに全国初出店…東名阪EXPASA御在所（下り）で期間限定販売",
-        "url": "https://response.jp/article/2026/08/03/414829.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "スーパーフォーミュラ第8戦東北大会、5年ぶりに予選Q3復活…8月8‐9日スポーツランドSUGOで開催",
-        "url": "https://response.jp/article/2026/08/03/414828.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "ゼンリンの地図雑貨ブランド「Map Design GALLERY」、四国初上陸…高松オルネに8月5日から期間限定出店",
-        "url": "https://response.jp/article/2026/08/03/414827.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "そのスマホ、良い音を楽しむ権利を棒に振ってる!?［音を良くする“初級鉄板プラン”をプロが伝授］",
-        "url": "https://response.jp/article/2026/08/03/414824.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "トヨタ自動車、熊本地震で給電車派遣や物資提供",
-        "url": "https://response.jp/article/2026/08/03/414815.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.3",
-        "title": "ファンが求めたZ!! Gノーズ風デザイン採用でさらに進化！ 新型フェアレディZマイナーチェンジの全貌",
-        "url": "https://bestcarweb.jp/feature/column/1569944"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "フィアット『トポリーノ』に「Vilebrequin」、地中海沿岸のライフスタイルを表現",
-        "url": "https://response.jp/article/2026/08/03/414818.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.3",
-        "title": "ホンダ・人事情報 2026年6月1日付および2026年6月開催予定の定時株主総会付",
-        "url": "https://response.jp/article/2026/08/03/414810.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.3",
-        "title": "後席スライド240mmの衝撃！ ルーミーの広大なラゲッジに自作棚を組んで最強の「動く秘密基地」を作る!!",
-        "url": "https://bestcarweb.jp/feature/column/1573540"
+        "title": "A Lowrider Meet Convinced Me: Enthusiasts Should Step Out of Their Comfort Zones",
+        "url": "https://www.thedrive.com/news/a-lowrider-meet-convinced-me-enthusiasts-should-step-out-of-their-comfort-zones"
       },
       {
         "source": "Motor1",
         "time": "2026.8.3",
-        "title": "Mechanic Works On Honda Civic. Then He Realizes There Are No Parts Available For It: 'Get It Off Of eBay'",
-        "url": "https://www.motor1.com/news/803390/1999-honda-civic-part-unavailable/"
+        "title": "Lamborghini Honors A Legendary Supercar With Some Fancy Paint",
+        "url": "https://www.motor1.com/news/803585/lamborghini-revuelto-miura-homage-package/"
       },
       {
         "source": "Motor1",
-        "time": "2026.8.2",
-        "title": "Woman Has Mechanic Install Duralast Part From AutoZone On Her Honda. There’s Just One Problem: 'I Wouldn't Do It'",
-        "url": "https://www.motor1.com/news/803388/honda-autozone-duralast-brake-swap/"
+        "time": "2026.8.3",
+        "title": "Brabus Built A 56-Foot Luxury Catamaran With 1,450 Horsepower And Hydrofoils",
+        "url": "https://www.motor1.com/news/803555/brabus-carbon-catamaran-debut/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.8.3",
+        "title": "Florida Says $200M Fund for EV Chargers Is ‘Waste’ to Taxpayers, Should Go to Flying Taxis Instead: TDS",
+        "url": "https://www.thedrive.com/news/florida-says-200m-fund-for-ev-chargers-is-waste-to-taxpayers-should-go-to-flying-taxis-instead-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.3",
+        "title": "Audi Isn't Giving Up On Wagons In America",
+        "url": "https://www.motor1.com/news/803536/audi-wagon-lineup-us-today/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.8.3",
+        "title": "Ford Recalls 86,000 Mustang Mach-E EVs Over Flying Window Trim Risk",
+        "url": "https://insideevs.com/news/803565/ford-mustang-mach-e-window-trim-recall/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.3",
+        "title": "Hennessey Revives The Analog Supercar",
+        "url": "https://www.motor1.com/news/803525/hennessey-blackbird-specs-photos-details/"
+      },
+      {
+        "source": "InsideEVs",
+        "time": "2026.8.3",
+        "title": "The U.S. Army’s New Unmanned Ground Vehicle Is An Extended-Range EV",
+        "url": "https://insideevs.com/news/803554/us-army-ugv-erev-plug-in-hybrid/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "【キャデラック リリック 新型試乗】1100万円で手に入る“超一流”の快適さ（ちょい乗りは除く）…中村孝仁",
+        "url": "https://response.jp/article/2026/08/03/414857.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.3",
+        "title": "【今さら聞けない!?】これ、なんの略？ 自動車界の略語クイズ「SRS」",
+        "url": "https://bestcarweb.jp/feature/column/1554770"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.3",
+        "title": "Nissan Saleswoman Says She ‘Doesn’t Have Time’ To Show Car. Then She Learns Who She's Talking To",
+        "url": "https://www.motor1.com/news/803549/crest-nissan-worker-judges-customer/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "いすゞ営業益31％増の748億円、円安が寄与 第1四半期決算",
+        "url": "https://response.jp/article/2026/08/03/414842.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "カワサキのライトウェイトスポーツ『Ninja 250/400』に新カラー登場、9月5日発売へ",
+        "url": "https://response.jp/article/2026/08/03/414855.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "ジェイテクト、コロンビアでベアリング模倣品10万点以上を摘発…当局と連携し廃棄処理へ",
+        "url": "https://response.jp/article/2026/08/03/414849.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "ジムニーで「ヨコニー」、カーメイトが“映える”外装ドレスアップ3製品を発売",
+        "url": "https://response.jp/article/2026/08/03/414856.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "スズキ、熊本地震に1000万円の義援金…急速充電器も無償開放",
+        "url": "https://response.jp/article/2026/08/03/414851.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.3",
+        "title": "スズキ「GSX-S/Rミーティング2026」オリジナルグッズを事前販売 8月4日から",
+        "url": "https://response.jp/article/2026/08/03/414852.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30782837228",
-    "sha": "d2467c68408d9e9f1912b6f0b608d90eb57a96f7",
-    "completed_at": "2026-08-03T03:52:48.809Z",
+    "run_id": "30829819653",
+    "sha": "643912112413e83ab9699378c028acae72227446",
+    "completed_at": "2026-08-03T15:57:48.695Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 25,
-    "queued_articles": 25,
-    "processed": 25,
-    "started_at": "2026-08-03T03:51:55.857Z",
-    "finished_at": "2026-08-03T03:52:48.539Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-08-03T15:56:34.369Z",
+    "finished_at": "2026-08-03T15:57:48.404Z",
     "success": true,
     "error": ""
   }
