@@ -101732,5 +101732,851 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-08-04T03:46:18.404Z"
+  },
+  "https://www.thedrive.com/news/heated-seats-are-the-number-one-feature-new-car-buyers-want": {
+    "title_zh": "加热座椅成新车买家最想要的功能",
+    "summary_short": "调查显示，47%的新车买家最想要加热座椅，而自适应巡航、盲点监测等常见功能排名较低。",
+    "summary_long": "AutoPacific 对 1.9 万名计划购车的驾驶员进行调查，发现加热座椅以 47%的提及率成为最受欢迎的功能，而 2025 年它甚至未进入前 15 名。紧随其后的是前后停车传感器（45%）和后方自动紧急制动。令人意外的是，全轮驱动、自适应巡航和无线充电等常见配置排名靠后，全轮驱动甚至垫底。",
+    "highlights_zh": [
+      "加热座椅居首",
+      "停车传感器和后方 AEB 分列二三",
+      "全轮驱动排名垫底",
+      "远程启动未上榜"
+    ],
+    "entities": [
+      "加热座椅",
+      "停车传感器",
+      "自动紧急制动",
+      "全轮驱动",
+      "AutoPacific"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/14_2025-Acura-MDX-with-Advance-Package.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-9.02.24-AM.jpeg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/01/278_Defender-Dakar-Drive_G4-e1768545710209.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:38:57.518Z"
+  },
+  "https://www.motor1.com/news/803737/new-mercedes-cla-nurburgring-record/": {
+    "title_zh": "梅赛德斯-AMG CLA 45 创纽博格林四门轿车纪录",
+    "summary_short": "全新纯电 AMG CLA 45 以 7 分 32 秒 070 创纽博格林四门轿车最快圈速，搭载三电机，马力 680 匹。",
+    "summary_long": "全新梅赛德斯-AMG CLA 45 在纽博格林北环创下四门轿车最快圈速纪录，用时 7 分 32 秒 070。该车为纯电动车型，采用源自 AMG GT Coupe 的轴向磁通电机技术，搭载三台电机，综合功率 680 马力，零百加速仅需 2.7 秒。车辆以完全原厂状态完成测试，未做任何改装。",
+    "highlights_zh": [
+      "7:32.070 创四门轿车纪录",
+      "纯电驱动",
+      "680 马力",
+      "原厂状态无改装"
+    ],
+    "entities": [
+      "梅赛德斯-AMG | Mercedes-AMG",
+      "CLA 45",
+      "纽博格林",
+      "轴向磁通电机",
+      "纯电"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/nAlnEy/s1/mercedes-amg-cla-45-nurburgring-record.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:38:58.198Z"
+  },
+  "https://www.thedrive.com/news/900-hp-with-a-factory-warranty-mopar-supercharger-packages-are-back-on-the-ram-rumble-bee": {
+    "title_zh": "900 马力带原厂质保：Mopar 机械增压套件重返 Ram Rumble Bee",
+    "summary_short": "Ram Rumble Bee 推出 Mopar 机械增压套件，5.7L 超 600 马力，6.4L 超 700 马力，Hellcat 超 900 马力，且不影响原厂质保。",
+    "summary_long": "Ram 宣布为 2027 款 Rumble Bee 提供 Mopar Direct Connection 机械增压套件，涵盖 5.7L、6.4L 和 6.2L Hellcat 三种动力。其中 5.7L 版本可输出超 600 马力，6.4L 版本超 700 马力，而 Hellcat 版本则超过 900 马力。所有套件若由 Mopar 认证技师安装，均不影响原厂五年/6 万英里动力总成质保。",
+    "highlights_zh": [
+      "5.7L 版本超 600 马力",
+      "6.4L 版本超 700 马力",
+      "Hellcat 版本超 900 马力",
+      "不影响原厂质保"
+    ],
+    "entities": [
+      "Ram",
+      "Rumble Bee",
+      "Mopar",
+      "Hellcat",
+      "机械增压"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/rumble.jpg",
+      "https://i.ytimg.com/vi/Vmdz-noUCA8/hqdefault.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:00.672Z"
+  },
+  "https://www.thedrive.com/car-reviews/2027-chevrolet-bolt-new-vs-old-review": {
+    "title_zh": "雪佛兰 Bolt 新旧对比评测：一大步前进，许多小步后退",
+    "summary_short": "2027 款雪佛兰 Bolt 回归，虽有大改进，但多项调整令人困惑，相比旧款并非明显胜者。",
+    "summary_long": "2027 款雪佛兰 Bolt 作为限量回归车型，基于 Bolt EUV 大幅改进，但相比 2023 款，在关键方面有提升，同时也有不少令人费解的妥协。评测者通过对比驾驶 2023 款和 2027 款，发现新款虽在某些方面占优，但整体并非绝对升级之选，甚至认为老车主无需急于换新。",
+    "highlights_zh": [
+      "新款 Bolt 仅生产一年",
+      "基于 Bolt EUV 改进",
+      "多项调整令人困惑",
+      "老车主无需急于换新"
+    ],
+    "entities": [
+      "雪佛兰",
+      "Bolt",
+      "Bolt EUV",
+      "通用汽车"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/07/2-photo-divider.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/R0003765.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/07/R0003759.jpg?strip=all&amp%3Bw=2048"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:02.467Z"
+  },
+  "https://www.motor1.com/news/803722/costco-infiniti-discount/": {
+    "title_zh": "好市多提供英菲尼迪 SUV 大幅折扣",
+    "summary_short": "好市多会员购买英菲尼迪 SUV 可享最高 1250 美元折扣，涵盖 QX60、QX65 和 QX80。",
+    "summary_long": "好市多汽车计划为会员提供英菲尼迪 SUV 的专属优惠，最高可减 1250 美元。适用车型包括 2026/2027 款 QX60、2027 款 QX65 和 2027 款 QX80。优惠可与英菲尼迪其他激励措施叠加，活动时间为 2026 年 8 月 1 日至 9 月 30 日。折扣金额根据会员等级而定，行政会员可享最高优惠。消费者需先通过好市多汽车计划注册，获得促销代码后到经销商处使用。",
+    "highlights_zh": [
+      "最高优惠 1250 美元",
+      "涵盖 QX60、QX65、QX80",
+      "可与厂家激励叠加",
+      "需注册好市多汽车计划"
+    ],
+    "entities": [
+      "好市多 | Costco",
+      "英菲尼迪 | Infiniti",
+      "QX60",
+      "QX65",
+      "QX80"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/YAzGwe/s1/2027-infiniti-qx65-front.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:03.524Z"
+  },
+  "https://www.thedrive.com/news/honda-just-had-its-best-july-since-before-the-pandemic-tds": {
+    "title_zh": "本田 7 月销量创疫情前以来最佳",
+    "summary_short": "本田 7 月销量创七年来最佳，混合动力、轿车及 CR-V 表现强劲，总销量达 124,553 辆。",
+    "summary_long": "本田 7 月销量创下七年来最佳纪录，总销量达 124,553 辆，同比增长 12.8%。其中，轿车销量大幅增长 35.7%，混合动力车型和 CR-V 表现尤为突出。这是自 2019 年以来本田在 7 月份取得的最好成绩。",
+    "highlights_zh": [
+      "本田 7 月销量同比增长 12.8%",
+      "轿车销量大涨 35.7%",
+      "CR-V 和混动车型表现强劲",
+      "创 2019 年以来最佳 7 月纪录"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "CR-V",
+      "讴歌",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/GettyImages-2235737452.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2025/06/Ram-HD-Warranty-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:04.895Z"
+  },
+  "https://insideevs.com/news/803714/evgo-expansion-us-shopping-centers/": {
+    "title_zh": "EVgo 将在美国购物中心新增 500 多个快速充电桩",
+    "summary_short": "EVgo 与 Brixmor 合作，在 90 多个购物中心新增 500 多个 350kW 快充桩，覆盖 6 州，方便无家充车主。",
+    "summary_long": "美国主要充电运营商 EVgo 宣布扩大与商业地产开发商 Brixmor Property Group 的合作，在其旗下至少 90 个购物中心（占其物业组合的 25%以上）安装超过 500 个直流快速充电桩。这些充电桩功率高达 350kW，每个站点最多可配置 12 个充电桩，每个充电桩可同时为两辆车充电。首批部署将于今年晚些时候开始，首个站点位于费城郊区的 Barn Plaza。新站点覆盖佛罗里达、伊利诺伊、明尼苏达、新泽西、宾夕法尼亚和得克萨斯等州。Brixmor 的物业每年吸引超过 9 亿人次消费者，此举旨在为没有家用充电桩的电动车车主提供更便捷的充电选择，同时利用高客流提升充电桩利用率。",
+    "highlights_zh": [
+      "新增 500 多个 350kW 快充桩",
+      "覆盖 90 多个购物中心",
+      "首批站点今年启动",
+      "每个充电桩可同时充两辆车"
+    ],
+    "entities": [
+      "EVgo",
+      "Brixmor Property Group",
+      "直流快充",
+      "购物中心",
+      "350kW"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxJZn7/s1/evgo-charging-station-at-a-shopping-center.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:07.122Z"
+  },
+  "https://response.jp/article/2026/08/04/414912.html": {
+    "title_zh": "BLITZ 电视导航跳跃器适配本田 N-BOX，实现乘客电视观看与导航操作",
+    "summary_short": "BLITZ 推出电视导航跳跃器，适配本田 N-BOX，实现乘客电视观看与导航操作，无需改装线路。",
+    "summary_long": "BLITZ（ブリッツ）的“TV-NAVI JUMPER”（电视导航跳跃器）新增适配本田 N-BOX（JF5, JF6 2026 年 7 月以后）搭载的 5 款经销商选装导航，包括 9 英寸 Honda CONNECT 导航［LXU-272NBi］以及 2026 年款的 11.4 英寸［LXM-264ZFLi］、9 英寸［LXM-262ZFNi］、8 英寸［LXM-264ZFEi］［VXM-264ZFEi］。该装置使车辆行驶中同乘者能观看电视，也能操作导航设置目的地，且无需切断或加工车辆配线，完全通过连接器安装。产品分为“无开关”和“电视切换”两种类型，其中电视切换型附带超小型开关（H13mm × W15mm × T5mm），可隐藏安装，并附有 BLITZ 标志的专用开关适配器和适用于本田车的服务面板“HONDA TYPE-1”，提供三种安装方式供选择。",
+    "highlights_zh": [
+      "适配 N-BOX 五款导航",
+      "行驶中可看电视和操作导航",
+      "无需改装线路",
+      "两种类型可选"
+    ],
+    "entities": [
+      "BLITZ",
+      "本田 | Honda",
+      "N-BOX",
+      "Honda CONNECT 导航"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232595.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232595.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:10.623Z"
+  },
+  "https://response.jp/article/2026/08/04/414916.html": {
+    "title_zh": "丰田全新超跑 GR GT 欧洲亮相，日本车迷热切期待",
+    "summary_short": "丰田 GR GT 超跑及 GR GT3 赛车亮相古德伍德速度节，650 马力混动系统引关注。",
+    "summary_long": "丰田 GAZOO Racing 开发的超级跑车 GR GT 与赛车 GR GT3 在 2026 年古德伍德速度节上展出，引发广泛关注。GR GT 是一款基于赛车技术打造的公路跑车，搭载 4.0 升 V8 双涡轮增压发动机与单电机混动系统，系统综合功率超 650 马力，峰值扭矩超 850 牛·米。车辆采用后置变速箱，并优化电池和油箱布局，实现 45:55 的前后重量分配，提升操控性。GR GT3 则作为赛道专用赛车，与 GR GT 共享基础架构，但更注重竞技性能与易驾性。日本车迷在社交媒体上表达了对这款车的浓厚兴趣。",
+    "highlights_zh": [
+      "丰田 GR GT 与 GR GT3 亮相古德伍德速度…",
+      "搭载 4.0L V8 混动",
+      "前后重量分配 45:55",
+      "日本车迷热切期待"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR GT",
+      "GR GT3",
+      "古德伍德速度节",
+      "混合动力"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232833.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232833.jpg",
+      "https://response.jp/imgs/fill2/2232836.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:11.327Z"
+  },
+  "https://response.jp/article/2026/08/04/414899.html": {
+    "title_zh": "河西工业推出 Fairlady Z 内饰材料升级再造官方授权商品",
+    "summary_short": "河西工业旗下升级再造品牌 doacara 推出首款官方授权商品，利用日产 Fairlady Z 内饰材料制成日常用品。",
+    "summary_long": "河西工业的升级再造品牌 doacara 首次推出官方授权商品“Fairlady Z 系列”，该系列利用日产 Fairlady Z 的内饰材料制成。doacara 品牌致力于将汽车内饰部件生产过程中产生的边角料赋予新价值，转化为日常使用的产品，具有汽车部件特有的高品质感和功能性。此次是 doacara 首次获得官方授权，以 Fairlady Z 命名商品，旨在通过升级再造的新形式，将这款深受车迷喜爱的跑车内饰魅力融入用户日常生活，让用户更贴近地感受材料与商品的价值。该业务是河西工业中期经营计划“Kasai Turnaround Aspiration”中的新业务之一，旨在实现循环型社会并创造新的商业机会。",
+    "highlights_zh": [
+      "doacara 首款官方授权商品",
+      "利用 Fairlady Z 内饰材料",
+      "升级再造为日常用品",
+      "助力循环型社会"
+    ],
+    "entities": [
+      "河西工业",
+      "doacara",
+      "日产 | Nissan",
+      "Fairlady Z",
+      "升级再造"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232748.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232748.jpg",
+      "https://response.jp/imgs/fill2/2232745.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:13.894Z"
+  },
+  "https://response.jp/article/2026/08/04/414887.html": {
+    "title_zh": "德国汽车产业能否靠政府支持复苏？",
+    "summary_short": "德国汽车业深陷危机，政府重启补贴，但能否扭转颓势？",
+    "summary_long": "德国汽车工业仍处于严重危机中，2026 年 5 月产量和出口量同比分别下降 18%和 19%。汽车工业协会预测，到 2035 年该行业就业人数将比 2019 年减少 23.5 万人。然而，纯电动汽车销量逐步上升，2025 年新注册量同比增长 43%，2026 年前四个月同比增长 41%。默茨政府推出多项支持措施，包括重启 BEV 购车补贴，计划在 2026 年起三年内投入约 30 亿欧元，支持约 80 万辆低排放汽车。这些措施能否恢复行业增长，仍有待观察。",
+    "highlights_zh": [
+      "德国 5 月汽车产量同比降 18%",
+      "VDA 预测 2035 年就业减少 23.5 万人",
+      "2025 年 BEV 注册量增 43%",
+      "政府重启 30 亿欧元购车补贴"
+    ],
+    "entities": [
+      "德国汽车工业协会",
+      "纯电动汽车",
+      "默茨政府",
+      "购车补贴"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232633.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232633.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:14.459Z"
+  },
+  "https://response.jp/article/2026/08/04/414913.html": {
+    "title_zh": "保时捷 Macan Electric GTS 试驾：纯电也能有 GTS 的味道吗？",
+    "summary_short": "保时捷 Macan Electric GTS 雨中试驾，验证纯电 SUV 能否传承 GTS 运动精髓。",
+    "summary_long": "保时捷为纯电 Macan Electric 新增 GTS 版本，定位介于 4S 与 Turbo 之间。外观采用黑色运动套件，内饰配备 Race-Tex 材质与红色缝线，并提供 GTS 内饰包。试驾在雨天进行，车辆启动无需按键，转向手感沉稳，车内静谧，空气悬架调校舒适，过接缝干脆利落。",
+    "highlights_zh": [
+      "GTS 定位介于 4S 与 Turbo 之间",
+      "外观黑色套件",
+      "雨天试驾",
+      "空气悬架舒适"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "Macan Electric",
+      "GTS",
+      "Race-Tex"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232232.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232231.jpg",
+      "https://response.jp/imgs/fill2/2232231.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:17.597Z"
+  },
+  "https://bestcarweb.jp/feature/column/1597935": {
+    "title_zh": "讲谈社 BECK 招募《Hot-Dog PRESS》电子版与《TRY 拉面大奖》编辑及营业成员",
+    "summary_short": "讲谈社 BECK 招募《Hot-Dog PRESS》电子版与《TRY 拉面大奖》的编辑及营业委托成员，月薪 35 万至 60 万日元。",
+    "summary_long": "讲谈社 BECK 正在为《Hot-Dog PRESS》电子版和《TRY 拉面大奖》招募业务委托成员，负责编辑或营业工作。欢迎有杂志或网络媒体编辑经验、广告营业或合作企划经验，以及对拉面或成人生活方式感兴趣的人士。《Hot-Dog PRESS》电子版面向成年男性，涵盖时尚、汽车、数码、兴趣、恋爱、金钱等主题；《TRY 拉面大奖》是拉面行业权威指南，除首都圈版外，还拓展全国版。编辑职位负责企划、采访、撰稿、编辑、校对及日程管理；营业职位则涉及广告和合作企划。",
+    "highlights_zh": [
+      "月薪 35 万至 60 万日元",
+      "招募编辑和营业成员",
+      "涉及《Hot-Dog PRESS》电子版",
+      "《TRY 拉面大奖》全国版拓展"
+    ],
+    "entities": [
+      "讲谈社 BECK",
+      "Hot-Dog PRESS",
+      "TRY 拉面大奖",
+      "电子版",
+      "营业"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04160900/Hot-Dog-PRESS.jpg?v=1785827341",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04160900/Hot-Dog-PRESS-600x338.jpg?v=1785827341",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04225005/HO12egGaQAAlXqA-600x380.jpg?v=1785851407"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:19.432Z"
+  },
+  "https://response.jp/article/2026/08/04/414898.html": {
+    "title_zh": "dotD 加入数据社会推进协议会，强化汽车数据合作",
+    "summary_short": "dotD 成为 DSA 正会员，旨在强化汽车领域数据合作，推动数据流通与利用。",
+    "summary_long": "株式会社 dotD 宣布加入一般社团法人数据社会推进协议会（DSA）成为正会员。DSA 旨在通过产官学合作，推动跨领域公正自由的数据流通与利用，并与 IDSA、FIWARE、Gaia-X 等国际组织合作，参与国际数据流通标准制定。此次加入将有助于 dotD 在汽车领域的数据合作。",
+    "highlights_zh": [
+      "dotD 加入 DSA 正会员",
+      "强化汽车数据合作",
+      "参与国际标准制定",
+      "推动数据流通利用"
+    ],
+    "entities": [
+      "dotD",
+      "数据社会推进协议会",
+      "汽车",
+      "数据合作"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232735.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232735.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:20.179Z"
+  },
+  "https://response.jp/article/2026/08/04/414908.html": {
+    "title_zh": "研华发布 GPU 边缘 AI HMI TPC-B620，确保制造现场数据主权",
+    "summary_short": "研华推出 GPU 边缘 AI HMI TPC-B620，实现本地处理，确保数据主权，降低延迟与带宽成本。",
+    "summary_long": "研华（Advantech）发布新款 GPU 边缘 AI 人机界面 TPC-B620，扩展其模块化 HMI 系列。随着智能制造加速，将数据处理从云端迁移至制造现场成为战略必需。TPC-B620 通过边缘本地处理，使企业能够将独有的制造专有技术和机密数据保留在内部，确保最大程度的数据主权。此外，超低延迟处理支持现场即时决策，同时消除将大量原始数据传输至云端的需要，大幅降低通信带宽成本。",
+    "highlights_zh": [
+      "研华发布 GPU 边缘 AI HMI TPC-B62…",
+      "本地处理确保数据主权",
+      "超低延迟支持即时决策",
+      "降低带宽成本"
+    ],
+    "entities": [
+      "研华",
+      "TPC-B620",
+      "边缘 AI",
+      "HMI",
+      "数据主权"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232787.webp",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232787.webp"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:22.119Z"
+  },
+  "https://www.motor1.com/news/803574/tesla-tires-inside-out/": {
+    "title_zh": "特斯拉车主新轮胎装反，网友调侃：倒着开就行",
+    "summary_short": "特斯拉车主发现新轮胎被装反，侧壁“inside”字样朝外，网友调侃只能倒着开或室内驾驶。",
+    "summary_long": "一位特斯拉车主在更换新轮胎后，发现轮胎被安装反了，侧壁上的“inside”字样清晰可见。这一错误被车主拍成视频上传至 TikTok，引发网友热议。评论区充满幽默调侃，有人建议车主只能倒着开车，或只适合在室内行驶。尽管轮胎装反可能影响性能，但车主尚未确认是否已返修。",
+    "highlights_zh": [
+      "特斯拉车主发现新轮胎装反",
+      "侧壁“inside”字样清晰可见",
+      "网友调侃：只能倒着开或室内驾驶",
+      "轮胎装反或影响性能"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "轮胎安装",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3yN6m/s1/tesla-driver-gets-new-tires-installed.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:24.084Z"
+  },
+  "https://response.jp/article/2026/08/04/414891.html": {
+    "title_zh": "奥迪全新紧凑型电动车 A2 e-tron 原型车照片公布，空气动力学优化提升能效",
+    "summary_short": "奥迪发布 A2 e-tron 原型车照片，WLTP 能耗 12.8kWh/100km，Cd 值 0.24，空气动力学优化显著降低能耗。",
+    "summary_long": "奥迪于 8 月 4 日发布了全新紧凑型电动车 A2 e-tron 的原型车照片。该车 140kW 版本在 WLTP 测试中的初步能耗为 12.8kWh/100km，这一数据是在配备“效率套件”的情况下实现的。奥迪表示，高效率源于驱动技术、空气动力学和针对日常使用优化的电池组合。 在空气动力学方面，A2 e-tron 的风阻系数（Cd）为 0.24，通过空气帘、间隙减小器、间隙通风器和主动式冷空气进气口等措施，可将 WLTP 能耗降低最多 0.9kWh/100km。当车速超过 100km/h 时，空气阻力占车辆总能量需求的 50%以上，因此降低风阻对能耗和续航有直接影响。主动式冷空气进气口在正常行驶和高速时关闭以减少阻力，在充电、急加速或夏季高温时打开以保护电池和电子设备。",
+    "highlights_zh": [
+      "WLTP 能耗 12.8kWh/100km",
+      "风阻系数 Cd 0.24",
+      "空气动力学优化降低能耗 0.9kWh/100km",
+      "支持 V2L/V2H 功能"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A2 e-tron",
+      "WLTP",
+      "空气动力学",
+      "LFP 电池"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232647.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232647.jpg",
+      "https://response.jp/imgs/fill2/2232648.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:25.628Z"
+  },
+  "https://bestcarweb.jp/feature/column/1592242": {
+    "title_zh": "改变你汽车观的 4 款中置引擎跑车",
+    "summary_short": "盘点 4 款值得体验的日系中置跑车，从 MR2 到 NSX，感受独特操控魅力。",
+    "summary_long": "中置引擎跑车在国产车中已绝迹，但其操控性和人车合一感是前置引擎无法比拟的。本文回顾了 4 款具有代表性的日系中置跑车，包括 1984 年诞生的丰田 MR2，它是日本首款中置引擎小型乘用车，兼顾了操控与实用性。",
+    "highlights_zh": [
+      "中置引擎操控独特",
+      "MR2 开创先河",
+      "兼顾实用与性能",
+      "日系经典跑车回顾"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "MR2",
+      "中置引擎",
+      "跑车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/29151129/4150330-s660_004H.jpg?v=1785305490",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/29151129/4150330-s660_004H-600x400.jpg?v=1785305490",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04225005/HO12egGaQAAlXqA-600x380.jpg?v=1785851407"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:27.668Z"
+  },
+  "https://response.jp/article/2026/08/04/414903.html": {
+    "title_zh": "捷太格特向熊本地震灾区捐款 500 万日元",
+    "summary_short": "捷太格特为熊本地震遇难者致哀，通过日本平台捐款 500 万日元支援灾区重建。",
+    "summary_long": "捷太格特对令和 8 年熊本地震中的遇难者表示哀悼，并祝愿灾区早日恢复。为支援灾区，捷太格特集团通过特定非营利活动法人日本平台捐款 500 万日元。",
+    "highlights_zh": [
+      "捷太格特捐款 500 万日元",
+      "支援熊本地震灾区",
+      "通过日本平台捐赠",
+      "哀悼遇难者并祝愿重建"
+    ],
+    "entities": [
+      "捷太格特",
+      "熊本地震",
+      "日本平台"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232760.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232760.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:28.916Z"
+  },
+  "https://response.jp/article/2026/08/04/414911.html": {
+    "title_zh": "川崎 Z H2 SE 2027 款发布，售价 247.5 万日元",
+    "summary_short": "川崎发布 2027 款 Z H2 SE，搭载机械增压引擎，售价 247.5 万日元，配备电子悬挂和 Brembo 刹车。",
+    "summary_long": "川崎摩托车日本公司宣布，将于 9 月 5 日发售搭载机械增压器的超级运动车型 Z H2 SE 的 2027 年款，建议零售价为 247.5 万日元。该车继承了 Z H2 的高动力性能与操控性，并配备 KECS 电子控制悬挂，前后悬挂采用 Skyhook 技术，提升了乘坐舒适性与驾驶乐趣。动力方面，搭载 998cc 水冷并列四缸发动机，配合川崎机械增压器，最大功率 200ps/11000rpm，最大扭矩 137Nm/8500rpm。前刹车采用 Brembo Stylema 单体卡钳和主缸，增强了制动力与操控性。颜色为金属哑光石墨钢灰×金属哑光碳灰，与现款相同。",
+    "highlights_zh": [
+      "2027 款 Z H2 SE 9 月 5 日发售",
+      "售价 247.5 万日元",
+      "机械增压引擎 200ps",
+      "配备 KECS 电子悬挂和 Brembo 刹车"
+    ],
+    "entities": [
+      "川崎 | Kawasaki",
+      "Z H2 SE",
+      "机械增压器",
+      "KECS",
+      "Brembo"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232703.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232703.jpg",
+      "https://response.jp/imgs/fill2/2232699.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:32.174Z"
+  },
+  "https://bestcarweb.jp/feature/column/1598326": {
+    "title_zh": "スシロー×GAZOO Racing 限定ミニカー全 4 種，8 月 30 日截止",
+    "summary_short": "スシロー与 GAZOO Racing 合作推出限定 GRミニカー，8 月 5 日起发售，共 18 万台，8 月 30 日截止。",
+    "summary_long": "スシロー与 GAZOO Racing 首次合作，自 2026 年 8 月 5 日起在全国スシロー发售附带限定ミニカーの商品。ミニカー共有 4 种车型，分别以寿司食材为设计灵感，如 GRスープラ的鲭鱼色、GRヤリスの鲑鱼子色等。这些ミニカー并非简单换色，而是由丰田和スシローの设计师共同开发，甚至还原了实车的性能差异。商品包括“つくローセット”和“天然本鮪 7 貫盛り”，总计 18 万台，随机附赠，售完即止。",
+    "highlights_zh": [
+      "スシロー×GAZOO Racing 首次合作",
+      "限定ミニカー全 4 种",
+      "ミニカー设计融入寿司元素",
+      "共 18 万台"
+    ],
+    "entities": [
+      "スシロー",
+      "GAZOO Racing",
+      "GRスープラ",
+      "GRヤリス",
+      "GR86"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04225005/HO12egGaQAAlXqA.jpg?v=1785851407",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04225005/HO12egGaQAAlXqA-600x380.jpg?v=1785851407",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27100655/20211101_03_02_s-600x401.jpg?v=1785114416"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:32.927Z"
+  },
+  "https://bestcarweb.jp/feature/column/1597190": {
+    "title_zh": "高速上长期占用超车道违法吗？闪灯和右转向灯是否合适？",
+    "summary_short": "高速上长期低速占用超车道属违法，易引发路怒。本文探讨闪灯、右转向灯等应对方式及司机心理。",
+    "summary_long": "在高速公路上，一些司机长期低速占用超车道，这违反了道路交通法中的通行带区分规定，并可能诱发路怒驾驶。文章结合社交媒体上的声音和专家意见，讨论了其他司机通过闪灯或打右转向灯提示前车让行的做法是否恰当。此外，文章还提到大型卡车在超车道行驶的情况，指出其法定限速较低，但有时会长时间占用超车道，影响通行效率。静冈县警方已实施交通管制，要求大型卡车尽量靠左行驶，但现实中仍存在违规现象。",
+    "highlights_zh": [
+      "长期低速占用超车道属违法",
+      "闪灯和右转向灯提示是否合适",
+      "大型卡车超车道行驶引争议",
+      "警方实施交通管制但效果有限"
+    ],
+    "entities": [
+      "新东名高速",
+      "东名高速",
+      "静冈县警",
+      "道路交通法"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04055701/35f924d3b1f86d8868f2635a5688023b.jpg?v=1785790622",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04225005/HO12egGaQAAlXqA-600x380.jpg?v=1785851407",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27100655/20211101_03_02_s-600x401.jpg?v=1785114416"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:36.712Z"
+  },
+  "https://bestcarweb.jp/feature/column/1572118": {
+    "title_zh": "NV200 巴奈特房车：小巧实用，日常与露营两相宜",
+    "summary_short": "日产 NV200 巴奈特房车，紧凑车身兼顾日常通勤与周末露营，实用之选。",
+    "summary_long": "日产 NV200 巴奈特房车以紧凑车身提供灵活的城市驾驶体验，同时配备与大型房车相同的 2 合 1 座椅，实现舒适的睡眠空间。2025 年 12 月改款提升舒适性，价格约 484 万日元起，可容纳 5 人，最大载重 400 公斤。这款车定位为日常可用的“移动房间”，适合追求实用性的用户。",
+    "highlights_zh": [
+      "紧凑车身",
+      "配备 2 合 1 座椅",
+      "5 人座",
+      "日常通勤与周末露营两用"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "NV200 巴奈特 | NV200 Vanette",
+      "房车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24111543/241001-00-j_08_NV200_MYROOM_1.jpg?v=1784859344",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24111543/241001-00-j_08_NV200_MYROOM_1-600x400.jpg?v=1784859344",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04225005/HO12egGaQAAlXqA-600x380.jpg?v=1785851407"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:37.025Z"
+  },
+  "https://response.jp/article/2026/08/04/414910.html": {
+    "title_zh": "台达车载无线充电模块获 ASPICE CL2 认证，支持 Qi2.2，最大 25W 输出",
+    "summary_short": "台达车载无线充电模块获 ASPICE CL2 认证，支持 Qi2.2，最大 25W 输出，满足全球车企严苛要求。",
+    "summary_long": "台达集团宣布其车载无线充电模块的研发流程已通过第三方认证机构 TUV NORD Taiwan 的 ASPICE CL2 评估。ASPICE 是评估汽车电子及系统软件研发流程的国际标准，CL2 表明企业已建立可量化、受控且能持续改进的研发流程。此次认证彰显了台达在车载无线充电产品研发上具备满足全球汽车制造商严苛要求的质量管控体系与技术实力。",
+    "highlights_zh": [
+      "台达车载无线充电模块获 ASPICE CL2 认证",
+      "支持 Qi2.2 标准",
+      "认证机构为 TUV NORD Taiwan",
+      "满足全球车企严苛质量要求"
+    ],
+    "entities": [
+      "台达",
+      "ASPICE",
+      "Qi2.2",
+      "车载无线充电"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232795.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232795.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:40.812Z"
+  },
+  "https://bestcarweb.jp/news/1588934": {
+    "title_zh": "摩托车也要亮起来！瓦伦蒂 LED 大灯灯泡带来 1 万流明，改变夜路！",
+    "summary_short": "瓦伦蒂摩托推出新款 LED 大灯灯泡，最大亮度达 1 万流明，提升夜间骑行安全，适配多种车型。",
+    "summary_long": "夜间骑行时，大灯性能直接影响安全。瓦伦蒂摩托推出的“Jewel LED 大灯灯泡 ZZ 系列”采用新开发 LED 芯片，实现最大 10000 流明的亮度，其中 H9/H11 型达到 10000 流明，H4 型远光 8000 流明、近光 6500 流明。除了高亮度，该系列还注重配光性能，确保照亮必要区域，同时避免眩目对向车辆。紧凑设计扩大了适用车型范围，方便安装，为摩托车用户提供更安全、舒适的夜间驾驶体验。",
+    "highlights_zh": [
+      "最大亮度 10000 流明",
+      "H4 型远光 8000 流明",
+      "紧凑设计适配更多车型",
+      "注重配光"
+    ],
+    "entities": [
+      "瓦伦蒂摩托",
+      "Jewel LED 大灯灯泡 ZZ 系列"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26113742/1d5832f365e1797461dd89e98840e348.jpg?v=1785033464",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26113742/1d5832f365e1797461dd89e98840e348-600x600.jpg?v=1785033464",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26113758/2e2d02c22eafa1d1e9a517c324561174-600x400.jpg?v=1785033479"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:41.662Z"
+  },
+  "https://bestcarweb.jp/news/1597738": {
+    "title_zh": "帕杰罗史上首次搭载 S-AWC，梯形车架曝光",
+    "summary_short": "三菱全新帕杰罗预告，首次搭载 S-AWC 系统，梯形车架确保越野性能，今秋首发。",
+    "summary_long": "三菱汽车全新帕杰罗将于今秋全球首发，官方在 2026 年 8 月 4 日发布了最新预告，展示了其坚固的梯形车架和进化后的 S-AWC 系统。新车采用梯形车架结构，配合高通过性悬挂，确保在恶劣路况下拥有卓越的越野性能。同时，S-AWC 系统将精确控制四轮驱动力，提升操控稳定性。此外，新车也注重公路行驶品质，通过抑制车身晃动和振动，为乘客提供舒适的长途驾乘体验。",
+    "highlights_zh": [
+      "帕杰罗史上首次搭载 S-AWC",
+      "梯形车架确保越野性能",
+      "今秋全球首发",
+      "兼顾公路舒适性"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗",
+      "S-AWC",
+      "梯形车架"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04155223/20260804_1_01.jpg?v=1785826344",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04155223/20260804_1_01-600x338.jpg?v=1785826344",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26113742/1d5832f365e1797461dd89e98840e348-600x600.jpg?v=1785033464"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:44.781Z"
+  },
+  "https://bestcarweb.jp/feature/column/1588649": {
+    "title_zh": "车身紧凑却做工精良！细看之下发现 RAIZE 受欢迎的原因",
+    "summary_short": "丰田 RAIZE 虽为紧凑型 SUV，却拥有强劲外观与实用内饰，细节做工出色，备受青睐。",
+    "summary_long": "丰田 RAIZE 是一款 5 号车牌的紧凑型 SUV，却拥有超越车身尺寸的强劲外观设计，尤其是前格栅和贯穿式尾灯增强了存在感。内饰方面，中控台质感、座椅布局和后备箱空间都经过精心设计，兼顾日常实用性。不同配置等级在外观细节上有所差异，如轮毂尺寸、雾灯等，但整体差异不大，适合不同需求的用户。",
+    "highlights_zh": [
+      "紧凑车身却有强劲 SUV 外观",
+      "内饰质感与座椅布局出色",
+      "后备箱空间实用宽敞",
+      "配置差异不大"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "RAIZE"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27100655/20211101_03_02_s.jpg?v=1785114416",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27100655/20211101_03_02_s-600x401.jpg?v=1785114416",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04225005/HO12egGaQAAlXqA-600x380.jpg?v=1785851407"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:45.562Z"
+  },
+  "https://bestcarweb.jp/feature/tieup/1585119": {
+    "title_zh": "网络拍卖的陷阱：廉价轮毂的危险与安全改装件选择指南",
+    "summary_short": "网络拍卖中廉价轮毂可能是伪造品，存在安全隐患。了解如何辨别真伪，确保改装安全。",
+    "summary_long": "网络拍卖中常出现价格极低的品牌轮毂，但这些可能是未经安全认证的伪造品。即使带有 JWL 或 VIA 等安全标志，也可能是伪造的。这些伪劣轮毂在行驶中可能断裂，导致严重事故。选择改装件时，应通过正规渠道购买，并检查认证标志的真实性，同时注意细节做工。",
+    "highlights_zh": [
+      "廉价轮毂可能是伪造品",
+      "JWL 标志可能被伪造",
+      "伪劣轮毂有安全隐患",
+      "选择正规渠道购买改装件"
+    ],
+    "entities": [
+      "JWL",
+      "VIA",
+      "轮毂",
+      "网络拍卖"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/03155045/s-0M0A3635-600x400-1.jpg?v=1785739846",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/27185303/s-S-CRAFT_BRZ_SGK_9-600x400.jpg?v=1785145985",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09175352/s-ADVAN-v61-E_019_1-600x400.jpg?v=1783587234"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:47.463Z"
+  },
+  "https://insideevs.com/news/803697/tesla-elon-image-europe-survey/": {
+    "title_zh": "调查：马斯克对特斯拉的伤害超过中国关系对比亚迪的影响",
+    "summary_short": "欧洲调查显示，马斯克的政治活动对特斯拉品牌形象的负面影响，超过中国关系对比亚迪的影响。",
+    "summary_long": "一项针对欧盟 27 国 1861 名消费者的调查显示，39%的受访者认为马斯克对特斯拉的看法产生负面影响，仅 13%认为有正面影响。当提及马斯克对特朗普的捐赠时，其净好感度从-31 降至-47，特斯拉品牌好感度降至-42，购买意愿降至-40，成为调查中对特斯拉最不利的因素。相比之下，比亚迪与中国政府的关系虽被负面看待，但影响较小，仅 25%的受访者因此对比亚迪好感降低。",
+    "highlights_zh": [
+      "39%受访者认为马斯克负面影响特斯拉",
+      "提及特朗普捐赠后",
+      "特斯拉品牌好感度降至-42",
+      "比亚迪受中国关系影响较小"
+    ],
+    "entities": [
+      "特斯拉 | Tesla",
+      "比亚迪 | BYD",
+      "马斯克 | Elon Musk",
+      "欧洲",
+      "品牌形象"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/XBzWgk/s1/2015-tesla-model-s-p85d.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:49.033Z"
+  },
+  "https://www.motor1.com/features/803636/how-to-start-car-dead-key-fob-battery/": {
+    "title_zh": "钥匙电池没电了怎么办？",
+    "summary_short": "钥匙电池没电不必慌张，多数现代汽车内置备用系统，可无电池启动引擎。",
+    "summary_long": "钥匙电池耗尽常引发焦虑，但多数现代汽车配备隐藏备用系统，即使钥匙电池完全没电，仍可通过特定方式启动引擎。通常，无钥匙启动车辆依赖钥匙内的无线电发射器与车辆通信，但制造商已预见到电池失效情况，提供了不依赖电池的备用方案。常见方法包括将钥匙紧贴启动按钮，或将其放置在指定区域（如中央扶手箱、杯架或仪表板下方的专用槽），车辆即可读取钥匙内的被动芯片并授权启动。",
+    "highlights_zh": [
+      "钥匙电池没电不必慌张",
+      "多数现代汽车有备用启动系统",
+      "可将钥匙贴启动按钮或放指定位置",
+      "车辆读取芯片授权启动"
+    ],
+    "entities": [
+      "钥匙电池",
+      "备用启动系统",
+      "无钥匙启动",
+      "被动芯片"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8EwK/s1/what-happens-if-my-key-fob-dies.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:50.666Z"
+  },
+  "https://www.motor1.com/news/803680/2027-mitsubishi-pajero-ladder-frame/": {
+    "title_zh": "三菱全新帕杰罗将基于 Triton 皮卡底盘打造",
+    "summary_short": "全新三菱帕杰罗将于今秋首发，采用 Triton 皮卡的梯形框架和四驱系统，预计 2030 年登陆北美。",
+    "summary_long": "三菱计划复兴帕杰罗品牌，首款车型将于今年秋季亮相，预计 9 月 2 日首发。新车将基于 Triton 皮卡的梯形框架打造，并配备 Super-All Wheel Control 四驱系统，支持多种驾驶模式。该车在部分市场称为 Montero，预计 2030 年进入北美市场。",
+    "highlights_zh": [
+      "全新帕杰罗今秋首发",
+      "基于 Triton 皮卡底盘",
+      "搭载 S-AWC 四驱系统",
+      "2030 年登陆北美"
+    ],
+    "entities": [
+      "三菱 | Mitsubishi",
+      "帕杰罗 | Pajero",
+      "Montero",
+      "Triton",
+      "四驱系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3v22/s1/2027-mitsubishi-pajero-teaser.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:51.678Z"
+  },
+  "https://www.motor1.com/news/803457/nissan-breaks-down-test-drive/": {
+    "title_zh": "日产销售带客户试驾，车辆中途抛锚",
+    "summary_short": "日产销售带客户试驾，车辆在路口抛锚，客户拍下视频吐槽，网友分享类似经历。",
+    "summary_long": "一位日产销售在带客户试驾时，车辆在繁忙路口突然熄火，销售不得不下车打开引擎盖检查。这一幕被后方车主拍下并上传网络，引发热议。评论区多位网友表示自己也遇到过类似情况，其中一人称试驾全新日产 Altima 时，发动机和变速箱出现严重故障。",
+    "highlights_zh": [
+      "试驾车在路口抛锚",
+      "销售下车开引擎盖",
+      "网友吐槽卖不出车",
+      "多人分享类似经历"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Altima"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2ljnb/s1/nissan-salesman-takes-customer-on-a-test-drive..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:53.386Z"
+  },
+  "https://insideevs.com/news/803684/byd-denza-z9s-longest-range-ev-china/": {
+    "title_zh": "比亚迪宣称新电动车续航达 683 英里，5 分钟可增加数百英里",
+    "summary_short": "比亚迪旗下腾势 Z9S 宣称续航达 1100 公里，为全球最长，且充电 5 分钟可增加数百公里续航。",
+    "summary_long": "比亚迪宣称其新款电动车腾势 Z9S 拥有全球最长续航，最大续航里程达 1100 公里（683 英里），起售价约 4.71 万美元。该车搭载 102.3 千瓦时磷酸铁锂电池，支持超快充，5 分钟可从 10%充至 70%，9 分钟可充至 97%。腾势 Z9S 提供三种续航版本，分别为 780 公里、920 公里和 1100 公里，均基于较为宽松的 CLTC 标准。",
+    "highlights_zh": [
+      "最大续航 1100 公里",
+      "5 分钟快充可增加数百公里",
+      "起售价约 4.71 万美元",
+      "搭载第二代刀片电池"
+    ],
+    "entities": [
+      "比亚迪 | BYD",
+      "腾势 Z9S | Denza Z9S",
+      "刀片电池",
+      "续航",
+      "快充"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/vx8ElR/s1/byd-denza-z9s.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:55.216Z"
+  },
+  "https://www.motor1.com/news/803660/toyota-next-gen-batteries-hybrids/": {
+    "title_zh": "丰田下一代混动电池 2027 年投产",
+    "summary_short": "丰田计划 2027 年将日本混动电池产线升级为下一代技术，年产能 60 万辆，并考虑扩大生产。",
+    "summary_long": "丰田宣布将在 2027 至 2028 年间，将其日本混动电池生产线转换为下一代技术，初期年产能可供应约 60 万辆混动车。此举旨在满足日益增长的混动需求，并可能扩展至雷克萨斯品牌。丰田预计今年混动销量将达 500 万辆，创历史新高。尽管电动车发展迅速，丰田仍坚持混动是更普适的解决方案，因充电设施和价格等因素。",
+    "highlights_zh": [
+      "2027 年转换产线",
+      "年产能 60 万辆",
+      "混动年销或破 500 万",
+      "雷克萨斯也将受益"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "雷克萨斯 | Lexus",
+      "普锐斯",
+      "混动电池",
+      "下一代技术"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6ZoqG7/s1/2025-toyota-prius.jpg",
+      "https://cdn.motor1.com/images/custom/thumbnail/toyota-next-gen-batteries-for-hybrids.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:56.344Z"
+  },
+  "https://www.motor1.com/news/803644/2027-audi-a2-official-details/": {
+    "title_zh": "奥迪 A2 E-Tron 回归：宣称史上最高效车型",
+    "summary_short": "奥迪 A2 E-Tron 回归，基于 ID.3 Neo，能耗 12.8kWh/100km，风阻 0.24，宣称史上最高效。",
+    "summary_long": "奥迪 A2 E-Tron 即将于秋季亮相，官方透露其关键技术规格。这款电动掀背车基于大众 ID.3 Neo 平台打造，以降低开发成本和时间。奥迪宣称其能耗仅为 12.8 千瓦时/百公里，风阻系数 0.24（需选装效率套件），成为品牌史上最高效车型。原版 A2 曾因过度工程化而商业失败，但新款以更务实的方式回归，旨在提升市场表现。",
+    "highlights_zh": [
+      "能耗 12.8kWh/100km",
+      "风阻系数 0.24",
+      "基于 ID.3 Neo 平台",
+      "后驱布局"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A2 E-Tron",
+      "大众 | Volkswagen",
+      "ID.3 Neo",
+      "纯电掀背车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m816X/s1/2027-audi-a2-e-tron-camouflaged-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:39:58.367Z"
+  },
+  "https://insideevs.com/news/803647/audi-a2-ev-efficiency-official/": {
+    "title_zh": "奥迪新款 A2 e-tron：最便宜的电动车，也是史上最高效车型",
+    "summary_short": "奥迪 A2 e-tron 即将亮相，WLTP 效率达 4.85 英里/千瓦时，成为品牌最省电车型，起售价最低。",
+    "summary_long": "奥迪全新 A2 e-tron 将于今年秋季正式发布，定位为品牌最便宜的电动车，同时凭借可选效率套件，其 WLTP 初步测试效率达到 4.85 英里/千瓦时（12.8 千瓦时/100 公里），成为奥迪有史以来最高效的车型。效率套件包含多项空气动力学优化，可将标准版能耗降低最多 1.44 千瓦时/100 英里，并实现 0.24 的风阻系数，为紧凑型车中最低。该车采用主动式进气格栅，在正常行驶时关闭以减少风阻，在充电或高温时开启以保护电池。电池方面，提供 58 千瓦时（61 千瓦时毛容量）的磷酸铁锂电芯到封装（cell-to-pack）电池包，省去模块结构，提升能量密度。",
+    "highlights_zh": [
+      "WLTP 效率 4.85 英里/千瓦时",
+      "可选效率套件",
+      "58 千瓦时磷酸铁锂电池",
+      "定位最便宜奥迪电动车"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A2 e-tron",
+      "WLTP",
+      "磷酸铁锂电池",
+      "效率套件"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/9m816X/s1/2027-audi-a2-e-tron-camouflaged-prototype.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-04T15:40:00.620Z"
   }
 }

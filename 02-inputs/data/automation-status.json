@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-08-04T03:34:17.640Z",
+    "generated_at": "2026-08-04T15:38:53.126Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 368,
-    "deepseek_untranslated_before_run": 32,
-    "newly_fetched_articles": 32,
-    "newly_fetched_untranslated": 32,
-    "backlog_untranslated": 0,
+    "deepseek_translated_before_run": 364,
+    "deepseek_untranslated_before_run": 36,
+    "newly_fetched_articles": 36,
+    "newly_fetched_untranslated": 36,
+    "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 32,
+    "translation_queue_count": 36,
     "translation_queue_preview": [
       {
-        "source": "Best Car Web",
+        "source": "The Drive",
         "time": "2026.8.4",
-        "title": "「バララ!!!!」音が気持ちいい!! GRヤリスとGRカローラがさらに熟成！ 2026年モデルで分かった違いとは",
-        "url": "https://bestcarweb.jp/feature/column/1570047"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "【スズキ GSX-S1000GX 試乗】これはアドベンチャーか、スーパースポーツか？ “翼”を得たスズキの異端児…伊丹孝裕",
-        "url": "https://response.jp/article/2026/08/04/414882.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.4",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第824回",
-        "url": "https://bestcarweb.jp/feature/column/1592314"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "9/23申込締切 欧州自動車産業の次の一手、欧州の現場で何が起きているのか～EV減速局面・SDV/AIへの移行・中国勢の浸透～",
-        "url": "https://response.jp/article/2026/08/04/414861.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "MINI『カントリーマン』にオフロード仕様、プロトタイプの写真公開…デビューは10月",
-        "url": "https://response.jp/article/2026/08/04/414870.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "ウェイモの新型自動運転車「オーハイ」、Google「Gemini」搭載…車内AIアシスタント機能を強化",
-        "url": "https://response.jp/article/2026/08/04/414877.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "カワサキのスーパーネイキッド『Z250』『Z400』2027年モデル発売へ、新カラー採用",
-        "url": "https://response.jp/article/2026/08/04/414876.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "クアルコム、Modularの買収完了…AIソフトウェア基盤を強化",
-        "url": "https://response.jp/article/2026/08/04/414869.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "トヨタGRとスシローが初コラボ！ 限定ミニカー付きメニュー発売 食とクルマで夏休みの思い出に",
-        "url": "https://response.jp/article/2026/08/04/414883.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "トヨタの販売台数、2.9％減の500万台 上半期実績",
-        "url": "https://response.jp/article/2026/08/04/414871.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.4",
-        "title": "トラックの「アンダーラン防止装置」が機能しない!? 国際規格の欠陥で年間死者数は数百人に上る可能性も",
-        "url": "https://bestcarweb.jp/fullload/1593267"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "ビンファスト系「グリーンSM」、全電動タクシーサービスをデンマークで開始…欧州初進出",
-        "url": "https://response.jp/article/2026/08/04/414872.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "ホンダの世界生産が3.3％減、167万台 上半期実績",
-        "url": "https://response.jp/article/2026/08/04/414879.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "メルセデスAMG『A45 S』、「ファイナルエディション」欧州受注開始…世界最強の量産4気筒ターボは421馬力",
-        "url": "https://response.jp/article/2026/08/04/414878.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.4",
-        "title": "もう信号を見落とさない！ 日本の老舗SWANSが作った「運転特化型サングラス」レンズが革新的すぎる！",
-        "url": "https://bestcarweb.jp/news/car-accessory/1596095"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.4",
-        "title": "北九州市がケーブルカー運休日限定の直行バスを運行開始しただと!?",
-        "url": "https://bestcarweb.jp/busmagazine/1584818"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.4",
-        "title": "感動的な走りと静粛性に鳥肌モノ！ アル／ヴェルとは一味も二味も違う!! 新型エルグランド納車後に公道へ連れ出して分かった圧倒的実力",
-        "url": "https://bestcarweb.jp/newcar/1591845"
+        "title": "Heated Seats Are the Number One Feature New Car Buyers Want",
+        "url": "https://www.thedrive.com/news/heated-seats-are-the-number-one-feature-new-car-buyers-want"
       },
       {
         "source": "Motor1",
         "time": "2026.8.4",
-        "title": "Mechanic Works On Land Rover Discovery—He Accidentally ‘Totals’ It: 'Don't Tell The Customer'",
-        "url": "https://www.motor1.com/news/803634/mechanics-total-land-rover-discovery/"
+        "title": "Mercedes-AMG's New Sedan Just Claimed A Nürburgring Record: 'Fastest Car In Its Class'",
+        "url": "https://www.motor1.com/news/803737/new-mercedes-cla-nurburgring-record/"
       },
       {
         "source": "The Drive",
-        "time": "2026.8.3",
-        "title": "275-HP Polaris RZR Pro R Boost Is the World’s Most Powerful Factory Side-by-Side",
-        "url": "https://www.thedrive.com/news/275-hp-polaris-rzr-pro-r-boost-is-the-worlds-most-powerful-factory-side-by-side"
+        "time": "2026.8.4",
+        "title": "900 HP With a Factory Warranty: Mopar Supercharger Packages Are Back on the Ram Rumble Bee",
+        "url": "https://www.thedrive.com/news/900-hp-with-a-factory-warranty-mopar-supercharger-packages-are-back-on-the-ram-rumble-bee"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.8.4",
+        "title": "Chevy Bolt New vs. Old Review: One Big Step Forward but Many Tiny Steps Back",
+        "url": "https://www.thedrive.com/car-reviews/2027-chevrolet-bolt-new-vs-old-review"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.4",
+        "title": "Costco Is Offering Big Discounts On New Infiniti SUVs",
+        "url": "https://www.motor1.com/news/803722/costco-infiniti-discount/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.8.4",
+        "title": "Honda Just Had Its Best July Since Before the Pandemic: TDS",
+        "url": "https://www.thedrive.com/news/honda-just-had-its-best-july-since-before-the-pandemic-tds"
       },
       {
         "source": "InsideEVs",
-        "time": "2026.8.3",
-        "title": "Mercedes Boss Says The Auto Industry Went 'Too Far' With Removing Buttons",
-        "url": "https://insideevs.com/news/803618/mercedes-too-far-buttons-removed/"
+        "time": "2026.8.4",
+        "title": "EVgo Is Adding Over 500 New Fast Chargers Where Millions Of Americans Already Shop",
+        "url": "https://insideevs.com/news/803714/evgo-expansion-us-shopping-centers/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "「これ市販車なんだよな…」トヨタの新型スーパーカー『GR GT』に再び脚光！ 欧州公開で日本のファンも「乗ってみたい」と注目",
+        "url": "https://response.jp/article/2026/08/04/414916.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "『N-BOX』で同乗者のTV視聴とナビ操作を可能に、ブリッツ「テレビナビジャンパー」ディーラーOPナビにも適合",
+        "url": "https://response.jp/article/2026/08/04/414912.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "『フェアレディZ』の内装材をアップサイクル、初の公式ライセンス商品発売…河西工業",
+        "url": "https://response.jp/article/2026/08/04/414899.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 ドイツの自動車産業の業績は政府支援で回復するか？",
+        "url": "https://response.jp/article/2026/08/04/414887.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "【ポルシェ マカン エレクトリック GTS 新型試乗】内燃機関のないBEVに「GTS」の味が出せるのか？",
+        "url": "https://response.jp/article/2026/08/04/414913.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.4",
+        "title": "【月額35万～60万円／業務委託】『Hot-Dog PRESS』電子版・『TRYラーメン大賞』の編集／営業メンバーを募集",
+        "url": "https://bestcarweb.jp/feature/column/1597935"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "dotD、データ社会推進協議会に正会員加入…自動車分野のデータ連携を強化",
+        "url": "https://response.jp/article/2026/08/04/414898.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "GPU対応エッジAI向けHMI「TPC-B620」発表、製造現場のデータ主権を確保…アドバンテック",
+        "url": "https://response.jp/article/2026/08/04/414908.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.4",
+        "title": "Tesla Driver Gets New Tires Installed. Then He Takes A Closer Look At The Fine Print On Them: 'Just Drive In Reverse'",
+        "url": "https://www.motor1.com/news/803574/tesla-tires-inside-out/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "アウディの新型コンパクトEV『A2 eトロン』、プロトタイプの写真公開…空力対策で電費向上",
+        "url": "https://response.jp/article/2026/08/04/414891.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.4",
+        "title": "クルマ好きなら一度は乗れ!! 人生観ならぬ“クルマ観”が変わるミッドシップ4選",
+        "url": "https://bestcarweb.jp/feature/column/1592242"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "ジェイテクト、熊本地震の被災地支援で500万円寄付",
+        "url": "https://response.jp/article/2026/08/04/414903.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.4",
+        "title": "スーパーチャージャー搭載、カワサキ『Z H2 SE』2027年モデル発売へ 価格は247万5000円",
+        "url": "https://response.jp/article/2026/08/04/414911.html"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30875106512",
-    "sha": "19948b966f6396d9d67c3730174a5fcc8335417b",
-    "completed_at": "2026-08-04T03:46:18.741Z",
+    "run_id": "30925176709",
+    "sha": "545788ed5f0a579b2d98be2e91950d8a95061b7f",
+    "completed_at": "2026-08-04T15:40:00.951Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 32,
-    "queued_articles": 32,
-    "processed": 32,
-    "started_at": "2026-08-04T03:34:18.045Z",
-    "finished_at": "2026-08-04T03:46:18.427Z",
+    "scoped_articles": 36,
+    "queued_articles": 36,
+    "processed": 36,
+    "started_at": "2026-08-04T15:38:53.746Z",
+    "finished_at": "2026-08-04T15:40:00.645Z",
     "success": true,
     "error": ""
   }
