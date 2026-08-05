@@ -1,6 +1,6 @@
 {
   "workflow": {
-    "generated_at": "2026-08-05T03:29:24.131Z",
+    "generated_at": "2026-08-05T15:31:25.436Z",
     "articles_in_feed": 400,
     "deepseek_translated_before_run": 366,
     "deepseek_untranslated_before_run": 34,
@@ -11,124 +11,124 @@
     "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "Response.jp",
+        "source": "Motor1",
         "time": "2026.8.5",
-        "title": "「SUZUKI×Springin'コンテスト」開催、テーマは「カレーのなかみ」…自由な発想でゲームを制作・応募",
-        "url": "https://response.jp/article/2026/08/05/414920.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "「スカイライン伝説」はここから!! 初代からハコスカまで名車を振り返る！ 歴代スカイラインの進化",
-        "url": "https://bestcarweb.jp/feature/column/1571312"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "「マツダさん、みんな待ってるよ」次世代ロータリースポーツの登場にファン期待、SNSでは議論飛び交う",
-        "url": "https://response.jp/article/2026/08/05/414939.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第825回",
-        "url": "https://bestcarweb.jp/feature/column/1592315"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "BMW『K1600』シリーズの1034台をリコール、火災のおそれ",
-        "url": "https://response.jp/article/2026/08/05/414933.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "VW「Premium Sound Edition」、T-Crossやゴルフに限定車…432万4000円から",
-        "url": "https://response.jp/article/2026/08/05/414934.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "アウディ『A2』がEVで復活へ！…“早すぎた名車”は電動化時代に成功できるか？",
-        "url": "https://response.jp/article/2026/08/05/414923.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "えっ!? よかれと思ってやっていたのに逆効果！ 実は愛車をダメにするうっかり習慣4選",
-        "url": "https://bestcarweb.jp/feature/column/1598014"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "オリックスなど3社と資本業務提携、整備プラットフォーム加速…Seibii",
-        "url": "https://response.jp/article/2026/08/05/414924.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "ガソリン車は約40万円安い!! ホンダ フリードはe:HEVとどっちが得か",
-        "url": "https://bestcarweb.jp/feature/column/1585493"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "グリーン水素で還元鉄を試作、日本初成功…JFEスチールとNEDOが鉄鋼脱炭素へ前進",
-        "url": "https://response.jp/article/2026/08/05/414937.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "スカニアの509台をリコール、方向指示器に不具合",
-        "url": "https://response.jp/article/2026/08/05/414929.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "スバルの国内生産17％減、海外は10.2％増 上半期実績",
-        "url": "https://response.jp/article/2026/08/05/414935.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "トヨタのフルサイズSUV『セコイア』に改良新型、「トレイルハンター」新設定…米国発表",
-        "url": "https://response.jp/article/2026/08/05/414938.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "パーキングケア365、工事用駐車場トラブル対応を拡充…DEFRAG WORKS",
-        "url": "https://response.jp/article/2026/08/05/414932.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "ハリアーが選ばれ続けるワケって!? 新型RAV4と新型CX-5はどうなんだ!?!?",
-        "url": "https://bestcarweb.jp/feature/column/1593996"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "一大事の予感、、、北米マツダのCEOが声を大にする危機感は本社へのSOSなのか!?!?",
-        "url": "https://bestcarweb.jp/feature/column/1563305"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "低燃費、耐摩耗、氷雪上性能を高次元で追求!! トーヨータイヤからトラック・バス用スタッドレスタイヤ「M976」登場",
-        "url": "https://bestcarweb.jp/fullload/1593274"
+        "title": "Ram's Rumble Bee SRT Can Make Over 900 HP With New Supercharger Kit",
+        "url": "https://www.motor1.com/news/803895/2027-ram-1500-rumble-bee-supercharger-kit-aftermarket/"
       },
       {
         "source": "Motor1",
         "time": "2026.8.5",
-        "title": "Man Goes To Firestone. Then He Catches The Worker In A Lie: ‘Why Are You Even Looking Under My Hood?’",
-        "url": "https://www.motor1.com/news/803773/firestone-alignment/"
+        "title": "This Spanish Hypercar Puts The Driver Ahead Of The Software",
+        "url": "https://www.motor1.com/news/803879/hispano-suiza-carmen-sagrera-photos/"
       },
       {
-        "source": "InsideEVs",
-        "time": "2026.8.4",
-        "title": "Lucid Delays Midsize EV Launch To 2027 As Part Of Turnaround Plan",
-        "url": "https://insideevs.com/news/803792/lucid-midsize-ev-production-2027/"
+        "source": "The Drive",
+        "time": "2026.8.5",
+        "title": "Dear Automakers: Get Your Ads Out of Our Cars",
+        "url": "https://www.thedrive.com/news/dear-automakers-get-your-ads-out-of-our-cars"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.5",
+        "title": "The Man Behind The Nissan Juke Is Now Designing Nissan's Future",
+        "url": "https://www.motor1.com/news/803868/matthew-weaver-becomes-nissan-global/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.5",
+        "title": "Owners Paid Millions To Live In Aston Martin's Miami Tower. Now They Claim It's Cracking",
+        "url": "https://www.motor1.com/news/803795/aston-martin-tower-miami-cracks-leaks-claims/"
+      },
+      {
+        "source": "The Drive",
+        "time": "2026.8.5",
+        "title": "Lucid Pumps Brakes on Cosmos Midsize SUV Launch Amid Cost-Cutting Campaign: TDS",
+        "url": "https://www.thedrive.com/news/lucid-pumps-brakes-on-cosmos-midsize-suv-launch-amid-cost-cutting-campaign-tds"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.5",
+        "title": "Ram 1500 Owners, Check Your Seatbelts: 1.5 Million Trucks Recalled",
+        "url": "https://www.motor1.com/news/803861/ram-1500-recall-over-rear/"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.5",
+        "title": "'That Situation Is Not Acceptable.' Mazda Laments Falling Sales Of Its Big SUVs",
+        "url": "https://www.motor1.com/news/803846/situation-not-acceptable-mazda-falling-suv-sales/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "「クロスオーバー」を駆使してスピーカーの性能を引き出す！「イン・カー・リスニング学」入門 Part4「チューニング編」",
+        "url": "https://response.jp/article/2026/08/05/414971.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "9/11申込締切 フィジカルAI実装の実態と5年後・10年後～ロボタクシーからAIネイティブカーへ、自動車産業の勝者は誰か～",
+        "url": "https://response.jp/article/2026/08/05/414960.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "BMWグループ、次世代デジタルコックピットおよび自動運転向け主要チップをクアルコムから調達",
+        "url": "https://response.jp/article/2026/08/05/414958.html"
+      },
+      {
+        "source": "Motor1",
+        "time": "2026.8.5",
+        "title": "Customer Brings Car Into Shop. Then The Mechanic Pulls Something Shocking Out Of It: 'Car Surgery'",
+        "url": "https://www.motor1.com/news/803592/accessible-parking-sign-under-car/"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "e-Mobility Power、熊本県内の急速充電スポット無償開放を8月17日まで延長",
+        "url": "https://response.jp/article/2026/08/05/414968.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "HKS、レクサス『GX550』用大口径スポーツマフラー「リーガマックス・トレイルマスター」発売",
+        "url": "https://response.jp/article/2026/08/05/414969.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "ウォッシャー液は水道水で代用しちゃダメ!? 意外と知らない正しい使い方",
+        "url": "https://bestcarweb.jp/feature/column/1591817"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "キア『PV5』、NECのモビリティサービス実証に導入…地域交通課題の解決へ",
+        "url": "https://response.jp/article/2026/08/05/414955.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "クルマ旅の滞在予約サービス「MOBILITY LOUNGE」開始、空き駐車場や未活用スペースを滞在拠点として活用…CCC",
+        "url": "https://response.jp/article/2026/08/05/414964.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "ナビタイムジャパン、熊本地震の被災地を支援…走行実績マップや有料機能を無料開放",
+        "url": "https://response.jp/article/2026/08/05/414956.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "フォルクスワーゲンID. Buzz限定車登場！ 70台だけの1周年記念モデルを見逃すな!!",
+        "url": "https://bestcarweb.jp/news/1595220"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "ブリッドのシート型スマホスタンド「織戸茉彩」モデル、直筆サイン入りパッケージで100個限定発売",
+        "url": "https://response.jp/article/2026/08/05/414965.html"
       }
     ]
   },
@@ -138,8 +138,8 @@
     "scoped_articles": 34,
     "queued_articles": 34,
     "processed": 34,
-    "started_at": "2026-08-05T03:29:24.499Z",
-    "finished_at": "2026-08-05T03:30:28.231Z",
+    "started_at": "2026-08-05T15:31:25.992Z",
+    "finished_at": "2026-08-05T15:32:36.761Z",
     "success": true,
     "error": ""
   }

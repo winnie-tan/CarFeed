@@ -103380,5 +103380,802 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-08-05T03:30:28.207Z"
+  },
+  "https://www.motor1.com/news/803895/2027-ram-1500-rumble-bee-supercharger-kit-aftermarket/": {
+    "title_zh": "Ram Rumble Bee SRT 机械增压套件可输出超 900 马力",
+    "summary_short": "Ram 为 2027 款 Rumble Bee 推出机械增压套件，SRT 版可超 900 马力，入门版超 600 马力。",
+    "summary_long": "Ram 为即将上市的 2027 款 1500 Rumble Bee 系列推出官方性能升级件，包括机械增压器、悬挂和排气系统。其中，针对 SRT 版搭载的 6.2 升 V8 发动机，Direct Connection 提供 2.4 升双涡流机械增压套件，可将动力从 777 马力提升至 900 马力以上。入门版 Rumble Bee 的 5.7 升 Hemi V8 在加装 3.0 升机械增压后，输出可从 395 马力跃升至 600 马力以上；而 Rumble Bee 392 及 Track Pack 版本的 6.4 升 V8 则可从 470 马力提升至 700 马力以上。每套增压器售价 10,995 美元，不含安装费，由 ASE 认证技师安装后可享受 5 年或 6 万英里动力总成有限保修。",
+    "highlights_zh": [
+      "SRT 版可超 900 马力",
+      "入门版超 600 马力",
+      "392 版超 700 马力",
+      "套件售价 10"
+    ],
+    "entities": [
+      "Ram",
+      "Rumble Bee",
+      "SRT",
+      "Direct Connection",
+      "机械增压"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kbg9nQ/s1/2027-ram-1500-rumble-bee-392-with-direct-connection-parts.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:30.558Z"
+  },
+  "https://www.motor1.com/news/803879/hispano-suiza-carmen-sagrera-photos/": {
+    "title_zh": "西班牙超跑 Hispano Suiza Carmen Sagrera：以人为本的驾驶体验",
+    "summary_short": "Hispano Suiza Carmen Sagrera 电动超跑，1115 马力，2.6 秒破百，用后台技术提升驾驶体验，而非取代驾驶者。",
+    "summary_long": "Hispano Suiza Carmen Sagrera 是 Carmen 家族第三款电动超跑，为庆祝品牌 120 周年而推出。它拥有 1115 马力和 856 磅-英尺扭矩，0-62 英里/小时加速仅需 2.6 秒。在众多汽车品牌竞相增加大屏幕和数字功能之际，Hispano Suiza 选择了一条不同的道路：开发在后台运行的技术，让驾驶者始终处于中心位置。其核心是 Hispano Suiza Driver Dynamics（HSDD）系统，该系统协调牵引力、扭矩分配、稳定性、再生制动和驾驶模式，实时分析车辆状态和周围环境。系统旨在支持而非取代驾驶者，仅在必要时介入，确保车辆响应自然，从而建立人与机器之间更直接的联系。",
+    "highlights_zh": [
+      "1115 马力",
+      "HSDD 系统后台协调车辆动态",
+      "技术旨在支持而非取代驾驶者",
+      "纪念品牌 120 周年"
+    ],
+    "entities": [
+      "Hispano Suiza Carmen Sagrera",
+      "Hispano Suiza",
+      "电动超跑",
+      "HSDD 系统"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/L3yNOm/s1/hispano-suiza-carmen-sagrera.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:30.898Z"
+  },
+  "https://www.thedrive.com/news/dear-automakers-get-your-ads-out-of-our-cars": {
+    "title_zh": "致汽车制造商：把广告从我们的车里拿出去",
+    "summary_short": "汽车价格飙升，制造商却在车内推送广告，如宝马展示蜘蛛侠宣传片，引发车主不满。",
+    "summary_long": "汽车作为第二大消费品，价格不断上涨，消费者压力巨大。然而，汽车制造商却试图通过车内广告从客户身上榨取更多利润。例如，宝马在车内展示蜘蛛侠电影宣传片，这种看似无害的广告行为，实则是将汽车变成广告平台，引发车主反感。文章呼吁汽车制造商停止这种短视行为，尊重消费者的体验。",
+    "highlights_zh": [
+      "汽车价格飙升",
+      "宝马展示蜘蛛侠宣传片引发争议",
+      "车内广告被视为榨取利润的手段",
+      "消费者体验被忽视"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "iX3",
+      "蜘蛛侠",
+      "车内广告"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/spidey-ad.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2025/04/hed2.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/GettyImages-2248156771.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:34.010Z"
+  },
+  "https://www.motor1.com/news/803868/matthew-weaver-becomes-nissan-global/": {
+    "title_zh": "日产 Juke 设计者接任全球设计总监",
+    "summary_short": "日产 Juke 设计者 Matthew Weaver 将于 10 月接任全球设计总监，阿尔巴伊萨卸任，未来电动车与跨界车将焕新。",
+    "summary_long": "日产宣布，第一代 Juke 的外观主设计师 Matthew Weaver 将于 2026 年 10 月 1 日升任全球设计总监，接替阿尔方索·阿尔巴伊萨。阿尔巴伊萨自 2017 年起领导全球设计，在日产工作近 40 年，卸任后将担任顾问至年底。Weaver 在日产工作超 20 年，曾主导欧洲设计团队，参与 Qashqai 和 Juke 的设计。此次人事变动意味着日产未来的电动车和跨界车将带有 Weaver 大胆前卫的设计风格。",
+    "highlights_zh": [
+      "Juke 设计者接任日产全球设计总监",
+      "阿尔巴伊萨卸任",
+      "Weaver 曾主导 Qashqai 和 Juke…",
+      "未来电动车将展现新设计风格"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Juke",
+      "Qashqai",
+      "Matthew Weaver",
+      "阿尔方索·阿尔巴伊萨"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/eo7rYM/s1/all-new-nissan-qashqai---matthew-weaver.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:34.985Z"
+  },
+  "https://www.motor1.com/news/803795/aston-martin-tower-miami-cracks-leaks-claims/": {
+    "title_zh": "阿斯顿·马丁迈阿密豪宅被指开裂漏水，业主索赔数百万",
+    "summary_short": "阿斯顿·马丁迈阿密豪宅交付两年即现裂缝、漏水等缺陷，业主起诉开发商。",
+    "summary_long": "阿斯顿·马丁在迈阿密滨水区打造的 66 层豪华住宅楼，于 2024 年初交付，成为当地最高住宅建筑。然而，仅两年后，业主委员会指控该楼存在混凝土开裂、渗水、海堤和阳台腐蚀等多项施工缺陷，并已对开发商及相关承包商和设计公司提起法律诉讼。业主担忧安全隐患及高昂维修费用。",
+    "highlights_zh": [
+      "交付两年即现裂缝漏水",
+      "业主起诉开发商及承包商",
+      "涉及混凝土开裂、渗水等问题",
+      "担忧安全隐患及维修费用"
+    ],
+    "entities": [
+      "阿斯顿·马丁 | Aston Martin",
+      "迈阿密",
+      "住宅楼",
+      "施工缺陷"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJeV7/s1/aston-martin-residences-owners-claim-cracking.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:37.461Z"
+  },
+  "https://www.thedrive.com/news/lucid-pumps-brakes-on-cosmos-midsize-suv-launch-amid-cost-cutting-campaign-tds": {
+    "title_zh": "Lucid 推迟 Cosmos 中型 SUV 发布，削减成本",
+    "summary_short": "Lucid 将 Cosmos 中型 SUV 发布推迟至 2027 年初，以削减成本并避免早期车型问题。",
+    "summary_long": "Lucid 原计划今年推出售价低于 5 万美元的 Cosmos 中型 SUV，但现已决定将发布及生产启动推迟至 2027 年初。此举旨在削减开支，并确保车辆质量，避免重蹈 Air 和 Gravity 早期车型出现的故障和物流问题。",
+    "highlights_zh": [
+      "Lucid 推迟 Cosmos SUV 至 2027…",
+      "目标售价低于 5 万美元",
+      "削减成本并确保质量",
+      "避免早期车型问题"
+    ],
+    "entities": [
+      "Lucid",
+      "Cosmos",
+      "Air",
+      "Gravity"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/GettyImages-2248156771.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/spidey-ad.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:37.729Z"
+  },
+  "https://www.motor1.com/news/803846/situation-not-acceptable-mazda-falling-suv-sales/": {
+    "title_zh": "马自达对大型 SUV 销量下滑表示不满",
+    "summary_short": "马自达 CX-70 和 CX-90 在北美销量大幅下滑，高管称不可接受，需提升大型平台业务。",
+    "summary_long": "马自达针对北美市场开发了后驱大型 SUV CX-70 和 CX-90，但近期销量表现不佳。截至 7 月，CX-70 销量下降 28.1%至 7161 辆，CX-90 下降 25%至 26102 辆。部分原因包括日本进口关税和插电混动税收抵免取消。马自达首席财务官 Jeffrey Guyton 表示，这一情况不可接受，需要提升大型平台业务。",
+    "highlights_zh": [
+      "CX-70 销量下降 28.1%",
+      "CX-90 销量下降 25%",
+      "进口关税和税收抵免取消影响",
+      "CFO 称情况不可接受"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "CX-70",
+      "CX-90",
+      "北美市场",
+      "后驱平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxQMqL/s1/2024-mazda-cx-90-phev-review.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:40.835Z"
+  },
+  "https://www.motor1.com/news/803861/ram-1500-recall-over-rear/": {
+    "title_zh": "Ram 1500 召回：150 万辆皮卡安全带锚固件缺陷",
+    "summary_short": "Ram 1500 因后排安全带锚固件缺陷全球召回超 150 万辆，涉及 2019-2026 款，车主需检查 VIN。",
+    "summary_long": "Stellantis 宣布召回超过 150 万辆 2019-2026 款 Ram 1500 皮卡，原因是部分车辆的后排中央和驾驶员侧安全带扣锚固件可能未正确固定至车身，影响碰撞时安全带性能，并已导致至少一起受伤报告。此次召回涉及美国约 127.1 万辆，其余分布在加拿大、墨西哥等市场。车主可检查 VIN 是否在召回范围内，经销商将免费维修。美国车主通知信预计 8 月 18 日开始寄出，联邦数据库可能尚未更新。",
+    "highlights_zh": [
+      "全球召回超 150 万辆",
+      "涉及 2019-2026 款",
+      "后排安全带锚固缺陷",
+      "免费维修"
+    ],
+    "entities": [
+      "Ram 1500",
+      "Stellantis",
+      "召回",
+      "安全带",
+      "美国"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/zxB0Qq/s1/ram-1500-hemi-v-8.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:41.322Z"
+  },
+  "https://response.jp/article/2026/08/05/414971.html": {
+    "title_zh": "活用分频器发挥扬声器性能！车载聆听学入门 Part4「调音篇」",
+    "summary_short": "外置 DSP 高性能，分频器设定是调音关键，需先平衡高音至低音音量。",
+    "summary_long": "在车内享受好声音，需遵循理论进行产品选择和设备设置。本连载广泛解说这些理论，目前为「调音篇」，继续说明分频器的设定方法。现代车载音响中，外置 DSP 常被集成到系统，用以应对车内声学不利因素。虽然主机多内置简易 DSP，但外置 DSP 性能更高，因此爱好者多选用。分频器功能用于多路扬声器的频段分配，设定时首先需调整高音至低音的音量平衡。",
+    "highlights_zh": [
+      "外置 DSP 性能更高",
+      "分频器设定调音关键",
+      "先平衡高低音音量",
+      "应对车内声学不利"
+    ],
+    "entities": [
+      "DSP",
+      "分频器",
+      "车载音响",
+      "调音"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232605.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232605.jpg",
+      "https://response.jp/imgs/fill2/2232603.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:45.468Z"
+  },
+  "https://response.jp/article/2026/08/05/414960.html": {
+    "title_zh": "物理 AI 落地实况与 5 年、10 年后：从 Robotaxi 到 AI 原生汽车，汽车产业赢家是谁",
+    "summary_short": "9 月 15 日研讨会探讨物理 AI 在汽车业的落地，从 Robotaxi 到 AI 原生汽车，分析主要厂商战略与 2030/2035 年产业格局。",
+    "summary_long": "生成 AI 之后，物理 AI 成为下一个增长领域。汽车行业中，自动驾驶和 SDV 的进展已推动物理 AI 落地。Waymo、Zoox、Tesla 的 Robotaxi 引发关注，BYD、Mercedes-Benz、Toyota 等也在加速 AI 上车，汽车正从移动工具进化为 AI 原生移动终端。竞争焦点从发动机性能、续航里程转向 AI、软件、半导体和数据。这一变革不仅影响整车厂，也为传感器、AI 芯片、SiC 功率半导体、碳纤维复合材料等供应链带来新机遇。本次研讨会将梳理 Robotaxi 和 AI 原生汽车的最新动态，分析主要厂商战略、市场趋势及对相关产业的影响，展望 2030 年和 2035 年的汽车产业。",
+    "highlights_zh": [
+      "物理 AI 成生成 AI 后新增长点",
+      "Robotaxi 盈利模式从销量转向运营率",
+      "竞争焦点转向 AI、软件、半导体、数据",
+      "供应链迎来传感器、AI 芯片等新机遇"
+    ],
+    "entities": [
+      "Waymo",
+      "Zoox",
+      "Tesla",
+      "BYD",
+      "Mercedes-Benz"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232986.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232986.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:46.381Z"
+  },
+  "https://response.jp/article/2026/08/05/414958.html": {
+    "title_zh": "宝马集团与高通签署十年大单，采购下一代数字座舱及自动驾驶芯片",
+    "summary_short": "宝马与高通签署十年合约，采购下一代数字座舱及自动驾驶芯片，涵盖骁龙数字底盘方案。",
+    "summary_long": "宝马集团与高通技术公司宣布签署一项为期十年的大型供应合同，高通将为宝马的下一代数字座舱和先进驾驶辅助系统（ADAS/AD）提供核心计算芯片。该协议基于双方长期技术合作，高通将提供包括骁龙数字底盘解决方案在内的完整产品组合，涵盖旗舰级骁龙汽车平台和专用 AI 加速器，为宝马实现下一代 AI 驱动的车载体验奠定硬件基础。",
+    "highlights_zh": [
+      "宝马与高通签署十年芯片供应协议",
+      "覆盖数字座舱及自动驾驶系统",
+      "采用骁龙数字底盘完整方案",
+      "包括旗舰平台与 AI 加速器"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "高通",
+      "骁龙数字底盘",
+      "自动驾驶"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232983.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232983.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:49.316Z"
+  },
+  "https://www.motor1.com/news/803592/accessible-parking-sign-under-car/": {
+    "title_zh": "顾客将车开进修理厂，维修工从车底拉出惊人东西：'汽车手术'",
+    "summary_short": "维修工在顾客车底发现整块无障碍停车标志牌，网友热议司机竟未察觉。",
+    "summary_long": "一家修理厂的维修工在检查顾客车辆时，惊讶地发现车底卡着一块完整的无障碍停车标志牌，连柱子都还在。顾客声称“车底有东西掉出来”，但显然没有意识到自己碾过了标志牌。视频在 TikTok 上引发热议，评论者纷纷调侃司机。",
+    "highlights_zh": [
+      "维修工在车底发现整块停车标志牌",
+      "顾客称“车底有东西掉出来”",
+      "网友调侃司机未察觉碾过标志",
+      "视频在 TikTok 上引发热议"
+    ],
+    "entities": [
+      "Motor1",
+      "TikTok",
+      "无障碍停车标志"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/rKJQQV/s1/customer-brings-car-into-shop-says-bottom-is-falling-out..jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:49.892Z"
+  },
+  "https://response.jp/article/2026/08/05/414968.html": {
+    "title_zh": "e-Mobility Power 延长熊本县快速充电免费开放至 8 月 17 日",
+    "summary_short": "e-Mobility Power 延长熊本县快速充电免费开放至 8 月 17 日，新增 1 处站点，共 15 处。",
+    "summary_long": "e-Mobility Power 宣布，因令和 8 年熊本地震，将熊本县内部分快速充电站的免费开放期限延长至 2026 年 8 月 17 日正午。自 7 月 29 日启动以来，已累计提供超过 330 次充电服务。为继续支持当地 EV 和 PHEV 用户及救援人员，公司决定延长免费期，并新增一个充电点，使总数达到 15 个。",
+    "highlights_zh": [
+      "免费开放延长至 8 月 17 日",
+      "新增 1 处充电站",
+      "累计使用超 330 次"
+    ],
+    "entities": [
+      "e-Mobility Power",
+      "熊本地震",
+      "快速充电",
+      "EV",
+      "PHEV"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2233019.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2233019.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:52.316Z"
+  },
+  "https://response.jp/article/2026/08/05/414969.html": {
+    "title_zh": "HKS 发布雷克萨斯 GX550 专用大口径运动排气",
+    "summary_short": "HKS 推出雷克萨斯 GX550 专用运动排气，大口径双出设计，优化声浪与性能，售价 24.86 万日元。",
+    "summary_long": "HKS 为雷克萨斯 GX550（VJA252W，2024 年 6 月后）推出新款运动排气“Legamax Trailmaster”，售价 24.86 万日元（含税），适配 Over Trail+和 Version L 车型。排气采用Φ102 大口径双出尾管，表面黑色涂层，管身拉丝哑光处理，与保险杠线条协调，尾管刻有“EXH TECH”和 HKS 标识，并采用 TIG 焊接工艺手工打造。 声浪方面，针对 V6 发动机强化低音，高速巡航时抑制车内共振，保证后排舒适性。近排气噪 80dB（怠速 63dB），原厂为 81dB（怠速 61dB）。性能上，原厂 ECU 下输出与原厂相当，最大功率 255.6kW/5280rpm，最大扭矩 570.5Nm/2860rpm。搭配 HKS Mastery ECU 后，中转速域扭矩提升 7.9Nm，最大功率达 269.6kW/5640rpm，最大扭矩 616.8Nm/3160rpm。",
+    "highlights_zh": [
+      "Φ102 大口径双出尾管",
+      "TIG 焊接手工打造",
+      "低音强化",
+      "搭配 Mastery ECU 可提升 7.9Nm 扭…"
+    ],
+    "entities": [
+      "HKS",
+      "雷克萨斯 | Lexus",
+      "GX550",
+      "Legamax Trailmaster",
+      "运动排气"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232826.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232826.jpg",
+      "https://response.jp/imgs/fill2/2232827.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:55.482Z"
+  },
+  "https://bestcarweb.jp/feature/column/1591817": {
+    "title_zh": "玻璃水不能用自来水代替？正确使用方法详解",
+    "summary_short": "玻璃水不能用水代替，正确使用可清洁挡风玻璃并保护雨刷，了解其成分与功能至关重要。",
+    "summary_long": "汽车使用中，玻璃水是消耗品，但许多人对它的了解不足。玻璃水不仅能清洁挡风玻璃上的污垢，还能减少雨刷与玻璃的摩擦，防止损伤。然而，用自来水代替玻璃水是错误的，因为自来水无法有效去除油污，且可能留下水垢，影响视线。正确使用玻璃水，应根据季节选择合适类型，夏季注重清洁去虫胶，冬季则需防冻。定期检查并补充玻璃水，确保行车安全。",
+    "highlights_zh": [
+      "玻璃水不可用自来水代替",
+      "玻璃水能保护雨刷和玻璃",
+      "夏季选清洁型",
+      "定期检查补充玻璃水"
+    ],
+    "entities": [
+      "玻璃水",
+      "雨刷",
+      "挡风玻璃",
+      "清洁",
+      "防冻"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/29002121/a11b4bb3ba448d1fa402ac3dc62cc91f-3.jpg?v=1785252082",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/29002121/a11b4bb3ba448d1fa402ac3dc62cc91f-3-600x400.jpg?v=1785252082",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16103807/s-C13I7942-600x400.jpg?v=1784165888"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:56.368Z"
+  },
+  "https://response.jp/article/2026/08/05/414955.html": {
+    "title_zh": "起亚 PV5 引入 NEC 出行服务实证，助力解决地区交通难题",
+    "summary_short": "起亚 PV5 电动厢式车交付 NEC，用于地区交通实证，应对少子老龄化及司机不足问题。",
+    "summary_long": "起亚 PBV 日本公司向 NEC 出行解决方案统括部交付了电动厢式车“起亚 PV5 Passenger”，用于地区交通便利性提升及新型出行服务的实证与验证。此举旨在应对少子老龄化及司机不足导致的公共交通和物流网络维持难题。PV5 采用低地板平台，拥有宽敞室内空间，便于人员上下和货物装卸，有望在客流与物流两方面发挥作用。",
+    "highlights_zh": [
+      "起亚 PV5 交付 NEC 用于出行服务实证",
+      "应对司机不足与少子老龄化挑战",
+      "低地板设计兼顾客流与物流",
+      "助力可持续地区交通发展"
+    ],
+    "entities": [
+      "起亚 | Kia",
+      "PV5",
+      "NEC",
+      "电动厢式车",
+      "地区交通"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232982.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232982.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:31:59.988Z"
+  },
+  "https://response.jp/article/2026/08/05/414964.html": {
+    "title_zh": "MOBILITY LOUNGE 开启汽车旅行住宿预订服务",
+    "summary_short": "CCC 推出 MOBILITY LOUNGE，利用闲置停车场和未活用空间作为住宿点，通过 APP 预约支付，提供独特汽车旅行体验。",
+    "summary_long": "カルチュア・コンビニエンス・クラブ（CCC）推出新服务 MOBILITY LOUNGE，旨在将闲置停车场和未活用空间改造为汽车旅行住宿点。用户可通过专用 APP 进行预约、支付和使用，将移动过程与当地特色住宿体验相结合。此举响应了人们对旅行中“移动本身”和“停留质量”日益增长的关注。日本露营车市场持续扩大，2023 年销售额突破 1000 亿日元，十年间增长约 3 倍。同时，2025 年访日外国游客达 4268 万人，尤其来自欧美澳的游客对长期停留和自然文化体验兴趣浓厚，但地方接待环境有待完善。该服务初期提供 4 个据点，其中 2 个已运营，另 2 个计划于 2026 年 8 月中旬后开放。",
+    "highlights_zh": [
+      "利用闲置停车场和未活用空间",
+      "专用 APP 预约、支付、使用",
+      "露营车市场十年增长 3 倍",
+      "初期 4 个据点"
+    ],
+    "entities": [
+      "カルチュア・コンビニエンス・クラブ | CCC",
+      "MOBILITY LOUNGE",
+      "露营车",
+      "汽车旅行"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2233018.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2233018.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:01.123Z"
+  },
+  "https://response.jp/article/2026/08/05/414956.html": {
+    "title_zh": "Navitime Japan 支援熊本地震灾区，免费开放行驶实绩地图及付费功能",
+    "summary_short": "Navitime Japan 为支援熊本地震灾区，免费开放行驶实绩地图及部分付费功能，帮助用户选择可通行道路。",
+    "summary_long": "Navitime Japan 为支援熊本地震灾区，推出多项免费服务。其行驶实绩地图网站基于用户行驶数据，展示 7 月 28 日后的通行道路，无需注册即可使用。同时，在熊本地区免费开放卡纳比导航的“行驶实绩优先路线搜索”功能，优先推荐确认可通行的道路。大型车导航应用“卡车卡纳比”也免费开放全车型的近期行驶实绩，并公开九州地区的行驶数据，助力物资运输。此外，相关服务还支持确认铁路运行信息并规划绕行路线。",
+    "highlights_zh": [
+      "行驶实绩地图免费开放",
+      "熊本地区优先推荐可通行道路",
+      "卡车导航免费开放行驶实绩",
+      "支持铁路运行信息查询与路线规划"
+    ],
+    "entities": [
+      "Navitime Japan",
+      "行驶实绩地图",
+      "卡纳比导航",
+      "卡车卡纳比",
+      "熊本地震"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232985.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232985.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:04.715Z"
+  },
+  "https://bestcarweb.jp/news/1595220": {
+    "title_zh": "大众 ID. Buzz 周年纪念版上市，限量 70 台",
+    "summary_short": "大众 ID. Buzz 日本上市一周年，推出限量 70 台的 1st Anniversary Edition，采用专属双色涂装与特别配置。",
+    "summary_long": "大众汽车日本公司于 2026 年 7 月 31 日推出 ID. Buzz 1st Anniversary Edition，以纪念该车型在日本上市一周年。该限量版基于 Pro 和 Pro Long Wheelbase 两个版本打造，采用专属双色涂装和特别装备，全国限量 70 台。ID. Buzz 作为大众电动 MPV，继承了经典 Type 2 的设计 DNA，自 2025 年 6 月进入日本市场以来，凭借复古外观和先进 EV 技术获得好评，并荣获日本年度进口车和设计车奖项。",
+    "highlights_zh": [
+      "限量 70 台",
+      "专属双色涂装与特别装备",
+      "纪念日本上市一周年",
+      "曾获日本年度进口车和设计车奖"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "ID. Buzz",
+      "Type 2",
+      "日本カー・オブ・ザ・イヤー"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/01143046/9b7aa39c10a1a76c9020be0bd8647057.jpg?v=1785562247",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/01143046/9b7aa39c10a1a76c9020be0bd8647057-600x363.jpg?v=1785562247",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26113848/b44e138b654ac040477d2fd78d188e5a-421x600.jpg?v=1785033529"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:04.957Z"
+  },
+  "https://response.jp/article/2026/08/05/414965.html": {
+    "title_zh": "BRIDE 推出织户茉彩限定版座椅型手机支架，限量 100 个",
+    "summary_short": "BRIDE 推出织户茉彩限定版座椅型手机支架，限量 100 个，含签名包装和序列号，售价 12100 日元。",
+    "summary_long": "日本赛车座椅老牌厂商 BRIDE 推出其原创商品“座椅型手机支架”的限定版“座椅型手机支架 高级系列 织户茉彩”［HSST14］，自 8 月 4 日起限量发售 100 个。该产品附带织户茉彩选手的亲笔签名专用包装，本体也印有证明限量生产的序列号。含税价格为 12100 日元，每人限购 1 个，因限量生产可能提前售罄。",
+    "highlights_zh": [
+      "限量 100 个发售",
+      "含亲笔签名包装",
+      "带序列号证明",
+      "售价 12100 日元"
+    ],
+    "entities": [
+      "BRIDE",
+      "织户茉彩",
+      "座椅型手机支架",
+      "限量版"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2233017.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2233017.jpg",
+      "https://response.jp/imgs/fill2/2232759.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:09.213Z"
+  },
+  "https://bestcarweb.jp/feature/column/1581051": {
+    "title_zh": "超越小改款？新一代 Crossbee 大改良持续热卖的原因",
+    "summary_short": "铃木 Crossbee 大幅改良，换装 1.2L 混动系统，2WD 车型新增多种驾驶模式，油耗提升，持续热卖。",
+    "summary_long": "铃木 Crossbee 自 2017 年诞生以来，凭借独特定位赢得市场。2025 年 10 月的大幅改良堪称换代级，核心变化在于动力系统：弃用 1.0T 三缸涡轮增压发动机，换装新开发的 1.2L 三缸自然吸气发动机与轻度混合动力系统，匹配 CVT 变速箱，动力输出平顺且静谧性出色。此外，原本仅 4WD 车型配备的运动、雪地、抓地控制及陡坡缓降等功能，现也下放至 2WD 车型，配合 180mm 离地间隙，提升了非铺装路面的通过性。燃油经济性显著提升，2WD 车型 WLTC 油耗达 22.8km/L，4WD 为 21.0km/L。这些改进使得 Crossbee 在上市多年后依然保持强劲的销售势头。",
+    "highlights_zh": [
+      "换装 1.2L 混动系统",
+      "2WD 车型新增多种驾驶模式",
+      "180mm 离地间隙",
+      "动力平顺静谧"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Crossbee",
+      "轻度混合动力",
+      "WLTC 油耗"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16103807/s-C13I7942.jpg?v=1784165888",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/16103807/s-C13I7942-600x400.jpg?v=1784165888",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28133001/rav4_image1-600x400.jpg?v=1785213002"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:10.069Z"
+  },
+  "https://bestcarweb.jp/feature/test-drive/1593639": {
+    "title_zh": "全新丰田海拉克斯越野试驾：媲美兰德酷路泽？",
+    "summary_short": "全新丰田海拉克斯越野实测，底盘强化、2.8L 柴油引擎，越野性能大幅提升，媲美兰德酷路泽。",
+    "summary_long": "在兰德酷路泽 FJ 备受瞩目的当下，丰田海拉克斯也完成了全新换代。第九代海拉克斯采用强化底盘、2.8L 柴油发动机以及源自兰德酷路泽的最新越野科技。在“佐名手冒险场”的越野试驾中，新车车身稳定性显著提升，悬挂表现扎实且柔韧，能很好地适应复杂路面，整体越野能力大幅进化。",
+    "highlights_zh": [
+      "底盘强化",
+      "2.8L 柴油引擎",
+      "搭载兰德酷路泽同款越野科技",
+      "越野能力媲美兰德酷路泽"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "海拉克斯",
+      "兰德酷路泽",
+      "越野"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31105854/TOYOTA-HILUX_037.jpg?v=1785463136",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31105854/TOYOTA-HILUX_037-600x400.jpg?v=1785463136",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/24144054/YOZ_3458-2-600x400.jpg?v=1784871656"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:13.200Z"
+  },
+  "https://bestcarweb.jp/news/1595389": {
+    "title_zh": "再启动时的繁琐操作一键解决！新型 N-BOX Custom 专用自动驻车与 P 挡制动自动化套件超方便",
+    "summary_short": "新型 N-BOX Custom 专用套件，自动驻车与 P 挡制动自动化，解决日常操作繁琐与忘拉手刹的烦恼。",
+    "summary_long": "针对新型 N-BOX Custom（JF5/JF6）用户反映的“每次都要按刹车保持按钮很麻烦”和“担心忘记拉手刹”的问题，CRAFTWORKS 品牌推出了专用自动化套件。该套件由 Fun Standard 株式会社开发，于 2026 年 7 月发售，旨在通过自动化刹车保持和驻车制动操作，减轻信号灯或拥堵时的负担，并防止忘记拉手刹。尽管现代车辆普遍配备电子驻车和刹车保持功能，但许多车型仍需在启动后手动操作开关，此套件正好解决了这一痛点。",
+    "highlights_zh": [
+      "自动驻车与 P 挡制动自动化",
+      "专为新型 N-BOX Custom 设计",
+      "减少信号灯等待负担",
+      "防止忘记拉手刹"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "N-BOX Custom",
+      "CRAFTWORKS",
+      "Fun Standard",
+      "自动驻车"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/01160540/1d85075912259c1458f839ae36e9be9b.jpg?v=1785567941",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/01160540/1d85075912259c1458f839ae36e9be9b-600x400.jpg?v=1785567941",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/26113848/b44e138b654ac040477d2fd78d188e5a-421x600.jpg?v=1785033529"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:14.295Z"
+  },
+  "https://www.motor1.com/news/803851/volvo-ex50-replace-ex40-cheaper/": {
+    "title_zh": "沃尔沃正在研发更大更实惠的电动车",
+    "summary_short": "沃尔沃计划 2027 年推出 EX50，取代 EX40，定位更实惠的紧凑型电动 SUV。",
+    "summary_long": "沃尔沃正在筹备一款全新的紧凑型电动 SUV，预计命名为 EX50，计划于 2027 年秋季在美国上市。该车型将取代现款 EX40，成为沃尔沃最实惠的电动车型，起售价预计在 4.8 万美元左右，低于 EX40 的 5.5 万美元。EX50 将基于 SPA3 平台打造，采用 800 伏电气架构，支持更快的直流快充，并搭载软件定义技术，与 EX60 共享技术。其竞争对手包括特斯拉 Model Y、现代 Ioniq 5 和福特 Mustang Mach-E。",
+    "highlights_zh": [
+      "EX50 将于 2027 年秋季上市",
+      "起售价约 4.8 万美元",
+      "基于 SPA3 平台",
+      "取代 EX40 成为入门电动车型"
+    ],
+    "entities": [
+      "沃尔沃 | Volvo",
+      "EX50",
+      "EX40",
+      "SPA3 平台",
+      "特斯拉 Model Y | Tesla Model Y"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3v76/s1/2026-volvo-ex40.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:18.117Z"
+  },
+  "https://bestcarweb.jp/newcar/1597740": {
+    "title_zh": "全新 CX-5 对比 RAV4：马自达的人马一体还是丰田的全能？",
+    "summary_short": "全新马自达 CX-5 与丰田 RAV4 对比，前者注重豪华与操控，后者强调混动与实用性，价格相近，如何选择？",
+    "summary_long": "全新马自达 CX-5 与丰田 RAV4 均已完成换代，两者在定位上有所差异。CX-5 凭借精致的内饰和“人马一体”的操控体验，主打驾驶乐趣与豪华感；而 RAV4 则依靠高性能混合动力系统、宽敞的行李厢以及可靠的 E-Four 四驱系统，强调实用性与全能性。在价格相近的 4WD 车型中，CX-5 L 4WD 售价 430.65 万日元，RAV4 Adventure 售价 450 万日元，差价约 19.35 万日元。车身尺寸方面，CX-5 更长但更窄，更适合日本狭窄的停车位。内饰配置上，CX-5 标配真皮座椅、前排座椅通风、后排座椅加热、15.6 英寸中控屏及 BOSE 音响，豪华感超越同价位 RAV4。",
+    "highlights_zh": [
+      "CX-5 内饰更豪华",
+      "RAV4 混动系统高效",
+      "CX-5 车身更窄",
+      "价格相近"
+    ],
+    "entities": [
+      "马自达 CX-5 | Mazda CX-5",
+      "丰田 RAV4 | Toyota RAV4",
+      "混合动力",
+      "四驱系统",
+      "内饰"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/05090750/CX-5-RAV4.jpg?v=1785888472",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/05090750/CX-5-RAV4-600x400.jpg?v=1785888472",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31130805/20260730_SUBARU-BRZ_STI_05111-1-600x463.jpg?v=1785470887"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:18.321Z"
+  },
+  "https://www.motor1.com/features/803787/why-hood-ornaments-disappeared/": {
+    "title_zh": "引擎盖立标为何消失？",
+    "summary_short": "引擎盖立标曾是豪华车标志，因安全法规、防盗、空气动力学及审美变化而逐渐消失。",
+    "summary_long": "引擎盖立标曾是豪华车的标志性设计，如凯迪拉克的飞翼女神、捷豹的跃豹、奔驰的三叉星徽以及劳斯莱斯的欢庆女神。然而，随着安全法规对行人保护的严格要求、立标被盗问题频发、空气动力学优化需求以及消费者审美趋势的变化，这些精致的金属雕塑逐渐从现代汽车上消失。如今，汽车设计更注重整体造型和科技感，立标已成为历史。",
+    "highlights_zh": [
+      "安全法规要求行人保护",
+      "立标易被盗",
+      "空气动力学优化",
+      "审美转向简约"
+    ],
+    "entities": [
+      "凯迪拉克",
+      "捷豹",
+      "奔驰 | Mercedes-Benz",
+      "劳斯莱斯",
+      "引擎盖立标"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/MkgQQN/s1/what-happened-to-hood-ornaments.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:21.777Z"
+  },
+  "https://insideevs.com/news/803841/apter-prepares-first-customer-evs/": {
+    "title_zh": "历经多年延期，Aptera 终于准备生产客户车辆",
+    "summary_short": "Aptera 历经多年延期，终于准备生产首批 40 辆客户车，但交付时间仍不确定。",
+    "summary_long": "Aptera 在经历多年延期和不确定性后，终于准备生产首批 40 辆客户车辆。公司已订购车身、车架和悬挂部件，这些车辆将不再是测试车或原型车。部分车辆将交付给客户，但今年交付的可能性很小。Aptera 预计从十月起收到所有订购部件，并已储备足够生产 100 辆车的太阳能电池。然而，其他关键部件仍需在未来几个月内获取，具体细节未透露。公司资金不足，仍需完成测试和获得监管批准，因此尚未确定生产开始和首批交付的具体日期。尽管道路漫长，Aptera 在过去一年中一直在筹集资金、建造验证车辆并建立服务网络，逐步取得进展。",
+    "highlights_zh": [
+      "Aptera 订购首批 40 辆客户车部件",
+      "今年交付可能性很小",
+      "已备足 100 辆车的太阳能电池",
+      "资金和监管批准仍是挑战"
+    ],
+    "entities": [
+      "Aptera",
+      "太阳能电动汽车",
+      "生产",
+      "监管批准"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WQl6A/s1/2024-aptera-launch-edition.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:22.402Z"
+  },
+  "https://www.motor1.com/news/803838/smart-2-design-revealed-early/": {
+    "title_zh": "Smart #2 城市车通过街头壁画提前亮相",
+    "summary_short": "Smart #2 设计通过城市壁画提前曝光，紧凑电动双座车，将于巴黎车展首发。",
+    "summary_long": "Smart 通过在全球多个城市的巨型壁画提前展示了其新款城市车 Smart #2 的设计，该车是一款紧凑型电动双座车，预计在 2026 年 10 月的巴黎车展上正式亮相。壁画展示了接近量产的外观，延续了 Fortwo 的短悬垂和高车身比例，但整体更圆润、更厚实，并采用了贯穿式灯组。新车基于专用电动平台打造，旨在最大化内部空间，并体现了 Smart 的“视角转换”设计理念。",
+    "highlights_zh": [
+      "Smart #2 设计通过街头壁画提前曝光",
+      "紧凑电动双座车",
+      "贯穿式灯组",
+      "巴黎车展首发"
+    ],
+    "entities": [
+      "Smart #2",
+      "Smart",
+      "Fortwo",
+      "巴黎车展",
+      "电动平台"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/BXZoj6/s1/smart-2-street-mural-melbourne.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:25.351Z"
+  },
+  "https://www.motor1.com/news/803778/womans-sells-volkswagen-facebook/": {
+    "title_zh": "女子在 Facebook Marketplace 卖大众 Jetta，遭遇低报价和搭讪",
+    "summary_short": "女子在 Facebook Marketplace 卖 2010 款大众 Jetta，遭遇低报价和搭讪，视频引发热议。",
+    "summary_long": "一位女子在 Facebook Marketplace 上出售她的 2010 款大众 Jetta，标价 1500 美元，却收到了大量低报价和搭讪信息。她认为女性卖家在平台上会面临更多不认真的买家，而男性卖家则不会有这种经历。她的视频获得超过 37.7 万次观看，引发了对汽车销售中性别差异的讨论。",
+    "highlights_zh": [
+      "女子卖车遭遇低报价和搭讪",
+      "视频观看量超 37.7 万",
+      "引发性别差异讨论",
+      "标价 1500 美元"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "Jetta",
+      "Facebook Marketplace",
+      "性别差异"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/JONeeE/s1/woman-shares-what-it-s-like-trying-to-sell-her-2010-volkswagen-jetta-on-facebook-marketplace-as-a-girl.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:25.797Z"
+  },
+  "https://www.motor1.com/news/803819/toyota-gr-gt-v8-supercar-targa/": {
+    "title_zh": "丰田全新 V8 超级跑车可能极为稀有",
+    "summary_short": "丰田 GR GT 超级跑车或限量 500 台，与 LFA 相当，将推出硬顶版、Targa 版及高性能版。",
+    "summary_long": "丰田全新 GR GT 超级跑车可能限量生产约 500 台，使其稀有程度与雷克萨斯 LFA 相当。该车基于 GR GT3 赛车打造，采用中置引擎布局，研发成本高昂，但通过赛车项目实现了规模经济。丰田尚未公布售价，但预计将超过 20 万美元。除标准硬顶版外，还可能推出 Targa 版和更高性能版本。",
+    "highlights_zh": [
+      "限量 500 台",
+      "基于 GT3 赛车打造",
+      "预计售价超 20 万美元",
+      "将推 Targa 及高性能版"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "GR GT",
+      "雷克萨斯 | Lexus",
+      "LFA",
+      "超级跑车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/jlROQ7/s1/toyota-gr-gt.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:29.639Z"
+  },
+  "https://insideevs.com/news/803837/rivian-r2-double-shift-normal-illinois/": {
+    "title_zh": "Rivian R2 产线增加第二班次，加速迈向盈利",
+    "summary_short": "Rivian 为 R2 车型在伊利诺伊工厂增加第二班次，以提升产量并加速盈利进程。",
+    "summary_long": "美国电动汽车初创公司 Rivian 在 6 月初开始交付客户定制的 R2 车型后，计划在其伊利诺伊州 Normal 工厂为这款新车型增加第二班次。此举对这家规模尚小的电动汽车制造商意义重大，因为它使其更接近所有初创公司都渴望的目标：盈利。创始人兼 CEO RJ Scaringe 在最近的投资人电话会议上表示，Rivian 正与数百家供应商合作，确保他们有序提升产量，以保证生产顺利进行。第二班次将在第三季度末（9 月 30 日）前引入，届时产量将进一步扩大。目前尚不清楚 R2 装配线现有员工数量及新增员工数量，因为 Rivian 不再公布 Normal 工厂的员工人数。R2 是 Rivian 最小且最实惠的车型，为品牌开辟了更广泛的客户群。",
+    "highlights_zh": [
+      "Rivian 为 R2 增加第二班次",
+      "伊利诺伊工厂 Q3 末实施",
+      "加速盈利进程",
+      "R2 是最小最实惠车型"
+    ],
+    "entities": [
+      "Rivian",
+      "R2",
+      "伊利诺伊工厂",
+      "RJ Scaringe",
+      "盈利"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WEpNx/s1/rivian-r2-factory-assembly.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:29.874Z"
+  },
+  "https://www.motor1.com/news/803811/new-audi-q8-confirmed/": {
+    "title_zh": "奥迪确认新一代 Q8，继续推出轿跑 SUV",
+    "summary_short": "奥迪确认新一代 Q8 将作为轿跑 SUV 推出，对标宝马 X6，预计 2028 年前亮相。",
+    "summary_long": "奥迪 CEO Gernot Döllner 确认将推出新一代 Q8，作为 Q7 的轿跑风格版本，对标宝马 X6。尽管网络舆论对轿跑 SUV 多有批评，但市场表现证明其受欢迎。新一代 Q8 将在未来几年内发布，预计最早 2028 年亮相，可能采用全新设计语言。",
+    "highlights_zh": [
+      "奥迪确认新一代 Q8",
+      "对标宝马 X6",
+      "预计 2028 年前亮相",
+      "可能采用新设计语言"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "Q8",
+      "宝马 X6 | BMW X6",
+      "Q7",
+      "轿跑 SUV"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/Kb7R0N/s1/audi-rs-q8-performance-2024.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:33.196Z"
+  },
+  "https://insideevs.com/news/803824/oregon-ev-rebate-2026/": {
+    "title_zh": "俄勒冈州电动车补贴回归：最高可获 7500 美元",
+    "summary_short": "俄勒冈州重启电动车补贴，最高 7500 美元，弥补联邦税收抵免取消，新购和二手均适用。",
+    "summary_long": "俄勒冈州宣布重启电动车补贴计划，将于 8 月 25 日至 11 月 4 日期间接受申请。该计划为购买或租赁符合条件的电动车或插电混动车的居民和企业提供最高 7500 美元的补贴，以弥补联邦税收抵免取消的影响。新购和二手电动车均可享受，但补贴金额较往年有所降低。新购车辆方面，标准补贴为电动车 2000 美元、插电混动车 1500 美元，适用于售价低于 5 万美元的车辆；而 Charge Ahead 补贴则针对家庭收入在 5.1 万至 25.1 万美元之间的申请人，电动车可获 7500 美元，插电混动车可获 5000 美元。特斯拉 Model Y 等车型符合标准补贴和 Charge Ahead 补贴条件。",
+    "highlights_zh": [
+      "补贴申请 8 月 25 日启动",
+      "最高补贴 7500 美元",
+      "新购和二手均适用",
+      "特斯拉 Model Y 符合条件"
+    ],
+    "entities": [
+      "俄勒冈州",
+      "电动车补贴",
+      "特斯拉 | Tesla",
+      "Model Y",
+      "联邦税收抵免"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/pb3Aw1/s1/2024-chevy-equinox-ev-rs-awd.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:33.984Z"
+  },
+  "https://www.motor1.com/news/803598/nissan-us-sales-rise-global/": {
+    "title_zh": "日产美国战略见效：产量激增 24%，关税成本下降",
+    "summary_short": "日产全球销量下滑，但美国市场逆势增长，产量激增 24%，本地化生产降低关税影响。",
+    "summary_long": "日产 2026 年上半年全球销量同比下降 6.7%，产量下降 6.8%，但美国市场成为亮点，销量微增 0.3%，产量大幅增长 24.2%。通过将 Rogue、Pathfinder 和 Frontier 等车型的生产转移至美国，日产有效降低了关税和运输风险。北美地区现占日产全球销量的 40%以上，被视为公司的“动力源”。",
+    "highlights_zh": [
+      "全球销量降 6.7%",
+      "美国产量激增 24.2%",
+      "本地化生产降低关税风险",
+      "北美占全球销量超 40%"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Rogue",
+      "Pathfinder",
+      "Frontier",
+      "美国市场"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/2N43nK/s1/2027-nissan-frontier-sport-edition-package.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T15:32:36.736Z"
   }
 }
