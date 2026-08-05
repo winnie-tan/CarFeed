@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-08-04T15:38:53.126Z",
+    "generated_at": "2026-08-05T03:29:24.131Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 364,
-    "deepseek_untranslated_before_run": 36,
-    "newly_fetched_articles": 36,
-    "newly_fetched_untranslated": 36,
+    "deepseek_translated_before_run": 366,
+    "deepseek_untranslated_before_run": 34,
+    "newly_fetched_articles": 34,
+    "newly_fetched_untranslated": 34,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 36,
+    "translation_queue_count": 34,
     "translation_queue_preview": [
       {
-        "source": "The Drive",
-        "time": "2026.8.4",
-        "title": "Heated Seats Are the Number One Feature New Car Buyers Want",
-        "url": "https://www.thedrive.com/news/heated-seats-are-the-number-one-feature-new-car-buyers-want"
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "「SUZUKI×Springin'コンテスト」開催、テーマは「カレーのなかみ」…自由な発想でゲームを制作・応募",
+        "url": "https://response.jp/article/2026/08/05/414920.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "「スカイライン伝説」はここから!! 初代からハコスカまで名車を振り返る！ 歴代スカイラインの進化",
+        "url": "https://bestcarweb.jp/feature/column/1571312"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "「マツダさん、みんな待ってるよ」次世代ロータリースポーツの登場にファン期待、SNSでは議論飛び交う",
+        "url": "https://response.jp/article/2026/08/05/414939.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第825回",
+        "url": "https://bestcarweb.jp/feature/column/1592315"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "BMW『K1600』シリーズの1034台をリコール、火災のおそれ",
+        "url": "https://response.jp/article/2026/08/05/414933.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "VW「Premium Sound Edition」、T-Crossやゴルフに限定車…432万4000円から",
+        "url": "https://response.jp/article/2026/08/05/414934.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "アウディ『A2』がEVで復活へ！…“早すぎた名車”は電動化時代に成功できるか？",
+        "url": "https://response.jp/article/2026/08/05/414923.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "えっ!? よかれと思ってやっていたのに逆効果！ 実は愛車をダメにするうっかり習慣4選",
+        "url": "https://bestcarweb.jp/feature/column/1598014"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "オリックスなど3社と資本業務提携、整備プラットフォーム加速…Seibii",
+        "url": "https://response.jp/article/2026/08/05/414924.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "ガソリン車は約40万円安い!! ホンダ フリードはe:HEVとどっちが得か",
+        "url": "https://bestcarweb.jp/feature/column/1585493"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "グリーン水素で還元鉄を試作、日本初成功…JFEスチールとNEDOが鉄鋼脱炭素へ前進",
+        "url": "https://response.jp/article/2026/08/05/414937.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "スカニアの509台をリコール、方向指示器に不具合",
+        "url": "https://response.jp/article/2026/08/05/414929.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "スバルの国内生産17％減、海外は10.2％増 上半期実績",
+        "url": "https://response.jp/article/2026/08/05/414935.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "トヨタのフルサイズSUV『セコイア』に改良新型、「トレイルハンター」新設定…米国発表",
+        "url": "https://response.jp/article/2026/08/05/414938.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.5",
+        "title": "パーキングケア365、工事用駐車場トラブル対応を拡充…DEFRAG WORKS",
+        "url": "https://response.jp/article/2026/08/05/414932.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "ハリアーが選ばれ続けるワケって!? 新型RAV4と新型CX-5はどうなんだ!?!?",
+        "url": "https://bestcarweb.jp/feature/column/1593996"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "一大事の予感、、、北米マツダのCEOが声を大にする危機感は本社へのSOSなのか!?!?",
+        "url": "https://bestcarweb.jp/feature/column/1563305"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.5",
+        "title": "低燃費、耐摩耗、氷雪上性能を高次元で追求!! トーヨータイヤからトラック・バス用スタッドレスタイヤ「M976」登場",
+        "url": "https://bestcarweb.jp/fullload/1593274"
       },
       {
         "source": "Motor1",
-        "time": "2026.8.4",
-        "title": "Mercedes-AMG's New Sedan Just Claimed A Nürburgring Record: 'Fastest Car In Its Class'",
-        "url": "https://www.motor1.com/news/803737/new-mercedes-cla-nurburgring-record/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.4",
-        "title": "900 HP With a Factory Warranty: Mopar Supercharger Packages Are Back on the Ram Rumble Bee",
-        "url": "https://www.thedrive.com/news/900-hp-with-a-factory-warranty-mopar-supercharger-packages-are-back-on-the-ram-rumble-bee"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.4",
-        "title": "Chevy Bolt New vs. Old Review: One Big Step Forward but Many Tiny Steps Back",
-        "url": "https://www.thedrive.com/car-reviews/2027-chevrolet-bolt-new-vs-old-review"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.4",
-        "title": "Costco Is Offering Big Discounts On New Infiniti SUVs",
-        "url": "https://www.motor1.com/news/803722/costco-infiniti-discount/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.4",
-        "title": "Honda Just Had Its Best July Since Before the Pandemic: TDS",
-        "url": "https://www.thedrive.com/news/honda-just-had-its-best-july-since-before-the-pandemic-tds"
+        "time": "2026.8.5",
+        "title": "Man Goes To Firestone. Then He Catches The Worker In A Lie: ‘Why Are You Even Looking Under My Hood?’",
+        "url": "https://www.motor1.com/news/803773/firestone-alignment/"
       },
       {
         "source": "InsideEVs",
         "time": "2026.8.4",
-        "title": "EVgo Is Adding Over 500 New Fast Chargers Where Millions Of Americans Already Shop",
-        "url": "https://insideevs.com/news/803714/evgo-expansion-us-shopping-centers/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "「これ市販車なんだよな…」トヨタの新型スーパーカー『GR GT』に再び脚光！ 欧州公開で日本のファンも「乗ってみたい」と注目",
-        "url": "https://response.jp/article/2026/08/04/414916.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "『N-BOX』で同乗者のTV視聴とナビ操作を可能に、ブリッツ「テレビナビジャンパー」ディーラーOPナビにも適合",
-        "url": "https://response.jp/article/2026/08/04/414912.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "『フェアレディZ』の内装材をアップサイクル、初の公式ライセンス商品発売…河西工業",
-        "url": "https://response.jp/article/2026/08/04/414899.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "【セミナー見逃し配信】※プレミアム・法人会員限定 ドイツの自動車産業の業績は政府支援で回復するか？",
-        "url": "https://response.jp/article/2026/08/04/414887.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "【ポルシェ マカン エレクトリック GTS 新型試乗】内燃機関のないBEVに「GTS」の味が出せるのか？",
-        "url": "https://response.jp/article/2026/08/04/414913.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.4",
-        "title": "【月額35万～60万円／業務委託】『Hot-Dog PRESS』電子版・『TRYラーメン大賞』の編集／営業メンバーを募集",
-        "url": "https://bestcarweb.jp/feature/column/1597935"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "dotD、データ社会推進協議会に正会員加入…自動車分野のデータ連携を強化",
-        "url": "https://response.jp/article/2026/08/04/414898.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "GPU対応エッジAI向けHMI「TPC-B620」発表、製造現場のデータ主権を確保…アドバンテック",
-        "url": "https://response.jp/article/2026/08/04/414908.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.4",
-        "title": "Tesla Driver Gets New Tires Installed. Then He Takes A Closer Look At The Fine Print On Them: 'Just Drive In Reverse'",
-        "url": "https://www.motor1.com/news/803574/tesla-tires-inside-out/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "アウディの新型コンパクトEV『A2 eトロン』、プロトタイプの写真公開…空力対策で電費向上",
-        "url": "https://response.jp/article/2026/08/04/414891.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.4",
-        "title": "クルマ好きなら一度は乗れ!! 人生観ならぬ“クルマ観”が変わるミッドシップ4選",
-        "url": "https://bestcarweb.jp/feature/column/1592242"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "ジェイテクト、熊本地震の被災地支援で500万円寄付",
-        "url": "https://response.jp/article/2026/08/04/414903.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.4",
-        "title": "スーパーチャージャー搭載、カワサキ『Z H2 SE』2027年モデル発売へ 価格は247万5000円",
-        "url": "https://response.jp/article/2026/08/04/414911.html"
+        "title": "Lucid Delays Midsize EV Launch To 2027 As Part Of Turnaround Plan",
+        "url": "https://insideevs.com/news/803792/lucid-midsize-ev-production-2027/"
       }
     ],
     "event_name": "schedule",
-    "run_id": "30925176709",
-    "sha": "545788ed5f0a579b2d98be2e91950d8a95061b7f",
-    "completed_at": "2026-08-04T15:40:00.951Z",
+    "run_id": "30972380743",
+    "sha": "faf70e2a5cf87f24c4e2a78870a22641184be973",
+    "completed_at": "2026-08-05T03:30:28.525Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 36,
-    "queued_articles": 36,
-    "processed": 36,
-    "started_at": "2026-08-04T15:38:53.746Z",
-    "finished_at": "2026-08-04T15:40:00.645Z",
+    "scoped_articles": 34,
+    "queued_articles": 34,
+    "processed": 34,
+    "started_at": "2026-08-05T03:29:24.499Z",
+    "finished_at": "2026-08-05T03:30:28.231Z",
     "success": true,
     "error": ""
   }

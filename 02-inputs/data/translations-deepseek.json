@@ -102578,5 +102578,807 @@
     ],
     "translation_source": "deepseek:deepseek-chat",
     "translated_at": "2026-08-04T15:40:00.620Z"
+  },
+  "https://bestcarweb.jp/feature/column/1571312": {
+    "title_zh": "日产 Skyline 传奇：从初代到第三代名车回顾",
+    "summary_short": "日产 Skyline 多次面临停产传闻，CEO 确认开发新一代。回顾初代至第三代经典车型的进化史。",
+    "summary_long": "日产 Skyline 多次传出停产危机，但 CEO 已明确表示将开发下一代车型，令车迷安心。本文回顾了 Skyline 的辉煌历史，从 1957 年富士精密工业（后为王子汽车）推出的初代 Prince Skyline 开始，到第三代车型。初代车型采用美式风格设计，配备半单体壳车身和后轮德迪翁轴，1.5L 发动机输出 60 马力，最高时速 125km/h，为当时国产车最快。1962 年推出的 Skyline Sport 是日本首款特种车，由米开朗基罗设计，造型优美。",
+    "highlights_zh": [
+      "日产 CEO 确认开发新一代 Skyline",
+      "初代 Prince Skyline 于 1957 年…",
+      "日本首款特种车 Skyline Sport 诞生",
+      "初代车型最高时速 125km/h 创纪录"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Skyline",
+      "Prince Skyline",
+      "Skyline Sport",
+      "德迪翁轴"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06170824/00_3rd_SP01880035.jpg?v=1783325305",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/06170824/00_3rd_SP01880035-600x400.jpg?v=1783325305",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29143852/18fec5dbaa748c8f76532fe1a45cbb38-600x400.jpg?v=1782711533"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:29.026Z"
+  },
+  "https://response.jp/article/2026/08/05/414920.html": {
+    "title_zh": "SUZUKI×Springin'竞赛举办，主题为“咖喱的内涵”",
+    "summary_short": "铃木与 Springin'举办第三届竞赛，主题“咖喱的内涵”，鼓励用编程应用创作游戏。",
+    "summary_long": "铃木与株式会社しくみデザイン共同举办第三届 SUZUKI×Springin'竞赛，主题定为“咖喱的内涵”。铃木自 1980 年代起为印度籍员工提供餐饮，并于 2024 年 1 月引入正宗印度素食料理食盒。竞赛鼓励参与者使用无需编程知识的应用“Springin'”创作游戏，关注咖喱的食材、生产者、运输车辆以及背后的饮食文化。",
+    "highlights_zh": [
+      "铃木与 Springin'联合举办第三届竞赛",
+      "主题为“咖喱的内涵”",
+      "无需编程知识即可参赛",
+      "提供学习漫画和制作素材"
+    ],
+    "entities": [
+      "铃木 | Suzuki",
+      "Springin'",
+      "咖喱",
+      "印度素食料理"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232808.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232808.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:32.906Z"
+  },
+  "https://response.jp/article/2026/08/05/414939.html": {
+    "title_zh": "马自达次世代转子跑车备受期待，SNS 热议不断",
+    "summary_short": "马自达 ICONIC SP 概念车引发转子跑车复活热议，粉丝期待 RX-9 量产，采用转子增程混动系统。",
+    "summary_long": "自 2023 年日本移动出行展公开 ICONIC SP 概念车以来，马自达转子跑车复活的话题持续升温。该车被视为 RX-7 的实质继任者，可能命名为 RX-9。ICONIC SP 采用低矮宽体设计，长 4180mm，宽 1850mm，高 1150mm，造型致敬历代 RX-7。动力方面，搭载 2 转子发动机作为发电机的串联混动系统，综合最大功率 365 马力。尽管曾有开发停滞传闻，但目前仍在推进量产化。",
+    "highlights_zh": [
+      "ICONIC SP 概念车引发转子跑车复活热议",
+      "或命名 RX-9",
+      "转子增程混动",
+      "量产开发仍在推进中"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "ICONIC SP",
+      "RX-7",
+      "RX-9",
+      "转子发动机"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232925.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232925.jpg",
+      "https://response.jp/imgs/fill2/2232928.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:32.966Z"
+  },
+  "https://response.jp/article/2026/08/05/414933.html": {
+    "title_zh": "宝马 K1600 系列召回 1034 辆，存在火灾隐患",
+    "summary_short": "宝马 K1600 系列因倒车单元密封不良，存在火灾风险，召回 1034 辆。",
+    "summary_long": "宝马公司于 7 月 30 日向日本国土交通省提交召回申请，涉及 K1600GT、K1600GTL 和 K1600B 三款车型，共计 1034 辆。问题源于倒车单元制造工艺不当，导致密封性不足，水分可能侵入内部，引发电气触点腐蚀，进而导致过热和电子电路热损伤，最严重时可能引发火灾。宝马将免费更换所有受影响车辆的倒车单元，目前确认 5 起故障，但无事故报告。召回车辆生产日期为 2016 年 11 月 14 日至 2024 年 12 月 5 日。",
+    "highlights_zh": [
+      "宝马 K1600 系列召回 1034 辆",
+      "倒车单元密封不良有火灾风险",
+      "免费更换倒车单元",
+      "无事故报告"
+    ],
+    "entities": [
+      "宝马 | BMW",
+      "K1600GT",
+      "K1600GTL",
+      "K1600B",
+      "召回"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232852.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232852.jpg",
+      "https://response.jp/imgs/fill2/2232849.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:36.467Z"
+  },
+  "https://bestcarweb.jp/feature/column/1592315": {
+    "title_zh": "车名猜谜：这辆名车、珍车，你知道吗？第 825 回",
+    "summary_short": "本田第三代 Vigor，1989 年推出，与 Inspire 为姐妹车，1992 年改款后车名消失，概念由 Saber 继承。",
+    "summary_long": "本期车名猜谜介绍的是本田第三代 Vigor，于 1989 年全面改款后登场，是 Accord Inspire/Inspire 的姐妹车，定位为高级轿车。Vigor 在贝尔诺店销售，而 Accord Inspire 在克里奥店销售。其长轴距、短悬垂的轮廓呈现出类似 FR 车的美感。1992 年进行小改款，车身扩大至 3 号牌尺寸，并新增 2.5 升直列五缸发动机车型。后来因车型整合，Vigor 车名消失，但其基本概念由 1995 年上市的 Saber（Inspire 的兄弟车）继承。",
+    "highlights_zh": [
+      "1989 年推出的第三代本田 Vigor",
+      "与 Inspire 为姐妹车",
+      "1992 年改款",
+      "车名消失"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Vigor",
+      "Inspire",
+      "Saber"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31093137/main_am198909_vigr11_01001H.jpg?v=1785457898",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31093106/main_SP00310010_1991-600x400.jpg?v=1785457868",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/30093604/main_19831104_01_04-600x400.jpg?v=1785371765"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:37.360Z"
+  },
+  "https://response.jp/article/2026/08/05/414934.html": {
+    "title_zh": "大众发布 Premium Sound Edition 限量版，T-Cross 和 Golf 等车型起价 432.4 万日元",
+    "summary_short": "大众日本推出 Premium Sound Edition 限量版，覆盖 T-Cross、Golf 等四款车型，标配高级音响，起价 432.4 万日元。",
+    "summary_long": "大众日本推出限量版车型 Premium Sound Edition，适用于 T-Cross、Golf、Golf Variant 和 Passat。该特别版标配高级音响系统，旨在提升日常驾驶的音质体验。外观上，T-Cross、Golf 和 Golf Variant 采用黑色装饰和专属轮毂，而 Passat 首次采用“米斯特拉尔灰”内饰色，营造明亮开放的空间。限量数量分别为 T-Cross 300 台、Golf 500 台、Golf Variant 300 台、Passat 160 台，起售价 432.4 万日元。",
+    "highlights_zh": [
+      "大众日本推出 Premium Sound Editi…",
+      "覆盖 T-Cross、Golf、Golf Varia…",
+      "标配高级音响",
+      "Passat 首次采用米斯特拉尔灰内饰"
+    ],
+    "entities": [
+      "大众 | Volkswagen",
+      "T-Cross",
+      "Golf",
+      "Golf Variant",
+      "Passat"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232901.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232901.jpg",
+      "https://response.jp/imgs/fill2/2232905.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:39.911Z"
+  },
+  "https://response.jp/article/2026/08/05/414923.html": {
+    "title_zh": "奥迪 A2 以电动车身份复活，超前名车能否在电动化时代成功？",
+    "summary_short": "奥迪 A2 以电动车身份复活，原型车已开始测试，能否在电动化时代取得成功？",
+    "summary_long": "奥迪正在开发全新 A2 e-tron，原型车已开始测试。这款车继承了初代 A2 的设计理念，采用铝制空间框架和低风阻设计，兼顾环保与实用性。初代 A2 因成本过高而商业失败，但在电动化时代，其理念可能更受欢迎。",
+    "highlights_zh": [
+      "奥迪 A2 e-tron 原型车开始测试",
+      "继承初代 A2 的铝制空间框架设计",
+      "初代 A2 因成本过高而商业失败",
+      "电动化时代或迎来转机"
+    ],
+    "entities": [
+      "奥迪 | Audi",
+      "A2 e-tron"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2231407.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2231407.jpg",
+      "https://response.jp/imgs/fill2/2232525.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:40.149Z"
+  },
+  "https://response.jp/article/2026/08/05/414924.html": {
+    "title_zh": "Seibii 与欧力士等三社资本业务合作，加速构建整备平台",
+    "summary_short": "Seibii 与欧力士、东京世纪、出光兴产达成资本业务合作，旨在强化事业基础，加速构建面向车辆运营企业的行业共通整备平台。",
+    "summary_long": "Seibii 于 8 月 4 日宣布，已与欧力士、东京世纪、出光兴产三家公司启动资本业务合作。通过合作，Seibii 将强化其事业基础，并加速构建面向所有利用车辆开展业务的企业的行业共通“整备平台”。当前，汽车租赁、租车、汽车共享、二手车销售、物流等业务持续扩大，但整备行业面临整备士不足、整备工厂减少、整备质量参差不齐以及数字化进程滞后等结构性挑战。此次合作旨在通过整合各方资源，推动整备行业的数字化转型，提升服务效率与质量。",
+    "highlights_zh": [
+      "Seibii 与欧力士等三社资本业务合作",
+      "加速构建行业共通整备平台",
+      "应对整备士不足等结构性挑战",
+      "推动整备行业数字化转型"
+    ],
+    "entities": [
+      "Seibii",
+      "欧力士",
+      "东京世纪",
+      "出光兴产",
+      "整备平台"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232813.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232813.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:44.095Z"
+  },
+  "https://bestcarweb.jp/feature/column/1598014": {
+    "title_zh": "惊！以为是爱车之举，实则适得其反！4 个毁车坏习惯",
+    "summary_short": "看似为爱车好，实则伤车！下坡挂 N 挡等 4 个习惯，反而增加油耗、损害变速箱，快改掉。",
+    "summary_long": "日常用车中，一些自以为对车好的习惯，可能正在悄悄损害爱车。例如，下坡时挂 N 挡滑行，本意是省油，但自动挡车型在 D 挡松油门时，发动机几乎不喷油，而挂 N 挡反而会让发动机怠速运转，增加油耗，还可能损伤变速箱。此外，还有哪些看似合理实则伤车的行为？本文列举了 4 个常见误区，帮助车主避开这些毁车雷区。",
+    "highlights_zh": [
+      "下坡挂 N 挡滑行更费油",
+      "D 挡松油门几乎不喷油",
+      "N 挡怠速反而耗油",
+      "4 个毁车习惯要避开"
+    ],
+    "entities": [
+      "自动挡",
+      "变速箱",
+      "油耗",
+      "驾驶习惯"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/08/04172200/01ec904d15f24a81d7fcb2aa058834b7.jpeg.jpg?v=1785831721",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29143852/18fec5dbaa748c8f76532fe1a45cbb38-600x400.jpg?v=1782711533",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28192635/8089e50294910c6cb163e5cb54ad137b-15-600x400.jpg?v=1785234396"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:44.436Z"
+  },
+  "https://response.jp/article/2026/08/05/414937.html": {
+    "title_zh": "日本首次成功利用绿色氢生产还原铁，JFE 钢铁与 NEDO 推进钢铁脱碳",
+    "summary_short": "JFE 钢铁与 NEDO 等合作，在日本首次成功利用绿色氢试制还原铁，助力钢铁行业脱碳。",
+    "summary_long": "NEDO、JFE 钢铁、山梨氢能公司等机构联合宣布，在日本首次成功利用绿色氢生产还原铁。此举是 NEDO 绿色创新基金项目“制铁过程中的氢利用”的一部分。钢铁行业是工业部门中最大的二氧化碳排放源，占日本总排放量的约 14%，因此亟需减排。该成果标志着日本在钢铁脱碳领域迈出重要一步。",
+    "highlights_zh": [
+      "日本首次成功利用绿色氢生产还原铁",
+      "JFE 钢铁与 NEDO 等合作推进",
+      "钢铁行业占日本 CO2 排放约 14%",
+      "助力钢铁行业脱碳"
+    ],
+    "entities": [
+      "JFE 钢铁",
+      "NEDO",
+      "绿色氢",
+      "还原铁",
+      "钢铁脱碳"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232913.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232913.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:47.524Z"
+  },
+  "https://bestcarweb.jp/feature/column/1585493": {
+    "title_zh": "汽油版便宜约 40 万日元！本田 Freed 该选 e:HEV 还是汽油版？",
+    "summary_short": "本田 Freed 汽油版与 e:HEV 差价约 40 万日元，油耗差异能否回本？",
+    "summary_long": "本田 Freed 提供 1.5L 汽油版和 2 电机混动 e:HEV 版本，同配置下价格差约 40 万日元。以 AIR EX 为例，汽油版 281.27 万日元，e:HEV 321.2 万日元，差价 39.93 万日元。WLTC 油耗分别为 16.4km/L 和 25.4km/L，按年行驶 1 万公里、油价 180 日元/L 计算，e:HEV 每年节省约 3.89 万日元，回本需约 10 年。若年行驶 2 万公里，回本缩短至 5 年；若仅 5000 公里，则需 20 年以上。因此，行驶里程多者选 e:HEV 更划算，而日常短途使用则汽油版性价比更高。此外，e:HEV 电机提供平顺强劲的动力和静谧性，对 MPV 而言是额外优势。",
+    "highlights_zh": [
+      "同配置差价约 40 万日元",
+      "e:HEV 年省油费约 3.9 万日元",
+      "年跑 2 万公里 5 年回本",
+      "e:HEV 动力平顺且静谧"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Freed",
+      "e:HEV",
+      "AIR EX"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/23155314/HONDA-FREED_051_1.jpg?v=1784789596",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/23155314/HONDA-FREED_051_1-600x400.jpg?v=1784789596",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29143852/18fec5dbaa748c8f76532fe1a45cbb38-600x400.jpg?v=1782711533"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:47.760Z"
+  },
+  "https://response.jp/article/2026/08/05/414929.html": {
+    "title_zh": "斯堪尼亚召回 509 辆卡车，转向指示灯存在缺陷",
+    "summary_short": "斯堪尼亚日本召回 509 辆 LPG/RS 系列卡车，因侧转向灯电路接线不当，可能影响警示功能。",
+    "summary_long": "斯堪尼亚日本公司于 7 月 30 日向国土交通省提交召回申请，涉及 509 辆 LPG/RS 系列卡车。缺陷在于侧转向指示灯的电源电路接线不符合规范，未通过车身中央电气单元而直接连接至车身控制台，可能导致车辆前后转向灯不亮时，驾驶员警示功能失效，不符合安全标准。目前尚无故障或事故报告。修复措施为重新布线至中央电气单元。",
+    "highlights_zh": [
+      "召回 509 辆 LPG/RS 系列卡车",
+      "侧转向灯电路接线不当",
+      "警示功能可能失效",
+      "无故障或事故报告"
+    ],
+    "entities": [
+      "斯堪尼亚",
+      "LPG/RS 系列卡车",
+      "转向指示灯",
+      "召回"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232848.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232848.jpg",
+      "https://response.jp/feature/img/bnr_PC_voice.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:50.328Z"
+  },
+  "https://response.jp/article/2026/08/05/414935.html": {
+    "title_zh": "斯巴鲁上半年全球产量下降 6.8%，海外产量增长 10.2%",
+    "summary_short": "斯巴鲁 2026 年上半年全球产量同比下降 6.8%，国内产量降 17%，海外产量增 10.2%。",
+    "summary_long": "斯巴鲁公布 2026 年上半年（1-6 月）生产、国内销售及出口数据。全球产量为 43 万 5818 辆，同比下降 6.8%，为六个半年来首次下滑。国内产量为 24 万 3324 辆，同比减少 17.0%，为两个半年来首次负增长；海外产量为 19 万 2494 辆，同比增长 10.2%，为两个半年来首次增长。国内销量为 4 万 9941 辆，同比减少 10.8%，其中注册车销量 4 万 2230 辆，下降 12.5%，轻型车销量 7711 辆，微降 0.2%。",
+    "highlights_zh": [
+      "全球产量同比降 6.8%",
+      "国内产量降 17%",
+      "海外产量增 10.2%",
+      "国内销量降 10.8%"
+    ],
+    "entities": [
+      "斯巴鲁 | Subaru"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232593.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232593.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:50.825Z"
+  },
+  "https://response.jp/article/2026/08/05/414938.html": {
+    "title_zh": "丰田全尺寸 SUV Sequoia 改款，新增 Trail Hunter 版",
+    "summary_short": "丰田美版 Sequoia 改款，新增 Trail Hunter 越野版，搭载最新安全与多媒体系统。",
+    "summary_long": "丰田美国部门发布了全尺寸 SUV Sequoia 的改款车型，采用新设计，并新增 Trail Hunter 越野套件。新车搭载丰田 Safety Sense 4.0 和最新的多媒体系统，配备 14 英寸屏幕、AT&T 5G 连接和行车记录仪。数字钥匙功能增强，支持 Apple、Google 和 Samsung 钱包应用。Trail Hunter 版基于 SR5，配备米其林 LTX Trail 轮胎、Old Man Emu 悬挂、前拖车钩和底盘护板，提升越野能力。",
+    "highlights_zh": [
+      "新增 Trail Hunter 越野版",
+      "搭载 Safety Sense 4.0",
+      "14 英寸屏+5G 连接",
+      "数字钥匙支持多平台"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "Sequoia",
+      "Trail Hunter",
+      "Safety Sense 4.0",
+      "越野"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232915.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232915.jpg",
+      "https://response.jp/imgs/fill2/2232921.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:53.501Z"
+  },
+  "https://response.jp/article/2026/08/05/414932.html": {
+    "title_zh": "帕金凯尔 365 扩充工地停车场故障应对服务",
+    "summary_short": "DEFRAG WORKS 扩充帕金凯尔 365 服务，标准化工地停车场小规模故障处理流程，并建立多方共享机制。",
+    "summary_long": "DEFRAG WORKS 宣布，自 2026 年 8 月起，将扩充其建设现场辅助服务“现场 365”中的“帕金凯尔 365”服务，以更好地应对工地停车场的各类故障。此次扩充主要针对车挡、混凝土块、围栏等设施的破损等小规模问题，将处理流程标准化，包括从受理、状况确认、联系相关人员、修理及恢复原状，直至完成应对。同时，公司还将逐步建立一套运营体系，使现场负责人、管理部门及经营层能够共享故障处理进展和目的，而不仅仅依赖现场人员单独应对。",
+    "highlights_zh": [
+      "扩充工地停车场故障应对服务",
+      "标准化小规模故障处理流程",
+      "建立多方共享应对机制",
+      "2026 年 8 月起实施"
+    ],
+    "entities": [
+      "DEFRAG WORKS",
+      "现场 365",
+      "帕金凯尔 365",
+      "工地停车场"
+    ],
+    "gallery_images": [
+      "https://response.jp/imgs/ogp_f/2232900.jpg",
+      "https://response.jp/imgs/p/hZgYd07SyqGxXeKSdNx7_YRJ30T7QkNERUZH/2232900.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:54.517Z"
+  },
+  "https://bestcarweb.jp/feature/column/1593996": {
+    "title_zh": "哈利亚为何持续热销？全新 RAV4 与 CX-5 表现如何？",
+    "summary_short": "中型 SUV 市场，丰田哈利亚稳居榜首，RAV4 与 CX-5 紧随其后，哈利亚凭借品牌力与精致设计胜出。",
+    "summary_long": "在热门 SUV 中，中型 SUV 因空间宽敞而备受关注。丰田哈利亚销量领先，超越 RAV4 和 CX-5。其成功源于强大的品牌认知度、成熟优雅的设计，以及宽敞实用的内部空间。此外，进口车价格上涨，使哈利亚在 400-500 万日元区间显得更具性价比。户外热潮退去后，豪华 SUV 需求回升，也助推了哈利亚的销量。RAV4 则保持实用性和越野性能，提供多种驾驶模式，满足户外爱好者需求。",
+    "highlights_zh": [
+      "哈利亚品牌力强",
+      "RAV4 空间实用",
+      "进口车涨价",
+      "豪华 SUV 需求回升"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "哈利亚",
+      "RAV4",
+      "马自达 | Mazda",
+      "CX-5"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31125450/00_kabe_MsizeSUV_head.jpg?v=1785470091",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/31125450/00_kabe_MsizeSUV_head-600x401.jpg?v=1785470091",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29143852/18fec5dbaa748c8f76532fe1a45cbb38-600x400.jpg?v=1782711533"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:57.425Z"
+  },
+  "https://bestcarweb.jp/feature/column/1563305": {
+    "title_zh": "北美马自达 CEO 公开表达品牌身份危机，疑似向总部发出 SOS",
+    "summary_short": "马自达北美 CEO 公开表示品牌身份模糊，担忧长期发展，或暗示总部需调整战略。",
+    "summary_long": "马自达北美公司 CEO 汤姆·唐纳利在年度经销商会议上坦言，公司面临的最大长期挑战是品牌身份问题。他指出，当被问及马自达代表什么时，人们会给出十种不同答案，这种模糊性让他夜不能寐。这一罕见的公开表态可能被视为对日本总部的警示，暗示需要更清晰的品牌定位和战略支持。",
+    "highlights_zh": [
+      "马自达北美 CEO 公开承认品牌身份模糊",
+      "称消费者对马自达品牌认知不一",
+      "担忧长期发展",
+      "或向总部发出战略调整信号"
+    ],
+    "entities": [
+      "马自达 | Mazda",
+      "北美马自达 | Mazda North American Operations",
+      "汤姆·唐纳利",
+      "品牌身份"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29143852/18fec5dbaa748c8f76532fe1a45cbb38.jpg?v=1782711533",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/06/29143852/18fec5dbaa748c8f76532fe1a45cbb38-600x400.jpg?v=1782711533",
+      "https://img.bestcarweb.jp/wp-content/uploads/2026/07/28192635/8089e50294910c6cb163e5cb54ad137b-15-600x400.jpg?v=1785234396"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:29:58.285Z"
+  },
+  "https://bestcarweb.jp/fullload/1593274": {
+    "title_zh": "东洋轮胎推出卡车巴士用冬季胎 M976",
+    "summary_short": "东洋轮胎推出卡车巴士用冬季胎 M976，兼顾低油耗、耐磨与冰雪性能，2026 年 9 月上市。",
+    "summary_long": "东洋轮胎推出卡车巴士用冬季胎 M976，该产品注重低油耗与低维护性能，计划于 2026 年 9 月上市。M976 通过独特的橡胶材料技术和胎面花纹设计，提升了低油耗性能和耐磨性，同时增强了冰雪路面性能。开发中采用了东洋轮胎的纳米平衡技术，将特殊碳填料均匀分散，有效抑制能量损失，滚动阻力较前代 M966 降低 5%，耐磨性能提升 7%。",
+    "highlights_zh": [
+      "低油耗性能提升",
+      "耐磨性能提升 7%",
+      "冰雪路面性能增强",
+      "2026 年 9 月上市"
+    ],
+    "entities": [
+      "东洋轮胎",
+      "M976",
+      "M966",
+      "纳米平衡技术",
+      "卡车巴士用轮胎"
+    ],
+    "gallery_images": [
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/08/31112300/M9766-1024x743.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/30144037/00-727042_v4.jpg",
+      "https://img.bestcarweb.jp/wp-content/uploads/sites/4/2026/07/29162116/00_AR5I4803-1024x683.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:00.814Z"
+  },
+  "https://www.motor1.com/news/803773/firestone-alignment/": {
+    "title_zh": "男子去 Firestone 做四轮定位，却遭工人谎报维修项目",
+    "summary_short": "男子去 Firestone 做四轮定位，工人却推荐多项已完成的维修，引发质疑。",
+    "summary_long": "一名男子将车送到 Firestone 进行四轮定位，但工人却推荐了多项不必要的维修，其中一些项目其实早已完成。男子怀疑店家试图欺骗顾客，并质疑工人为何在定位时打开引擎盖。此事在 TikTok 上引发热议，提醒车主在维修时保持警惕。",
+    "highlights_zh": [
+      "男子去 Firestone 做定位",
+      "部分维修项目已完成",
+      "男子质疑工人为何打开引擎盖",
+      "事件在 TikTok 上引发热议"
+    ],
+    "entities": [
+      "Firestone",
+      "四轮定位",
+      "维修欺诈",
+      "TikTok"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ojJee7/s1/man-goes-to-firestone-for-alignment.-then-he-catches-the-worker-in-a-lie.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:01.771Z"
+  },
+  "https://insideevs.com/news/803792/lucid-midsize-ev-production-2027/": {
+    "title_zh": "Lucid 将中型电动车发布推迟至 2027 年作为转型计划的一部分",
+    "summary_short": "Lucid 将中型电动车 Cosmos 发布推迟至 2027 年初，以确保质量，避免重蹈 Air 和 Gravity 的覆辙。",
+    "summary_long": "Lucid Motors 首席执行官 Silvio Napoli 在第二季度财报电话会议上宣布，其更实惠的中型电动车将推迟至 2027 年初投产，而非原计划的 2026 年底。此举是公司全面业务审查的一部分，该审查已导致大规模裁员和高管层改组。Cosmos 电动车定价低于 5 万美元，对于扩大销量和增加收入至关重要。Napoli 强调，工厂仍在建设中，公司继续测试原型并完善供应链，不会急于将关键车型推向市场，以避免重蹈 Air 和 Gravity 在质量特别是软件问题上的覆辙。",
+    "highlights_zh": [
+      "Lucid 中型电动车推迟至 2027 年初投产",
+      "CEO 称不会重蹈质量覆辙",
+      "Cosmos 定价低于 5 万美元",
+      "公司进行业务审查并裁员"
+    ],
+    "entities": [
+      "Lucid",
+      "Cosmos",
+      "Air",
+      "Gravity",
+      "中型电动车"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/W8K9l6/s1/lucid-cosmos-and-earth.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:04.210Z"
+  },
+  "https://www.motor1.com/news/803745/toyota-lifetime-oil-change-policy/": {
+    "title_zh": "女子在丰田经销商处常规保养，两小时后终身保修被取消",
+    "summary_short": "德州女子在丰田经销商处保养，两小时后终身保修被取消，引发对终身服务条款的质疑。",
+    "summary_long": "德州女子 Mallory 在 Lithia Toyota 经销商处为已故母亲购买的车辆进行常规保养时，发现其“终身换油套餐”被经销商单方面取消。该套餐是母亲生前购买的，Mallory 一直代为使用。事件引发对终身服务条款的讨论，经销商的行为受到质疑。",
+    "highlights_zh": [
+      "德州女子保养时发现终身保修被取消",
+      "套餐为已故母亲购买",
+      "经销商行为引发对终身服务条款的质疑"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "终身保修",
+      "经销商",
+      "保养"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/mMzLLj/s1/woman-goes-to-toyota-dealership-for-routine-service.-then-a-new-policy-costs-her-3-hours.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:04.910Z"
+  },
+  "https://www.thedrive.com/news/midnight-club-5-axed-by-rockstar-because-it-couldnt-measure-up-to-gta-dev-says": {
+    "title_zh": "《午夜俱乐部 5》被砍内幕：前开发者称因无法超越 GTA",
+    "summary_short": "前开发者透露《午夜俱乐部 5》因无法超越 GTA 而被取消，系列在《午夜俱乐部：洛杉矶》后终结。",
+    "summary_long": "据前 Rockstar 圣地亚哥高级设计师 Kris Roberts 透露，《午夜俱乐部 5》曾启动开发，地图设定在伦敦，但因与纽约总部的冲突以及无法达到 GTA 的高度而被取消。该系列在 2008 年的《午夜俱乐部：洛杉矶》后便再无续作，成为 GTA 阴影下的牺牲品。",
+    "highlights_zh": [
+      "《午夜俱乐部 5》曾开发",
+      "因与总部冲突及无法超越 GTA 被砍",
+      "前设计师透露系列终结内幕",
+      "《午夜俱乐部：洛杉矶》成绝唱"
+    ],
+    "entities": [
+      "Rockstar",
+      "午夜俱乐部 | Midnight Club",
+      "侠盗猎车手 | GTA",
+      "伦敦"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/midnight_club_los_angeles_corvette_vs_280z-wallpaper-2560x1600-1.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/wp14078641-midnight-club-los-angeles-wallpapers.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2023/08/24/IMG_2867-scaled.jpg?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:07.092Z"
+  },
+  "https://www.motor1.com/features/803776/why-some-cars-dont-have-rear-wipers/": {
+    "title_zh": "为什么有些车没有后雨刷？",
+    "summary_short": "后雨刷并非所有车都需要，空气动力学是关键。SUV、掀背车和旅行车需要，而轿车则无需。",
+    "summary_long": "后雨刷的配备与否并非出于成本或造型考虑，而是取决于空气动力学。轿车车顶气流沿后窗和后备箱盖平滑流过，后备箱盖起到分离器作用，将雨水和污物推离后窗，因此后窗在恶劣天气下也能保持相对清洁。而 SUV、掀背车和旅行车由于车身造型不同，气流在后部形成涡流，导致后窗更容易沾染污物，因此需要后雨刷来保证视野清晰。",
+    "highlights_zh": [
+      "后雨刷并非成本问题",
+      "轿车后备箱盖自然分离雨水",
+      "SUV 和掀背车因气流涡流",
+      "设计选择影响驾驶视野与安全"
+    ],
+    "entities": [
+      "SUV",
+      "掀背车",
+      "旅行车",
+      "轿车",
+      "空气动力学"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/y2ljjY/s1/why-don-t-some-cars-have-rear-wipers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:08.491Z"
+  },
+  "https://insideevs.com/news/803781/pilot-gm-evgo-charging-stations/": {
+    "title_zh": "Pilot、通用汽车和 EVgo 现已拥有 300 个电动汽车充电站",
+    "summary_short": "Pilot、通用汽车与 EVgo 合作，在全美建成 300 个充电站，配备 1300 个充电桩，平均评分 9.41。",
+    "summary_long": "Pilot 公司、通用汽车和 EVgo 自 2022 年起合作，在全美建设类似加油站的充电站，提供 24/7 服务、顶棚、卫生间和餐饮设施。目前已有 300 个站点、1300 个充电桩，平均 PlugShare 评分 9.41。这些充电站不仅设施齐全，还提供免下车充电位，方便拖车用户。",
+    "highlights_zh": [
+      "300 个站点",
+      "平均评分 9.41/10",
+      "24/7 开放",
+      "提供免下车充电位"
+    ],
+    "entities": [
+      "Pilot",
+      "通用汽车 | GM",
+      "EVgo",
+      "充电网络",
+      "PlugShare"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/ZnzBB3/s1/pilot-gm-evgo-charger.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:10.046Z"
+  },
+  "https://www.thedrive.com/news/2027-ford-f-150-ditches-2-7l-ecoboost-adds-v8-back-to-top-trims": {
+    "title_zh": "2027 款福特 F-150 弃用 2.7L EcoBoost，顶级配置回归 V8",
+    "summary_short": "2027 款福特 F-150 将弃用 2.7L EcoBoost，改用 3.0L EcoBoost，并让 5.0L Coyote V8 回归 King Ranch 和 Platinum 车型。",
+    "summary_long": "2027 款福特 F-150 将进行动力系统调整，弃用 2.7L EcoBoost 发动机，转而采用 3.0L EcoBoost 作为新基础引擎，该发动机在福特其他车型上可输出 400 至 418 马力，扭矩高达 440 磅-英尺，相比旧款 2.7L 的 325 马力和 400 磅-英尺有显著提升。同时，5.0L Coyote V8 发动机将重新提供给 King Ranch 和 Platinum 顶级车型，此前这两款车型仅提供 3.5L EcoBoost 及其混动版本。这一变化可能是对竞争对手（如 Ram 恢复 Hemi 和通用汽车强化 V8）的回应，但福特仍将保留其增压 V6 发动机。",
+    "highlights_zh": [
+      "2027 款 F-150 弃用 2.7L EcoBo…",
+      "5.0L Coyote V8 回归 King Ran…",
+      "新 3.0L EcoBoost 动力更强",
+      "福特保留增压 V6"
+    ],
+    "entities": [
+      "福特 | Ford",
+      "F-150",
+      "EcoBoost",
+      "Coyote V8",
+      "King Ranch"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/25_FRD_F15_64400_FRDNTRKK0042.avif",
+      "https://www.thedrive.com/wp-content/uploads/2024/07/Screen-Shot-2024-07-08-at-5.25.45-PM.png?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2025/06/Ram-HD-Warranty-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:12.548Z"
+  },
+  "https://insideevs.com/news/803753/porsche-718-electric-confirmed-ceo/": {
+    "title_zh": "保时捷 CEO 确认电动 718 仍在推进",
+    "summary_short": "保时捷 CEO 确认电动 718 Boxster 和 Cayman 仍在开发，预计 2025 年底推出，以吸引新买家。",
+    "summary_long": "保时捷新任 CEO Michael Leiters 确认电动 718 Boxster 和 Cayman 仍在开发中，预计 2025 年底推出。尽管许多汽车制造商缩减电动计划，保时捷仍坚持推进，认为这是经济上最佳且出色的车型。718 传统上为保时捷吸引新买家，定位低于 911。2025 年保时捷全球交付近 28 万辆，其中 22.2%为纯电，12.1%为插混，欧洲市场电动化比例达 57.9%。目前保时捷已有 Taycan、Macan Electric 和 Cayenne Electric 三款电动车型，电动 718 将作为第四款，丰富其高端电动产品线。",
+    "highlights_zh": [
+      "保时捷 CEO 确认电动 718 仍在开发",
+      "预计 2025 年底推出",
+      "2025 年欧洲交付 57.9%为电动化车型",
+      "电动 718 将成第四款电动车型"
+    ],
+    "entities": [
+      "保时捷 | Porsche",
+      "718",
+      "Boxster",
+      "Cayman",
+      "Taycan"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/0eO0Aj/s1/porsche-718-ev-rendering.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:13.862Z"
+  },
+  "https://www.motor1.com/news/803767/july-auto-sales-winners-losers/": {
+    "title_zh": "7 月汽车销量结果：赢家与输家",
+    "summary_short": "7 月汽车销量显示，经济型车和混动车受青睐，电动车下滑，马自达 3 等车型销量大增。",
+    "summary_long": "随着 2026 年进入下半年，汽车市场呈现明显趋势。由于油价高企且新车均价约 5 万美元，消费者转向更实惠的车型，经济型车销量同比大幅增长，如马自达 3 年销量增长 28%。混合动力车因省油而受欢迎，缺乏混动车型的品牌则表现不佳。纯电动车销量则遭遇显著下滑。目前仅有福特、现代、马自达等少数车企公布月度数据。",
+    "highlights_zh": [
+      "经济型车销量大增",
+      "混动车受青睐",
+      "纯电动车销量下滑",
+      "马自达 3 年销量增 28%"
+    ],
+    "entities": [
+      "福特",
+      "现代 | Hyundai",
+      "马自达 | Mazda",
+      "马自达 3 | Mazda3",
+      "伊兰特"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WEPPj/s1/july-auto-sales-winners-and-losers.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:16.208Z"
+  },
+  "https://www.thedrive.com/news/the-freedom-car-aims-the-right-idea-at-the-wrong-villain": {
+    "title_zh": "“自由汽车”概念：方向正确，但目标错误",
+    "summary_short": "美国交通部长提出“自由汽车”概念，旨在保护消费者选择权，但被指针对错误对象，可能适得其反。",
+    "summary_long": "美国交通部长肖恩·达菲在致六位参议员的信中提出“自由汽车”概念，旨在保护消费者选择权，但该概念被批评为短视甚至倒退。达菲在附录 A 中将其列为“保护消费者选择”下的一个想法，但并未具体说明如何实现。批评者认为，该概念可能针对错误的“反派”，未能真正解决美国司机面临的自由问题。",
+    "highlights_zh": [
+      "“自由汽车”概念获赞方向正确",
+      "但被指针对错误对象",
+      "交通部长致信参议员提出该概念",
+      "概念被批短视甚至倒退"
+    ],
+    "entities": [
+      "肖恩·达菲",
+      "自由汽车 | Freedom Car",
+      "交通部长",
+      "消费者选择"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/freedom-car.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2024/04/01/APC_denver24_ava-1.jpg?crop=1",
+      "https://www.thedrive.com/wp-content/uploads/2025/06/Ram-HD-Warranty-Hero-1.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:17.052Z"
+  },
+  "https://insideevs.com/news/803763/toyota-next-generation-hybrid-batteries-2027/": {
+    "title_zh": "丰田下一代混动电池：成本更低，性能更强",
+    "summary_short": "丰田将推出新一代混动电池，性能提升成本降低，并扩大产能以应对需求。",
+    "summary_long": "丰田在财报电话会议上宣布，将于明年开始推出新一代高压电池，用于混合动力车型。新电池将在日本现有生产线改造后生产，产能可满足约 60 万辆汽车。丰田表示，新电池将提供更好的性能，同时降低成本。尽管丰田未透露新电池的具体化学成分，但此举表明其继续押注混动技术。今年上半年，丰田全球销量（含雷克萨斯）下降 3%，约为 500 万辆，为两年来首次下滑。",
+    "highlights_zh": [
+      "新一代混动电池明年推出",
+      "性能提升",
+      "日本生产线改造",
+      "丰田上半年销量下滑 3%"
+    ],
+    "entities": [
+      "丰田 | Toyota",
+      "雷克萨斯 | Lexus",
+      "RAV4",
+      "锂离子电池",
+      "镍氢电池"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/KbMyVq/s1/toyota-hybrid-synergy-drive.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:19.604Z"
+  },
+  "https://www.motor1.com/news/803752/honda-prelude-passes-moose-test/": {
+    "title_zh": "本田 Prelude 挑战著名麋鹿测试",
+    "summary_short": "本田 Prelude 在麋鹿测试中表现出色，得益于思域 Type R 的悬挂部件，操控稳定，动态性能优异。",
+    "summary_long": "西班牙媒体 km77 对本田 Prelude 进行了著名的麋鹿测试，该测试模拟紧急避障场景，考验车辆的悬挂和操控稳定性。Prelude 凭借源自思域 Type R 的悬挂部件，在测试中表现出色，无论何种驾驶模式，都能保持车身稳定，顺利通过测试。这证明了 Prelude 具备出色的动态驾驶性能，也让人期待未来更运动的 Si 版本。",
+    "highlights_zh": [
+      "麋鹿测试通过",
+      "悬挂源自思域 Type R",
+      "多种模式均表现稳定",
+      "期待 Si 版本"
+    ],
+    "entities": [
+      "本田 | Honda",
+      "Prelude",
+      "思域 Type R",
+      "麋鹿测试"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/xq3vxp/s1/honda-prelude-takes-the-moose-test.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:20.897Z"
+  },
+  "https://www.thedrive.com/news/my-2026-dodge-charger-test-car-bricked-itself-three-times-in-five-days": {
+    "title_zh": "2026 款道奇 Charger 测试车五天三次死机",
+    "summary_short": "2026 款道奇 Charger 测试车五天三次死机，Stellantis 耗时四周才查明原因，但仍有疑问未解。",
+    "summary_long": "在明尼苏达州的高速公路上，测试的 2026 款道奇 Charger Scat Pack 突然无法换挡，仪表盘提示“Shift to P then desired Gear”，重启后恢复。五天之内，该车三次出现类似故障，最终被送回底特律检修。Stellantis 耗时四周才找到问题，但未完全解释清楚。",
+    "highlights_zh": [
+      "高速上突然无法换挡",
+      "重启三次才恢复",
+      "五天三次死机",
+      "送回底特律检修"
+    ],
+    "entities": [
+      "道奇 | Dodge",
+      "Charger",
+      "Stellantis"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/untitled-0117-e1785859054590.jpg",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/untitled-0120.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2026/08/untitled-0043.jpg?strip=all"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:22.700Z"
+  },
+  "https://insideevs.com/news/803631/nissan-electric-camper-van-relax/": {
+    "title_zh": "日产推出电动露营车 Relax，续航 408 英里",
+    "summary_short": "日产与德国 Eifelland 合作推出 Interstar-e Relax 电动露营车，87 千瓦时电池，WLTP 续航 408 英里，可睡 4 人。",
+    "summary_long": "日产与德国露营车公司 Eifelland 合作，基于 Interstar-e 电动厢式车打造了 Relax 露营车。其 87 千瓦时电池组提供 WLTP 标准下 408 英里的续航，足以满足大多数露营需求，同时还能为车内设备供电，无需外接电源。该车搭载单电机，最大功率 143 马力，扭矩 221 磅-英尺，性能并非其重点。车内配备小型厨房、双人床及床下储物空间，前排座椅可旋转面向厨房，后排座椅可沿滑轨移动，营造出比许多城市公寓更舒适宽敞的居住空间。",
+    "highlights_zh": [
+      "87 千瓦时电池",
+      "支持 130 千瓦快充",
+      "单电机 143 马力",
+      "车内配厨房、双人床"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Interstar-e",
+      "Eifelland",
+      "露营车",
+      "续航"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/6Z87wZ/s1/nissan-interstar-e-relax.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:24.659Z"
+  },
+  "https://www.motor1.com/news/803741/2027-ram-1500-non-hybrid-v8-hemi/": {
+    "title_zh": "Ram Hemi V8 将取消混动系统及自动启停",
+    "summary_short": "Ram 确认 2027 款 1500 将取消 5.7 升 Hemi V8 的 eTorque 混动系统，并移除自动启停功能。",
+    "summary_long": "Ram 已确认将在 2027 款 Ram 1500 上取消 5.7 升 Hemi V8 发动机的 eTorque 混动系统，同时移除自动启停功能。这一变化源于联邦政府放宽了排放标准，导致混动技术的激励措施被取消。非混动版 V8 发动机可输出 395 马力和 410 磅-英尺扭矩，预计今年秋季开始交付。2027 款 Ram 1500 起售价为 42,375 美元，较之前上涨 350 美元。",
+    "highlights_zh": [
+      "2027 款 Ram 1500 取消 eTorque…",
+      "非混动 V8 输出 395 马力/410 磅-英尺",
+      "自动启停功能被移除",
+      "起售价 42"
+    ],
+    "entities": [
+      "Ram",
+      "Ram 1500",
+      "Hemi V8",
+      "eTorque 混动系统",
+      "自动启停"
+    ],
+    "gallery_images": [
+      "https://cdn.motor1.com/images/mgl/3WE2K6/s1/2027-ram-1500-rumble-bee.jpg"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:26.158Z"
+  },
+  "https://www.thedrive.com/news/the-man-who-gave-us-the-juke-will-take-over-as-nissans-design-boss": {
+    "title_zh": "日产设计总监换帅：Juke 之父接任",
+    "summary_short": "日产任命 Juke 外观设计师 Matthew Weaver 为全球设计总监，接替任职近 40 年的 Alfonso Albaisa。",
+    "summary_long": "日产宣布资深设计师 Matthew Weaver 将于 10 月接替 Alfonso Albaisa，成为全球设计执行总监。Weaver 在日产工作 24 年，以设计风格独特的 Juke 外观而闻名。Albaisa 在任期间主导了新一代 Z 等车型，并设计了英菲尼迪 Prototype 9 和 10。此次人事变动正值日产寻求转型之际，新 CEO Ivan Espinosa 也是汽车爱好者，未来可能推出更多激动人心的车型。",
+    "highlights_zh": [
+      "Matthew Weaver 接任日产全球设计总监",
+      "Juke 外观设计师",
+      "Albaisa 卸任",
+      "新 CEO 或推动更多性能车型"
+    ],
+    "entities": [
+      "日产 | Nissan",
+      "Juke",
+      "Matthew Weaver",
+      "Alfonso Albaisa",
+      "英菲尼迪"
+    ],
+    "gallery_images": [
+      "https://www.thedrive.com/wp-content/uploads/2026/08/Nissan-Juke-Hero.jpg",
+      "https://www.thedrive.com/wp-content/uploads/images-by-url-td/content/2018/08/2015_nissan_juke_10-e1535512930201.jpg?strip=all",
+      "https://www.thedrive.com/wp-content/uploads/2024/07/Screen-Shot-2024-07-08-at-5.25.45-PM.png?crop=1"
+    ],
+    "translation_source": "deepseek:deepseek-chat",
+    "translated_at": "2026-08-05T03:30:28.207Z"
   }
 }
