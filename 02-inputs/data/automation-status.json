@@ -1,140 +1,140 @@
 {
   "workflow": {
-    "generated_at": "2026-08-05T15:31:25.436Z",
+    "generated_at": "2026-08-06T03:33:26.964Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 366,
-    "deepseek_untranslated_before_run": 34,
-    "newly_fetched_articles": 34,
-    "newly_fetched_untranslated": 34,
+    "deepseek_translated_before_run": 365,
+    "deepseek_untranslated_before_run": 35,
+    "newly_fetched_articles": 35,
+    "newly_fetched_untranslated": 35,
     "backlog_untranslated": 1,
     "translation_scope": "new_only",
-    "translation_queue_count": 34,
+    "translation_queue_count": 35,
     "translation_queue_preview": [
       {
-        "source": "Motor1",
-        "time": "2026.8.5",
-        "title": "Ram's Rumble Bee SRT Can Make Over 900 HP With New Supercharger Kit",
-        "url": "https://www.motor1.com/news/803895/2027-ram-1500-rumble-bee-supercharger-kit-aftermarket/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.5",
-        "title": "This Spanish Hypercar Puts The Driver Ahead Of The Software",
-        "url": "https://www.motor1.com/news/803879/hispano-suiza-carmen-sagrera-photos/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.5",
-        "title": "Dear Automakers: Get Your Ads Out of Our Cars",
-        "url": "https://www.thedrive.com/news/dear-automakers-get-your-ads-out-of-our-cars"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.5",
-        "title": "The Man Behind The Nissan Juke Is Now Designing Nissan's Future",
-        "url": "https://www.motor1.com/news/803868/matthew-weaver-becomes-nissan-global/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.5",
-        "title": "Owners Paid Millions To Live In Aston Martin's Miami Tower. Now They Claim It's Cracking",
-        "url": "https://www.motor1.com/news/803795/aston-martin-tower-miami-cracks-leaks-claims/"
-      },
-      {
-        "source": "The Drive",
-        "time": "2026.8.5",
-        "title": "Lucid Pumps Brakes on Cosmos Midsize SUV Launch Amid Cost-Cutting Campaign: TDS",
-        "url": "https://www.thedrive.com/news/lucid-pumps-brakes-on-cosmos-midsize-suv-launch-amid-cost-cutting-campaign-tds"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.5",
-        "title": "Ram 1500 Owners, Check Your Seatbelts: 1.5 Million Trucks Recalled",
-        "url": "https://www.motor1.com/news/803861/ram-1500-recall-over-rear/"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.5",
-        "title": "'That Situation Is Not Acceptable.' Mazda Laments Falling Sales Of Its Big SUVs",
-        "url": "https://www.motor1.com/news/803846/situation-not-acceptable-mazda-falling-suv-sales/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "「クロスオーバー」を駆使してスピーカーの性能を引き出す！「イン・カー・リスニング学」入門 Part4「チューニング編」",
-        "url": "https://response.jp/article/2026/08/05/414971.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "9/11申込締切 フィジカルAI実装の実態と5年後・10年後～ロボタクシーからAIネイティブカーへ、自動車産業の勝者は誰か～",
-        "url": "https://response.jp/article/2026/08/05/414960.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "BMWグループ、次世代デジタルコックピットおよび自動運転向け主要チップをクアルコムから調達",
-        "url": "https://response.jp/article/2026/08/05/414958.html"
-      },
-      {
-        "source": "Motor1",
-        "time": "2026.8.5",
-        "title": "Customer Brings Car Into Shop. Then The Mechanic Pulls Something Shocking Out Of It: 'Car Surgery'",
-        "url": "https://www.motor1.com/news/803592/accessible-parking-sign-under-car/"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "e-Mobility Power、熊本県内の急速充電スポット無償開放を8月17日まで延長",
-        "url": "https://response.jp/article/2026/08/05/414968.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "HKS、レクサス『GX550』用大口径スポーツマフラー「リーガマックス・トレイルマスター」発売",
-        "url": "https://response.jp/article/2026/08/05/414969.html"
+        "source": "Best Car Web",
+        "time": "2026.8.6",
+        "title": "【バス運転士日誌】運転士をしながらどうやって取材してるの？",
+        "url": "https://bestcarweb.jp/busmagazine/1577313"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "ウォッシャー液は水道水で代用しちゃダメ!? 意外と知らない正しい使い方",
-        "url": "https://bestcarweb.jp/feature/column/1591817"
+        "time": "2026.8.6",
+        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第826回",
+        "url": "https://bestcarweb.jp/feature/column/1592316"
       },
       {
         "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "キア『PV5』、NECのモビリティサービス実証に導入…地域交通課題の解決へ",
-        "url": "https://response.jp/article/2026/08/05/414955.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "クルマ旅の滞在予約サービス「MOBILITY LOUNGE」開始、空き駐車場や未活用スペースを滞在拠点として活用…CCC",
-        "url": "https://response.jp/article/2026/08/05/414964.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "ナビタイムジャパン、熊本地震の被災地を支援…走行実績マップや有料機能を無料開放",
-        "url": "https://response.jp/article/2026/08/05/414956.html"
+        "time": "2026.8.6",
+        "title": "＜新連載＞［極上カーオーディオへの誘い］ドアを超高級スピーカーへと作り替えるという“極上”の魅力を解説！",
+        "url": "https://response.jp/article/2026/08/06/414992.html"
       },
       {
         "source": "Best Car Web",
-        "time": "2026.8.5",
-        "title": "フォルクスワーゲンID. Buzz限定車登場！ 70台だけの1周年記念モデルを見逃すな!!",
-        "url": "https://bestcarweb.jp/news/1595220"
+        "time": "2026.8.6",
+        "title": "2列目はアルヴェル超え!? レクサス史上最大級SUVが豪華すぎる件",
+        "url": "https://bestcarweb.jp/feature/column/1571030"
       },
       {
         "source": "Response.jp",
-        "time": "2026.8.5",
-        "title": "ブリッドのシート型スマホスタンド「織戸茉彩」モデル、直筆サイン入りパッケージで100個限定発売",
-        "url": "https://response.jp/article/2026/08/05/414965.html"
+        "time": "2026.8.6",
+        "title": "BYDの軽EV『ラッコ』、発売1週間で741台を販売 東福寺社長「12月末までに1万台に」",
+        "url": "https://response.jp/article/2026/08/06/414977.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "EVバッテリー試験を一元管理、「Power HILプラットフォームソフトウェア」販売開始…アンリツ",
+        "url": "https://response.jp/article/2026/08/06/414984.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "アウディ『Q3』、標準装備を大幅強化しデジタル機能も充実…欧州2027年モデル",
+        "url": "https://response.jp/article/2026/08/06/414990.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "エコ１チャレンジカップ2026、中・高校生が手作り電気自動車で競う…日産・東京都市大・自技会が共催",
+        "url": "https://response.jp/article/2026/08/06/414982.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.6",
+        "title": "かつてはフィット一強の時代もあったけれど……! 実は今なお熾烈な争いが続くコンパクトカーTOP3の最新勢力図！",
+        "url": "https://bestcarweb.jp/feature/column/1594352"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "ジェイテクト、三井精機工業の全株式を売却",
+        "url": "https://response.jp/article/2026/08/06/414976.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "スズキの世界販売台数が10.3％増、過去最高 上半期実績",
+        "url": "https://response.jp/article/2026/08/06/414987.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.6",
+        "title": "セカンドカーにエブリイ最強説!? 何でもこなす万能サブ機の活用術とは!?",
+        "url": "https://bestcarweb.jp/feature/column/1578437"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "ソフトバンクロボティクス、搬送ロボット「PUDU T300」向けカゴ台車牽引ジグ発売",
+        "url": "https://response.jp/article/2026/08/06/414993.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "ダイハツの生産が12.8％増、認証不正の反動 上半期実績",
+        "url": "https://response.jp/article/2026/08/06/414983.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "トヨタ紡織、熊本地震被災地へ物資支援と600万円寄付を実施",
+        "url": "https://response.jp/article/2026/08/06/414991.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "ポルシェ「AHEADコレクション2026」、全20アイテム展開…壁掛けボンネットは103万7300円",
+        "url": "https://response.jp/article/2026/08/06/414986.html"
+      },
+      {
+        "source": "Response.jp",
+        "time": "2026.8.6",
+        "title": "ホンダ『ZR-V』と『シビック』の1万4730台をリコール、座席が保安基準に不適合",
+        "url": "https://response.jp/article/2026/08/06/414989.html"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.6",
+        "title": "乗用車・SUVの電動化と重量増に対応する新モデル！ UDトラックスが「クオンGK車載用ショートキャブトラクタ」を設定!!",
+        "url": "https://bestcarweb.jp/fullload/1595185"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.6",
+        "title": "予算15万円の分岐点！ 街乗りNAの「G」か走りのターボ「G-T」か？ ルーミーのエンジン選びの正解",
+        "url": "https://bestcarweb.jp/news/1573799"
+      },
+      {
+        "source": "Best Car Web",
+        "time": "2026.8.6",
+        "title": "大きく高くなって何が変わった!? 日産新旧キックスをサイズ、価格、装備で比較",
+        "url": "https://bestcarweb.jp/feature/column/1592593"
       }
     ],
     "event_name": "schedule",
-    "run_id": "31020694896",
-    "sha": "3b43c95ed227cff43d1058762950c552765fa095",
-    "completed_at": "2026-08-05T15:32:37.059Z",
+    "run_id": "31068741374",
+    "sha": "d6d131af4d70d4ffe8d3926ce62547ff10c2499f",
+    "completed_at": "2026-08-06T03:34:41.612Z",
     "fetch_outcome": "success",
     "translate_outcome": "success",
     "build_outcome": "success",
@@ -145,11 +145,11 @@
   "translation": {
     "model": "deepseek-chat",
     "targets_file": "/tmp/carfeed-translation-targets.json",
-    "scoped_articles": 34,
-    "queued_articles": 34,
-    "processed": 34,
-    "started_at": "2026-08-05T15:31:25.992Z",
-    "finished_at": "2026-08-05T15:32:36.761Z",
+    "scoped_articles": 35,
+    "queued_articles": 35,
+    "processed": 35,
+    "started_at": "2026-08-06T03:33:27.301Z",
+    "finished_at": "2026-08-06T03:34:41.307Z",
     "success": true,
     "error": ""
   }
