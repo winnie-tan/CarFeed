@@ -1,146 +1,32 @@
 {
   "workflow": {
-    "generated_at": "2026-08-06T03:33:26.964Z",
+    "generated_at": "2026-08-06T15:31:48.690Z",
     "articles_in_feed": 400,
-    "deepseek_translated_before_run": 365,
-    "deepseek_untranslated_before_run": 35,
-    "newly_fetched_articles": 35,
-    "newly_fetched_untranslated": 35,
-    "backlog_untranslated": 1,
+    "deepseek_translated_before_run": 399,
+    "deepseek_untranslated_before_run": 1,
+    "newly_fetched_articles": 400,
+    "newly_fetched_untranslated": 1,
+    "backlog_untranslated": 0,
     "translation_scope": "new_only",
-    "translation_queue_count": 35,
+    "translation_queue_count": 1,
     "translation_queue_preview": [
       {
         "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "【バス運転士日誌】運転士をしながらどうやって取材してるの？",
-        "url": "https://bestcarweb.jp/busmagazine/1577313"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "【車名当てクイズ】この名車、珍車、ご存じですか？ 第826回",
-        "url": "https://bestcarweb.jp/feature/column/1592316"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "＜新連載＞［極上カーオーディオへの誘い］ドアを超高級スピーカーへと作り替えるという“極上”の魅力を解説！",
-        "url": "https://response.jp/article/2026/08/06/414992.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "2列目はアルヴェル超え!? レクサス史上最大級SUVが豪華すぎる件",
-        "url": "https://bestcarweb.jp/feature/column/1571030"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "BYDの軽EV『ラッコ』、発売1週間で741台を販売 東福寺社長「12月末までに1万台に」",
-        "url": "https://response.jp/article/2026/08/06/414977.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "EVバッテリー試験を一元管理、「Power HILプラットフォームソフトウェア」販売開始…アンリツ",
-        "url": "https://response.jp/article/2026/08/06/414984.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "アウディ『Q3』、標準装備を大幅強化しデジタル機能も充実…欧州2027年モデル",
-        "url": "https://response.jp/article/2026/08/06/414990.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "エコ１チャレンジカップ2026、中・高校生が手作り電気自動車で競う…日産・東京都市大・自技会が共催",
-        "url": "https://response.jp/article/2026/08/06/414982.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "かつてはフィット一強の時代もあったけれど……! 実は今なお熾烈な争いが続くコンパクトカーTOP3の最新勢力図！",
-        "url": "https://bestcarweb.jp/feature/column/1594352"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "ジェイテクト、三井精機工業の全株式を売却",
-        "url": "https://response.jp/article/2026/08/06/414976.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "スズキの世界販売台数が10.3％増、過去最高 上半期実績",
-        "url": "https://response.jp/article/2026/08/06/414987.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "セカンドカーにエブリイ最強説!? 何でもこなす万能サブ機の活用術とは!?",
-        "url": "https://bestcarweb.jp/feature/column/1578437"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "ソフトバンクロボティクス、搬送ロボット「PUDU T300」向けカゴ台車牽引ジグ発売",
-        "url": "https://response.jp/article/2026/08/06/414993.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "ダイハツの生産が12.8％増、認証不正の反動 上半期実績",
-        "url": "https://response.jp/article/2026/08/06/414983.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "トヨタ紡織、熊本地震被災地へ物資支援と600万円寄付を実施",
-        "url": "https://response.jp/article/2026/08/06/414991.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "ポルシェ「AHEADコレクション2026」、全20アイテム展開…壁掛けボンネットは103万7300円",
-        "url": "https://response.jp/article/2026/08/06/414986.html"
-      },
-      {
-        "source": "Response.jp",
-        "time": "2026.8.6",
-        "title": "ホンダ『ZR-V』と『シビック』の1万4730台をリコール、座席が保安基準に不適合",
-        "url": "https://response.jp/article/2026/08/06/414989.html"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "乗用車・SUVの電動化と重量増に対応する新モデル！ UDトラックスが「クオンGK車載用ショートキャブトラクタ」を設定!!",
-        "url": "https://bestcarweb.jp/fullload/1595185"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "予算15万円の分岐点！ 街乗りNAの「G」か走りのターボ「G-T」か？ ルーミーのエンジン選びの正解",
-        "url": "https://bestcarweb.jp/news/1573799"
-      },
-      {
-        "source": "Best Car Web",
-        "time": "2026.8.6",
-        "title": "大きく高くなって何が変わった!? 日産新旧キックスをサイズ、価格、装備で比較",
-        "url": "https://bestcarweb.jp/feature/column/1592593"
+        "time": "2026.8.4",
+        "title": "トラックの「アンダーラン防止装置」が機能しない!? 国際規格の欠陥で年間死者数は数百人に上る可能性も",
+        "url": "https://bestcarweb.jp/fullload/1593267"
       }
     ],
     "event_name": "schedule",
-    "run_id": "31068741374",
-    "sha": "d6d131af4d70d4ffe8d3926ce62547ff10c2499f",
-    "completed_at": "2026-08-06T03:34:41.612Z",
-    "fetch_outcome": "success",
-    "translate_outcome": "success",
-    "build_outcome": "success",
+    "run_id": "31116235070",
+    "sha": "60b2f201414c4ef0586e6b90270559f2f6065230",
+    "completed_at": "2026-08-06T15:31:49.151Z",
+    "fetch_outcome": "skipped",
+    "translate_outcome": "skipped",
+    "build_outcome": "skipped",
     "deepseek_translated_after_run": 399,
     "deepseek_untranslated_after_run": 1,
-    "result": "success"
+    "result": "failed"
   },
   "translation": {
     "model": "deepseek-chat",
