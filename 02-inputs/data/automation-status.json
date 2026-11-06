@@ -1,6 +1,6 @@
 {
   "workflow": {
-    "generated_at": "2026-11-05T20:42:23.689Z",
+    "generated_at": "2026-11-06T06:35:50.934Z",
     "articles_in_feed": 400,
     "deepseek_translated_before_run": 399,
     "deepseek_untranslated_before_run": 1,
@@ -18,9 +18,9 @@
       }
     ],
     "event_name": "schedule",
-    "run_id": "42105825275",
-    "sha": "0bed2ec7363763ee771de242d6eee617df95385e",
-    "completed_at": "2026-11-05T20:42:23.794Z",
+    "run_id": "42175421831",
+    "sha": "a67ca77d26d1e638634433441a4386997397d99b",
+    "completed_at": "2026-11-06T06:35:51.007Z",
     "fetch_outcome": "skipped",
     "translate_outcome": "skipped",
     "build_outcome": "skipped",
